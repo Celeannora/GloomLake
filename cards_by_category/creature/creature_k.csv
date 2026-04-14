@@ -1,0 +1,459 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+"Kaervek, the Punisher",{1}{B}{B},3.0,Legendary Creature — Human Warlock,"Whenever you commit a crime, exile up to one target black card from your graveyard and copy it. You may cast the copy. If you do, you lose 2 life. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime. Copies of permanent spells become tokens.)",B,B,rare,POTJ,Outlaws of Thunder Junction Promos,92p,3,3,,
+"Kaervek, the Punisher",{1}{B}{B},3.0,Legendary Creature — Human Warlock,"Whenever you commit a crime, exile up to one target black card from your graveyard and copy it. You may cast the copy. If you do, you lose 2 life. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime. Copies of permanent spells become tokens.)",B,B,rare,POTJ,Outlaws of Thunder Junction Promos,92s,3,3,,
+"Kaervek, the Punisher",{1}{B}{B},3.0,Legendary Creature — Human Warlock,"Whenever you commit a crime, exile up to one target black card from your graveyard and copy it. You may cast the copy. If you do, you lose 2 life. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime. Copies of permanent spells become tokens.)",B,B,rare,OTJ,Outlaws of Thunder Junction,92,3,3,,
+"Kaervek, the Punisher",{1}{B}{B},3.0,Legendary Creature — Human Warlock,"Whenever you commit a crime, exile up to one target black card from your graveyard and copy it. You may cast the copy. If you do, you lose 2 life. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime. Copies of permanent spells become tokens.)",B,B,rare,OTJ,Outlaws of Thunder Junction,289,3,3,,
+"Kain, Traitorous Dragoon",{2}{B},3.0,Legendary Creature — Human Knight,"Jump — During your turn, Kain has flying.
+Whenever Kain deals combat damage to a player, that player gains control of Kain. If they do, you draw that many cards, create that many tapped Treasure tokens, then lose that much life.",B,B,rare,FIN,Final Fantasy,449,2,4,,Jump;Treasure
+"Kain, Traitorous Dragoon",{2}{B},3.0,Legendary Creature — Human Knight,"Jump — During your turn, Kain has flying.
+Whenever Kain deals combat damage to a player, that player gains control of Kain. If they do, you draw that many cards, create that many tapped Treasure tokens, then lose that much life.",B,B,rare,FIN,Final Fantasy,316,2,4,,Jump;Treasure
+"Kain, Traitorous Dragoon",{2}{B},3.0,Legendary Creature — Human Knight,"Jump — During your turn, Kain has flying.
+Whenever Kain deals combat damage to a player, that player gains control of Kain. If they do, you draw that many cards, create that many tapped Treasure tokens, then lose that much life.",B,B,rare,PFIN,Final Fantasy Promos,105s,2,4,,Jump;Treasure
+"Kain, Traitorous Dragoon",{2}{B},3.0,Legendary Creature — Human Knight,"Jump — During your turn, Kain has flying.
+Whenever Kain deals combat damage to a player, that player gains control of Kain. If they do, you draw that many cards, create that many tapped Treasure tokens, then lose that much life.",B,B,rare,FIN,Final Fantasy,105,2,4,,Jump;Treasure
+"Kalakscion, Hunger Tyrant",{1}{B}{B},3.0,Legendary Creature — Crocodile,,B,B,uncommon,DFT,Aetherdrift,93,7,2,,
+Kalastria Highborn,{B}{B},2.0,Creature — Vampire Shaman,"Whenever this creature or another Vampire you control dies, you may pay {B}. If you do, target player loses 2 life and you gain 2 life.",B,B,rare,FDN,Foundations,607,2,2,,
+Kalastria Highborn,{B}{B},2.0,Creature — Vampire Shaman,"Whenever this creature or another Vampire you control dies, you may pay {B}. If you do, target player loses 2 life and you gain 2 life.",B,B,rare,DCI,DCI Promos,39,2,2,,
+Kalastria Highborn,{B}{B},2.0,Creature — Vampire Shaman,"Whenever this creature or another Vampire you control dies, you may pay {B}. If you do, target player loses 2 life and you gain 2 life.",B,B,rare,PRM,Magic Online Promos,43552,2,2,,
+Kalastria Highborn,{B}{B},2.0,Creature — Vampire Shaman,"Whenever this creature or another Vampire you control dies, you may pay {B}. If you do, target player loses 2 life and you gain 2 life.",B,B,rare,PLST,The List,WWK-59,2,2,,
+Kalastria Highborn,{B}{B},2.0,Creature — Vampire Shaman,"Whenever this creature or another Vampire you control dies, you may pay {B}. If you do, target player loses 2 life and you gain 2 life.",B,B,rare,WWK,Worldwake,59,2,2,,
+"Kambal, Profiteering Mayor",{1}{W}{B},3.0,Legendary Creature — Human Advisor,"Whenever one or more tokens your opponents control enter, for each of them, create a tapped token that's a copy of it. This ability triggers only once each turn.
+Whenever one or more tokens you control enter, each opponent loses 1 life and you gain 1 life.","B,W","B,W",rare,POTJ,Outlaws of Thunder Junction Promos,211s,2,4,,
+"Kambal, Profiteering Mayor",{1}{W}{B},3.0,Legendary Creature — Human Advisor,"Whenever one or more tokens your opponents control enter, for each of them, create a tapped token that's a copy of it. This ability triggers only once each turn.
+Whenever one or more tokens you control enter, each opponent loses 1 life and you gain 1 life.","B,W","B,W",rare,OTJ,Outlaws of Thunder Junction,353,2,4,,
+"Kambal, Profiteering Mayor",{1}{W}{B},3.0,Legendary Creature — Human Advisor,"Whenever one or more tokens your opponents control enter, for each of them, create a tapped token that's a copy of it. This ability triggers only once each turn.
+Whenever one or more tokens you control enter, each opponent loses 1 life and you gain 1 life.","B,W","B,W",rare,POTJ,Outlaws of Thunder Junction Promos,211p,2,4,,
+"Kambal, Profiteering Mayor",{1}{W}{B},3.0,Legendary Creature — Human Advisor,"Whenever one or more tokens your opponents control enter, for each of them, create a tapped token that's a copy of it. This ability triggers only once each turn.
+Whenever one or more tokens you control enter, each opponent loses 1 life and you gain 1 life.","B,W","B,W",rare,OTJ,Outlaws of Thunder Junction,211,2,4,,
+"Karai, Future of the Foot",{1}{W}{B},3.0,Legendary Creature — Human Ninja,"Sneak {2}{W}{B} (You may cast this spell for {2}{W}{B} if you also return an unblocked attacker you control to hand during the declare blockers step. She enters tapped and attacking.)
+Whenever Karai deals combat damage to a player, return target creature card from your graveyard to your hand. If her sneak cost was paid this turn, instead return that card to the battlefield.","B,W","B,W",uncommon,TMT,Teenage Mutant Ninja Turtles,151,3,3,,Sneak
+Karakyk Guardian,{3}{G}{U}{R},6.0,Creature — Dragon,"Flying, vigilance, trample
+This creature has hexproof if it hasn't dealt damage yet. (It can't be the target of spells or abilities your opponents control.)","G,R,U","G,R,U",uncommon,TDM,Tarkir: Dragonstorm,312,6,5,,Flying;Vigilance;Trample
+Karakyk Guardian,{3}{G}{U}{R},6.0,Creature — Dragon,"Flying, vigilance, trample
+This creature has hexproof if it hasn't dealt damage yet. (It can't be the target of spells or abilities your opponents control.)","G,R,U","G,R,U",uncommon,TDM,Tarkir: Dragonstorm,198,6,5,,Flying;Vigilance;Trample
+Kargan Dragonrider,{1}{R},2.0,Creature — Human Warrior,"As long as you control a Dragon, this creature has flying.",R,R,common,J22,Jumpstart 2022,561,2,2,,
+Kargan Dragonrider,{1}{R},2.0,Creature — Human Warrior,"As long as you control a Dragon, this creature has flying.",R,R,common,M19,Core Set 2019,297,2,2,,
+Kargan Dragonrider,{1}{R},2.0,Creature — Human Warrior,"As long as you control a Dragon, this creature has flying.",R,R,common,FDN,Foundations,541,2,2,,
+Kargan Dragonrider,{1}{R},2.0,Creature — Human Warrior,"As long as you control a Dragon, this creature has flying.",R,R,common,GN3,Game Night: Free-for-All,81,2,2,,
+Kargan Dragonrider,{1}{R},2.0,Creature — Human Warrior,"As long as you control a Dragon, this creature has flying.",R,R,common,GN2,Game Night 2019,40,2,2,,
+Karlov Watchdog,{3}{W},4.0,Creature — Dog,"Vigilance
+Permanents your opponents control can't be turned face up during your turn.
+Whenever you attack with three or more creatures, creatures you control get +1/+1 until end of turn.",W,W,uncommon,MKM,Murders at Karlov Manor,20,3,2,,Vigilance
+Kaslem's Stonetree // Kaslem's Strider,,3.0,Artifact // Artifact Creature — Golem,,,G,common,LCI,The Lost Caverns of Ixalan,197,,,,Craft;Transform
+"Kastral, the Windcrested",{3}{W}{U},5.0,Legendary Creature — Bird Scout,"Flying
+Whenever one or more Birds you control deal combat damage to a player, choose one —
+• You may put a Bird creature card from your hand or graveyard onto the battlefield with a finality counter on it.
+• Put a +1/+1 counter on each Bird you control.
+• Draw a card.","U,W","U,W",rare,PBLB,Bloomburrow Promos,221s,4,5,,Flying
+"Kastral, the Windcrested",{3}{W}{U},5.0,Legendary Creature — Bird Scout,"Flying
+Whenever one or more Birds you control deal combat damage to a player, choose one —
+• You may put a Bird creature card from your hand or graveyard onto the battlefield with a finality counter on it.
+• Put a +1/+1 counter on each Bird you control.
+• Draw a card.","U,W","U,W",rare,BLB,Bloomburrow,350,4,5,,Flying
+"Kastral, the Windcrested",{3}{W}{U},5.0,Legendary Creature — Bird Scout,"Flying
+Whenever one or more Birds you control deal combat damage to a player, choose one —
+• You may put a Bird creature card from your hand or graveyard onto the battlefield with a finality counter on it.
+• Put a +1/+1 counter on each Bird you control.
+• Draw a card.","U,W","U,W",rare,PBLB,Bloomburrow Promos,221p,4,5,,Flying
+"Kastral, the Windcrested",{3}{W}{U},5.0,Legendary Creature — Bird Scout,"Flying
+Whenever one or more Birds you control deal combat damage to a player, choose one —
+• You may put a Bird creature card from your hand or graveyard onto the battlefield with a finality counter on it.
+• Put a +1/+1 counter on each Bird you control.
+• Draw a card.","U,W","U,W",rare,BLB,Bloomburrow,335,4,5,,Flying
+"Kastral, the Windcrested",{3}{W}{U},5.0,Legendary Creature — Bird Scout,"Flying
+Whenever one or more Birds you control deal combat damage to a player, choose one —
+• You may put a Bird creature card from your hand or graveyard onto the battlefield with a finality counter on it.
+• Put a +1/+1 counter on each Bird you control.
+• Draw a card.","U,W","U,W",rare,BLB,Bloomburrow,221,4,5,,Flying
+"Katara, Bending Prodigy",{2}{U},3.0,Legendary Creature — Human Warrior Ally,"At the beginning of your end step, if Katara is tapped, put a +1/+1 counter on her.
+Waterbend {6}: Draw a card. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)",U,U,uncommon,TLA,Avatar: The Last Airbender,59,2,3,,Waterbend
+"Katara, the Fearless",{G}{W}{U},3.0,Legendary Creature — Human Warrior Ally,"If a triggered ability of an Ally you control triggers, that ability triggers an additional time.","G,U,W","G,U,W",rare,TLA,Avatar: The Last Airbender,361,3,3,,
+"Katara, the Fearless",{G}{W}{U},3.0,Legendary Creature — Human Warrior Ally,"If a triggered ability of an Ally you control triggers, that ability triggers an additional time.","G,U,W","G,U,W",rare,PTLA,Avatar: The Last Airbender Promos,230s,3,3,,
+"Katara, the Fearless",{G}{W}{U},3.0,Legendary Creature — Human Warrior Ally,"If a triggered ability of an Ally you control triggers, that ability triggers an additional time.","G,U,W","G,U,W",rare,TLA,Avatar: The Last Airbender,305,3,3,,
+"Katara, the Fearless",{G}{W}{U},3.0,Legendary Creature — Human Warrior Ally,"If a triggered ability of an Ally you control triggers, that ability triggers an additional time.","G,U,W","G,U,W",rare,TLA,Avatar: The Last Airbender,350,3,3,,
+"Katara, the Fearless",{G}{W}{U},3.0,Legendary Creature — Human Warrior Ally,"If a triggered ability of an Ally you control triggers, that ability triggers an additional time.","G,U,W","G,U,W",rare,TLA,Avatar: The Last Airbender,230,3,3,,
+"Katara, the Fearless",{G}{W}{U},3.0,Legendary Creature — Human Warrior Ally,"If a triggered ability of an Ally you control triggers, that ability triggers an additional time.","G,U,W","G,U,W",rare,PURL,URL/Convention Promos,2025-3,3,3,,
+"Katara, Water Tribe's Hope",{2}{W}{U}{U},5.0,Legendary Creature — Human Warrior Ally,"Vigilance
+When Katara enters, create a 1/1 white Ally creature token.
+Waterbend {X}: Creatures you control have base power and toughness X/X until end of turn. X can't be 0. Activate only during your turn. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)","U,W","U,W",rare,PTLA,Avatar: The Last Airbender Promos,231s,3,3,,Vigilance;Waterbend
+"Katara, Water Tribe's Hope",{2}{W}{U}{U},5.0,Legendary Creature — Human Warrior Ally,"Vigilance
+When Katara enters, create a 1/1 white Ally creature token.
+Waterbend {X}: Creatures you control have base power and toughness X/X until end of turn. X can't be 0. Activate only during your turn. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)","U,W","U,W",rare,TLA,Avatar: The Last Airbender,351,3,3,,Vigilance;Waterbend
+"Katara, Water Tribe's Hope",{2}{W}{U}{U},5.0,Legendary Creature — Human Warrior Ally,"Vigilance
+When Katara enters, create a 1/1 white Ally creature token.
+Waterbend {X}: Creatures you control have base power and toughness X/X until end of turn. X can't be 0. Activate only during your turn. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)","U,W","U,W",rare,TLA,Avatar: The Last Airbender,231,3,3,,Vigilance;Waterbend
+Kav Landseeker,{3}{R},4.0,Creature — Kavu Soldier,"Menace (This creature can't be blocked except by two or more creatures.)
+When this creature enters, create a Lander token. At the beginning of the end step on your next turn, sacrifice that token. (It's an artifact with ""{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."")",R,R,common,EOE,Edge of Eternities,138,4,3,,Menace
+Kavaron Harrier,{R},1.0,Artifact Creature — Robot Soldier,"Whenever this creature attacks, you may pay {2}. If you do, create a 2/2 colorless Robot artifact creature token that's tapped and attacking. Sacrifice that token at end of combat.",R,R,uncommon,EOE,Edge of Eternities,139,2,1,,
+Kavaron Harrier,{R},1.0,Artifact Creature — Robot Soldier,"Whenever this creature attacks, you may pay {2}. If you do, create a 2/2 colorless Robot artifact creature token that's tapped and attacking. Sacrifice that token at end of combat.",R,R,uncommon,EOE,Edge of Eternities,396,2,1,,
+Kavaron Skywarden,{4}{R},5.0,Creature — Kavu Soldier,"Reach
+Void — At the beginning of your end step, if a nonland permanent left the battlefield this turn or a spell was warped this turn, put a +1/+1 counter on this creature.",R,R,common,EOE,Edge of Eternities,140,4,5,,Reach;Void
+Kavaron Turbodrone,{2}{R},3.0,Artifact Creature — Robot Scout,{T}: Target creature you control gets +1/+1 and gains haste until end of turn. Activate only as a sorcery.,R,R,common,EOE,Edge of Eternities,141,2,3,,
+Keen Buccaneer,{2}{U},3.0,Creature — Octopus Pirate,"Vigilance
+Exhaust — {1}{U}: Draw a card, then discard a card. Put a +1/+1 counter on this creature. (Activate each exhaust ability only once.)",U,U,common,DFT,Aetherdrift,48,2,3,,Vigilance;Exhaust
+Keen-Eyed Curator,{G}{G},2.0,Creature — Raccoon Scout,"As long as there are four or more card types among cards exiled with this creature, it gets +4/+4 and has trample.
+{1}: Exile target card from a graveyard.",G,G,rare,BLB,Bloomburrow,322,3,3,,
+Keen-Eyed Curator,{G}{G},2.0,Creature — Raccoon Scout,"As long as there are four or more card types among cards exiled with this creature, it gets +4/+4 and has trample.
+{1}: Exile target card from a graveyard.",G,G,rare,PBLB,Bloomburrow Promos,181p,3,3,,
+Keen-Eyed Curator,{G}{G},2.0,Creature — Raccoon Scout,"As long as there are four or more card types among cards exiled with this creature, it gets +4/+4 and has trample.
+{1}: Exile target card from a graveyard.",G,G,rare,BLB,Bloomburrow,181,3,3,,
+Keen-Eyed Curator,{G}{G},2.0,Creature — Raccoon Scout,"As long as there are four or more card types among cards exiled with this creature, it gets +4/+4 and has trample.
+{1}: Exile target card from a graveyard.",G,G,rare,PBLB,Bloomburrow Promos,181s,3,3,,
+"Kefka, Court Mage // Kefka, Ruler of Ruin",,5.0,Legendary Creature — Human Wizard // Legendary Creature — Avatar Wizard,,,"B,R,U",mythic,FIN,Final Fantasy,496,,,,Flying;Transform
+"Kefka, Court Mage // Kefka, Ruler of Ruin",,5.0,Legendary Creature — Human Wizard // Legendary Creature — Avatar Wizard,,,"B,R,U",mythic,FIN,Final Fantasy,322,,,,Flying;Transform
+"Kefka, Court Mage // Kefka, Ruler of Ruin",,5.0,Legendary Creature — Human Wizard // Legendary Creature — Avatar Wizard,,,"B,R,U",mythic,FIN,Final Fantasy,543,,,,Flying;Transform
+"Kefka, Court Mage // Kefka, Ruler of Ruin",,5.0,Legendary Creature — Human Wizard // Legendary Creature — Avatar Wizard,,,"B,R,U",mythic,PFIN,Final Fantasy Promos,231s,,,,Flying;Transform
+"Kefka, Court Mage // Kefka, Ruler of Ruin",,5.0,Legendary Creature — Human Wizard // Legendary Creature — Avatar Wizard,,,"B,R,U",mythic,FIN,Final Fantasy,398,,,,Flying;Transform
+"Kefka, Court Mage // Kefka, Ruler of Ruin",,5.0,Legendary Creature — Human Wizard // Legendary Creature — Avatar Wizard,,,"B,R,U",mythic,FIN,Final Fantasy,231,,,,Flying;Transform
+"Kellan, Daring Traveler // Journey On",{1}{W} // {G},2.0,Legendary Creature — Human Faerie Scout // Sorcery — Adventure,,W,"G,W",rare,LCI,The Lost Caverns of Ixalan,231,2,3,,
+"Kellan, Daring Traveler // Journey On",{1}{W} // {G},2.0,Legendary Creature — Human Faerie Scout // Sorcery — Adventure,,W,"G,W",rare,LCI,The Lost Caverns of Ixalan,341,2,3,,
+"Kellan, Daring Traveler // Journey On",{1}{W} // {G},2.0,Legendary Creature — Human Faerie Scout // Sorcery — Adventure,,W,"G,W",rare,PLCI,The Lost Caverns of Ixalan Promos,231s,2,3,,
+"Kellan, Daring Traveler // Journey On",{1}{W} // {G},2.0,Legendary Creature — Human Faerie Scout // Sorcery — Adventure,,W,"G,W",rare,PLCI,The Lost Caverns of Ixalan Promos,231p,2,3,,
+"Kellan, Inquisitive Prodigy // Tail the Suspect",{2}{G}{U} // {G}{U},4.0,Legendary Creature — Human Faerie Detective // Sorcery — Adventure,,"G,U","G,U",rare,PMKM,Murders at Karlov Manor Promos,212s,3,4,,Flying;Investigate;Vigilance
+"Kellan, Inquisitive Prodigy // Tail the Suspect",{2}{G}{U} // {G}{U},4.0,Legendary Creature — Human Faerie Detective // Sorcery — Adventure,,"G,U","G,U",rare,MKM,Murders at Karlov Manor,212,3,4,,Flying;Investigate;Vigilance
+"Kellan, Inquisitive Prodigy // Tail the Suspect",{2}{G}{U} // {G}{U},4.0,Legendary Creature — Human Faerie Detective // Sorcery — Adventure,,"G,U","G,U",rare,MKM,Murders at Karlov Manor,334,3,4,,Flying;Investigate;Vigilance
+"Kellan, Inquisitive Prodigy // Tail the Suspect",{2}{G}{U} // {G}{U},4.0,Legendary Creature — Human Faerie Detective // Sorcery — Adventure,,"G,U","G,U",rare,PMKM,Murders at Karlov Manor Promos,212p,3,4,,Flying;Investigate;Vigilance
+"Kellan, Planar Trailblazer",{R},1.0,Legendary Creature — Human Faerie Scout,"{1}{R}: If Kellan is a Scout, it becomes a Human Faerie Detective and gains ""Whenever Kellan deals combat damage to a player, exile the top card of your library. You may play that card this turn.""
+{2}{R}: If Kellan is a Detective, it becomes a 3/2 Human Faerie Rogue and gains double strike.",R,R,rare,FDN,Foundations,330,2,1,,
+"Kellan, Planar Trailblazer",{R},1.0,Legendary Creature — Human Faerie Scout,"{1}{R}: If Kellan is a Scout, it becomes a Human Faerie Detective and gains ""Whenever Kellan deals combat damage to a player, exile the top card of your library. You may play that card this turn.""
+{2}{R}: If Kellan is a Detective, it becomes a 3/2 Human Faerie Rogue and gains double strike.",R,R,rare,PFDN,Foundations Promos,91s,2,1,,
+"Kellan, Planar Trailblazer",{R},1.0,Legendary Creature — Human Faerie Scout,"{1}{R}: If Kellan is a Scout, it becomes a Human Faerie Detective and gains ""Whenever Kellan deals combat damage to a player, exile the top card of your library. You may play that card this turn.""
+{2}{R}: If Kellan is a Detective, it becomes a 3/2 Human Faerie Rogue and gains double strike.",R,R,rare,FDN,Foundations,466,2,1,,
+"Kellan, Planar Trailblazer",{R},1.0,Legendary Creature — Human Faerie Scout,"{1}{R}: If Kellan is a Scout, it becomes a Human Faerie Detective and gains ""Whenever Kellan deals combat damage to a player, exile the top card of your library. You may play that card this turn.""
+{2}{R}: If Kellan is a Detective, it becomes a 3/2 Human Faerie Rogue and gains double strike.",R,R,rare,FDN,Foundations,392,2,1,,
+"Kellan, Planar Trailblazer",{R},1.0,Legendary Creature — Human Faerie Scout,"{1}{R}: If Kellan is a Scout, it becomes a Human Faerie Detective and gains ""Whenever Kellan deals combat damage to a player, exile the top card of your library. You may play that card this turn.""
+{2}{R}: If Kellan is a Detective, it becomes a 3/2 Human Faerie Rogue and gains double strike.",R,R,rare,FDN,Foundations,91,2,1,,
+"Kellan, the Fae-Blooded // Birthright Boon",{2}{R} // {1}{W},3.0,Legendary Creature — Human Faerie // Sorcery — Adventure,,R,"R,W",mythic,PWOE,Wilds of Eldraine Promos,230s,2,2,,Double strike
+"Kellan, the Fae-Blooded // Birthright Boon",{2}{R} // {1}{W},3.0,Legendary Creature — Human Faerie // Sorcery — Adventure,,R,"R,W",mythic,PWOE,Wilds of Eldraine Promos,230p,2,2,,Double strike
+"Kellan, the Fae-Blooded // Birthright Boon",{2}{R} // {1}{W},3.0,Legendary Creature — Human Faerie // Sorcery — Adventure,,R,"R,W",mythic,WOE,Wilds of Eldraine,298,2,2,,Double strike
+"Kellan, the Fae-Blooded // Birthright Boon",{2}{R} // {1}{W},3.0,Legendary Creature — Human Faerie // Sorcery — Adventure,,R,"R,W",mythic,WOE,Wilds of Eldraine,291,2,2,,Double strike
+"Kellan, the Fae-Blooded // Birthright Boon",{2}{R} // {1}{W},3.0,Legendary Creature — Human Faerie // Sorcery — Adventure,,R,"R,W",mythic,WOE,Wilds of Eldraine,230,2,2,,Double strike
+"Kellan, the Kid",{G}{W}{U},3.0,Legendary Creature — Human Faerie Rogue,"Flying, lifelink
+Whenever you cast a spell from anywhere other than your hand, you may cast a permanent spell with equal or lesser mana value from your hand without paying its mana cost. If you don't, you may put a land card from your hand onto the battlefield.","G,U,W","G,U,W",mythic,OTJ,Outlaws of Thunder Junction,213,3,3,,Flying;Lifelink
+"Kellan, the Kid",{G}{W}{U},3.0,Legendary Creature — Human Faerie Rogue,"Flying, lifelink
+Whenever you cast a spell from anywhere other than your hand, you may cast a permanent spell with equal or lesser mana value from your hand without paying its mana cost. If you don't, you may put a land card from your hand onto the battlefield.","G,U,W","G,U,W",mythic,OTJ,Outlaws of Thunder Junction,294,3,3,,Flying;Lifelink
+"Kellan, the Kid",{G}{W}{U},3.0,Legendary Creature — Human Faerie Rogue,"Flying, lifelink
+Whenever you cast a spell from anywhere other than your hand, you may cast a permanent spell with equal or lesser mana value from your hand without paying its mana cost. If you don't, you may put a land card from your hand onto the battlefield.","G,U,W","G,U,W",mythic,POTJ,Outlaws of Thunder Junction Promos,213p,3,3,,Flying;Lifelink
+"Kellan, the Kid",{G}{W}{U},3.0,Legendary Creature — Human Faerie Rogue,"Flying, lifelink
+Whenever you cast a spell from anywhere other than your hand, you may cast a permanent spell with equal or lesser mana value from your hand without paying its mana cost. If you don't, you may put a land card from your hand onto the battlefield.","G,U,W","G,U,W",mythic,POTJ,Outlaws of Thunder Junction Promos,213s,3,3,,Flying;Lifelink
+"Ketramose, the New Dawn",{1}{W}{B},3.0,Legendary Creature — God,"Menace, lifelink, indestructible
+Ketramose can't attack or block unless there are seven or more cards in exile.
+Whenever one or more cards are put into exile from graveyards and/or the battlefield during your turn, you draw a card and lose 1 life.","B,W","B,W",mythic,DFT,Aetherdrift,549,4,4,,Lifelink;Indestructible;Menace
+"Ketramose, the New Dawn",{1}{W}{B},3.0,Legendary Creature — God,"Menace, lifelink, indestructible
+Ketramose can't attack or block unless there are seven or more cards in exile.
+Whenever one or more cards are put into exile from graveyards and/or the battlefield during your turn, you draw a card and lose 1 life.","B,W","B,W",mythic,DFT,Aetherdrift,350,4,4,,Lifelink;Indestructible;Menace
+"Ketramose, the New Dawn",{1}{W}{B},3.0,Legendary Creature — God,"Menace, lifelink, indestructible
+Ketramose can't attack or block unless there are seven or more cards in exile.
+Whenever one or more cards are put into exile from graveyards and/or the battlefield during your turn, you draw a card and lose 1 life.","B,W","B,W",mythic,PDFT,Aetherdrift Promos,209p,4,4,,Lifelink;Indestructible;Menace
+"Ketramose, the New Dawn",{1}{W}{B},3.0,Legendary Creature — God,"Menace, lifelink, indestructible
+Ketramose can't attack or block unless there are seven or more cards in exile.
+Whenever one or more cards are put into exile from graveyards and/or the battlefield during your turn, you draw a card and lose 1 life.","B,W","B,W",mythic,DFT,Aetherdrift,482,4,4,,Lifelink;Indestructible;Menace
+"Ketramose, the New Dawn",{1}{W}{B},3.0,Legendary Creature — God,"Menace, lifelink, indestructible
+Ketramose can't attack or block unless there are seven or more cards in exile.
+Whenever one or more cards are put into exile from graveyards and/or the battlefield during your turn, you draw a card and lose 1 life.","B,W","B,W",mythic,PDFT,Aetherdrift Promos,209s,4,4,,Lifelink;Indestructible;Menace
+"Ketramose, the New Dawn",{1}{W}{B},3.0,Legendary Creature — God,"Menace, lifelink, indestructible
+Ketramose can't attack or block unless there are seven or more cards in exile.
+Whenever one or more cards are put into exile from graveyards and/or the battlefield during your turn, you draw a card and lose 1 life.","B,W","B,W",mythic,DFT,Aetherdrift,209,4,4,,Lifelink;Indestructible;Menace
+Kheru Goldkeeper,{1}{B}{G}{U},4.0,Creature — Dragon,"Flying
+Whenever one or more cards leave your graveyard during your turn, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")
+Renew — {2}{B}{G}{U}, Exile this card from your graveyard: Put two +1/+1 counters and a flying counter on target creature. Activate only as a sorcery.","B,G,U","B,G,U",uncommon,TDM,Tarkir: Dragonstorm,199,3,3,,Flying;Renew;Treasure
+Kheru Goldkeeper,{1}{B}{G}{U},4.0,Creature — Dragon,"Flying
+Whenever one or more cards leave your graveyard during your turn, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")
+Renew — {2}{B}{G}{U}, Exile this card from your graveyard: Put two +1/+1 counters and a flying counter on target creature. Activate only as a sorcery.","B,G,U","B,G,U",uncommon,TDM,Tarkir: Dragonstorm,313,3,3,,Flying;Renew;Treasure
+Kin-Tree Nurturer,{2}{B},3.0,Creature — Human Druid,"Lifelink
+When this creature enters, it endures 1. (Put a +1/+1 counter on it or create a 1/1 white Spirit creature token.)",B,B,common,TDM,Tarkir: Dragonstorm,83,2,1,,Lifelink;Endure
+Kindlespark Duo,{2}{R},3.0,Creature — Lizard Otter,"{T}: This creature deals 1 damage to target opponent.
+Whenever you cast a noncreature spell, untap this creature.",R,R,common,BLB,Bloomburrow,142,1,3,,
+Kinjalli's Dawnrunner,{2}{W},3.0,Creature — Human Scout,"Double strike
+When this creature enters, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)",W,W,uncommon,LCI,The Lost Caverns of Ixalan,19,1,1,,Explore;Double strike
+Kinsbaile Aspirant,{W},1.0,Creature — Kithkin Citizen,"As an additional cost to cast this spell, behold a Kithkin or pay {2}. (To behold a Kithkin, choose a Kithkin you control or reveal a Kithkin card from your hand.)
+Whenever another creature you control enters, this creature gets +1/+1 until end of turn.",W,W,uncommon,ECL,Lorwyn Eclipsed,21,2,1,,Behold
+Kinscaer Sentry,{1}{W},2.0,Creature — Kithkin Soldier,"First strike, lifelink
+Whenever this creature attacks, you may put a creature card with mana value X or less from your hand onto the battlefield tapped and attacking, where X is the number of attacking creatures you control.",W,W,rare,PECL,Lorwyn Eclipsed Promos,22p,2,2,,Lifelink;First strike
+Kinscaer Sentry,{1}{W},2.0,Creature — Kithkin Soldier,"First strike, lifelink
+Whenever this creature attacks, you may put a creature card with mana value X or less from your hand onto the battlefield tapped and attacking, where X is the number of attacking creatures you control.",W,W,rare,ECL,Lorwyn Eclipsed,22,2,2,,Lifelink;First strike
+Kinscaer Sentry,{1}{W},2.0,Creature — Kithkin Soldier,"First strike, lifelink
+Whenever this creature attacks, you may put a creature card with mana value X or less from your hand onto the battlefield tapped and attacking, where X is the number of attacking creatures you control.",W,W,rare,ECL,Lorwyn Eclipsed,300,2,2,,Lifelink;First strike
+"Kiora, the Rising Tide",{2}{U},3.0,Legendary Creature — Merfolk Noble,"When Kiora enters, draw two cards, then discard two cards.
+Threshold — Whenever Kiora attacks, if there are seven or more cards in your graveyard, you may create Scion of the Deep, a legendary 8/8 blue Octopus creature token.",U,U,rare,PFDN,Foundations Promos,45p,3,2,,Threshold
+"Kiora, the Rising Tide",{2}{U},3.0,Legendary Creature — Merfolk Noble,"When Kiora enters, draw two cards, then discard two cards.
+Threshold — Whenever Kiora attacks, if there are seven or more cards in your graveyard, you may create Scion of the Deep, a legendary 8/8 blue Octopus creature token.",U,U,rare,FDN,Foundations,377,3,2,,Threshold
+"Kiora, the Rising Tide",{2}{U},3.0,Legendary Creature — Merfolk Noble,"When Kiora enters, draw two cards, then discard two cards.
+Threshold — Whenever Kiora attacks, if there are seven or more cards in your graveyard, you may create Scion of the Deep, a legendary 8/8 blue Octopus creature token.",U,U,rare,PFDN,Foundations Promos,45s,3,2,,Threshold
+"Kiora, the Rising Tide",{2}{U},3.0,Legendary Creature — Merfolk Noble,"When Kiora enters, draw two cards, then discard two cards.
+Threshold — Whenever Kiora attacks, if there are seven or more cards in your graveyard, you may create Scion of the Deep, a legendary 8/8 blue Octopus creature token.",U,U,rare,FDN,Foundations,309,3,2,,Threshold
+"Kiora, the Rising Tide",{2}{U},3.0,Legendary Creature — Merfolk Noble,"When Kiora enters, draw two cards, then discard two cards.
+Threshold — Whenever Kiora attacks, if there are seven or more cards in your graveyard, you may create Scion of the Deep, a legendary 8/8 blue Octopus creature token.",U,U,rare,FDN,Foundations,455,3,2,,Threshold
+"Kiora, the Rising Tide",{2}{U},3.0,Legendary Creature — Merfolk Noble,"When Kiora enters, draw two cards, then discard two cards.
+Threshold — Whenever Kiora attacks, if there are seven or more cards in your graveyard, you may create Scion of the Deep, a legendary 8/8 blue Octopus creature token.",U,U,rare,FDN,Foundations,45,3,2,,Threshold
+"Kirol, Attentive First-Year",{1}{R/W}{R/W},3.0,Legendary Creature — Vampire Cleric,Tap two untapped creatures you control: Copy target triggered ability you control. You may choose new targets for the copy. Activate only once each turn.,"R,W","R,W",rare,ECL,Lorwyn Eclipsed,374,3,3,,
+"Kirol, Attentive First-Year",{1}{R/W}{R/W},3.0,Legendary Creature — Vampire Cleric,Tap two untapped creatures you control: Copy target triggered ability you control. You may choose new targets for the copy. Activate only once each turn.,"R,W","R,W",rare,PECL,Lorwyn Eclipsed Promos,231p,3,3,,
+"Kirol, Attentive First-Year",{1}{R/W}{R/W},3.0,Legendary Creature — Vampire Cleric,Tap two untapped creatures you control: Copy target triggered ability you control. You may choose new targets for the copy. Activate only once each turn.,"R,W","R,W",rare,ECL,Lorwyn Eclipsed,231,3,3,,
+Kishla Skimmer,{G}{U},2.0,Creature — Bird Scout,"Flying
+Whenever a card leaves your graveyard during your turn, draw a card. This ability triggers only once each turn.","G,U","G,U",uncommon,TDM,Tarkir: Dragonstorm,201,2,2,,Flying
+Kishla Trawlers,{2}{U},3.0,Creature — Human Citizen,"When this creature enters, you may exile a creature card from your graveyard. When you do, return target instant or sorcery card from your graveyard to your hand.",U,U,uncommon,TDM,Tarkir: Dragonstorm,50,3,2,,
+Kitesail Corsair,{1}{U},2.0,Creature — Human Pirate,This creature has flying as long as it's attacking.,U,U,common,JMP,Jumpstart,155,2,1,,
+Kitesail Corsair,{1}{U},2.0,Creature — Human Pirate,This creature has flying as long as it's attacking.,U,U,common,CMR,Commander Legends,76,2,1,,
+Kitesail Corsair,{1}{U},2.0,Creature — Human Pirate,This creature has flying as long as it's attacking.,U,U,common,RIX,Rivals of Ixalan,41,2,1,,
+Kitesail Corsair,{1}{U},2.0,Creature — Human Pirate,This creature has flying as long as it's attacking.,U,U,common,BBD,Battlebond,120,2,1,,
+Kitesail Corsair,{1}{U},2.0,Creature — Human Pirate,This creature has flying as long as it's attacking.,U,U,common,FDN,Foundations,510,2,1,,
+Kitesail Larcenist,{2}{U},3.0,Creature — Human Pirate,"Flying, ward {1}
+When this creature enters, for each player, choose up to one other target artifact or creature that player controls. For as long as this creature remains on the battlefield, the chosen permanents become Treasure artifacts with ""{T}, Sacrifice this artifact: Add one mana of any color"" and lose all other abilities.",U,U,rare,LCI,The Lost Caverns of Ixalan,61,2,3,,Flying;Ward
+Kitesail Larcenist,{2}{U},3.0,Creature — Human Pirate,"Flying, ward {1}
+When this creature enters, for each player, choose up to one other target artifact or creature that player controls. For as long as this creature remains on the battlefield, the chosen permanents become Treasure artifacts with ""{T}, Sacrifice this artifact: Add one mana of any color"" and lose all other abilities.",U,U,rare,LCI,The Lost Caverns of Ixalan,364,2,3,,Flying;Ward
+Kitesail Larcenist,{2}{U},3.0,Creature — Human Pirate,"Flying, ward {1}
+When this creature enters, for each player, choose up to one other target artifact or creature that player controls. For as long as this creature remains on the battlefield, the chosen permanents become Treasure artifacts with ""{T}, Sacrifice this artifact: Add one mana of any color"" and lose all other abilities.",U,U,rare,PLCI,The Lost Caverns of Ixalan Promos,61s,2,3,,Flying;Ward
+Kitesail Larcenist,{2}{U},3.0,Creature — Human Pirate,"Flying, ward {1}
+When this creature enters, for each player, choose up to one other target artifact or creature that player controls. For as long as this creature remains on the battlefield, the chosen permanents become Treasure artifacts with ""{T}, Sacrifice this artifact: Add one mana of any color"" and lose all other abilities.",U,U,rare,PLCI,The Lost Caverns of Ixalan Promos,61p,2,3,,Flying;Ward
+Kithkeeper,{6}{W},7.0,Creature — Elemental,"Vivid — When this creature enters, create X 1/1 green and white Kithkin creature tokens, where X is the number of colors among permanents you control.
+Tap three untapped creatures you control: This creature gets +3/+0 and gains flying until end of turn.",W,W,uncommon,ECL,Lorwyn Eclipsed,23,3,3,,Vivid
+"Kitsa, Otterball Elite",{1}{U},2.0,Legendary Creature — Otter Wizard,"Vigilance
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+{T}: Draw a card, then discard a card.
+{2}, {T}: Copy target instant or sorcery spell you control. You may choose new targets for the copy. Activate only if Kitsa's power is 3 or greater.",U,U,mythic,PBLB,Bloomburrow Promos,54s,1,3,,Prowess;Vigilance
+"Kitsa, Otterball Elite",{1}{U},2.0,Legendary Creature — Otter Wizard,"Vigilance
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+{T}: Draw a card, then discard a card.
+{2}, {T}: Copy target instant or sorcery spell you control. You may choose new targets for the copy. Activate only if Kitsa's power is 3 or greater.",U,U,mythic,PBLB,Bloomburrow Promos,54p,1,3,,Prowess;Vigilance
+"Kitsa, Otterball Elite",{1}{U},2.0,Legendary Creature — Otter Wizard,"Vigilance
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+{T}: Draw a card, then discard a card.
+{2}, {T}: Copy target instant or sorcery spell you control. You may choose new targets for the copy. Activate only if Kitsa's power is 3 or greater.",U,U,mythic,BLB,Bloomburrow,54,1,3,,Prowess;Vigilance
+"Kitsa, Otterball Elite",{1}{U},2.0,Legendary Creature — Otter Wizard,"Vigilance
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+{T}: Draw a card, then discard a card.
+{2}, {T}: Copy target instant or sorcery spell you control. You may choose new targets for the copy. Activate only if Kitsa's power is 3 or greater.",U,U,mythic,BLB,Bloomburrow,304,1,3,,Prowess;Vigilance
+"Kitsune, Dragon's Daughter",{4}{U}{U},6.0,Legendary Creature — Fox Warlock Avatar,"Vigilance
+Whenever Kitsune enters or deals combat damage to a player, you may exchange control of two other target creatures controlled by different players.",U,U,rare,TMT,Teenage Mutant Ninja Turtles,262,6,6,,Vigilance
+"Kitsune, Dragon's Daughter",{4}{U}{U},6.0,Legendary Creature — Fox Warlock Avatar,"Vigilance
+Whenever Kitsune enters or deals combat damage to a player, you may exchange control of two other target creatures controlled by different players.",U,U,rare,TMT,Teenage Mutant Ninja Turtles,41,6,6,,Vigilance
+Knight Luminary,{3}{W},4.0,Creature — Human Knight,"When this creature enters, create a 1/1 white Human Soldier creature token.
+Warp {1}{W} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",W,W,common,EOE,Edge of Eternities,23,3,2,,Warp
+Knight of Doves,{2}{W},3.0,Creature — Human Knight,"Whenever an enchantment you control is put into a graveyard from the battlefield, create a 1/1 white Bird creature token with flying.",W,W,uncommon,WOE,Wilds of Eldraine,19,1,3,,
+Knight of Grace,{1}{W},2.0,Creature — Human Knight,"First strike (This creature deals combat damage before creatures without first strike.)
+Hexproof from black (This creature can't be the target of black spells or abilities your opponents control.)
+This creature gets +1/+0 as long as any player controls a black permanent.",W,W,uncommon,FDN,Foundations,576,2,2,,Hexproof from;Hexproof;First strike
+Knight of Grace,{1}{W},2.0,Creature — Human Knight,"First strike (This creature deals combat damage before creatures without first strike.)
+Hexproof from black (This creature can't be the target of black spells or abilities your opponents control.)
+This creature gets +1/+0 as long as any player controls a black permanent.",W,W,uncommon,DOM,Dominaria,23,2,2,,Hexproof from;Hexproof;First strike
+Knight of Malice,{1}{B},2.0,Creature — Human Knight,"First strike (This creature deals combat damage before creatures without first strike.)
+Hexproof from white (This creature can't be the target of white spells or abilities your opponents control.)
+This creature gets +1/+0 as long as any player controls a white permanent.",B,B,uncommon,DOM,Dominaria,97,2,2,,Hexproof from;Hexproof;First strike
+Knight of Malice,{1}{B},2.0,Creature — Human Knight,"First strike (This creature deals combat damage before creatures without first strike.)
+Hexproof from white (This creature can't be the target of white spells or abilities your opponents control.)
+This creature gets +1/+0 as long as any player controls a white permanent.",B,B,uncommon,FDN,Foundations,608,2,2,,Hexproof from;Hexproof;First strike
+Knightfisher,{3}{U}{U},5.0,Creature — Bird Knight,"Flying
+Whenever another nontoken Bird you control enters, create a 1/1 blue Fish creature token.",U,U,uncommon,BLB,Bloomburrow,55,4,5,,Flying
+Knowledge Seeker,{1}{U},2.0,Creature — Fox Spirit,"Vigilance
+Whenever you draw your second card each turn, put a +1/+1 counter on this creature.
+When this creature dies, create a Clue token. (It's an artifact with ""{2}, Sacrifice this token: Draw a card."")",U,U,uncommon,TLA,Avatar: The Last Airbender,60,2,1,,Vigilance
+"Koh, the Face Stealer",{4}{B}{B},6.0,Legendary Creature — Shapeshifter Spirit,"When Koh enters, exile up to one other target creature.
+Whenever another nontoken creature dies, you may exile it.
+Pay 1 life: Choose a creature card exiled with Koh.
+Koh has all activated and triggered abilities of the last chosen card.",B,B,mythic,TLA,Avatar: The Last Airbender,107,6,6,,
+"Koh, the Face Stealer",{4}{B}{B},6.0,Legendary Creature — Shapeshifter Spirit,"When Koh enters, exile up to one other target creature.
+Whenever another nontoken creature dies, you may exile it.
+Pay 1 life: Choose a creature card exiled with Koh.
+Koh has all activated and triggered abilities of the last chosen card.",B,B,mythic,PTLA,Avatar: The Last Airbender Promos,107s,6,6,,
+"Koh, the Face Stealer",{4}{B}{B},6.0,Legendary Creature — Shapeshifter Spirit,"When Koh enters, exile up to one other target creature.
+Whenever another nontoken creature dies, you may exile it.
+Pay 1 life: Choose a creature card exiled with Koh.
+Koh has all activated and triggered abilities of the last chosen card.",B,B,mythic,TLA,Avatar: The Last Airbender,322,6,6,,
+"Kolodin, Triumph Caster",{R}{W},2.0,Legendary Creature — Human Pilot,"Mounts and Vehicles you control have haste.
+Whenever a Mount you control enters, it becomes saddled until end of turn.
+Whenever a Vehicle you control enters, it becomes an artifact creature until end of turn.","R,W","R,W",rare,DFT,Aetherdrift,364,2,3,,
+"Kolodin, Triumph Caster",{R}{W},2.0,Legendary Creature — Human Pilot,"Mounts and Vehicles you control have haste.
+Whenever a Mount you control enters, it becomes saddled until end of turn.
+Whenever a Vehicle you control enters, it becomes an artifact creature until end of turn.","R,W","R,W",rare,DFT,Aetherdrift,210,2,3,,
+"Kolodin, Triumph Caster",{R}{W},2.0,Legendary Creature — Human Pilot,"Mounts and Vehicles you control have haste.
+Whenever a Mount you control enters, it becomes saddled until end of turn.
+Whenever a Vehicle you control enters, it becomes an artifact creature until end of turn.","R,W","R,W",rare,DFT,Aetherdrift,483,2,3,,
+"Kolodin, Triumph Caster",{R}{W},2.0,Legendary Creature — Human Pilot,"Mounts and Vehicles you control have haste.
+Whenever a Mount you control enters, it becomes saddled until end of turn.
+Whenever a Vehicle you control enters, it becomes an artifact creature until end of turn.","R,W","R,W",rare,PDFT,Aetherdrift Promos,210s,2,3,,
+"Kolodin, Triumph Caster",{R}{W},2.0,Legendary Creature — Human Pilot,"Mounts and Vehicles you control have haste.
+Whenever a Mount you control enters, it becomes saddled until end of turn.
+Whenever a Vehicle you control enters, it becomes an artifact creature until end of turn.","R,W","R,W",rare,PDFT,Aetherdrift Promos,210p,2,3,,
+"Koma, World-Eater",{3}{G}{G}{U}{U},7.0,Legendary Creature — Serpent,"This spell can't be countered.
+Trample, ward {4}
+Whenever Koma deals combat damage to a player, create four 3/3 blue Serpent creature tokens named Koma's Coil.","G,U","G,U",rare,FDN,Foundations,347,8,12,,Trample;Ward
+"Koma, World-Eater",{3}{G}{G}{U}{U},7.0,Legendary Creature — Serpent,"This spell can't be countered.
+Trample, ward {4}
+Whenever Koma deals combat damage to a player, create four 3/3 blue Serpent creature tokens named Koma's Coil.","G,U","G,U",rare,FDN,Foundations,408,8,12,,Trample;Ward
+"Koma, World-Eater",{3}{G}{G}{U}{U},7.0,Legendary Creature — Serpent,"This spell can't be countered.
+Trample, ward {4}
+Whenever Koma deals combat damage to a player, create four 3/3 blue Serpent creature tokens named Koma's Coil.","G,U","G,U",rare,FDN,Foundations,121,8,12,,Trample;Ward
+"Koma, World-Eater",{3}{G}{G}{U}{U},7.0,Legendary Creature — Serpent,"This spell can't be countered.
+Trample, ward {4}
+Whenever Koma deals combat damage to a player, create four 3/3 blue Serpent creature tokens named Koma's Coil.","G,U","G,U",rare,PFDN,Foundations Promos,121s,8,12,,Trample;Ward
+"Koma, World-Eater",{3}{G}{G}{U}{U},7.0,Legendary Creature — Serpent,"This spell can't be countered.
+Trample, ward {4}
+Whenever Koma deals combat damage to a player, create four 3/3 blue Serpent creature tokens named Koma's Coil.","G,U","G,U",rare,FDN,Foundations,480,8,12,,Trample;Ward
+"Koma, World-Eater",{3}{G}{G}{U}{U},7.0,Legendary Creature — Serpent,"This spell can't be countered.
+Trample, ward {4}
+Whenever Koma deals combat damage to a player, create four 3/3 blue Serpent creature tokens named Koma's Coil.","G,U","G,U",rare,PFDN,Foundations Promos,121p,8,12,,Trample;Ward
+"Kona, Rescue Beastie",{3}{G},4.0,Legendary Creature — Beast Survivor,"Survival — At the beginning of your second main phase, if Kona is tapped, you may put a permanent card from your hand onto the battlefield.",G,G,rare,DSK,Duskmourn: House of Horror,299,4,3,,Survival
+"Kona, Rescue Beastie",{3}{G},4.0,Legendary Creature — Beast Survivor,"Survival — At the beginning of your second main phase, if Kona is tapped, you may put a permanent card from your hand onto the battlefield.",G,G,rare,DSK,Duskmourn: House of Horror,187,4,3,,Survival
+"Kona, Rescue Beastie",{3}{G},4.0,Legendary Creature — Beast Survivor,"Survival — At the beginning of your second main phase, if Kona is tapped, you may put a permanent card from your hand onto the battlefield.",G,G,rare,PDSK,Duskmourn: House of Horror Promos,187p,4,3,,Survival
+"Kona, Rescue Beastie",{3}{G},4.0,Legendary Creature — Beast Survivor,"Survival — At the beginning of your second main phase, if Kona is tapped, you may put a permanent card from your hand onto the battlefield.",G,G,rare,DSK,Duskmourn: House of Horror,358,4,3,,Survival
+"Kona, Rescue Beastie",{3}{G},4.0,Legendary Creature — Beast Survivor,"Survival — At the beginning of your second main phase, if Kona is tapped, you may put a permanent card from your hand onto the battlefield.",G,G,rare,PDSK,Duskmourn: House of Horror Promos,187s,4,3,,Survival
+"Kotis, the Fangkeeper",{1}{B}{G}{U},4.0,Legendary Creature — Zombie Warrior,"Indestructible
+Whenever Kotis deals combat damage to a player, exile the top X cards of their library, where X is the amount of damage dealt. You may cast any number of spells with mana value X or less from among them without paying their mana costs.","B,G,U","B,G,U",rare,PTDM,Tarkir: Dragonstorm Promos,202p,2,1,,Indestructible
+"Kotis, the Fangkeeper",{1}{B}{G}{U},4.0,Legendary Creature — Zombie Warrior,"Indestructible
+Whenever Kotis deals combat damage to a player, exile the top X cards of their library, where X is the amount of damage dealt. You may cast any number of spells with mana value X or less from among them without paying their mana costs.","B,G,U","B,G,U",rare,TDM,Tarkir: Dragonstorm,202,2,1,,Indestructible
+"Kotis, the Fangkeeper",{1}{B}{G}{U},4.0,Legendary Creature — Zombie Warrior,"Indestructible
+Whenever Kotis deals combat damage to a player, exile the top X cards of their library, where X is the amount of damage dealt. You may cast any number of spells with mana value X or less from among them without paying their mana costs.","B,G,U","B,G,U",rare,PTDM,Tarkir: Dragonstorm Promos,202s,2,1,,Indestructible
+"Kotis, the Fangkeeper",{1}{B}{G}{U},4.0,Legendary Creature — Zombie Warrior,"Indestructible
+Whenever Kotis deals combat damage to a player, exile the top X cards of their library, where X is the amount of damage dealt. You may cast any number of spells with mana value X or less from among them without paying their mana costs.","B,G,U","B,G,U",rare,TDM,Tarkir: Dragonstorm,362,2,1,,Indestructible
+"Koya, Death from Above",{2}{W},3.0,Legendary Creature — Mutant Ninja Bird,"Flying
+When Koya enters, exile up to one other target creature. At the beginning of the next end step, you may pay {3}{B}. If you don't, return that card to the battlefield under its owner's control.",W,"B,W",uncommon,TMT,Teenage Mutant Ninja Turtles,11,2,1,,Flying
+Krang & Shredder,{4}{U/B}{U/B},6.0,Legendary Creature — Utrom Human Ninja,"Whenever Krang & Shredder enter or attack, each opponent exiles cards from the top of their library until they exile a nonland card.
+Disappear — At the beginning of your end step, if a permanent left the battlefield under your control this turn, you may cast a card exiled with Krang & Shredder without paying its mana cost.","B,U","B,U",rare,TMT,Teenage Mutant Ninja Turtles,201,6,7,,Disappear
+Krang & Shredder,{4}{U/B}{U/B},6.0,Legendary Creature — Utrom Human Ninja,"Whenever Krang & Shredder enter or attack, each opponent exiles cards from the top of their library until they exile a nonland card.
+Disappear — At the beginning of your end step, if a permanent left the battlefield under your control this turn, you may cast a card exiled with Krang & Shredder without paying its mana cost.","B,U","B,U",rare,TMT,Teenage Mutant Ninja Turtles,153,6,7,,Disappear
+Krang & Shredder,{4}{U/B}{U/B},6.0,Legendary Creature — Utrom Human Ninja,"Whenever Krang & Shredder enter or attack, each opponent exiles cards from the top of their library until they exile a nonland card.
+Disappear — At the beginning of your end step, if a permanent left the battlefield under your control this turn, you may cast a card exiled with Krang & Shredder without paying its mana cost.","B,U","B,U",rare,TMT,Teenage Mutant Ninja Turtles,245,6,7,,Disappear
+"Krang, Master Mind",{6}{U}{U},8.0,Legendary Artifact Creature — Utrom Warrior,"Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+When Krang enters, if you have fewer than four cards in hand, draw cards equal to the difference.
+Krang gets +1/+0 for each other artifact you control.",U,U,rare,TMT,Teenage Mutant Ninja Turtles,230,1,4,,Affinity
+"Krang, Master Mind",{6}{U}{U},8.0,Legendary Artifact Creature — Utrom Warrior,"Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+When Krang enters, if you have fewer than four cards in hand, draw cards equal to the difference.
+Krang gets +1/+0 for each other artifact you control.",U,U,rare,TMT,Teenage Mutant Ninja Turtles,43,1,4,,Affinity
+"Krang, Utrom Warlord",{9},9.0,Legendary Artifact Creature — Utrom Robot,"Flying, trample, indestructible, haste
+Other artifact creatures you control have flying, trample, indestructible, and haste.",,,mythic,TMT,Teenage Mutant Ninja Turtles,290,9,9,,Flying;Indestructible;Haste;Trample
+"Krang, Utrom Warlord",{9},9.0,Legendary Artifact Creature — Utrom Robot,"Flying, trample, indestructible, haste
+Other artifact creatures you control have flying, trample, indestructible, and haste.",,,mythic,TMT,Teenage Mutant Ninja Turtles,175,9,9,,Flying;Indestructible;Haste;Trample
+"Krang, Utrom Warlord",{9},9.0,Legendary Artifact Creature — Utrom Robot,"Flying, trample, indestructible, haste
+Other artifact creatures you control have flying, trample, indestructible, and haste.",,,mythic,TMT,Teenage Mutant Ninja Turtles,221,9,9,,Flying;Indestructible;Haste;Trample
+"Krang, Utrom Warlord",{9},9.0,Legendary Artifact Creature — Utrom Robot,"Flying, trample, indestructible, haste
+Other artifact creatures you control have flying, trample, indestructible, and haste.",,,mythic,TMT,Teenage Mutant Ninja Turtles,300,9,9,,Flying;Indestructible;Haste;Trample
+Kraul Whipcracker,{B}{G},2.0,Creature — Insect Assassin,"Reach
+When this creature enters, destroy target token an opponent controls.","B,G","B,G",uncommon,MKM,Murders at Karlov Manor,364,3,2,,Reach
+Kraul Whipcracker,{B}{G},2.0,Creature — Insect Assassin,"Reach
+When this creature enters, destroy target token an opponent controls.","B,G","B,G",uncommon,MKM,Murders at Karlov Manor,213,3,2,,Reach
+Kraul Whipcracker,{B}{G},2.0,Creature — Insect Assassin,"Reach
+When this creature enters, destroy target token an opponent controls.","B,G","B,G",uncommon,MKM,Murders at Karlov Manor,213†,3,2,,Reach
+Kraul Whipcracker,{B}{G},2.0,Creature — Insect Assassin,"Reach
+When this creature enters, destroy target token an opponent controls.","B,G","B,G",uncommon,MKM,Murders at Karlov Manor,425,3,2,,Reach
+"Kraum, Violent Cacophony",{2}{U}{R},4.0,Legendary Creature — Zombie Horror,"Flying
+Whenever you cast your second spell each turn, put a +1/+1 counter on Kraum and draw a card.","R,U","R,U",uncommon,OTJ,Outlaws of Thunder Junction,214,2,3,,Flying
+Kraven the Hunter,{1}{B}{G},3.0,Legendary Creature — Human Warrior Villain,"Trample
+Whenever a creature an opponent controls with the greatest power among creatures that player controls dies, draw a card and put a +1/+1 counter on Kraven the Hunter.","B,G","B,G",rare,OM1,Through the Omenpaths,127,4,3,,Trample
+Kraven the Hunter,{1}{B}{G},3.0,Legendary Creature — Human Warrior Villain,"Trample
+Whenever a creature an opponent controls with the greatest power among creatures that player controls dies, draw a card and put a +1/+1 counter on Kraven the Hunter.","B,G","B,G",rare,SPM,Marvel's Spider-Man,273,4,3,,Trample
+Kraven the Hunter,{1}{B}{G},3.0,Legendary Creature — Human Warrior Villain,"Trample
+Whenever a creature an opponent controls with the greatest power among creatures that player controls dies, draw a card and put a +1/+1 counter on Kraven the Hunter.","B,G","B,G",rare,SPM,Marvel's Spider-Man,133,4,3,,Trample
+Kraven the Hunter,{1}{B}{G},3.0,Legendary Creature — Human Warrior Villain,"Trample
+Whenever a creature an opponent controls with the greatest power among creatures that player controls dies, draw a card and put a +1/+1 counter on Kraven the Hunter.","B,G","B,G",rare,PSPM,Marvel's Spider-Man Promos,133s,4,3,,Trample
+Kraven's Cats,{1}{G},2.0,Creature — Cat Villain,{2}{G}: This creature gets +2/+2 until end of turn. Activate only once each turn.,G,G,common,SPM,Marvel's Spider-Man,104,2,2,,
+Kraven's Cats,{1}{G},2.0,Creature — Cat Villain,{2}{G}: This creature gets +2/+2 until end of turn. Activate only once each turn.,G,G,common,OM1,Through the Omenpaths,103,2,2,,
+"Kraven, Proud Predator",{1}{R}{G},3.0,Legendary Creature — Human Warrior Villain,"Vigilance
+Top of the Food Chain — Kraven's power is equal to the greatest mana value among permanents you control.","G,R","G,R",uncommon,OM1,Through the Omenpaths,135,*,4,,Vigilance
+"Kraven, Proud Predator",{1}{R}{G},3.0,Legendary Creature — Human Warrior Villain,"Vigilance
+Top of the Food Chain — Kraven's power is equal to the greatest mana value among permanents you control.","G,R","G,R",uncommon,SPM,Marvel's Spider-Man,132,*,4,,Vigilance
+Krenko's Buzzcrusher,{2}{R}{R},4.0,Artifact Creature — Insect Thopter,"Flying, trample
+When this creature enters, for each player, destroy up to one nonbasic land that player controls. For each land destroyed this way, its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.",R,R,rare,MKM,Murders at Karlov Manor,136,4,4,,Flying;Trample
+Krenko's Buzzcrusher,{2}{R}{R},4.0,Artifact Creature — Insect Thopter,"Flying, trample
+When this creature enters, for each player, destroy up to one nonbasic land that player controls. For each land destroyed this way, its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.",R,R,rare,PMKM,Murders at Karlov Manor Promos,136p,4,4,,Flying;Trample
+Krenko's Buzzcrusher,{2}{R}{R},4.0,Artifact Creature — Insect Thopter,"Flying, trample
+When this creature enters, for each player, destroy up to one nonbasic land that player controls. For each land destroyed this way, its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.",R,R,rare,PMKM,Murders at Karlov Manor Promos,136s,4,4,,Flying;Trample
+Krenko's Buzzcrusher,{2}{R}{R},4.0,Artifact Creature — Insect Thopter,"Flying, trample
+When this creature enters, for each player, destroy up to one nonbasic land that player controls. For each land destroyed this way, its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.",R,R,rare,MKM,Murders at Karlov Manor,405,4,4,,Flying;Trample
+"Krenko, Baron of Tin Street",{2}{R},3.0,Legendary Creature — Goblin,"Haste
+{T}, Sacrifice an artifact: Put a +1/+1 counter on each Goblin you control.
+Whenever an artifact is put into a graveyard from the battlefield, you may pay {R}. If you do, create a 1/1 red Goblin creature token. It gains haste until end of turn.",R,R,rare,MKM,Murders at Karlov Manor,135,3,3,,Haste
+"Krenko, Baron of Tin Street",{2}{R},3.0,Legendary Creature — Goblin,"Haste
+{T}, Sacrifice an artifact: Put a +1/+1 counter on each Goblin you control.
+Whenever an artifact is put into a graveyard from the battlefield, you may pay {R}. If you do, create a 1/1 red Goblin creature token. It gains haste until end of turn.",R,R,rare,MKM,Murders at Karlov Manor,350,3,3,,Haste
+"Krenko, Baron of Tin Street",{2}{R},3.0,Legendary Creature — Goblin,"Haste
+{T}, Sacrifice an artifact: Put a +1/+1 counter on each Goblin you control.
+Whenever an artifact is put into a graveyard from the battlefield, you may pay {R}. If you do, create a 1/1 red Goblin creature token. It gains haste until end of turn.",R,R,rare,PMKM,Murders at Karlov Manor Promos,135s,3,3,,Haste
+"Krenko, Baron of Tin Street",{2}{R},3.0,Legendary Creature — Goblin,"Haste
+{T}, Sacrifice an artifact: Put a +1/+1 counter on each Goblin you control.
+Whenever an artifact is put into a graveyard from the battlefield, you may pay {R}. If you do, create a 1/1 red Goblin creature token. It gains haste until end of turn.",R,R,rare,PMKM,Murders at Karlov Manor Promos,135p,3,3,,Haste
+"Krenko, Mob Boss",{2}{R}{R},4.0,Legendary Creature — Goblin Warrior,"{T}: Create X 1/1 red Goblin creature tokens, where X is the number of Goblins you control.",R,R,rare,J22,Jumpstart 2022,564,3,3,,
+"Krenko, Mob Boss",{2}{R}{R},4.0,Legendary Creature — Goblin Warrior,"{T}: Create X 1/1 red Goblin creature tokens, where X is the number of Goblins you control.",R,R,rare,RVR,Ravnica Remastered,335z,3,3,,
+"Krenko, Mob Boss",{2}{R}{R},4.0,Legendary Creature — Goblin Warrior,"{T}: Create X 1/1 red Goblin creature tokens, where X is the number of Goblins you control.",R,R,rare,CMM,Commander Masters,238,3,3,,
+"Krenko, Mob Boss",{2}{R}{R},4.0,Legendary Creature — Goblin Warrior,"{T}: Create X 1/1 red Goblin creature tokens, where X is the number of Goblins you control.",R,R,rare,PLST,The List,DDT-52,3,3,,
+"Krenko, Mob Boss",{2}{R}{R},4.0,Legendary Creature — Goblin Warrior,"{T}: Create X 1/1 red Goblin creature tokens, where X is the number of Goblins you control.",R,R,rare,DDN,Duel Decks: Speed vs. Cunning,15,3,3,,
+"Krenko, Mob Boss",{2}{R}{R},4.0,Legendary Creature — Goblin Warrior,"{T}: Create X 1/1 red Goblin creature tokens, where X is the number of Goblins you control.",R,R,rare,RVR,Ravnica Remastered,114,3,3,,
+"Krenko, Mob Boss",{2}{R}{R},4.0,Legendary Creature — Goblin Warrior,"{T}: Create X 1/1 red Goblin creature tokens, where X is the number of Goblins you control.",R,R,rare,RVR,Ravnica Remastered,430,3,3,,
+"Krenko, Mob Boss",{2}{R}{R},4.0,Legendary Creature — Goblin Warrior,"{T}: Create X 1/1 red Goblin creature tokens, where X is the number of Goblins you control.",R,R,rare,FDN,Foundations,204,3,3,,
+"Krenko, Mob Boss",{2}{R}{R},4.0,Legendary Creature — Goblin Warrior,"{T}: Create X 1/1 red Goblin creature tokens, where X is the number of Goblins you control.",R,R,rare,DDT,Duel Decks: Merfolk vs. Goblins,52,3,3,,
+"Krenko, Mob Boss",{2}{R}{R},4.0,Legendary Creature — Goblin Warrior,"{T}: Create X 1/1 red Goblin creature tokens, where X is the number of Goblins you control.",R,R,rare,M13,Magic 2013,138,3,3,,
+"Krenko, Mob Boss",{2}{R}{R},4.0,Legendary Creature — Goblin Warrior,"{T}: Create X 1/1 red Goblin creature tokens, where X is the number of Goblins you control.",R,R,rare,CMM,Commander Masters,543,3,3,,
+"Krenko, Mob Boss",{2}{R}{R},4.0,Legendary Creature — Goblin Warrior,"{T}: Create X 1/1 red Goblin creature tokens, where X is the number of Goblins you control.",R,R,rare,JMP,Jumpstart,339,3,3,,
+"Krenko, Mob Boss",{2}{R}{R},4.0,Legendary Creature — Goblin Warrior,"{T}: Create X 1/1 red Goblin creature tokens, where X is the number of Goblins you control.",R,R,rare,RVR,Ravnica Remastered,335,3,3,,
+"Krenko, Mob Boss",{2}{R}{R},4.0,Legendary Creature — Goblin Warrior,"{T}: Create X 1/1 red Goblin creature tokens, where X is the number of Goblins you control.",R,R,rare,PFDN,Foundations Promos,204s,3,3,,
+Krotiq Nestguard,{2}{G},3.0,Creature — Insect,"Defender
+{2}{G}: This creature can attack this turn as though it didn't have defender.",G,G,common,TDM,Tarkir: Dragonstorm,148,4,4,,Defender
+Krumar Initiate,{1}{B},2.0,Creature — Human Cleric,"{X}{B}, {T}, Pay X life: This creature endures X. Activate only as a sorcery. (Put X +1/+1 counters on it or create an X/X white Spirit creature token.)",B,B,uncommon,TDM,Tarkir: Dragonstorm,84,2,2,,Endure
+"Kuja, Genome Sorcerer // Trance Kuja, Fate Defied",,4.0,Legendary Creature — Human Mutant Wizard // Legendary Creature — Avatar Wizard,,,"B,R",rare,FIN,Final Fantasy,232,,,,Transform
+"Kuja, Genome Sorcerer // Trance Kuja, Fate Defied",,4.0,Legendary Creature — Human Mutant Wizard // Legendary Creature — Avatar Wizard,,,"B,R",rare,FIN,Final Fantasy,399,,,,Transform
+"Kuja, Genome Sorcerer // Trance Kuja, Fate Defied",,4.0,Legendary Creature — Human Mutant Wizard // Legendary Creature — Avatar Wizard,,,"B,R",rare,FIN,Final Fantasy,544†,,,,Transform
+"Kuja, Genome Sorcerer // Trance Kuja, Fate Defied",,4.0,Legendary Creature — Human Mutant Wizard // Legendary Creature — Avatar Wizard,,,"B,R",rare,FIN,Final Fantasy,232†,,,,Transform
+"Kuja, Genome Sorcerer // Trance Kuja, Fate Defied",,4.0,Legendary Creature — Human Mutant Wizard // Legendary Creature — Avatar Wizard,,,"B,R",rare,FIN,Final Fantasy,497,,,,Transform
+"Kuja, Genome Sorcerer // Trance Kuja, Fate Defied",,4.0,Legendary Creature — Human Mutant Wizard // Legendary Creature — Avatar Wizard,,,"B,R",rare,FIN,Final Fantasy,399†,,,,Transform
+"Kuja, Genome Sorcerer // Trance Kuja, Fate Defied",,4.0,Legendary Creature — Human Mutant Wizard // Legendary Creature — Avatar Wizard,,,"B,R",rare,PFIN,Final Fantasy Promos,232s,,,,Transform
+"Kuja, Genome Sorcerer // Trance Kuja, Fate Defied",,4.0,Legendary Creature — Human Mutant Wizard // Legendary Creature — Avatar Wizard,,,"B,R",rare,FIN,Final Fantasy,497†,,,,Transform
+"Kuja, Genome Sorcerer // Trance Kuja, Fate Defied",,4.0,Legendary Creature — Human Mutant Wizard // Legendary Creature — Avatar Wizard,,,"B,R",rare,FIN,Final Fantasy,544,,,,Transform
+Kulrath Mystic,{2}{U},3.0,Creature — Elemental Wizard,"Whenever you cast a spell with mana value 4 or greater, this creature gets +2/+0 and gains vigilance until end of turn.",U,U,common,ECL,Lorwyn Eclipsed,56,2,4,,
+Kulrath Zealot,{5}{R},6.0,Creature — Elemental Warrior,"When this creature enters, exile the top card of your library. Until the end of your next turn, you may play that card.
+Basic landcycling {1}{R} ({1}{R}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)",R,R,common,ECL,Lorwyn Eclipsed,148,6,5,,Landcycling;Basic landcycling;Typecycling;Cycling
+Kutzil's Flanker,{2}{W},3.0,Creature — Cat Warrior,"Flash
+When this creature enters, choose one —
+• Put a +1/+1 counter on this creature for each creature that left the battlefield under your control this turn.
+• You gain 2 life and scry 2.
+• Exile target player's graveyard.",W,W,rare,LCI,The Lost Caverns of Ixalan,355,3,1,,Flash;Scry
+Kutzil's Flanker,{2}{W},3.0,Creature — Cat Warrior,"Flash
+When this creature enters, choose one —
+• Put a +1/+1 counter on this creature for each creature that left the battlefield under your control this turn.
+• You gain 2 life and scry 2.
+• Exile target player's graveyard.",W,W,rare,PLCI,The Lost Caverns of Ixalan Promos,20s,3,1,,Flash;Scry
+Kutzil's Flanker,{2}{W},3.0,Creature — Cat Warrior,"Flash
+When this creature enters, choose one —
+• Put a +1/+1 counter on this creature for each creature that left the battlefield under your control this turn.
+• You gain 2 life and scry 2.
+• Exile target player's graveyard.",W,W,rare,PLCI,The Lost Caverns of Ixalan Promos,20p,3,1,,Flash;Scry
+Kutzil's Flanker,{2}{W},3.0,Creature — Cat Warrior,"Flash
+When this creature enters, choose one —
+• Put a +1/+1 counter on this creature for each creature that left the battlefield under your control this turn.
+• You gain 2 life and scry 2.
+• Exile target player's graveyard.",W,W,rare,LCI,The Lost Caverns of Ixalan,20,3,1,,Flash;Scry
+"Kutzil, Malamet Exemplar",{1}{G}{W},3.0,Legendary Creature — Cat Warrior,"Your opponents can't cast spells during your turn.
+Whenever one or more creatures you control each with power greater than its base power deals combat damage to a player, draw a card.","G,W","G,W",uncommon,LCI,The Lost Caverns of Ixalan,304,3,3,,
+"Kutzil, Malamet Exemplar",{1}{G}{W},3.0,Legendary Creature — Cat Warrior,"Your opponents can't cast spells during your turn.
+Whenever one or more creatures you control each with power greater than its base power deals combat damage to a player, draw a card.","G,W","G,W",uncommon,LCI,The Lost Caverns of Ixalan,232,3,3,,
+"Kykar, Zephyr Awakener",{2}{W}{U},4.0,Legendary Creature — Bird Wizard,"Flying
+Whenever you cast a noncreature spell, choose one —
+• Exile another target creature you control. Return that card to the battlefield under its owner's control at the beginning of the next end step.
+• Create a 1/1 white Spirit creature token with flying.","U,W","U,W",rare,FDN,Foundations,409,3,4,,Flying
+"Kykar, Zephyr Awakener",{2}{W}{U},4.0,Legendary Creature — Bird Wizard,"Flying
+Whenever you cast a noncreature spell, choose one —
+• Exile another target creature you control. Return that card to the battlefield under its owner's control at the beginning of the next end step.
+• Create a 1/1 white Spirit creature token with flying.","U,W","U,W",rare,FDN,Foundations,122,3,4,,Flying
+"Kykar, Zephyr Awakener",{2}{W}{U},4.0,Legendary Creature — Bird Wizard,"Flying
+Whenever you cast a noncreature spell, choose one —
+• Exile another target creature you control. Return that card to the battlefield under its owner's control at the beginning of the next end step.
+• Create a 1/1 white Spirit creature token with flying.","U,W","U,W",rare,PFDN,Foundations Promos,122p,3,4,,Flying
+"Kykar, Zephyr Awakener",{2}{W}{U},4.0,Legendary Creature — Bird Wizard,"Flying
+Whenever you cast a noncreature spell, choose one —
+• Exile another target creature you control. Return that card to the battlefield under its owner's control at the beginning of the next end step.
+• Create a 1/1 white Spirit creature token with flying.","U,W","U,W",rare,FDN,Foundations,348,3,4,,Flying
+"Kykar, Zephyr Awakener",{2}{W}{U},4.0,Legendary Creature — Bird Wizard,"Flying
+Whenever you cast a noncreature spell, choose one —
+• Exile another target creature you control. Return that card to the battlefield under its owner's control at the beginning of the next end step.
+• Create a 1/1 white Spirit creature token with flying.","U,W","U,W",rare,PFDN,Foundations Promos,122s,3,4,,Flying
+"Kykar, Zephyr Awakener",{2}{W}{U},4.0,Legendary Creature — Bird Wizard,"Flying
+Whenever you cast a noncreature spell, choose one —
+• Exile another target creature you control. Return that card to the battlefield under its owner's control at the beginning of the next end step.
+• Create a 1/1 white Spirit creature token with flying.","U,W","U,W",rare,FDN,Foundations,481,3,4,,Flying
+"Kylox, Visionary Inventor",{5}{U}{R},7.0,Legendary Creature — Lizard Artificer,"Menace, ward {2}, haste
+Whenever Kylox attacks, sacrifice any number of other creatures, then exile the top X cards of your library, where X is their total power. You may cast any number of instant and/or sorcery spells from among the exiled cards without paying their mana costs.","R,U","R,U",rare,MKM,Murders at Karlov Manor,214,4,4,,Haste;Menace;Ward
+"Kylox, Visionary Inventor",{5}{U}{R},7.0,Legendary Creature — Lizard Artificer,"Menace, ward {2}, haste
+Whenever Kylox attacks, sacrifice any number of other creatures, then exile the top X cards of your library, where X is their total power. You may cast any number of instant and/or sorcery spells from among the exiled cards without paying their mana costs.","R,U","R,U",rare,PMKM,Murders at Karlov Manor Promos,214p,4,4,,Haste;Menace;Ward
+"Kylox, Visionary Inventor",{5}{U}{R},7.0,Legendary Creature — Lizard Artificer,"Menace, ward {2}, haste
+Whenever Kylox attacks, sacrifice any number of other creatures, then exile the top X cards of your library, where X is their total power. You may cast any number of instant and/or sorcery spells from among the exiled cards without paying their mana costs.","R,U","R,U",rare,MKM,Murders at Karlov Manor,365,4,4,,Haste;Menace;Ward
+"Kylox, Visionary Inventor",{5}{U}{R},7.0,Legendary Creature — Lizard Artificer,"Menace, ward {2}, haste
+Whenever Kylox attacks, sacrifice any number of other creatures, then exile the top X cards of your library, where X is their total power. You may cast any number of instant and/or sorcery spells from among the exiled cards without paying their mana costs.","R,U","R,U",rare,PMKM,Murders at Karlov Manor Promos,214s,4,4,,Haste;Menace;Ward
+Kyoshi Warriors,{3}{W},4.0,Creature — Human Warrior Ally,"When this creature enters, create a 1/1 white Ally creature token.",W,W,common,TLA,Avatar: The Last Airbender,26,3,3,,

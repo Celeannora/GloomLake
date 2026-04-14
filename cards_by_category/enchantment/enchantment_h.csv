@@ -1,0 +1,50 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Hardlight Containment,{W},1.0,Enchantment — Aura,"Enchant artifact you control
+When this Aura enters, exile target creature an opponent controls until this Aura leaves the battlefield.
+Enchanted permanent has ward {1}.",W,W,rare,EOE,Edge of Eternities,20,,,,Enchant
+Hardlight Containment,{W},1.0,Enchantment — Aura,"Enchant artifact you control
+When this Aura enters, exile target creature an opponent controls until this Aura leaves the battlefield.
+Enchanted permanent has ward {1}.",W,W,rare,EOE,Edge of Eternities,319,,,,Enchant
+Hardlight Containment,{W},1.0,Enchantment — Aura,"Enchant artifact you control
+When this Aura enters, exile target creature an opponent controls until this Aura leaves the battlefield.
+Enchanted permanent has ward {1}.",W,W,rare,PEOE,Edge of Eternities Promos,20s,,,,Enchant
+Hardlight Containment,{W},1.0,Enchantment — Aura,"Enchant artifact you control
+When this Aura enters, exile target creature an opponent controls until this Aura leaves the battlefield.
+Enchanted permanent has ward {1}.",W,W,rare,PEOE,Edge of Eternities Promos,20p,,,,Enchant
+High Noon,{1}{W},2.0,Enchantment,"Each player can't cast more than one spell each turn.
+{4}{R}, Sacrifice this enchantment: It deals 5 damage to any target.",W,"R,W",rare,OTJ,Outlaws of Thunder Junction,314,,,,
+High Noon,{1}{W},2.0,Enchantment,"Each player can't cast more than one spell each turn.
+{4}{R}, Sacrifice this enchantment: It deals 5 damage to any target.",W,"R,W",rare,POTJ,Outlaws of Thunder Junction Promos,15s,,,,
+High Noon,{1}{W},2.0,Enchantment,"Each player can't cast more than one spell each turn.
+{4}{R}, Sacrifice this enchantment: It deals 5 damage to any target.",W,"R,W",rare,POTJ,Outlaws of Thunder Junction Promos,15p,,,,
+High Noon,{1}{W},2.0,Enchantment,"Each player can't cast more than one spell each turn.
+{4}{R}, Sacrifice this enchantment: It deals 5 damage to any target.",W,"R,W",rare,OTJ,Outlaws of Thunder Junction,15,,,,
+Hoarder's Overflow,{1}{R},2.0,Enchantment,"When this enchantment enters and whenever you expend 4, put a stash counter on it. (You expend 4 as you spend your fourth total mana to cast spells during a turn.)
+{1}{R}, Sacrifice this enchantment: Discard your hand, then draw cards equal to the number of stash counters on this enchantment.",R,R,uncommon,BLB,Bloomburrow,141,,,,
+Hollowmurk Siege,{B}{G},2.0,Enchantment,"As this enchantment enters, choose Sultai or Abzan.
+• Sultai — Whenever a counter is put on a creature you control, draw a card. This ability triggers only once each turn.
+• Abzan — Whenever you attack, put a +1/+1 counter on target attacking creature. It gains menace until end of turn.","B,G","B,G",rare,TDM,Tarkir: Dragonstorm,192,,,,
+Hollowmurk Siege,{B}{G},2.0,Enchantment,"As this enchantment enters, choose Sultai or Abzan.
+• Sultai — Whenever a counter is put on a creature you control, draw a card. This ability triggers only once each turn.
+• Abzan — Whenever you attack, put a +1/+1 counter on target attacking creature. It gains menace until end of turn.","B,G","B,G",rare,PTDM,Tarkir: Dragonstorm Promos,192s,,,,
+Hollowmurk Siege,{B}{G},2.0,Enchantment,"As this enchantment enters, choose Sultai or Abzan.
+• Sultai — Whenever a counter is put on a creature you control, draw a card. This ability triggers only once each turn.
+• Abzan — Whenever you attack, put a +1/+1 counter on target attacking creature. It gains menace until end of turn.","B,G","B,G",rare,PTDM,Tarkir: Dragonstorm Promos,192p,,,,
+Hollowmurk Siege,{B}{G},2.0,Enchantment,"As this enchantment enters, choose Sultai or Abzan.
+• Sultai — Whenever a counter is put on a creature you control, draw a card. This ability triggers only once each turn.
+• Abzan — Whenever you attack, put a +1/+1 counter on target attacking creature. It gains menace until end of turn.","B,G","B,G",rare,TDM,Tarkir: Dragonstorm,387,,,,
+Honest Work,{U},1.0,Enchantment — Aura,"Enchant creature an opponent controls
+When this Aura enters, tap enchanted creature and remove all counters from it.
+Enchanted creature loses all abilities and is a Citizen with base power and toughness 1/1 and ""{T}: Add {C}"" named Humble Merchant. (It loses all other creature types and names.)",U,U,uncommon,TLA,Avatar: The Last Airbender,55,,,,Enchant
+Hopeful Vigil,{1}{W},2.0,Enchantment,"When this enchantment enters, create a 2/2 white Knight creature token with vigilance.
+When this enchantment is put into a graveyard from the battlefield, scry 2.
+{2}{W}: Sacrifice this enchantment.",W,W,common,WOE,Wilds of Eldraine,17,,,,Scry
+Hour of Victory,{2}{B},3.0,Enchantment,"Start your engines!
+When this enchantment enters, create a 2/2 black Zombie creature token.
+Max speed — {1}{B}, Sacrifice this enchantment: Search your library for a card, put it into your hand, then shuffle. Activate only as a sorcery.",B,B,uncommon,DFT,Aetherdrift,91,,,,Max speed;Start your engines!
+Hunter's Talent,{1}{G},2.0,Enchantment — Class,"(Gain the next level as a sorcery to add its ability.)
+When this Class enters, target creature you control deals damage equal to its power to target creature you don't control.
+{1}{G}: Level 2
+Whenever you attack, target attacking creature gets +1/+0 and gains trample until end of turn.
+{3}{G}: Level 3
+At the beginning of your end step, if you control a creature with power 4 or greater, draw a card.",G,G,uncommon,BLB,Bloomburrow,179,,,,

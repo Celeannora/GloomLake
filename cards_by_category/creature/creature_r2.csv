@@ -1,0 +1,348 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Reclamation Sage,{2}{G},3.0,Creature — Elf Shaman,"When this creature enters, you may destroy target artifact or enchantment.",G,G,uncommon,FDN,Foundations,340,2,1,,
+Reclamation Sage,{2}{G},3.0,Creature — Elf Shaman,"When this creature enters, you may destroy target artifact or enchantment.",G,G,uncommon,CMR,Commander Legends,248,2,1,,
+Reclamation Sage,{2}{G},3.0,Creature — Elf Shaman,"When this creature enters, you may destroy target artifact or enchantment.",G,G,rare,SLD,Secret Lair Drop,777,2,1,,
+Reclamation Sage,{2}{G},3.0,Creature — Elf Shaman,"When this creature enters, you may destroy target artifact or enchantment.",G,G,uncommon,C14,Commander 2014,213,2,1,,
+Reclamation Sage,{2}{G},3.0,Creature — Elf Shaman,"When this creature enters, you may destroy target artifact or enchantment.",G,G,uncommon,J22,Jumpstart 2022,717,2,1,,
+Reclamation Sage,{2}{G},3.0,Creature — Elf Shaman,"When this creature enters, you may destroy target artifact or enchantment.",G,G,special,TSR,Time Spiral Remastered,366,2,1,,
+Reclamation Sage,{2}{G},3.0,Creature — Elf Shaman,"When this creature enters, you may destroy target artifact or enchantment.",G,G,uncommon,CMR,Commander Legends,434,2,1,,
+Reclamation Sage,{2}{G},3.0,Creature — Elf Shaman,"When this creature enters, you may destroy target artifact or enchantment.",G,G,uncommon,PM15,Magic 2015 Promos,194,2,1,,
+Reclamation Sage,{2}{G},3.0,Creature — Elf Shaman,"When this creature enters, you may destroy target artifact or enchantment.",G,G,uncommon,CMA,Commander Anthology,140,2,1,,
+Red Herring,{1}{R},2.0,Artifact Creature — Clue Fish,"Haste
+This creature attacks each combat if able.
+{2}, Sacrifice this creature: Draw a card.",R,R,common,MKM,Murders at Karlov Manor,142,2,2,,Haste
+Red Tiger Mechan,{3}{R},4.0,Artifact Creature — Robot Cat,"Haste
+Warp {1}{R} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",R,R,common,EOE,Edge of Eternities,154,3,3,,Haste;Warp
+Redcap Gutter-Dweller,{2}{R}{R},4.0,Creature — Goblin Warrior,"Menace
+When this creature enters, create two 1/1 black Rat creature tokens with ""This token can't block.""
+At the beginning of your upkeep, you may sacrifice another creature. If you do, put a +1/+1 counter on this creature and exile the top card of your library. You may play that card this turn.",R,R,rare,WOE,Wilds of Eldraine,351,3,3,,Menace
+Redcap Gutter-Dweller,{2}{R}{R},4.0,Creature — Goblin Warrior,"Menace
+When this creature enters, create two 1/1 black Rat creature tokens with ""This token can't block.""
+At the beginning of your upkeep, you may sacrifice another creature. If you do, put a +1/+1 counter on this creature and exile the top card of your library. You may play that card this turn.",R,R,rare,PWOE,Wilds of Eldraine Promos,146p,3,3,,Menace
+Redcap Gutter-Dweller,{2}{R}{R},4.0,Creature — Goblin Warrior,"Menace
+When this creature enters, create two 1/1 black Rat creature tokens with ""This token can't block.""
+At the beginning of your upkeep, you may sacrifice another creature. If you do, put a +1/+1 counter on this creature and exile the top card of your library. You may play that card this turn.",R,R,rare,WOE,Wilds of Eldraine,146,3,3,,Menace
+Redcap Gutter-Dweller,{2}{R}{R},4.0,Creature — Goblin Warrior,"Menace
+When this creature enters, create two 1/1 black Rat creature tokens with ""This token can't block.""
+At the beginning of your upkeep, you may sacrifice another creature. If you do, put a +1/+1 counter on this creature and exile the top card of your library. You may play that card this turn.",R,R,rare,FDN,Foundations,631,3,3,,Menace
+Redcap Gutter-Dweller,{2}{R}{R},4.0,Creature — Goblin Warrior,"Menace
+When this creature enters, create two 1/1 black Rat creature tokens with ""This token can't block.""
+At the beginning of your upkeep, you may sacrifice another creature. If you do, put a +1/+1 counter on this creature and exile the top card of your library. You may play that card this turn.",R,R,rare,PWOE,Wilds of Eldraine Promos,146s,3,3,,Menace
+Redcap Thief,{2}{R},3.0,Creature — Goblin Rogue,"When this creature enters, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")",R,R,common,WOE,Wilds of Eldraine,147,2,3,,Treasure
+Redrock Sentinel,{3},3.0,Artifact Creature — Golem,"Defender
+{2}, {T}, Sacrifice a land: Draw a card and create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")",,,uncommon,OTJ,Outlaws of Thunder Junction,247,2,4,,Treasure;Defender
+"Redshift, Rocketeer Chief",{R}{G},2.0,Legendary Creature — Goblin Pilot,"Vigilance
+{T}: Add X mana of any one color, where X is Redshift's power. Spend this mana only to activate abilities.
+Exhaust — {10}{R}{G}: Put any number of permanent cards from your hand onto the battlefield. (Activate each exhaust ability only once.)","G,R","G,R",rare,DFT,Aetherdrift,218,2,3,,Vigilance;Exhaust
+"Redshift, Rocketeer Chief",{R}{G},2.0,Legendary Creature — Goblin Pilot,"Vigilance
+{T}: Add X mana of any one color, where X is Redshift's power. Spend this mana only to activate abilities.
+Exhaust — {10}{R}{G}: Put any number of permanent cards from your hand onto the battlefield. (Activate each exhaust ability only once.)","G,R","G,R",rare,DFT,Aetherdrift,489,2,3,,Vigilance;Exhaust
+"Redshift, Rocketeer Chief",{R}{G},2.0,Legendary Creature — Goblin Pilot,"Vigilance
+{T}: Add X mana of any one color, where X is Redshift's power. Spend this mana only to activate abilities.
+Exhaust — {10}{R}{G}: Put any number of permanent cards from your hand onto the battlefield. (Activate each exhaust ability only once.)","G,R","G,R",rare,PDFT,Aetherdrift Promos,218s,2,3,,Vigilance;Exhaust
+"Redshift, Rocketeer Chief",{R}{G},2.0,Legendary Creature — Goblin Pilot,"Vigilance
+{T}: Add X mana of any one color, where X is Redshift's power. Spend this mana only to activate abilities.
+Exhaust — {10}{R}{G}: Put any number of permanent cards from your hand onto the battlefield. (Activate each exhaust ability only once.)","G,R","G,R",rare,PDFT,Aetherdrift Promos,218p,2,3,,Vigilance;Exhaust
+"Redshift, Rocketeer Chief",{R}{G},2.0,Legendary Creature — Goblin Pilot,"Vigilance
+{T}: Add X mana of any one color, where X is Redshift's power. Spend this mana only to activate abilities.
+Exhaust — {10}{R}{G}: Put any number of permanent cards from your hand onto the battlefield. (Activate each exhaust ability only once.)","G,R","G,R",rare,DFT,Aetherdrift,366,2,3,,Vigilance;Exhaust
+Redtooth Genealogist,{2}{G},3.0,Creature — Elf Advisor,"When this creature enters, create a Royal Role token attached to another target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1 and has ward {1}.)",G,G,common,WOE,Wilds of Eldraine,179,2,3,,Role token
+Redtooth Vanguard,{1}{G},2.0,Creature — Elf Warrior,"Trample
+Whenever an enchantment you control enters, you may pay {2}. If you do, return this card from your graveyard to your hand.",G,G,uncommon,WOE,Wilds of Eldraine,180,3,1,,Trample
+Regal Bunnicorn,{1}{W},2.0,Creature — Rabbit Unicorn,Regal Bunnicorn's power and toughness are each equal to the number of nonland permanents you control.,W,W,rare,WOE,Wilds of Eldraine,25,*,*,,
+Regal Bunnicorn,{1}{W},2.0,Creature — Rabbit Unicorn,Regal Bunnicorn's power and toughness are each equal to the number of nonland permanents you control.,W,W,rare,PWOE,Wilds of Eldraine Promos,25s,*,*,,
+Regal Bunnicorn,{1}{W},2.0,Creature — Rabbit Unicorn,Regal Bunnicorn's power and toughness are each equal to the number of nonland permanents you control.,W,W,rare,WOE,Wilds of Eldraine,326,*,*,,
+Regal Bunnicorn,{1}{W},2.0,Creature — Rabbit Unicorn,Regal Bunnicorn's power and toughness are each equal to the number of nonland permanents you control.,W,W,rare,PWOE,Wilds of Eldraine Promos,25p,*,*,,
+Regal Caracal,{3}{W}{W},5.0,Creature — Cat,"Other Cats you control get +1/+1 and have lifelink. (Damage dealt by those creatures also causes you to gain that much life.)
+When this creature enters, create two 1/1 white Cat creature tokens with lifelink.",W,W,rare,PLST,The List,AKH-24,3,3,,
+Regal Caracal,{3}{W}{W},5.0,Creature — Cat,"Other Cats you control get +1/+1 and have lifelink. (Damage dealt by those creatures also causes you to gain that much life.)
+When this creature enters, create two 1/1 white Cat creature tokens with lifelink.",W,W,rare,J22,Jumpstart 2022,232,3,3,,
+Regal Caracal,{3}{W}{W},5.0,Creature — Cat,"Other Cats you control get +1/+1 and have lifelink. (Damage dealt by those creatures also causes you to gain that much life.)
+When this creature enters, create two 1/1 white Cat creature tokens with lifelink.",W,W,rare,FDN,Foundations,579,3,3,,
+Regal Caracal,{3}{W}{W},5.0,Creature — Cat,"Other Cats you control get +1/+1 and have lifelink. (Damage dealt by those creatures also causes you to gain that much life.)
+When this creature enters, create two 1/1 white Cat creature tokens with lifelink.",W,W,rare,AKR,Amonkhet Remastered,339,3,3,,
+Regal Caracal,{3}{W}{W},5.0,Creature — Cat,"Other Cats you control get +1/+1 and have lifelink. (Damage dealt by those creatures also causes you to gain that much life.)
+When this creature enters, create two 1/1 white Cat creature tokens with lifelink.",W,W,rare,SLD,Secret Lair Drop,23,3,3,,
+Regal Caracal,{3}{W}{W},5.0,Creature — Cat,"Other Cats you control get +1/+1 and have lifelink. (Damage dealt by those creatures also causes you to gain that much life.)
+When this creature enters, create two 1/1 white Cat creature tokens with lifelink.",W,W,rare,AKH,Amonkhet,24,3,3,,
+Regal Caracal,{3}{W}{W},5.0,Creature — Cat,"Other Cats you control get +1/+1 and have lifelink. (Damage dealt by those creatures also causes you to gain that much life.)
+When this creature enters, create two 1/1 white Cat creature tokens with lifelink.",W,W,rare,PAKH,Amonkhet Promos,24s,3,3,,
+Regal Imperiosaur,{1}{G}{G},3.0,Creature — Dinosaur,Other Dinosaurs you control get +1/+1.,G,G,rare,DFT,Aetherdrift,177,5,4,,
+Regal Imperiosaur,{1}{G}{G},3.0,Creature — Dinosaur,Other Dinosaurs you control get +1/+1.,G,G,rare,DFT,Aetherdrift,389,5,4,,
+Regal Imperiosaur,{1}{G}{G},3.0,Creature — Dinosaur,Other Dinosaurs you control get +1/+1.,G,G,rare,PDFT,Aetherdrift Promos,177s,5,4,,
+Regal Imperiosaur,{1}{G}{G},3.0,Creature — Dinosaur,Other Dinosaurs you control get +1/+1.,G,G,rare,DFT,Aetherdrift,470,5,4,,
+Regal Imperiosaur,{1}{G}{G},3.0,Creature — Dinosaur,Other Dinosaurs you control get +1/+1.,G,G,rare,PDFT,Aetherdrift Promos,177p,5,4,,
+Reigning Victor,{2/R}{2/W}{2/B},6.0,Creature — Orc Warrior,"Mobilize 1 (Whenever this creature attacks, create a tapped and attacking 1/1 red Warrior creature token. Sacrifice it at the beginning of the next end step.)
+When this creature enters, target creature gets +1/+0 and gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)","B,R,W","B,R,W",common,TDM,Tarkir: Dragonstorm,216,3,3,,Mobilize
+Relentless X-ATM092,{6},6.0,Artifact Creature — Robot Spider,"This creature can't be blocked except by three or more creatures.
+{8}: Return this card from your graveyard to the battlefield tapped with a finality counter on it. (If a creature with a finality counter on it would die, exile it instead.)",,,uncommon,FIN,Final Fantasy,268,6,5,,
+Reluctant Dounguard,{2}{W},3.0,Creature — Kithkin Soldier,"This creature enters with two -1/-1 counters on it.
+Whenever another creature you control enters while this creature has a -1/-1 counter on it, remove a -1/-1 counter from this creature.",W,W,common,ECL,Lorwyn Eclipsed,31,4,4,,
+Reluctant Role Model,{1}{W},2.0,Creature — Human Survivor,"Survival — At the beginning of your second main phase, if this creature is tapped, put a flying, lifelink, or +1/+1 counter on it.
+Whenever this creature or another creature you control dies, if it had counters on it, put those counters on up to one target creature.",W,W,rare,DSK,Duskmourn: House of Horror,303,2,2,,Lifelink;Survival
+Reluctant Role Model,{1}{W},2.0,Creature — Human Survivor,"Survival — At the beginning of your second main phase, if this creature is tapped, put a flying, lifelink, or +1/+1 counter on it.
+Whenever this creature or another creature you control dies, if it had counters on it, put those counters on up to one target creature.",W,W,rare,DSK,Duskmourn: House of Horror,26,2,2,,Lifelink;Survival
+Reluctant Role Model,{1}{W},2.0,Creature — Human Survivor,"Survival — At the beginning of your second main phase, if this creature is tapped, put a flying, lifelink, or +1/+1 counter on it.
+Whenever this creature or another creature you control dies, if it had counters on it, put those counters on up to one target creature.",W,W,rare,DSK,Duskmourn: House of Horror,289,2,2,,Lifelink;Survival
+Reluctant Role Model,{1}{W},2.0,Creature — Human Survivor,"Survival — At the beginning of your second main phase, if this creature is tapped, put a flying, lifelink, or +1/+1 counter on it.
+Whenever this creature or another creature you control dies, if it had counters on it, put those counters on up to one target creature.",W,W,rare,PDSK,Duskmourn: House of Horror Promos,26p,2,2,,Lifelink;Survival
+Reluctant Role Model,{1}{W},2.0,Creature — Human Survivor,"Survival — At the beginning of your second main phase, if this creature is tapped, put a flying, lifelink, or +1/+1 counter on it.
+Whenever this creature or another creature you control dies, if it had counters on it, put those counters on up to one target creature.",W,W,rare,PDSK,Duskmourn: House of Horror Promos,26s,2,2,,Lifelink;Survival
+Remnant Elemental,{1}{R},2.0,Creature — Elemental,"Reach
+Landfall — Whenever a land you control enters, this creature gets +2/+0 until end of turn.",R,R,uncommon,EOE,Edge of Eternities,155,0,4,,Reach;Landfall
+"Renet, Temporal Apprentice",{3}{U}{U},5.0,Legendary Creature — Human Wizard,"Flash
+When Renet enters, return each other nonland permanent that entered this turn to its owner's hand.",U,U,rare,TMT,Teenage Mutant Ninja Turtles,50,4,3,,Flash
+"Renet, Temporal Apprentice",{3}{U}{U},5.0,Legendary Creature — Human Wizard,"Flash
+When Renet enters, return each other nonland permanent that entered this turn to its owner's hand.",U,U,rare,TMT,Teenage Mutant Ninja Turtles,202,4,3,,Flash
+Reno and Rude,{1}{B},2.0,Legendary Creature — Human Assassin,"Menace
+Whenever Reno and Rude deals combat damage to a player, exile the top card of that player's library. Then you may sacrifice another creature or artifact. If you do, you may play the exiled card this turn, and mana of any type can be spent to cast it.",B,B,uncommon,FIN,Final Fantasy,113,2,1,,Menace
+Reno and Rude,{1}{B},2.0,Legendary Creature — Human Assassin,"Menace
+Whenever Reno and Rude deals combat damage to a player, exile the top card of that player's library. Then you may sacrifice another creature or artifact. If you do, you may play the exiled card this turn, and mana of any type can be spent to cast it.",B,B,uncommon,FIN,Final Fantasy,450,2,1,,Menace
+Repeat Offender,{1}{B},2.0,Creature — Human Assassin,"{2}{B}: If this creature is suspected, put a +1/+1 counter on it. Otherwise, suspect it. (A suspected creature has menace and can't block.)",B,B,common,MKM,Murders at Karlov Manor,101,2,1,,Suspect
+Reptilian Recruiter,{3}{R}{R},5.0,Creature — Lizard Warrior,"Trample
+When this creature enters, choose target creature. If that creature's power is 2 or less or if you control another Lizard, gain control of that creature until end of turn, untap it, and it gains haste until end of turn.",R,R,uncommon,BLB,Bloomburrow,149,4,2,,Trample
+Reputable Merchant,{2/W}{2/B}{2/G},6.0,Creature — Human Citizen,"When this creature enters or dies, put a +1/+1 counter on target creature you control.","B,G,W","B,G,W",common,TDM,Tarkir: Dragonstorm,217,2,2,,
+Rescue Leopard,{2}{R},3.0,Creature — Cat,"Whenever this creature becomes tapped, you may discard a card. If you do, draw a card.",R,R,common,TDM,Tarkir: Dragonstorm,116,4,2,,
+Resilient Roadrunner,{1}{R},2.0,Creature — Bird,"Haste, protection from Coyotes
+{3}: This creature can't be blocked this turn except by creatures with haste.",R,R,uncommon,OTJ,Outlaws of Thunder Junction,141,2,2,,Protection;Haste
+Resolute Reinforcements,{1}{W},2.0,Creature — Human Soldier,"Flash (You may cast this spell any time you could cast an instant.)
+When this creature enters, create a 1/1 white Soldier creature token.",W,W,uncommon,PLST,The List,DMU-29,1,1,,Flash
+Resolute Reinforcements,{1}{W},2.0,Creature — Human Soldier,"Flash (You may cast this spell any time you could cast an instant.)
+When this creature enters, create a 1/1 white Soldier creature token.",W,W,uncommon,DMU,Dominaria United,29,1,1,,Flash
+Resolute Reinforcements,{1}{W},2.0,Creature — Human Soldier,"Flash (You may cast this spell any time you could cast an instant.)
+When this creature enters, create a 1/1 white Soldier creature token.",W,W,uncommon,FDN,Foundations,145,1,1,,Flash
+Resolute Reinforcements,{1}{W},2.0,Creature — Human Soldier,"Flash (You may cast this spell any time you could cast an instant.)
+When this creature enters, create a 1/1 white Soldier creature token.",W,W,uncommon,DMU,Dominaria United,430,1,1,,Flash
+Resplendent Angel,{1}{W}{W},3.0,Creature — Angel,"Flying
+At the beginning of each end step, if you gained 5 or more life this turn, create a 4/4 white Angel creature token with flying and vigilance.
+{3}{W}{W}{W}: Until end of turn, this creature gets +2/+2 and gains lifelink.",W,W,mythic,PLCI,The Lost Caverns of Ixalan Promos,32p,3,3,,Flying
+Resplendent Angel,{1}{W}{W},3.0,Creature — Angel,"Flying
+At the beginning of each end step, if you gained 5 or more life this turn, create a 4/4 white Angel creature token with flying and vigilance.
+{3}{W}{W}{W}: Until end of turn, this creature gets +2/+2 and gains lifelink.",W,W,mythic,PLCI,The Lost Caverns of Ixalan Promos,32s,3,3,,Flying
+Resplendent Angel,{1}{W}{W},3.0,Creature — Angel,"Flying
+At the beginning of each end step, if you gained 5 or more life this turn, create a 4/4 white Angel creature token with flying and vigilance.
+{3}{W}{W}{W}: Until end of turn, this creature gets +2/+2 and gains lifelink.",W,W,mythic,M19,Core Set 2019,34,3,3,,Flying
+Resplendent Angel,{1}{W}{W},3.0,Creature — Angel,"Flying
+At the beginning of each end step, if you gained 5 or more life this turn, create a 4/4 white Angel creature token with flying and vigilance.
+{3}{W}{W}{W}: Until end of turn, this creature gets +2/+2 and gains lifelink.",W,W,mythic,PM19,Core Set 2019 Promos,34s,3,3,,Flying
+Resplendent Angel,{1}{W}{W},3.0,Creature — Angel,"Flying
+At the beginning of each end step, if you gained 5 or more life this turn, create a 4/4 white Angel creature token with flying and vigilance.
+{3}{W}{W}{W}: Until end of turn, this creature gets +2/+2 and gains lifelink.",W,W,mythic,LCI,The Lost Caverns of Ixalan,32,3,3,,Flying
+Resplendent Angel,{1}{W}{W},3.0,Creature — Angel,"Flying
+At the beginning of each end step, if you gained 5 or more life this turn, create a 4/4 white Angel creature token with flying and vigilance.
+{3}{W}{W}{W}: Until end of turn, this creature gets +2/+2 and gains lifelink.",W,W,mythic,PM19,Core Set 2019 Promos,34p,3,3,,Flying
+Resplendent Angel,{1}{W}{W},3.0,Creature — Angel,"Flying
+At the beginning of each end step, if you gained 5 or more life this turn, create a 4/4 white Angel creature token with flying and vigilance.
+{3}{W}{W}{W}: Until end of turn, this creature gets +2/+2 and gains lifelink.",W,W,mythic,LCI,The Lost Caverns of Ixalan,334,3,3,,Flying
+Resurrected Cultist,{2}{B},3.0,Creature — Human Cleric,"Delirium — {2}{B}{B}: Return this card from your graveyard to the battlefield with a finality counter on it. Activate only if there are four or more card types among cards in your graveyard and only as a sorcery. (If a creature with a finality counter on it would die, exile it instead.)",B,B,common,DSK,Duskmourn: House of Horror,115,4,1,,Delirium
+Retched Wretch,{2}{B},3.0,Creature — Goblin,"When this creature dies, if it had a -1/-1 counter on it, return it to the battlefield under its owner's control and it loses all abilities.",B,B,uncommon,ECL,Lorwyn Eclipsed,117,4,2,,
+"Rhino, Barreling Brute",{3}{R}{R}{G}{G},7.0,Legendary Creature — Human Villain,"Vigilance, trample, haste
+Whenever Rhino attacks, if you've cast a spell with mana value 4 or greater this turn, draw a card.","G,R","G,R",uncommon,SPM,Marvel's Spider-Man,140,6,7,,Vigilance;Haste;Trample
+"Rhino, Barreling Brute",{3}{R}{R}{G}{G},7.0,Legendary Creature — Human Villain,"Vigilance, trample, haste
+Whenever Rhino attacks, if you've cast a spell with mana value 4 or greater this turn, draw a card.","G,R","G,R",uncommon,OM1,Through the Omenpaths,160,6,7,,Vigilance;Haste;Trample
+"Rhys, the Evermore",{1}{W},2.0,Legendary Creature — Elf Warrior,"Flash
+When Rhys enters, another target creature you control gains persist until end of turn. (When it dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)
+{W}, {T}: Remove any number of counters from target creature you control. Activate only as a sorcery.",W,W,rare,PECL,Lorwyn Eclipsed Promos,32p,2,2,,Flash
+"Rhys, the Evermore",{1}{W},2.0,Legendary Creature — Elf Warrior,"Flash
+When Rhys enters, another target creature you control gains persist until end of turn. (When it dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)
+{W}, {T}: Remove any number of counters from target creature you control. Activate only as a sorcery.",W,W,rare,ECL,Lorwyn Eclipsed,32,2,2,,Flash
+"Rhys, the Evermore",{1}{W},2.0,Legendary Creature — Elf Warrior,"Flash
+When Rhys enters, another target creature you control gains persist until end of turn. (When it dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)
+{W}, {T}: Remove any number of counters from target creature you control. Activate only as a sorcery.",W,W,rare,ECL,Lorwyn Eclipsed,354,2,2,,Flash
+Rictus Robber,{3}{B},4.0,Creature — Zombie Rogue,"When this creature enters, if a creature died this turn, create a 2/2 blue and black Zombie Rogue creature token.
+Plot {2}{B} (You may pay {2}{B} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",B,B,uncommon,OTJ,Outlaws of Thunder Junction,102,4,3,,Plot
+Riftburst Hellion,{5}{R}{G},7.0,Creature — Hellion,"Reach
+Disguise {4}{R/G}{R/G} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)","G,R","G,R",common,MKM,Murders at Karlov Manor,228,6,7,,Reach;Disguise
+Riku of Many Paths,{G}{U}{R},3.0,Legendary Creature — Human Wizard,"Whenever you cast a modal spell, choose up to X, where X is the number of times you chose a mode for that spell —
+• Exile the top card of your library. Until the end of your next turn, you may play it.
+• Put a +1/+1 counter on Riku. It gains trample until end of turn.
+• Create a 1/1 blue Bird creature token with flying.","G,R,U","G,R,U",rare,OTJ,Outlaws of Thunder Junction,361,3,3,,
+Riku of Many Paths,{G}{U}{R},3.0,Legendary Creature — Human Wizard,"Whenever you cast a modal spell, choose up to X, where X is the number of times you chose a mode for that spell —
+• Exile the top card of your library. Until the end of your next turn, you may play it.
+• Put a +1/+1 counter on Riku. It gains trample until end of turn.
+• Create a 1/1 blue Bird creature token with flying.","G,R,U","G,R,U",rare,OTJ,Outlaws of Thunder Junction,227,3,3,,
+Riku of Many Paths,{G}{U}{R},3.0,Legendary Creature — Human Wizard,"Whenever you cast a modal spell, choose up to X, where X is the number of times you chose a mode for that spell —
+• Exile the top card of your library. Until the end of your next turn, you may play it.
+• Put a +1/+1 counter on Riku. It gains trample until end of turn.
+• Create a 1/1 blue Bird creature token with flying.","G,R,U","G,R,U",rare,POTJ,Outlaws of Thunder Junction Promos,227p,3,3,,
+Riku of Many Paths,{G}{U}{R},3.0,Legendary Creature — Human Wizard,"Whenever you cast a modal spell, choose up to X, where X is the number of times you chose a mode for that spell —
+• Exile the top card of your library. Until the end of your next turn, you may play it.
+• Put a +1/+1 counter on Riku. It gains trample until end of turn.
+• Create a 1/1 blue Bird creature token with flying.","G,R,U","G,R,U",rare,POTJ,Outlaws of Thunder Junction Promos,227s,3,3,,
+Riling Dawnbreaker // Signaling Roar,{4}{W} // {1}{W},5.0,Creature — Dragon // Sorcery — Omen,,W,W,common,TDM,Tarkir: Dragonstorm,21,3,4,,Flying;Vigilance
+Riling Dawnbreaker // Signaling Roar,{4}{W} // {1}{W},5.0,Creature — Dragon // Sorcery — Omen,,W,W,common,TDM,Tarkir: Dragonstorm,292,3,4,,Flying;Vigilance
+Rimefur Reindeer,{3}{W},4.0,Creature — Elk,"Whenever an enchantment you control enters, tap target creature an opponent controls.",W,W,common,WOE,Wilds of Eldraine,27,3,4,,
+Rimekin Recluse,{2}{U},3.0,Creature — Elemental Wizard,"When this creature enters, return up to one other target creature to its owner's hand.",U,U,uncommon,ECL,Lorwyn Eclipsed,66,3,2,,
+Rinoa Heartilly,{3}{G}{W},5.0,Legendary Creature — Human Rebel Warlock,"When Rinoa Heartilly enters, create Angelo, a legendary 1/1 green and white Dog creature token.
+Angelo Cannon — Whenever Rinoa Heartilly attacks, another target creature you control gets +1/+1 until end of turn for each creature you control.","G,W","G,W",uncommon,FIN,Final Fantasy,502,4,4,,Angelo Cannon
+Rinoa Heartilly,{3}{G}{W},5.0,Legendary Creature — Human Rebel Warlock,"When Rinoa Heartilly enters, create Angelo, a legendary 1/1 green and white Dog creature token.
+Angelo Cannon — Whenever Rinoa Heartilly attacks, another target creature you control gets +1/+1 until end of turn for each creature you control.","G,W","G,W",uncommon,FIN,Final Fantasy,237,4,4,,Angelo Cannon
+"Rip, Spawn Hunter",{2}{G}{W},4.0,Legendary Creature — Human Survivor,"Survival — At the beginning of your second main phase, if Rip is tapped, reveal the top X cards of your library, where X is its power. Put any number of creature and/or Vehicle cards with different powers from among them into your hand. Put the rest on the bottom of your library in a random order.","G,W","G,W",rare,DSK,Duskmourn: House of Horror,362,4,4,,Survival
+"Rip, Spawn Hunter",{2}{G}{W},4.0,Legendary Creature — Human Survivor,"Survival — At the beginning of your second main phase, if Rip is tapped, reveal the top X cards of your library, where X is its power. Put any number of creature and/or Vehicle cards with different powers from among them into your hand. Put the rest on the bottom of your library in a random order.","G,W","G,W",rare,DSK,Duskmourn: House of Horror,228,4,4,,Survival
+"Rip, Spawn Hunter",{2}{G}{W},4.0,Legendary Creature — Human Survivor,"Survival — At the beginning of your second main phase, if Rip is tapped, reveal the top X cards of your library, where X is its power. Put any number of creature and/or Vehicle cards with different powers from among them into your hand. Put the rest on the bottom of your library in a random order.","G,W","G,W",rare,PDSK,Duskmourn: House of Horror Promos,228p,4,4,,Survival
+"Rip, Spawn Hunter",{2}{G}{W},4.0,Legendary Creature — Human Survivor,"Survival — At the beginning of your second main phase, if Rip is tapped, reveal the top X cards of your library, where X is its power. Put any number of creature and/or Vehicle cards with different powers from among them into your hand. Put the rest on the bottom of your library in a random order.","G,W","G,W",rare,PDSK,Duskmourn: House of Horror Promos,228s,4,4,,Survival
+Ripchain Razorkin,{3}{R},4.0,Creature — Human Berserker,"Reach
+{2}{R}, Sacrifice a land: Draw a card.",R,R,common,DSK,Duskmourn: House of Horror,154,5,3,,Reach
+Riptide Gearhulk,{1}{W}{W}{U}{U},5.0,Artifact Creature — Construct,"Double strike
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+When this creature enters, for each opponent, put up to one target nonland permanent that player controls into its owner's library third from the top.","U,W","U,W",mythic,PDFT,Aetherdrift Promos,219p,2,5,,Prowess;Double strike
+Riptide Gearhulk,{1}{W}{W}{U}{U},5.0,Artifact Creature — Construct,"Double strike
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+When this creature enters, for each opponent, put up to one target nonland permanent that player controls into its owner's library third from the top.","U,W","U,W",mythic,DFT,Aetherdrift,219,2,5,,Prowess;Double strike
+Riptide Gearhulk,{1}{W}{W}{U}{U},5.0,Artifact Creature — Construct,"Double strike
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+When this creature enters, for each opponent, put up to one target nonland permanent that player controls into its owner's library third from the top.","U,W","U,W",mythic,DFT,Aetherdrift,552,2,5,,Prowess;Double strike
+Riptide Gearhulk,{1}{W}{W}{U}{U},5.0,Artifact Creature — Construct,"Double strike
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+When this creature enters, for each opponent, put up to one target nonland permanent that player controls into its owner's library third from the top.","U,W","U,W",mythic,DFT,Aetherdrift,490,2,5,,Prowess;Double strike
+Riptide Gearhulk,{1}{W}{W}{U}{U},5.0,Artifact Creature — Construct,"Double strike
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+When this creature enters, for each opponent, put up to one target nonland permanent that player controls into its owner's library third from the top.","U,W","U,W",mythic,PDFT,Aetherdrift Promos,219s,2,5,,Prowess;Double strike
+Riptide Gearhulk,{1}{W}{W}{U}{U},5.0,Artifact Creature — Construct,"Double strike
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+When this creature enters, for each opponent, put up to one target nonland permanent that player controls into its owner's library third from the top.","U,W","U,W",mythic,DFT,Aetherdrift,353,2,5,,Prowess;Double strike
+Risen Necroregent,{4}{B},5.0,Creature — Zombie Cat Knight,"Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+Max speed — At the beginning of your end step, create a 2/2 black Zombie creature token.",B,B,uncommon,DFT,Aetherdrift,102,5,4,,Max speed;Start your engines!
+River Herald Guide,{2}{G},3.0,Creature — Merfolk Scout,"Vigilance
+When this creature enters, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)",G,G,common,LCI,The Lost Caverns of Ixalan,209,3,1,,Vigilance;Explore
+River Herald Scout,{1}{U},2.0,Creature — Merfolk Scout,"When this creature enters, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)",U,U,common,LCI,The Lost Caverns of Ixalan,72,1,2,,Explore
+Roaming Throne,{4},4.0,Artifact Creature — Golem,"Ward {2}
+As this creature enters, choose a creature type.
+This creature is the chosen type in addition to its other types.
+If a triggered ability of another creature you control of the chosen type triggers, it triggers an additional time.",,,rare,LCI,The Lost Caverns of Ixalan,344,4,4,,Ward
+Roaming Throne,{4},4.0,Artifact Creature — Golem,"Ward {2}
+As this creature enters, choose a creature type.
+This creature is the chosen type in addition to its other types.
+If a triggered ability of another creature you control of the chosen type triggers, it triggers an additional time.",,,rare,PLCI,The Lost Caverns of Ixalan Promos,258s,4,4,,Ward
+Roaming Throne,{4},4.0,Artifact Creature — Golem,"Ward {2}
+As this creature enters, choose a creature type.
+This creature is the chosen type in addition to its other types.
+If a triggered ability of another creature you control of the chosen type triggers, it triggers an additional time.",,,rare,LCI,The Lost Caverns of Ixalan,258,4,4,,Ward
+Roaming Throne,{4},4.0,Artifact Creature — Golem,"Ward {2}
+As this creature enters, choose a creature type.
+This creature is the chosen type in addition to its other types.
+If a triggered ability of another creature you control of the chosen type triggers, it triggers an additional time.",,,rare,PLCI,The Lost Caverns of Ixalan Promos,258p,4,4,,Ward
+Rock Soldiers,{3}{R},4.0,Artifact Creature — Elemental Soldier,"When this creature enters, destroy up to one target noncreature artifact.",R,R,common,TMT,Teenage Mutant Ninja Turtles,107,4,3,,
+"Rocksteady, Crash Courser",{4}{G}{G},6.0,Legendary Creature — Rhino Mutant,"Rocksteady can't be blocked by more than one creature.
+Boars you control can't be blocked by more than one creature.
+Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)",G,G,common,TMT,Teenage Mutant Ninja Turtles,131,7,7,,Landcycling;Forestcycling;Typecycling;Cycling
+Rodeo Pyromancers,{3}{R},4.0,Creature — Human Mercenary,"Whenever you cast your first spell each turn, add {R}{R}.",R,R,common,OTJ,Outlaws of Thunder Junction,143,3,4,,
+Rooftop Assassin,{3}{B},4.0,Creature — Vampire Assassin,"Flash
+Flying, lifelink
+When this creature enters, destroy target creature an opponent controls that was dealt damage this turn.",B,B,common,OTJ,Outlaws of Thunder Junction,103,2,2,,Flying;Lifelink;Flash
+Rooftop Percher,{5},5.0,Creature — Shapeshifter,"Changeling (This card is every creature type.)
+Flying
+When this creature enters, exile up to two target cards from graveyards. You gain 3 life.",,,common,ECL,Lorwyn Eclipsed,2,3,3,,Changeling;Flying
+Rook Turret,{3}{U},4.0,Artifact Creature — Construct,"Flying
+Whenever another artifact you control enters, you may draw a card. If you do, discard a card.",U,U,common,FIN,Final Fantasy,69,3,3,,Flying
+Rootrider Faun,{1}{G},2.0,Creature — Satyr Scout,"{T}: Add {G}.
+{1}, {T}: Add one mana of any color.",G,G,common,WOE,Wilds of Eldraine,182,1,3,,
+Rootwise Survivor,{3}{G}{G},5.0,Creature — Human Survivor,"Haste
+Survival — At the beginning of your second main phase, if this creature is tapped, put three +1/+1 counters on up to one target land you control. That land becomes a 0/0 Elemental creature in addition to its other types. It gains haste until your next turn.",G,G,uncommon,DSK,Duskmourn: House of Horror,196,3,4,,Haste;Survival
+"Rosa, Resolute White Mage",{3}{W},4.0,Legendary Creature — Human Noble Cleric,"Reach (This creature can block creatures with flying.)
+At the beginning of combat on your turn, put a +1/+1 counter on target creature you control. It gains lifelink until end of turn. (Damage dealt by the creature also causes you to gain that much life.)",W,W,rare,FIN,Final Fantasy,555,2,3,,Reach
+"Rosa, Resolute White Mage",{3}{W},4.0,Legendary Creature — Human Noble Cleric,"Reach (This creature can block creatures with flying.)
+At the beginning of combat on your turn, put a +1/+1 counter on target creature you control. It gains lifelink until end of turn. (Damage dealt by the creature also causes you to gain that much life.)",W,W,rare,FIN,Final Fantasy,431,2,3,,Reach
+Rot Farm Mortipede,{3}{B},4.0,Creature — Insect,"Whenever one or more creature cards leave your graveyard, this creature gets +1/+0 and gains menace and lifelink until end of turn.",B,B,common,MKM,Murders at Karlov Manor,102,3,4,,
+Rot-Curse Rakshasa,{1}{B},2.0,Creature — Demon,"Trample
+Decayed (This creature can't block. When it attacks, sacrifice it at end of combat.)
+Renew — {X}{B}{B}, Exile this card from your graveyard: Put a decayed counter on each of X target creatures. Activate only as a sorcery.",B,B,mythic,TDM,Tarkir: Dragonstorm,87,5,5,,Renew;Trample;Decayed
+Rot-Curse Rakshasa,{1}{B},2.0,Creature — Demon,"Trample
+Decayed (This creature can't block. When it attacks, sacrifice it at end of combat.)
+Renew — {X}{B}{B}, Exile this card from your graveyard: Put a decayed counter on each of X target creatures. Activate only as a sorcery.",B,B,mythic,PTDM,Tarkir: Dragonstorm Promos,87s,5,5,,Renew;Trample;Decayed
+Rot-Curse Rakshasa,{1}{B},2.0,Creature — Demon,"Trample
+Decayed (This creature can't block. When it attacks, sacrifice it at end of combat.)
+Renew — {X}{B}{B}, Exile this card from your graveyard: Put a decayed counter on each of X target creatures. Activate only as a sorcery.",B,B,mythic,TDM,Tarkir: Dragonstorm,339,5,5,,Renew;Trample;Decayed
+Rot-Curse Rakshasa,{1}{B},2.0,Creature — Demon,"Trample
+Decayed (This creature can't block. When it attacks, sacrifice it at end of combat.)
+Renew — {X}{B}{B}, Exile this card from your graveyard: Put a decayed counter on each of X target creatures. Activate only as a sorcery.",B,B,mythic,PTDM,Tarkir: Dragonstorm Promos,87p,5,5,,Renew;Trample;Decayed
+Rotisserie Elemental,{R},1.0,Creature — Elemental,"Menace
+Whenever this creature deals combat damage to a player, put a skewer counter on this creature. Then you may sacrifice it. If you do, exile the top X cards of your library, where X is the number of skewer counters on this creature. You may play those cards this turn.",R,R,rare,PWOE,Wilds of Eldraine Promos,148p,1,1,,Menace
+Rotisserie Elemental,{R},1.0,Creature — Elemental,"Menace
+Whenever this creature deals combat damage to a player, put a skewer counter on this creature. Then you may sacrifice it. If you do, exile the top X cards of your library, where X is the number of skewer counters on this creature. You may play those cards this turn.",R,R,rare,PWOE,Wilds of Eldraine Promos,148s,1,1,,Menace
+Rotisserie Elemental,{R},1.0,Creature — Elemental,"Menace
+Whenever this creature deals combat damage to a player, put a skewer counter on this creature. Then you may sacrifice it. If you do, exile the top X cards of your library, where X is the number of skewer counters on this creature. You may play those cards this turn.",R,R,rare,WOE,Wilds of Eldraine,148,1,1,,Menace
+Rotisserie Elemental,{R},1.0,Creature — Elemental,"Menace
+Whenever this creature deals combat damage to a player, put a skewer counter on this creature. Then you may sacrifice it. If you do, exile the top X cards of your library, where X is the number of skewer counters on this creature. You may play those cards this turn.",R,R,rare,WOE,Wilds of Eldraine,352,1,1,,Menace
+Rottenmouth Viper,{5}{B},6.0,Creature — Elemental Snake,"As an additional cost to cast this spell, you may sacrifice any number of nonland permanents. This spell costs {1} less to cast for each permanent sacrificed this way.
+Whenever this creature enters or attacks, put a blight counter on it. Then for each blight counter on it, each opponent loses 4 life unless that player sacrifices a nonland permanent of their choice or discards a card.",B,B,mythic,PBLB,Bloomburrow Promos,107p,6,6,,
+Rottenmouth Viper,{5}{B},6.0,Creature — Elemental Snake,"As an additional cost to cast this spell, you may sacrifice any number of nonland permanents. This spell costs {1} less to cast for each permanent sacrificed this way.
+Whenever this creature enters or attacks, put a blight counter on it. Then for each blight counter on it, each opponent loses 4 life unless that player sacrifices a nonland permanent of their choice or discards a card.",B,B,mythic,BLB,Bloomburrow,107,6,6,,
+Rottenmouth Viper,{5}{B},6.0,Creature — Elemental Snake,"As an additional cost to cast this spell, you may sacrifice any number of nonland permanents. This spell costs {1} less to cast for each permanent sacrificed this way.
+Whenever this creature enters or attacks, put a blight counter on it. Then for each blight counter on it, each opponent loses 4 life unless that player sacrifices a nonland permanent of their choice or discards a card.",B,B,mythic,BLB,Bloomburrow,290,6,6,,
+Rottenmouth Viper,{5}{B},6.0,Creature — Elemental Snake,"As an additional cost to cast this spell, you may sacrifice any number of nonland permanents. This spell costs {1} less to cast for each permanent sacrificed this way.
+Whenever this creature enters or attacks, put a blight counter on it. Then for each blight counter on it, each opponent loses 4 life unless that player sacrifices a nonland permanent of their choice or discards a card.",B,B,mythic,PBLB,Bloomburrow Promos,107s,6,6,,
+Rough Rhino Cavalry,{4}{R},5.0,Creature — Human Mercenary,"Firebending 2 (Whenever this creature attacks, add {R}{R}. This mana lasts until end of combat.)
+Exhaust — {8}: Put two +1/+1 counters on this creature. It gains trample until end of turn. (Activate each exhaust ability only once.)",R,R,common,TLA,Avatar: The Last Airbender,152,5,5,,Exhaust;Firebending
+Roughshod Duo,{2}{R},3.0,Creature — Mouse Raccoon,"Trample
+Whenever you expend 4, target creature you control gets +1/+1 and gains trample until end of turn. (You expend 4 as you spend your fourth total mana to cast spells during a turn.)",R,R,common,BLB,Bloomburrow,150,3,2,,Trample
+Roving Actuator,{3}{R},4.0,Artifact Creature — Robot,"Void — When this creature enters, if a nonland permanent left the battlefield this turn or a spell was warped this turn, exile up to one target instant or sorcery card with mana value 2 or less from your graveyard. Copy it. You may cast the copy without paying its mana cost.",R,R,uncommon,EOE,Edge of Eternities,157,3,4,,Void
+"Rowan, Scion of War",{1}{B}{R},3.0,Legendary Creature — Human Wizard,"Menace
+{T}: Spells you cast this turn that are black and/or red cost {X} less to cast, where X is the amount of life you lost this turn. Activate only as a sorcery.","B,R","B,R",mythic,PWOE,Wilds of Eldraine Promos,211p,4,2,,Menace
+"Rowan, Scion of War",{1}{B}{R},3.0,Legendary Creature — Human Wizard,"Menace
+{T}: Spells you cast this turn that are black and/or red cost {X} less to cast, where X is the amount of life you lost this turn. Activate only as a sorcery.","B,R","B,R",mythic,WOE,Wilds of Eldraine,211,4,2,,Menace
+"Rowan, Scion of War",{1}{B}{R},3.0,Legendary Creature — Human Wizard,"Menace
+{T}: Spells you cast this turn that are black and/or red cost {X} less to cast, where X is the amount of life you lost this turn. Activate only as a sorcery.","B,R","B,R",mythic,WOE,Wilds of Eldraine,300,4,2,,Menace
+"Rowan, Scion of War",{1}{B}{R},3.0,Legendary Creature — Human Wizard,"Menace
+{T}: Spells you cast this turn that are black and/or red cost {X} less to cast, where X is the amount of life you lost this turn. Activate only as a sorcery.","B,R","B,R",mythic,PWOE,Wilds of Eldraine Promos,211s,4,2,,Menace
+Rowdy Snowballers,{2}{U},3.0,Creature — Human Peasant Ally,"When this creature enters, tap target creature an opponent controls and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)",U,U,common,TLA,Avatar: The Last Airbender,68,2,2,,
+"Roxanne, Starfall Savant",{3}{R}{G},5.0,Legendary Creature — Cat Druid,"Whenever Roxanne enters or attacks, create a tapped colorless artifact token named Meteorite with ""When this token enters, it deals 2 damage to any target"" and ""{T}: Add one mana of any color.""
+Whenever you tap an artifact token for mana, add one mana of any type that artifact token produced.","G,R","G,R",rare,OTJ,Outlaws of Thunder Junction,228,4,3,,
+"Roxanne, Starfall Savant",{3}{R}{G},5.0,Legendary Creature — Cat Druid,"Whenever Roxanne enters or attacks, create a tapped colorless artifact token named Meteorite with ""When this token enters, it deals 2 damage to any target"" and ""{T}: Add one mana of any color.""
+Whenever you tap an artifact token for mana, add one mana of any type that artifact token produced.","G,R","G,R",rare,POTJ,Outlaws of Thunder Junction Promos,228p,4,3,,
+"Roxanne, Starfall Savant",{3}{R}{G},5.0,Legendary Creature — Cat Druid,"Whenever Roxanne enters or attacks, create a tapped colorless artifact token named Meteorite with ""When this token enters, it deals 2 damage to any target"" and ""{T}: Add one mana of any color.""
+Whenever you tap an artifact token for mana, add one mana of any type that artifact token produced.","G,R","G,R",rare,POTJ,Outlaws of Thunder Junction Promos,228s,4,3,,
+"Roxanne, Starfall Savant",{3}{R}{G},5.0,Legendary Creature — Cat Druid,"Whenever Roxanne enters or attacks, create a tapped colorless artifact token named Meteorite with ""When this token enters, it deals 2 damage to any target"" and ""{T}: Add one mana of any color.""
+Whenever you tap an artifact token for mana, add one mana of any type that artifact token produced.","G,R","G,R",rare,OTJ,Outlaws of Thunder Junction,362,4,3,,
+Rubblebelt Braggart,{4}{R},5.0,Creature — Lizard Warrior,"Whenever this creature attacks, if it's not suspected, you may suspect it. (A suspected creature has menace and can't block.)",R,R,common,MKM,Murders at Karlov Manor,143,5,5,,Suspect
+Rubblebelt Maverick,{G},1.0,Creature — Human Detective,"When this creature enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+{G}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. Activate only as a sorcery.",G,G,common,MKM,Murders at Karlov Manor,174,1,1,,Surveil
+"Ruby, Daring Tracker",{R}{G},2.0,Legendary Creature — Human Scout,"Haste (This creature can attack and {T} as soon as it comes under your control.)
+Whenever Ruby attacks while you control a creature with power 4 or greater, Ruby gets +2/+2 until end of turn.
+{T}: Add {R} or {G}.","G,R","G,R",rare,PWCS,Planeswalker Championship Promos,2024-02,1,2,,Haste
+"Ruby, Daring Tracker",{R}{G},2.0,Legendary Creature — Human Scout,"Haste (This creature can attack and {T} as soon as it comes under your control.)
+Whenever Ruby attacks while you control a creature with power 4 or greater, Ruby gets +2/+2 until end of turn.
+{T}: Add {R} or {G}.","G,R","G,R",uncommon,FDN,Foundations,245,1,2,,Haste
+"Ruby, Daring Tracker",{R}{G},2.0,Legendary Creature — Human Scout,"Haste (This creature can attack and {T} as soon as it comes under your control.)
+Whenever Ruby attacks while you control a creature with power 4 or greater, Ruby gets +2/+2 until end of turn.
+{T}: Add {R} or {G}.","G,R","G,R",uncommon,WOE,Wilds of Eldraine,212,1,2,,Haste
+Rufus Shinra,{1}{W}{B},3.0,Legendary Creature — Human Noble,"Whenever Rufus Shinra attacks, if you don't control a creature named Darkstar, create Darkstar, a legendary 2/2 white and black Dog creature token.","B,W","B,W",uncommon,FIN,Final Fantasy,503,2,4,,
+Rufus Shinra,{1}{W}{B},3.0,Legendary Creature — Human Noble,"Whenever Rufus Shinra attacks, if you don't control a creature named Darkstar, create Darkstar, a legendary 2/2 white and black Dog creature token.","B,W","B,W",uncommon,FIN,Final Fantasy,238,2,4,,
+Ruin-Lurker Bat,{W},1.0,Creature — Bat,"Flying, lifelink
+At the beginning of your end step, if you descended this turn, scry 1. (You descended if a permanent card was put into your graveyard from anywhere.)",W,W,uncommon,LCI,The Lost Caverns of Ixalan,33,1,1,,Scry;Flying;Lifelink
+Rune-Brand Juggler,{B}{R},2.0,Creature — Human Shaman,"When this creature enters, suspect up to one target creature you control. (A suspected creature has menace and can't block.)
+{3}{B}{R}, Sacrifice a suspected creature: Target creature gets -5/-5 until end of turn.","B,R","B,R",uncommon,MKM,Murders at Karlov Manor,229,2,2,,
+Rune-Scarred Demon,{5}{B}{B},7.0,Creature — Demon,"Flying
+When this creature enters, search your library for a card, put it into your hand, then shuffle.",B,B,rare,CMM,Commander Masters,184,6,6,,Flying
+Rune-Scarred Demon,{5}{B}{B},7.0,Creature — Demon,"Flying
+When this creature enters, search your library for a card, put it into your hand, then shuffle.",B,B,rare,FDN,Foundations,184,6,6,,Flying
+Rune-Scarred Demon,{5}{B}{B},7.0,Creature — Demon,"Flying
+When this creature enters, search your library for a card, put it into your hand, then shuffle.",B,B,rare,CMM,Commander Masters,521,6,6,,Flying
+Rune-Scarred Demon,{5}{B}{B},7.0,Creature — Demon,"Flying
+When this creature enters, search your library for a card, put it into your hand, then shuffle.",B,B,rare,M12,Magic 2012,106,6,6,,Flying
+Rune-Scarred Demon,{5}{B}{B},7.0,Creature — Demon,"Flying
+When this creature enters, search your library for a card, put it into your hand, then shuffle.",B,B,rare,PFDN,Foundations Promos,184s,6,6,,Flying
+Rune-Scarred Demon,{5}{B}{B},7.0,Creature — Demon,"Flying
+When this creature enters, search your library for a card, put it into your hand, then shuffle.",B,B,rare,PLST,The List,IMA-106,6,6,,Flying
+Rune-Scarred Demon,{5}{B}{B},7.0,Creature — Demon,"Flying
+When this creature enters, search your library for a card, put it into your hand, then shuffle.",B,B,rare,IMA,Iconic Masters,106,6,6,,Flying
+Rune-Sealed Wall,{2}{U},3.0,Artifact Creature — Wall,"Defender
+{T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",U,U,uncommon,FDN,Foundations,49,0,6,,Surveil;Defender
+Runescale Stormbrood // Chilling Screech,{3}{R} // {1}{U},4.0,Creature — Dragon // Instant — Omen,,R,"R,U",uncommon,TDM,Tarkir: Dragonstorm,221,2,4,,Flying
+Runescale Stormbrood // Chilling Screech,{3}{R} // {1}{U},4.0,Creature — Dragon // Instant — Omen,,R,"R,U",uncommon,TDM,Tarkir: Dragonstorm,316,2,4,,Flying
+Rust Harvester,{R},1.0,Artifact Creature — Robot,"Menace
+{2}, {T}, Exile an artifact card from your graveyard: Put a +1/+1 counter on this creature, then it deals damage equal to its power to any target.",R,R,rare,PEOE,Edge of Eternities Promos,159s,1,1,,Menace
+Rust Harvester,{R},1.0,Artifact Creature — Robot,"Menace
+{2}, {T}, Exile an artifact card from your graveyard: Put a +1/+1 counter on this creature, then it deals damage equal to its power to any target.",R,R,rare,EOE,Edge of Eternities,310,1,1,,Menace
+Rust Harvester,{R},1.0,Artifact Creature — Robot,"Menace
+{2}, {T}, Exile an artifact card from your graveyard: Put a +1/+1 counter on this creature, then it deals damage equal to its power to any target.",R,R,rare,EOE,Edge of Eternities,159,1,1,,Menace
+Rust Harvester,{R},1.0,Artifact Creature — Robot,"Menace
+{2}, {T}, Exile an artifact card from your graveyard: Put a +1/+1 counter on this creature, then it deals damage equal to its power to any target.",R,R,rare,PEOE,Edge of Eternities Promos,159p,1,1,,Menace
+Rust-Shield Rampager,{3}{G},4.0,Creature — Raccoon Warrior,"Offspring {2} (You may pay an additional {2} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+This creature can't be blocked by creatures with power 2 or less.",G,G,common,BLB,Bloomburrow,190,4,4,,Offspring
+Ruthless Lawbringer,{1}{W}{B},3.0,Creature — Vampire Assassin,"When this creature enters, you may sacrifice another creature. When you do, destroy target nonland permanent.","B,W","B,W",uncommon,OTJ,Outlaws of Thunder Junction,229,3,2,,
+Ruthless Lawbringer,{1}{W}{B},3.0,Creature — Vampire Assassin,"When this creature enters, you may sacrifice another creature. When you do, destroy target nonland permanent.","B,W","B,W",uncommon,OTJ,Outlaws of Thunder Junction,372,3,2,,
+"Rydia, Summoner of Mist",{R}{G},2.0,Legendary Creature — Human Shaman,"Landfall — Whenever a land you control enters, you may discard a card. If you do, draw a card.
+Summon — {X}, {T}: Return target Saga card with mana value X from your graveyard to the battlefield with a finality counter on it. It gains haste until end of turn. Activate only as a sorcery.","G,R","G,R",uncommon,FIN,Final Fantasy,239,1,2,,Summon;Landfall
+"Rydia, Summoner of Mist",{R}{G},2.0,Legendary Creature — Human Shaman,"Landfall — Whenever a land you control enters, you may discard a card. If you do, draw a card.
+Summon — {X}, {T}: Return target Saga card with mana value X from your graveyard to the battlefield with a finality counter on it. It gains haste until end of turn. Activate only as a sorcery.","G,R","G,R",uncommon,FIN,Final Fantasy,504,1,2,,Summon;Landfall

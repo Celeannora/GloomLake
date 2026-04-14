@@ -1,0 +1,90 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Walk-In Closet // Forgotten Cellar,{2}{G} // {3}{G}{G},8.0,Enchantment — Room // Enchantment — Room,,G,G,mythic,DSK,Duskmourn: House of Horror,205,,,,
+Walk-In Closet // Forgotten Cellar,{2}{G} // {3}{G}{G},8.0,Enchantment — Room // Enchantment — Room,,G,G,mythic,PDSK,Duskmourn: House of Horror Promos,205p,,,,
+Walk-In Closet // Forgotten Cellar,{2}{G} // {3}{G}{G},8.0,Enchantment — Room // Enchantment — Room,,G,G,mythic,PDSK,Duskmourn: House of Horror Promos,205s,,,,
+Walk-In Closet // Forgotten Cellar,{2}{G} // {3}{G}{G},8.0,Enchantment — Room // Enchantment — Room,,G,G,mythic,DSK,Duskmourn: House of Horror,341,,,,
+Wall Crawl,{3}{G},4.0,Enchantment,"When this enchantment enters, create a 2/1 green Spider creature token with reach, then you gain 1 life for each Spider you control.
+Spiders you control get +1/+1 and can't be blocked by creatures with defender.",G,G,uncommon,SPM,Marvel's Spider-Man,121,,,,
+Wall Crawl,{3}{G},4.0,Enchantment,"When this enchantment enters, create a 2/1 green Spider creature token with reach, then you gain 1 life for each Spider you control.
+Spiders you control get +1/+1 and can't be blocked by creatures with defender.",G,G,uncommon,OM1,Through the Omenpaths,112,,,,
+War Effort,{3}{R},4.0,Enchantment,"Creatures you control get +1/+0.
+Whenever you attack, create a 1/1 red Warrior creature token that's tapped and attacking. Sacrifice it at the beginning of the next end step.",R,R,uncommon,TDM,Tarkir: Dragonstorm,131,,,,
+War Squeak,{R},1.0,Enchantment — Aura,"Enchant creature
+When this Aura enters, target creature an opponent controls can't block this turn.
+Enchanted creature gets +1/+1 and has haste.",R,R,common,BLB,Bloomburrow,160,,,,Enchant
+Warleader's Call,{1}{R}{W},3.0,Enchantment,"Creatures you control get +1/+1.
+Whenever a creature you control enters, this enchantment deals 1 damage to each opponent.","R,W","R,W",rare,PMKM,Murders at Karlov Manor Promos,242p,,,,
+Warleader's Call,{1}{R}{W},3.0,Enchantment,"Creatures you control get +1/+1.
+Whenever a creature you control enters, this enchantment deals 1 damage to each opponent.","R,W","R,W",rare,PMKM,Murders at Karlov Manor Promos,242s,,,,
+Warleader's Call,{1}{R}{W},3.0,Enchantment,"Creatures you control get +1/+1.
+Whenever a creature you control enters, this enchantment deals 1 damage to each opponent.","R,W","R,W",rare,MKM,Murders at Karlov Manor,242,,,,
+Warleader's Call,{1}{R}{W},3.0,Enchantment,"Creatures you control get +1/+1.
+Whenever a creature you control enters, this enchantment deals 1 damage to each opponent.","R,W","R,W",rare,MKM,Murders at Karlov Manor,315,,,,
+Waterbender Ascension,{1}{U},2.0,Enchantment,"Whenever a creature you control deals combat damage to a player, put a quest counter on this enchantment. Then if it has four or more quest counters on it, draw a card.
+Waterbend {4}: Target creature can't be blocked this turn. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)",U,U,rare,TLA,Avatar: The Last Airbender,79,,,,Waterbend
+Waterbender Ascension,{1}{U},2.0,Enchantment,"Whenever a creature you control deals combat damage to a player, put a quest counter on this enchantment. Then if it has four or more quest counters on it, draw a card.
+Waterbend {4}: Target creature can't be blocked this turn. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)",U,U,rare,PTLA,Avatar: The Last Airbender Promos,79s,,,,Waterbend
+Waterbender Ascension,{1}{U},2.0,Enchantment,"Whenever a creature you control deals combat damage to a player, put a quest counter on this enchantment. Then if it has four or more quest counters on it, draw a card.
+Waterbend {4}: Target creature can't be blocked this turn. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)",U,U,rare,TLA,Avatar: The Last Airbender,310,,,,Waterbend
+Watery Grasp,{U},1.0,Enchantment — Aura,"Enchant creature
+Enchanted creature doesn't untap during its controller's untap step.
+Waterbend {5}: Enchanted creature's owner shuffles it into their library. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)",U,U,common,TLA,Avatar: The Last Airbender,82,,,,Enchant;Waterbend
+Weapons Manufacturing,{1}{R},2.0,Enchantment,"Whenever a nontoken artifact you control enters, create a colorless artifact token named Munitions with ""When this token leaves the battlefield, it deals 2 damage to any target.""",R,R,rare,PEOE,Edge of Eternities Promos,168s,,,,
+Weapons Manufacturing,{1}{R},2.0,Enchantment,"Whenever a nontoken artifact you control enters, create a colorless artifact token named Munitions with ""When this token leaves the battlefield, it deals 2 damage to any target.""",R,R,rare,PEOE,Edge of Eternities Promos,168p,,,,
+Weapons Manufacturing,{1}{R},2.0,Enchantment,"Whenever a nontoken artifact you control enters, create a colorless artifact token named Munitions with ""When this token leaves the battlefield, it deals 2 damage to any target.""",R,R,rare,EOE,Edge of Eternities,168,,,,
+Weapons Manufacturing,{1}{R},2.0,Enchantment,"Whenever a nontoken artifact you control enters, create a colorless artifact token named Munitions with ""When this token leaves the battlefield, it deals 2 damage to any target.""",R,R,rare,EOE,Edge of Eternities,311,,,,
+Web of Life and Destiny,{6}{G}{G},8.0,Enchantment,"Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+At the beginning of combat on your turn, look at the top five cards of your library. You may put a creature card from among them onto the battlefield. Put the rest on the bottom of your library in a random order.",G,G,mythic,OM1,Through the Omenpaths,120,,,,Convoke
+Web of Life and Destiny,{6}{G}{G},8.0,Enchantment,"Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+At the beginning of combat on your turn, look at the top five cards of your library. You may put a creature card from among them onto the battlefield. Put the rest on the bottom of your library in a random order.",G,G,mythic,SPM,Marvel's Spider-Man,268,,,,Convoke
+Web of Life and Destiny,{6}{G}{G},8.0,Enchantment,"Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+At the beginning of combat on your turn, look at the top five cards of your library. You may put a creature card from among them onto the battlefield. Put the rest on the bottom of your library in a random order.",G,G,mythic,PSPM,Marvel's Spider-Man Promos,122s,,,,Convoke
+Web of Life and Destiny,{6}{G}{G},8.0,Enchantment,"Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+At the beginning of combat on your turn, look at the top five cards of your library. You may put a creature card from among them onto the battlefield. Put the rest on the bottom of your library in a random order.",G,G,mythic,SPM,Marvel's Spider-Man,122,,,,Convoke
+Web Up,{2}{W},3.0,Enchantment,"When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.",W,W,common,SPM,Marvel's Spider-Man,21,,,,
+Web Up,{2}{W},3.0,Enchantment,"When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.",W,W,common,OM1,Through the Omenpaths,15,,,,
+Weftwalking,{4}{U}{U},6.0,Enchantment,"When this enchantment enters, if you cast it, shuffle your hand and graveyard into your library, then draw seven cards.
+The first spell each player casts during each of their turns may be cast without paying its mana cost.",U,U,mythic,EOE,Edge of Eternities,86,,,,
+Weftwalking,{4}{U}{U},6.0,Enchantment,"When this enchantment enters, if you cast it, shuffle your hand and graveyard into your library, then draw seven cards.
+The first spell each player casts during each of their turns may be cast without paying its mana cost.",U,U,mythic,EOE,Edge of Eternities,330,,,,
+Weftwalking,{4}{U}{U},6.0,Enchantment,"When this enchantment enters, if you cast it, shuffle your hand and graveyard into your library, then draw seven cards.
+The first spell each player casts during each of their turns may be cast without paying its mana cost.",U,U,mythic,PEOE,Edge of Eternities Promos,86s,,,,
+Weftwalking,{4}{U}{U},6.0,Enchantment,"When this enchantment enters, if you cast it, shuffle your hand and graveyard into your library, then draw seven cards.
+The first spell each player casts during each of their turns may be cast without paying its mana cost.",U,U,mythic,PEOE,Edge of Eternities Promos,86p,,,,
+Welcome to Sweettooth,{1}{G},2.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Create a 1/1 white Human creature token.
+II — Create a Food token.
+III — Put X +1/+1 counters on target creature you control, where X is one plus the number of Foods you control.",G,G,uncommon,WOE,Wilds of Eldraine,198,,,,Food
+Windcrag Siege,{1}{R}{W},3.0,Enchantment,"As this enchantment enters, choose Mardu or Jeskai.
+• Mardu — If a creature attacking causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+• Jeskai — At the beginning of your upkeep, create a 1/1 red Goblin creature token. It gains lifelink and haste until end of turn.","R,W","R,W",rare,TDM,Tarkir: Dragonstorm,235,,,,
+Windcrag Siege,{1}{R}{W},3.0,Enchantment,"As this enchantment enters, choose Mardu or Jeskai.
+• Mardu — If a creature attacking causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+• Jeskai — At the beginning of your upkeep, create a 1/1 red Goblin creature token. It gains lifelink and haste until end of turn.","R,W","R,W",rare,PTDM,Tarkir: Dragonstorm Promos,235p,,,,
+Windcrag Siege,{1}{R}{W},3.0,Enchantment,"As this enchantment enters, choose Mardu or Jeskai.
+• Mardu — If a creature attacking causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+• Jeskai — At the beginning of your upkeep, create a 1/1 red Goblin creature token. It gains lifelink and haste until end of turn.","R,W","R,W",rare,TDM,Tarkir: Dragonstorm,392,,,,
+Windcrag Siege,{1}{R}{W},3.0,Enchantment,"As this enchantment enters, choose Mardu or Jeskai.
+• Mardu — If a creature attacking causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+• Jeskai — At the beginning of your upkeep, create a 1/1 red Goblin creature token. It gains lifelink and haste until end of turn.","R,W","R,W",rare,PTDM,Tarkir: Dragonstorm Promos,235s,,,,
+Wingspan Stride,{U},1.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets +1/+1 and has flying.
+{2}{U}: Return this Aura to its owner's hand.",U,U,common,TDM,Tarkir: Dragonstorm,66,,,,Enchant
+With Great Power...,{3}{W},4.0,Enchantment — Aura,"Enchant creature you control
+Enchanted creature gets +2/+2 for each Aura and Equipment attached to it.
+All damage that would be dealt to you is dealt to enchanted creature instead.",W,W,rare,OM1,Through the Omenpaths,4,,,,Enchant
+With Great Power...,{3}{W},4.0,Enchantment — Aura,"Enchant creature you control
+Enchanted creature gets +2/+2 for each Aura and Equipment attached to it.
+All damage that would be dealt to you is dealt to enchanted creature instead.",W,W,rare,PSPM,Marvel's Spider-Man Promos,24s,,,,Enchant
+With Great Power...,{3}{W},4.0,Enchantment — Aura,"Enchant creature you control
+Enchanted creature gets +2/+2 for each Aura and Equipment attached to it.
+All damage that would be dealt to you is dealt to enchanted creature instead.",W,W,rare,SPM,Marvel's Spider-Man,24,,,,Enchant
+With Great Power...,{3}{W},4.0,Enchantment — Aura,"Enchant creature you control
+Enchanted creature gets +2/+2 for each Aura and Equipment attached to it.
+All damage that would be dealt to you is dealt to enchanted creature instead.",W,W,rare,SPM,Marvel's Spider-Man,248,,,,Enchant
+Witness Protection,{U},1.0,Enchantment — Aura,"Enchant creature
+Enchanted creature loses all abilities and is a green and white Citizen creature with base power and toughness 1/1 named Legitimate Businessperson. (It loses all other colors, card types, creature types, and names.)",U,U,common,PLST,The List,SNC-66,,,,Enchant
+Witness Protection,{U},1.0,Enchantment — Aura,"Enchant creature
+Enchanted creature loses all abilities and is a green and white Citizen creature with base power and toughness 1/1 named Legitimate Businessperson. (It loses all other colors, card types, creature types, and names.)",U,U,common,SNC,Streets of New Capenna,66,,,,Enchant
+Witness Protection,{U},1.0,Enchantment — Aura,"Enchant creature
+Enchanted creature loses all abilities and is a green and white Citizen creature with base power and toughness 1/1 named Legitimate Businessperson. (It loses all other colors, card types, creature types, and names.)",U,U,common,FDN,Foundations,168,,,,Enchant

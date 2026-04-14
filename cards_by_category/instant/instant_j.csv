@@ -1,0 +1,14 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Jennika's Technique,{2}{R},3.0,Instant,"Sneak {R} (You may cast this spell for {R} if you also return an unblocked attacker you control to hand during the declare blockers step.)
+Jennika's Technique deals 2 damage to each creature.",R,R,uncommon,TMT,Teenage Mutant Ninja Turtles,236,,,,Sneak
+Jennika's Technique,{2}{R},3.0,Instant,"Sneak {R} (You may cast this spell for {R} if you also return an unblocked attacker you control to hand during the declare blockers step.)
+Jennika's Technique deals 2 damage to each creature.",R,R,uncommon,TMT,Teenage Mutant Ninja Turtles,93,,,,Sneak
+Jeskai Revelation,{4}{U}{R}{W},7.0,Instant,Return target spell or permanent to its owner's hand. Jeskai Revelation deals 4 damage to any target. Create two 1/1 white Monk creature tokens with prowess. Draw two cards. You gain 4 life.,"R,U,W","R,U,W",mythic,TDM,Tarkir: Dragonstorm,196,,,,
+Jeskai Revelation,{4}{U}{R}{W},7.0,Instant,Return target spell or permanent to its owner's hand. Jeskai Revelation deals 4 damage to any target. Create two 1/1 white Monk creature tokens with prowess. Draw two cards. You gain 4 life.,"R,U,W","R,U,W",mythic,PTDM,Tarkir: Dragonstorm Promos,196p,,,,
+Jeskai Revelation,{4}{U}{R}{W},7.0,Instant,Return target spell or permanent to its owner's hand. Jeskai Revelation deals 4 damage to any target. Create two 1/1 white Monk creature tokens with prowess. Draw two cards. You gain 4 life.,"R,U,W","R,U,W",mythic,PTDM,Tarkir: Dragonstorm Promos,196s,,,,
+Jeskai Revelation,{4}{U}{R}{W},7.0,Instant,Return target spell or permanent to its owner's hand. Jeskai Revelation deals 4 damage to any target. Create two 1/1 white Monk creature tokens with prowess. Draw two cards. You gain 4 life.,"R,U,W","R,U,W",mythic,TDM,Tarkir: Dragonstorm,361,,,,
+Join the Dead,{1}{B}{B},3.0,Instant,"Target creature gets -5/-5 until end of turn.
+Descend 4 — That creature gets -10/-10 until end of turn instead if there are four or more permanent cards in your graveyard.",B,B,common,LCI,The Lost Caverns of Ixalan,110,,,,Descend
+Joust Through,{W},1.0,Instant,Joust Through deals 3 damage to target attacking or blocking creature. You gain 1 life.,W,W,uncommon,FDN,Foundations,19,,,,
+Judgment Bolt,{3}{R},4.0,Instant,"Judgment Bolt deals 5 damage to target creature and X damage to that creature's controller, where X is the number of Equipment you control.",R,R,rare,FIN,Final Fantasy,559,,,,
+Jump Scare,{W},1.0,Instant,"Until end of turn, target creature gets +2/+2, gains flying, and becomes a Horror enchantment creature in addition to its other types.",W,W,common,DSK,Duskmourn: House of Horror,17,,,,

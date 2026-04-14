@@ -1,0 +1,106 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Galvanizing Sawship,{5}{R},6.0,Artifact — Spacecraft,"Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 3+.)
+3+ | Flying, haste",R,R,uncommon,EOE,Edge of Eternities,136,6,5,,Station
+Gastal Thrillroller,{2}{R},3.0,Artifact — Vehicle,"Trample, haste
+When this Vehicle enters, it becomes an artifact creature until end of turn.
+Crew 2
+{2}{R}, Discard a card: Return this card from your graveyard to the battlefield with a finality counter on it. Activate only as a sorcery.",R,R,rare,DFT,Aetherdrift,313,4,2,,Haste;Crew;Trample
+Gastal Thrillroller,{2}{R},3.0,Artifact — Vehicle,"Trample, haste
+When this Vehicle enters, it becomes an artifact creature until end of turn.
+Crew 2
+{2}{R}, Discard a card: Return this card from your graveyard to the battlefield with a finality counter on it. Activate only as a sorcery.",R,R,rare,PDFT,Aetherdrift Promos,129p,4,2,,Haste;Crew;Trample
+Gastal Thrillroller,{2}{R},3.0,Artifact — Vehicle,"Trample, haste
+When this Vehicle enters, it becomes an artifact creature until end of turn.
+Crew 2
+{2}{R}, Discard a card: Return this card from your graveyard to the battlefield with a finality counter on it. Activate only as a sorcery.",R,R,rare,DFT,Aetherdrift,461,4,2,,Haste;Crew;Trample
+Gastal Thrillroller,{2}{R},3.0,Artifact — Vehicle,"Trample, haste
+When this Vehicle enters, it becomes an artifact creature until end of turn.
+Crew 2
+{2}{R}, Discard a card: Return this card from your graveyard to the battlefield with a finality counter on it. Activate only as a sorcery.",R,R,rare,DFT,Aetherdrift,527,4,2,,Haste;Crew;Trample
+Gastal Thrillroller,{2}{R},3.0,Artifact — Vehicle,"Trample, haste
+When this Vehicle enters, it becomes an artifact creature until end of turn.
+Crew 2
+{2}{R}, Discard a card: Return this card from your graveyard to the battlefield with a finality counter on it. Activate only as a sorcery.",R,R,rare,DFT,Aetherdrift,129,4,2,,Haste;Crew;Trample
+Gastal Thrillroller,{2}{R},3.0,Artifact — Vehicle,"Trample, haste
+When this Vehicle enters, it becomes an artifact creature until end of turn.
+Crew 2
+{2}{R}, Discard a card: Return this card from your graveyard to the battlefield with a finality counter on it. Activate only as a sorcery.",R,R,rare,PDFT,Aetherdrift Promos,129s,4,2,,Haste;Crew;Trample
+Gathering Stone,{4},4.0,Artifact,"As this artifact enters, choose a creature type.
+Spells you cast of the chosen type cost {1} less to cast.
+When this artifact enters and at the beginning of your upkeep, look at the top card of your library. If it's a card of the chosen type, you may reveal it and put it into your hand. If you don't put the card into your hand, you may put it into your graveyard.",,,uncommon,ECL,Lorwyn Eclipsed,257,,,,
+Genji Glove,{5},5.0,Artifact — Equipment,"Equipped creature has double strike.
+Whenever equipped creature attacks, if it's the first combat phase of the turn, untap it. After this phase, there is an additional combat phase.
+Equip {3}",,,rare,PFIN,Final Fantasy Promos,258s,,,,Equip
+Genji Glove,{5},5.0,Artifact — Equipment,"Equipped creature has double strike.
+Whenever equipped creature attacks, if it's the first combat phase of the turn, untap it. After this phase, there is an additional combat phase.
+Equip {3}",,,rare,FIN,Final Fantasy,258,,,,Equip
+Ghost Vacuum,{1},1.0,Artifact,"{T}: Exile target card from a graveyard.
+{6}, {T}, Sacrifice this artifact: Put each creature card exiled with this artifact onto the battlefield under your control with a flying counter on it. Each of them is a 1/1 Spirit in addition to its other types. Activate only as a sorcery.",,,rare,PDSK,Duskmourn: House of Horror Promos,248s,,,,
+Ghost Vacuum,{1},1.0,Artifact,"{T}: Exile target card from a graveyard.
+{6}, {T}, Sacrifice this artifact: Put each creature card exiled with this artifact onto the battlefield under your control with a flying counter on it. Each of them is a 1/1 Spirit in addition to its other types. Activate only as a sorcery.",,,rare,PDSK,Duskmourn: House of Horror Promos,248p,,,,
+Ghost Vacuum,{1},1.0,Artifact,"{T}: Exile target card from a graveyard.
+{6}, {T}, Sacrifice this artifact: Put each creature card exiled with this artifact onto the battlefield under your control with a flying counter on it. Each of them is a 1/1 Spirit in addition to its other types. Activate only as a sorcery.",,,rare,DSK,Duskmourn: House of Horror,248,,,,
+Ghost Vacuum,{1},1.0,Artifact,"{T}: Exile target card from a graveyard.
+{6}, {T}, Sacrifice this artifact: Put each creature card exiled with this artifact onto the battlefield under your control with a flying counter on it. Each of them is a 1/1 Spirit in addition to its other types. Activate only as a sorcery.",,,rare,DSK,Duskmourn: House of Horror,326,,,,
+Gilded Lotus,{5},5.0,Artifact,{T}: Add three mana of any one color.,,,rare,PDOM,Dominaria Promos,215s,,,,
+Gilded Lotus,{5},5.0,Artifact,{T}: Add three mana of any one color.,,,rare,BRR,The Brothers' War Retro Artifacts,80,,,,
+Gilded Lotus,{5},5.0,Artifact,{T}: Add three mana of any one color.,,,rare,M13,Magic 2013,206,,,,
+Gilded Lotus,{5},5.0,Artifact,{T}: Add three mana of any one color.,,,rare,40K,"Warhammer 40,000 Commander",239,,,,
+Gilded Lotus,{5},5.0,Artifact,{T}: Add three mana of any one color.,,,rare,SLD,Secret Lair Drop,205,,,,
+Gilded Lotus,{5},5.0,Artifact,{T}: Add three mana of any one color.,,,rare,BRR,The Brothers' War Retro Artifacts,17,,,,
+Gilded Lotus,{5},5.0,Artifact,{T}: Add three mana of any one color.,,,rare,BRR,The Brothers' War Retro Artifacts,80z,,,,
+Gilded Lotus,{5},5.0,Artifact,{T}: Add three mana of any one color.,,,rare,40K,"Warhammer 40,000 Commander",239★,,,,
+Gilded Lotus,{5},5.0,Artifact,{T}: Add three mana of any one color.,,,rare,BLC,Bloomburrow Commander,271,,,,
+Gilded Lotus,{5},5.0,Artifact,{T}: Add three mana of any one color.,,,rare,PW26,Wizards Play Network 2026,3,,,,
+Gilded Lotus,{5},5.0,Artifact,{T}: Add three mana of any one color.,,,rare,CMM,Commander Masters,605,,,,
+Gilded Lotus,{5},5.0,Artifact,{T}: Add three mana of any one color.,,,rare,MRD,Mirrodin,175,,,,
+Gilded Lotus,{5},5.0,Artifact,{T}: Add three mana of any one color.,,,rare,DOM,Dominaria,215,,,,
+Gilded Lotus,{5},5.0,Artifact,{T}: Add three mana of any one color.,,,rare,FDN,Foundations,725,,,,
+Gilded Lotus,{5},5.0,Artifact,{T}: Add three mana of any one color.,,,mythic,V13,From the Vault: Twenty,12,,,,
+Gilded Lotus,{5},5.0,Artifact,{T}: Add three mana of any one color.,,,rare,PDOM,Dominaria Promos,215p,,,,
+Gilded Lotus,{5},5.0,Artifact,{T}: Add three mana of any one color.,,,rare,SLD,Secret Lair Drop,909,,,,
+Gilded Lotus,{5},5.0,Artifact,{T}: Add three mana of any one color.,,,rare,CMM,Commander Masters,387,,,,
+Glass Casket,{1}{W},2.0,Artifact,"When this artifact enters, exile target creature an opponent controls with mana value 3 or less until this artifact leaves the battlefield.",W,W,uncommon,WOE,Wilds of Eldraine,16,,,,
+Glass Casket,{1}{W},2.0,Artifact,"When this artifact enters, exile target creature an opponent controls with mana value 3 or less until this artifact leaves the battlefield.",W,W,uncommon,ELD,Throne of Eldraine,393,,,,
+Glass Casket,{1}{W},2.0,Artifact,"When this artifact enters, exile target creature an opponent controls with mana value 3 or less until this artifact leaves the battlefield.",W,W,uncommon,ELD,Throne of Eldraine,15,,,,
+Glider Staff,{2}{W},3.0,Artifact — Equipment,"When this Equipment enters, airbend up to one target creature. (Exile it. While it's exiled, its owner may cast it for {2} rather than its mana cost.)
+Equipped creature gets +1/+1 and has flying.
+Equip {2}",W,W,uncommon,TLA,Avatar: The Last Airbender,22,,,,Airbend;Equip
+Glimmerlight,{2},2.0,Artifact — Equipment,"When this Equipment enters, create a 1/1 white Glimmer enchantment creature token.
+Equipped creature gets +1/+1.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",,,common,DSK,Duskmourn: House of Horror,249,,,,Equip
+Glowcap Lantern,{G},1.0,Artifact — Equipment,"Equipped creature has ""You may look at the top card of your library any time"" and ""Whenever this creature attacks, it explores."" (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)
+Equip {2}",G,G,uncommon,LCI,The Lost Caverns of Ixalan,187,,,,Explore;Equip
+Goblin Firebomb,{1},1.0,Artifact,"Flash
+{7}, {T}, Sacrifice this artifact: Destroy target permanent.",,,common,BRO,The Brothers' War,235,,,,Flash
+Goblin Firebomb,{1},1.0,Artifact,"Flash
+{7}, {T}, Sacrifice this artifact: Destroy target permanent.",,,common,FDN,Foundations,562,,,,Flash
+Gold Pan,{2},2.0,Artifact — Equipment,"When this Equipment enters, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")
+Equipped creature gets +1/+1.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",,,common,OTJ,Outlaws of Thunder Junction,242,,,,Treasure;Equip
+Goldvein Pick,{2},2.0,Artifact — Equipment,"Equipped creature gets +1/+1.
+Whenever equipped creature deals combat damage to a player, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",,,common,KHM,Kaldheim,239,,,,Treasure;Equip
+Goldvein Pick,{2},2.0,Artifact — Equipment,"Equipped creature gets +1/+1.
+Whenever equipped creature deals combat damage to a player, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",,,common,FDN,Foundations,253,,,,Treasure;Equip
+Goldvein Pick,{2},2.0,Artifact — Equipment,"Equipped creature gets +1/+1.
+Whenever equipped creature deals combat damage to a player, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",,,common,J22,Jumpstart 2022,769,,,,Treasure;Equip
+Goldvein Pick,{2},2.0,Artifact — Equipment,"Equipped creature gets +1/+1.
+Whenever equipped creature deals combat damage to a player, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",,,common,PLST,The List,KHM-239,,,,Treasure;Equip
+Grim Bauble,{B},1.0,Artifact,"When this artifact enters, target creature an opponent controls gets -2/-2 until end of turn.
+{2}{B}, {T}, Sacrifice this artifact: Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)",B,B,common,DFT,Aetherdrift,88,,,,Surveil
+Guac & Marshmallow Pizza,{G},1.0,Artifact — Food,"Flash
+When this artifact enters, target creature gets +2/+2 until end of turn. Untap it.
+{2}, {T}, Sacrifice this artifact: You gain 3 life.",G,G,common,TMT,Teenage Mutant Ninja Turtles,116,,,,Flash
+Guidelight Matrix,{2},2.0,Artifact,"When this artifact enters, draw a card.
+{2}, {T}: Target Mount you control becomes saddled until end of turn. Activate only as a sorcery.
+{2}, {T}: Target Vehicle you control becomes an artifact creature until end of turn.",,,common,DFT,Aetherdrift,233,,,,
+Guidelight Pathmaker,{4}{W}{U},6.0,Artifact — Vehicle,"Vigilance
+When this Vehicle enters, you may search your library for an artifact card and reveal it. Put it onto the battlefield if its mana value is 2 or less. Otherwise, put it into your hand. If you search your library this way, shuffle.
+Crew 2","U,W","U,W",uncommon,DFT,Aetherdrift,324,6,5,,Vigilance;Crew
+Guidelight Pathmaker,{4}{W}{U},6.0,Artifact — Vehicle,"Vigilance
+When this Vehicle enters, you may search your library for an artifact card and reveal it. Put it onto the battlefield if its mana value is 2 or less. Otherwise, put it into your hand. If you search your library this way, shuffle.
+Crew 2","U,W","U,W",uncommon,DFT,Aetherdrift,206,6,5,,Vigilance;Crew

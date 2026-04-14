@@ -1,0 +1,175 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Team Avatar,{2}{W},3.0,Enchantment,"Whenever a creature you control attacks alone, it gets +X/+X until end of turn, where X is the number of creatures you control.
+{2}{W}, Discard this card: It deals damage equal to the number of creatures you control to target creature.",W,W,uncommon,TLA,Avatar: The Last Airbender,38,,,,
+Teeming Dragonstorm,{3}{W},4.0,Enchantment,"When this enchantment enters, create two 2/2 white Soldier creature tokens.
+When a Dragon you control enters, return this enchantment to its owner's hand.",W,W,uncommon,TDM,Tarkir: Dragonstorm,30,,,,
+Teeming Dragonstorm,{3}{W},4.0,Enchantment,"When this enchantment enters, create two 2/2 white Soldier creature tokens.
+When a Dragon you control enters, return this enchantment to its owner's hand.",W,W,uncommon,TDM,Tarkir: Dragonstorm,293,,,,
+Terrasymbiosis,{2}{G},3.0,Enchantment,"Whenever you put one or more +1/+1 counters on a creature you control, you may draw that many cards. Do this only once each turn.",G,G,rare,EOE,Edge of Eternities,210,,,,
+Terrasymbiosis,{2}{G},3.0,Enchantment,"Whenever you put one or more +1/+1 counters on a creature you control, you may draw that many cards. Do this only once each turn.",G,G,rare,PEOE,Edge of Eternities Promos,210s,,,,
+Terrasymbiosis,{2}{G},3.0,Enchantment,"Whenever you put one or more +1/+1 counters on a creature you control, you may draw that many cards. Do this only once each turn.",G,G,rare,PEOE,Edge of Eternities Promos,210p,,,,
+Terrasymbiosis,{2}{G},3.0,Enchantment,"Whenever you put one or more +1/+1 counters on a creature you control, you may draw that many cards. Do this only once each turn.",G,G,rare,EOE,Edge of Eternities,312,,,,
+The Apprentice's Folly,{2}{U}{R},4.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II — Choose target nontoken creature you control that doesn't have the same name as a token you control. Create a token that's a copy of it, except it isn't legendary, is a Reflection in addition to its other types, and has haste.
+III — Sacrifice all Reflections you control.","R,U","R,U",rare,WOE,Wilds of Eldraine,200,,,,
+The Apprentice's Folly,{2}{U}{R},4.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II — Choose target nontoken creature you control that doesn't have the same name as a token you control. Create a token that's a copy of it, except it isn't legendary, is a Reflection in addition to its other types, and has haste.
+III — Sacrifice all Reflections you control.","R,U","R,U",rare,PWOE,Wilds of Eldraine Promos,200s,,,,
+The Apprentice's Folly,{2}{U}{R},4.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II — Choose target nontoken creature you control that doesn't have the same name as a token you control. Create a token that's a copy of it, except it isn't legendary, is a Reflection in addition to its other types, and has haste.
+III — Sacrifice all Reflections you control.","R,U","R,U",rare,PWOE,Wilds of Eldraine Promos,200p,,,,
+The Cave of Two Lovers,{3}{R},4.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Create two 1/1 white Ally creature tokens.
+II — Search your library for a Mountain or Cave card, reveal it, put it into your hand, then shuffle.
+III — Earthbend 3. (Target land you control becomes a 0/0 creature with haste that's still a land. Put three +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)",R,R,uncommon,TLA,Avatar: The Last Airbender,126,,,,Earthbend
+The Clone Saga,{3}{U},4.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Surveil 3.
+II — When you next cast a creature spell this turn, copy it, except the copy isn't legendary.
+III — Choose a card name. Whenever a creature with the chosen name deals combat damage to a player this turn, draw a card.",U,U,rare,PSPM,Marvel's Spider-Man Promos,28s,,,,Surveil
+The Clone Saga,{3}{U},4.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Surveil 3.
+II — When you next cast a creature spell this turn, copy it, except the copy isn't legendary.
+III — Choose a card name. Whenever a creature with the chosen name deals combat damage to a player this turn, draw a card.",U,U,rare,OM1,Through the Omenpaths,33,,,,Surveil
+The Clone Saga,{3}{U},4.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Surveil 3.
+II — When you next cast a creature spell this turn, copy it, except the copy isn't legendary.
+III — Choose a card name. Whenever a creature with the chosen name deals combat damage to a player this turn, draw a card.",U,U,rare,SPM,Marvel's Spider-Man,219,,,,Surveil
+The Clone Saga,{3}{U},4.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Surveil 3.
+II — When you next cast a creature spell this turn, copy it, except the copy isn't legendary.
+III — Choose a card name. Whenever a creature with the chosen name deals combat damage to a player this turn, draw a card.",U,U,rare,SPM,Marvel's Spider-Man,28,,,,Surveil
+The Cloning of Shredder,{4}{B}{B},6.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Exile target creature card from your graveyard. Create a token that's a copy of it, except it isn't legendary and is a Mutant in addition to its other types.
+II, III — Create a token that's a copy of a card exiled with this Saga, except it isn't legendary and is a Mutant in addition to its other types.",B,B,mythic,TMT,Teenage Mutant Ninja Turtles,60,,,,
+The Death of Gwen Stacy,{2}{B},3.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Destroy target creature.
+II — Each player may discard a card. Each player who doesn't loses 3 life.
+III — Exile any number of target players' graveyards.",B,B,rare,SPM,Marvel's Spider-Man,54,,,,
+The Death of Gwen Stacy,{2}{B},3.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Destroy target creature.
+II — Each player may discard a card. Each player who doesn't loses 3 life.
+III — Exile any number of target players' graveyards.",B,B,rare,OM1,Through the Omenpaths,58,,,,
+The Death of Gwen Stacy,{2}{B},3.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Destroy target creature.
+II — Each player may discard a card. Each player who doesn't loses 3 life.
+III — Exile any number of target players' graveyards.",B,B,rare,SPM,Marvel's Spider-Man,223,,,,
+The Death of Gwen Stacy,{2}{B},3.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Destroy target creature.
+II — Each player may discard a card. Each player who doesn't loses 3 life.
+III — Exile any number of target players' graveyards.",B,B,rare,PSPM,Marvel's Spider-Man Promos,54s,,,,
+The Huntsman's Redemption,{2}{G},3.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Create a 3/3 green Beast creature token.
+II — You may sacrifice a creature. If you do, search your library for a creature or basic land card, reveal it, put it into your hand, then shuffle.
+III — Up to two target creatures each get +2/+2 and gain trample until end of turn.",G,G,rare,WOE,Wilds of Eldraine,176,,,,
+The Huntsman's Redemption,{2}{G},3.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Create a 3/3 green Beast creature token.
+II — You may sacrifice a creature. If you do, search your library for a creature or basic land card, reveal it, put it into your hand, then shuffle.
+III — Up to two target creatures each get +2/+2 and gain trample until end of turn.",G,G,rare,PWOE,Wilds of Eldraine Promos,176p,,,,
+The Huntsman's Redemption,{2}{G},3.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Create a 3/3 green Beast creature token.
+II — You may sacrifice a creature. If you do, search your library for a creature or basic land card, reveal it, put it into your hand, then shuffle.
+III — Up to two target creatures each get +2/+2 and gain trample until end of turn.",G,G,rare,PWOE,Wilds of Eldraine Promos,176s,,,,
+The Last Ronin,{4}{B}{G},6.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Destroy all creatures.
+II — Mill four cards. When you do, return target creature card from your graveyard to your hand.
+III — Whenever a creature you control attacks alone this turn, put three +1/+1 counters on it. It gains trample, lifelink, and indestructible until end of turn.","B,G","B,G",mythic,TMT,Teenage Mutant Ninja Turtles,154,,,,Mill
+The Princess Takes Flight,{2}{W},3.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Exile up to one target creature.
+II — Target creature you control gets +2/+2 and gains flying until end of turn.
+III — Return the exiled card to the battlefield under its owner's control.",W,W,uncommon,WOE,Wilds of Eldraine,23,,,,
+The Rollercrusher Ride,{X}{2}{R},3.0,Legendary Enchantment,"Delirium — If a source you control would deal noncombat damage to a permanent or player while there are four or more card types among cards in your graveyard, it deals double that damage instead.
+When The Rollercrusher Ride enters, it deals X damage to each of up to X target creatures.",R,R,mythic,DSK,Duskmourn: House of Horror,317,,,,Delirium
+The Rollercrusher Ride,{X}{2}{R},3.0,Legendary Enchantment,"Delirium — If a source you control would deal noncombat damage to a permanent or player while there are four or more card types among cards in your graveyard, it deals double that damage instead.
+When The Rollercrusher Ride enters, it deals X damage to each of up to X target creatures.",R,R,mythic,PDSK,Duskmourn: House of Horror Promos,155s,,,,Delirium
+The Rollercrusher Ride,{X}{2}{R},3.0,Legendary Enchantment,"Delirium — If a source you control would deal noncombat damage to a permanent or player while there are four or more card types among cards in your graveyard, it deals double that damage instead.
+When The Rollercrusher Ride enters, it deals X damage to each of up to X target creatures.",R,R,mythic,DSK,Duskmourn: House of Horror,155,,,,Delirium
+The Rollercrusher Ride,{X}{2}{R},3.0,Legendary Enchantment,"Delirium — If a source you control would deal noncombat damage to a permanent or player while there are four or more card types among cards in your graveyard, it deals double that damage instead.
+When The Rollercrusher Ride enters, it deals X damage to each of up to X target creatures.",R,R,mythic,DSK,Duskmourn: House of Horror,298,,,,Delirium
+The Rollercrusher Ride,{X}{2}{R},3.0,Legendary Enchantment,"Delirium — If a source you control would deal noncombat damage to a permanent or player while there are four or more card types among cards in your graveyard, it deals double that damage instead.
+When The Rollercrusher Ride enters, it deals X damage to each of up to X target creatures.",R,R,mythic,PDSK,Duskmourn: House of Horror Promos,155p,,,,Delirium
+The Sibsig Ceremony,{B}{B}{B},3.0,Legendary Enchantment,"Creature spells you cast cost {2} less to cast.
+Whenever a creature you control enters, if you cast it, destroy that creature, then create a 2/2 black Zombie Druid creature token.",B,B,rare,TDM,Tarkir: Dragonstorm,91,,,,
+The Sibsig Ceremony,{B}{B}{B},3.0,Legendary Enchantment,"Creature spells you cast cost {2} less to cast.
+Whenever a creature you control enters, if you cast it, destroy that creature, then create a 2/2 black Zombie Druid creature token.",B,B,rare,TDM,Tarkir: Dragonstorm,340,,,,
+The Sibsig Ceremony,{B}{B}{B},3.0,Legendary Enchantment,"Creature spells you cast cost {2} less to cast.
+Whenever a creature you control enters, if you cast it, destroy that creature, then create a 2/2 black Zombie Druid creature token.",B,B,rare,PTDM,Tarkir: Dragonstorm Promos,91p,,,,
+The Sibsig Ceremony,{B}{B}{B},3.0,Legendary Enchantment,"Creature spells you cast cost {2} less to cast.
+Whenever a creature you control enters, if you cast it, destroy that creature, then create a 2/2 black Zombie Druid creature token.",B,B,rare,PTDM,Tarkir: Dragonstorm Promos,91s,,,,
+The Spirit Oasis,{2}{U},3.0,Legendary Enchantment — Shrine,"When The Spirit Oasis enters, draw a card for each Shrine you control.
+Whenever another Shrine you control enters, draw a card.",U,U,uncommon,TLA,Avatar: The Last Airbender,72,,,,
+The Tale of Tamiyo,{2}{U},3.0,Legendary Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)
+I, II, III — Mill two cards. If two cards that share a card type were milled this way, draw a card and repeat this process.
+IV — Exile any number of target instant, sorcery, and/or Tamiyo planeswalker cards from your graveyard. Copy them. You may cast any number of the copies.",U,U,rare,PDSK,Duskmourn: House of Horror Promos,75s,,,,Mill
+The Tale of Tamiyo,{2}{U},3.0,Legendary Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)
+I, II, III — Mill two cards. If two cards that share a card type were milled this way, draw a card and repeat this process.
+IV — Exile any number of target instant, sorcery, and/or Tamiyo planeswalker cards from your graveyard. Copy them. You may cast any number of the copies.",U,U,rare,PDSK,Duskmourn: House of Horror Promos,75p,,,,Mill
+The Tale of Tamiyo,{2}{U},3.0,Legendary Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)
+I, II, III — Mill two cards. If two cards that share a card type were milled this way, draw a card and repeat this process.
+IV — Exile any number of target instant, sorcery, and/or Tamiyo planeswalker cards from your graveyard. Copy them. You may cast any number of the copies.",U,U,rare,DSK,Duskmourn: House of Horror,75,,,,Mill
+The Witch's Vanity,{1}{B},2.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Destroy target creature an opponent controls with mana value 2 or less.
+II — Create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this token: You gain 3 life."")
+III — Create a Wicked Role token attached to target creature you control.",B,B,uncommon,WOE,Wilds of Eldraine,119,,,,Role token;Food
+Thousand-Year Storm,{4}{U}{R},6.0,Enchantment,"Whenever you cast an instant or sorcery spell, copy it for each other instant and sorcery spell you've cast before it this turn. You may choose new targets for the copies.","R,U","R,U",rare,2X2,Double Masters 2022,545,,,,
+Thousand-Year Storm,{4}{U}{R},6.0,Enchantment,"Whenever you cast an instant or sorcery spell, copy it for each other instant and sorcery spell you've cast before it this turn. You may choose new targets for the copies.","R,U","R,U",rare,PFDN,Foundations Promos,248s,,,,
+Thousand-Year Storm,{4}{U}{R},6.0,Enchantment,"Whenever you cast an instant or sorcery spell, copy it for each other instant and sorcery spell you've cast before it this turn. You may choose new targets for the copies.","R,U","R,U",mythic,GRN,Guilds of Ravnica,207,,,,
+Thousand-Year Storm,{4}{U}{R},6.0,Enchantment,"Whenever you cast an instant or sorcery spell, copy it for each other instant and sorcery spell you've cast before it this turn. You may choose new targets for the copies.","R,U","R,U",rare,2X2,Double Masters 2022,286,,,,
+Thousand-Year Storm,{4}{U}{R},6.0,Enchantment,"Whenever you cast an instant or sorcery spell, copy it for each other instant and sorcery spell you've cast before it this turn. You may choose new targets for the copies.","R,U","R,U",mythic,PGRN,Guilds of Ravnica Promos,207s,,,,
+Thousand-Year Storm,{4}{U}{R},6.0,Enchantment,"Whenever you cast an instant or sorcery spell, copy it for each other instant and sorcery spell you've cast before it this turn. You may choose new targets for the copies.","R,U","R,U",rare,FDN,Foundations,248,,,,
+Thousand-Year Storm,{4}{U}{R},6.0,Enchantment,"Whenever you cast an instant or sorcery spell, copy it for each other instant and sorcery spell you've cast before it this turn. You may choose new targets for the copies.","R,U","R,U",rare,PRM,Magic Online Promos,102311,,,,
+Thousand-Year Storm,{4}{U}{R},6.0,Enchantment,"Whenever you cast an instant or sorcery spell, copy it for each other instant and sorcery spell you've cast before it this turn. You may choose new targets for the copies.","R,U","R,U",mythic,PGRN,Guilds of Ravnica Promos,207p,,,,
+Thousand-Year Storm,{4}{U}{R},6.0,Enchantment,"Whenever you cast an instant or sorcery spell, copy it for each other instant and sorcery spell you've cast before it this turn. You may choose new targets for the copies.","R,U","R,U",rare,2X2,Double Masters 2022,390,,,,
+Threats Around Every Corner,{3}{G},4.0,Enchantment,"When this enchantment enters, manifest dread.
+Whenever a face-down permanent you control enters, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",G,G,uncommon,DSK,Duskmourn: House of Horror,200,,,,Manifest;Manifest dread
+Three Blind Mice,{2}{W},3.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)
+I — Create a 1/1 white Mouse creature token.
+II, III — Create a token that's a copy of target token you control.
+IV — Creatures you control get +1/+1 and gain vigilance until end of turn.",W,W,rare,WOE,Wilds of Eldraine,35,,,,
+Three Blind Mice,{2}{W},3.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)
+I — Create a 1/1 white Mouse creature token.
+II, III — Create a token that's a copy of target token you control.
+IV — Creatures you control get +1/+1 and gain vigilance until end of turn.",W,W,rare,PWOE,Wilds of Eldraine Promos,35p,,,,
+Three Blind Mice,{2}{W},3.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)
+I — Create a 1/1 white Mouse creature token.
+II, III — Create a token that's a copy of target token you control.
+IV — Creatures you control get +1/+1 and gain vigilance until end of turn.",W,W,rare,PWOE,Wilds of Eldraine Promos,35s,,,,
+Thunder of Unity,{R}{W}{B},3.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — You draw two cards and you lose 2 life.
+II, III — Whenever a creature you control enters this turn, each opponent loses 1 life and you gain 1 life.","B,R,W","B,R,W",rare,PTDM,Tarkir: Dragonstorm Promos,231p,,,,
+Thunder of Unity,{R}{W}{B},3.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — You draw two cards and you lose 2 life.
+II, III — Whenever a creature you control enters this turn, each opponent loses 1 life and you gain 1 life.","B,R,W","B,R,W",rare,PTDM,Tarkir: Dragonstorm Promos,231s,,,,
+Thunder of Unity,{R}{W}{B},3.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — You draw two cards and you lose 2 life.
+II, III — Whenever a creature you control enters this turn, each opponent loses 1 life and you gain 1 life.","B,R,W","B,R,W",rare,TDM,Tarkir: Dragonstorm,231,,,,
+Thunder of Unity,{R}{W}{B},3.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — You draw two cards and you lose 2 life.
+II, III — Whenever a creature you control enters this turn, each opponent loses 1 life and you gain 1 life.","B,R,W","B,R,W",rare,TDM,Tarkir: Dragonstorm,391,,,,
+Ticket Booth // Tunnel of Hate,{2}{R} // {4}{R}{R},9.0,Enchantment — Room // Enchantment — Room,,R,R,common,DSK,Duskmourn: House of Horror,158,,,,Manifest;Manifest dread
+Tinybones Joins Up,{B},1.0,Legendary Enchantment,"When Tinybones Joins Up enters, any number of target players each discard a card.
+Whenever a legendary creature you control enters, any number of target players each mill a card and lose 1 life.",B,B,rare,OTJ,Outlaws of Thunder Junction,108,,,,Mill
+Tinybones Joins Up,{B},1.0,Legendary Enchantment,"When Tinybones Joins Up enters, any number of target players each discard a card.
+Whenever a legendary creature you control enters, any number of target players each mill a card and lose 1 life.",B,B,rare,POTJ,Outlaws of Thunder Junction Promos,108s,,,,Mill
+Tinybones Joins Up,{B},1.0,Legendary Enchantment,"When Tinybones Joins Up enters, any number of target players each discard a card.
+Whenever a legendary creature you control enters, any number of target players each mill a card and lose 1 life.",B,B,rare,POTJ,Outlaws of Thunder Junction Promos,108p,,,,Mill
+Tinybones Joins Up,{B},1.0,Legendary Enchantment,"When Tinybones Joins Up enters, any number of target players each discard a card.
+Whenever a legendary creature you control enters, any number of target players each mill a card and lose 1 life.",B,B,rare,OTJ,Outlaws of Thunder Junction,328,,,,Mill
+Tolls of War,{W}{B},2.0,Enchantment,"When this enchantment enters, create a Clue token. (It's an artifact with ""{2}, Sacrifice this token: Draw a card."")
+Whenever you sacrifice a permanent during your turn, create a 1/1 white Ally creature token. This ability triggers only once each turn.","B,W","B,W",uncommon,TLA,Avatar: The Last Airbender,245,,,,
+Tractor Beam,{2}{U}{U},4.0,Enchantment — Aura,"Enchant creature or Spacecraft
+When this Aura enters, tap enchanted permanent.
+You control enchanted permanent.
+Enchanted permanent doesn't untap during its controller's untap step.",U,U,uncommon,EOE,Edge of Eternities,82,,,,Enchant
+Trapped in the Screen,{2}{W},3.0,Enchantment,"Ward {2} (Whenever this enchantment becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+When this enchantment enters, exile target artifact, creature, or enchantment an opponent controls until this enchantment leaves the battlefield.",W,W,common,DSK,Duskmourn: House of Horror,36,,,,Ward
+Triple Triad,{3}{R}{R}{R},6.0,Enchantment,"At the beginning of your upkeep, each player exiles the top card of their library. Until end of turn, you may play the card you own exiled this way and each other card exiled this way with lesser mana value than it without paying their mana costs.",R,R,rare,FIN,Final Fantasy,340,,,,
+Triple Triad,{3}{R}{R}{R},6.0,Enchantment,"At the beginning of your upkeep, each player exiles the top card of their library. Until end of turn, you may play the card you own exiled this way and each other card exiled this way with lesser mana value than it without paying their mana costs.",R,R,rare,PFIN,Final Fantasy Promos,166s,,,,
+Triple Triad,{3}{R}{R}{R},6.0,Enchantment,"At the beginning of your upkeep, each player exiles the top card of their library. Until end of turn, you may play the card you own exiled this way and each other card exiled this way with lesser mana value than it without paying their mana costs.",R,R,rare,FIN,Final Fantasy,166,,,,
+Turtle Power!,{2}{G},3.0,Enchantment,"Flash
+Turtles you control get +2/+2.",G,G,rare,TMT,Teenage Mutant Ninja Turtles,135,,,,Flash
+Turtle Power!,{2}{G},3.0,Enchantment,"Flash
+Turtles you control get +2/+2.",G,G,rare,TMT,Teenage Mutant Ninja Turtles,275,,,,Flash
+Twinblade Blessing,{1}{W}{W},3.0,Enchantment — Aura,"Flash (You may cast this spell any time you could cast an instant.)
+Enchant creature
+Enchanted creature has double strike. (It deals both first-strike and regular combat damage.)",W,W,uncommon,FDN,Foundations,26,,,,Enchant;Flash
+Twists and Turns // Mycoid Maze,,1.0,Enchantment // Land — Cave,,,G,uncommon,LCI,The Lost Caverns of Ixalan,217,,,,Transform;Explore;Scry

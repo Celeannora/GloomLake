@@ -1,0 +1,45 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Early Winter,{4}{B},5.0,Instant,"Choose one —
+• Exile target creature.
+• Target opponent exiles an enchantment they control.",B,B,common,BLB,Bloomburrow,93,,,,
+Eerie Interference,{2}{W},3.0,Instant,Prevent all damage that would be dealt to you and creatures you control this turn by creatures.,W,W,uncommon,WOE,Wilds of Eldraine,12,,,,
+Eject,{3}{U},4.0,Instant,"This spell can't be countered.
+Return target nonland permanent to its owner's hand.
+Draw a card.",U,U,uncommon,FIN,Final Fantasy,52,,,,
+Elemental Teachings,{4}{G},5.0,Instant — Lesson,"Search your library for up to four land cards with different names and reveal them. An opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest onto the battlefield tapped, then shuffle.",G,G,rare,PTLA,Avatar: The Last Airbender Promos,178s,,,,
+Elemental Teachings,{4}{G},5.0,Instant — Lesson,"Search your library for up to four land cards with different names and reveal them. An opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest onto the battlefield tapped, then shuffle.",G,G,rare,TLA,Avatar: The Last Airbender,378,,,,
+Elemental Teachings,{4}{G},5.0,Instant — Lesson,"Search your library for up to four land cards with different names and reveal them. An opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest onto the battlefield tapped, then shuffle.",G,G,rare,TLA,Avatar: The Last Airbender,178,,,,
+Eliminate the Impossible,{1}{U},2.0,Instant,"Investigate. Creatures your opponents control get -2/-0 until end of turn. If any of them are suspected, they're no longer suspected. (To investigate, create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")",U,U,uncommon,MKM,Murders at Karlov Manor,54,,,,Investigate
+Elspeth's Smite,{W},1.0,Instant,"Elspeth's Smite deals 3 damage to target attacking or blocking creature. If that creature would die this turn, exile it instead.",W,W,uncommon,PLST,The List,MOM-13,,,,
+Elspeth's Smite,{W},1.0,Instant,"Elspeth's Smite deals 3 damage to target attacking or blocking creature. If that creature would die this turn, exile it instead.",W,W,uncommon,FDN,Foundations,493,,,,
+Elspeth's Smite,{W},1.0,Instant,"Elspeth's Smite deals 3 damage to target attacking or blocking creature. If that creature would die this turn, exile it instead.",W,W,uncommon,MOM,March of the Machine,13,,,,
+Emergency Eject,{2}{W},3.0,Instant,"Destroy target nonland permanent. Its controller creates a Lander token. (It's an artifact with ""{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."")",W,W,uncommon,EOE,Edge of Eternities,14,,,,
+End-Blaze Epiphany,{X}{R},1.0,Instant,"End-Blaze Epiphany deals X damage to target creature. When that creature dies this turn, exile a number of cards from the top of your library equal to its power, then choose a card exiled this way. Until the end of your next turn, you may play that card.",R,R,rare,ECL,Lorwyn Eclipsed,134,,,,
+End-Blaze Epiphany,{X}{R},1.0,Instant,"End-Blaze Epiphany deals X damage to target creature. When that creature dies this turn, exile a number of cards from the top of your library equal to its power, then choose a card exiled this way. Until the end of your next turn, you may play that card.",R,R,rare,ECL,Lorwyn Eclipsed,364,,,,
+End-Blaze Epiphany,{X}{R},1.0,Instant,"End-Blaze Epiphany deals X damage to target creature. When that creature dies this turn, exile a number of cards from the top of your library equal to its power, then choose a card exiled this way. Until the end of your next turn, you may play that card.",R,R,rare,PECL,Lorwyn Eclipsed Promos,134p,,,,
+Energybending,{2},2.0,Instant — Lesson,"Lands you control gain all basic land types until end of turn.
+Draw a card.",,,uncommon,TLA,Avatar: The Last Airbender,2,,,,
+Enter the Avatar State,{W},1.0,Instant — Lesson,"Until end of turn, target creature you control becomes an Avatar in addition to its other types and gains flying, first strike, lifelink, and hexproof. (A creature with hexproof can't be the target of spells or abilities your opponents control.)",W,W,uncommon,TLA,Avatar: The Last Airbender,18,,,,Lifelink;First strike
+Essence Scatter,{1}{U},2.0,Instant,Counter target creature spell.,U,U,common,DDT,Duel Decks: Merfolk vs. Goblins,6,,,,
+Essence Scatter,{1}{U},2.0,Instant,Counter target creature spell.,U,U,common,AKR,Amonkhet Remastered,60,,,,
+Essence Scatter,{1}{U},2.0,Instant,Counter target creature spell.,U,U,common,M14,Magic 2014,55,,,,
+Essence Scatter,{1}{U},2.0,Instant,Counter target creature spell.,U,U,common,DPA,Duels of the Planeswalkers,8,,,,
+Essence Scatter,{1}{U},2.0,Instant,Counter target creature spell.,U,U,common,IKO,Ikoria: Lair of Behemoths,49,,,,
+Essence Scatter,{1}{U},2.0,Instant,Counter target creature spell.,U,U,common,PS11,Salvat 2011,35,,,,
+Essence Scatter,{1}{U},2.0,Instant,Counter target creature spell.,U,U,common,M19,Core Set 2019,54,,,,
+Essence Scatter,{1}{U},2.0,Instant,Counter target creature spell.,U,U,common,PIO,Pioneer Masters,54,,,,
+Essence Scatter,{1}{U},2.0,Instant,Counter target creature spell.,U,U,common,DMU,Dominaria United,49,,,,
+Essence Scatter,{1}{U},2.0,Instant,Counter target creature spell.,U,U,common,M10,Magic 2010,51,,,,
+Essence Scatter,{1}{U},2.0,Instant,Counter target creature spell.,U,U,uncommon,FDN,Foundations,153,,,,
+Essence Scatter,{1}{U},2.0,Instant,Counter target creature spell.,U,U,common,AKH,Amonkhet,52,,,,
+Essence Scatter,{1}{U},2.0,Instant,Counter target creature spell.,U,U,common,PLST,The List,M19-54,,,,
+Essence Scatter,{1}{U},2.0,Instant,Counter target creature spell.,U,U,common,M13,Magic 2013,50,,,,
+Explosive Derailment,{R},1.0,Instant,"Spree (Choose one or more additional costs.)
++ {2} — Explosive Derailment deals 4 damage to target creature.
++ {2} — Destroy target artifact.",R,R,common,OTJ,Outlaws of Thunder Junction,122,,,,Spree
+Expose the Culprit,{1}{R},2.0,Instant,"Choose one or both —
+• Turn target face-down creature face up.
+• Exile any number of face-up creatures you control with disguise in a face-down pile, shuffle that pile, then cloak them. (To cloak a card, put it onto the battlefield face down as a 2/2 creature with ward {2}. Turn it face up any time for its mana cost if it's a creature card.)",R,R,uncommon,MKM,Murders at Karlov Manor,124,,,,Cloak
+Expose the Culprit,{1}{R},2.0,Instant,"Choose one or both —
+• Turn target face-down creature face up.
+• Exile any number of face-up creatures you control with disguise in a face-down pile, shuffle that pile, then cloak them. (To cloak a card, put it onto the battlefield face down as a 2/2 creature with ward {2}. Turn it face up any time for its mana cost if it's a creature card.)",R,R,uncommon,MKM,Murders at Karlov Manor,307,,,,Cloak

@@ -1,0 +1,48 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Gather the White Lotus,{4}{W},5.0,Sorcery,"Create a 1/1 white Ally creature token for each Plains you control. Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)",W,W,uncommon,TLA,Avatar: The Last Airbender,20,,,,Scry
+Genesis Wave,{X}{G}{G}{G},3.0,Sorcery,Reveal the top X cards of your library. You may put any number of permanent cards with mana value X or less from among them onto the battlefield. Then put all cards revealed this way that weren't put onto the battlefield into your graveyard.,G,G,rare,PFDN,Foundations Promos,221s,,,,
+Genesis Wave,{X}{G}{G}{G},3.0,Sorcery,Reveal the top X cards of your library. You may put any number of permanent cards with mana value X or less from among them onto the battlefield. Then put all cards revealed this way that weren't put onto the battlefield into your graveyard.,G,G,rare,FDN,Foundations,334,,,,
+Genesis Wave,{X}{G}{G}{G},3.0,Sorcery,Reveal the top X cards of your library. You may put any number of permanent cards with mana value X or less from among them onto the battlefield. Then put all cards revealed this way that weren't put onto the battlefield into your graveyard.,G,G,rare,IMA,Iconic Masters,164,,,,
+Genesis Wave,{X}{G}{G}{G},3.0,Sorcery,Reveal the top X cards of your library. You may put any number of permanent cards with mana value X or less from among them onto the battlefield. Then put all cards revealed this way that weren't put onto the battlefield into your graveyard.,G,G,rare,LTC,Tales of Middle-earth Commander,245,,,,
+Genesis Wave,{X}{G}{G}{G},3.0,Sorcery,Reveal the top X cards of your library. You may put any number of permanent cards with mana value X or less from among them onto the battlefield. Then put all cards revealed this way that weren't put onto the battlefield into your graveyard.,G,G,rare,FDN,Foundations,396,,,,
+Genesis Wave,{X}{G}{G}{G},3.0,Sorcery,Reveal the top X cards of your library. You may put any number of permanent cards with mana value X or less from among them onto the battlefield. Then put all cards revealed this way that weren't put onto the battlefield into your graveyard.,G,G,rare,SOM,Scars of Mirrodin,122,,,,
+Genesis Wave,{X}{G}{G}{G},3.0,Sorcery,Reveal the top X cards of your library. You may put any number of permanent cards with mana value X or less from among them onto the battlefield. Then put all cards revealed this way that weren't put onto the battlefield into your graveyard.,G,G,rare,FDN,Foundations,221,,,,
+Glacial Dragonhunt,{U}{R},2.0,Sorcery,"Draw a card, then you may discard a card. When you discard a nonland card this way, Glacial Dragonhunt deals 3 damage to target creature.
+Harmonize {4}{U}{R} (You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)","R,U","R,U",uncommon,TDM,Tarkir: Dragonstorm,188,,,,Harmonize
+Glimpse the Core,{1}{G},2.0,Sorcery,"Choose one —
+• Search your library for a basic Forest card, put that card onto the battlefield tapped, then shuffle.
+• Return target Cave card from your graveyard to the battlefield tapped.",G,G,uncommon,LCI,The Lost Caverns of Ixalan,186,,,,
+Glimpse the Core,{1}{G},2.0,Sorcery,"Choose one —
+• Search your library for a basic Forest card, put that card onto the battlefield tapped, then shuffle.
+• Return target Cave card from your graveyard to the battlefield tapped.",G,G,rare,PWCS,Planeswalker Championship Promos,2024-03,,,,
+Go Ninja Go,{R}{W},2.0,Sorcery,"Choose one or both —
+• Exile target creature you control, then return it to the battlefield under its owner's control.
+• Go Ninja Go deals damage equal to the greatest power among creatures you control to target creature an opponent controls.","R,W","R,W",uncommon,TMT,Teenage Mutant Ninja Turtles,149,,,,
+Goatnap,{2}{R},3.0,Sorcery,"Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. If that creature is a Goat, it also gets +3/+0 until end of turn.",R,R,common,J21,Jumpstart: Historic Horizons,453,,,,
+Goatnap,{2}{R},3.0,Sorcery,"Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. If that creature is a Goat, it also gets +3/+0 until end of turn.",R,R,common,MH1,Modern Horizons,126,,,,
+Goatnap,{2}{R},3.0,Sorcery,"Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. If that creature is a Goat, it also gets +3/+0 until end of turn.",R,R,uncommon,ECL,Lorwyn Eclipsed,142,,,,
+Goblin Negotiation,{X}{R}{R},2.0,Sorcery,Goblin Negotiation deals X damage to target creature. Create a number of 1/1 red Goblin creature tokens equal to the amount of excess damage dealt to that creature this way.,R,R,uncommon,FDN,Foundations,88,,,,
+Grab the Prize,{1}{R},2.0,Sorcery,"As an additional cost to cast this spell, discard a card.
+Draw two cards. If the discarded card wasn't a land card, Grab the Prize deals 2 damage to each opponent.",R,R,common,DSK,Duskmourn: House of Horror,138,,,,
+Graceful Takedown,{1}{G},2.0,Sorcery,Any number of target enchanted creatures you control and up to one other target creature you control each deal damage equal to their power to target creature you don't control.,G,G,uncommon,WOE,Wilds of Eldraine,171,,,,
+Grow from the Ashes,{2}{G},3.0,Sorcery,"Kicker {2} (You may pay an additional {2} as you cast this spell.)
+Search your library for a basic land card, put it onto the battlefield, then shuffle. If this spell was kicked, instead search your library for two basic land cards, put them onto the battlefield, then shuffle.",G,G,common,FDN,Foundations,225,,,,Kicker
+Grow from the Ashes,{2}{G},3.0,Sorcery,"Kicker {2} (You may pay an additional {2} as you cast this spell.)
+Search your library for a basic land card, put it onto the battlefield, then shuffle. If this spell was kicked, instead search your library for two basic land cards, put them onto the battlefield, then shuffle.",G,G,common,DOM,Dominaria,164,,,,Kicker
+Grub's Command,{3}{B}{R},5.0,Kindred Sorcery — Goblin,"Choose two —
+• Create a token that's a copy of target Goblin you control.
+• Creatures target player controls get +1/+1 and gain haste until end of turn.
+• Destroy target artifact or creature.
+• Target player mills five cards, then puts each Goblin card milled this way into their hand.","B,R","B,R",rare,ECL,Lorwyn Eclipsed,340,,,,Mill
+Grub's Command,{3}{B}{R},5.0,Kindred Sorcery — Goblin,"Choose two —
+• Create a token that's a copy of target Goblin you control.
+• Creatures target player controls get +1/+1 and gain haste until end of turn.
+• Destroy target artifact or creature.
+• Target player mills five cards, then puts each Goblin card milled this way into their hand.","B,R","B,R",rare,ECL,Lorwyn Eclipsed,228,,,,Mill
+Grub's Command,{3}{B}{R},5.0,Kindred Sorcery — Goblin,"Choose two —
+• Create a token that's a copy of target Goblin you control.
+• Creatures target player controls get +1/+1 and gain haste until end of turn.
+• Destroy target artifact or creature.
+• Target player mills five cards, then puts each Goblin card milled this way into their hand.","B,R","B,R",rare,PECL,Lorwyn Eclipsed Promos,228p,,,,Mill
+Gysahl Greens,{1}{G},2.0,Sorcery,"Create a 2/2 green Bird creature token with ""Whenever a land you control enters, this token gets +1/+0 until end of turn.""
+Flashback {6}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",G,G,common,FIN,Final Fantasy,190,,,,Flashback

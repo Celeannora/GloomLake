@@ -1,0 +1,111 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Pearl of Wisdom,{2}{U},3.0,Sorcery,"This spell costs {1} less to cast if you control an Otter.
+Draw two cards.",U,U,common,BLB,Bloomburrow,64,,,,
+Perennation,{3}{W}{B}{G},6.0,Sorcery,Return target permanent card from your graveyard to the battlefield with a hexproof counter and an indestructible counter on it.,"B,G,W","B,G,W",mythic,PTDM,Tarkir: Dragonstorm Promos,212s,,,,
+Perennation,{3}{W}{B}{G},6.0,Sorcery,Return target permanent card from your graveyard to the battlefield with a hexproof counter and an indestructible counter on it.,"B,G,W","B,G,W",mythic,TDM,Tarkir: Dragonstorm,368,,,,
+Perennation,{3}{W}{B}{G},6.0,Sorcery,Return target permanent card from your graveyard to the battlefield with a hexproof counter and an indestructible counter on it.,"B,G,W","B,G,W",mythic,PTDM,Tarkir: Dragonstorm Promos,212p,,,,
+Perennation,{3}{W}{B}{G},6.0,Sorcery,Return target permanent card from your graveyard to the battlefield with a hexproof counter and an indestructible counter on it.,"B,G,W","B,G,W",mythic,TDM,Tarkir: Dragonstorm,212,,,,
+Perfect Intimidation,{3}{B},4.0,Sorcery,"Choose one or both —
+• Target opponent exiles two cards from their hand.
+• Remove all counters from target creature.",B,B,uncommon,ECL,Lorwyn Eclipsed,115,,,,
+Pest Control,{W}{B},2.0,Sorcery,"Destroy all nonland permanents with mana value 1 or less.
+Cycling {2} ({2}, Discard this card: Draw a card.)","B,W","B,W",mythic,BIG,The Big Score,52,,,,Cycling
+Pest Control,{W}{B},2.0,Sorcery,"Destroy all nonland permanents with mana value 1 or less.
+Cycling {2} ({2}, Discard this card: Draw a card.)","B,W","B,W",mythic,BIG,The Big Score,22,,,,Cycling
+Pest Control,{W}{B},2.0,Sorcery,"Destroy all nonland permanents with mana value 1 or less.
+Cycling {2} ({2}, Discard this card: Draw a card.)","B,W","B,W",mythic,BIG,The Big Score,87,,,,Cycling
+Pick Your Poison,{G},1.0,Sorcery,"Choose one —
+• Each opponent sacrifices an artifact of their choice.
+• Each opponent sacrifices an enchantment of their choice.
+• Each opponent sacrifices a creature with flying of their choice.",G,G,common,MKM,Murders at Karlov Manor,170,,,,
+Pilfer,{1}{B},2.0,Sorcery,Target opponent reveals their hand. You choose a nonland card from it. That player discards that card.,B,B,uncommon,DMU,Dominaria United,102,,,,
+Pilfer,{1}{B},2.0,Sorcery,Target opponent reveals their hand. You choose a nonland card from it. That player discards that card.,B,B,common,FDN,Foundations,181,,,,
+Pillage the Bog,{B}{G},2.0,Sorcery,"Look at the top X cards of your library, where X is twice the number of lands you control. Put one of them into your hand and the rest on the bottom of your library in a random order.
+Plot {1}{B}{G} (You may pay {1}{B}{G} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)","B,G","B,G",rare,POTJ,Outlaws of Thunder Junction Promos,224p,,,,Plot
+Pillage the Bog,{B}{G},2.0,Sorcery,"Look at the top X cards of your library, where X is twice the number of lands you control. Put one of them into your hand and the rest on the bottom of your library in a random order.
+Plot {1}{B}{G} (You may pay {1}{B}{G} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)","B,G","B,G",rare,OTJ,Outlaws of Thunder Junction,359,,,,Plot
+Pillage the Bog,{B}{G},2.0,Sorcery,"Look at the top X cards of your library, where X is twice the number of lands you control. Put one of them into your hand and the rest on the bottom of your library in a random order.
+Plot {1}{B}{G} (You may pay {1}{B}{G} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)","B,G","B,G",rare,POTJ,Outlaws of Thunder Junction Promos,224s,,,,Plot
+Pillage the Bog,{B}{G},2.0,Sorcery,"Look at the top X cards of your library, where X is twice the number of lands you control. Put one of them into your hand and the rest on the bottom of your library in a random order.
+Plot {1}{B}{G} (You may pay {1}{B}{G} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)","B,G","B,G",rare,OTJ,Outlaws of Thunder Junction,224,,,,Plot
+Pitiless Carnage,{3}{B},4.0,Sorcery,"Sacrifice any number of permanents you control, then draw that many cards.
+Plot {1}{B}{B} (You may pay {1}{B}{B} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",B,B,rare,OTJ,Outlaws of Thunder Junction,326,,,,Plot
+Pitiless Carnage,{3}{B},4.0,Sorcery,"Sacrifice any number of permanents you control, then draw that many cards.
+Plot {1}{B}{B} (You may pay {1}{B}{B} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",B,B,rare,POTJ,Outlaws of Thunder Junction Promos,98p,,,,Plot
+Pitiless Carnage,{3}{B},4.0,Sorcery,"Sacrifice any number of permanents you control, then draw that many cards.
+Plot {1}{B}{B} (You may pay {1}{B}{B} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",B,B,rare,POTJ,Outlaws of Thunder Junction Promos,98s,,,,Plot
+Pitiless Carnage,{3}{B},4.0,Sorcery,"Sacrifice any number of permanents you control, then draw that many cards.
+Plot {1}{B}{B} (You may pay {1}{B}{B} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",B,B,rare,OTJ,Outlaws of Thunder Junction,98,,,,Plot
+Plan the Heist,{2}{U}{U},4.0,Sorcery,"Surveil 3 if you have no cards in hand. Then draw three cards. (To surveil 3, look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+Plot {3}{U} (You may pay {3}{U} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",U,U,uncommon,OTJ,Outlaws of Thunder Junction,62,,,,Surveil;Plot
+Plasma Bolt,{R},1.0,Sorcery,"Plasma Bolt deals 2 damage to any target.
+Void — Plasma Bolt deals 3 damage instead if a nonland permanent left the battlefield this turn or a spell was warped this turn.",R,R,common,EOE,Edge of Eternities,152,,,,Void
+Playful Shove,{1}{R},2.0,Sorcery,"Playful Shove deals 1 damage to any target.
+Draw a card.",R,R,uncommon,BLB,Bloomburrow,145,,,,
+Plow Through,{G},1.0,Sorcery,"Choose one —
+• Target creature you control fights target creature an opponent controls. (Each deals damage equal to its power to the other.)
+• Destroy target Vehicle.",G,G,uncommon,DFT,Aetherdrift,174,,,,Fight
+Poison the Waters,{1}{B},2.0,Sorcery,"Choose one —
+• All creatures get -1/-1 until end of turn.
+• Target player reveals their hand. You choose an artifact or creature card from it. That player discards that card.",B,B,uncommon,FIN,Final Fantasy,111,,,,
+Portent of Calamity,{X}{U},1.0,Sorcery,"Reveal the top X cards of your library. For each card type, you may exile a card of that type from among them. Put the rest into your graveyard. You may cast a spell from among the exiled cards without paying its mana cost if you exiled four or more cards this way. Then put the rest of the exiled cards into your hand.",U,U,rare,PBLB,Bloomburrow Promos,66p,,,,
+Portent of Calamity,{X}{U},1.0,Sorcery,"Reveal the top X cards of your library. For each card type, you may exile a card of that type from among them. Put the rest into your graveyard. You may cast a spell from among the exiled cards without paying its mana cost if you exiled four or more cards this way. Then put the rest of the exiled cards into your hand.",U,U,rare,BLB,Bloomburrow,306,,,,
+Portent of Calamity,{X}{U},1.0,Sorcery,"Reveal the top X cards of your library. For each card type, you may exile a card of that type from among them. Put the rest into your graveyard. You may cast a spell from among the exiled cards without paying its mana cost if you exiled four or more cards this way. Then put the rest of the exiled cards into your hand.",U,U,rare,PBLB,Bloomburrow Promos,66s,,,,
+Portent of Calamity,{X}{U},1.0,Sorcery,"Reveal the top X cards of your library. For each card type, you may exile a card of that type from among them. Put the rest into your graveyard. You may cast a spell from among the exiled cards without paying its mana cost if you exiled four or more cards this way. Then put the rest of the exiled cards into your hand.",U,U,rare,BLB,Bloomburrow,66,,,,
+Preposterous Proportions,{5}{G}{G},7.0,Sorcery,Creatures you control get +10/+10 and gain vigilance until end of turn.,G,G,rare,FDN,Foundations,400,,,,
+Preposterous Proportions,{5}{G}{G},7.0,Sorcery,Creatures you control get +10/+10 and gain vigilance until end of turn.,G,G,rare,FDN,Foundations,472,,,,
+Preposterous Proportions,{5}{G}{G},7.0,Sorcery,Creatures you control get +10/+10 and gain vigilance until end of turn.,G,G,rare,PFDN,Foundations Promos,109s,,,,
+Preposterous Proportions,{5}{G}{G},7.0,Sorcery,Creatures you control get +10/+10 and gain vigilance until end of turn.,G,G,rare,FDN,Foundations,109,,,,
+Preposterous Proportions,{5}{G}{G},7.0,Sorcery,Creatures you control get +10/+10 and gain vigilance until end of turn.,G,G,rare,FDN,Foundations,338,,,,
+Price of Freedom,{1}{R},2.0,Sorcery — Lesson,"Destroy target artifact or land an opponent controls. Its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.
+Draw a card.",R,R,uncommon,TLA,Avatar: The Last Airbender,149,,,,
+Primal Might,{X}{G},1.0,Sorcery,Target creature you control gets +X/+X until end of turn. Then it fights up to one target creature you don't control. (Each deals damage equal to its power to the other.),G,G,rare,PM21,Core Set 2021 Promos,197p,,,,Fight
+Primal Might,{X}{G},1.0,Sorcery,Target creature you control gets +X/+X until end of turn. Then it fights up to one target creature you don't control. (Each deals damage equal to its power to the other.),G,G,rare,M21,Core Set 2021,197,,,,Fight
+Primal Might,{X}{G},1.0,Sorcery,Target creature you control gets +X/+X until end of turn. Then it fights up to one target creature you don't control. (Each deals damage equal to its power to the other.),G,G,rare,PRM,Magic Online Promos,81990,,,,Fight
+Primal Might,{X}{G},1.0,Sorcery,Target creature you control gets +X/+X until end of turn. Then it fights up to one target creature you don't control. (Each deals damage equal to its power to the other.),G,G,rare,SCD,Starter Commander Decks,204,,,,Fight
+Primal Might,{X}{G},1.0,Sorcery,Target creature you control gets +X/+X until end of turn. Then it fights up to one target creature you don't control. (Each deals damage equal to its power to the other.),G,G,rare,FDN,Foundations,643,,,,Fight
+Primal Might,{X}{G},1.0,Sorcery,Target creature you control gets +X/+X until end of turn. Then it fights up to one target creature you don't control. (Each deals damage equal to its power to the other.),G,G,rare,PM21,Core Set 2021 Promos,197s,,,,Fight
+Primal Might,{X}{G},1.0,Sorcery,Target creature you control gets +X/+X until end of turn. Then it fights up to one target creature you don't control. (Each deals damage equal to its power to the other.),G,G,rare,OTP,Breaking News,32,,,,Fight
+Primal Might,{X}{G},1.0,Sorcery,Target creature you control gets +X/+X until end of turn. Then it fights up to one target creature you don't control. (Each deals damage equal to its power to the other.),G,G,rare,M21,Core Set 2021,377,,,,Fight
+Prison Break,{4}{B},5.0,Sorcery,"Return target creature card from your graveyard to the battlefield with an additional +1/+1 counter on it.
+Mayhem {3}{B} (You may cast this card from your graveyard for {3}{B} if you discarded it this turn. Timing rules still apply.)",B,B,uncommon,SPM,Marvel's Spider-Man,61,,,,Mayhem
+Prison Break,{4}{B},5.0,Sorcery,"Return target creature card from your graveyard to the battlefield with an additional +1/+1 counter on it.
+Mayhem {3}{B} (You may cast this card from your graveyard for {3}{B} if you discarded it this turn. Timing rules still apply.)",B,B,uncommon,OM1,Through the Omenpaths,64,,,,Mayhem
+Psychic Whorl,{2}{B},3.0,Sorcery,"Target opponent discards two cards. Then if you control a Rat, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)",B,B,common,BLB,Bloomburrow,105,,,,Surveil
+Pull Through the Weft,{3}{G}{G},5.0,Sorcery,"Return up to two target nonland permanent cards from your graveyard to your hand, then return up to two target land cards from your graveyard to the battlefield tapped.",G,G,uncommon,EOE,Edge of Eternities,397,,,,
+Pull Through the Weft,{3}{G}{G},5.0,Sorcery,"Return up to two target nonland permanent cards from your graveyard to your hand, then return up to two target land cards from your graveyard to the battlefield tapped.",G,G,uncommon,EOE,Edge of Eternities,202,,,,
+Pumpkin Bombardment,{B/R},1.0,Sorcery,"As an additional cost to cast this spell, discard a card or pay {2}.
+Pumpkin Bombardment deals 3 damage to target creature.","B,R","B,R",common,OM1,Through the Omenpaths,142,,,,
+Pumpkin Bombardment,{B/R},1.0,Sorcery,"As an additional cost to cast this spell, discard a card or pay {2}.
+Pumpkin Bombardment deals 3 damage to target creature.","B,R","B,R",common,SPM,Marvel's Spider-Man,139,,,,
+Push // Pull,{1}{W/B} // {4}{B/R}{B/R},8.0,Sorcery // Sorcery,,"B,R,W","B,R,W",uncommon,MKM,Murders at Karlov Manor,250,,,,
+Push the Limit,{5}{R}{R},7.0,Sorcery,"Return all Mount and Vehicle cards from your graveyard to the battlefield. Sacrifice them at the beginning of the next end step.
+Vehicles you control become artifact creatures until end of turn. Creatures you control gain haste until end of turn.",R,R,uncommon,DFT,Aetherdrift,143,,,,
+Pyroclasm,{1}{R},2.0,Sorcery,Pyroclasm deals 2 damage to each creature.,R,R,uncommon,10E,Tenth Edition,222,,,,
+Pyroclasm,{1}{R},2.0,Sorcery,Pyroclasm deals 2 damage to each creature.,R,R,uncommon,M10,Magic 2010,152,,,,
+Pyroclasm,{1}{R},2.0,Sorcery,Pyroclasm deals 2 damage to each creature.,R,R,uncommon,8ED,Eighth Edition,210,,,,
+Pyroclasm,{1}{R},2.0,Sorcery,Pyroclasm deals 2 damage to each creature.,R,R,uncommon,WC01,World Championship Decks 2001,tvdl209sb,,,,
+Pyroclasm,{1}{R},2.0,Sorcery,Pyroclasm deals 2 damage to each creature.,R,R,uncommon,DSK,Duskmourn: House of Horror,149,,,,
+Pyroclasm,{1}{R},2.0,Sorcery,Pyroclasm deals 2 damage to each creature.,R,R,rare,OLEP,Oversized League Prizes,65,,,,
+Pyroclasm,{1}{R},2.0,Sorcery,Pyroclasm deals 2 damage to each creature.,R,R,uncommon,PSAL,Salvat 2005,K27,,,,
+Pyroclasm,{1}{R},2.0,Sorcery,Pyroclasm deals 2 damage to each creature.,R,R,uncommon,7ED,Seventh Edition,209,,,,
+Pyroclasm,{1}{R},2.0,Sorcery,Pyroclasm deals 2 damage to each creature.,R,R,uncommon,PRM,Magic Online Promos,35168,,,,
+Pyroclasm,{1}{R},2.0,Sorcery,Pyroclasm deals 2 damage to each creature.,R,R,rare,PLST,The List,POR-143,,,,
+Pyroclasm,{1}{R},2.0,Sorcery,Pyroclasm deals 2 damage to each creature.,R,R,uncommon,WC03,World Championship Decks 2003,pk210sb,,,,
+Pyroclasm,{1}{R},2.0,Sorcery,Pyroclasm deals 2 damage to each creature.,R,R,uncommon,ICE,Ice Age,214,,,,
+Pyroclasm,{1}{R},2.0,Sorcery,Pyroclasm deals 2 damage to each creature.,R,R,uncommon,A25,Masters 25,146,,,,
+Pyroclasm,{1}{R},2.0,Sorcery,Pyroclasm deals 2 damage to each creature.,R,R,uncommon,DKM,Deckmasters,19,,,,
+Pyroclasm,{1}{R},2.0,Sorcery,Pyroclasm deals 2 damage to each creature.,R,R,uncommon,7ED,Seventh Edition,209★,,,,
+Pyroclasm,{1}{R},2.0,Sorcery,Pyroclasm deals 2 damage to each creature.,R,R,uncommon,DDK,Duel Decks: Sorin vs. Tibalt,62,,,,
+Pyroclasm,{1}{R},2.0,Sorcery,Pyroclasm deals 2 damage to each creature.,R,R,uncommon,WC01,World Championship Decks 2001,ar209sb,,,,
+Pyroclasm,{1}{R},2.0,Sorcery,Pyroclasm deals 2 damage to each creature.,R,R,uncommon,MM3,Modern Masters 2017,107,,,,
+Pyroclasm,{1}{R},2.0,Sorcery,Pyroclasm deals 2 damage to each creature.,R,R,uncommon,DDL,Duel Decks: Heroes vs. Monsters,63,,,,
+Pyroclasm,{1}{R},2.0,Sorcery,Pyroclasm deals 2 damage to each creature.,R,R,uncommon,WC04,World Championship Decks 2004,mb210sb,,,,
+Pyroclasm,{1}{R},2.0,Sorcery,Pyroclasm deals 2 damage to each creature.,R,R,rare,POR,Portal,143,,,,
+Pyroclasm,{1}{R},2.0,Sorcery,Pyroclasm deals 2 damage to each creature.,R,R,rare,P06,Magic Player Rewards 2006,3,,,,
+Pyroclasm,{1}{R},2.0,Sorcery,Pyroclasm deals 2 damage to each creature.,R,R,uncommon,9ED,Ninth Edition,208★,,,,
+Pyroclasm,{1}{R},2.0,Sorcery,Pyroclasm deals 2 damage to each creature.,R,R,uncommon,M11,Magic 2011,154,,,,
+Pyroclasm,{1}{R},2.0,Sorcery,Pyroclasm deals 2 damage to each creature.,R,R,uncommon,9ED,Ninth Edition,208,,,,
+Pyroclasm,{1}{R},2.0,Sorcery,Pyroclasm deals 2 damage to each creature.,R,R,uncommon,DSK,Duskmourn: House of Horror,413,,,,
+Pyroclasm,{1}{R},2.0,Sorcery,Pyroclasm deals 2 damage to each creature.,R,R,rare,OLEP,Oversized League Prizes,66,,,,
+Pyroclasm,{1}{R},2.0,Sorcery,Pyroclasm deals 2 damage to each creature.,R,R,uncommon,8ED,Eighth Edition,210★,,,,

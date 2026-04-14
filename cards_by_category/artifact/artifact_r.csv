@@ -1,0 +1,104 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Racers' Scoreboard,{4},4.0,Artifact,"Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+When this artifact enters, draw two cards, then discard a card.
+Max speed — Spells you cast cost {1} less to cast.",,,uncommon,DFT,Aetherdrift,239,,,,Max speed;Start your engines!
+Radiant Lotus,{6},6.0,Artifact,"{T}, Sacrifice one or more artifacts: Choose a color. Target player adds three mana of the chosen color for each artifact sacrificed this way.",,,mythic,DFT,Aetherdrift,500,,,,
+Radiant Lotus,{6},6.0,Artifact,"{T}, Sacrifice one or more artifacts: Choose a color. Target player adds three mana of the chosen color for each artifact sacrificed this way.",,,mythic,PDFT,Aetherdrift Promos,240p,,,,
+Radiant Lotus,{6},6.0,Artifact,"{T}, Sacrifice one or more artifacts: Choose a color. Target player adds three mana of the chosen color for each artifact sacrificed this way.",,,mythic,DFT,Aetherdrift,416,,,,
+Radiant Lotus,{6},6.0,Artifact,"{T}, Sacrifice one or more artifacts: Choose a color. Target player adds three mana of the chosen color for each artifact sacrificed this way.",,,mythic,DFT,Aetherdrift,406,,,,
+Radiant Lotus,{6},6.0,Artifact,"{T}, Sacrifice one or more artifacts: Choose a color. Target player adds three mana of the chosen color for each artifact sacrificed this way.",,,mythic,DFT,Aetherdrift,395,,,,
+Radiant Lotus,{6},6.0,Artifact,"{T}, Sacrifice one or more artifacts: Choose a color. Target player adds three mana of the chosen color for each artifact sacrificed this way.",,,mythic,PDFT,Aetherdrift Promos,240s,,,,
+Radiant Lotus,{6},6.0,Artifact,"{T}, Sacrifice one or more artifacts: Choose a color. Target player adds three mana of the chosen color for each artifact sacrificed this way.",,,mythic,DFT,Aetherdrift,240,,,,
+Rangers' Aetherhive,{1}{G}{U},3.0,Artifact — Vehicle,"Vigilance
+Whenever you activate an exhaust ability, create a 1/1 colorless Thopter artifact creature token with flying.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)","G,U","G,U",uncommon,DFT,Aetherdrift,217,3,5,,Vigilance;Crew
+Rangers' Aetherhive,{1}{G}{U},3.0,Artifact — Vehicle,"Vigilance
+Whenever you activate an exhaust ability, create a 1/1 colorless Thopter artifact creature token with flying.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)","G,U","G,U",uncommon,DFT,Aetherdrift,326,3,5,,Vigilance;Crew
+Rangers' Refueler,{1}{U},2.0,Artifact — Vehicle,"Whenever you activate an exhaust ability, draw a card.
+Exhaust — {4}: This Vehicle becomes an artifact creature. Put a +1/+1 counter on it. (Activate each exhaust ability only once.)
+Crew 2",U,U,uncommon,DFT,Aetherdrift,303,3,3,,Crew;Exhaust
+Rangers' Refueler,{1}{U},2.0,Artifact — Vehicle,"Whenever you activate an exhaust ability, draw a card.
+Exhaust — {4}: This Vehicle becomes an artifact creature. Put a +1/+1 counter on it. (Activate each exhaust ability only once.)
+Crew 2",U,U,uncommon,DFT,Aetherdrift,55,3,3,,Crew;Exhaust
+Ravenous Amulet,{2},2.0,Artifact,"{1}, {T}, Sacrifice a creature: Draw a card and put a soul counter on this artifact. Activate only as a sorcery.
+{4}, {T}, Sacrifice this artifact: Each opponent loses life equal to the number of soul counters on this artifact.",,,uncommon,FDN,Foundations,131,,,,
+Red Mage's Rapier,{1}{R},2.0,Artifact — Equipment,"Job select (When this Equipment enters, create a 1/1 colorless Hero creature token, then attach this to it.)
+Equipped creature has ""Whenever you cast a noncreature spell, this creature gets +2/+0 until end of turn"" and is a Wizard in addition to its other types.
+Equip {3}",R,R,common,FIN,Final Fantasy,152,,,,Job select;Equip
+Repurposing Bay,{2}{U},3.0,Artifact,"{2}, {T}, Sacrifice another artifact: Search your library for an artifact card with mana value equal to 1 plus the sacrificed artifact's mana value, put that card onto the battlefield, then shuffle. Activate only as a sorcery.",U,U,rare,DFT,Aetherdrift,56,,,,
+Repurposing Bay,{2}{U},3.0,Artifact,"{2}, {T}, Sacrifice another artifact: Search your library for an artifact card with mana value equal to 1 plus the sacrificed artifact's mana value, put that card onto the battlefield, then shuffle. Activate only as a sorcery.",U,U,rare,DFT,Aetherdrift,380,,,,
+Repurposing Bay,{2}{U},3.0,Artifact,"{2}, {T}, Sacrifice another artifact: Search your library for an artifact card with mana value equal to 1 plus the sacrificed artifact's mana value, put that card onto the battlefield, then shuffle. Activate only as a sorcery.",U,U,rare,DFT,Aetherdrift,439,,,,
+Repurposing Bay,{2}{U},3.0,Artifact,"{2}, {T}, Sacrifice another artifact: Search your library for an artifact card with mana value equal to 1 plus the sacrificed artifact's mana value, put that card onto the battlefield, then shuffle. Activate only as a sorcery.",U,U,rare,PDFT,Aetherdrift Promos,56s,,,,
+Repurposing Bay,{2}{U},3.0,Artifact,"{2}, {T}, Sacrifice another artifact: Search your library for an artifact card with mana value equal to 1 plus the sacrificed artifact's mana value, put that card onto the battlefield, then shuffle. Activate only as a sorcery.",U,U,rare,PDFT,Aetherdrift Promos,56p,,,,
+Requiem Monolith,{2}{B},3.0,Artifact,"{T}: Until end of turn, target creature gains ""Whenever this creature is dealt damage, you draw that many cards and lose that much life."" That creature's controller may have this artifact deal 1 damage to it. Activate only as a sorcery.",B,B,rare,PEOE,Edge of Eternities Promos,113s,,,,
+Requiem Monolith,{2}{B},3.0,Artifact,"{T}: Until end of turn, target creature gains ""Whenever this creature is dealt damage, you draw that many cards and lose that much life."" That creature's controller may have this artifact deal 1 damage to it. Activate only as a sorcery.",B,B,rare,EOE,Edge of Eternities,333,,,,
+Requiem Monolith,{2}{B},3.0,Artifact,"{T}: Until end of turn, target creature gains ""Whenever this creature is dealt damage, you draw that many cards and lose that much life."" That creature's controller may have this artifact deal 1 damage to it. Activate only as a sorcery.",B,B,rare,PEOE,Edge of Eternities Promos,113p,,,,
+Requiem Monolith,{2}{B},3.0,Artifact,"{T}: Until end of turn, target creature gains ""Whenever this creature is dealt damage, you draw that many cards and lose that much life."" That creature's controller may have this artifact deal 1 damage to it. Activate only as a sorcery.",B,B,rare,EOE,Edge of Eternities,113,,,,
+Rescue Skiff,{5}{W},6.0,Artifact — Spacecraft,"When this Spacecraft enters, return target creature or enchantment card from your graveyard to the battlefield.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 10+.)
+10+ | Flying",W,W,uncommon,EOE,Edge of Eternities,32,5,6,,Station
+Rimefire Torque,{1}{U},2.0,Artifact,"As this artifact enters, choose a creature type.
+Whenever a permanent you control of the chosen type enters, put a charge counter on this artifact.
+{T}, Remove three charge counters from this artifact: When you next cast an instant or sorcery spell this turn, copy it. You may choose new targets for the copy.",U,U,rare,ECL,Lorwyn Eclipsed,358,,,,
+Rimefire Torque,{1}{U},2.0,Artifact,"As this artifact enters, choose a creature type.
+Whenever a permanent you control of the chosen type enters, put a charge counter on this artifact.
+{T}, Remove three charge counters from this artifact: When you next cast an instant or sorcery spell this turn, copy it. You may choose new targets for the copy.",U,U,rare,ECL,Lorwyn Eclipsed,65,,,,
+Rimefire Torque,{1}{U},2.0,Artifact,"As this artifact enters, choose a creature type.
+Whenever a permanent you control of the chosen type enters, put a charge counter on this artifact.
+{T}, Remove three charge counters from this artifact: When you next cast an instant or sorcery spell this turn, copy it. You may choose new targets for the copy.",U,U,rare,PECL,Lorwyn Eclipsed Promos,65p,,,,
+Ring of the Lucii,{4},4.0,Legendary Artifact,"{T}: Add {C}{C}.
+{2}, {T}, Pay 1 life: Tap target nonland permanent.",,,uncommon,FIN,Final Fantasy,269,,,,
+Ripclaw Wrangler,{3}{B},4.0,Artifact — Vehicle,"When this Vehicle enters, each opponent discards a card.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)",B,B,common,DFT,Aetherdrift,309,4,3,,Crew
+Ripclaw Wrangler,{3}{B},4.0,Artifact — Vehicle,"When this Vehicle enters, each opponent discards a card.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)",B,B,common,DFT,Aetherdrift,101,4,3,,Crew
+Riverchurn Monument,{1}{U},2.0,Artifact,"{1}, {T}: Any number of target players each mill two cards. (Each of them puts the top two cards of their library into their graveyard.)
+Exhaust — {2}{U}{U}, {T}: Any number of target players each mill cards equal to the number of cards in their graveyard. (Activate each exhaust ability only once.)",U,U,rare,DFT,Aetherdrift,440,,,,Exhaust;Mill
+Riverchurn Monument,{1}{U},2.0,Artifact,"{1}, {T}: Any number of target players each mill two cards. (Each of them puts the top two cards of their library into their graveyard.)
+Exhaust — {2}{U}{U}, {T}: Any number of target players each mill cards equal to the number of cards in their graveyard. (Activate each exhaust ability only once.)",U,U,rare,DFT,Aetherdrift,381,,,,Exhaust;Mill
+Riverchurn Monument,{1}{U},2.0,Artifact,"{1}, {T}: Any number of target players each mill two cards. (Each of them puts the top two cards of their library into their graveyard.)
+Exhaust — {2}{U}{U}, {T}: Any number of target players each mill cards equal to the number of cards in their graveyard. (Activate each exhaust ability only once.)",U,U,rare,PDFT,Aetherdrift Promos,57s,,,,Exhaust;Mill
+Riverchurn Monument,{1}{U},2.0,Artifact,"{1}, {T}: Any number of target players each mill two cards. (Each of them puts the top two cards of their library into their graveyard.)
+Exhaust — {2}{U}{U}, {T}: Any number of target players each mill cards equal to the number of cards in their graveyard. (Activate each exhaust ability only once.)",U,U,rare,DFT,Aetherdrift,57,,,,Exhaust;Mill
+Riverchurn Monument,{1}{U},2.0,Artifact,"{1}, {T}: Any number of target players each mill two cards. (Each of them puts the top two cards of their library into their graveyard.)
+Exhaust — {2}{U}{U}, {T}: Any number of target players each mill cards equal to the number of cards in their graveyard. (Activate each exhaust ability only once.)",U,U,rare,PDFT,Aetherdrift Promos,57p,,,,Exhaust;Mill
+Rocket-Powered Goblin Glider,{3},3.0,Artifact — Equipment,"When this Equipment enters, if it was cast from your graveyard, attach it to target creature you control.
+Equipped creature gets +2/+0 and has flying and haste.
+Equip {2}
+Mayhem {2}",,,rare,PSPM,Marvel's Spider-Man Promos,172s,,,,Mayhem;Equip
+Rocket-Powered Goblin Glider,{3},3.0,Artifact — Equipment,"When this Equipment enters, if it was cast from your graveyard, attach it to target creature you control.
+Equipped creature gets +2/+0 and has flying and haste.
+Equip {2}
+Mayhem {2}",,,rare,SPM,Marvel's Spider-Man,281,,,,Mayhem;Equip
+Rocket-Powered Goblin Glider,{3},3.0,Artifact — Equipment,"When this Equipment enters, if it was cast from your graveyard, attach it to target creature you control.
+Equipped creature gets +2/+0 and has flying and haste.
+Equip {2}
+Mayhem {2}",,,rare,SPM,Marvel's Spider-Man,172,,,,Mayhem;Equip
+Rocket-Powered Goblin Glider,{3},3.0,Artifact — Equipment,"When this Equipment enters, if it was cast from your graveyard, attach it to target creature you control.
+Equipped creature gets +2/+0 and has flying and haste.
+Equip {2}
+Mayhem {2}",,,rare,OM1,Through the Omenpaths,175,,,,Mayhem;Equip
+Rocketeer Boostbuggy,{R}{G},2.0,Artifact — Vehicle,"Whenever this Vehicle attacks, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")
+Exhaust — {3}: This Vehicle becomes an artifact creature. Put a +1/+1 counter on it. (Activate each exhaust ability only once.)
+Crew 1","G,R","G,R",uncommon,DFT,Aetherdrift,327,3,2,,Treasure;Crew;Exhaust
+Rocketeer Boostbuggy,{R}{G},2.0,Artifact — Vehicle,"Whenever this Vehicle attacks, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")
+Exhaust — {3}: This Vehicle becomes an artifact creature. Put a +1/+1 counter on it. (Activate each exhaust ability only once.)
+Crew 1","G,R","G,R",uncommon,DFT,Aetherdrift,220,3,2,,Treasure;Crew;Exhaust
+Rope,{G},1.0,Artifact — Clue Equipment,"Equipped creature gets +1/+2, has reach, and can't be blocked by more than one creature.
+{2}, Sacrifice this Equipment: Draw a card.
+Equip {3}",G,G,uncommon,MKM,Murders at Karlov Manor,173,,,,Equip
+Rope,{G},1.0,Artifact — Clue Equipment,"Equipped creature gets +1/+2, has reach, and can't be blocked by more than one creature.
+{2}, Sacrifice this Equipment: Draw a card.
+Equip {3}",G,G,uncommon,CLU,Ravnica: Clue Edition,11,,,,Equip
+Rover Blades,{3},3.0,Artifact — Equipment Vehicle,"Double strike
+Equipped creature has double strike.
+Equip {4}
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn. Creatures can't be attached to other permanents.)",,,uncommon,DFT,Aetherdrift,331,2,2,,Crew;Equip;Double strike
+Rover Blades,{3},3.0,Artifact — Equipment Vehicle,"Double strike
+Equipped creature has double strike.
+Equip {4}
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn. Creatures can't be attached to other permanents.)",,,uncommon,DFT,Aetherdrift,241,2,2,,Crew;Equip;Double strike
+Runaway Boulder,{6},6.0,Artifact,"Flash
+When this artifact enters, it deals 6 damage to target creature an opponent controls.
+Cycling {2} ({2}, Discard this card: Draw a card.)",,,common,LCI,The Lost Caverns of Ixalan,259,,,,Flash;Cycling

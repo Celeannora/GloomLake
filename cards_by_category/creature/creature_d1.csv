@@ -1,0 +1,323 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Daggerfang Duo,{2}{B},3.0,Creature — Rat Squirrel,"Deathtouch
+When this creature enters, you may mill two cards. (You may put the top two cards of your library into your graveyard.)",B,B,common,BLB,Bloomburrow,89,3,2,,Mill;Deathtouch
+Daggermaw Megalodon,{4}{U}{U},6.0,Creature — Shark,"Vigilance
+Islandcycling {2} ({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)",U,U,common,DSK,Duskmourn: House of Horror,48,5,7,,Islandcycling;Vigilance;Landcycling;Typecycling;Cycling
+Dai Li Agents,{3}{B}{G},5.0,Creature — Human Soldier,"When this creature enters, earthbend 1, then earthbend 1. (To earthbend 1, target land you control becomes a 0/0 creature with haste that's still a land. Put a +1/+1 counter on it. When it dies or is exiled, return it to the battlefield tapped.)
+Whenever this creature attacks, each opponent loses X life and you gain X life, where X is the number of creatures you control with +1/+1 counters on them.","B,G","B,G",uncommon,TLA,Avatar: The Last Airbender,306,3,4,,Earthbend
+Dai Li Agents,{3}{B}{G},5.0,Creature — Human Soldier,"When this creature enters, earthbend 1, then earthbend 1. (To earthbend 1, target land you control becomes a 0/0 creature with haste that's still a land. Put a +1/+1 counter on it. When it dies or is exiled, return it to the battlefield tapped.)
+Whenever this creature attacks, each opponent loses X life and you gain X life, where X is the number of creatures you control with +1/+1 counters on them.","B,G","B,G",uncommon,TLA,Avatar: The Last Airbender,214,3,4,,Earthbend
+Daily Bugle Reporters,{3}{W},4.0,Creature — Human Citizen,"When this creature enters, choose one —
+• Puff Piece — Put a +1/+1 counter on each of up to two target creatures.
+• Investigative Journalism — Return target creature card with mana value 2 or less from your graveyard to your hand.",W,W,common,SPM,Marvel's Spider-Man,6,2,3,,
+Daily Bugle Reporters,{3}{W},4.0,Creature — Human Citizen,"When this creature enters, choose one —
+• Puff Piece — Put a +1/+1 counter on each of up to two target creatures.
+• Investigative Journalism — Return target creature card with mana value 2 or less from your graveyard to your hand.",W,W,common,OM1,Through the Omenpaths,16,2,3,,
+Dalkovan Packbeasts,{2}{W},3.0,Creature — Ox,"Vigilance
+Mobilize 3 (Whenever this creature attacks, create three tapped and attacking 1/1 red Warrior creature tokens. Sacrifice them at the beginning of the next end step.)",W,W,uncommon,TDM,Tarkir: Dragonstorm,7,0,4,,Vigilance;Mobilize
+Damage Control Crew,{3}{G},4.0,Creature — Human Citizen,"When this creature enters, choose one —
+• Repair — Return target card with mana value 4 or greater from your graveyard to your hand.
+• Impound — Exile target artifact or enchantment.",G,G,uncommon,OM1,Through the Omenpaths,115,3,3,,
+Damage Control Crew,{3}{G},4.0,Creature — Human Citizen,"When this creature enters, choose one —
+• Repair — Return target card with mana value 4 or greater from your graveyard to your hand.
+• Impound — Exile target artifact or enchantment.",G,G,uncommon,SPM,Marvel's Spider-Man,99,3,3,,
+"Daretti, Rocketeer Engineer",{4}{R},5.0,Legendary Creature — Goblin Artificer,"Daretti's power is equal to the greatest mana value among artifacts you control.
+Whenever Daretti enters or attacks, choose target artifact card in your graveyard. You may sacrifice an artifact. If you do, return the chosen card to the battlefield.",R,R,rare,DFT,Aetherdrift,458,*,5,,
+"Daretti, Rocketeer Engineer",{4}{R},5.0,Legendary Creature — Goblin Artificer,"Daretti's power is equal to the greatest mana value among artifacts you control.
+Whenever Daretti enters or attacks, choose target artifact card in your graveyard. You may sacrifice an artifact. If you do, return the chosen card to the battlefield.",R,R,rare,PDFT,Aetherdrift Promos,120s,*,5,,
+"Daretti, Rocketeer Engineer",{4}{R},5.0,Legendary Creature — Goblin Artificer,"Daretti's power is equal to the greatest mana value among artifacts you control.
+Whenever Daretti enters or attacks, choose target artifact card in your graveyard. You may sacrifice an artifact. If you do, return the chosen card to the battlefield.",R,R,rare,DFT,Aetherdrift,358,*,5,,
+"Daretti, Rocketeer Engineer",{4}{R},5.0,Legendary Creature — Goblin Artificer,"Daretti's power is equal to the greatest mana value among artifacts you control.
+Whenever Daretti enters or attacks, choose target artifact card in your graveyard. You may sacrifice an artifact. If you do, return the chosen card to the battlefield.",R,R,rare,PDFT,Aetherdrift Promos,120p,*,5,,
+"Daretti, Rocketeer Engineer",{4}{R},5.0,Legendary Creature — Goblin Artificer,"Daretti's power is equal to the greatest mana value among artifacts you control.
+Whenever Daretti enters or attacks, choose target artifact card in your graveyard. You may sacrifice an artifact. If you do, return the chosen card to the battlefield.",R,R,rare,DFT,Aetherdrift,120,*,5,,
+Daring Mechanic,{2}{W},3.0,Creature — Human Artificer,{3}{W}: Put a +1/+1 counter on target Mount or Vehicle.,W,W,common,DFT,Aetherdrift,11,3,3,,
+Daring Thunder-Thief,{3}{U},4.0,Creature — Turtle Rogue,"Flash
+This creature enters tapped.",U,U,common,OTJ,Outlaws of Thunder Junction,41,4,4,,Flash
+Daring Waverider,{4}{U}{U},6.0,Creature — Otter Wizard,"When this creature enters, you may cast target instant or sorcery card with mana value 4 or less from your graveyard without paying its mana cost. If that spell would be put into your graveyard, exile it instead.",U,U,uncommon,BLB,Bloomburrow,44,4,4,,
+Dark Confidant,{1}{B},2.0,Creature — Human Wizard,"At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.",B,B,mythic,MM2,Modern Masters 2015,75,2,1,,
+Dark Confidant,{1}{B},2.0,Creature — Human Wizard,"At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.",B,B,rare,G11,Judge Gift Cards 2011,6,2,1,,
+Dark Confidant,{1}{B},2.0,Creature — Human Wizard,"At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.",B,B,mythic,FIN,Final Fantasy,94,2,1,,
+Dark Confidant,{1}{B},2.0,Creature — Human Wizard,"At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.",B,B,mythic,FIN,Final Fantasy,334,2,1,,
+Dark Confidant,{1}{B},2.0,Creature — Human Wizard,"At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.",B,B,mythic,MMA,Modern Masters,75,2,1,,
+Dark Confidant,{1}{B},2.0,Creature — Human Wizard,"At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.",B,B,mythic,RVR,Ravnica Remastered,71,2,1,,
+Dark Confidant,{1}{B},2.0,Creature — Human Wizard,"At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.",B,B,mythic,RVR,Ravnica Remastered,323,2,1,,
+Dark Confidant,{1}{B},2.0,Creature — Human Wizard,"At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.",B,B,mythic,2XM,Double Masters,342,2,1,,
+Dark Confidant,{1}{B},2.0,Creature — Human Wizard,"At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.",B,B,mythic,PFIN,Final Fantasy Promos,94s,2,1,,
+Dark Confidant,{1}{B},2.0,Creature — Human Wizard,"At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.",B,B,mythic,RVR,Ravnica Remastered,323z,2,1,,
+Dark Confidant,{1}{B},2.0,Creature — Human Wizard,"At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.",B,B,rare,RAV,Ravnica: City of Guilds,81,2,1,,
+Dark Confidant,{1}{B},2.0,Creature — Human Wizard,"At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.",B,B,mythic,2XM,Double Masters,81,2,1,,
+Dark Confidant,{1}{B},2.0,Creature — Human Wizard,"At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.",B,B,mythic,J25,Foundations Jumpstart,114,2,1,,
+Dark Confidant,{1}{B},2.0,Creature — Human Wizard,"At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.",B,B,rare,SCH,Store Championships,3,2,1,,
+Dark Confidant,{1}{B},2.0,Creature — Human Wizard,"At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.",B,B,mythic,PRM,Magic Online Promos,82862,2,1,,
+Dark Leo & Shredder,{W}{B},2.0,Legendary Creature — Mutant Ninja Turtle Human,"Sneak {W}{B}
+Attacking Ninjas you control have deathtouch.
+Whenever Dark Leo & Shredder deal combat damage to a player, create a 1/1 black Ninja creature token. Then if you control five or more Ninjas, that player loses half their life, rounded up.","B,W","B,W",mythic,TMT,Teenage Mutant Ninja Turtles,289,1,3,,Sneak
+Dark Leo & Shredder,{W}{B},2.0,Legendary Creature — Mutant Ninja Turtle Human,"Sneak {W}{B}
+Attacking Ninjas you control have deathtouch.
+Whenever Dark Leo & Shredder deal combat damage to a player, create a 1/1 black Ninja creature token. Then if you control five or more Ninjas, that player loses half their life, rounded up.","B,W","B,W",mythic,TMT,Teenage Mutant Ninja Turtles,299,1,3,,Sneak
+Dark Leo & Shredder,{W}{B},2.0,Legendary Creature — Mutant Ninja Turtle Human,"Sneak {W}{B}
+Attacking Ninjas you control have deathtouch.
+Whenever Dark Leo & Shredder deal combat damage to a player, create a 1/1 black Ninja creature token. Then if you control five or more Ninjas, that player loses half their life, rounded up.","B,W","B,W",mythic,TMT,Teenage Mutant Ninja Turtles,220,1,3,,Sneak
+Dark Leo & Shredder,{W}{B},2.0,Legendary Creature — Mutant Ninja Turtle Human,"Sneak {W}{B}
+Attacking Ninjas you control have deathtouch.
+Whenever Dark Leo & Shredder deal combat damage to a player, create a 1/1 black Ninja creature token. Then if you control five or more Ninjas, that player loses half their life, rounded up.","B,W","B,W",mythic,TMT,Teenage Mutant Ninja Turtles,142,1,3,,Sneak
+Darkstar Augur,{2}{B},3.0,Creature — Bat Warlock,"Offspring {B} (You may pay an additional {B} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+Flying
+At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.",B,B,rare,PBLB,Bloomburrow Promos,90s,2,3,,Flying;Offspring
+Darkstar Augur,{2}{B},3.0,Creature — Bat Warlock,"Offspring {B} (You may pay an additional {B} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+Flying
+At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.",B,B,rare,BLB,Bloomburrow,90,2,3,,Flying;Offspring
+Darkstar Augur,{2}{B},3.0,Creature — Bat Warlock,"Offspring {B} (You may pay an additional {B} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+Flying
+At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.",B,B,rare,PBLB,Bloomburrow Promos,90p,2,3,,Flying;Offspring
+Darkstar Augur,{2}{B},3.0,Creature — Bat Warlock,"Offspring {B} (You may pay an additional {B} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+Flying
+At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.",B,B,rare,BLB,Bloomburrow,311,2,3,,Flying;Offspring
+Darksteel Colossus,{11},11.0,Artifact Creature — Golem,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Indestructible (Damage and effects that say ""destroy"" don't destroy this creature.)
+If Darksteel Colossus would be put into a graveyard from anywhere, reveal Darksteel Colossus and shuffle it into its owner's library instead.",,,mythic,SLD,Secret Lair Drop,57,11,11,,Indestructible;Trample
+Darksteel Colossus,{11},11.0,Artifact Creature — Golem,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Indestructible (Damage and effects that say ""destroy"" don't destroy this creature.)
+If Darksteel Colossus would be put into a graveyard from anywhere, reveal Darksteel Colossus and shuffle it into its owner's library instead.",,,mythic,M10,Magic 2010,208,11,11,,Indestructible;Trample
+Darksteel Colossus,{11},11.0,Artifact Creature — Golem,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Indestructible (Damage and effects that say ""destroy"" don't destroy this creature.)
+If Darksteel Colossus would be put into a graveyard from anywhere, reveal Darksteel Colossus and shuffle it into its owner's library instead.",,,mythic,FDN,Foundations,671,11,11,,Indestructible;Trample
+Darksteel Colossus,{11},11.0,Artifact Creature — Golem,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Indestructible (Damage and effects that say ""destroy"" don't destroy this creature.)
+If Darksteel Colossus would be put into a graveyard from anywhere, reveal Darksteel Colossus and shuffle it into its owner's library instead.",,,mythic,PW24,Wizards Play Network 2024,19,11,11,,Indestructible;Trample
+Darksteel Colossus,{11},11.0,Artifact Creature — Golem,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Indestructible (Damage and effects that say ""destroy"" don't destroy this creature.)
+If Darksteel Colossus would be put into a graveyard from anywhere, reveal Darksteel Colossus and shuffle it into its owner's library instead.",,,rare,DST,Darksteel,109,11,11,,Indestructible;Trample
+Dashing Bloodsucker,{3}{B},4.0,Creature — Vampire Warrior,"Eerie — Whenever an enchantment you control enters and whenever you fully unlock a Room, this creature gets +2/+0 and gains lifelink until end of turn.",B,B,uncommon,DSK,Duskmourn: House of Horror,90,2,5,,Eerie
+Dauntless Dismantler,{1}{W},2.0,Creature — Human Artificer,"Artifacts your opponents control enter tapped.
+{X}{X}{W}, Sacrifice this creature: Destroy each artifact with mana value X.",W,W,uncommon,LCI,The Lost Caverns of Ixalan,8,1,4,,
+Dauntless Scrapbot,{3},3.0,Artifact Creature — Robot,"When this creature enters, exile each opponent's graveyard. Create a Lander token. (It's an artifact with ""{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."")",,,uncommon,EOE,Edge of Eternities,237,3,1,,
+Dauntless Veteran,{1}{W}{W},3.0,Creature — Human Soldier,"Whenever this creature attacks, creatures you control get +1/+1 until end of turn.",W,W,uncommon,FDN,Foundations,8,2,2,,
+Dawn's Light Archer,{2}{G},3.0,Creature — Elf Archer,"Flash
+Reach",G,G,common,ECL,Lorwyn Eclipsed,174,4,2,,Reach;Flash
+Dawnhand Dissident,{B},1.0,Creature — Elf Warlock,"{T}, Blight 1: Surveil 1.
+{T}, Blight 2: Exile target card from a graveyard.
+During your turn, you may cast creature spells from among cards you own exiled with this creature by removing three counters from among creatures you control in addition to paying their other costs.",B,B,rare,PECL,Lorwyn Eclipsed Promos,98p,1,2,,Blight;Surveil
+Dawnhand Dissident,{B},1.0,Creature — Elf Warlock,"{T}, Blight 1: Surveil 1.
+{T}, Blight 2: Exile target card from a graveyard.
+During your turn, you may cast creature spells from among cards you own exiled with this creature by removing three counters from among creatures you control in addition to paying their other costs.",B,B,rare,ECL,Lorwyn Eclipsed,98,1,2,,Blight;Surveil
+Dawnhand Dissident,{B},1.0,Creature — Elf Warlock,"{T}, Blight 1: Surveil 1.
+{T}, Blight 2: Exile target card from a graveyard.
+During your turn, you may cast creature spells from among cards you own exiled with this creature by removing three counters from among creatures you control in addition to paying their other costs.",B,B,rare,ECL,Lorwyn Eclipsed,311,1,2,,Blight;Surveil
+Dawnhand Eulogist,{3}{B},4.0,Creature — Elf Warlock,"Menace (This creature can't be blocked except by two or more creatures.)
+When this creature enters, mill three cards. Then if there is an Elf card in your graveyard, each opponent loses 2 life and you gain 2 life. (To mill three cards, put the top three cards of your library into your graveyard.)",B,B,common,ECL,Lorwyn Eclipsed,99,3,3,,Menace;Mill
+Dawnstrike Vanguard,{5}{W},6.0,Creature — Human Knight,"Lifelink
+At the beginning of your end step, if you control two or more tapped creatures, put a +1/+1 counter on each creature you control other than this creature.",W,W,uncommon,EOE,Edge of Eternities,10,4,5,,Lifelink
+Dawnwing Marshal,{1}{W},2.0,Creature — Cat Soldier,"Flying
+{4}{W}: Creatures you control get +1/+1 until end of turn.",W,W,uncommon,J25,Foundations Jumpstart,1,2,2,,Flying
+Dawnwing Marshal,{1}{W},2.0,Creature — Cat Soldier,"Flying
+{4}{W}: Creatures you control get +1/+1 until end of turn.",W,W,uncommon,FDN,Foundations,570,2,2,,Flying
+Dazzling Angel,{2}{W},3.0,Creature — Angel,"Flying
+Whenever another creature you control enters, you gain 1 life.",W,W,common,FDN,Foundations,9,2,3,,Flying
+Deadeye Duelist,{1}{R},2.0,Creature — Human Assassin,"Reach
+{1}, {T}: This creature deals 1 damage to target opponent.",R,R,common,OTJ,Outlaws of Thunder Junction,119,1,3,,Reach
+Death Baron,{1}{B}{B},3.0,Creature — Zombie Wizard,Skeletons you control and other Zombies you control get +1/+1 and have deathtouch. (Any amount of damage they deal to a creature is enough to destroy it.),B,B,rare,MIC,Midnight Hunt Commander,111,2,2,,
+Death Baron,{1}{B}{B},3.0,Creature — Zombie Wizard,Skeletons you control and other Zombies you control get +1/+1 and have deathtouch. (Any amount of damage they deal to a creature is enough to destroy it.),B,B,rare,PM19,Core Set 2019 Promos,90p,2,2,,
+Death Baron,{1}{B}{B},3.0,Creature — Zombie Wizard,Skeletons you control and other Zombies you control get +1/+1 and have deathtouch. (Any amount of damage they deal to a creature is enough to destroy it.),B,B,rare,FDN,Foundations,521,2,2,,
+Death Baron,{1}{B}{B},3.0,Creature — Zombie Wizard,Skeletons you control and other Zombies you control get +1/+1 and have deathtouch. (Any amount of damage they deal to a creature is enough to destroy it.),B,B,rare,ALA,Shards of Alara,70,2,2,,
+Death Baron,{1}{B}{B},3.0,Creature — Zombie Wizard,Skeletons you control and other Zombies you control get +1/+1 and have deathtouch. (Any amount of damage they deal to a creature is enough to destroy it.),B,B,rare,PM19,Core Set 2019 Promos,90,2,2,,
+Death Baron,{1}{B}{B},3.0,Creature — Zombie Wizard,Skeletons you control and other Zombies you control get +1/+1 and have deathtouch. (Any amount of damage they deal to a creature is enough to destroy it.),B,B,rare,PRM,Magic Online Promos,69254,2,2,,
+Death Baron,{1}{B}{B},3.0,Creature — Zombie Wizard,Skeletons you control and other Zombies you control get +1/+1 and have deathtouch. (Any amount of damage they deal to a creature is enough to destroy it.),B,B,rare,PM19,Core Set 2019 Promos,90s,2,2,,
+Death Baron,{1}{B}{B},3.0,Creature — Zombie Wizard,Skeletons you control and other Zombies you control get +1/+1 and have deathtouch. (Any amount of damage they deal to a creature is enough to destroy it.),B,B,rare,M19,Core Set 2019,90,2,2,,
+Death Baron,{1}{B}{B},3.0,Creature — Zombie Wizard,Skeletons you control and other Zombies you control get +1/+1 and have deathtouch. (Any amount of damage they deal to a creature is enough to destroy it.),B,B,rare,HOP,Planechase,25,2,2,,
+Deathcap Marionette,{1}{B},2.0,Creature — Fungus,"Deathtouch
+When this creature enters, you may mill two cards. (You may put the top two cards of your library into your graveyard.)",B,B,common,LCI,The Lost Caverns of Ixalan,100,1,1,,Mill;Deathtouch
+Deathless Pilot,{1}{B},2.0,Creature — Zombie Pilot,"This creature saddles Mounts and crews Vehicles as though its power were 2 greater.
+{3}{B}: Return this card from your graveyard to your hand.",B,B,common,DFT,Aetherdrift,82,2,2,,
+Decadent Dragon // Expensive Taste,{2}{R}{R} // {2}{B},4.0,Creature — Dragon // Instant — Adventure,,R,"B,R",rare,WOE,Wilds of Eldraine,223,4,4,,Flying;Treasure;Trample
+Decadent Dragon // Expensive Taste,{2}{R}{R} // {2}{B},4.0,Creature — Dragon // Instant — Adventure,,R,"B,R",rare,PWOE,Wilds of Eldraine Promos,223s,4,4,,Flying;Treasure;Trample
+Decadent Dragon // Expensive Taste,{2}{R}{R} // {2}{B},4.0,Creature — Dragon // Instant — Adventure,,R,"B,R",rare,WOE,Wilds of Eldraine,287,4,4,,Flying;Treasure;Trample
+Decadent Dragon // Expensive Taste,{2}{R}{R} // {2}{B},4.0,Creature — Dragon // Instant — Adventure,,R,"B,R",rare,PWOE,Wilds of Eldraine Promos,223p,4,4,,Flying;Treasure;Trample
+Deceit,{4}{U/B}{U/B},6.0,Creature — Elemental Incarnation,"When this creature enters, if {U}{U} was spent to cast it, return up to one other target nonland permanent to its owner's hand.
+When this creature enters, if {B}{B} was spent to cast it, target opponent reveals their hand. You choose a nonland card from it. That player discards that card.
+Evoke {U/B}{U/B}","B,U","B,U",mythic,ECL,Lorwyn Eclipsed,293,5,5,,Evoke
+Deceit,{4}{U/B}{U/B},6.0,Creature — Elemental Incarnation,"When this creature enters, if {U}{U} was spent to cast it, return up to one other target nonland permanent to its owner's hand.
+When this creature enters, if {B}{B} was spent to cast it, target opponent reveals their hand. You choose a nonland card from it. That player discards that card.
+Evoke {U/B}{U/B}","B,U","B,U",mythic,PECL,Lorwyn Eclipsed Promos,212p,5,5,,Evoke
+Deceit,{4}{U/B}{U/B},6.0,Creature — Elemental Incarnation,"When this creature enters, if {U}{U} was spent to cast it, return up to one other target nonland permanent to its owner's hand.
+When this creature enters, if {B}{B} was spent to cast it, target opponent reveals their hand. You choose a nonland card from it. That player discards that card.
+Evoke {U/B}{U/B}","B,U","B,U",mythic,ECL,Lorwyn Eclipsed,212,5,5,,Evoke
+Deep Goblin Skulltaker,{2}{B},3.0,Creature — Goblin Warrior,"Menace
+At the beginning of your end step, if you descended this turn, put a +1/+1 counter on this creature. (You descended if a permanent card was put into your graveyard from anywhere.)",B,B,common,LCI,The Lost Caverns of Ixalan,101,2,2,,Menace
+Deep-Cavern Bat,{1}{B},2.0,Creature — Bat,"Flying, lifelink
+When this creature enters, look at target opponent's hand. You may exile a nonland card from it until this creature leaves the battlefield.",B,B,rare,SCH,Store Championships,33,1,1,,Flying;Lifelink
+Deep-Cavern Bat,{1}{B},2.0,Creature — Bat,"Flying, lifelink
+When this creature enters, look at target opponent's hand. You may exile a nonland card from it until this creature leaves the battlefield.",B,B,uncommon,LCI,The Lost Caverns of Ixalan,406,1,1,,Flying;Lifelink
+Deep-Cavern Bat,{1}{B},2.0,Creature — Bat,"Flying, lifelink
+When this creature enters, look at target opponent's hand. You may exile a nonland card from it until this creature leaves the battlefield.",B,B,uncommon,LCI,The Lost Caverns of Ixalan,102,1,1,,Flying;Lifelink
+Deepchannel Duelist,{W}{U},2.0,Creature — Merfolk Soldier,"At the beginning of your end step, untap target Merfolk you control.
+Other Merfolk you control get +1/+1.","U,W","U,W",uncommon,ECL,Lorwyn Eclipsed,333,2,2,,
+Deepchannel Duelist,{W}{U},2.0,Creature — Merfolk Soldier,"At the beginning of your end step, untap target Merfolk you control.
+Other Merfolk you control get +1/+1.","U,W","U,W",uncommon,ECL,Lorwyn Eclipsed,213,2,2,,
+Deepfathom Echo,{2}{G}{U},4.0,Creature — Merfolk Spirit,"At the beginning of combat on your turn, this creature explores. Then you may have it become a copy of another creature you control until end of turn. (To have this creature explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)","G,U","G,U",rare,PLCI,The Lost Caverns of Ixalan Promos,228s,4,4,,Explore
+Deepfathom Echo,{2}{G}{U},4.0,Creature — Merfolk Spirit,"At the beginning of combat on your turn, this creature explores. Then you may have it become a copy of another creature you control until end of turn. (To have this creature explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)","G,U","G,U",rare,LCI,The Lost Caverns of Ixalan,385,4,4,,Explore
+Deepfathom Echo,{2}{G}{U},4.0,Creature — Merfolk Spirit,"At the beginning of combat on your turn, this creature explores. Then you may have it become a copy of another creature you control until end of turn. (To have this creature explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)","G,U","G,U",rare,PLCI,The Lost Caverns of Ixalan Promos,228p,4,4,,Explore
+Deepfathom Echo,{2}{G}{U},4.0,Creature — Merfolk Spirit,"At the beginning of combat on your turn, this creature explores. Then you may have it become a copy of another creature you control until end of turn. (To have this creature explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)","G,U","G,U",rare,LCI,The Lost Caverns of Ixalan,228,4,4,,Explore
+Deepmuck Desperado,{2}{U},3.0,Creature — Homarid Mercenary,"Whenever you commit a crime, each opponent mills three cards. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)",U,U,uncommon,OTJ,Outlaws of Thunder Junction,42,2,4,,Mill
+Deepway Navigator,{W}{U},2.0,Creature — Merfolk Wizard,"Flash
+When this creature enters, untap each other Merfolk you control.
+As long as you attacked with three or more Merfolk this turn, Merfolk you control get +1/+0.","U,W","U,W",rare,PECL,Lorwyn Eclipsed Promos,214p,2,2,,Flash
+Deepway Navigator,{W}{U},2.0,Creature — Merfolk Wizard,"Flash
+When this creature enters, untap each other Merfolk you control.
+As long as you attacked with three or more Merfolk this turn, Merfolk you control get +1/+0.","U,W","U,W",rare,ECL,Lorwyn Eclipsed,370,2,2,,Flash
+Deepway Navigator,{W}{U},2.0,Creature — Merfolk Wizard,"Flash
+When this creature enters, untap each other Merfolk you control.
+As long as you attacked with three or more Merfolk this turn, Merfolk you control get +1/+0.","U,W","U,W",rare,ECL,Lorwyn Eclipsed,214,2,2,,Flash
+Defenestrated Phantom,{4}{W}{W},6.0,Creature — Spirit,"Flying
+Disguise {4}{W} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)",W,W,common,MKM,Murders at Karlov Manor,11,4,3,,Flying;Disguise
+Defiant Survivor,{2}{G},3.0,Creature — Human Survivor,"Survival — At the beginning of your second main phase, if this creature is tapped, manifest dread. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)",G,G,uncommon,DSK,Duskmourn: House of Horror,175,3,2,,Manifest;Survival;Manifest dread
+Delivery Moogle,{3}{W},4.0,Creature — Moogle,"Flying
+When this creature enters, search your library and/or graveyard for an artifact card with mana value 2 or less, reveal it, and put it into your hand. If you search your library this way, shuffle.",W,W,uncommon,FIN,Final Fantasy,15,3,2,,Flying
+"Delney, Streetwise Lookout",{2}{W},3.0,Legendary Creature — Human Scout,"Creatures you control with power 2 or less can't be blocked by creatures with power 3 or greater.
+If an ability of a creature you control with power 2 or less triggers, that ability triggers an additional time.",W,W,mythic,MKM,Murders at Karlov Manor,378,2,2,,
+"Delney, Streetwise Lookout",{2}{W},3.0,Legendary Creature — Human Scout,"Creatures you control with power 2 or less can't be blocked by creatures with power 3 or greater.
+If an ability of a creature you control with power 2 or less triggers, that ability triggers an additional time.",W,W,mythic,PWCS,Planeswalker Championship Promos,2025-3,2,2,,
+"Delney, Streetwise Lookout",{2}{W},3.0,Legendary Creature — Human Scout,"Creatures you control with power 2 or less can't be blocked by creatures with power 3 or greater.
+If an ability of a creature you control with power 2 or less triggers, that ability triggers an additional time.",W,W,mythic,MKM,Murders at Karlov Manor,337,2,2,,
+"Delney, Streetwise Lookout",{2}{W},3.0,Legendary Creature — Human Scout,"Creatures you control with power 2 or less can't be blocked by creatures with power 3 or greater.
+If an ability of a creature you control with power 2 or less triggers, that ability triggers an additional time.",W,W,mythic,MKM,Murders at Karlov Manor,12,2,2,,
+"Delney, Streetwise Lookout",{2}{W},3.0,Legendary Creature — Human Scout,"Creatures you control with power 2 or less can't be blocked by creatures with power 3 or greater.
+If an ability of a creature you control with power 2 or less triggers, that ability triggers an additional time.",W,W,mythic,PMKM,Murders at Karlov Manor Promos,12p,2,2,,
+"Delney, Streetwise Lookout",{2}{W},3.0,Legendary Creature — Human Scout,"Creatures you control with power 2 or less can't be blocked by creatures with power 3 or greater.
+If an ability of a creature you control with power 2 or less triggers, that ability triggers an additional time.",W,W,mythic,PMKM,Murders at Karlov Manor Promos,12s,2,2,,
+Delta Bloodflies,{1}{B},2.0,Creature — Insect,"Flying
+Whenever this creature attacks, if you control a creature with a counter on it, each opponent loses 1 life.",B,B,common,TDM,Tarkir: Dragonstorm,77,1,2,,Flying
+Demon Wall,{1}{B},2.0,Artifact Creature — Demon Wall,"Defender
+Menace (This creature can't be blocked except by two or more creatures.)
+As long as this creature has a counter on it, it can attack as though it didn't have defender.
+{5}{B}: Put two +1/+1 counters on this creature.",B,B,uncommon,FIN,Final Fantasy,97,3,3,,Menace;Defender
+Descendant of Storms,{W},1.0,Creature — Human Soldier,"Whenever this creature attacks, you may pay {1}{W}. If you do, it endures 1. (Put a +1/+1 counter on it or create a 1/1 white Spirit creature token.)",W,W,uncommon,TDM,Tarkir: Dragonstorm,8,2,1,,Endure
+Desecration Demon,{2}{B}{B},4.0,Creature — Demon,"Flying
+At the beginning of each combat, any opponent may sacrifice a creature of their choice. If a player does, tap this creature and put a +1/+1 counter on it.",B,B,rare,FDN,Foundations,603,6,6,,Flying
+Desecration Demon,{2}{B}{B},4.0,Creature — Demon,"Flying
+At the beginning of each combat, any opponent may sacrifice a creature of their choice. If a player does, tap this creature and put a +1/+1 counter on it.",B,B,rare,RTR,Return to Ravnica,63,6,6,,Flying
+Desecration Demon,{2}{B}{B},4.0,Creature — Demon,"Flying
+At the beginning of each combat, any opponent may sacrifice a creature of their choice. If a player does, tap this creature and put a +1/+1 counter on it.",B,B,rare,MM3,Modern Masters 2017,66,6,6,,Flying
+Desecration Demon,{2}{B}{B},4.0,Creature — Demon,"Flying
+At the beginning of each combat, any opponent may sacrifice a creature of their choice. If a player does, tap this creature and put a +1/+1 counter on it.",B,B,rare,DDR,Duel Decks: Nissa vs. Ob Nixilis,44,6,6,,Flying
+Deserter's Disciple,{1}{R},2.0,Creature — Human Rebel Ally,{T}: Another target creature you control with power 2 or less can't be blocked this turn.,R,R,common,TLA,Avatar: The Last Airbender,131,2,2,,
+Desperate Bloodseeker,{1}{B},2.0,Creature — Vampire,"Lifelink
+When this creature enters, target player mills two cards. (They put the top two cards of their library into their graveyard.)",B,B,common,OTJ,Outlaws of Thunder Junction,86,2,2,,Lifelink;Mill
+Devoted Duelist,{1}{R},2.0,Creature — Goblin Monk,"Haste
+Flurry — Whenever you cast your second spell each turn, this creature deals 1 damage to each opponent.",R,R,common,TDM,Tarkir: Dragonstorm,104,2,1,,Flurry;Haste
+Devouring Sugarmaw // Have for Dinner,{2}{B}{B} // {1}{W},4.0,Creature — Horror // Instant — Adventure,,B,"B,W",rare,WOE,Wilds of Eldraine,224,6,6,,Food;Trample;Menace
+Devouring Sugarmaw // Have for Dinner,{2}{B}{B} // {1}{W},4.0,Creature — Horror // Instant — Adventure,,B,"B,W",rare,PWOE,Wilds of Eldraine Promos,224s,6,6,,Food;Trample;Menace
+Devouring Sugarmaw // Have for Dinner,{2}{B}{B} // {1}{W},4.0,Creature — Horror // Instant — Adventure,,B,"B,W",rare,PWOE,Wilds of Eldraine Promos,224p,6,6,,Food;Trample;Menace
+Devouring Sugarmaw // Have for Dinner,{2}{B}{B} // {1}{W},4.0,Creature — Horror // Instant — Adventure,,B,"B,W",rare,WOE,Wilds of Eldraine,288,6,6,,Food;Trample;Menace
+Diamond Mare,{2},2.0,Artifact Creature — Horse,"As this creature enters, choose a color.
+Whenever you cast a spell of the chosen color, you gain 1 life.",,,uncommon,FDN,Foundations,672,1,3,,
+Diamond Mare,{2},2.0,Artifact Creature — Horse,"As this creature enters, choose a color.
+Whenever you cast a spell of the chosen color, you gain 1 life.",,,uncommon,M19,Core Set 2019,231,1,3,,
+Diamond Mare,{2},2.0,Artifact Creature — Horse,"As this creature enters, choose a color.
+Whenever you cast a spell of the chosen color, you gain 1 life.",,,uncommon,PLST,The List,M19-231,1,3,,
+Diamond Weapon,{7}{G}{G},9.0,Legendary Artifact Creature — Elemental,"This spell costs {1} less to cast for each permanent card in your graveyard.
+Reach
+Immune — Prevent all combat damage that would be dealt to Diamond Weapon.",G,G,uncommon,FIN,Final Fantasy,183,8,8,,Reach;Immune
+Diamond Weapon,{7}{G}{G},9.0,Legendary Artifact Creature — Elemental,"This spell costs {1} less to cast for each permanent card in your graveyard.
+Reach
+Immune — Prevent all combat damage that would be dealt to Diamond Weapon.",G,G,uncommon,FIN,Final Fantasy,470,8,8,,Reach;Immune
+Didact Echo,{4}{U},5.0,Creature — Spirit Cleric,"When this creature enters, draw a card.
+Descend 4 — This creature has flying as long as there are four or more permanent cards in your graveyard.",U,U,common,LCI,The Lost Caverns of Ixalan,53,3,2,,Descend
+Digsite Conservator,{2},2.0,Artifact Creature — Gnome,"Sacrifice this creature: Exile up to four target cards from a single graveyard. Activate only as a sorcery.
+When this creature dies, you may pay {4}. If you do, discover 4. (Exile cards from the top of your library until you exile a nonland card with mana value 4 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)",,,uncommon,LCI,The Lost Caverns of Ixalan,252,2,1,,Discover
+Diligent Zookeeper,{3}{G},4.0,Creature — Human Citizen Ally,"Each non-Human creature you control gets +1/+1 for each of its creature types, to a maximum of 10.",G,G,rare,TLA,Avatar: The Last Airbender,171,4,4,,
+Diligent Zookeeper,{3}{G},4.0,Creature — Human Citizen Ally,"Each non-Human creature you control gets +1/+1 for each of its creature types, to a maximum of 10.",G,G,rare,TLA,Avatar: The Last Airbender,327,4,4,,
+Diligent Zookeeper,{3}{G},4.0,Creature — Human Citizen Ally,"Each non-Human creature you control gets +1/+1 for each of its creature types, to a maximum of 10.",G,G,rare,PTLA,Avatar: The Last Airbender Promos,171s,4,4,,
+Diminisher Witch,{2}{U},3.0,Creature — Human Warlock,"Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
+When this creature enters, if it was bargained, create a Cursed Role token attached to target creature an opponent controls. (If you control another Role on it, put that one into the graveyard. Enchanted creature is 1/1.)",U,U,common,WOE,Wilds of Eldraine,46,3,2,,Role token;Bargain
+Dinotomaton,{3}{R},4.0,Artifact Creature — Dinosaur Gnome,"Menace (This creature can't be blocked except by two or more creatures.)
+When this creature enters, target creature you control gains menace until end of turn.",R,R,common,LCI,The Lost Caverns of Ixalan,144,4,3,,Menace
+"Dion, Bahamut's Dominant // Bahamut, Warden of Light",,4.0,Legendary Creature — Human Noble Knight // Legendary Enchantment Creature — Saga Dragon,,,W,rare,FIN,Final Fantasy,16,,,,Dragonfire Dive;Flying;Transform
+"Dion, Bahamut's Dominant // Bahamut, Warden of Light",,4.0,Legendary Creature — Human Noble Knight // Legendary Enchantment Creature — Saga Dragon,,,W,rare,FIN,Final Fantasy,521,,,,Dragonfire Dive;Flying;Transform
+"Dion, Bahamut's Dominant // Bahamut, Warden of Light",,4.0,Legendary Creature — Human Noble Knight // Legendary Enchantment Creature — Saga Dragon,,,W,rare,PFIN,Final Fantasy Promos,16s,,,,Dragonfire Dive;Flying;Transform
+"Dion, Bahamut's Dominant // Bahamut, Warden of Light",,4.0,Legendary Creature — Human Noble Knight // Legendary Enchantment Creature — Saga Dragon,,,W,rare,FIN,Final Fantasy,428,,,,Dragonfire Dive;Flying;Transform
+"Dion, Bahamut's Dominant // Bahamut, Warden of Light",,4.0,Legendary Creature — Human Noble Knight // Legendary Enchantment Creature — Saga Dragon,,,W,rare,FIN,Final Fantasy,376,,,,Dragonfire Dive;Flying;Transform
+Diregraf Ghoul,{B},1.0,Creature — Zombie,This creature enters tapped.,B,B,uncommon,PLST,The List,ISD-97,2,2,,
+Diregraf Ghoul,{B},1.0,Creature — Zombie,This creature enters tapped.,B,B,uncommon,FDN,Foundations,171,2,2,,
+Diregraf Ghoul,{B},1.0,Creature — Zombie,This creature enters tapped.,B,B,uncommon,ISD,Innistrad,97,2,2,,
+Diregraf Ghoul,{B},1.0,Creature — Zombie,This creature enters tapped.,B,B,uncommon,PRM,Magic Online Promos,42882,2,2,,
+Diregraf Ghoul,{B},1.0,Creature — Zombie,This creature enters tapped.,B,B,uncommon,M19,Core Set 2019,92,2,2,,
+Diregraf Ghoul,{B},1.0,Creature — Zombie,This creature enters tapped.,B,B,uncommon,DDQ,Duel Decks: Blessed vs. Cursed,54,2,2,,
+Diregraf Ghoul,{B},1.0,Creature — Zombie,This creature enters tapped.,B,B,uncommon,PISD,Innistrad Promos,97,2,2,,
+Dirgur Island Dragon // Skimming Strike,{5}{U} // {1}{U},6.0,Creature — Dragon // Instant — Omen,,U,U,common,TDM,Tarkir: Dragonstorm,40,4,4,,Flying;Ward
+Dirgur Island Dragon // Skimming Strike,{5}{U} // {1}{U},6.0,Creature — Dragon // Instant — Omen,,U,U,common,TDM,Tarkir: Dragonstorm,294,4,4,,Flying;Ward
+Discerning Financier,{2}{W},3.0,Creature — Human Noble,"At the beginning of your upkeep, if an opponent controls more lands than you, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")
+{2}{W}: Choose another player. That player gains control of target Treasure you control. You draw a card.",W,W,uncommon,WOE,Wilds of Eldraine,10,2,3,,Treasure
+Discerning Peddler,{1}{R},2.0,Creature — Human Rogue,"When this creature enters, you may discard a card. If you do, draw a card.",R,R,common,OTJ,Outlaws of Thunder Junction,121,2,2,,
+Disruptive Stormbrood // Petty Revenge,{4}{G} // {1}{B},5.0,Creature — Dragon // Sorcery — Omen,,G,"B,G",uncommon,TDM,Tarkir: Dragonstorm,310,3,3,,Flying
+Disruptive Stormbrood // Petty Revenge,{4}{G} // {1}{B},5.0,Creature — Dragon // Sorcery — Omen,,G,"B,G",uncommon,TDM,Tarkir: Dragonstorm,178,3,3,,Flying
+Disruptor of Currents,{3}{U}{U},5.0,Creature — Merfolk Wizard,"Flash
+Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+When this creature enters, return up to one other target nonland permanent to its owner's hand.",U,U,rare,ECL,Lorwyn Eclipsed,303,3,3,,Flash;Convoke
+Disruptor of Currents,{3}{U}{U},5.0,Creature — Merfolk Wizard,"Flash
+Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+When this creature enters, return up to one other target nonland permanent to its owner's hand.",U,U,rare,ECL,Lorwyn Eclipsed,47,3,3,,Flash;Convoke
+Disruptor of Currents,{3}{U}{U},5.0,Creature — Merfolk Wizard,"Flash
+Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+When this creature enters, return up to one other target nonland permanent to its owner's hand.",U,U,rare,PECL,Lorwyn Eclipsed Promos,47p,3,3,,Flash;Convoke
+Disruptor Wanderglyph,{4},4.0,Artifact Creature — Golem,"Whenever this creature attacks, exile target card from an opponent's graveyard.",,,common,LCI,The Lost Caverns of Ixalan,253,3,4,,
+District Mascot,{G},1.0,Creature — Dog Mount,"This creature enters with a +1/+1 counter on it.
+{1}{G}, Remove two +1/+1 counters from this creature: Destroy target artifact.
+Whenever this creature attacks while saddled, put a +1/+1 counter on it.
+Saddle 1",G,G,rare,DFT,Aetherdrift,344,0,0,,Saddle
+District Mascot,{G},1.0,Creature — Dog Mount,"This creature enters with a +1/+1 counter on it.
+{1}{G}, Remove two +1/+1 counters from this creature: Destroy target artifact.
+Whenever this creature attacks while saddled, put a +1/+1 counter on it.
+Saddle 1",G,G,rare,DFT,Aetherdrift,158,0,0,,Saddle
+District Mascot,{G},1.0,Creature — Dog Mount,"This creature enters with a +1/+1 counter on it.
+{1}{G}, Remove two +1/+1 counters from this creature: Destroy target artifact.
+Whenever this creature attacks while saddled, put a +1/+1 counter on it.
+Saddle 1",G,G,rare,DFT,Aetherdrift,543,0,0,,Saddle
+District Mascot,{G},1.0,Creature — Dog Mount,"This creature enters with a +1/+1 counter on it.
+{1}{G}, Remove two +1/+1 counters from this creature: Destroy target artifact.
+Whenever this creature attacks while saddled, put a +1/+1 counter on it.
+Saddle 1",G,G,rare,DFT,Aetherdrift,466,0,0,,Saddle
+District Mascot,{G},1.0,Creature — Dog Mount,"This creature enters with a +1/+1 counter on it.
+{1}{G}, Remove two +1/+1 counters from this creature: Destroy target artifact.
+Whenever this creature attacks while saddled, put a +1/+1 counter on it.
+Saddle 1",G,G,rare,PDFT,Aetherdrift Promos,158s,0,0,,Saddle
+District Mascot,{G},1.0,Creature — Dog Mount,"This creature enters with a +1/+1 counter on it.
+{1}{G}, Remove two +1/+1 counters from this creature: Destroy target artifact.
+Whenever this creature attacks while saddled, put a +1/+1 counter on it.
+Saddle 1",G,G,rare,PDFT,Aetherdrift Promos,158p,0,0,,Saddle
+Diversion Specialist,{3}{R},4.0,Creature — Human Warrior,"Menace (This creature can't be blocked except by two or more creatures.)
+{1}, Sacrifice another creature or enchantment: Exile the top card of your library. You may play it this turn.",R,R,uncommon,DSK,Duskmourn: House of Horror,132,4,3,,Menace
+Diversion Unit,{1}{U},2.0,Artifact Creature — Robot,"Flying
+{U}, Sacrifice this creature: Counter target instant or sorcery spell unless its controller pays {3}.",U,U,uncommon,DFT,Aetherdrift,41,2,1,,Flying
+Djinn of Fool's Fall,{4}{U},5.0,Creature — Djinn,"Flying
+Plot {3}{U} (You may pay {3}{U} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",U,U,common,OTJ,Outlaws of Thunder Junction,43,4,3,,Flying;Plot
+"Doc Aurlock, Grizzled Genius",{G}{U},2.0,Legendary Creature — Bear Druid,"Spells you cast from your graveyard or from exile cost {2} less to cast.
+Plotting cards from your hand costs {2} less.","G,U","G,U",uncommon,OTJ,Outlaws of Thunder Junction,201,2,3,,
+Doc Ock's Henchmen,{2}{U},3.0,Creature — Human Villain,"Flash
+Whenever this creature attacks, it connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)",U,U,common,SPM,Marvel's Spider-Man,30,2,1,,Flash;Connive
+Doc Ock's Henchmen,{2}{U},3.0,Creature — Human Villain,"Flash
+Whenever this creature attacks, it connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)",U,U,common,OM1,Through the Omenpaths,35,2,1,,Flash;Connive
+"Doc Ock, Sinister Scientist",{4}{U},5.0,Legendary Creature — Human Scientist Villain,"As long as there are eight or more cards in your graveyard, Doc Ock has base power and toughness 8/8.
+As long as you control another Villain, Doc Ock has hexproof. (He can't be the target of spells or abilities your opponents control.)",U,U,common,OM1,Through the Omenpaths,38,4,5,,
+"Doc Ock, Sinister Scientist",{4}{U},5.0,Legendary Creature — Human Scientist Villain,"As long as there are eight or more cards in your graveyard, Doc Ock has base power and toughness 8/8.
+As long as you control another Villain, Doc Ock has hexproof. (He can't be the target of spells or abilities your opponents control.)",U,U,common,SPM,Marvel's Spider-Man,29,4,5,,
+Dockworker Drone,{1}{W},2.0,Artifact Creature — Robot,"This creature enters with a +1/+1 counter on it.
+When this creature dies, put its counters on target creature you control.",W,W,common,EOE,Edge of Eternities,11,1,1,,
+"Doctor Octopus, Master Planner",{5}{U}{B},7.0,Legendary Creature — Human Scientist Villain,"Other Villains you control get +2/+2.
+Your maximum hand size is eight.
+At the beginning of your end step, if you have fewer than eight cards in hand, draw cards equal to the difference.","B,U","B,U",mythic,SPM,Marvel's Spider-Man,128,4,8,,
+"Doctor Octopus, Master Planner",{5}{U}{B},7.0,Legendary Creature — Human Scientist Villain,"Other Villains you control get +2/+2.
+Your maximum hand size is eight.
+At the beginning of your end step, if you have fewer than eight cards in hand, draw cards equal to the difference.","B,U","B,U",mythic,OM1,Through the Omenpaths,148,4,8,,
+"Doctor Octopus, Master Planner",{5}{U}{B},7.0,Legendary Creature — Human Scientist Villain,"Other Villains you control get +2/+2.
+Your maximum hand size is eight.
+At the beginning of your end step, if you have fewer than eight cards in hand, draw cards equal to the difference.","B,U","B,U",mythic,SPM,Marvel's Spider-Man,228,4,8,,
+"Doctor Octopus, Master Planner",{5}{U}{B},7.0,Legendary Creature — Human Scientist Villain,"Other Villains you control get +2/+2.
+Your maximum hand size is eight.
+At the beginning of your end step, if you have fewer than eight cards in hand, draw cards equal to the difference.","B,U","B,U",mythic,PSPM,Marvel's Spider-Man Promos,128s,4,8,,
+Dog Walker,{R}{W},2.0,Creature — Human Citizen,"Vigilance
+Disguise {R/W}{R/W} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)
+When this creature is turned face up, create two tapped 1/1 white Dog creature tokens.","R,W","R,W",common,MKM,Murders at Karlov Manor,197,3,1,,Vigilance;Disguise
+"Don & Leo, Problem Solvers",{3}{W/U}{W/U},5.0,Legendary Creature — Mutant Ninja Turtle,"Vigilance
+At the beginning of your end step, exile up to one target artifact you control and up to one target creature you control. Then return them to the battlefield under their owners' control.","U,W","U,W",rare,TMT,Teenage Mutant Ninja Turtles,242,4,6,,Vigilance

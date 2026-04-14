@@ -1,0 +1,72 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Ice Magic,{1}{U},2.0,Instant,"Tiered (Choose one additional cost.)
+• Blizzard — {0} — Return target creature to its owner's hand.
+• Blizzara — {2} — Target creature's owner puts it on their choice of the top or bottom of their library.
+• Blizzaga — {5}{U} — Target creature's owner shuffles it into their library.",U,U,common,FIN,Final Fantasy,56,,,,Blizzard;Blizzara;Blizzaga;Tiered
+Ice Out,{1}{U}{U},3.0,Instant,"Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
+This spell costs {1} less to cast if it's bargained.
+Counter target spell.",U,U,rare,PW23,Wizards Play Network 2023,7,,,,Bargain
+Ice Out,{1}{U}{U},3.0,Instant,"Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
+This spell costs {1} less to cast if it's bargained.
+Counter target spell.",U,U,common,WOE,Wilds of Eldraine,54,,,,Bargain
+Impossible Inferno,{4}{R},5.0,Instant,"Impossible Inferno deals 6 damage to target creature.
+Delirium — If there are four or more card types among cards in your graveyard, exile the top card of your library. You may play it until the end of your next turn.",R,R,common,DSK,Duskmourn: House of Horror,140,,,,Delirium
+In the Presence of Ages,{2}{G},3.0,Instant,Reveal the top four cards of your library. You may put a creature card and/or a land card from among them into your hand. Put the rest into your graveyard.,G,G,common,LCI,The Lost Caverns of Ixalan,192,,,,
+Inevitable Defeat,{1}{R}{W}{B},4.0,Instant,"This spell can't be countered.
+Exile target nonland permanent. Its controller loses 3 life and you gain 3 life.","B,R,W","B,R,W",rare,PTDM,Tarkir: Dragonstorm Promos,194s,,,,
+Inevitable Defeat,{1}{R}{W}{B},4.0,Instant,"This spell can't be countered.
+Exile target nonland permanent. Its controller loses 3 life and you gain 3 life.","B,R,W","B,R,W",rare,TDM,Tarkir: Dragonstorm,194,,,,
+Inevitable Defeat,{1}{R}{W}{B},4.0,Instant,"This spell can't be countered.
+Exile target nonland permanent. Its controller loses 3 life and you gain 3 life.","B,R,W","B,R,W",rare,PTDM,Tarkir: Dragonstorm Promos,194p,,,,
+Inevitable Defeat,{1}{R}{W}{B},4.0,Instant,"This spell can't be countered.
+Exile target nonland permanent. Its controller loses 3 life and you gain 3 life.","B,R,W","B,R,W",rare,TDM,Tarkir: Dragonstorm,360,,,,
+Inspiring Call,{2}{G},3.0,Instant,"Draw a card for each creature you control with a +1/+1 counter on it. Those creatures gain indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy them.)",G,G,uncommon,IMA,Iconic Masters,169,,,,
+Inspiring Call,{2}{G},3.0,Instant,"Draw a card for each creature you control with a +1/+1 counter on it. Those creatures gain indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy them.)",G,G,rare,SLD,Secret Lair Drop,2313,,,,
+Inspiring Call,{2}{G},3.0,Instant,"Draw a card for each creature you control with a +1/+1 counter on it. Those creatures gain indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy them.)",G,G,uncommon,CM2,Commander Anthology Volume II,139,,,,
+Inspiring Call,{2}{G},3.0,Instant,"Draw a card for each creature you control with a +1/+1 counter on it. Those creatures gain indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy them.)",G,G,uncommon,TLE,Avatar: The Last Airbender Eternal,168,,,,
+Inspiring Call,{2}{G},3.0,Instant,"Draw a card for each creature you control with a +1/+1 counter on it. Those creatures gain indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy them.)",G,G,uncommon,FDN,Foundations,226,,,,
+Inspiring Call,{2}{G},3.0,Instant,"Draw a card for each creature you control with a +1/+1 counter on it. Those creatures gain indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy them.)",G,G,uncommon,ZNC,Zendikar Rising Commander,70,,,,
+Inspiring Call,{2}{G},3.0,Instant,"Draw a card for each creature you control with a +1/+1 counter on it. Those creatures gain indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy them.)",G,G,uncommon,LCC,The Lost Caverns of Ixalan Commander,244,,,,
+Inspiring Call,{2}{G},3.0,Instant,"Draw a card for each creature you control with a +1/+1 counter on it. Those creatures gain indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy them.)",G,G,uncommon,C16,Commander 2016,153,,,,
+Inspiring Call,{2}{G},3.0,Instant,"Draw a card for each creature you control with a +1/+1 counter on it. Those creatures gain indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy them.)",G,G,uncommon,40K,"Warhammer 40,000 Commander",217,,,,
+Inspiring Call,{2}{G},3.0,Instant,"Draw a card for each creature you control with a +1/+1 counter on it. Those creatures gain indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy them.)",G,G,rare,SLD,Secret Lair Drop,2328,,,,
+Inspiring Call,{2}{G},3.0,Instant,"Draw a card for each creature you control with a +1/+1 counter on it. Those creatures gain indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy them.)",G,G,uncommon,40K,"Warhammer 40,000 Commander",217★,,,,
+Inspiring Call,{2}{G},3.0,Instant,"Draw a card for each creature you control with a +1/+1 counter on it. Those creatures gain indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy them.)",G,G,uncommon,MOC,March of the Machine Commander,304,,,,
+Inspiring Call,{2}{G},3.0,Instant,"Draw a card for each creature you control with a +1/+1 counter on it. Those creatures gain indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy them.)",G,G,uncommon,FIC,Final Fantasy Commander,310,,,,
+Inspiring Call,{2}{G},3.0,Instant,"Draw a card for each creature you control with a +1/+1 counter on it. Those creatures gain indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy them.)",G,G,uncommon,DTK,Dragons of Tarkir,191,,,,
+Inspiring Call,{2}{G},3.0,Instant,"Draw a card for each creature you control with a +1/+1 counter on it. Those creatures gain indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy them.)",G,G,uncommon,PIP,Fallout,731,,,,
+Inspiring Call,{2}{G},3.0,Instant,"Draw a card for each creature you control with a +1/+1 counter on it. Those creatures gain indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy them.)",G,G,uncommon,PIP,Fallout,203,,,,
+Inspiring Call,{2}{G},3.0,Instant,"Draw a card for each creature you control with a +1/+1 counter on it. Those creatures gain indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy them.)",G,G,uncommon,JMP,Jumpstart,404,,,,
+Inspiring Call,{2}{G},3.0,Instant,"Draw a card for each creature you control with a +1/+1 counter on it. Those creatures gain indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy them.)",G,G,uncommon,MIC,Midnight Hunt Commander,141,,,,
+Into the Flood Maw,{U},1.0,Instant,"Gift a tapped Fish (You may promise an opponent a gift as you cast this spell. If you do, they create a tapped 1/1 blue Fish creature token before its other effects.)
+Return target creature an opponent controls to its owner's hand. If the gift was promised, instead return target nonland permanent an opponent controls to its owner's hand.",U,U,uncommon,BLB,Bloomburrow,52,,,,Gift
+Into the Flood Maw,{U},1.0,Instant,"Gift a tapped Fish (You may promise an opponent a gift as you cast this spell. If you do, they create a tapped 1/1 blue Fish creature token before its other effects.)
+Return target creature an opponent controls to its owner's hand. If the gift was promised, instead return target nonland permanent an opponent controls to its owner's hand.",U,U,rare,PWCS,Planeswalker Championship Promos,2026-2,,,,Gift
+Into the Roil,{1}{U},2.0,Instant,"Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)
+Return target nonland permanent to its owner's hand. If this spell was kicked, draw a card.",U,U,common,C17,Commander 2017,86,,,,Kicker
+Into the Roil,{1}{U},2.0,Instant,"Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)
+Return target nonland permanent to its owner's hand. If this spell was kicked, draw a card.",U,U,common,FDN,Foundations,509,,,,Kicker
+Into the Roil,{1}{U},2.0,Instant,"Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)
+Return target nonland permanent to its owner's hand. If this spell was kicked, draw a card.",U,U,common,PS11,Salvat 2011,39,,,,Kicker
+Into the Roil,{1}{U},2.0,Instant,"Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)
+Return target nonland permanent to its owner's hand. If this spell was kicked, draw a card.",U,U,common,ZEN,Zendikar,48,,,,Kicker
+Into the Roil,{1}{U},2.0,Instant,"Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)
+Return target nonland permanent to its owner's hand. If this spell was kicked, draw a card.",U,U,common,C18,Commander 2018,92,,,,Kicker
+Into the Roil,{1}{U},2.0,Instant,"Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)
+Return target nonland permanent to its owner's hand. If this spell was kicked, draw a card.",U,U,common,C14,Commander 2014,115,,,,Kicker
+Into the Roil,{1}{U},2.0,Instant,"Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)
+Return target nonland permanent to its owner's hand. If this spell was kicked, draw a card.",U,U,common,ZNR,Zendikar Rising,62,,,,Kicker
+Into the Roil,{1}{U},2.0,Instant,"Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)
+Return target nonland permanent to its owner's hand. If this spell was kicked, draw a card.",U,U,common,ZNR,Zendikar Rising,387,,,,Kicker
+Into the Roil,{1}{U},2.0,Instant,"Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)
+Return target nonland permanent to its owner's hand. If this spell was kicked, draw a card.",U,U,common,DDM,Duel Decks: Jace vs. Vraska,23,,,,Kicker
+Into the Roil,{1}{U},2.0,Instant,"Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)
+Return target nonland permanent to its owner's hand. If this spell was kicked, draw a card.",U,U,common,CMR,Commander Legends,397,,,,Kicker
+Intrude on the Mind,{3}{U}{U},5.0,Instant,"Reveal the top five cards of your library and separate them into two piles. An opponent chooses one of those piles. Put that pile into your hand and the other into your graveyard. Create a 0/0 colorless Thopter artifact creature token with flying, then put a +1/+1 counter on it for each card put into your graveyard this way.",U,U,mythic,PMKM,Murders at Karlov Manor Promos,61p,,,,
+Intrude on the Mind,{3}{U}{U},5.0,Instant,"Reveal the top five cards of your library and separate them into two piles. An opponent chooses one of those piles. Put that pile into your hand and the other into your graveyard. Create a 0/0 colorless Thopter artifact creature token with flying, then put a +1/+1 counter on it for each card put into your graveyard this way.",U,U,mythic,MKM,Murders at Karlov Manor,296,,,,
+Intrude on the Mind,{3}{U}{U},5.0,Instant,"Reveal the top five cards of your library and separate them into two piles. An opponent chooses one of those piles. Put that pile into your hand and the other into your graveyard. Create a 0/0 colorless Thopter artifact creature token with flying, then put a +1/+1 counter on it for each card put into your graveyard this way.",U,U,mythic,PMKM,Murders at Karlov Manor Promos,61s,,,,
+Intrude on the Mind,{3}{U}{U},5.0,Instant,"Reveal the top five cards of your library and separate them into two piles. An opponent chooses one of those piles. Put that pile into your hand and the other into your graveyard. Create a 0/0 colorless Thopter artifact creature token with flying, then put a +1/+1 counter on it for each card put into your graveyard this way.",U,U,mythic,MKM,Murders at Karlov Manor,61,,,,
+Invasive Maneuvers,{1}{R},2.0,Instant,Invasive Maneuvers deals 3 damage to target creature. It deals 5 damage instead if you control a Spacecraft.,R,R,uncommon,EOE,Edge of Eternities,137,,,,
+It Doesn't Add Up,{3}{B}{B},5.0,Instant,Return target creature card from your graveyard to the battlefield. Suspect it. (It has menace and can't block.),B,B,uncommon,MKM,Murders at Karlov Manor,299,,,,Suspect
+It Doesn't Add Up,{3}{B}{B},5.0,Instant,Return target creature card from your graveyard to the battlefield. Suspect it. (It has menace and can't block.),B,B,uncommon,MKM,Murders at Karlov Manor,89,,,,Suspect
+It'll Quench Ya!,{1}{U},2.0,Instant — Lesson,Counter target spell unless its controller pays {2}.,U,U,common,TLA,Avatar: The Last Airbender,58,,,,

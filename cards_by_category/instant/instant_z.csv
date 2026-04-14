@@ -1,0 +1,6 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Zealous Display,{2}{W},3.0,Instant,"Creatures you control get +2/+0 until end of turn. If it's not your turn, untap those creatures.",W,W,common,EOE,Edge of Eternities,45,,,,
+Zoyowa's Justice,{1}{R},2.0,Instant,"The owner of target artifact or creature with mana value 1 or greater shuffles it into their library. Then that player discovers X, where X is its mana value. (They exile cards from the top of their library until they exile a nonland card with that mana value or less. They cast it without paying its mana cost or put it into their hand. They put the rest on the bottom in a random order.)",R,R,uncommon,LCI,The Lost Caverns of Ixalan,173,,,,Discover
+Zuko's Conviction,{B},1.0,Instant,"Kicker {4} (You may pay an additional {4} as you cast this spell.)
+Return target creature card from your graveyard to your hand. If this spell was kicked, instead put that card onto the battlefield tapped.",B,B,uncommon,TLA,Avatar: The Last Airbender,123,,,,Kicker
+Zuko's Exile,{5},5.0,Instant — Lesson,"Exile target artifact, creature, or enchantment. Its controller creates a Clue token. (It's an artifact with ""{2}, Sacrifice this token: Draw a card."")",,,common,TLA,Avatar: The Last Airbender,3,,,,

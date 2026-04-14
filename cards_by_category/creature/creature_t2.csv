@@ -1,0 +1,461 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+The Wandering Rescuer,{3}{W}{W},5.0,Legendary Creature — Human Samurai Noble,"Flash
+Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+Double strike
+Other tapped creatures you control have hexproof.",W,W,mythic,DSK,Duskmourn: House of Horror,351,3,4,,Double strike;Flash;Convoke
+The Wandering Rescuer,{3}{W}{W},5.0,Legendary Creature — Human Samurai Noble,"Flash
+Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+Double strike
+Other tapped creatures you control have hexproof.",W,W,mythic,DSK,Duskmourn: House of Horror,406,3,4,,Double strike;Flash;Convoke
+The Wandering Rescuer,{3}{W}{W},5.0,Legendary Creature — Human Samurai Noble,"Flash
+Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+Double strike
+Other tapped creatures you control have hexproof.",W,W,mythic,DSK,Duskmourn: House of Horror,41,3,4,,Double strike;Flash;Convoke
+The Wandering Rescuer,{3}{W}{W},5.0,Legendary Creature — Human Samurai Noble,"Flash
+Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+Double strike
+Other tapped creatures you control have hexproof.",W,W,mythic,PDSK,Duskmourn: House of Horror Promos,41p,3,4,,Double strike;Flash;Convoke
+Thieving Otter,{2}{U},3.0,Creature — Otter,"Whenever this creature deals damage to an opponent, draw a card.",U,U,common,IKO,Ikoria: Lair of Behemoths,69,2,2,,
+Thieving Otter,{2}{U},3.0,Creature — Otter,"Whenever this creature deals damage to an opponent, draw a card.",U,U,common,BLB,Bloomburrow,390,2,2,,
+Thistledown Players,{2}{W},3.0,Creature — Mouse Bard,"Whenever this creature attacks, untap target nonland permanent.",W,W,common,BLB,Bloomburrow,35,3,3,,
+Thornplate Intimidator,{3}{B},4.0,Creature — Rat Rogue,"Offspring {3} (You may pay an additional {3} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+When this creature enters, target opponent loses 3 life unless they sacrifice a nonland permanent of their choice or discard a card.",B,B,common,BLB,Bloomburrow,117,4,3,,Offspring
+Thornvault Forager,{1}{G},2.0,Creature — Squirrel Ranger,"{T}: Add {G}.
+{T}, Forage: Add two mana in any combination of colors. (To forage, exile three cards from your graveyard or sacrifice a Food.)
+{3}{G}, {T}: Search your library for a Squirrel card, reveal it, put it into your hand, then shuffle.",G,G,rare,BLB,Bloomburrow,364,2,2,,Forage
+Thornvault Forager,{1}{G},2.0,Creature — Squirrel Ranger,"{T}: Add {G}.
+{T}, Forage: Add two mana in any combination of colors. (To forage, exile three cards from your graveyard or sacrifice a Food.)
+{3}{G}, {T}: Search your library for a Squirrel card, reveal it, put it into your hand, then shuffle.",G,G,rare,PBLB,Bloomburrow Promos,197p,2,2,,Forage
+Thornvault Forager,{1}{G},2.0,Creature — Squirrel Ranger,"{T}: Add {G}.
+{T}, Forage: Add two mana in any combination of colors. (To forage, exile three cards from your graveyard or sacrifice a Food.)
+{3}{G}, {T}: Search your library for a Squirrel card, reveal it, put it into your hand, then shuffle.",G,G,rare,BLB,Bloomburrow,197,2,2,,Forage
+Thornvault Forager,{1}{G},2.0,Creature — Squirrel Ranger,"{T}: Add {G}.
+{T}, Forage: Add two mana in any combination of colors. (To forage, exile three cards from your graveyard or sacrifice a Food.)
+{3}{G}, {T}: Search your library for a Squirrel card, reveal it, put it into your hand, then shuffle.",G,G,rare,PBLB,Bloomburrow Promos,197s,2,2,,Forage
+Thornweald Archer,{1}{G},2.0,Creature — Elf Archer,"Reach (This creature can block creatures with flying.)
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)",G,G,common,C14,Commander 2014,219,2,1,,Reach;Deathtouch
+Thornweald Archer,{1}{G},2.0,Creature — Elf Archer,"Reach (This creature can block creatures with flying.)
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)",G,G,common,PLST,The List,CMA-154,2,1,,Reach;Deathtouch
+Thornweald Archer,{1}{G},2.0,Creature — Elf Archer,"Reach (This creature can block creatures with flying.)
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)",G,G,common,FDN,Foundations,559,2,1,,Reach;Deathtouch
+Thornweald Archer,{1}{G},2.0,Creature — Elf Archer,"Reach (This creature can block creatures with flying.)
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)",G,G,common,EMA,Eternal Masters,189,2,1,,Reach;Deathtouch
+Thornweald Archer,{1}{G},2.0,Creature — Elf Archer,"Reach (This creature can block creatures with flying.)
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)",G,G,common,CMA,Commander Anthology,154,2,1,,Reach;Deathtouch
+Thornweald Archer,{1}{G},2.0,Creature — Elf Archer,"Reach (This creature can block creatures with flying.)
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)",G,G,common,FUT,Future Sight,154,2,1,,Reach;Deathtouch
+Thornweald Archer,{1}{G},2.0,Creature — Elf Archer,"Reach (This creature can block creatures with flying.)
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)",G,G,common,DDR,Duel Decks: Nissa vs. Ob Nixilis,22,2,1,,Reach;Deathtouch
+Thornweald Archer,{1}{G},2.0,Creature — Elf Archer,"Reach (This creature can block creatures with flying.)
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)",G,G,common,GN3,Game Night: Free-for-All,110,2,1,,Reach;Deathtouch
+Thornweald Archer,{1}{G},2.0,Creature — Elf Archer,"Reach (This creature can block creatures with flying.)
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)",G,G,common,J25,Foundations Jumpstart,724,2,1,,Reach;Deathtouch
+Thornweald Archer,{1}{G},2.0,Creature — Elf Archer,"Reach (This creature can block creatures with flying.)
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)",G,G,common,TSR,Time Spiral Remastered,240,2,1,,Reach;Deathtouch
+Thought Shucker,{1}{U},2.0,Creature — Rat Rogue,Threshold — {1}{U}: Put a +1/+1 counter on this creature and draw a card. Activate only if there are seven or more cards in your graveyard and only once.,U,U,common,BLB,Bloomburrow,77,1,3,,Threshold
+Thought-Stalker Warlock,{2}{B},3.0,Creature — Lizard Warlock,"Menace (This creature can't be blocked except by two or more creatures.)
+When this creature enters, choose target opponent. If they lost life this turn, they reveal their hand, you choose a nonland card from it, and they discard that card. Otherwise, they discard a card.",B,B,uncommon,BLB,Bloomburrow,118,2,2,,Menace
+Thoughtweft Imbuer,{3}{W},4.0,Creature — Kithkin Advisor,"Whenever a creature you control attacks alone, it gets +X/+X until end of turn, where X is the number of Kithkin you control.",W,W,uncommon,ECL,Lorwyn Eclipsed,38,0,5,,
+Thoughtweft Lieutenant,{G}{W},2.0,Creature — Kithkin Soldier,"Whenever this creature or another Kithkin you control enters, target creature you control gets +1/+1 and gains trample until end of turn.","G,W","G,W",uncommon,ECL,Lorwyn Eclipsed,246,2,2,,
+Thoughtweft Lieutenant,{G}{W},2.0,Creature — Kithkin Soldier,"Whenever this creature or another Kithkin you control enters, target creature you control gets +1/+1 and gains trample until end of turn.","G,W","G,W",uncommon,ECL,Lorwyn Eclipsed,343,2,2,,
+Thousand Moons Crackshot,{1}{W},2.0,Creature — Human Soldier,"Whenever this creature attacks, you may pay {2}{W}. When you do, tap target creature.",W,W,common,LCI,The Lost Caverns of Ixalan,37,2,2,,
+Thousand Moons Infantry,{2}{W},3.0,Creature — Human Soldier,Untap this creature during each other player's untap step.,W,W,common,LCI,The Lost Caverns of Ixalan,38,2,4,,
+Thrashing Brontodon,{1}{G}{G},3.0,Creature — Dinosaur,"{1}, Sacrifice this creature: Destroy target artifact or enchantment.",G,G,uncommon,RIX,Rivals of Ixalan,148,3,4,,
+Thrashing Brontodon,{1}{G}{G},3.0,Creature — Dinosaur,"{1}, Sacrifice this creature: Destroy target artifact or enchantment.",G,G,uncommon,J25,Foundations Jumpstart,725,3,4,,
+Thrashing Brontodon,{1}{G}{G},3.0,Creature — Dinosaur,"{1}, Sacrifice this creature: Destroy target artifact or enchantment.",G,G,uncommon,LCI,The Lost Caverns of Ixalan,329,3,4,,
+Thrashing Brontodon,{1}{G}{G},3.0,Creature — Dinosaur,"{1}, Sacrifice this creature: Destroy target artifact or enchantment.",G,G,uncommon,FDN,Foundations,560,3,4,,
+Thrashing Brontodon,{1}{G}{G},3.0,Creature — Dinosaur,"{1}, Sacrifice this creature: Destroy target artifact or enchantment.",G,G,uncommon,PM20,Core Set 2020 Promos,197,3,4,,
+Thrashing Brontodon,{1}{G}{G},3.0,Creature — Dinosaur,"{1}, Sacrifice this creature: Destroy target artifact or enchantment.",G,G,uncommon,M20,Core Set 2020,197,3,4,,
+Thrashing Brontodon,{1}{G}{G},3.0,Creature — Dinosaur,"{1}, Sacrifice this creature: Destroy target artifact or enchantment.",G,G,uncommon,PLST,The List,RIX-148,3,4,,
+Thrashing Brontodon,{1}{G}{G},3.0,Creature — Dinosaur,"{1}, Sacrifice this creature: Destroy target artifact or enchantment.",G,G,uncommon,M21,Core Set 2021,209,3,4,,
+Thrashing Brontodon,{1}{G}{G},3.0,Creature — Dinosaur,"{1}, Sacrifice this creature: Destroy target artifact or enchantment.",G,G,uncommon,GNT,Game Night,50,3,4,,
+Thrashing Brontodon,{1}{G}{G},3.0,Creature — Dinosaur,"{1}, Sacrifice this creature: Destroy target artifact or enchantment.",G,G,uncommon,LCI,The Lost Caverns of Ixalan,216,3,4,,
+Thrashing Brontodon,{1}{G}{G},3.0,Creature — Dinosaur,"{1}, Sacrifice this creature: Destroy target artifact or enchantment.",G,G,uncommon,J22,Jumpstart 2022,92,3,4,,
+Threadbind Clique // Rip the Seams,{3}{U} // {2}{W},4.0,Creature — Faerie // Instant — Adventure,,U,"U,W",uncommon,WOE,Wilds of Eldraine,239,3,3,,Flying
+Three Tree Mascot,{2},2.0,Artifact Creature — Shapeshifter,"Changeling (This card is every creature type.)
+{1}: Add one mana of any color. Activate only once each turn.",,,common,FDN,Foundations,682,2,1,,Changeling
+Three Tree Mascot,{2},2.0,Artifact Creature — Shapeshifter,"Changeling (This card is every creature type.)
+{1}: Add one mana of any color. Activate only once each turn.",,,common,BLB,Bloomburrow,251,2,1,,Changeling
+Three Tree Rootweaver,{1}{G},2.0,Creature — Mole Druid,{T}: Add one mana of any color.,G,G,common,BLB,Bloomburrow,198,1,3,,
+Three Tree Scribe,{1}{G},2.0,Creature — Frog Druid,"Whenever this creature or another creature you control leaves the battlefield without dying, put a +1/+1 counter on target creature you control.",G,G,uncommon,BLB,Bloomburrow,199,2,3,,
+Threefold Thunderhulk,{7},7.0,Artifact Creature — Gnome,"This creature enters with three +1/+1 counters on it.
+Whenever this creature enters or attacks, create a number of 1/1 colorless Gnome artifact creature tokens equal to its power.
+{2}, Sacrifice another artifact: Put a +1/+1 counter on this creature.",,,rare,LCI,The Lost Caverns of Ixalan,390,0,0,,
+Threefold Thunderhulk,{7},7.0,Artifact Creature — Gnome,"This creature enters with three +1/+1 counters on it.
+Whenever this creature enters or attacks, create a number of 1/1 colorless Gnome artifact creature tokens equal to its power.
+{2}, Sacrifice another artifact: Put a +1/+1 counter on this creature.",,,rare,LCI,The Lost Caverns of Ixalan,265,0,0,,
+Threefold Thunderhulk,{7},7.0,Artifact Creature — Gnome,"This creature enters with three +1/+1 counters on it.
+Whenever this creature enters or attacks, create a number of 1/1 colorless Gnome artifact creature tokens equal to its power.
+{2}, Sacrifice another artifact: Put a +1/+1 counter on this creature.",,,rare,EOC,Edge of Eternities Commander,145,0,0,,
+Threefold Thunderhulk,{7},7.0,Artifact Creature — Gnome,"This creature enters with three +1/+1 counters on it.
+Whenever this creature enters or attacks, create a number of 1/1 colorless Gnome artifact creature tokens equal to its power.
+{2}, Sacrifice another artifact: Put a +1/+1 counter on this creature.",,,rare,PLCI,The Lost Caverns of Ixalan Promos,265s,0,0,,
+Threefold Thunderhulk,{7},7.0,Artifact Creature — Gnome,"This creature enters with three +1/+1 counters on it.
+Whenever this creature enters or attacks, create a number of 1/1 colorless Gnome artifact creature tokens equal to its power.
+{2}, Sacrifice another artifact: Put a +1/+1 counter on this creature.",,,rare,PLCI,The Lost Caverns of Ixalan Promos,265p,0,0,,
+Throne of the Grim Captain // The Grim Captain,,2.0,Legendary Artifact // Legendary Creature — Skeleton Spirit Pirate,,,B,rare,LCI,The Lost Caverns of Ixalan,313,,,,Lifelink;Craft;Transform;Hexproof;Trample;Menace;Mill
+Throne of the Grim Captain // The Grim Captain,,2.0,Legendary Artifact // Legendary Creature — Skeleton Spirit Pirate,,,B,rare,LCI,The Lost Caverns of Ixalan,266,,,,Lifelink;Craft;Transform;Hexproof;Trample;Menace;Mill
+Thunderhead Gunner,{4}{R},5.0,Creature — Shark Pirate,"Reach
+Discard a card: Draw a card. Activate only as a sorcery and only once each turn.",R,R,common,DFT,Aetherdrift,148,4,5,,Reach
+Thundertrap Trainer,{1}{U},2.0,Creature — Otter Wizard,"Offspring {4} (You may pay an additional {4} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+When this creature enters, look at the top four cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",U,U,rare,BLB,Bloomburrow,307,1,2,,Offspring
+Thundertrap Trainer,{1}{U},2.0,Creature — Otter Wizard,"Offspring {4} (You may pay an additional {4} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+When this creature enters, look at the top four cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",U,U,rare,PBLB,Bloomburrow Promos,78p,1,2,,Offspring
+Thundertrap Trainer,{1}{U},2.0,Creature — Otter Wizard,"Offspring {4} (You may pay an additional {4} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+When this creature enters, look at the top four cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",U,U,rare,BLB,Bloomburrow,78,1,2,,Offspring
+Thundertrap Trainer,{1}{U},2.0,Creature — Otter Wizard,"Offspring {4} (You may pay an additional {4} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+When this creature enters, look at the top four cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",U,U,rare,PBLB,Bloomburrow Promos,78s,1,2,,Offspring
+Thundertrap Trainer,{1}{U},2.0,Creature — Otter Wizard,"Offspring {4} (You may pay an additional {4} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+When this creature enters, look at the top four cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",U,U,rare,BLB,Bloomburrow,386,1,2,,Offspring
+Ticket Tortoise,{2},2.0,Artifact Creature — Turtle,"Defender
+When this creature enters, if an opponent controls more lands than you, you create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")",,,common,DFT,Aetherdrift,245,3,1,,Treasure;Defender
+Tidecaller Mentor,{1}{U}{B},3.0,Creature — Rat Wizard,"Menace
+Threshold — When this creature enters, if there are seven or more cards in your graveyard, return up to one target nonland permanent to its owner's hand.","B,U","B,U",uncommon,BLB,Bloomburrow,236,3,3,,Threshold;Menace
+"Tidus, Blitzball Star",{1}{W}{U},3.0,Legendary Creature — Human Warrior,"Whenever an artifact you control enters, put a +1/+1 counter on Tidus.
+Whenever Tidus attacks, tap target creature an opponent controls.","U,W","U,W",uncommon,FIN,Final Fantasy,246,2,1,,
+"Tidus, Blitzball Star",{1}{W}{U},3.0,Legendary Creature — Human Warrior,"Whenever an artifact you control enters, put a +1/+1 counter on Tidus.
+Whenever Tidus attacks, tap target creature an opponent controls.","U,W","U,W",uncommon,FIN,Final Fantasy,512,2,1,,
+Tifa Lockhart,{1}{G},2.0,Legendary Creature — Human Monk,"Trample
+Landfall — Whenever a land you control enters, double Tifa Lockhart's power until end of turn.",G,G,rare,FIN,Final Fantasy,473,1,2,,Trample;Landfall
+Tifa Lockhart,{1}{G},2.0,Legendary Creature — Human Monk,"Trample
+Landfall — Whenever a land you control enters, double Tifa Lockhart's power until end of turn.",G,G,rare,FIN,Final Fantasy,536,1,2,,Trample;Landfall
+Tifa Lockhart,{1}{G},2.0,Legendary Creature — Human Monk,"Trample
+Landfall — Whenever a land you control enters, double Tifa Lockhart's power until end of turn.",G,G,rare,PFIN,Final Fantasy Promos,206s,1,2,,Trample;Landfall
+Tifa Lockhart,{1}{G},2.0,Legendary Creature — Human Monk,"Trample
+Landfall — Whenever a land you control enters, double Tifa Lockhart's power until end of turn.",G,G,rare,FIN,Final Fantasy,567,1,2,,Trample;Landfall
+Tifa Lockhart,{1}{G},2.0,Legendary Creature — Human Monk,"Trample
+Landfall — Whenever a land you control enters, double Tifa Lockhart's power until end of turn.",G,G,rare,PF25,MagicFest 2025,9,1,2,,Trample;Landfall
+Tifa Lockhart,{1}{G},2.0,Legendary Creature — Human Monk,"Trample
+Landfall — Whenever a land you control enters, double Tifa Lockhart's power until end of turn.",G,G,rare,FIN,Final Fantasy,391,1,2,,Trample;Landfall
+Tifa Lockhart,{1}{G},2.0,Legendary Creature — Human Monk,"Trample
+Landfall — Whenever a land you control enters, double Tifa Lockhart's power until end of turn.",G,G,rare,FIN,Final Fantasy,206,1,2,,Trample;Landfall
+Tiger-Dillo,{1}{R},2.0,Creature — Cat Armadillo,This creature can't attack or block unless you control another creature with power 4 or greater.,R,R,uncommon,TLA,Avatar: The Last Airbender,155,4,3,,
+Tiger-Seal,{U},1.0,Creature — Cat Seal,"Vigilance
+At the beginning of your upkeep, tap this creature.
+Whenever you draw your second card each turn, untap this creature.",U,U,rare,PTLA,Avatar: The Last Airbender Promos,75s,3,3,,Vigilance
+Tiger-Seal,{U},1.0,Creature — Cat Seal,"Vigilance
+At the beginning of your upkeep, tap this creature.
+Whenever you draw your second card each turn, untap this creature.",U,U,rare,TLA,Avatar: The Last Airbender,75,3,3,,Vigilance
+Tiger-Seal,{U},1.0,Creature — Cat Seal,"Vigilance
+At the beginning of your upkeep, tap this creature.
+Whenever you draw your second card each turn, untap this creature.",U,U,rare,TLA,Avatar: The Last Airbender,318,3,3,,Vigilance
+Timeline Culler,{B}{B},2.0,Creature — Drix Warlock,"Haste
+You may cast this card from your graveyard using its warp ability.
+Warp—{B}, Pay 2 life. (You may cast this card from your hand or graveyard for its warp cost. If you do, exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",B,B,uncommon,EOE,Edge of Eternities,121,2,2,,Haste;Warp
+Timid Shieldbearer,{1}{W},2.0,Creature — Kithkin Soldier,{4}{W}: Creatures you control get +1/+1 until end of turn.,W,W,common,ECL,Lorwyn Eclipsed,39,2,2,,
+Tin Street Gossip,{2}{R}{G},4.0,Creature — Lizard Advisor,"Vigilance
+{T}: Add {R}{G}. Spend this mana only to cast face-down spells or to turn creatures face up.","G,R","G,R",uncommon,MKM,Murders at Karlov Manor,235,4,4,,Vigilance
+"Tinybones, Bauble Burglar",{1}{B},2.0,Legendary Creature — Skeleton Rogue,"Whenever an opponent discards a card, exile it from their graveyard with a stash counter on it.
+During your turn, you may play cards you don't own with stash counters on them from exile, and mana of any type can be spent to cast those spells.
+{3}{B}, {T}: Each opponent discards a card. Activate only as a sorcery.",B,B,rare,FDN,Foundations,388,1,3,,
+"Tinybones, Bauble Burglar",{1}{B},2.0,Legendary Creature — Skeleton Rogue,"Whenever an opponent discards a card, exile it from their graveyard with a stash counter on it.
+During your turn, you may play cards you don't own with stash counters on them from exile, and mana of any type can be spent to cast those spells.
+{3}{B}, {T}: Each opponent discards a card. Activate only as a sorcery.",B,B,rare,PFDN,Foundations Promos,72s,1,3,,
+"Tinybones, Bauble Burglar",{1}{B},2.0,Legendary Creature — Skeleton Rogue,"Whenever an opponent discards a card, exile it from their graveyard with a stash counter on it.
+During your turn, you may play cards you don't own with stash counters on them from exile, and mana of any type can be spent to cast those spells.
+{3}{B}, {T}: Each opponent discards a card. Activate only as a sorcery.",B,B,rare,FDN,Foundations,324,1,3,,
+"Tinybones, Bauble Burglar",{1}{B},2.0,Legendary Creature — Skeleton Rogue,"Whenever an opponent discards a card, exile it from their graveyard with a stash counter on it.
+During your turn, you may play cards you don't own with stash counters on them from exile, and mana of any type can be spent to cast those spells.
+{3}{B}, {T}: Each opponent discards a card. Activate only as a sorcery.",B,B,rare,FDN,Foundations,463,1,3,,
+"Tinybones, Bauble Burglar",{1}{B},2.0,Legendary Creature — Skeleton Rogue,"Whenever an opponent discards a card, exile it from their graveyard with a stash counter on it.
+During your turn, you may play cards you don't own with stash counters on them from exile, and mana of any type can be spent to cast those spells.
+{3}{B}, {T}: Each opponent discards a card. Activate only as a sorcery.",B,B,rare,FDN,Foundations,72,1,3,,
+"Tinybones, the Pickpocket",{B},1.0,Legendary Creature — Skeleton Rogue,"Deathtouch
+Whenever Tinybones deals combat damage to a player, you may cast target nonland permanent card from that player's graveyard, and mana of any type can be spent to cast that spell.",B,B,mythic,OTJ,Outlaws of Thunder Junction,290,1,1,,Deathtouch
+"Tinybones, the Pickpocket",{B},1.0,Legendary Creature — Skeleton Rogue,"Deathtouch
+Whenever Tinybones deals combat damage to a player, you may cast target nonland permanent card from that player's graveyard, and mana of any type can be spent to cast that spell.",B,B,mythic,OTJ,Outlaws of Thunder Junction,109,1,1,,Deathtouch
+"Tinybones, the Pickpocket",{B},1.0,Legendary Creature — Skeleton Rogue,"Deathtouch
+Whenever Tinybones deals combat damage to a player, you may cast target nonland permanent card from that player's graveyard, and mana of any type can be spent to cast that spell.",B,B,mythic,POTJ,Outlaws of Thunder Junction Promos,109s,1,1,,Deathtouch
+"Tinybones, the Pickpocket",{B},1.0,Legendary Creature — Skeleton Rogue,"Deathtouch
+Whenever Tinybones deals combat damage to a player, you may cast target nonland permanent card from that player's graveyard, and mana of any type can be spent to cast that spell.",B,B,mythic,POTJ,Outlaws of Thunder Junction Promos,109p,1,1,,Deathtouch
+Tishana's Tidebinder,{2}{U},3.0,Creature — Merfolk Wizard,"Flash
+When this creature enters, counter up to one target activated or triggered ability. If an ability of an artifact, creature, or planeswalker is countered this way, that permanent loses all abilities for as long as this creature remains on the battlefield. (Mana abilities can't be targeted.)",U,U,rare,LCI,The Lost Caverns of Ixalan,335,3,2,,Flash
+Tishana's Tidebinder,{2}{U},3.0,Creature — Merfolk Wizard,"Flash
+When this creature enters, counter up to one target activated or triggered ability. If an ability of an artifact, creature, or planeswalker is countered this way, that permanent loses all abilities for as long as this creature remains on the battlefield. (Mana abilities can't be targeted.)",U,U,rare,PJSC,Japan Standard Cup,2025-1,3,2,,Flash
+Tishana's Tidebinder,{2}{U},3.0,Creature — Merfolk Wizard,"Flash
+When this creature enters, counter up to one target activated or triggered ability. If an ability of an artifact, creature, or planeswalker is countered this way, that permanent loses all abilities for as long as this creature remains on the battlefield. (Mana abilities can't be targeted.)",U,U,rare,LCI,The Lost Caverns of Ixalan,81,3,2,,Flash
+Tishana's Tidebinder,{2}{U},3.0,Creature — Merfolk Wizard,"Flash
+When this creature enters, counter up to one target activated or triggered ability. If an ability of an artifact, creature, or planeswalker is countered this way, that permanent loses all abilities for as long as this creature remains on the battlefield. (Mana abilities can't be targeted.)",U,U,rare,PLCI,The Lost Caverns of Ixalan Promos,81p,3,2,,Flash
+Tishana's Tidebinder,{2}{U},3.0,Creature — Merfolk Wizard,"Flash
+When this creature enters, counter up to one target activated or triggered ability. If an ability of an artifact, creature, or planeswalker is countered this way, that permanent loses all abilities for as long as this creature remains on the battlefield. (Mana abilities can't be targeted.)",U,U,rare,PLCI,The Lost Caverns of Ixalan Promos,81s,3,2,,Flash
+Toadstool Admirer,{G},1.0,Creature — Ouphe,"Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+{3}{G}: Put a +1/+1 counter on this creature.",G,G,common,WOE,Wilds of Eldraine,192,1,1,,Ward
+"Toby, Beastie Befriender",{2}{W},3.0,Legendary Creature — Human Wizard,"When Toby enters, create a 4/4 white Beast creature token with ""This token can't attack or block alone.""
+As long as you control four or more creature tokens, creature tokens you control have flying.",W,W,rare,PDSK,Duskmourn: House of Horror Promos,35s,1,1,,
+"Toby, Beastie Befriender",{2}{W},3.0,Legendary Creature — Human Wizard,"When Toby enters, create a 4/4 white Beast creature token with ""This token can't attack or block alone.""
+As long as you control four or more creature tokens, creature tokens you control have flying.",W,W,rare,PDSK,Duskmourn: House of Horror Promos,35p,1,1,,
+"Toby, Beastie Befriender",{2}{W},3.0,Legendary Creature — Human Wizard,"When Toby enters, create a 4/4 white Beast creature token with ""This token can't attack or block alone.""
+As long as you control four or more creature tokens, creature tokens you control have flying.",W,W,rare,DSK,Duskmourn: House of Horror,356,1,1,,
+"Toby, Beastie Befriender",{2}{W},3.0,Legendary Creature — Human Wizard,"When Toby enters, create a 4/4 white Beast creature token with ""This token can't attack or block alone.""
+As long as you control four or more creature tokens, creature tokens you control have flying.",W,W,rare,DSK,Duskmourn: House of Horror,35,1,1,,
+"Tokka & Rahzar, Terrible Twos",{B/R}{B/R},2.0,Legendary Creature — Turtle Wolf Mutant,"This spell can't be countered.
+Menace
+Whenever a player casts a spell, if the amount of mana spent to cast it was less than its mana value, Tokka & Rahzar deal 3 damage to that player.","B,R","B,R",rare,TMT,Teenage Mutant Ninja Turtles,171,3,2,,Menace
+"Tokka & Rahzar, Terrible Twos",{B/R}{B/R},2.0,Legendary Creature — Turtle Wolf Mutant,"This spell can't be countered.
+Menace
+Whenever a player casts a spell, if the amount of mana spent to cast it was less than its mana value, Tokka & Rahzar deal 3 damage to that player.","B,R","B,R",rare,TMT,Teenage Mutant Ninja Turtles,252,3,2,,Menace
+Tolarian Terror,{6}{U},7.0,Creature — Serpent,"This spell costs {1} less to cast for each instant and sorcery card in your graveyard.
+Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)",U,U,common,FDN,Foundations,167,5,5,,Ward
+Tolarian Terror,{6}{U},7.0,Creature — Serpent,"This spell costs {1} less to cast for each instant and sorcery card in your graveyard.
+Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)",U,U,common,PLST,The List,DMU-72,5,5,,Ward
+Tolarian Terror,{6}{U},7.0,Creature — Serpent,"This spell costs {1} less to cast for each instant and sorcery card in your graveyard.
+Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)",U,U,common,DMU,Dominaria United,72,5,5,,Ward
+"Tolsimir, Midnight's Light",{2}{G}{W}{W},5.0,Legendary Creature — Elf Scout,"Lifelink
+When Tolsimir enters, create Voja Fenstalker, a legendary 5/5 green and white Wolf creature token with trample.
+Whenever a Wolf you control attacks, if Tolsimir attacked this combat, target creature an opponent controls blocks that Wolf this combat if able.","G,W","G,W",rare,MKM,Murders at Karlov Manor,236,3,2,,Lifelink
+"Tolsimir, Midnight's Light",{2}{G}{W}{W},5.0,Legendary Creature — Elf Scout,"Lifelink
+When Tolsimir enters, create Voja Fenstalker, a legendary 5/5 green and white Wolf creature token with trample.
+Whenever a Wolf you control attacks, if Tolsimir attacked this combat, target creature an opponent controls blocks that Wolf this combat if able.","G,W","G,W",rare,MKM,Murders at Karlov Manor,371,3,2,,Lifelink
+"Tolsimir, Midnight's Light",{2}{G}{W}{W},5.0,Legendary Creature — Elf Scout,"Lifelink
+When Tolsimir enters, create Voja Fenstalker, a legendary 5/5 green and white Wolf creature token with trample.
+Whenever a Wolf you control attacks, if Tolsimir attacked this combat, target creature an opponent controls blocks that Wolf this combat if able.","G,W","G,W",rare,PMKM,Murders at Karlov Manor Promos,236p,3,2,,Lifelink
+"Tolsimir, Midnight's Light",{2}{G}{W}{W},5.0,Legendary Creature — Elf Scout,"Lifelink
+When Tolsimir enters, create Voja Fenstalker, a legendary 5/5 green and white Wolf creature token with trample.
+Whenever a Wolf you control attacks, if Tolsimir attacked this combat, target creature an opponent controls blocks that Wolf this combat if able.","G,W","G,W",rare,PMKM,Murders at Karlov Manor Promos,236s,3,2,,Lifelink
+Tomb Trawler,{2},2.0,Artifact Creature — Golem,{2}: Put target card from your graveyard on the bottom of your library.,,,uncommon,OTJ,Outlaws of Thunder Junction,250,0,4,,
+"Tombstone, Career Criminal",{2}{B},3.0,Legendary Creature — Human Villain,"When Tombstone enters, return target Villain card from your graveyard to your hand.
+Villain spells you cast cost {1} less to cast.",B,B,uncommon,OM1,Through the Omenpaths,63,2,2,,
+"Tombstone, Career Criminal",{2}{B},3.0,Legendary Creature — Human Villain,"When Tombstone enters, return target Villain card from your graveyard to your hand.
+Villain spells you cast cost {1} less to cast.",B,B,uncommon,SPM,Marvel's Spider-Man,70,2,2,,
+"Tomik, Wielder of Law",{1}{W}{B},3.0,Legendary Creature — Human Advisor,"Affinity for planeswalkers (This spell costs {1} less to cast for each planeswalker you control.)
+Flying, vigilance
+Whenever an opponent attacks with creatures, if two or more of those creatures are attacking you and/or planeswalkers you control, that opponent loses 3 life and you draw a card.","B,W","B,W",mythic,MKM,Murders at Karlov Manor,431,2,4,,Flying;Affinity;Vigilance
+Tonberry,{B},1.0,Creature — Salamander Horror,"This creature enters tapped with a stun counter on it. (If it would become untapped, remove a stun counter from it instead.)
+Chef's Knife — During your turn, this creature has first strike and deathtouch.",B,B,uncommon,FIN,Final Fantasy,122,2,1,,Chef's Knife
+"Toph, Hardheaded Teacher",{2}{R}{G},4.0,Legendary Creature — Human Warrior Ally,"When Toph enters, you may discard a card. If you do, return target instant or sorcery card from your graveyard to your hand.
+Whenever you cast a spell, earthbend 1. If that spell is a Lesson, put an additional +1/+1 counter on that land. (Target land you control becomes a 0/0 creature with haste that's still a land. Put a +1/+1 counter on it. When it dies or is exiled, return it to the battlefield tapped.)","G,R","G,R",rare,TLA,Avatar: The Last Airbender,384,3,4,,Earthbend
+"Toph, Hardheaded Teacher",{2}{R}{G},4.0,Legendary Creature — Human Warrior Ally,"When Toph enters, you may discard a card. If you do, return target instant or sorcery card from your graveyard to your hand.
+Whenever you cast a spell, earthbend 1. If that spell is a Lesson, put an additional +1/+1 counter on that land. (Target land you control becomes a 0/0 creature with haste that's still a land. Put a +1/+1 counter on it. When it dies or is exiled, return it to the battlefield tapped.)","G,R","G,R",rare,PTLA,Avatar: The Last Airbender Promos,246s,3,4,,Earthbend
+"Toph, Hardheaded Teacher",{2}{R}{G},4.0,Legendary Creature — Human Warrior Ally,"When Toph enters, you may discard a card. If you do, return target instant or sorcery card from your graveyard to your hand.
+Whenever you cast a spell, earthbend 1. If that spell is a Lesson, put an additional +1/+1 counter on that land. (Target land you control becomes a 0/0 creature with haste that's still a land. Put a +1/+1 counter on it. When it dies or is exiled, return it to the battlefield tapped.)","G,R","G,R",rare,TLA,Avatar: The Last Airbender,246,3,4,,Earthbend
+"Toph, the Blind Bandit",{2}{G},3.0,Legendary Creature — Human Warrior Ally,"When Toph enters, earthbend 2. (Target land you control becomes a 0/0 creature with haste that's still a land. Put two +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)
+Toph's power is equal to the number of +1/+1 counters on lands you control.",G,G,uncommon,TLA,Avatar: The Last Airbender,198,*,3,,Earthbend
+"Toph, the First Metalbender",{1}{R}{G}{W},4.0,Legendary Creature — Human Warrior Ally,"Nontoken artifacts you control are lands in addition to their other types. (They don't gain the ability to {T} for mana.)
+At the beginning of your end step, earthbend 2. (Target land you control becomes a 0/0 creature with haste that's still a land. Put two +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)","G,R,W","G,R,W",rare,TLA,Avatar: The Last Airbender,362,3,3,,Earthbend
+"Toph, the First Metalbender",{1}{R}{G}{W},4.0,Legendary Creature — Human Warrior Ally,"Nontoken artifacts you control are lands in addition to their other types. (They don't gain the ability to {T} for mana.)
+At the beginning of your end step, earthbend 2. (Target land you control becomes a 0/0 creature with haste that's still a land. Put two +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)","G,R,W","G,R,W",rare,TLA,Avatar: The Last Airbender,247,3,3,,Earthbend
+"Toph, the First Metalbender",{1}{R}{G}{W},4.0,Legendary Creature — Human Warrior Ally,"Nontoken artifacts you control are lands in addition to their other types. (They don't gain the ability to {T} for mana.)
+At the beginning of your end step, earthbend 2. (Target land you control becomes a 0/0 creature with haste that's still a land. Put two +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)","G,R,W","G,R,W",rare,TLA,Avatar: The Last Airbender,353,3,3,,Earthbend
+"Toph, the First Metalbender",{1}{R}{G}{W},4.0,Legendary Creature — Human Warrior Ally,"Nontoken artifacts you control are lands in addition to their other types. (They don't gain the ability to {T} for mana.)
+At the beginning of your end step, earthbend 2. (Target land you control becomes a 0/0 creature with haste that's still a land. Put two +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)","G,R,W","G,R,W",rare,PTLA,Avatar: The Last Airbender Promos,247s,3,3,,Earthbend
+Topiary Panther,{4}{G}{G},6.0,Creature — Plant Cat,"Trample
+Basic landcycling {1}{G} ({1}{G}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)",G,G,common,MKM,Murders at Karlov Manor,179,6,5,,Landcycling;Trample;Basic landcycling;Typecycling;Cycling
+"Torgal, A Fine Hound",{1}{G},2.0,Legendary Creature — Wolf,"Whenever you cast your first Human creature spell each turn, that creature enters with an additional +1/+1 counter on it for each Dog and/or Wolf you control.
+{T}: Add one mana of any color.",G,G,uncommon,FIN,Final Fantasy,208,2,2,,
+"Torgal, A Fine Hound",{1}{G},2.0,Legendary Creature — Wolf,"Whenever you cast your first Human creature spell each turn, that creature enters with an additional +1/+1 counter on it for each Dog and/or Wolf you control.
+{T}: Add one mana of any color.",G,G,uncommon,FIN,Final Fantasy,345,2,2,,
+"Torgal, A Fine Hound",{1}{G},2.0,Legendary Creature — Wolf,"Whenever you cast your first Human creature spell each turn, that creature enters with an additional +1/+1 counter on it for each Dog and/or Wolf you control.
+{T}: Add one mana of any color.",G,G,uncommon,FIN,Final Fantasy,474,2,2,,
+"Totentanz, Swarm Piper",{1}{B}{R},3.0,Legendary Creature — Human Warlock Bard,"Whenever Totentanz or another nontoken creature you control dies, create a 1/1 black Rat creature token with ""This token can't block.""
+{1}{B}: Target attacking Rat you control gains deathtouch until end of turn.","B,R","B,R",uncommon,WOE,Wilds of Eldraine,216,2,3,,
+Tough Cookie,{1}{G},2.0,Artifact Creature — Food Golem,"When this creature enters, create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this token: You gain 3 life."")
+{2}{G}: Until end of turn, target noncreature artifact you control becomes a 4/4 artifact creature.
+{2}, {T}, Sacrifice this creature: You gain 3 life.",G,G,uncommon,J25,Foundations Jumpstart,731,2,2,,Food
+Tough Cookie,{1}{G},2.0,Artifact Creature — Food Golem,"When this creature enters, create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this token: You gain 3 life."")
+{2}{G}: Until end of turn, target noncreature artifact you control becomes a 4/4 artifact creature.
+{2}, {T}, Sacrifice this creature: You gain 3 life.",G,G,uncommon,WOE,Wilds of Eldraine,193,2,2,,Food
+Town Greeter,{1}{G},2.0,Creature — Human Citizen,"When this creature enters, mill four cards. You may put a land card from among them into your hand. If you put a Town card into your hand this way, you gain 2 life. (To mill four cards, a player puts the top four cards of their library into their graveyard.)",G,G,common,FIN,Final Fantasy,209,1,1,,Mill
+Trade Route Envoy,{3}{G},4.0,Creature — Dog Soldier,"When this creature enters, draw a card if you control a creature with a counter on it. If you don't draw a card this way, put a +1/+1 counter on this creature.",G,G,common,TDM,Tarkir: Dragonstorm,163,4,3,,
+Tragic Banshee,{4}{B},5.0,Creature — Spirit,"Morbid — When this creature enters, target creature an opponent controls gets -1/-1 until end of turn. If a creature died this turn, that creature gets -13/-13 until end of turn instead.",B,B,uncommon,FDN,Foundations,73,5,3,,Morbid
+Trained Arynx,{1}{W},2.0,Creature — Cat Beast Mount,"Whenever this creature attacks while saddled, it gains first strike until end of turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+Saddle 2 (Tap any number of other creatures you control with total power 2 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",W,W,common,OTJ,Outlaws of Thunder Junction,36,3,1,,Saddle;Scry
+Transdimensional Bovine,{2}{G},3.0,Creature — Ox Avatar,"Flying
+{T}: Add two mana of any one color.",G,G,rare,TMT,Teenage Mutant Ninja Turtles,274,0,4,,Flying
+Transdimensional Bovine,{2}{G},3.0,Creature — Ox Avatar,"Flying
+{T}: Add two mana of any one color.",G,G,rare,TMT,Teenage Mutant Ninja Turtles,134,0,4,,Flying
+Transit Mage,{2}{U},3.0,Creature — Human Wizard,"When this creature enters, you may search your library for an artifact card with mana value 4 or 5, reveal it, put it into your hand, then shuffle.",U,U,uncommon,DFT,Aetherdrift,70,2,2,,
+Traveling Botanist,{1}{G},2.0,Creature — Dog Scout,"Whenever this creature becomes tapped, look at the top card of your library. If it's a land card, you may reveal it and put it into your hand. If you don't put the card into your hand, you may put it into your graveyard.",G,G,uncommon,TDM,Tarkir: Dragonstorm,164,2,3,,
+Traveling Chocobo,{2}{G},3.0,Creature — Bird,"You may look at the top card of your library any time.
+You may play lands and cast Bird spells from the top of your library.
+If a land or Bird you control entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.",G,G,mythic,FIN,Final Fantasy,551c,3,2,,
+Traveling Chocobo,{2}{G},3.0,Creature — Bird,"You may look at the top card of your library any time.
+You may play lands and cast Bird spells from the top of your library.
+If a land or Bird you control entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.",G,G,mythic,FIN,Final Fantasy,210,3,2,,
+Traveling Chocobo,{2}{G},3.0,Creature — Bird,"You may look at the top card of your library any time.
+You may play lands and cast Bird spells from the top of your library.
+If a land or Bird you control entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.",G,G,mythic,FIN,Final Fantasy,406,3,2,,
+Traveling Chocobo,{2}{G},3.0,Creature — Bird,"You may look at the top card of your library any time.
+You may play lands and cast Bird spells from the top of your library.
+If a land or Bird you control entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.",G,G,mythic,FIN,Final Fantasy,551f,3,2,,
+Traveling Chocobo,{2}{G},3.0,Creature — Bird,"You may look at the top card of your library any time.
+You may play lands and cast Bird spells from the top of your library.
+If a land or Bird you control entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.",G,G,mythic,FIN,Final Fantasy,551,3,2,,
+Traveling Chocobo,{2}{G},3.0,Creature — Bird,"You may look at the top card of your library any time.
+You may play lands and cast Bird spells from the top of your library.
+If a land or Bird you control entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.",G,G,mythic,FIN,Final Fantasy,551a,3,2,,
+Traveling Chocobo,{2}{G},3.0,Creature — Bird,"You may look at the top card of your library any time.
+You may play lands and cast Bird spells from the top of your library.
+If a land or Bird you control entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.",G,G,mythic,PFIN,Final Fantasy Promos,210s,3,2,,
+Traveling Chocobo,{2}{G},3.0,Creature — Bird,"You may look at the top card of your library any time.
+You may play lands and cast Bird spells from the top of your library.
+If a land or Bird you control entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.",G,G,mythic,FIN,Final Fantasy,551b,3,2,,
+Traveling Chocobo,{2}{G},3.0,Creature — Bird,"You may look at the top card of your library any time.
+You may play lands and cast Bird spells from the top of your library.
+If a land or Bird you control entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.",G,G,mythic,FIN,Final Fantasy,551d,3,2,,
+Traveling Chocobo,{2}{G},3.0,Creature — Bird,"You may look at the top card of your library any time.
+You may play lands and cast Bird spells from the top of your library.
+If a land or Bird you control entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.",G,G,mythic,FIN,Final Fantasy,568,3,2,,
+Treasure Dredger,{1}{B},2.0,Creature — Human Rogue,"{1}, {T}, Pay 1 life: Create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")",B,B,uncommon,OTJ,Outlaws of Thunder Junction,110,2,2,,Treasure
+Treeguard Duo,{3}{G},4.0,Creature — Frog Rabbit,"When this creature enters, until end of turn, target creature you control gains vigilance and gets +X/+X, where X is the number of creatures you control.",G,G,common,BLB,Bloomburrow,200,3,4,,
+Treetop Freedom Fighters,{2}{R},3.0,Creature — Human Rebel Ally,"Haste
+When this creature enters, create a 1/1 white Ally creature token.",R,R,common,TLA,Avatar: The Last Airbender,156,2,1,,Haste
+Treetop Sentries,{3}{G},4.0,Creature — Squirrel Archer,"Reach
+When this creature enters, you may forage. If you do, draw a card. (To forage, exile three cards from your graveyard or sacrifice a Food.)",G,G,common,BLB,Bloomburrow,201,2,4,,Forage;Reach
+Treetop Snarespinner,{3}{G},4.0,Creature — Spider,"Reach (This creature can block creatures with flying.)
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+{2}{G}: Put a +1/+1 counter on target creature you control. Activate only as a sorcery.",G,G,common,FDN,Foundations,114,1,4,,Reach;Deathtouch
+Tributary Vaulter,{2}{W},3.0,Creature — Merfolk Warrior,"Flying
+Whenever this creature becomes tapped, another target Merfolk you control gets +2/+0 until end of turn.",W,W,common,ECL,Lorwyn Eclipsed,40,1,3,,Flying
+Triceraton Commander,{X}{X}{W}{W},2.0,Creature — Dinosaur Soldier,"Flying
+Whenever this creature attacks, Dinosaurs you control other than this creature get +1/+1 and gain flying until end of turn.
+When this creature enters, create X 2/2 white Dinosaur Soldier creature tokens.",W,W,mythic,TMT,Teenage Mutant Ninja Turtles,25,2,2,,Flying
+Triceraton Commander,{X}{X}{W}{W},2.0,Creature — Dinosaur Soldier,"Flying
+Whenever this creature attacks, Dinosaurs you control other than this creature get +1/+1 and gain flying until end of turn.
+When this creature enters, create X 2/2 white Dinosaur Soldier creature tokens.",W,W,mythic,TMT,Teenage Mutant Ninja Turtles,226,2,2,,Flying
+"Trostani, Three Whispers",{G}{G/W}{W},3.0,Legendary Creature — Dryad,"{1}{G}: Target creature gains deathtouch until end of turn.
+{G/W}: Target creature gains vigilance until end of turn.
+{2}{W}: Target creature gains double strike until end of turn.","G,W","G,W",mythic,MKM,Murders at Karlov Manor,388,4,4,,
+"Trostani, Three Whispers",{G}{G/W}{W},3.0,Legendary Creature — Dryad,"{1}{G}: Target creature gains deathtouch until end of turn.
+{G/W}: Target creature gains vigilance until end of turn.
+{2}{W}: Target creature gains double strike until end of turn.","G,W","G,W",mythic,MKM,Murders at Karlov Manor,238,4,4,,
+"Trostani, Three Whispers",{G}{G/W}{W},3.0,Legendary Creature — Dryad,"{1}{G}: Target creature gains deathtouch until end of turn.
+{G/W}: Target creature gains vigilance until end of turn.
+{2}{W}: Target creature gains double strike until end of turn.","G,W","G,W",mythic,PMKM,Murders at Karlov Manor Promos,238s,4,4,,
+"Trostani, Three Whispers",{G}{G/W}{W},3.0,Legendary Creature — Dryad,"{1}{G}: Target creature gains deathtouch until end of turn.
+{G/W}: Target creature gains vigilance until end of turn.
+{2}{W}: Target creature gains double strike until end of turn.","G,W","G,W",mythic,MKM,Murders at Karlov Manor,372,4,4,,
+"Trostani, Three Whispers",{G}{G/W}{W},3.0,Legendary Creature — Dryad,"{1}{G}: Target creature gains deathtouch until end of turn.
+{G/W}: Target creature gains vigilance until end of turn.
+{2}{W}: Target creature gains double strike until end of turn.","G,W","G,W",mythic,MKM,Murders at Karlov Manor,322z,4,4,,
+"Trostani, Three Whispers",{G}{G/W}{W},3.0,Legendary Creature — Dryad,"{1}{G}: Target creature gains deathtouch until end of turn.
+{G/W}: Target creature gains vigilance until end of turn.
+{2}{W}: Target creature gains double strike until end of turn.","G,W","G,W",mythic,MKM,Murders at Karlov Manor,322,4,4,,
+"Trostani, Three Whispers",{G}{G/W}{W},3.0,Legendary Creature — Dryad,"{1}{G}: Target creature gains deathtouch until end of turn.
+{G/W}: Target creature gains vigilance until end of turn.
+{2}{W}: Target creature gains double strike until end of turn.","G,W","G,W",mythic,PMKM,Murders at Karlov Manor Promos,238p,4,4,,
+Troublemaker Ouphe,{1}{G},2.0,Creature — Ouphe,"Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
+When this creature enters, if it was bargained, exile target artifact or enchantment an opponent controls.",G,G,common,WOE,Wilds of Eldraine,194,2,2,,Bargain
+"Troyan, Gutsy Explorer",{1}{G}{U},3.0,Legendary Creature — Vedalken Scout,"{T}: Add {G}{U}. Spend this mana only to cast spells with mana value 5 or greater or spells with {X} in their mana costs.
+{U}, {T}: Draw a card, then discard a card.","G,U","G,U",uncommon,WOE,Wilds of Eldraine,217,1,3,,
+Trumpeting Carnosaur,{4}{R}{R},6.0,Creature — Dinosaur,"Trample
+When this creature enters, discover 5.
+{2}{R}, Discard this card: It deals 3 damage to target creature or planeswalker.",R,R,rare,LCI,The Lost Caverns of Ixalan,324,7,6,,Discover;Trample
+Trumpeting Carnosaur,{4}{R}{R},6.0,Creature — Dinosaur,"Trample
+When this creature enters, discover 5.
+{2}{R}, Discard this card: It deals 3 damage to target creature or planeswalker.",R,R,rare,PLCI,The Lost Caverns of Ixalan Promos,171p,7,6,,Discover;Trample
+Trumpeting Carnosaur,{4}{R}{R},6.0,Creature — Dinosaur,"Trample
+When this creature enters, discover 5.
+{2}{R}, Discard this card: It deals 3 damage to target creature or planeswalker.",R,R,rare,PLCI,The Lost Caverns of Ixalan Promos,171s,7,6,,Discover;Trample
+Trumpeting Carnosaur,{4}{R}{R},6.0,Creature — Dinosaur,"Trample
+When this creature enters, discover 5.
+{2}{R}, Discard this card: It deals 3 damage to target creature or planeswalker.",R,R,rare,LCI,The Lost Caverns of Ixalan,171,7,6,,Discover;Trample
+Trygon Predator,{1}{G}{U},3.0,Creature — Beast,"Flying
+Whenever this creature deals combat damage to a player, you may destroy target artifact or enchantment that player controls.","G,U","G,U",uncommon,C20,Commander 2020,232,2,3,,Flying
+Trygon Predator,{1}{G}{U},3.0,Creature — Beast,"Flying
+Whenever this creature deals combat damage to a player, you may destroy target artifact or enchantment that player controls.","G,U","G,U",uncommon,DSC,Duskmourn: House of Horror Commander,238,2,3,,Flying
+Trygon Predator,{1}{G}{U},3.0,Creature — Beast,"Flying
+Whenever this creature deals combat damage to a player, you may destroy target artifact or enchantment that player controls.","G,U","G,U",uncommon,C21,Commander 2021,231,2,3,,Flying
+Trygon Predator,{1}{G}{U},3.0,Creature — Beast,"Flying
+Whenever this creature deals combat damage to a player, you may destroy target artifact or enchantment that player controls.","G,U","G,U",uncommon,MMA,Modern Masters,185,2,3,,Flying
+Trygon Predator,{1}{G}{U},3.0,Creature — Beast,"Flying
+Whenever this creature deals combat damage to a player, you may destroy target artifact or enchantment that player controls.","G,U","G,U",uncommon,C15,Commander 2015,236,2,3,,Flying
+Trygon Predator,{1}{G}{U},3.0,Creature — Beast,"Flying
+Whenever this creature deals combat damage to a player, you may destroy target artifact or enchantment that player controls.","G,U","G,U",uncommon,OTC,Outlaws of Thunder Junction Commander,246,2,3,,Flying
+Trygon Predator,{1}{G}{U},3.0,Creature — Beast,"Flying
+Whenever this creature deals combat damage to a player, you may destroy target artifact or enchantment that player controls.","G,U","G,U",uncommon,EMA,Eternal Masters,209,2,3,,Flying
+Trygon Predator,{1}{G}{U},3.0,Creature — Beast,"Flying
+Whenever this creature deals combat damage to a player, you may destroy target artifact or enchantment that player controls.","G,U","G,U",uncommon,FDN,Foundations,667,2,3,,Flying
+Trygon Predator,{1}{G}{U},3.0,Creature — Beast,"Flying
+Whenever this creature deals combat damage to a player, you may destroy target artifact or enchantment that player controls.","G,U","G,U",uncommon,PLST,The List,GK2-125,2,3,,Flying
+Trygon Predator,{1}{G}{U},3.0,Creature — Beast,"Flying
+Whenever this creature deals combat damage to a player, you may destroy target artifact or enchantment that player controls.","G,U","G,U",special,TSR,Time Spiral Remastered,389,2,3,,Flying
+Trygon Predator,{1}{G}{U},3.0,Creature — Beast,"Flying
+Whenever this creature deals combat damage to a player, you may destroy target artifact or enchantment that player controls.","G,U","G,U",uncommon,GK2,RNA Guild Kit,125,2,3,,Flying
+Trygon Predator,{1}{G}{U},3.0,Creature — Beast,"Flying
+Whenever this creature deals combat damage to a player, you may destroy target artifact or enchantment that player controls.","G,U","G,U",uncommon,DIS,Dissension,133,2,3,,Flying
+"Trystan, Callous Cultivator // Trystan, Penitent Culler",,3.0,Legendary Creature — Elf Druid // Legendary Creature — Elf Warlock,,,"B,G",rare,ECL,Lorwyn Eclipsed,199,,,,Transform;Mill;Deathtouch
+"Trystan, Callous Cultivator // Trystan, Penitent Culler",,3.0,Legendary Creature — Elf Druid // Legendary Creature — Elf Warlock,,,"B,G",rare,ECL,Lorwyn Eclipsed,291,,,,Transform;Mill;Deathtouch
+"Trystan, Callous Cultivator // Trystan, Penitent Culler",,3.0,Legendary Creature — Elf Druid // Legendary Creature — Elf Warlock,,,"B,G",rare,PECL,Lorwyn Eclipsed Promos,199p,,,,Transform;Mill;Deathtouch
+Tuinvale Guide,{3}{W},4.0,Creature — Faerie Scout,"Flying
+Celebration — This creature gets +1/+0 and has lifelink as long as two or more nonland permanents entered the battlefield under your control this turn.",W,W,common,WOE,Wilds of Eldraine,36,2,3,,Flying;Celebration
+Tunnel Rats,{1}{B},2.0,Creature — Rat,{4}{B}: Return this card from your graveyard to the battlefield tapped.,B,B,common,TMT,Teenage Mutant Ninja Turtles,84,2,2,,
+Tunnel Surveyor,{2}{U},3.0,Creature — Human Detective,"When this creature enters, create a 1/1 white Glimmer enchantment creature token.",U,U,common,DSK,Duskmourn: House of Horror,76,2,2,,
+Tunnel Tipster,{1}{G},2.0,Creature — Mole Scout,"At the beginning of your end step, if a face-down creature entered the battlefield under your control this turn, put a +1/+1 counter on this creature.
+{T}: Add {G}.",G,G,common,MKM,Murders at Karlov Manor,180,1,1,,
+Turncoat Kunoichi,{2}{W},3.0,Creature — Mutant Ninja Fox,"Sneak {2}{W}{B} (You may cast this spell for {2}{W}{B} if you also return an unblocked attacker you control to hand during the declare blockers step. It enters tapped and attacking.)
+When this creature enters, choose target creature an opponent controls. Exile that creature until this creature leaves the battlefield. If this creature's sneak cost was paid, instead exile the chosen creature.",W,"B,W",rare,TMT,Teenage Mutant Ninja Turtles,26,3,2,,Sneak
+Turncoat Kunoichi,{2}{W},3.0,Creature — Mutant Ninja Fox,"Sneak {2}{W}{B} (You may cast this spell for {2}{W}{B} if you also return an unblocked attacker you control to hand during the declare blockers step. It enters tapped and attacking.)
+When this creature enters, choose target creature an opponent controls. Exile that creature until this creature leaves the battlefield. If this creature's sneak cost was paid, instead exile the chosen creature.",W,"B,W",rare,TMT,Teenage Mutant Ninja Turtles,260,3,2,,Sneak
+Turtle-Duck,{G},1.0,Creature — Turtle Bird,"{3}: Until end of turn, this creature has base power 4 and gains trample.",G,G,common,TLA,Avatar: The Last Airbender,200,0,4,,
+Twilight Diviner,{2}{B},3.0,Creature — Elf Cleric,"When this creature enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+Whenever one or more other creatures you control enter, if they entered or were cast from a graveyard, create a token that's a copy of one of them. This ability triggers only once each turn.",B,B,rare,ECL,Lorwyn Eclipsed,315,3,3,,Surveil
+Twilight Diviner,{2}{B},3.0,Creature — Elf Cleric,"When this creature enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+Whenever one or more other creatures you control enter, if they entered or were cast from a graveyard, create a token that's a copy of one of them. This ability triggers only once each turn.",B,B,rare,ECL,Lorwyn Eclipsed,122,3,3,,Surveil
+Twilight Diviner,{2}{B},3.0,Creature — Elf Cleric,"When this creature enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+Whenever one or more other creatures you control enter, if they entered or were cast from a graveyard, create a token that's a copy of one of them. This ability triggers only once each turn.",B,B,rare,PECL,Lorwyn Eclipsed Promos,122p,3,3,,Surveil
+Twinblade Paladin,{3}{W},4.0,Creature — Human Knight,"Whenever you gain life, put a +1/+1 counter on this creature.
+As long as you have 25 or more life, this creature has double strike. (It deals both first-strike and regular combat damage.)",W,W,uncommon,PLST,The List,M20-285,3,3,,
+Twinblade Paladin,{3}{W},4.0,Creature — Human Knight,"Whenever you gain life, put a +1/+1 counter on this creature.
+As long as you have 25 or more life, this creature has double strike. (It deals both first-strike and regular combat damage.)",W,W,uncommon,FDN,Foundations,503,3,3,,
+Twinblade Paladin,{3}{W},4.0,Creature — Human Knight,"Whenever you gain life, put a +1/+1 counter on this creature.
+As long as you have 25 or more life, this creature has double strike. (It deals both first-strike and regular combat damage.)",W,W,uncommon,M20,Core Set 2020,285,3,3,,
+Twinflame Travelers,{2}{U}{R},4.0,Creature — Elemental Sorcerer,"Flying
+If a triggered ability of another Elemental you control triggers, it triggers an additional time.","R,U","R,U",uncommon,ECL,Lorwyn Eclipsed,248,3,3,,Flying
+Twinflame Travelers,{2}{U}{R},4.0,Creature — Elemental Sorcerer,"Flying
+If a triggered ability of another Elemental you control triggers, it triggers an additional time.","R,U","R,U",uncommon,ECL,Lorwyn Eclipsed,345,3,3,,Flying
+Twinflame Tyrant,{3}{R}{R},5.0,Creature — Dragon,"Flying
+If a source you control would deal damage to an opponent or a permanent an opponent controls, it deals double that damage instead.",R,R,mythic,FDN,Foundations,469,3,5,,Flying
+Twinflame Tyrant,{3}{R}{R},5.0,Creature — Dragon,"Flying
+If a source you control would deal damage to an opponent or a permanent an opponent controls, it deals double that damage instead.",R,R,mythic,FDN,Foundations,97,3,5,,Flying
+Twinflame Tyrant,{3}{R}{R},5.0,Creature — Dragon,"Flying
+If a source you control would deal damage to an opponent or a permanent an opponent controls, it deals double that damage instead.",R,R,mythic,FDN,Foundations,427,3,5,,Flying
+Twinflame Tyrant,{3}{R}{R},5.0,Creature — Dragon,"Flying
+If a source you control would deal damage to an opponent or a permanent an opponent controls, it deals double that damage instead.",R,R,mythic,FDN,Foundations,437,3,5,,Flying
+Twinflame Tyrant,{3}{R}{R},5.0,Creature — Dragon,"Flying
+If a source you control would deal damage to an opponent or a permanent an opponent controls, it deals double that damage instead.",R,R,mythic,PFDN,Foundations Promos,97p,3,5,,Flying
+Twinflame Tyrant,{3}{R}{R},5.0,Creature — Dragon,"Flying
+If a source you control would deal damage to an opponent or a permanent an opponent controls, it deals double that damage instead.",R,R,mythic,FDN,Foundations,333,3,5,,Flying
+Twinflame Tyrant,{3}{R}{R},5.0,Creature — Dragon,"Flying
+If a source you control would deal damage to an opponent or a permanent an opponent controls, it deals double that damage instead.",R,R,mythic,PFDN,Foundations Promos,97s,3,5,,Flying
+Twinflame Tyrant,{3}{R}{R},5.0,Creature — Dragon,"Flying
+If a source you control would deal damage to an opponent or a permanent an opponent controls, it deals double that damage instead.",R,R,mythic,FDN,Foundations,395,3,5,,Flying
+Twining Twins // Swift Spiral,{2}{U}{U} // {1}{W},4.0,Creature — Faerie Wizard // Instant — Adventure,,U,"U,W",rare,WOE,Wilds of Eldraine,240,4,4,,Flying;Vigilance;Ward
+Twining Twins // Swift Spiral,{2}{U}{U} // {1}{W},4.0,Creature — Faerie Wizard // Instant — Adventure,,U,"U,W",rare,WOE,Wilds of Eldraine,296,4,4,,Flying;Vigilance;Ward
+Twining Twins // Swift Spiral,{2}{U}{U} // {1}{W},4.0,Creature — Faerie Wizard // Instant — Adventure,,U,"U,W",rare,PWOE,Wilds of Eldraine Promos,240p,4,4,,Flying;Vigilance;Ward
+Twining Twins // Swift Spiral,{2}{U}{U} // {1}{W},4.0,Creature — Faerie Wizard // Instant — Adventure,,U,"U,W",rare,PWOE,Wilds of Eldraine Promos,240s,4,4,,Flying;Vigilance;Ward
+Twinmaw Stormbrood // Charring Bite,{5}{W} // {1}{R},6.0,Creature — Dragon // Sorcery — Omen,,W,"R,W",uncommon,TDM,Tarkir: Dragonstorm,232,5,4,,Flying
+Twinmaw Stormbrood // Charring Bite,{5}{W} // {1}{R},6.0,Creature — Dragon // Sorcery — Omen,,W,"R,W",uncommon,TDM,Tarkir: Dragonstorm,320,5,4,,Flying
+Twisted Sewer-Witch,{3}{B}{B},5.0,Creature — Human Warlock,"When this creature enters, create a 1/1 black Rat creature token with ""This creature can't block."" Then for each Rat you control, create a Wicked Role token attached to that Rat. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1. When this token is put into a graveyard, each opponent loses 1 life.)",B,B,uncommon,WOE,Wilds of Eldraine,114,3,4,,Role token
+Twitching Doll,{1}{G},2.0,Artifact Creature — Spider Toy,"{T}: Add one mana of any color. Put a nest counter on this creature.
+{T}, Sacrifice this creature: Create a 2/2 green Spider creature token with reach for each counter on this creature. Activate only as a sorcery.",G,G,rare,DSK,Duskmourn: House of Horror,384,2,2,,
+Twitching Doll,{1}{G},2.0,Artifact Creature — Spider Toy,"{T}: Add one mana of any color. Put a nest counter on this creature.
+{T}, Sacrifice this creature: Create a 2/2 green Spider creature token with reach for each counter on this creature. Activate only as a sorcery.",G,G,rare,DSK,Duskmourn: House of Horror,417,2,2,,
+Twitching Doll,{1}{G},2.0,Artifact Creature — Spider Toy,"{T}: Add one mana of any color. Put a nest counter on this creature.
+{T}, Sacrifice this creature: Create a 2/2 green Spider creature token with reach for each counter on this creature. Activate only as a sorcery.",G,G,rare,DSK,Duskmourn: House of Horror,201,2,2,,
+Twitching Doll,{1}{G},2.0,Artifact Creature — Spider Toy,"{T}: Add one mana of any color. Put a nest counter on this creature.
+{T}, Sacrifice this creature: Create a 2/2 green Spider creature token with reach for each counter on this creature. Activate only as a sorcery.",G,G,rare,PDSK,Duskmourn: House of Horror Promos,201p,2,2,,
+Twitching Doll,{1}{G},2.0,Artifact Creature — Spider Toy,"{T}: Add one mana of any color. Put a nest counter on this creature.
+{T}, Sacrifice this creature: Create a 2/2 green Spider creature token with reach for each counter on this creature. Activate only as a sorcery.",G,G,rare,PDSK,Duskmourn: House of Horror Promos,201s,2,2,,
+Two-Headed Hunter // Twice the Rage,{4}{R} // {1}{R},5.0,Creature — Giant // Instant — Adventure,,R,R,uncommon,WOE,Wilds of Eldraine,155,5,4,,Menace
+"Ty Lee, Artful Acrobat",{2}{R},3.0,Legendary Creature — Human Performer,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever Ty Lee attacks, you may pay {1}. When you do, target creature can't block this turn.",R,R,uncommon,TLA,Avatar: The Last Airbender,158,3,2,,Prowess
+"Ty Lee, Chi Blocker",{2}{U},3.0,Legendary Creature — Human Performer Ally,"Flash
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+When Ty Lee enters, tap up to one target creature. It doesn't untap during its controller's untap step for as long as you control Ty Lee.",U,U,rare,TLA,Avatar: The Last Airbender,76,2,1,,Prowess;Flash
+"Ty Lee, Chi Blocker",{2}{U},3.0,Legendary Creature — Human Performer Ally,"Flash
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+When Ty Lee enters, tap up to one target creature. It doesn't untap during its controller's untap step for as long as you control Ty Lee.",U,U,rare,TLA,Avatar: The Last Airbender,371,2,1,,Prowess;Flash
+"Ty Lee, Chi Blocker",{2}{U},3.0,Legendary Creature — Human Performer Ally,"Flash
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+When Ty Lee enters, tap up to one target creature. It doesn't untap during its controller's untap step for as long as you control Ty Lee.",U,U,rare,PTLA,Avatar: The Last Airbender Promos,76s,2,1,,Prowess;Flash
+"Tyrox, Saurid Tyrant",{1}{R},2.0,Legendary Creature — Dinosaur Warrior,,R,R,uncommon,DFT,Aetherdrift,149,4,1,,
+"Tyvar, the Pummeler",{1}{G}{G},3.0,Legendary Creature — Elf Warrior,"Tap another untapped creature you control: Tyvar gains indestructible until end of turn. Tap it.
+{3}{G}{G}: Creatures you control get +X/+X until end of turn, where X is the greatest power among creatures you control.",G,G,mythic,DSK,Duskmourn: House of Horror,353,3,3,,
+"Tyvar, the Pummeler",{1}{G}{G},3.0,Legendary Creature — Elf Warrior,"Tap another untapped creature you control: Tyvar gains indestructible until end of turn. Tap it.
+{3}{G}{G}: Creatures you control get +X/+X until end of turn, where X is the greatest power among creatures you control.",G,G,mythic,PDSK,Duskmourn: House of Horror Promos,202s,3,3,,
+"Tyvar, the Pummeler",{1}{G}{G},3.0,Legendary Creature — Elf Warrior,"Tap another untapped creature you control: Tyvar gains indestructible until end of turn. Tap it.
+{3}{G}{G}: Creatures you control get +X/+X until end of turn, where X is the greatest power among creatures you control.",G,G,mythic,DSK,Duskmourn: House of Horror,202,3,3,,
+"Tyvar, the Pummeler",{1}{G}{G},3.0,Legendary Creature — Elf Warrior,"Tap another untapped creature you control: Tyvar gains indestructible until end of turn. Tap it.
+{3}{G}{G}: Creatures you control get +X/+X until end of turn, where X is the greatest power among creatures you control.",G,G,mythic,PDSK,Duskmourn: House of Horror Promos,202p,3,3,,
+"Tyvar, the Pummeler",{1}{G}{G},3.0,Legendary Creature — Elf Warrior,"Tap another untapped creature you control: Tyvar gains indestructible until end of turn. Tap it.
+{3}{G}{G}: Creatures you control get +X/+X until end of turn, where X is the greatest power among creatures you control.",G,G,mythic,DSK,Duskmourn: House of Horror,408,3,3,,

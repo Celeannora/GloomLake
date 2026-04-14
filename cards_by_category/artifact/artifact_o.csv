@@ -1,0 +1,5 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Omni-Cheese Pizza,{2},2.0,Artifact — Food,"When this artifact enters, draw a card.
+{1}, {T}, Sacrifice this artifact: Add one mana of any color.
+{2}, {T}, Sacrifice this artifact: You gain 3 life.",,,common,TMT,Teenage Mutant Ninja Turtles,176,,,,
+Orazca Puzzle-Door,{U},1.0,Artifact,"{1}, {T}, Sacrifice this artifact: Look at the top two cards of your library. Put one of those cards into your hand and the other into your graveyard.",U,U,common,LCI,The Lost Caverns of Ixalan,68,,,,

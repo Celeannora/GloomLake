@@ -1,0 +1,213 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Abandon Attachments,{1}{U/R},2.0,Instant — Lesson,"You may discard a card. If you do, draw two cards.","R,U","R,U",common,TLA,Avatar: The Last Airbender,205,,,,
+Abrade,{1}{R},2.0,Instant,"Choose one —
+• Abrade deals 3 damage to target creature.
+• Destroy target artifact.",R,R,common,2XM,Double Masters,114,,,,
+Abrade,{1}{R},2.0,Instant,"Choose one —
+• Abrade deals 3 damage to target creature.
+• Destroy target artifact.",R,R,common,INR,Innistrad Remastered,311,,,,
+Abrade,{1}{R},2.0,Instant,"Choose one —
+• Abrade deals 3 damage to target creature.
+• Destroy target artifact.",R,R,uncommon,PRM,Magic Online Promos,65001,,,,
+Abrade,{1}{R},2.0,Instant,"Choose one —
+• Abrade deals 3 damage to target creature.
+• Destroy target artifact.",R,R,common,LCI,The Lost Caverns of Ixalan,131,,,,
+Abrade,{1}{R},2.0,Instant,"Choose one —
+• Abrade deals 3 damage to target creature.
+• Destroy target artifact.",R,R,uncommon,PHOU,Hour of Devastation Promos,83,,,,
+Abrade,{1}{R},2.0,Instant,"Choose one —
+• Abrade deals 3 damage to target creature.
+• Destroy target artifact.",R,R,uncommon,TDC,Tarkir: Dragonstorm Commander,203,,,,
+Abrade,{1}{R},2.0,Instant,"Choose one —
+• Abrade deals 3 damage to target creature.
+• Destroy target artifact.",R,R,uncommon,CMR,Commander Legends,659,,,,
+Abrade,{1}{R},2.0,Instant,"Choose one —
+• Abrade deals 3 damage to target creature.
+• Destroy target artifact.",R,R,uncommon,FDN,Foundations,188,,,,
+Abrade,{1}{R},2.0,Instant,"Choose one —
+• Abrade deals 3 damage to target creature.
+• Destroy target artifact.",R,R,rare,SLD,Secret Lair Drop,1425,,,,
+Abrade,{1}{R},2.0,Instant,"Choose one —
+• Abrade deals 3 damage to target creature.
+• Destroy target artifact.",R,R,uncommon,PLST,The List,HOU-83,,,,
+Abrade,{1}{R},2.0,Instant,"Choose one —
+• Abrade deals 3 damage to target creature.
+• Destroy target artifact.",R,R,uncommon,PRM,Magic Online Promos,86136,,,,
+Abrade,{1}{R},2.0,Instant,"Choose one —
+• Abrade deals 3 damage to target creature.
+• Destroy target artifact.",R,R,common,PLST,The List,2XM-114,,,,
+Abrade,{1}{R},2.0,Instant,"Choose one —
+• Abrade deals 3 damage to target creature.
+• Destroy target artifact.",R,R,uncommon,AKR,Amonkhet Remastered,136,,,,
+Abrade,{1}{R},2.0,Instant,"Choose one —
+• Abrade deals 3 damage to target creature.
+• Destroy target artifact.",R,R,uncommon,SCD,Starter Commander Decks,122,,,,
+Abrade,{1}{R},2.0,Instant,"Choose one —
+• Abrade deals 3 damage to target creature.
+• Destroy target artifact.",R,R,rare,SLD,Secret Lair Drop,2179,,,,
+Abrade,{1}{R},2.0,Instant,"Choose one —
+• Abrade deals 3 damage to target creature.
+• Destroy target artifact.",R,R,common,GN3,Game Night: Free-for-All,67,,,,
+Abrade,{1}{R},2.0,Instant,"Choose one —
+• Abrade deals 3 damage to target creature.
+• Destroy target artifact.",R,R,uncommon,HOU,Hour of Devastation,83,,,,
+Abrade,{1}{R},2.0,Instant,"Choose one —
+• Abrade deals 3 damage to target creature.
+• Destroy target artifact.",R,R,common,VOW,Innistrad: Crimson Vow,139,,,,
+Abrade,{1}{R},2.0,Instant,"Choose one —
+• Abrade deals 3 damage to target creature.
+• Destroy target artifact.",R,R,uncommon,FDN,Foundations,327,,,,
+Abrade,{1}{R},2.0,Instant,"Choose one —
+• Abrade deals 3 damage to target creature.
+• Destroy target artifact.",R,R,common,BLC,Bloomburrow Commander,191,,,,
+Abrade,{1}{R},2.0,Instant,"Choose one —
+• Abrade deals 3 damage to target creature.
+• Destroy target artifact.",R,R,common,CMM,Commander Masters,203,,,,
+Abrade,{1}{R},2.0,Instant,"Choose one —
+• Abrade deals 3 damage to target creature.
+• Destroy target artifact.",R,R,common,DBL,Innistrad: Double Feature,406,,,,
+Abrade,{1}{R},2.0,Instant,"Choose one —
+• Abrade deals 3 damage to target creature.
+• Destroy target artifact.",R,R,uncommon,BRC,The Brothers' War Commander,111,,,,
+Abrade,{1}{R},2.0,Instant,"Choose one —
+• Abrade deals 3 damage to target creature.
+• Destroy target artifact.",R,R,uncommon,CMR,Commander Legends,410,,,,
+Abrade,{1}{R},2.0,Instant,"Choose one —
+• Abrade deals 3 damage to target creature.
+• Destroy target artifact.",R,R,common,INR,Innistrad Remastered,139,,,,
+Accumulate Wisdom,{1}{U},2.0,Instant — Lesson,Look at the top three cards of your library. Put one of those cards into your hand and the rest on the bottom of your library in any order. Put each of those cards into your hand instead if there are three or more Lesson cards in your graveyard.,U,U,uncommon,TLA,Avatar: The Last Airbender,44,,,,
+Acrobatic Leap,{W},1.0,Instant,Target creature gets +1/+3 and gains flying until end of turn. Untap it.,W,W,common,LCI,The Lost Caverns of Ixalan,2,,,,
+Acrobatic Leap,{W},1.0,Instant,Target creature gets +1/+3 and gains flying until end of turn. Untap it.,W,W,common,TLE,Avatar: The Last Airbender Eternal,151,,,,
+Adamant Will,{1}{W},2.0,Instant,"Target creature gets +2/+2 and gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)",W,W,common,FDN,Foundations,488,,,,
+Adamant Will,{1}{W},2.0,Instant,"Target creature gets +2/+2 and gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)",W,W,common,DOM,Dominaria,2,,,,
+Adamant Will,{1}{W},2.0,Instant,"Target creature gets +2/+2 and gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)",W,W,common,DBL,Innistrad: Double Feature,268,,,,
+Adamant Will,{1}{W},2.0,Instant,"Target creature gets +2/+2 and gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)",W,W,common,VOW,Innistrad: Crimson Vow,1,,,,
+Adamant Will,{1}{W},2.0,Instant,"Target creature gets +2/+2 and gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)",W,W,common,PLST,The List,DOM-2,,,,
+Aetherize,{3}{U},4.0,Instant,Return all attacking creatures to their owner's hand.,U,U,uncommon,RVR,Ravnica Remastered,448,,,,
+Aetherize,{3}{U},4.0,Instant,Return all attacking creatures to their owner's hand.,U,U,uncommon,FDN,Foundations,151,,,,
+Aetherize,{3}{U},4.0,Instant,Return all attacking creatures to their owner's hand.,U,U,uncommon,C15,Commander 2015,85,,,,
+Aetherize,{3}{U},4.0,Instant,Return all attacking creatures to their owner's hand.,U,U,uncommon,GTC,Gatecrash,29,,,,
+Aetherize,{3}{U},4.0,Instant,Return all attacking creatures to their owner's hand.,U,U,uncommon,40K,"Warhammer 40,000 Commander",191,,,,
+Aetherize,{3}{U},4.0,Instant,Return all attacking creatures to their owner's hand.,U,U,uncommon,BLC,Bloomburrow Commander,161,,,,
+Aetherize,{3}{U},4.0,Instant,Return all attacking creatures to their owner's hand.,U,U,uncommon,IMA,Iconic Masters,40,,,,
+Aetherize,{3}{U},4.0,Instant,Return all attacking creatures to their owner's hand.,U,U,uncommon,LCC,The Lost Caverns of Ixalan Commander,142,,,,
+Aetherize,{3}{U},4.0,Instant,Return all attacking creatures to their owner's hand.,U,U,uncommon,PLST,The List,DDO-36,,,,
+Aetherize,{3}{U},4.0,Instant,Return all attacking creatures to their owner's hand.,U,U,rare,SLD,Secret Lair Drop,1667,,,,
+Aetherize,{3}{U},4.0,Instant,Return all attacking creatures to their owner's hand.,U,U,uncommon,DDO,Duel Decks: Elspeth vs. Kiora,36,,,,
+Aetherize,{3}{U},4.0,Instant,Return all attacking creatures to their owner's hand.,U,U,uncommon,ZNC,Zendikar Rising Commander,23,,,,
+Aetherize,{3}{U},4.0,Instant,Return all attacking creatures to their owner's hand.,U,U,uncommon,40K,"Warhammer 40,000 Commander",191★,,,,
+Aetherize,{3}{U},4.0,Instant,Return all attacking creatures to their owner's hand.,U,U,uncommon,SCD,Starter Commander Decks,42,,,,
+Airbender's Reversal,{1}{W},2.0,Instant — Lesson,"Choose one —
+• Destroy target attacking creature.
+• Airbend target creature you control. (Exile it. While it's exiled, its owner may cast it for {2} rather than its mana cost.)",W,W,uncommon,TLA,Avatar: The Last Airbender,7,,,,Airbend
+Airbending Lesson,{2}{W},3.0,Instant — Lesson,"Airbend target nonland permanent. (Exile it. While it's exiled, its owner may cast it for {2} rather than its mana cost.)
+Draw a card.",W,W,common,TLA,Avatar: The Last Airbender,8,,,,Airbend
+Airship Crash,{2}{G},3.0,Instant,"Destroy target artifact, enchantment, or creature with flying.
+Cycling {2} ({2}, Discard this card: Draw a card.)",G,G,common,FIN,Final Fantasy,171,,,,Cycling
+Alesha's Legacy,{1}{B},2.0,Instant,"Target creature you control gains deathtouch and indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)",B,B,common,TDM,Tarkir: Dragonstorm,72,,,,
+Allies at Last,{2}{G},3.0,Instant,"Affinity for Allies (This spell costs {1} less to cast for each Ally you control.)
+Up to two target creatures you control each deal damage equal to their power to target creature an opponent controls.",G,G,uncommon,TLA,Avatar: The Last Airbender,164,,,,Affinity
+Amazing Acrobatics,{1}{U}{U},3.0,Instant,"Choose one or both —
+• Counter target spell.
+• Tap one or two target creatures.",U,U,common,OM1,Through the Omenpaths,29,,,,
+Amazing Acrobatics,{1}{U}{U},3.0,Instant,"Choose one or both —
+• Counter target spell.
+• Tap one or two target creatures.",U,U,common,SPM,Marvel's Spider-Man,25,,,,
+An Offer You Can't Refuse,{U},1.0,Instant,"Counter target noncreature spell. Its controller creates two Treasure tokens. (They're artifacts with ""{T}, Sacrifice this token: Add one mana of any color."")",U,U,rare,SLP,Secret Lair Promo,7,,,,Treasure
+An Offer You Can't Refuse,{U},1.0,Instant,"Counter target noncreature spell. Its controller creates two Treasure tokens. (They're artifacts with ""{T}, Sacrifice this token: Add one mana of any color."")",U,U,uncommon,SNC,Streets of New Capenna,464,,,,Treasure
+An Offer You Can't Refuse,{U},1.0,Instant,"Counter target noncreature spell. Its controller creates two Treasure tokens. (They're artifacts with ""{T}, Sacrifice this token: Add one mana of any color."")",U,U,uncommon,FDN,Foundations,311,,,,Treasure
+An Offer You Can't Refuse,{U},1.0,Instant,"Counter target noncreature spell. Its controller creates two Treasure tokens. (They're artifacts with ""{T}, Sacrifice this token: Add one mana of any color."")",U,U,uncommon,PLST,The List,SNC-51,,,,Treasure
+An Offer You Can't Refuse,{U},1.0,Instant,"Counter target noncreature spell. Its controller creates two Treasure tokens. (They're artifacts with ""{T}, Sacrifice this token: Add one mana of any color."")",U,U,uncommon,FDN,Foundations,160,,,,Treasure
+An Offer You Can't Refuse,{U},1.0,Instant,"Counter target noncreature spell. Its controller creates two Treasure tokens. (They're artifacts with ""{T}, Sacrifice this token: Add one mana of any color."")",U,U,uncommon,SNC,Streets of New Capenna,51,,,,Treasure
+An Offer You Can't Refuse,{U},1.0,Instant,"Counter target noncreature spell. Its controller creates two Treasure tokens. (They're artifacts with ""{T}, Sacrifice this token: Add one mana of any color."")",U,U,uncommon,BLC,Bloomburrow Commander,170,,,,Treasure
+An Offer You Can't Refuse,{U},1.0,Instant,"Counter target noncreature spell. Its controller creates two Treasure tokens. (They're artifacts with ""{T}, Sacrifice this token: Add one mana of any color."")",U,U,uncommon,FIC,Final Fantasy Commander,267,,,,Treasure
+Ancestors' Aid,{1}{R},2.0,Instant,"Target creature gets +2/+0 and gains first strike until end of turn.
+Create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")",R,R,common,LCI,The Lost Caverns of Ixalan,132,,,,Treasure
+Annul,{U},1.0,Instant,Counter target artifact or enchantment spell.,U,U,common,WC04,World Championship Decks 2004,ap29sb,,,,
+Annul,{U},1.0,Instant,Counter target artifact or enchantment spell.,U,U,uncommon,EOE,Edge of Eternities,394,,,,
+Annul,{U},1.0,Instant,Counter target artifact or enchantment spell.,U,U,common,USG,Urza's Saga,59,,,,
+Annul,{U},1.0,Instant,Counter target artifact or enchantment spell.,U,U,common,KHM,Kaldheim,42,,,,
+Annul,{U},1.0,Instant,Counter target artifact or enchantment spell.,U,U,uncommon,EOE,Edge of Eternities,46,,,,
+Annul,{U},1.0,Instant,Counter target artifact or enchantment spell.,U,U,common,THS,Theros,38,,,,
+Annul,{U},1.0,Instant,Counter target artifact or enchantment spell.,U,U,common,WC00,World Championship Decks 2000,jf59sb,,,,
+Annul,{U},1.0,Instant,Counter target artifact or enchantment spell.,U,U,common,MRD,Mirrodin,29,,,,
+Annul,{U},1.0,Instant,Counter target artifact or enchantment spell.,U,U,common,WC04,World Championship Decks 2004,gn29,,,,
+Another Chance,{2}{B},3.0,Instant,"You may mill two cards. Then return up to two creature cards from your graveyard to your hand. (To mill two cards, put the top two cards of your library into your graveyard.)",B,B,common,LCI,The Lost Caverns of Ixalan,90,,,,Mill
+Appeal to Eirdu,{3}{W},4.0,Instant,"Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+One or two target creatures each get +2/+1 until end of turn.",W,W,common,ECL,Lorwyn Eclipsed,5,,,,Convoke
+Arcane Epiphany,{3}{U}{U},5.0,Instant,"This spell costs {1} less to cast if you control a Wizard.
+Draw three cards.",U,U,uncommon,FDN,Foundations,29,,,,
+Archdruid's Charm,{G}{G}{G},3.0,Instant,"Choose one —
+• Search your library for a creature or land card and reveal it. Put it onto the battlefield tapped if it's a land card. Otherwise, put it into your hand. Then shuffle.
+• Put a +1/+1 counter on target creature you control. It deals damage equal to its power to target creature you don't control.
+• Exile target artifact or enchantment.",G,G,rare,MKM,Murders at Karlov Manor,408,,,,
+Archdruid's Charm,{G}{G}{G},3.0,Instant,"Choose one —
+• Search your library for a creature or land card and reveal it. Put it onto the battlefield tapped if it's a land card. Otherwise, put it into your hand. Then shuffle.
+• Put a +1/+1 counter on target creature you control. It deals damage equal to its power to target creature you don't control.
+• Exile target artifact or enchantment.",G,G,rare,PMKM,Murders at Karlov Manor Promos,151s,,,,
+Archdruid's Charm,{G}{G}{G},3.0,Instant,"Choose one —
+• Search your library for a creature or land card and reveal it. Put it onto the battlefield tapped if it's a land card. Otherwise, put it into your hand. Then shuffle.
+• Put a +1/+1 counter on target creature you control. It deals damage equal to its power to target creature you don't control.
+• Exile target artifact or enchantment.",G,G,rare,MKM,Murders at Karlov Manor,151,,,,
+Archdruid's Charm,{G}{G}{G},3.0,Instant,"Choose one —
+• Search your library for a creature or land card and reveal it. Put it onto the battlefield tapped if it's a land card. Otherwise, put it into your hand. Then shuffle.
+• Put a +1/+1 counter on target creature you control. It deals damage equal to its power to target creature you don't control.
+• Exile target artifact or enchantment.",G,G,rare,PMKM,Murders at Karlov Manor Promos,151p,,,,
+Archenemy's Charm,{B}{B}{B},3.0,Instant,"Choose one —
+• Exile target creature or planeswalker.
+• Return one or two target creature and/or planeswalker cards from your graveyard to your hand.
+• Put two +1/+1 counters on target creature you control. It gains lifelink until end of turn.",B,B,rare,EOE,Edge of Eternities,307,,,,
+Archenemy's Charm,{B}{B}{B},3.0,Instant,"Choose one —
+• Exile target creature or planeswalker.
+• Return one or two target creature and/or planeswalker cards from your graveyard to your hand.
+• Put two +1/+1 counters on target creature you control. It gains lifelink until end of turn.",B,B,rare,EOE,Edge of Eternities,88,,,,
+Archenemy's Charm,{B}{B}{B},3.0,Instant,"Choose one —
+• Exile target creature or planeswalker.
+• Return one or two target creature and/or planeswalker cards from your graveyard to your hand.
+• Put two +1/+1 counters on target creature you control. It gains lifelink until end of turn.",B,B,rare,PEOE,Edge of Eternities Promos,88p,,,,
+Archenemy's Charm,{B}{B}{B},3.0,Instant,"Choose one —
+• Exile target creature or planeswalker.
+• Return one or two target creature and/or planeswalker cards from your graveyard to your hand.
+• Put two +1/+1 counters on target creature you control. It gains lifelink until end of turn.",B,B,rare,PEOE,Edge of Eternities Promos,88s,,,,
+Archon's Glory,{W},1.0,Instant,"Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
+Target creature gets +2/+2 until end of turn. If this spell was bargained, that creature also gains flying and lifelink until end of turn.",W,W,common,WOE,Wilds of Eldraine,2,,,,Bargain
+Ashling's Command,{3}{U}{R},5.0,Kindred Instant — Elemental,"Choose two —
+• Create a token that's a copy of target Elemental you control.
+• Target player draws two cards.
+• Ashling's Command deals 2 damage to each creature target player controls.
+• Target player creates two Treasure tokens.","R,U","R,U",rare,PECL,Lorwyn Eclipsed Promos,205p,,,,Treasure
+Ashling's Command,{3}{U}{R},5.0,Kindred Instant — Elemental,"Choose two —
+• Create a token that's a copy of target Elemental you control.
+• Target player draws two cards.
+• Ashling's Command deals 2 damage to each creature target player controls.
+• Target player creates two Treasure tokens.","R,U","R,U",rare,ECL,Lorwyn Eclipsed,330,,,,Treasure
+Ashling's Command,{3}{U}{R},5.0,Kindred Instant — Elemental,"Choose two —
+• Create a token that's a copy of target Elemental you control.
+• Target player draws two cards.
+• Ashling's Command deals 2 damage to each creature target player controls.
+• Target player creates two Treasure tokens.","R,U","R,U",rare,ECL,Lorwyn Eclipsed,205,,,,Treasure
+Assassin's Trophy,{B}{G},2.0,Instant,"Destroy target permanent an opponent controls. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle.","B,G","B,G",rare,PRM,Magic Online Promos,102307,,,,
+Assassin's Trophy,{B}{G},2.0,Instant,"Destroy target permanent an opponent controls. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle.","B,G","B,G",rare,2X2,Double Masters 2022,372,,,,
+Assassin's Trophy,{B}{G},2.0,Instant,"Destroy target permanent an opponent controls. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle.","B,G","B,G",rare,ACR,Assassin's Creed,166,,,,
+Assassin's Trophy,{B}{G},2.0,Instant,"Destroy target permanent an opponent controls. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle.","B,G","B,G",rare,PGRN,Guilds of Ravnica Promos,152s,,,,
+Assassin's Trophy,{B}{G},2.0,Instant,"Destroy target permanent an opponent controls. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle.","B,G","B,G",rare,PMKM,Murders at Karlov Manor Promos,187s,,,,
+Assassin's Trophy,{B}{G},2.0,Instant,"Destroy target permanent an opponent controls. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle.","B,G","B,G",rare,2X2,Double Masters 2022,474,,,,
+Assassin's Trophy,{B}{G},2.0,Instant,"Destroy target permanent an opponent controls. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle.","B,G","B,G",rare,ECC,Lorwyn Eclipsed Commander,119,,,,
+Assassin's Trophy,{B}{G},2.0,Instant,"Destroy target permanent an opponent controls. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle.","B,G","B,G",rare,GRN,Guilds of Ravnica,152,,,,
+Assassin's Trophy,{B}{G},2.0,Instant,"Destroy target permanent an opponent controls. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle.","B,G","B,G",rare,TMC,Teenage Mutant Ninja Turtles Eternal,55,,,,
+Assassin's Trophy,{B}{G},2.0,Instant,"Destroy target permanent an opponent controls. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle.","B,G","B,G",rare,2X2,Double Masters 2022,175,,,,
+Assassin's Trophy,{B}{G},2.0,Instant,"Destroy target permanent an opponent controls. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle.","B,G","B,G",rare,PGRN,Guilds of Ravnica Promos,152p,,,,
+Assassin's Trophy,{B}{G},2.0,Instant,"Destroy target permanent an opponent controls. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle.","B,G","B,G",rare,SLD,Secret Lair Drop,139,,,,
+Assassin's Trophy,{B}{G},2.0,Instant,"Destroy target permanent an opponent controls. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle.","B,G","B,G",rare,MKM,Murders at Karlov Manor,412,,,,
+Assassin's Trophy,{B}{G},2.0,Instant,"Destroy target permanent an opponent controls. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle.","B,G","B,G",rare,ACR,Assassin's Creed,228,,,,
+Assassin's Trophy,{B}{G},2.0,Instant,"Destroy target permanent an opponent controls. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle.","B,G","B,G",rare,PMKM,Murders at Karlov Manor Promos,187p,,,,
+Assassin's Trophy,{B}{G},2.0,Instant,"Destroy target permanent an opponent controls. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle.","B,G","B,G",rare,ACR,Assassin's Creed,95,,,,
+Assassin's Trophy,{B}{G},2.0,Instant,"Destroy target permanent an opponent controls. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle.","B,G","B,G",rare,MKM,Murders at Karlov Manor,187,,,,
+Auron's Inspiration,{2}{W},3.0,Instant,"Attacking creatures get +2/+0 until end of turn.
+Flashback {2}{W}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",W,W,uncommon,FIN,Final Fantasy,8,,,,Flashback
+Auroral Procession,{G}{U},2.0,Instant,Return target card from your graveyard to your hand.,"G,U","G,U",uncommon,TDM,Tarkir: Dragonstorm,169,,,,
+Auspicious Arrival,{1}{W},2.0,Instant,"Target creature gets +2/+2 until end of turn. Investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")",W,W,common,MKM,Murders at Karlov Manor,288,,,,Investigate
+Auspicious Arrival,{1}{W},2.0,Instant,"Target creature gets +2/+2 until end of turn. Investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")",W,W,common,MKM,Murders at Karlov Manor,5,,,,Investigate
+Azula Always Lies,{1}{B},2.0,Instant — Lesson,"Choose one or both —
+• Target creature gets -1/-1 until end of turn.
+• Put a +1/+1 counter on target creature.",B,B,common,TLA,Avatar: The Last Airbender,84,,,,

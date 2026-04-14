@@ -1,0 +1,59 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Aang's Journey,{2},2.0,Sorcery — Lesson,"Kicker {2} (You may pay an additional {2} as you cast this spell.)
+Search your library for a basic land card. If this spell was kicked, instead search your library for a basic land card and a Shrine card. Reveal those cards, put them into your hand, then shuffle.
+You gain 2 life.",,,common,TLA,Avatar: The Last Airbender,1,,,,Kicker
+Aerith Rescue Mission,{3}{W},4.0,Sorcery,"Choose one —
+• Take the Elevator — Create three 1/1 colorless Hero creature tokens.
+• Take 59 Flights of Stairs — Tap up to three target creatures. Put a stun counter on one of them. (If a permanent with a stun counter would become untapped, remove one from it instead.)",W,W,common,FIN,Final Fantasy,5,,,,Take 59 Flights of Stairs;Take the Elevator
+Agate Assault,{2}{R},3.0,Sorcery,"Choose one —
+• Agate Assault deals 4 damage to target creature. If that creature would die this turn, exile it instead.
+• Exile target artifact.",R,R,common,BLB,Bloomburrow,122,,,,
+Aggressive Negotiations,{2}{B},3.0,Sorcery,Target opponent reveals their hand. You choose a nonland card from it and exile that card. Put a +1/+1 counter on up to one target creature you control.,B,B,common,TDM,Tarkir: Dragonstorm,70,,,,
+Analyze the Pollen,{G},1.0,Sorcery,"As an additional cost to cast this spell, you may collect evidence 8. (Exile cards with total mana value 8 or greater from your graveyard.)
+Search your library for a basic land card. If evidence was collected, instead search your library for a creature or land card. Reveal that card, put it into your hand, then shuffle.",G,G,rare,PMKM,Murders at Karlov Manor Promos,150p,,,,Collect evidence
+Analyze the Pollen,{G},1.0,Sorcery,"As an additional cost to cast this spell, you may collect evidence 8. (Exile cards with total mana value 8 or greater from your graveyard.)
+Search your library for a basic land card. If evidence was collected, instead search your library for a creature or land card. Reveal that card, put it into your hand, then shuffle.",G,G,rare,PMKM,Murders at Karlov Manor Promos,150s,,,,Collect evidence
+Analyze the Pollen,{G},1.0,Sorcery,"As an additional cost to cast this spell, you may collect evidence 8. (Exile cards with total mana value 8 or greater from your graveyard.)
+Search your library for a basic land card. If evidence was collected, instead search your library for a creature or land card. Reveal that card, put it into your hand, then shuffle.",G,G,rare,MKM,Murders at Karlov Manor,308,,,,Collect evidence
+Analyze the Pollen,{G},1.0,Sorcery,"As an additional cost to cast this spell, you may collect evidence 8. (Exile cards with total mana value 8 or greater from your graveyard.)
+Search your library for a basic land card. If evidence was collected, instead search your library for a creature or land card. Reveal that card, put it into your hand, then shuffle.",G,G,rare,MKM,Murders at Karlov Manor,150,,,,Collect evidence
+Ancestral Reminiscence,{3}{U},4.0,Sorcery,"Draw three cards, then discard a card.",U,U,common,LCI,The Lost Caverns of Ixalan,45,,,,
+Ancient Vendetta,{3}{B},4.0,Sorcery,"Choose a card name. Search target opponent's graveyard, hand, and library for up to four cards with that name and exile them. Then that player shuffles.",B,B,uncommon,DFT,Aetherdrift,75,,,,
+Angelic Edict,{4}{W},5.0,Sorcery,Exile target creature or enchantment.,W,W,common,J25,Foundations Jumpstart,164,,,,
+Angelic Edict,{4}{W},5.0,Sorcery,Exile target creature or enchantment.,W,W,common,J22,Jumpstart 2022,145,,,,
+Angelic Edict,{4}{W},5.0,Sorcery,Exile target creature or enchantment.,W,W,common,FDN,Foundations,490,,,,
+Angelic Edict,{4}{W},5.0,Sorcery,Exile target creature or enchantment.,W,W,common,GTC,Gatecrash,2,,,,
+Angelic Edict,{4}{W},5.0,Sorcery,Exile target creature or enchantment.,W,W,common,JMP,Jumpstart,87,,,,
+Another Round,{X}{X}{2}{W},3.0,Sorcery,"Exile any number of creatures you control, then return them to the battlefield under their owner's control. Then repeat this process X more times.",W,W,rare,POTJ,Outlaws of Thunder Junction Promos,1s,,,,
+Another Round,{X}{X}{2}{W},3.0,Sorcery,"Exile any number of creatures you control, then return them to the battlefield under their owner's control. Then repeat this process X more times.",W,W,rare,OTJ,Outlaws of Thunder Junction,1,,,,
+Another Round,{X}{X}{2}{W},3.0,Sorcery,"Exile any number of creatures you control, then return them to the battlefield under their owner's control. Then repeat this process X more times.",W,W,rare,OTJ,Outlaws of Thunder Junction,307,,,,
+Another Round,{X}{X}{2}{W},3.0,Sorcery,"Exile any number of creatures you control, then return them to the battlefield under their owner's control. Then repeat this process X more times.",W,W,rare,POTJ,Outlaws of Thunder Junction Promos,1p,,,,
+Anzrag's Rampage,{3}{R}{R},5.0,Sorcery,"Destroy all artifacts you don't control, then exile the top X cards of your library, where X is the number of artifacts that were put into graveyards from the battlefield this turn. You may put a creature card exiled this way onto the battlefield. It gains haste. Return it to your hand at the beginning of the next end step.",R,R,rare,MKM,Murders at Karlov Manor,303,,,,
+Anzrag's Rampage,{3}{R}{R},5.0,Sorcery,"Destroy all artifacts you don't control, then exile the top X cards of your library, where X is the number of artifacts that were put into graveyards from the battlefield this turn. You may put a creature card exiled this way onto the battlefield. It gains haste. Return it to your hand at the beginning of the next end step.",R,R,rare,PMKM,Murders at Karlov Manor Promos,111s,,,,
+Anzrag's Rampage,{3}{R}{R},5.0,Sorcery,"Destroy all artifacts you don't control, then exile the top X cards of your library, where X is the number of artifacts that were put into graveyards from the battlefield this turn. You may put a creature card exiled this way onto the battlefield. It gains haste. Return it to your hand at the beginning of the next end step.",R,R,rare,MKM,Murders at Karlov Manor,111,,,,
+Anzrag's Rampage,{3}{R}{R},5.0,Sorcery,"Destroy all artifacts you don't control, then exile the top X cards of your library, where X is the number of artifacts that were put into graveyards from the battlefield this turn. You may put a creature card exiled this way onto the battlefield. It gains haste. Return it to your hand at the beginning of the next end step.",R,R,rare,PMKM,Murders at Karlov Manor Promos,111p,,,,
+Asinine Antics,{2}{U}{U},4.0,Sorcery,"You may cast this spell as though it had flash if you pay {2} more to cast it.
+For each creature your opponents control, create a Cursed Role token attached to that creature. (If you control another Role on it, put that one into the graveyard. Enchanted creature is 1/1.)",U,U,mythic,PWOE,Wilds of Eldraine Promos,42p,,,,Role token
+Asinine Antics,{2}{U}{U},4.0,Sorcery,"You may cast this spell as though it had flash if you pay {2} more to cast it.
+For each creature your opponents control, create a Cursed Role token attached to that creature. (If you control another Role on it, put that one into the graveyard. Enchanted creature is 1/1.)",U,U,mythic,WOE,Wilds of Eldraine,42,,,,Role token
+Asinine Antics,{2}{U}{U},4.0,Sorcery,"You may cast this spell as though it had flash if you pay {2} more to cast it.
+For each creature your opponents control, create a Cursed Role token attached to that creature. (If you control another Role on it, put that one into the graveyard. Enchanted creature is 1/1.)",U,U,mythic,PWOE,Wilds of Eldraine Promos,42s,,,,Role token
+Asinine Antics,{2}{U}{U},4.0,Sorcery,"You may cast this spell as though it had flash if you pay {2} more to cast it.
+For each creature your opponents control, create a Cursed Role token attached to that creature. (If you control another Role on it, put that one into the graveyard. Enchanted creature is 1/1.)",U,U,mythic,WOE,Wilds of Eldraine,330,,,,Role token
+Assert Perfection,{1}{G},2.0,Sorcery,Target creature you control gets +1/+0 until end of turn. It deals damage equal to its power to up to one target creature an opponent controls.,G,G,common,ECL,Lorwyn Eclipsed,164,,,,
+Audience with Trostani,{2}{G},3.0,Sorcery,"Create a 0/1 green Plant creature token, then draw cards equal to the number of differently named creature tokens you control.",G,G,rare,PMKM,Murders at Karlov Manor Promos,152p,,,,
+Audience with Trostani,{2}{G},3.0,Sorcery,"Create a 0/1 green Plant creature token, then draw cards equal to the number of differently named creature tokens you control.",G,G,rare,PMKM,Murders at Karlov Manor Promos,152s,,,,
+Audience with Trostani,{2}{G},3.0,Sorcery,"Create a 0/1 green Plant creature token, then draw cards equal to the number of differently named creature tokens you control.",G,G,rare,MKM,Murders at Karlov Manor,309,,,,
+Audience with Trostani,{2}{G},3.0,Sorcery,"Create a 0/1 green Plant creature token, then draw cards equal to the number of differently named creature tokens you control.",G,G,rare,MKM,Murders at Karlov Manor,152,,,,
+Auntie's Sentence,{1}{B},2.0,Sorcery,"Choose one —
+• Target opponent reveals their hand. You choose a nonland permanent card from it. That player discards that card.
+• Target creature gets -2/-2 until end of turn.",B,B,common,ECL,Lorwyn Eclipsed,85,,,,
+Avatar's Wrath,{2}{W}{W},4.0,Sorcery,"Choose up to one target creature, then airbend all other creatures. (Exile them. While each one is exiled, its owner may cast it for {2} rather than its mana cost.)
+Until your next turn, your opponents can't cast spells from anywhere other than their hands.
+Exile Avatar's Wrath.",W,W,rare,PTLA,Avatar: The Last Airbender Promos,12s,,,,Airbend
+Avatar's Wrath,{2}{W}{W},4.0,Sorcery,"Choose up to one target creature, then airbend all other creatures. (Exile them. While each one is exiled, its owner may cast it for {2} rather than its mana cost.)
+Until your next turn, your opponents can't cast spells from anywhere other than their hands.
+Exile Avatar's Wrath.",W,W,rare,TLA,Avatar: The Last Airbender,12,,,,Airbend
+Avatar's Wrath,{2}{W}{W},4.0,Sorcery,"Choose up to one target creature, then airbend all other creatures. (Exile them. While each one is exiled, its owner may cast it for {2} rather than its mana cost.)
+Until your next turn, your opponents can't cast spells from anywhere other than their hands.
+Exile Avatar's Wrath.",W,W,rare,TLA,Avatar: The Last Airbender,365,,,,Airbend

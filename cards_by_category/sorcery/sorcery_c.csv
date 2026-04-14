@@ -1,0 +1,127 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Calamitous Cave-In,{3}{R},4.0,Sorcery,"Calamitous Cave-In deals X damage to each creature and each planeswalker, where X is the number of Caves you control plus the number of Cave cards in your graveyard.",R,R,uncommon,LCI,The Lost Caverns of Ixalan,139,,,,
+Calamitous Tide,{4}{U}{U},6.0,Sorcery,"Return up to two target creatures to their owners' hands. Draw two cards, then discard a card.",U,U,uncommon,BLB,Bloomburrow,43,,,,
+Call a Surprise Witness,{1}{W},2.0,Sorcery,Return target creature card with mana value 3 or less from your graveyard to the battlefield. Put a flying counter on it. It's a Spirit in addition to its other types.,W,W,uncommon,MKM,Murders at Karlov Manor,289,,,,
+Call a Surprise Witness,{1}{W},2.0,Sorcery,Return target creature card with mana value 3 or less from your graveyard to the battlefield. Put a flying counter on it. It's a Spirit in addition to its other types.,W,W,uncommon,MKM,Murders at Karlov Manor,6,,,,
+Call the Mountain Chocobo,{3}{R},4.0,Sorcery,"Search your library for a Mountain card, reveal it, put it into your hand, then shuffle. Create a 2/2 green Bird creature token with ""Whenever a land you control enters, this token gets +1/+0 until end of turn.""
+Flashback {5}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",R,R,common,FIN,Final Fantasy,131,,,,Flashback
+Cathartic Parting,{1}{G},2.0,Sorcery,The owner of target artifact or enchantment an opponent controls shuffles it into their library. You may shuffle up to four target cards from your graveyard into your library.,G,G,uncommon,DSK,Duskmourn: House of Horror,171,,,,
+Celestial Reunion,{X}{G},1.0,Sorcery,"As an additional cost to cast this spell, you may choose a creature type and behold two creatures of that type.
+Search your library for a creature card with mana value X or less, reveal it, put it into your hand, then shuffle. If this spell's additional cost was paid and the revealed card is the chosen type, put that card onto the battlefield instead of putting it into your hand.",G,G,mythic,PECL,Lorwyn Eclipsed Promos,170p,,,,Behold
+Celestial Reunion,{X}{G},1.0,Sorcery,"As an additional cost to cast this spell, you may choose a creature type and behold two creatures of that type.
+Search your library for a creature card with mana value X or less, reveal it, put it into your hand, then shuffle. If this spell's additional cost was paid and the revealed card is the chosen type, put that card onto the battlefield instead of putting it into your hand.",G,G,mythic,ECL,Lorwyn Eclipsed,170,,,,Behold
+Celestial Reunion,{X}{G},1.0,Sorcery,"As an additional cost to cast this spell, you may choose a creature type and behold two creatures of that type.
+Search your library for a creature card with mana value X or less, reveal it, put it into your hand, then shuffle. If this spell's additional cost was paid and the revealed card is the chosen type, put that card onto the battlefield instead of putting it into your hand.",G,G,mythic,ECL,Lorwyn Eclipsed,326,,,,Behold
+Cemetery Recruitment,{1}{B},2.0,Sorcery,"Return target creature card from your graveyard to your hand. If it's a Zombie card, draw a card.",B,B,common,FDN,Foundations,517,,,,
+Cemetery Recruitment,{1}{B},2.0,Sorcery,"Return target creature card from your graveyard to your hand. If it's a Zombie card, draw a card.",B,B,common,EMN,Eldritch Moon,83,,,,
+Cemetery Recruitment,{1}{B},2.0,Sorcery,"Return target creature card from your graveyard to your hand. If it's a Zombie card, draw a card.",B,B,common,JMP,Jumpstart,217,,,,
+Cemetery Recruitment,{1}{B},2.0,Sorcery,"Return target creature card from your graveyard to your hand. If it's a Zombie card, draw a card.",B,B,common,J22,Jumpstart 2022,385,,,,
+Cerebral Confiscation,{2}{B},3.0,Sorcery,"Choose one —
+• Target opponent discards two cards.
+• Target opponent reveals their hand. You choose a nonland card from it. That player discards that card.",B,B,common,MKM,Murders at Karlov Manor,81,,,,
+Channeled Dragonfire,{R},1.0,Sorcery,"Channeled Dragonfire deals 2 damage to any target.
+Harmonize {5}{R}{R} (You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)",R,R,uncommon,TDM,Tarkir: Dragonstorm,102,,,,Harmonize
+Channeled Dragonfire,{R},1.0,Sorcery,"Channeled Dragonfire deals 2 damage to any target.
+Harmonize {5}{R}{R} (You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)",R,R,uncommon,TDM,Tarkir: Dragonstorm,423,,,,Harmonize
+Chart a Course,{1}{U},2.0,Sorcery,Draw two cards. Then discard a card unless you attacked this turn.,U,U,uncommon,JMP,Jumpstart,142,,,,
+Chart a Course,{1}{U},2.0,Sorcery,Draw two cards. Then discard a card unless you attacked this turn.,U,U,uncommon,LCI,The Lost Caverns of Ixalan,48,,,,
+Chart a Course,{1}{U},2.0,Sorcery,Draw two cards. Then discard a card unless you attacked this turn.,U,U,uncommon,SLD,Secret Lair Drop,2150,,,,
+Chart a Course,{1}{U},2.0,Sorcery,Draw two cards. Then discard a card unless you attacked this turn.,U,U,uncommon,FDN,Foundations,586,,,,
+Chart a Course,{1}{U},2.0,Sorcery,Draw two cards. Then discard a card unless you attacked this turn.,U,U,uncommon,XLN,Ixalan,48,,,,
+Chart a Course,{1}{U},2.0,Sorcery,Draw two cards. Then discard a card unless you attacked this turn.,U,U,uncommon,PLST,The List,XLN-48,,,,
+Chart a Course,{1}{U},2.0,Sorcery,Draw two cards. Then discard a card unless you attacked this turn.,U,U,uncommon,BLC,Bloomburrow Commander,110,,,,
+Choco-Comet,{X}{R}{R},2.0,Sorcery,"Choco-Comet deals X damage to any target.
+Create a 2/2 green Bird creature token with ""Whenever a land you control enters, this token gets +1/+0 until end of turn.""",R,R,uncommon,FIN,Final Fantasy,132,,,,
+Chocobo Kick,{1}{G},2.0,Sorcery,"Kicker—Return a land you control to its owner's hand. (You may return a land you control to its owner's hand in addition to any other costs as you cast this spell.)
+Target creature you control deals damage equal to its power to target creature an opponent controls. If this spell was kicked, the creature you control deals twice that much damage instead.",G,G,common,FIN,Final Fantasy,178,,,,Kicker
+Cinder Strike,{R},1.0,Sorcery,"As an additional cost to cast this spell, you may blight 1. (You may put a -1/-1 counter on a creature you control.)
+Cinder Strike deals 2 damage to target creature. It deals 4 damage to that creature instead if this spell's additional cost was paid.",R,R,common,ECL,Lorwyn Eclipsed,131,,,,Blight
+Circle of Power,{3}{B},4.0,Sorcery,"You draw two cards and you lose 2 life. Create a 0/1 black Wizard creature token with ""Whenever you cast a noncreature spell, this token deals 1 damage to each opponent.""
+Wizards you control get +1/+0 and gain lifelink until end of turn.",B,B,uncommon,FIN,Final Fantasy,583,,,,
+Circle of Power,{3}{B},4.0,Sorcery,"You draw two cards and you lose 2 life. Create a 0/1 black Wizard creature token with ""Whenever you cast a noncreature spell, this token deals 1 damage to each opponent.""
+Wizards you control get +1/+0 and gain lifelink until end of turn.",B,B,uncommon,FIN,Final Fantasy,92,,,,
+Circuitous Route,{3}{G},4.0,Sorcery,"Search your library for up to two basic land cards and/or Gate cards, put them onto the battlefield tapped, then shuffle.",G,G,uncommon,GRN,Guilds of Ravnica,125,,,,
+Circuitous Route,{3}{G},4.0,Sorcery,"Search your library for up to two basic land cards and/or Gate cards, put them onto the battlefield tapped, then shuffle.",G,G,uncommon,ZNC,Zendikar Rising Commander,62,,,,
+Circuitous Route,{3}{G},4.0,Sorcery,"Search your library for up to two basic land cards and/or Gate cards, put them onto the battlefield tapped, then shuffle.",G,G,uncommon,PLST,The List,GRN-125,,,,
+Circuitous Route,{3}{G},4.0,Sorcery,"Search your library for up to two basic land cards and/or Gate cards, put them onto the battlefield tapped, then shuffle.",G,G,uncommon,FDN,Foundations,635,,,,
+Clash of the Eikons,{G},1.0,Sorcery,"Choose one or more —
+• Target creature you control fights target creature an opponent controls.
+• Remove a lore counter from target Saga you control. (Removing lore counters doesn't cause chapter abilities to trigger.)
+• Put a lore counter on target Saga you control.",G,G,uncommon,FIN,Final Fantasy,180,,,,Fight
+Clash of the Eikons,{G},1.0,Sorcery,"Choose one or more —
+• Target creature you control fights target creature an opponent controls.
+• Remove a lore counter from target Saga you control. (Removing lore counters doesn't cause chapter abilities to trigger.)
+• Put a lore counter on target Saga you control.",G,G,uncommon,FIN,Final Fantasy,341,,,,Fight
+Coiling Rebirth,{3}{B}{B},5.0,Sorcery,"Gift a card (You may promise an opponent a gift as you cast this spell. If you do, they draw a card before its other effects.)
+Return target creature card from your graveyard to the battlefield. Then if the gift was promised and that creature isn't legendary, create a token that's a copy of that creature, except it's 1/1.",B,B,rare,PBLB,Bloomburrow Promos,86p,,,,Gift
+Coiling Rebirth,{3}{B}{B},5.0,Sorcery,"Gift a card (You may promise an opponent a gift as you cast this spell. If you do, they draw a card before its other effects.)
+Return target creature card from your graveyard to the battlefield. Then if the gift was promised and that creature isn't legendary, create a token that's a copy of that creature, except it's 1/1.",B,B,rare,BLB,Bloomburrow,309,,,,Gift
+Coiling Rebirth,{3}{B}{B},5.0,Sorcery,"Gift a card (You may promise an opponent a gift as you cast this spell. If you do, they draw a card before its other effects.)
+Return target creature card from your graveyard to the battlefield. Then if the gift was promised and that creature isn't legendary, create a token that's a copy of that creature, except it's 1/1.",B,B,rare,BLB,Bloomburrow,86,,,,Gift
+Coiling Rebirth,{3}{B}{B},5.0,Sorcery,"Gift a card (You may promise an opponent a gift as you cast this spell. If you do, they draw a card before its other effects.)
+Return target creature card from your graveyard to the battlefield. Then if the gift was promised and that creature isn't legendary, create a token that's a copy of that creature, except it's 1/1.",B,B,rare,PBLB,Bloomburrow Promos,86s,,,,Gift
+Collision Course,{1}{W},2.0,Sorcery,"Choose one —
+• Collision Course deals X damage to target creature, where X is the number of permanents you control that are creatures and/or Vehicles.
+• Destroy target artifact.",W,W,common,DFT,Aetherdrift,10,,,,
+Combat Tutorial,{2}{U},3.0,Sorcery,Target player draws two cards. Put a +1/+1 counter on up to one target creature you control.,U,U,common,FIN,Final Fantasy,48,,,,
+Come Back Wrong,{2}{B},3.0,Sorcery,"Destroy target creature. If a creature card is put into a graveyard this way, return it to the battlefield under your control. Sacrifice it at the beginning of your next end step.",B,B,rare,DSK,Duskmourn: House of Horror,309,,,,
+Come Back Wrong,{2}{B},3.0,Sorcery,"Destroy target creature. If a creature card is put into a graveyard this way, return it to the battlefield under your control. Sacrifice it at the beginning of your next end step.",B,B,rare,DSK,Duskmourn: House of Horror,292,,,,
+Come Back Wrong,{2}{B},3.0,Sorcery,"Destroy target creature. If a creature card is put into a graveyard this way, return it to the battlefield under your control. Sacrifice it at the beginning of your next end step.",B,B,rare,PDSK,Duskmourn: House of Horror Promos,86s,,,,
+Come Back Wrong,{2}{B},3.0,Sorcery,"Destroy target creature. If a creature card is put into a graveyard this way, return it to the battlefield under your control. Sacrifice it at the beginning of your next end step.",B,B,rare,DSK,Duskmourn: House of Horror,86,,,,
+Come Back Wrong,{2}{B},3.0,Sorcery,"Destroy target creature. If a creature card is put into a graveyard this way, return it to the battlefield under your control. Sacrifice it at the beginning of your next end step.",B,B,rare,PDSK,Duskmourn: House of Horror Promos,86p,,,,
+Commune with Beavers,{G},1.0,Sorcery,"Look at the top three cards of your library. You may reveal an artifact, creature, or land card from among them and put it into your hand. Put the rest on the bottom of your library in any order.",G,G,common,FIN,Final Fantasy,182,,,,
+Commune with Evil,{2}{B},3.0,Sorcery,Look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard. You gain 3 life.,B,B,uncommon,DSK,Duskmourn: House of Horror,87,,,,
+Commune with Nature,{G},1.0,Sorcery,Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order.,G,G,common,WOE,Wilds of Eldraine,166,,,,
+Commune with Nature,{G},1.0,Sorcery,Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order.,G,G,common,MM2,Modern Masters 2015,142,,,,
+Commune with Nature,{G},1.0,Sorcery,Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order.,G,G,common,10E,Tenth Edition,256,,,,
+Commune with Nature,{G},1.0,Sorcery,Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order.,G,G,common,CHK,Champions of Kamigawa,204,,,,
+Commune with Nature,{G},1.0,Sorcery,Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order.,G,G,common,PLST,The List,MM2-142,,,,
+Coordinated Clobbering,{G},1.0,Sorcery,Tap one or two target untapped creatures you control. They each deal damage equal to their power to target creature an opponent controls.,G,G,uncommon,DSK,Duskmourn: House of Horror,173,,,,
+Cornered by Black Mages,{1}{B}{B},3.0,Sorcery,"Target opponent sacrifices a creature of their choice.
+Create a 0/1 black Wizard creature token with ""Whenever you cast a noncreature spell, this token deals 1 damage to each opponent.""",B,B,common,FIN,Final Fantasy,93,,,,
+Cosmium Confluence,{4}{G},5.0,Sorcery,"Choose three. You may choose the same mode more than once.
+• Search your library for a Cave card, put it onto the battlefield tapped, then shuffle.
+• Put three +1/+1 counters on a Cave you control. It becomes a 0/0 Elemental creature with haste. It's still a land.
+• Destroy target enchantment.",G,G,rare,LCI,The Lost Caverns of Ixalan,379,,,,
+Cosmium Confluence,{4}{G},5.0,Sorcery,"Choose three. You may choose the same mode more than once.
+• Search your library for a Cave card, put it onto the battlefield tapped, then shuffle.
+• Put three +1/+1 counters on a Cave you control. It becomes a 0/0 Elemental creature with haste. It's still a land.
+• Destroy target enchantment.",G,G,rare,PLCI,The Lost Caverns of Ixalan Promos,181p,,,,
+Cosmium Confluence,{4}{G},5.0,Sorcery,"Choose three. You may choose the same mode more than once.
+• Search your library for a Cave card, put it onto the battlefield tapped, then shuffle.
+• Put three +1/+1 counters on a Cave you control. It becomes a 0/0 Elemental creature with haste. It's still a land.
+• Destroy target enchantment.",G,G,rare,LCI,The Lost Caverns of Ixalan,181,,,,
+Cosmium Confluence,{4}{G},5.0,Sorcery,"Choose three. You may choose the same mode more than once.
+• Search your library for a Cave card, put it onto the battlefield tapped, then shuffle.
+• Put three +1/+1 counters on a Cave you control. It becomes a 0/0 Elemental creature with haste. It's still a land.
+• Destroy target enchantment.",G,G,rare,PLCI,The Lost Caverns of Ixalan Promos,181s,,,,
+Cowabunga!,{G},1.0,Sorcery,"Look at the top four cards of your library. You may reveal a Mutant, Ninja, Turtle, or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",G,G,common,TMT,Teenage Mutant Ninja Turtles,113,,,,
+Crash Through,{R},1.0,Sorcery,"Creatures you control gain trample until end of turn. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.)
+Draw a card.",R,R,rare,SLD,Secret Lair Drop,591,,,,
+Crash Through,{R},1.0,Sorcery,"Creatures you control gain trample until end of turn. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.)
+Draw a card.",R,R,common,PLST,The List,M19-133,,,,
+Crash Through,{R},1.0,Sorcery,"Creatures you control gain trample until end of turn. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.)
+Draw a card.",R,R,common,HOU,Hour of Devastation,88,,,,
+Crash Through,{R},1.0,Sorcery,"Creatures you control gain trample until end of turn. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.)
+Draw a card.",R,R,common,AKR,Amonkhet Remastered,149,,,,
+Crash Through,{R},1.0,Sorcery,"Creatures you control gain trample until end of turn. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.)
+Draw a card.",R,R,common,M21,Core Set 2021,140,,,,
+Crash Through,{R},1.0,Sorcery,"Creatures you control gain trample until end of turn. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.)
+Draw a card.",R,R,common,FDN,Foundations,620,,,,
+Crash Through,{R},1.0,Sorcery,"Creatures you control gain trample until end of turn. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.)
+Draw a card.",R,R,common,M19,Core Set 2019,133,,,,
+Crashing Wave,{U}{U},2.0,Sorcery,"As an additional cost to cast this spell, waterbend {X}. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)
+Tap up to X target creatures, then distribute three stun counters among any number of tapped creatures your opponents control. (If a permanent with a stun counter would become untapped, remove one from it instead.)",U,U,uncommon,TLA,Avatar: The Last Airbender,47,,,,Waterbend
+Crashing Wave,{U}{U},2.0,Sorcery,"As an additional cost to cast this spell, waterbend {X}. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)
+Tap up to X target creatures, then distribute three stun counters among any number of tapped creatures your opponents control. (If a permanent with a stun counter would become untapped, remove one from it instead.)",U,U,uncommon,TLA,Avatar: The Last Airbender,300,,,,Waterbend
+Cruelclaw's Heist,{B}{B},2.0,Sorcery,"Gift a card (You may promise an opponent a gift as you cast this spell. If you do, they draw a card before its other effects.)
+Target opponent reveals their hand. You choose a nonland card from it. Exile that card. If the gift was promised, you may cast that card for as long as it remains exiled, and mana of any type can be spent to cast it.",B,B,rare,PBLB,Bloomburrow Promos,88p,,,,Gift
+Cruelclaw's Heist,{B}{B},2.0,Sorcery,"Gift a card (You may promise an opponent a gift as you cast this spell. If you do, they draw a card before its other effects.)
+Target opponent reveals their hand. You choose a nonland card from it. Exile that card. If the gift was promised, you may cast that card for as long as it remains exiled, and mana of any type can be spent to cast it.",B,B,rare,BLB,Bloomburrow,88,,,,Gift
+Cruelclaw's Heist,{B}{B},2.0,Sorcery,"Gift a card (You may promise an opponent a gift as you cast this spell. If you do, they draw a card before its other effects.)
+Target opponent reveals their hand. You choose a nonland card from it. Exile that card. If the gift was promised, you may cast that card for as long as it remains exiled, and mana of any type can be spent to cast it.",B,B,rare,PBLB,Bloomburrow Promos,88s,,,,Gift
+Cruelclaw's Heist,{B}{B},2.0,Sorcery,"Gift a card (You may promise an opponent a gift as you cast this spell. If you do, they draw a card before its other effects.)
+Target opponent reveals their hand. You choose a nonland card from it. Exile that card. If the gift was promised, you may cast that card for as long as it remains exiled, and mana of any type can be spent to cast it.",B,B,rare,BLB,Bloomburrow,310,,,,Gift
+Curse of the Werefox,{2}{G},3.0,Sorcery,"Create a Monster Role token attached to target creature you control. When you do, that creature fights up to one target creature you don't control. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1 and has trample. Creatures that fight each deal damage equal to their power to the other.)",G,G,common,WOE,Wilds of Eldraine,167,,,,Role token;Fight
+Cut In,{3}{R},4.0,Sorcery,"Cut In deals 4 damage to target creature.
+Create a Young Hero Role token attached to up to one target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature has ""Whenever this creature attacks, if its toughness is 3 or less, put a +1/+1 counter on it."")",R,R,common,WOE,Wilds of Eldraine,125,,,,Role token

@@ -1,0 +1,397 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+"Aang, at the Crossroads // Aang, Destined Savior",,5.0,Legendary Creature — Human Avatar Ally // Legendary Creature — Avatar Ally,,,"G,U,W",rare,PTLA,Avatar: The Last Airbender Promos,203s,,,,Flying;Transform;Earthbend
+"Aang, at the Crossroads // Aang, Destined Savior",,5.0,Legendary Creature — Human Avatar Ally // Legendary Creature — Avatar Ally,,,"G,U,W",rare,TLA,Avatar: The Last Airbender,346,,,,Flying;Transform;Earthbend
+"Aang, at the Crossroads // Aang, Destined Savior",,5.0,Legendary Creature — Human Avatar Ally // Legendary Creature — Avatar Ally,,,"G,U,W",rare,TLA,Avatar: The Last Airbender,304,,,,Flying;Transform;Earthbend
+"Aang, at the Crossroads // Aang, Destined Savior",,5.0,Legendary Creature — Human Avatar Ally // Legendary Creature — Avatar Ally,,,"G,U,W",rare,TLA,Avatar: The Last Airbender,203,,,,Flying;Transform;Earthbend
+"Aang, Swift Savior // Aang and La, Ocean's Fury",,3.0,Legendary Creature — Human Avatar Ally // Legendary Creature — Avatar Spirit Ally,,,"U,W",rare,TLA,Avatar: The Last Airbender,347,,,,Flying;Reach;Airbend;Transform;Trample;Flash;Waterbend
+"Aang, Swift Savior // Aang and La, Ocean's Fury",,3.0,Legendary Creature — Human Avatar Ally // Legendary Creature — Avatar Spirit Ally,,,"U,W",rare,TLA,Avatar: The Last Airbender,359,,,,Flying;Reach;Airbend;Transform;Trample;Flash;Waterbend
+"Aang, Swift Savior // Aang and La, Ocean's Fury",,3.0,Legendary Creature — Human Avatar Ally // Legendary Creature — Avatar Spirit Ally,,,"U,W",rare,TLA,Avatar: The Last Airbender,204,,,,Flying;Reach;Airbend;Transform;Trample;Flash;Waterbend
+"Aang, Swift Savior // Aang and La, Ocean's Fury",,3.0,Legendary Creature — Human Avatar Ally // Legendary Creature — Avatar Spirit Ally,,,"U,W",rare,PTLA,Avatar: The Last Airbender Promos,204s,,,,Flying;Reach;Airbend;Transform;Trample;Flash;Waterbend
+"Aang, Swift Savior // Aang and La, Ocean's Fury",,3.0,Legendary Creature — Human Avatar Ally // Legendary Creature — Avatar Spirit Ally,,,"U,W",rare,TLA,Avatar: The Last Airbender,298,,,,Flying;Reach;Airbend;Transform;Trample;Flash;Waterbend
+"Aang, the Last Airbender",{3}{W},4.0,Legendary Creature — Human Avatar Ally,"Flying
+When Aang enters, airbend up to one other target nonland permanent. (Exile it. While it's exiled, its owner may cast it for {2} rather than its mana cost.)
+Whenever you cast a Lesson spell, Aang gains lifelink until end of turn.",W,W,uncommon,TLA,Avatar: The Last Airbender,4,3,2,,Flying;Airbend
+"Aatchik, Emerald Radian",{3}{B}{B}{G},6.0,Legendary Creature — Insect Druid,"When Aatchik enters, create a 1/1 green Insect creature token for each artifact and/or creature card in your graveyard.
+Whenever another Insect you control dies, put a +1/+1 counter on Aatchik. Each opponent loses 1 life.","B,G","B,G",rare,PDFT,Aetherdrift Promos,187s,3,3,,
+"Aatchik, Emerald Radian",{3}{B}{B}{G},6.0,Legendary Creature — Insect Druid,"When Aatchik enters, create a 1/1 green Insect creature token for each artifact and/or creature card in your graveyard.
+Whenever another Insect you control dies, put a +1/+1 counter on Aatchik. Each opponent loses 1 life.","B,G","B,G",rare,PDFT,Aetherdrift Promos,187p,3,3,,
+"Aatchik, Emerald Radian",{3}{B}{B}{G},6.0,Legendary Creature — Insect Druid,"When Aatchik enters, create a 1/1 green Insect creature token for each artifact and/or creature card in your graveyard.
+Whenever another Insect you control dies, put a +1/+1 counter on Aatchik. Each opponent loses 1 life.","B,G","B,G",rare,DFT,Aetherdrift,473,3,3,,
+"Aatchik, Emerald Radian",{3}{B}{B}{G},6.0,Legendary Creature — Insect Druid,"When Aatchik enters, create a 1/1 green Insect creature token for each artifact and/or creature card in your graveyard.
+Whenever another Insect you control dies, put a +1/+1 counter on Aatchik. Each opponent loses 1 life.","B,G","B,G",rare,DFT,Aetherdrift,360,3,3,,
+"Aatchik, Emerald Radian",{3}{B}{B}{G},6.0,Legendary Creature — Insect Druid,"When Aatchik enters, create a 1/1 green Insect creature token for each artifact and/or creature card in your graveyard.
+Whenever another Insect you control dies, put a +1/+1 counter on Aatchik. Each opponent loses 1 life.","B,G","B,G",rare,DFT,Aetherdrift,187,3,3,,
+Abhorrent Oculus,{2}{U},3.0,Creature — Eye,"As an additional cost to cast this spell, exile six cards from your graveyard.
+Flying
+At the beginning of each opponent's upkeep, manifest dread. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)",U,U,mythic,PDSK,Duskmourn: House of Horror Promos,42p,5,5,,Flying;Manifest;Manifest dread
+Abhorrent Oculus,{2}{U},3.0,Creature — Eye,"As an additional cost to cast this spell, exile six cards from your graveyard.
+Flying
+At the beginning of each opponent's upkeep, manifest dread. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)",U,U,mythic,DSK,Duskmourn: House of Horror,344,5,5,,Flying;Manifest;Manifest dread
+Abhorrent Oculus,{2}{U},3.0,Creature — Eye,"As an additional cost to cast this spell, exile six cards from your graveyard.
+Flying
+At the beginning of each opponent's upkeep, manifest dread. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)",U,U,mythic,PDSK,Duskmourn: House of Horror Promos,42s,5,5,,Flying;Manifest;Manifest dread
+Abhorrent Oculus,{2}{U},3.0,Creature — Eye,"As an additional cost to cast this spell, exile six cards from your graveyard.
+Flying
+At the beginning of each opponent's upkeep, manifest dread. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)",U,U,mythic,DSK,Duskmourn: House of Horror,42,5,5,,Flying;Manifest;Manifest dread
+"Abigale, Eloquent First-Year",{W/B}{W/B},2.0,Legendary Creature — Bird Bard,"Flying, first strike, lifelink
+When Abigale enters, up to one other target creature loses all abilities. Put a flying counter, a first strike counter, and a lifelink counter on that creature.","B,W","B,W",rare,PECL,Lorwyn Eclipsed Promos,204p,1,1,,Flying;Lifelink;First strike
+"Abigale, Eloquent First-Year",{W/B}{W/B},2.0,Legendary Creature — Bird Bard,"Flying, first strike, lifelink
+When Abigale enters, up to one other target creature loses all abilities. Put a flying counter, a first strike counter, and a lifelink counter on that creature.","B,W","B,W",rare,ECL,Lorwyn Eclipsed,204,1,1,,Flying;Lifelink;First strike
+"Abigale, Eloquent First-Year",{W/B}{W/B},2.0,Legendary Creature — Bird Bard,"Flying, first strike, lifelink
+When Abigale enters, up to one other target creature loses all abilities. Put a flying counter, a first strike counter, and a lifelink counter on that creature.","B,W","B,W",rare,ECL,Lorwyn Eclipsed,368,1,1,,Flying;Lifelink;First strike
+Absolute Virtue,{6}{W}{U},8.0,Legendary Creature — Avatar Warrior,"This spell can't be countered.
+Flying
+You have protection from each of your opponents. (You can't be dealt damage, enchanted, or targeted by anything controlled by your opponents.)","U,W","U,W",mythic,FIN,Final Fantasy,476,8,8,,Flying
+Absolute Virtue,{6}{W}{U},8.0,Legendary Creature — Avatar Warrior,"This spell can't be countered.
+Flying
+You have protection from each of your opponents. (You can't be dealt damage, enchanted, or targeted by anything controlled by your opponents.)","U,W","U,W",mythic,PFIN,Final Fantasy Promos,212s,8,8,,Flying
+Absolute Virtue,{6}{W}{U},8.0,Legendary Creature — Avatar Warrior,"This spell can't be countered.
+Flying
+You have protection from each of your opponents. (You can't be dealt damage, enchanted, or targeted by anything controlled by your opponents.)","U,W","U,W",mythic,FIN,Final Fantasy,212,8,8,,Flying
+Absolving Lammasu,{4}{W},5.0,Creature — Lammasu,"Flying
+When this creature enters, all suspected creatures are no longer suspected.
+When this creature dies, you gain 3 life and suspect up to one target creature an opponent controls. (A suspected creature has menace and can't block.)",W,W,uncommon,MKM,Murders at Karlov Manor,2,4,3,,Flying
+"Abuelo, Ancestral Echo",{1}{W}{U},3.0,Legendary Creature — Spirit,"Flying, ward {2}
+{1}{W}{U}: Exile another target creature or artifact you control. Return it to the battlefield under its owner's control at the beginning of the next end step.","U,W","U,W",rare,PLCI,The Lost Caverns of Ixalan Promos,219s,2,2,,Flying;Ward
+"Abuelo, Ancestral Echo",{1}{W}{U},3.0,Legendary Creature — Spirit,"Flying, ward {2}
+{1}{W}{U}: Exile another target creature or artifact you control. Return it to the battlefield under its owner's control at the beginning of the next end step.","U,W","U,W",rare,LCI,The Lost Caverns of Ixalan,219,2,2,,Flying;Ward
+"Abuelo, Ancestral Echo",{1}{W}{U},3.0,Legendary Creature — Spirit,"Flying, ward {2}
+{1}{W}{U}: Exile another target creature or artifact you control. Return it to the battlefield under its owner's control at the beginning of the next end step.","U,W","U,W",rare,PLCI,The Lost Caverns of Ixalan Promos,219p,2,2,,Flying;Ward
+"Abuelo, Ancestral Echo",{1}{W}{U},3.0,Legendary Creature — Spirit,"Flying, ward {2}
+{1}{W}{U}: Exile another target creature or artifact you control. Return it to the battlefield under its owner's control at the beginning of the next end step.","U,W","U,W",rare,LCI,The Lost Caverns of Ixalan,297,2,2,,Flying;Ward
+Abyssal Gorestalker,{4}{B}{B},6.0,Creature — Horror,"When this creature enters, each player sacrifices two creatures of their choice.",B,B,uncommon,LCI,The Lost Caverns of Ixalan,87,6,6,,
+Abyssal Harvester,{1}{B}{B},3.0,Creature — Demon Warlock,"{T}: Exile target creature card from a graveyard that was put there this turn. Create a token that's a copy of it, except it's a Nightmare in addition to its other types. Then exile all other Nightmare tokens you control.",B,B,rare,FDN,Foundations,458,3,2,,
+Abyssal Harvester,{1}{B}{B},3.0,Creature — Demon Warlock,"{T}: Exile target creature card from a graveyard that was put there this turn. Create a token that's a copy of it, except it's a Nightmare in addition to its other types. Then exile all other Nightmare tokens you control.",B,B,rare,PFDN,Foundations Promos,54s,3,2,,
+Abyssal Harvester,{1}{B}{B},3.0,Creature — Demon Warlock,"{T}: Exile target creature card from a graveyard that was put there this turn. Create a token that's a copy of it, except it's a Nightmare in addition to its other types. Then exile all other Nightmare tokens you control.",B,B,rare,FDN,Foundations,316,3,2,,
+Abyssal Harvester,{1}{B}{B},3.0,Creature — Demon Warlock,"{T}: Exile target creature card from a graveyard that was put there this turn. Create a token that's a copy of it, except it's a Nightmare in addition to its other types. Then exile all other Nightmare tokens you control.",B,B,rare,FDN,Foundations,381,3,2,,
+Abyssal Harvester,{1}{B}{B},3.0,Creature — Demon Warlock,"{T}: Exile target creature card from a graveyard that was put there this turn. Create a token that's a copy of it, except it's a Nightmare in addition to its other types. Then exile all other Nightmare tokens you control.",B,B,rare,FDN,Foundations,54,3,2,,
+Abzan Devotee,{1}{B},2.0,Creature — Dog Cleric,"{1}: Add {W}, {B}, or {G}. Activate only once each turn.
+{2}{B}: Return this card from your graveyard to your hand.",B,"B,G,W",common,TDM,Tarkir: Dragonstorm,68,2,1,,
+"Aclazotz, Deepest Betrayal // Temple of the Dead",,5.0,Legendary Creature — Bat God // Land,,,B,mythic,LCI,The Lost Caverns of Ixalan,88,,,,Flying;Lifelink;Transform
+"Aclazotz, Deepest Betrayal // Temple of the Dead",,5.0,Legendary Creature — Bat God // Land,,,B,mythic,LCI,The Lost Caverns of Ixalan,316,,,,Flying;Lifelink;Transform
+Acolyte of Aclazotz,{2}{B},3.0,Creature — Vampire Cleric,"{T}, Sacrifice another creature or artifact: Each opponent loses 1 life and you gain 1 life.",B,B,common,LCI,The Lost Caverns of Ixalan,89,1,4,,
+Acrobatic Cheerleader,{1}{W},2.0,Creature — Human Survivor,"Survival — At the beginning of your second main phase, if this creature is tapped, put a flying counter on it. This ability triggers only once.",W,W,common,DSK,Duskmourn: House of Horror,1,2,2,,Survival
+Action News Crew,{1}{W},2.0,Creature — Human Citizen,"Vigilance
+Channel — {6}, Discard this card: Put a +1/+1 counter on each creature you control. Draw a card.",W,W,common,TMT,Teenage Mutant Ninja Turtles,1,2,2,,Vigilance;Channel
+Adaptive Automaton,{3},3.0,Artifact Creature — Construct,"As this creature enters, choose a creature type.
+This creature is the chosen type in addition to its other types.
+Other creatures you control of the chosen type get +1/+1.",,,rare,BRR,The Brothers' War Retro Artifacts,64z,2,2,,
+Adaptive Automaton,{3},3.0,Artifact Creature — Construct,"As this creature enters, choose a creature type.
+This creature is the chosen type in addition to its other types.
+Other creatures you control of the chosen type get +1/+1.",,,rare,SLD,Secret Lair Drop,1109,2,2,,
+Adaptive Automaton,{3},3.0,Artifact Creature — Construct,"As this creature enters, choose a creature type.
+This creature is the chosen type in addition to its other types.
+Other creatures you control of the chosen type get +1/+1.",,,rare,M12,Magic 2012,201,2,2,,
+Adaptive Automaton,{3},3.0,Artifact Creature — Construct,"As this creature enters, choose a creature type.
+This creature is the chosen type in addition to its other types.
+Other creatures you control of the chosen type get +1/+1.",,,rare,E02,Explorers of Ixalan,42,2,2,,
+Adaptive Automaton,{3},3.0,Artifact Creature — Construct,"As this creature enters, choose a creature type.
+This creature is the chosen type in addition to its other types.
+Other creatures you control of the chosen type get +1/+1.",,,rare,BRR,The Brothers' War Retro Artifacts,64,2,2,,
+Adaptive Automaton,{3},3.0,Artifact Creature — Construct,"As this creature enters, choose a creature type.
+This creature is the chosen type in addition to its other types.
+Other creatures you control of the chosen type get +1/+1.",,,rare,BRR,The Brothers' War Retro Artifacts,1,2,2,,
+Adaptive Automaton,{3},3.0,Artifact Creature — Construct,"As this creature enters, choose a creature type.
+This creature is the chosen type in addition to its other types.
+Other creatures you control of the chosen type get +1/+1.",,,rare,2XM,Double Masters,231,2,2,,
+Adaptive Automaton,{3},3.0,Artifact Creature — Construct,"As this creature enters, choose a creature type.
+This creature is the chosen type in addition to its other types.
+Other creatures you control of the chosen type get +1/+1.",,,rare,FDN,Foundations,723,2,2,,
+Adaptive Gemguard,{3}{W},4.0,Artifact Creature — Gnome,Tap two untapped artifacts and/or creatures you control: Put a +1/+1 counter on this creature. Activate only as a sorcery.,W,W,common,LCI,The Lost Caverns of Ixalan,3,3,3,,
+Adelbert Steiner,{1}{W},2.0,Legendary Creature — Human Knight,"Lifelink
+Adelbert Steiner gets +1/+1 for each Equipment you control.",W,W,uncommon,FIN,Final Fantasy,3,2,1,,Lifelink
+Adelbert Steiner,{1}{W},2.0,Legendary Creature — Human Knight,"Lifelink
+Adelbert Steiner gets +1/+1 for each Equipment you control.",W,W,uncommon,FIN,Final Fantasy,422,2,1,,Lifelink
+Adept Watershaper,{2}{W},3.0,Creature — Merfolk Cleric,Other tapped creatures you control have indestructible.,W,W,rare,PECL,Lorwyn Eclipsed Promos,3p,3,4,,
+Adept Watershaper,{2}{W},3.0,Creature — Merfolk Cleric,Other tapped creatures you control have indestructible.,W,W,rare,ECL,Lorwyn Eclipsed,3,3,4,,
+Adept Watershaper,{2}{W},3.0,Creature — Merfolk Cleric,Other tapped creatures you control have indestructible.,W,W,rare,ECL,Lorwyn Eclipsed,297,3,4,,
+Adorned Crocodile,{4}{B},5.0,Creature — Crocodile,"When this creature dies, create a 2/2 black Zombie Druid creature token.
+Renew — {B}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. Activate only as a sorcery.",B,B,common,TDM,Tarkir: Dragonstorm,69,5,3,,Renew
+Adrenaline Jockey,{2}{R},3.0,Creature — Minotaur Pilot,"Whenever a player casts a spell, if it's not their turn, this creature deals 4 damage to them.
+Whenever you activate an exhaust ability, put a +1/+1 counter on this creature.",R,R,uncommon,DFT,Aetherdrift,112,3,3,,
+Aegis Sculptor,{3}{U},4.0,Creature — Bird Wizard,"Flying
+Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+At the beginning of your upkeep, you may exile two cards from your graveyard. If you do, put a +1/+1 counter on this creature.",U,U,uncommon,TDM,Tarkir: Dragonstorm,35,2,3,,Flying;Ward
+Aegis Turtle,{U},1.0,Creature — Turtle,,U,U,common,JMP,Jumpstart,138,0,5,,
+Aegis Turtle,{U},1.0,Creature — Turtle,,U,U,common,FDN,Foundations,150,0,5,,
+Aegis Turtle,{U},1.0,Creature — Turtle,,U,U,common,IKO,Ikoria: Lair of Behemoths,39,0,5,,
+Aerith Gainsborough,{2}{W},3.0,Legendary Creature — Human Cleric,"Lifelink
+Whenever you gain life, put a +1/+1 counter on Aerith Gainsborough.
+When Aerith Gainsborough dies, put X +1/+1 counters on each legendary creature you control, where X is the number of +1/+1 counters on Aerith Gainsborough.",W,W,rare,FIN,Final Fantasy,519,2,2,,Lifelink
+Aerith Gainsborough,{2}{W},3.0,Legendary Creature — Human Cleric,"Lifelink
+Whenever you gain life, put a +1/+1 counter on Aerith Gainsborough.
+When Aerith Gainsborough dies, put X +1/+1 counters on each legendary creature you control, where X is the number of +1/+1 counters on Aerith Gainsborough.",W,W,rare,FIN,Final Fantasy,423,2,2,,Lifelink
+Aerith Gainsborough,{2}{W},3.0,Legendary Creature — Human Cleric,"Lifelink
+Whenever you gain life, put a +1/+1 counter on Aerith Gainsborough.
+When Aerith Gainsborough dies, put X +1/+1 counters on each legendary creature you control, where X is the number of +1/+1 counters on Aerith Gainsborough.",W,W,rare,FIN,Final Fantasy,4,2,2,,Lifelink
+Aerith Gainsborough,{2}{W},3.0,Legendary Creature — Human Cleric,"Lifelink
+Whenever you gain life, put a +1/+1 counter on Aerith Gainsborough.
+When Aerith Gainsborough dies, put X +1/+1 counters on each legendary creature you control, where X is the number of +1/+1 counters on Aerith Gainsborough.",W,W,rare,PPRO,Pro Tour Promos,2025-3,2,2,,Lifelink
+Aerith Gainsborough,{2}{W},3.0,Legendary Creature — Human Cleric,"Lifelink
+Whenever you gain life, put a +1/+1 counter on Aerith Gainsborough.
+When Aerith Gainsborough dies, put X +1/+1 counters on each legendary creature you control, where X is the number of +1/+1 counters on Aerith Gainsborough.",W,W,rare,PFIN,Final Fantasy Promos,4s,2,2,,Lifelink
+Aerith Gainsborough,{2}{W},3.0,Legendary Creature — Human Cleric,"Lifelink
+Whenever you gain life, put a +1/+1 counter on Aerith Gainsborough.
+When Aerith Gainsborough dies, put X +1/+1 counters on each legendary creature you control, where X is the number of +1/+1 counters on Aerith Gainsborough.",W,W,rare,FIN,Final Fantasy,374,2,2,,Lifelink
+Aetherjacket,{3},3.0,Artifact Creature — Thopter,"Flying, vigilance
+{2}, {T}, Sacrifice this creature: Destroy another target artifact. Activate only as a sorcery.",,,common,DFT,Aetherdrift,230,2,1,,Flying;Vigilance
+Affectionate Indrik,{5}{G},6.0,Creature — Beast,"When this creature enters, you may have it fight target creature you don't control. (Each deals damage equal to its power to the other.)",G,G,uncommon,JMP,Jumpstart,373,4,4,,Fight
+Affectionate Indrik,{5}{G},6.0,Creature — Beast,"When this creature enters, you may have it fight target creature you don't control. (Each deals damage equal to its power to the other.)",G,G,uncommon,ANB,Arena Beginner Set,89,4,4,,Fight
+Affectionate Indrik,{5}{G},6.0,Creature — Beast,"When this creature enters, you may have it fight target creature you don't control. (Each deals damage equal to its power to the other.)",G,G,uncommon,FDN,Foundations,211,4,4,,Fight
+Affectionate Indrik,{5}{G},6.0,Creature — Beast,"When this creature enters, you may have it fight target creature you don't control. (Each deals damage equal to its power to the other.)",G,G,uncommon,CLU,Ravnica: Clue Edition,155,4,4,,Fight
+Affectionate Indrik,{5}{G},6.0,Creature — Beast,"When this creature enters, you may have it fight target creature you don't control. (Each deals damage equal to its power to the other.)",G,G,uncommon,GRN,Guilds of Ravnica,121,4,4,,Fight
+Affectionate Indrik,{5}{G},6.0,Creature — Beast,"When this creature enters, you may have it fight target creature you don't control. (Each deals damage equal to its power to the other.)",G,G,uncommon,PLST,The List,GRN-121,4,4,,Fight
+Afterburner Expert,{2}{G},3.0,Creature — Goblin Artificer,"Exhaust — {2}{G}{G}: Put two +1/+1 counters on this creature. (Activate each exhaust ability only once.)
+Whenever you activate an exhaust ability, return this card from your graveyard to the battlefield.",G,G,rare,DFT,Aetherdrift,464,4,2,,Exhaust
+Afterburner Expert,{2}{G},3.0,Creature — Goblin Artificer,"Exhaust — {2}{G}{G}: Put two +1/+1 counters on this creature. (Activate each exhaust ability only once.)
+Whenever you activate an exhaust ability, return this card from your graveyard to the battlefield.",G,G,rare,DFT,Aetherdrift,150,4,2,,Exhaust
+Afterburner Expert,{2}{G},3.0,Creature — Goblin Artificer,"Exhaust — {2}{G}{G}: Put two +1/+1 counters on this creature. (Activate each exhaust ability only once.)
+Whenever you activate an exhaust ability, return this card from your graveyard to the battlefield.",G,G,rare,DFT,Aetherdrift,387,4,2,,Exhaust
+Afterburner Expert,{2}{G},3.0,Creature — Goblin Artificer,"Exhaust — {2}{G}{G}: Put two +1/+1 counters on this creature. (Activate each exhaust ability only once.)
+Whenever you activate an exhaust ability, return this card from your graveyard to the battlefield.",G,G,rare,PDFT,Aetherdrift Promos,150p,4,2,,Exhaust
+Afterburner Expert,{2}{G},3.0,Creature — Goblin Artificer,"Exhaust — {2}{G}{G}: Put two +1/+1 counters on this creature. (Activate each exhaust ability only once.)
+Whenever you activate an exhaust ability, return this card from your graveyard to the battlefield.",G,G,rare,PDFT,Aetherdrift Promos,150s,4,2,,Exhaust
+Aftermath Analyst,{1}{G},2.0,Creature — Elf Detective,"When this creature enters, mill three cards. (Put the top three cards of your library into your graveyard.)
+{3}{G}, Sacrifice this creature: Return all land cards from your graveyard to the battlefield tapped.",G,G,uncommon,MKM,Murders at Karlov Manor,148,1,3,,Mill
+Aftermath Analyst,{1}{G},2.0,Creature — Elf Detective,"When this creature enters, mill three cards. (Put the top three cards of your library into your graveyard.)
+{3}{G}, Sacrifice this creature: Return all land cards from your graveyard to the battlefield tapped.",G,G,uncommon,EOC,Edge of Eternities Commander,91,1,3,,Mill
+Agate-Blade Assassin,{1}{B},2.0,Creature — Lizard Assassin,"Whenever this creature attacks, defending player loses 1 life and you gain 1 life.",B,B,common,BLB,Bloomburrow,82,1,3,,
+Agatha of the Vile Cauldron,{R}{G},2.0,Legendary Creature — Human Warlock,"Activated abilities of creatures you control cost {X} less to activate, where X is Agatha's power. This effect can't reduce the mana in that cost to less than one mana.
+{4}{R}{G}: Other creatures you control get +1/+1 and gain trample and haste until end of turn.","G,R","G,R",mythic,PWOE,Wilds of Eldraine Promos,199s,1,1,,
+Agatha of the Vile Cauldron,{R}{G},2.0,Legendary Creature — Human Warlock,"Activated abilities of creatures you control cost {X} less to activate, where X is Agatha's power. This effect can't reduce the mana in that cost to less than one mana.
+{4}{R}{G}: Other creatures you control get +1/+1 and gain trample and haste until end of turn.","G,R","G,R",mythic,WOE,Wilds of Eldraine,360,1,1,,
+Agatha of the Vile Cauldron,{R}{G},2.0,Legendary Creature — Human Warlock,"Activated abilities of creatures you control cost {X} less to activate, where X is Agatha's power. This effect can't reduce the mana in that cost to less than one mana.
+{4}{R}{G}: Other creatures you control get +1/+1 and gain trample and haste until end of turn.","G,R","G,R",mythic,WOE,Wilds of Eldraine,199,1,1,,
+Agatha of the Vile Cauldron,{R}{G},2.0,Legendary Creature — Human Warlock,"Activated abilities of creatures you control cost {X} less to activate, where X is Agatha's power. This effect can't reduce the mana in that cost to less than one mana.
+{4}{R}{G}: Other creatures you control get +1/+1 and gain trample and haste until end of turn.","G,R","G,R",mythic,PWOE,Wilds of Eldraine Promos,199p,1,1,,
+Agatha's Champion,{4}{G},5.0,Creature — Human Knight,"Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
+Trample
+When this creature enters, if it was bargained, it fights up to one target creature you don't control. (Each deals damage equal to its power to the other.)",G,G,uncommon,WOE,Wilds of Eldraine,160,4,4,,Trample;Fight;Bargain
+Agency Coroner,{4}{B},5.0,Creature — Ogre Cleric,"{2}{B}, Sacrifice another creature: Draw a card. If the sacrificed creature was suspected, draw two cards instead.",B,B,common,MKM,Murders at Karlov Manor,75,3,6,,
+Agency Outfitter,{4}{U}{U},6.0,Creature — Sphinx Detective,"Flying
+When this creature enters, you may search your graveyard, hand and/or library for a card named Magnifying Glass and/or a card named Thinking Cap and put them onto the battlefield. If you search your library this way, shuffle.",U,U,uncommon,MKM,Murders at Karlov Manor,38,4,3,,Flying
+"Agent Bishop, Man in Black",{2}{W},3.0,Legendary Creature — Human Soldier,"At the beginning of combat on your turn, put a +1/+1 counter on each of up to two target creatures.",W,W,rare,TMT,Teenage Mutant Ninja Turtles,2,1,2,,
+"Agent Bishop, Man in Black",{2}{W},3.0,Legendary Creature — Human Soldier,"At the beginning of combat on your turn, put a +1/+1 counter on each of up to two target creatures.",W,W,rare,TMT,Teenage Mutant Ninja Turtles,258,1,2,,
+Agent of Kotis,{1}{U},2.0,Creature — Human Rogue,"Renew — {3}{U}, Exile this card from your graveyard: Put two +1/+1 counters on target creature. Activate only as a sorcery.",U,U,common,TDM,Tarkir: Dragonstorm,36,2,1,,Renew
+Agent Venom,{2}{B},3.0,Legendary Creature — Symbiote Soldier Hero,"Flash
+Menace
+Whenever another nontoken creature you control dies, you draw a card and lose 1 life.",B,B,rare,PSPM,Marvel's Spider-Man Promos,49s,2,3,,Menace;Flash
+Agent Venom,{2}{B},3.0,Legendary Creature — Symbiote Soldier Hero,"Flash
+Menace
+Whenever another nontoken creature you control dies, you draw a card and lose 1 life.",B,B,rare,SPM,Marvel's Spider-Man,255,2,3,,Menace;Flash
+Agent Venom,{2}{B},3.0,Legendary Creature — Symbiote Soldier Hero,"Flash
+Menace
+Whenever another nontoken creature you control dies, you draw a card and lose 1 life.",B,B,rare,OM1,Through the Omenpaths,66,2,3,,Menace;Flash
+Agent Venom,{2}{B},3.0,Legendary Creature — Symbiote Soldier Hero,"Flash
+Menace
+Whenever another nontoken creature you control dies, you draw a card and lose 1 life.",B,B,rare,SPM,Marvel's Spider-Man,49,2,3,,Menace;Flash
+Aggressive Mammoth,{3}{G}{G}{G},6.0,Creature — Elephant,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Other creatures you control have trample.",G,G,rare,M19,Core Set 2019,302,8,8,,Trample
+Aggressive Mammoth,{3}{G}{G}{G},6.0,Creature — Elephant,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Other creatures you control have trample.",G,G,rare,M20,Core Set 2020,337,8,8,,Trample
+Aggressive Mammoth,{3}{G}{G}{G},6.0,Creature — Elephant,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Other creatures you control have trample.",G,G,rare,FDN,Foundations,551,8,8,,Trample
+Agonasaur Rex,{3}{G}{G},5.0,Creature — Dinosaur,"Trample
+Cycling {2}{G} ({2}{G}, Discard this card: Draw a card.)
+When you cycle this card, put two +1/+1 counters on up to one target creature or Vehicle. It gains trample and indestructible until end of turn.",G,G,rare,PDFT,Aetherdrift Promos,151s,8,8,,Trample;Cycling
+Agonasaur Rex,{3}{G}{G},5.0,Creature — Dinosaur,"Trample
+Cycling {2}{G} ({2}{G}, Discard this card: Draw a card.)
+When you cycle this card, put two +1/+1 counters on up to one target creature or Vehicle. It gains trample and indestructible until end of turn.",G,G,rare,DFT,Aetherdrift,343,8,8,,Trample;Cycling
+Agonasaur Rex,{3}{G}{G},5.0,Creature — Dinosaur,"Trample
+Cycling {2}{G} ({2}{G}, Discard this card: Draw a card.)
+When you cycle this card, put two +1/+1 counters on up to one target creature or Vehicle. It gains trample and indestructible until end of turn.",G,G,rare,DFT,Aetherdrift,465,8,8,,Trample;Cycling
+Agonasaur Rex,{3}{G}{G},5.0,Creature — Dinosaur,"Trample
+Cycling {2}{G} ({2}{G}, Discard this card: Draw a card.)
+When you cycle this card, put two +1/+1 counters on up to one target creature or Vehicle. It gains trample and indestructible until end of turn.",G,G,rare,DFT,Aetherdrift,151,8,8,,Trample;Cycling
+Agonasaur Rex,{3}{G}{G},5.0,Creature — Dinosaur,"Trample
+Cycling {2}{G} ({2}{G}, Discard this card: Draw a card.)
+When you cycle this card, put two +1/+1 counters on up to one target creature or Vehicle. It gains trample and indestructible until end of turn.",G,G,rare,PDFT,Aetherdrift Promos,151p,8,8,,Trample;Cycling
+Agonasaur Rex,{3}{G}{G},5.0,Creature — Dinosaur,"Trample
+Cycling {2}{G} ({2}{G}, Discard this card: Draw a card.)
+When you cycle this card, put two +1/+1 counters on up to one target creature or Vehicle. It gains trample and indestructible until end of turn.",G,G,rare,DFT,Aetherdrift,542,8,8,,Trample;Cycling
+"Agrus Kos, Spirit of Justice",{2}{R}{W},4.0,Legendary Creature — Spirit Detective,"Double strike, vigilance
+Whenever Agrus Kos enters or attacks, choose up to one target creature. If it's suspected, exile it. Otherwise, suspect it. (A suspected creature has menace and can't block.)","R,W","R,W",mythic,PMKM,Murders at Karlov Manor Promos,184p,2,4,,Vigilance;Suspect;Double strike
+"Agrus Kos, Spirit of Justice",{2}{R}{W},4.0,Legendary Creature — Spirit Detective,"Double strike, vigilance
+Whenever Agrus Kos enters or attacks, choose up to one target creature. If it's suspected, exile it. Otherwise, suspect it. (A suspected creature has menace and can't block.)","R,W","R,W",mythic,MKM,Murders at Karlov Manor,383,2,4,,Vigilance;Suspect;Double strike
+"Agrus Kos, Spirit of Justice",{2}{R}{W},4.0,Legendary Creature — Spirit Detective,"Double strike, vigilance
+Whenever Agrus Kos enters or attacks, choose up to one target creature. If it's suspected, exile it. Otherwise, suspect it. (A suspected creature has menace and can't block.)","R,W","R,W",mythic,MKM,Murders at Karlov Manor,184,2,4,,Vigilance;Suspect;Double strike
+"Agrus Kos, Spirit of Justice",{2}{R}{W},4.0,Legendary Creature — Spirit Detective,"Double strike, vigilance
+Whenever Agrus Kos enters or attacks, choose up to one target creature. If it's suspected, exile it. Otherwise, suspect it. (A suspected creature has menace and can't block.)","R,W","R,W",mythic,MKM,Murders at Karlov Manor,354,2,4,,Vigilance;Suspect;Double strike
+"Agrus Kos, Spirit of Justice",{2}{R}{W},4.0,Legendary Creature — Spirit Detective,"Double strike, vigilance
+Whenever Agrus Kos enters or attacks, choose up to one target creature. If it's suspected, exile it. Otherwise, suspect it. (A suspected creature has menace and can't block.)","R,W","R,W",mythic,PMKM,Murders at Karlov Manor Promos,184s,2,4,,Vigilance;Suspect;Double strike
+Ahriman,{2}{B},3.0,Creature — Eye Horror,"Flying, deathtouch
+{3}, Sacrifice another creature or artifact: Draw a card.",B,B,common,FIN,Final Fantasy,87,2,2,,Deathtouch;Flying
+Ainok Wayfarer,{1}{G},2.0,Creature — Dog Scout,"When this creature enters, mill three cards. You may put a land card from among them into your hand. If you don't, put a +1/+1 counter on this creature. (To mill three cards, put the top three cards of your library into your graveyard.)",G,G,common,TDM,Tarkir: Dragonstorm,134,1,1,,Mill
+Ajani's Pridemate,{1}{W},2.0,Creature — Cat Soldier,"Whenever you gain life, put a +1/+1 counter on this creature.",W,W,uncommon,CLU,Ravnica: Clue Edition,52,2,2,,
+Ajani's Pridemate,{1}{W},2.0,Creature — Cat Soldier,"Whenever you gain life, put a +1/+1 counter on this creature.",W,W,uncommon,FDN,Foundations,135,2,2,,
+Ajani's Pridemate,{1}{W},2.0,Creature — Cat Soldier,"Whenever you gain life, put a +1/+1 counter on this creature.",W,W,uncommon,C13,Commander 2013,3,2,2,,
+Ajani's Pridemate,{1}{W},2.0,Creature — Cat Soldier,"Whenever you gain life, put a +1/+1 counter on this creature.",W,W,uncommon,IMA,Iconic Masters,5,2,2,,
+Ajani's Pridemate,{1}{W},2.0,Creature — Cat Soldier,"Whenever you gain life, put a +1/+1 counter on this creature.",W,W,uncommon,M19,Core Set 2019,5,2,2,,
+Ajani's Pridemate,{1}{W},2.0,Creature — Cat Soldier,"Whenever you gain life, put a +1/+1 counter on this creature.",W,W,uncommon,PLST,The List,WAR-4,2,2,,
+Ajani's Pridemate,{1}{W},2.0,Creature — Cat Soldier,"Whenever you gain life, put a +1/+1 counter on this creature.",W,W,uncommon,J22,Jumpstart 2022,142,2,2,,
+Ajani's Pridemate,{1}{W},2.0,Creature — Cat Soldier,"Whenever you gain life, put a +1/+1 counter on this creature.",W,W,special,TSR,Time Spiral Remastered,290,2,2,,
+Ajani's Pridemate,{1}{W},2.0,Creature — Cat Soldier,"Whenever you gain life, put a +1/+1 counter on this creature.",W,W,uncommon,WAR,War of the Spark,4,2,2,,
+Ajani's Pridemate,{1}{W},2.0,Creature — Cat Soldier,"Whenever you gain life, put a +1/+1 counter on this creature.",W,W,uncommon,J25,Foundations Jumpstart,158,2,2,,
+Ajani's Pridemate,{1}{W},2.0,Creature — Cat Soldier,"Whenever you gain life, put a +1/+1 counter on this creature.",W,W,uncommon,DDH,Duel Decks: Ajani vs. Nicol Bolas,9,2,2,,
+Ajani's Pridemate,{1}{W},2.0,Creature — Cat Soldier,"Whenever you gain life, put a +1/+1 counter on this creature.",W,W,uncommon,FDN,Foundations,293,2,2,,
+Ajani's Pridemate,{1}{W},2.0,Creature — Cat Soldier,"Whenever you gain life, put a +1/+1 counter on this creature.",W,W,uncommon,M15,Magic 2015,2,2,2,,
+Ajani's Pridemate,{1}{W},2.0,Creature — Cat Soldier,"Whenever you gain life, put a +1/+1 counter on this creature.",W,W,uncommon,M11,Magic 2011,3,2,2,,
+"Akal Pakal, First Among Equals",{2}{U},3.0,Legendary Creature — Human Advisor,"At the beginning of each player's end step, if an artifact entered the battlefield under your control this turn, look at the top two cards of your library. Put one of them into your hand and the other into your graveyard.",U,U,rare,PLCI,The Lost Caverns of Ixalan Promos,44s,1,5,,
+"Akal Pakal, First Among Equals",{2}{U},3.0,Legendary Creature — Human Advisor,"At the beginning of each player's end step, if an artifact entered the battlefield under your control this turn, look at the top two cards of your library. Put one of them into your hand and the other into your graveyard.",U,U,rare,LCI,The Lost Caverns of Ixalan,44,1,5,,
+"Akal Pakal, First Among Equals",{2}{U},3.0,Legendary Creature — Human Advisor,"At the beginning of each player's end step, if an artifact entered the battlefield under your control this turn, look at the top two cards of your library. Put one of them into your hand and the other into your graveyard.",U,U,rare,LCI,The Lost Caverns of Ixalan,292,1,5,,
+"Akal Pakal, First Among Equals",{2}{U},3.0,Legendary Creature — Human Advisor,"At the beginning of each player's end step, if an artifact entered the battlefield under your control this turn, look at the top two cards of your library. Put one of them into your hand and the other into your graveyard.",U,U,rare,PLCI,The Lost Caverns of Ixalan Promos,44p,1,5,,
+"Akawalli, the Seething Tower",{1}{B}{G},3.0,Legendary Creature — Fungus,"Descend 4 — As long as there are four or more permanent cards in your graveyard, Akawalli gets +2/+2 and has trample.
+Descend 8 — As long as there are eight or more permanent cards in your graveyard, Akawalli gets an additional +2/+2 and can't be blocked by more than one creature.","B,G","B,G",uncommon,LCI,The Lost Caverns of Ixalan,220,3,3,,Descend
+"Akawalli, the Seething Tower",{1}{B}{G},3.0,Legendary Creature — Fungus,"Descend 4 — As long as there are four or more permanent cards in your graveyard, Akawalli gets +2/+2 and has trample.
+Descend 8 — As long as there are eight or more permanent cards in your graveyard, Akawalli gets an additional +2/+2 and can't be blocked by more than one creature.","B,G","B,G",uncommon,LCI,The Lost Caverns of Ixalan,298,3,3,,Descend
+Akul the Unrepentant,{B}{B}{R}{R},4.0,Legendary Creature — Scorpion Dragon Rogue,"Flying, trample
+Sacrifice three other creatures: You may put a creature card from your hand onto the battlefield. Activate only as a sorcery and only once each turn.","B,R","B,R",rare,POTJ,Outlaws of Thunder Junction Promos,189s,5,5,,Flying;Trample
+Akul the Unrepentant,{B}{B}{R}{R},4.0,Legendary Creature — Scorpion Dragon Rogue,"Flying, trample
+Sacrifice three other creatures: You may put a creature card from your hand onto the battlefield. Activate only as a sorcery and only once each turn.","B,R","B,R",rare,OTJ,Outlaws of Thunder Junction,346,5,5,,Flying;Trample
+Akul the Unrepentant,{B}{B}{R}{R},4.0,Legendary Creature — Scorpion Dragon Rogue,"Flying, trample
+Sacrifice three other creatures: You may put a creature card from your hand onto the battlefield. Activate only as a sorcery and only once each turn.","B,R","B,R",rare,OTJ,Outlaws of Thunder Junction,189,5,5,,Flying;Trample
+Akul the Unrepentant,{B}{B}{R}{R},4.0,Legendary Creature — Scorpion Dragon Rogue,"Flying, trample
+Sacrifice three other creatures: You may put a creature card from your hand onto the battlefield. Activate only as a sorcery and only once each turn.","B,R","B,R",rare,POTJ,Outlaws of Thunder Junction Promos,189p,5,5,,Flying;Trample
+Al Bhed Salvagers,{2}{B},3.0,Creature — Human Artificer Warrior,"Whenever this creature or another creature or artifact you control dies, target opponent loses 1 life and you gain 1 life.",B,B,uncommon,FIN,Final Fantasy,88,2,3,,
+Alacrian Jaguar,{4}{G},5.0,Creature — Cat Mount,"Vigilance
+Whenever this creature attacks while saddled, it gets +2/+2 until end of turn.
+Saddle 1 (Tap any number of other creatures you control with total power 1 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",G,G,common,DFT,Aetherdrift,152,4,4,,Saddle;Vigilance
+Alania's Pathmaker,{3}{R},4.0,Creature — Otter Wizard,"When this creature enters, exile the top card of your library. Until the end of your next turn, you may play that card.",R,R,common,BLB,Bloomburrow,123,4,2,,
+"Alania, Divergent Storm",{3}{U}{R},5.0,Legendary Creature — Otter Wizard,"Whenever you cast a spell, if it's the first instant spell, the first sorcery spell, or the first Otter spell other than Alania you've cast this turn, you may have target opponent draw a card. If you do, copy that spell. You may choose new targets for the copy.","R,U","R,U",rare,BLB,Bloomburrow,344,3,5,,
+"Alania, Divergent Storm",{3}{U}{R},5.0,Legendary Creature — Otter Wizard,"Whenever you cast a spell, if it's the first instant spell, the first sorcery spell, or the first Otter spell other than Alania you've cast this turn, you may have target opponent draw a card. If you do, copy that spell. You may choose new targets for the copy.","R,U","R,U",rare,BLB,Bloomburrow,204,3,5,,
+"Alania, Divergent Storm",{3}{U}{R},5.0,Legendary Creature — Otter Wizard,"Whenever you cast a spell, if it's the first instant spell, the first sorcery spell, or the first Otter spell other than Alania you've cast this turn, you may have target opponent draw a card. If you do, copy that spell. You may choose new targets for the copy.","R,U","R,U",rare,PBLB,Bloomburrow Promos,204p,3,5,,
+"Alania, Divergent Storm",{3}{U}{R},5.0,Legendary Creature — Otter Wizard,"Whenever you cast a spell, if it's the first instant spell, the first sorcery spell, or the first Otter spell other than Alania you've cast this turn, you may have target opponent draw a card. If you do, copy that spell. You may choose new targets for the copy.","R,U","R,U",rare,PBLB,Bloomburrow Promos,204s,3,5,,
+"Alania, Divergent Storm",{3}{U}{R},5.0,Legendary Creature — Otter Wizard,"Whenever you cast a spell, if it's the first instant spell, the first sorcery spell, or the first Otter spell other than Alania you've cast this turn, you may have target opponent draw a card. If you do, copy that spell. You may choose new targets for the copy.","R,U","R,U",rare,BLB,Bloomburrow,327,3,5,,
+Alchemist's Assistant,{1}{B},2.0,Creature — Monkey,"Lifelink
+Renew — {1}{B}, Exile this card from your graveyard: Put a lifelink counter on target creature. Activate only as a sorcery.",B,B,uncommon,TDM,Tarkir: Dragonstorm,71,2,1,,Lifelink;Renew
+"Alesha, Who Laughs at Fate",{1}{B}{R},3.0,Legendary Creature — Human Warrior,"First strike
+Whenever Alesha attacks, put a +1/+1 counter on it.
+Raid — At the beginning of your end step, if you attacked this turn, return target creature card with mana value less than or equal to Alesha's power from your graveyard to the battlefield.","B,R","B,R",rare,FDN,Foundations,476,2,2,,First strike;Raid
+"Alesha, Who Laughs at Fate",{1}{B}{R},3.0,Legendary Creature — Human Warrior,"First strike
+Whenever Alesha attacks, put a +1/+1 counter on it.
+Raid — At the beginning of your end step, if you attacked this turn, return target creature card with mana value less than or equal to Alesha's power from your graveyard to the battlefield.","B,R","B,R",rare,PFDN,Foundations Promos,115s,2,2,,First strike;Raid
+"Alesha, Who Laughs at Fate",{1}{B}{R},3.0,Legendary Creature — Human Warrior,"First strike
+Whenever Alesha attacks, put a +1/+1 counter on it.
+Raid — At the beginning of your end step, if you attacked this turn, return target creature card with mana value less than or equal to Alesha's power from your graveyard to the battlefield.","B,R","B,R",rare,PFDN,Foundations Promos,115p,2,2,,First strike;Raid
+"Alesha, Who Laughs at Fate",{1}{B}{R},3.0,Legendary Creature — Human Warrior,"First strike
+Whenever Alesha attacks, put a +1/+1 counter on it.
+Raid — At the beginning of your end step, if you attacked this turn, return target creature card with mana value less than or equal to Alesha's power from your graveyard to the battlefield.","B,R","B,R",rare,FDN,Foundations,404,2,2,,First strike;Raid
+"Alesha, Who Laughs at Fate",{1}{B}{R},3.0,Legendary Creature — Human Warrior,"First strike
+Whenever Alesha attacks, put a +1/+1 counter on it.
+Raid — At the beginning of your end step, if you attacked this turn, return target creature card with mana value less than or equal to Alesha's power from your graveyard to the battlefield.","B,R","B,R",rare,FDN,Foundations,115,2,2,,First strike;Raid
+"Alesha, Who Laughs at Fate",{1}{B}{R},3.0,Legendary Creature — Human Warrior,"First strike
+Whenever Alesha attacks, put a +1/+1 counter on it.
+Raid — At the beginning of your end step, if you attacked this turn, return target creature card with mana value less than or equal to Alesha's power from your graveyard to the battlefield.","B,R","B,R",rare,FDN,Foundations,343,2,2,,First strike;Raid
+All-Fates Stalker,{3}{W},4.0,Creature — Drix Assassin,"When this creature enters, exile up to one target non-Assassin creature until this creature leaves the battlefield.
+Warp {1}{W} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",W,W,uncommon,EOE,Edge of Eternities,3,2,3,,Warp
+Alley Assailant,{2}{B},3.0,Creature — Vampire Rogue,"This creature enters tapped.
+Disguise {4}{B}{B} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)
+When this creature is turned face up, target opponent loses 3 life and you gain 3 life.",B,B,common,MKM,Murders at Karlov Manor,76,3,3,,Disguise
+Aloe Alchemist,{1}{G},2.0,Creature — Plant Warlock,"Trample
+When this card becomes plotted, target creature gets +3/+2 and gains trample until end of turn.
+Plot {1}{G} (You may pay {1}{G} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",G,G,uncommon,OTJ,Outlaws of Thunder Junction,152,3,2,,Plot;Trample
+"Alpharael, Dreaming Acolyte",{1}{U}{B},3.0,Legendary Creature — Human Cleric,"When Alpharael enters, draw two cards. Then discard two cards unless you discard an artifact card.
+During your turn, Alpharael has deathtouch.","B,U","B,U",uncommon,EOE,Edge of Eternities,212,2,3,,
+"Alpharael, Stonechosen",{3}{B}{B},5.0,Legendary Creature — Human Cleric,"Ward—Discard a card at random.
+Void — Whenever Alpharael attacks, if a nonland permanent left the battlefield this turn or a spell was warped this turn, defending player loses half their life, rounded up.",B,B,mythic,PEOE,Edge of Eternities Promos,87p,3,3,,Ward;Void
+"Alpharael, Stonechosen",{3}{B}{B},5.0,Legendary Creature — Human Cleric,"Ward—Discard a card at random.
+Void — Whenever Alpharael attacks, if a nonland permanent left the battlefield this turn or a spell was warped this turn, defending player loses half their life, rounded up.",B,B,mythic,EOE,Edge of Eternities,87,3,3,,Ward;Void
+"Alpharael, Stonechosen",{3}{B}{B},5.0,Legendary Creature — Human Cleric,"Ward—Discard a card at random.
+Void — Whenever Alpharael attacks, if a nonland permanent left the battlefield this turn or a spell was warped this turn, defending player loses half their life, rounded up.",B,B,mythic,EOE,Edge of Eternities,292,3,3,,Ward;Void
+"Alpharael, Stonechosen",{3}{B}{B},5.0,Legendary Creature — Human Cleric,"Ward—Discard a card at random.
+Void — Whenever Alpharael attacks, if a nonland permanent left the battlefield this turn or a spell was warped this turn, defending player loses half their life, rounded up.",B,B,mythic,PEOE,Edge of Eternities Promos,87s,3,3,,Ward;Void
+"Alquist Proft, Master Sleuth",{1}{W}{U},3.0,Legendary Creature — Human Detective,"Vigilance
+When Alquist Proft enters, investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")
+{X}{W}{U}{U}, {T}, Sacrifice a Clue: You draw X cards and gain X life.","U,W","U,W",mythic,MKM,Murders at Karlov Manor,384,3,3,,Investigate;Vigilance
+"Alquist Proft, Master Sleuth",{1}{W}{U},3.0,Legendary Creature — Human Detective,"Vigilance
+When Alquist Proft enters, investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")
+{X}{W}{U}{U}, {T}, Sacrifice a Clue: You draw X cards and gain X life.","U,W","U,W",mythic,MKM,Murders at Karlov Manor,185,3,3,,Investigate;Vigilance
+"Alquist Proft, Master Sleuth",{1}{W}{U},3.0,Legendary Creature — Human Detective,"Vigilance
+When Alquist Proft enters, investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")
+{X}{W}{U}{U}, {T}, Sacrifice a Clue: You draw X cards and gain X life.","U,W","U,W",mythic,PMKM,Murders at Karlov Manor Promos,185s,3,3,,Investigate;Vigilance
+"Alquist Proft, Master Sleuth",{1}{W}{U},3.0,Legendary Creature — Human Detective,"Vigilance
+When Alquist Proft enters, investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")
+{X}{W}{U}{U}, {T}, Sacrifice a Clue: You draw X cards and gain X life.","U,W","U,W",mythic,PMKM,Murders at Karlov Manor Promos,185p,3,3,,Investigate;Vigilance
+"Alquist Proft, Master Sleuth",{1}{W}{U},3.0,Legendary Creature — Human Detective,"Vigilance
+When Alquist Proft enters, investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")
+{X}{W}{U}{U}, {T}, Sacrifice a Clue: You draw X cards and gain X life.","U,W","U,W",mythic,MKM,Murders at Karlov Manor,355,3,3,,Investigate;Vigilance
+"Altanak, the Thrice-Called",{5}{G}{G},7.0,Legendary Creature — Insect Beast,"Trample
+Whenever Altanak becomes the target of a spell or ability an opponent controls, draw a card.
+{1}{G}, Discard this card: Return target land card from your graveyard to the battlefield tapped.",G,G,uncommon,DSK,Duskmourn: House of Horror,166,9,9,,Trample
+Amalia Benavides Aguirre,{W}{B},2.0,Legendary Creature — Vampire Scout,"Ward—Pay 3 life.
+Whenever you gain life, Amalia Benavides Aguirre explores. Then destroy all other creatures if its power is exactly 20. (To have this creature explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)","B,W","B,W",rare,LCI,The Lost Caverns of Ixalan,221,2,2,,Explore;Ward
+Amalia Benavides Aguirre,{W}{B},2.0,Legendary Creature — Vampire Scout,"Ward—Pay 3 life.
+Whenever you gain life, Amalia Benavides Aguirre explores. Then destroy all other creatures if its power is exactly 20. (To have this creature explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)","B,W","B,W",rare,LCI,The Lost Caverns of Ixalan,299,2,2,,Explore;Ward
+Amalia Benavides Aguirre,{W}{B},2.0,Legendary Creature — Vampire Scout,"Ward—Pay 3 life.
+Whenever you gain life, Amalia Benavides Aguirre explores. Then destroy all other creatures if its power is exactly 20. (To have this creature explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)","B,W","B,W",rare,PLCI,The Lost Caverns of Ixalan Promos,221p,2,2,,Explore;Ward
+Amalia Benavides Aguirre,{W}{B},2.0,Legendary Creature — Vampire Scout,"Ward—Pay 3 life.
+Whenever you gain life, Amalia Benavides Aguirre explores. Then destroy all other creatures if its power is exactly 20. (To have this creature explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)","B,W","B,W",rare,PLCI,The Lost Caverns of Ixalan Promos,221s,2,2,,Explore;Ward
+Ambling Stormshell,{3}{U}{U},5.0,Creature — Turtle,"Ward {2}
+Whenever this creature attacks, put three stun counters on it and draw three cards. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+Whenever you cast a Turtle spell, untap this creature.",U,U,rare,PTDM,Tarkir: Dragonstorm Promos,37s,5,9,,Ward
+Ambling Stormshell,{3}{U}{U},5.0,Creature — Turtle,"Ward {2}
+Whenever this creature attacks, put three stun counters on it and draw three cards. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+Whenever you cast a Turtle spell, untap this creature.",U,U,rare,TDM,Tarkir: Dragonstorm,332,5,9,,Ward
+Ambling Stormshell,{3}{U}{U},5.0,Creature — Turtle,"Ward {2}
+Whenever this creature attacks, put three stun counters on it and draw three cards. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+Whenever you cast a Turtle spell, untap this creature.",U,U,rare,PTDM,Tarkir: Dragonstorm Promos,37p,5,9,,Ward
+Ambling Stormshell,{3}{U}{U},5.0,Creature — Turtle,"Ward {2}
+Whenever this creature attacks, put three stun counters on it and draw three cards. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+Whenever you cast a Turtle spell, untap this creature.",U,U,rare,TDM,Tarkir: Dragonstorm,37,5,9,,Ward
+Ambrosia Whiteheart,{1}{W},2.0,Legendary Creature — Bird,"Flash
+When Ambrosia Whiteheart enters, you may return another permanent you control to its owner's hand.
+Landfall — Whenever a land you control enters, Ambrosia Whiteheart gets +1/+0 until end of turn.",W,W,uncommon,FIN,Final Fantasy,325,2,2,,Flash;Landfall
+Ambrosia Whiteheart,{1}{W},2.0,Legendary Creature — Bird,"Flash
+When Ambrosia Whiteheart enters, you may return another permanent you control to its owner's hand.
+Landfall — Whenever a land you control enters, Ambrosia Whiteheart gets +1/+0 until end of turn.",W,W,uncommon,FIN,Final Fantasy,6,2,2,,Flash;Landfall
+Ambrosia Whiteheart,{1}{W},2.0,Legendary Creature — Bird,"Flash
+When Ambrosia Whiteheart enters, you may return another permanent you control to its owner's hand.
+Landfall — Whenever a land you control enters, Ambrosia Whiteheart gets +1/+0 until end of turn.",W,W,uncommon,FIN,Final Fantasy,424,2,2,,Flash;Landfall
+Ambush Gigapede,{4}{B}{B},6.0,Creature — Insect,"Flash
+When this creature enters, target creature an opponent controls gets -2/-2 until end of turn.",B,B,common,OTJ,Outlaws of Thunder Junction,77,6,2,,Flash
+Ambush Wolf,{2}{G},3.0,Creature — Wolf,"Flash (You may cast this spell any time you could cast an instant.)
+When this creature enters, exile up to one target card from a graveyard.",G,G,common,FDN,Foundations,98,4,2,,Flash
+"Anafenza, Unyielding Lineage",{2}{W},3.0,Legendary Creature — Spirit Soldier,"Flash
+First strike
+Whenever another nontoken creature you control dies, Anafenza endures 2. (Put two +1/+1 counters on it or create a 2/2 white Spirit creature token.)",W,W,rare,TDM,Tarkir: Dragonstorm,2,2,2,,First strike;Flash;Endure
+"Anafenza, Unyielding Lineage",{2}{W},3.0,Legendary Creature — Spirit Soldier,"Flash
+First strike
+Whenever another nontoken creature you control dies, Anafenza endures 2. (Put two +1/+1 counters on it or create a 2/2 white Spirit creature token.)",W,W,rare,PTDM,Tarkir: Dragonstorm Promos,2p,2,2,,First strike;Flash;Endure
+"Anafenza, Unyielding Lineage",{2}{W},3.0,Legendary Creature — Spirit Soldier,"Flash
+First strike
+Whenever another nontoken creature you control dies, Anafenza endures 2. (Put two +1/+1 counters on it or create a 2/2 white Spirit creature token.)",W,W,rare,PTDM,Tarkir: Dragonstorm Promos,2s,2,2,,First strike;Flash;Endure
+"Anafenza, Unyielding Lineage",{2}{W},3.0,Legendary Creature — Spirit Soldier,"Flash
+First strike
+Whenever another nontoken creature you control dies, Anafenza endures 2. (Put two +1/+1 counters on it or create a 2/2 white Spirit creature token.)",W,W,rare,TDM,Tarkir: Dragonstorm,327,2,2,,First strike;Flash;Endure
+Ancestor Dragon,{4}{W}{W},6.0,Creature — Dragon,"Flying
+Whenever one or more creatures you control attack, you gain 1 life for each attacking creature.",W,W,rare,PZ2,Treasure Chest,70829,5,6,,Flying
+Ancestor Dragon,{4}{W}{W},6.0,Creature — Dragon,"Flying
+Whenever one or more creatures you control attack, you gain 1 life for each attacking creature.",W,W,rare,GS1,Global Series Jiang Yanggu & Mu Yanling,12,5,6,,Flying
+Ancestor Dragon,{4}{W}{W},6.0,Creature — Dragon,"Flying
+Whenever one or more creatures you control attack, you gain 1 life for each attacking creature.",W,W,rare,PLST,The List,GS1-12,5,6,,Flying
+Ancestor Dragon,{4}{W}{W},6.0,Creature — Dragon,"Flying
+Whenever one or more creatures you control attack, you gain 1 life for each attacking creature.",W,W,rare,FDN,Foundations,489,5,6,,Flying
+Ancient Adamantoise,{5}{G}{G}{G},8.0,Creature — Turtle,"Vigilance, ward {3}
+Damage isn't removed from this creature during cleanup steps.
+All damage that would be dealt to you and other permanents you control is dealt to this creature instead.
+When this creature dies, exile it and create ten tapped Treasure tokens.",G,G,mythic,FIN,Final Fantasy,172,8,20,,Vigilance;Treasure;Ward
+Ancient Adamantoise,{5}{G}{G}{G},8.0,Creature — Turtle,"Vigilance, ward {3}
+Damage isn't removed from this creature during cleanup steps.
+All damage that would be dealt to you and other permanents you control is dealt to this creature instead.
+When this creature dies, exile it and create ten tapped Treasure tokens.",G,G,mythic,PFIN,Final Fantasy Promos,172s,8,20,,Vigilance;Treasure;Ward
+Angel of Finality,{3}{W},4.0,Creature — Angel,"Flying
+When this creature enters, exile target player's graveyard.",W,W,rare,C20,Commander 2020,75,3,4,,Flying
+Angel of Finality,{3}{W},4.0,Creature — Angel,"Flying
+When this creature enters, exile target player's graveyard.",W,W,rare,SLD,Secret Lair Drop,1342,3,4,,Flying
+Angel of Finality,{3}{W},4.0,Creature — Angel,"Flying
+When this creature enters, exile target player's graveyard.",W,W,rare,MOC,March of the Machine Commander,169,3,4,,Flying
+Angel of Finality,{3}{W},4.0,Creature — Angel,"Flying
+When this creature enters, exile target player's graveyard.",W,W,rare,CMA,Commander Anthology,3,3,4,,Flying
+Angel of Finality,{3}{W},4.0,Creature — Angel,"Flying
+When this creature enters, exile target player's graveyard.",W,W,uncommon,FDN,Foundations,136,3,4,,Flying
+Angel of Finality,{3}{W},4.0,Creature — Angel,"Flying
+When this creature enters, exile target player's graveyard.",W,W,rare,C13,Commander 2013,4,3,4,,Flying
+Angel of Finality,{3}{W},4.0,Creature — Angel,"Flying
+When this creature enters, exile target player's graveyard.",W,W,rare,AFC,Forgotten Realms Commander,63,3,4,,Flying
+Angel of Finality,{3}{W},4.0,Creature — Angel,"Flying
+When this creature enters, exile target player's graveyard.",W,W,rare,KHC,Kaldheim Commander,17,3,4,,Flying

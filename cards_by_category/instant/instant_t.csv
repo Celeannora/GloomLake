@@ -1,0 +1,188 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Tainted Treats,{1}{B}{G},3.0,Instant,"Destroy target artifact or creature. If its mana value was 4 or less, create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this token: You gain 3 life."")","B,G","B,G",uncommon,TMT,Teenage Mutant Ninja Turtles,170,,,,Food
+Take Out the Trash,{1}{R},2.0,Instant,"Take Out the Trash deals 3 damage to target creature or planeswalker. If you control a Raccoon, you may discard a card. If you do, draw a card.",R,R,common,BLB,Bloomburrow,156,,,,
+Take the Fall,{U},1.0,Instant,"Target creature gets -1/-0 until end of turn. It gets -4/-0 until end of turn instead if you control an outlaw. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)
+Draw a card.",U,U,common,OTJ,Outlaws of Thunder Junction,73,,,,
+Take Up the Shield,{1}{W},2.0,Instant,"Put a +1/+1 counter on target creature. It gains lifelink and indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)",W,W,common,OTJ,Outlaws of Thunder Junction,34,,,,
+Take Up the Shield,{1}{W},2.0,Instant,"Put a +1/+1 counter on target creature. It gains lifelink and indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)",W,W,common,DMU,Dominaria United,35,,,,
+Take Up the Shield,{1}{W},2.0,Instant,"Put a +1/+1 counter on target creature. It gains lifelink and indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)",W,W,common,J25,Foundations Jumpstart,270,,,,
+Taken by Nightmares,{2}{B}{B},4.0,Instant,"Exile target creature. If you control an enchantment, scry 2.",B,B,uncommon,WOE,Wilds of Eldraine,112,,,,Scry
+Teach by Example,{U/R}{U/R},2.0,Instant,"({U/R} can be paid with either {U} or {R}.)
+When you next cast an instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.","R,U","R,U",uncommon,FDN,Foundations,666,,,,
+Teach by Example,{U/R}{U/R},2.0,Instant,"({U/R} can be paid with either {U} or {R}.)
+When you next cast an instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.","R,U","R,U",common,STX,Strixhaven: School of Mages,241,,,,
+Tenderize,{1}{G},2.0,Instant,Target creature you control deals damage equal to its power to target creature an opponent controls.,G,G,common,TMT,Teenage Mutant Ninja Turtles,133,,,,
+Terrific Team-Up,{3}{G},4.0,Instant,"This spell costs {2} less to cast if you control a permanent with mana value 4 or greater.
+One or two target creatures you control each get +1/+0 until end of turn. They each deal damage equal to their power to target creature an opponent controls.",G,G,uncommon,OM1,Through the Omenpaths,119,,,,
+Terrific Team-Up,{3}{G},4.0,Instant,"This spell costs {2} less to cast if you control a permanent with mana value 4 or greater.
+One or two target creatures you control each get +1/+0 until end of turn. They each deal damage equal to their power to target creature an opponent controls.",G,G,uncommon,SPM,Marvel's Spider-Man,120,,,,
+The Chase Is On,{2}{R},3.0,Instant,"Target creature gets +3/+0 and gains first strike until end of turn. Investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")",R,R,common,MKM,Murders at Karlov Manor,116,,,,Investigate
+The Chase Is On,{2}{R},3.0,Instant,"Target creature gets +3/+0 and gains first strike until end of turn. Investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")",R,R,common,MKM,Murders at Karlov Manor,304,,,,Investigate
+The End,{2}{B}{B},4.0,Instant,"This spell costs {2} less to cast if your life total is 5 or less.
+Exile target creature or planeswalker. Search its controller's graveyard, hand, and library for any number of cards with the same name as that permanent and exile them. That player shuffles, then draws a card for each card exiled from their hand this way.",B,B,rare,PWOE,Wilds of Eldraine Promos,87s,,,,
+The End,{2}{B}{B},4.0,Instant,"This spell costs {2} less to cast if your life total is 5 or less.
+Exile target creature or planeswalker. Search its controller's graveyard, hand, and library for any number of cards with the same name as that permanent and exile them. That player shuffles, then draws a card for each card exiled from their hand this way.",B,B,rare,WOE,Wilds of Eldraine,337,,,,
+The End,{2}{B}{B},4.0,Instant,"This spell costs {2} less to cast if your life total is 5 or less.
+Exile target creature or planeswalker. Search its controller's graveyard, hand, and library for any number of cards with the same name as that permanent and exile them. That player shuffles, then draws a card for each card exiled from their hand this way.",B,B,rare,WOE,Wilds of Eldraine,87,,,,
+The End,{2}{B}{B},4.0,Instant,"This spell costs {2} less to cast if your life total is 5 or less.
+Exile target creature or planeswalker. Search its controller's graveyard, hand, and library for any number of cards with the same name as that permanent and exile them. That player shuffles, then draws a card for each card exiled from their hand this way.",B,B,rare,PWOE,Wilds of Eldraine Promos,87p,,,,
+The Last Agni Kai,{1}{R},2.0,Instant,"Target creature you control fights target creature an opponent controls. If the creature the opponent controls is dealt excess damage this way, add that much {R}.
+Until end of turn, you don't lose unspent red mana as steps and phases end.",R,R,rare,TLA,Avatar: The Last Airbender,314,,,,Fight
+The Last Agni Kai,{1}{R},2.0,Instant,"Target creature you control fights target creature an opponent controls. If the creature the opponent controls is dealt excess damage this way, add that much {R}.
+Until end of turn, you don't lose unspent red mana as steps and phases end.",R,R,rare,TLA,Avatar: The Last Airbender,144,,,,Fight
+The Last Agni Kai,{1}{R},2.0,Instant,"Target creature you control fights target creature an opponent controls. If the creature the opponent controls is dealt excess damage this way, add that much {R}.
+Until end of turn, you don't lose unspent red mana as steps and phases end.",R,R,rare,PTLA,Avatar: The Last Airbender Promos,144s,,,,Fight
+The Last Ronin's Technique,{3}{W},4.0,Instant,"Sneak {1}{W} (You may cast this spell for {1}{W} if you also return an unblocked attacker you control to hand during the declare blockers step.)
+Create three 1/1 white Ninja Turtle Spirit creature tokens. If this spell's sneak cost was paid, they enter tapped and attacking.",W,W,uncommon,TMT,Teenage Mutant Ninja Turtles,12,,,,Sneak
+The Last Ronin's Technique,{3}{W},4.0,Instant,"Sneak {1}{W} (You may cast this spell for {1}{W} if you also return an unblocked attacker you control to hand during the declare blockers step.)
+Create three 1/1 white Ninja Turtle Spirit creature tokens. If this spell's sneak cost was paid, they enter tapped and attacking.",W,W,uncommon,TMT,Teenage Mutant Ninja Turtles,223,,,,Sneak
+The Spot's Portal,{2}{B},3.0,Instant,Put target creature on the bottom of its owner's library. You lose 2 life unless you control a Villain.,B,B,uncommon,OM1,Through the Omenpaths,65,,,,
+The Spot's Portal,{2}{B},3.0,Instant,Put target creature on the bottom of its owner's library. You lose 2 life unless you control a Villain.,B,B,uncommon,SPM,Marvel's Spider-Man,68,,,,
+Think Twice,{1}{U},2.0,Instant,"Draw a card.
+Flashback {2}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",U,U,common,TSP,Time Spiral,86,,,,Flashback
+Think Twice,{1}{U},2.0,Instant,"Draw a card.
+Flashback {2}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",U,U,common,INR,Innistrad Remastered,92,,,,Flashback
+Think Twice,{1}{U},2.0,Instant,"Draw a card.
+Flashback {2}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",U,U,common,PLST,The List,TSP-86,,,,Flashback
+Think Twice,{1}{U},2.0,Instant,"Draw a card.
+Flashback {2}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",U,U,common,HA4,Historic Anthology 4,7,,,,Flashback
+Think Twice,{1}{U},2.0,Instant,"Draw a card.
+Flashback {2}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",U,U,common,WHO,Doctor Who,811,,,,Flashback
+Think Twice,{1}{U},2.0,Instant,"Draw a card.
+Flashback {2}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",U,U,common,FDN,Foundations,315,,,,Flashback
+Think Twice,{1}{U},2.0,Instant,"Draw a card.
+Flashback {2}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",U,U,common,TSR,Time Spiral Remastered,92,,,,Flashback
+Think Twice,{1}{U},2.0,Instant,"Draw a card.
+Flashback {2}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",U,U,common,ISD,Innistrad,83,,,,Flashback
+Think Twice,{1}{U},2.0,Instant,"Draw a card.
+Flashback {2}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",U,U,mythic,FDN,Foundations,425,,,,Flashback
+Think Twice,{1}{U},2.0,Instant,"Draw a card.
+Flashback {2}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",U,U,mythic,FDN,Foundations,435,,,,Flashback
+Think Twice,{1}{U},2.0,Instant,"Draw a card.
+Flashback {2}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",U,U,common,UMA,Ultimate Masters,78,,,,Flashback
+Think Twice,{1}{U},2.0,Instant,"Draw a card.
+Flashback {2}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",U,U,common,C19,Commander 2019,99,,,,Flashback
+Think Twice,{1}{U},2.0,Instant,"Draw a card.
+Flashback {2}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",U,U,common,WHO,Doctor Who,220,,,,Flashback
+Think Twice,{1}{U},2.0,Instant,"Draw a card.
+Flashback {2}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",U,U,common,INR,Innistrad Remastered,369,,,,Flashback
+Think Twice,{1}{U},2.0,Instant,"Draw a card.
+Flashback {2}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",U,U,common,TDC,Tarkir: Dragonstorm Commander,168,,,,Flashback
+Think Twice,{1}{U},2.0,Instant,"Draw a card.
+Flashback {2}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",U,U,common,OTC,Outlaws of Thunder Junction Commander,119,,,,Flashback
+Think Twice,{1}{U},2.0,Instant,"Draw a card.
+Flashback {2}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",U,U,common,FDN,Foundations,165,,,,Flashback
+Thirst for Identity,{2}{U},3.0,Instant,Draw three cards. Then discard two cards unless you discard a creature card.,U,U,uncommon,ECL,Lorwyn Eclipsed,79,,,,
+Thoughtweft Charge,{1}{G},2.0,Instant,"Target creature gets +3/+3 until end of turn. If a creature entered the battlefield under your control this turn, draw a card.",G,G,uncommon,ECL,Lorwyn Eclipsed,198,,,,
+Three Steps Ahead,{U},1.0,Instant,"Spree (Choose one or more additional costs.)
++ {1}{U} — Counter target spell.
++ {3} — Create a token that's a copy of target artifact or creature you control.
++ {2} — Draw two cards, then discard a card.",U,U,rare,POTJ,Outlaws of Thunder Junction Promos,75s,,,,Spree
+Three Steps Ahead,{U},1.0,Instant,"Spree (Choose one or more additional costs.)
++ {1}{U} — Counter target spell.
++ {3} — Create a token that's a copy of target artifact or creature you control.
++ {2} — Draw two cards, then discard a card.",U,U,rare,OTJ,Outlaws of Thunder Junction,75,,,,Spree
+Three Steps Ahead,{U},1.0,Instant,"Spree (Choose one or more additional costs.)
++ {1}{U} — Counter target spell.
++ {3} — Create a token that's a copy of target artifact or creature you control.
++ {2} — Draw two cards, then discard a card.",U,U,rare,OTJ,Outlaws of Thunder Junction,323,,,,Spree
+Three Steps Ahead,{U},1.0,Instant,"Spree (Choose one or more additional costs.)
++ {1}{U} — Counter target spell.
++ {3} — Create a token that's a copy of target artifact or creature you control.
++ {2} — Draw two cards, then discard a card.",U,U,rare,POTJ,Outlaws of Thunder Junction Promos,75p,,,,Spree
+Thrill of Possibility,{1}{R},2.0,Instant,"As an additional cost to cast this spell, discard a card.
+Draw two cards.",R,R,uncommon,STA,Strixhaven Mystical Archive,109,,,,
+Thrill of Possibility,{1}{R},2.0,Instant,"As an additional cost to cast this spell, discard a card.
+Draw two cards.",R,R,common,ONE,Phyrexia: All Will Be One,151,,,,
+Thrill of Possibility,{1}{R},2.0,Instant,"As an additional cost to cast this spell, discard a card.
+Draw two cards.",R,R,common,DMU,Dominaria United,148,,,,
+Thrill of Possibility,{1}{R},2.0,Instant,"As an additional cost to cast this spell, discard a card.
+Draw two cards.",R,R,common,THB,Theros Beyond Death,159,,,,
+Thrill of Possibility,{1}{R},2.0,Instant,"As an additional cost to cast this spell, discard a card.
+Draw two cards.",R,R,mythic,MAR,Marvel Universe,28,,,,
+Thrill of Possibility,{1}{R},2.0,Instant,"As an additional cost to cast this spell, discard a card.
+Draw two cards.",R,R,common,OMB,Through the Omenpaths Bonus Sheet,28,,,,
+Thrill of Possibility,{1}{R},2.0,Instant,"As an additional cost to cast this spell, discard a card.
+Draw two cards.",R,R,rare,SLD,Secret Lair Drop,1805,,,,
+Thrill of Possibility,{1}{R},2.0,Instant,"As an additional cost to cast this spell, discard a card.
+Draw two cards.",R,R,common,J22,Jumpstart 2022,84,,,,
+Thrill of Possibility,{1}{R},2.0,Instant,"As an additional cost to cast this spell, discard a card.
+Draw two cards.",R,R,common,PLST,The List,ELD-146,,,,
+Thrill of Possibility,{1}{R},2.0,Instant,"As an additional cost to cast this spell, discard a card.
+Draw two cards.",R,R,uncommon,STA,Strixhaven Mystical Archive,46,,,,
+Thrill of Possibility,{1}{R},2.0,Instant,"As an additional cost to cast this spell, discard a card.
+Draw two cards.",R,R,common,LTC,Tales of Middle-earth Commander,229,,,,
+Thrill of Possibility,{1}{R},2.0,Instant,"As an additional cost to cast this spell, discard a card.
+Draw two cards.",R,R,common,FDN,Foundations,210,,,,
+Thrill of Possibility,{1}{R},2.0,Instant,"As an additional cost to cast this spell, discard a card.
+Draw two cards.",R,R,common,THB,Theros Beyond Death,356,,,,
+Thrill of Possibility,{1}{R},2.0,Instant,"As an additional cost to cast this spell, discard a card.
+Draw two cards.",R,R,common,DMC,Dominaria United Commander,127,,,,
+Thrill of Possibility,{1}{R},2.0,Instant,"As an additional cost to cast this spell, discard a card.
+Draw two cards.",R,R,common,ELD,Throne of Eldraine,146,,,,
+Thrill of Possibility,{1}{R},2.0,Instant,"As an additional cost to cast this spell, discard a card.
+Draw two cards.",R,R,common,M21,Core Set 2021,165,,,,
+Thunder Magic,{R},1.0,Instant,"Tiered (Choose one additional cost.)
+• Thunder — {0} — Thunder Magic deals 2 damage to target creature.
+• Thundara — {3} — Thunder Magic deals 4 damage to target creature.
+• Thundaga — {5}{R} — Thunder Magic deals 8 damage to target creature.",R,R,common,FIN,Final Fantasy,165,,,,Thunder;Thundaga;Tiered;Thundara
+Thunder Salvo,{1}{R},2.0,Instant,"Thunder Salvo deals X damage to target creature, where X is 2 plus the number of other spells you've cast this turn.",R,R,common,OTJ,Outlaws of Thunder Junction,150,,,,
+Thwip!,{W},1.0,Instant,"Target creature gets +2/+2 and gains flying until end of turn. If it's a Spider, you gain 2 life.",W,W,common,OM1,Through the Omenpaths,13,,,,
+Thwip!,{W},1.0,Instant,"Target creature gets +2/+2 and gains flying until end of turn. If it's a Spider, you gain 2 life.",W,W,common,SPM,Marvel's Spider-Man,20,,,,
+Tifa's Limit Break,{G},1.0,Instant,"Tiered (Choose one additional cost.)
+• Somersault — {0} — Target creature gets +2/+2 until end of turn.
+• Meteor Strikes — {2} — Double target creature's power and toughness until end of turn.
+• Final Heaven — {6}{G} — Triple target creature's power and toughness until end of turn.",G,G,uncommon,FIN,Final Fantasy,207,,,,Final Heaven;Meteor Strikes;Somersault;Tiered
+Time Stop,{4}{U}{U},6.0,Instant,"End the turn. (Exile all spells and abilities, including this spell. The player whose turn it is discards down to their maximum hand size. Damage heals and ""this turn"" and ""until end of turn"" effects end.)",U,U,rare,SLD,Secret Lair Drop,1500★,,,,
+Time Stop,{4}{U}{U},6.0,Instant,"End the turn. (Exile all spells and abilities, including this spell. The player whose turn it is discards down to their maximum hand size. Damage heals and ""this turn"" and ""until end of turn"" effects end.)",U,U,rare,SLD,Secret Lair Drop,1500,,,,
+Time Stop,{4}{U}{U},6.0,Instant,"End the turn. (Exile all spells and abilities, including this spell. The player whose turn it is discards down to their maximum hand size. Damage heals and ""this turn"" and ""until end of turn"" effects end.)",U,U,rare,PFDN,Foundations Promos,166s,,,,
+Time Stop,{4}{U}{U},6.0,Instant,"End the turn. (Exile all spells and abilities, including this spell. The player whose turn it is discards down to their maximum hand size. Damage heals and ""this turn"" and ""until end of turn"" effects end.)",U,U,rare,10E,Tenth Edition,117★,,,,
+Time Stop,{4}{U}{U},6.0,Instant,"End the turn. (Exile all spells and abilities, including this spell. The player whose turn it is discards down to their maximum hand size. Damage heals and ""this turn"" and ""until end of turn"" effects end.)",U,U,rare,10E,Tenth Edition,117,,,,
+Time Stop,{4}{U}{U},6.0,Instant,"End the turn. (Exile all spells and abilities, including this spell. The player whose turn it is discards down to their maximum hand size. Damage heals and ""this turn"" and ""until end of turn"" effects end.)",U,U,rare,FDN,Foundations,166,,,,
+Time Stop,{4}{U}{U},6.0,Instant,"End the turn. (Exile all spells and abilities, including this spell. The player whose turn it is discards down to their maximum hand size. Damage heals and ""this turn"" and ""until end of turn"" effects end.)",U,U,rare,CHK,Champions of Kamigawa,97,,,,
+Titanic Growth,{1}{G},2.0,Instant,Target creature gets +4/+4 until end of turn.,G,G,common,M20,Core Set 2020,343,,,,
+Titanic Growth,{1}{G},2.0,Instant,Target creature gets +4/+4 until end of turn.,G,G,common,ANB,Arena Beginner Set,106,,,,
+Titanic Growth,{1}{G},2.0,Instant,Target creature gets +4/+4 until end of turn.,G,G,common,ORI,Magic Origins,201,,,,
+Titanic Growth,{1}{G},2.0,Instant,Target creature gets +4/+4 until end of turn.,G,G,common,ONE,Phyrexia: All Will Be One,187,,,,
+Titanic Growth,{1}{G},2.0,Instant,Target creature gets +4/+4 until end of turn.,G,G,common,WOE,Wilds of Eldraine,191,,,,
+Titanic Growth,{1}{G},2.0,Instant,Target creature gets +4/+4 until end of turn.,G,G,common,M13,Magic 2013,195,,,,
+Titanic Growth,{1}{G},2.0,Instant,Target creature gets +4/+4 until end of turn.,G,G,common,M21,Core Set 2021,210,,,,
+Titanic Growth,{1}{G},2.0,Instant,Target creature gets +4/+4 until end of turn.,G,G,common,PLST,The List,M19-205,,,,
+Titanic Growth,{1}{G},2.0,Instant,Target creature gets +4/+4 until end of turn.,G,G,common,M15,Magic 2015,203,,,,
+Titanic Growth,{1}{G},2.0,Instant,Target creature gets +4/+4 until end of turn.,G,G,common,M12,Magic 2012,198,,,,
+Titanic Growth,{1}{G},2.0,Instant,Target creature gets +4/+4 until end of turn.,G,G,common,M19,Core Set 2019,205,,,,
+Torch the Tower,{R},1.0,Instant,"Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
+Torch the Tower deals 2 damage to target creature or planeswalker. If this spell was bargained, instead it deals 3 damage to that permanent and you scry 1.
+If a permanent dealt damage by Torch the Tower would die this turn, exile it instead.",R,R,common,WOE,Wilds of Eldraine,153,,,,Bargain;Scry
+Torch the Tower,{R},1.0,Instant,"Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
+Torch the Tower deals 2 damage to target creature or planeswalker. If this spell was bargained, instead it deals 3 damage to that permanent and you scry 1.
+If a permanent dealt damage by Torch the Tower would die this turn, exile it instead.",R,R,common,WOE,Wilds of Eldraine,378,,,,Bargain;Scry
+Toxin Analysis,{B},1.0,Instant,"Target creature gains deathtouch and lifelink until end of turn. Investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")",B,B,common,MKM,Murders at Karlov Manor,107,,,,Investigate
+Trash the Town,{G},1.0,Instant,"Spree (Choose one or more additional costs.)
++ {2} — Put two +1/+1 counters on target creature.
++ {1} — Target creature gains trample until end of turn.
++ {1} — Until end of turn, target creature gains ""Whenever this creature deals combat damage to a player, draw two cards.""",G,G,uncommon,OTJ,Outlaws of Thunder Junction,186,,,,Spree
+Treacherous Greed,{1}{W}{B},3.0,Instant,"As an additional cost to cast this spell, sacrifice a creature that dealt damage this turn.
+Draw three cards. Each opponent loses 3 life and you gain 3 life.","B,W","B,W",rare,PMKM,Murders at Karlov Manor Promos,237p,,,,
+Treacherous Greed,{1}{W}{B},3.0,Instant,"As an additional cost to cast this spell, sacrifice a creature that dealt damage this turn.
+Draw three cards. Each opponent loses 3 life and you gain 3 life.","B,W","B,W",rare,MKM,Murders at Karlov Manor,420,,,,
+Treacherous Greed,{1}{W}{B},3.0,Instant,"As an additional cost to cast this spell, sacrifice a creature that dealt damage this turn.
+Draw three cards. Each opponent loses 3 life and you gain 3 life.","B,W","B,W",rare,MKM,Murders at Karlov Manor,237,,,,
+Treacherous Greed,{1}{W}{B},3.0,Instant,"As an additional cost to cast this spell, sacrifice a creature that dealt damage this turn.
+Draw three cards. Each opponent loses 3 life and you gain 3 life.","B,W","B,W",rare,PMKM,Murders at Karlov Manor Promos,237s,,,,
+Tribute to Hunger,{2}{B},3.0,Instant,Target opponent sacrifices a creature of their choice. You gain life equal to that creature's toughness.,B,B,uncommon,FDN,Foundations,614,,,,
+Tribute to Hunger,{2}{B},3.0,Instant,Target opponent sacrifices a creature of their choice. You gain life equal to that creature's toughness.,B,B,uncommon,ISD,Innistrad,119,,,,
+Tribute to Hunger,{2}{B},3.0,Instant,Target opponent sacrifices a creature of their choice. You gain life equal to that creature's toughness.,B,B,uncommon,DDQ,Duel Decks: Blessed vs. Cursed,65,,,,
+Trick Shot,{4}{R},5.0,Instant,Trick Shot deals 6 damage to target creature and 2 damage to up to one other target creature token.,R,R,common,OTJ,Outlaws of Thunder Junction,151,,,,
+Trip Up,{3}{U},4.0,Instant,"Target nonland permanent's owner puts it on their choice of the top or bottom of their library.
+Cycling {2} ({2}, Discard this card: Draw a card.)",U,U,common,DFT,Aetherdrift,71,,,,Cycling
+Turn Inside Out,{R},1.0,Instant,"Target creature gets +3/+0 until end of turn. When it dies this turn, manifest dread. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)",R,R,common,DSK,Duskmourn: House of Horror,160,,,,Manifest;Manifest dread
+Turtles Forever,{3}{W},4.0,Instant,"Search your library and/or outside the game for exactly four legendary creature cards you own with different names, then reveal those cards. An opponent chooses two of them. Put the chosen cards into your hand and shuffle the rest into your library.",W,W,rare,TMT,Teenage Mutant Ninja Turtles,261,,,,
+Turtles Forever,{3}{W},4.0,Instant,"Search your library and/or outside the game for exactly four legendary creature cards you own with different names, then reveal those cards. An opponent chooses two of them. Put the chosen cards into your hand and shuffle the rest into your library.",W,W,rare,TMT,Teenage Mutant Ninja Turtles,27,,,,
+Tweeze,{2}{R},3.0,Instant,"Tweeze deals 3 damage to any target. You may discard a card. If you do, draw a card.",R,R,common,ECL,Lorwyn Eclipsed,162,,,,
+Twin Bolt,{1}{R},2.0,Instant,Twin Bolt deals 2 damage divided as you choose among one or two targets.,R,R,common,DTK,Dragons of Tarkir,164,,,,
+Twin Bolt,{1}{R},2.0,Instant,Twin Bolt deals 2 damage divided as you choose among one or two targets.,R,R,common,CN2,Conspiracy: Take the Crown,173,,,,
+Twin Bolt,{1}{R},2.0,Instant,Twin Bolt deals 2 damage divided as you choose among one or two targets.,R,R,common,TDM,Tarkir: Dragonstorm,128,,,,
+Twist Reality,{1}{U}{U},3.0,Instant,"Choose one —
+• Counter target spell.
+• Manifest dread. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)",U,U,common,DSK,Duskmourn: House of Horror,77,,,,Manifest;Manifest dread

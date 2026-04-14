@@ -1,0 +1,354 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+"Rabanastre, Royal City",,0.0,Land — Town,"This land enters tapped.
+{T}: Add {R} or {W}.",,"R,W",common,FIN,Final Fantasy,287,,,,
+Rakdos Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {B} or {R}.",,"B,R",common,DGM,Dragon's Maze,154,,,,
+Rakdos Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {B} or {R}.",,"B,R",common,PIO,Pioneer Masters,272,,,,
+Rakdos Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {B} or {R}.",,"B,R",common,RTR,Return to Ravnica,244,,,,
+Rakdos Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {B} or {R}.",,"B,R",common,RNA,Ravnica Allegiance,255,,,,
+Rakdos Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {B} or {R}.",,"B,R",common,PLST,The List,RNA-256,,,,
+Rakdos Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {B} or {R}.",,"B,R",common,C19,Commander 2019,267,,,,
+Rakdos Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {B} or {R}.",,"B,R",common,CLU,Ravnica: Clue Edition,244,,,,
+Rakdos Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {B} or {R}.",,"B,R",common,MM3,Modern Masters 2017,242,,,,
+Rakdos Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {B} or {R}.",,"B,R",common,C17,Commander 2017,271,,,,
+Rakdos Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {B} or {R}.",,"B,R",common,RVR,Ravnica Remastered,408,,,,
+Rakdos Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {B} or {R}.",,"B,R",common,RVR,Ravnica Remastered,284,,,,
+Rakdos Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {B} or {R}.",,"B,R",common,RNA,Ravnica Allegiance,256,,,,
+Rakdos Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {B} or {R}.",,"B,R",common,FDN,Foundations,693,,,,
+Rakdos Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {B} or {R}.",,"B,R",common,C13,Commander 2013,314,,,,
+Raucous Carnival,,0.0,Land,"This land enters tapped unless a player has 13 or less life.
+{T}: Add {R} or {W}.",,"R,W",common,DSK,Duskmourn: House of Horror,266,,,,
+Raucous Theater,,0.0,Land — Swamp Mountain,"({T}: Add {B} or {R}.)
+This land enters tapped.
+When this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,"B,R",rare,MKM,Murders at Karlov Manor,329,,,,Surveil
+Raucous Theater,,0.0,Land — Swamp Mountain,"({T}: Add {B} or {R}.)
+This land enters tapped.
+When this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,"B,R",rare,PMKM,Murders at Karlov Manor Promos,266p,,,,Surveil
+Raucous Theater,,0.0,Land — Swamp Mountain,"({T}: Add {B} or {R}.)
+This land enters tapped.
+When this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,"B,R",rare,MKM,Murders at Karlov Manor,266,,,,Surveil
+Raucous Theater,,0.0,Land — Swamp Mountain,"({T}: Add {B} or {R}.)
+This land enters tapped.
+When this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,"B,R",rare,PMKM,Murders at Karlov Manor Promos,266s,,,,Surveil
+Razortrap Gorge,,0.0,Land,"This land enters tapped unless a player has 13 or less life.
+{T}: Add {B} or {R}.",,"B,R",common,DSK,Duskmourn: House of Horror,267,,,,
+Realm of Koh,,0.0,Land,"This land enters tapped unless you control a basic land.
+{T}: Add {B}.
+{3}{B}, {T}: Create a 1/1 colorless Spirit creature token with ""This token can't block or be blocked by non-Spirit creatures.""",,B,rare,TLA,Avatar: The Last Airbender,276,,,,
+Realm of Koh,,0.0,Land,"This land enters tapped unless you control a basic land.
+{T}: Add {B}.
+{3}{B}, {T}: Create a 1/1 colorless Spirit creature token with ""This token can't block or be blocked by non-Spirit creatures.""",,B,rare,TLA,Avatar: The Last Airbender,391,,,,
+Realm of Koh,,0.0,Land,"This land enters tapped unless you control a basic land.
+{T}: Add {B}.
+{3}{B}, {T}: Create a 1/1 colorless Spirit creature token with ""This token can't block or be blocked by non-Spirit creatures.""",,B,rare,PTLA,Avatar: The Last Airbender Promos,276s,,,,
+Reef Roads,,0.0,Land,"This land enters tapped unless you control a Mount or Vehicle.
+{T}: Add {U}.
+{1}{U}, {T}, Sacrifice this land: Create a 1/1 colorless Pilot creature token with ""This token saddles Mounts and crews Vehicles as though its power were 2 greater."" Activate only as a sorcery.",,U,uncommon,DFT,Aetherdrift,259,,,,
+Restless Anchorage,,0.0,Land,"This land enters tapped.
+{T}: Add {W} or {U}.
+{1}{W}{U}: Until end of turn, this land becomes a 2/3 white and blue Bird creature with flying. It's still a land.
+Whenever this land attacks, create a Map token.",,"U,W",rare,LCI,The Lost Caverns of Ixalan,347,,,,
+Restless Anchorage,,0.0,Land,"This land enters tapped.
+{T}: Add {W} or {U}.
+{1}{W}{U}: Until end of turn, this land becomes a 2/3 white and blue Bird creature with flying. It's still a land.
+Whenever this land attacks, create a Map token.",,"U,W",rare,PLCI,The Lost Caverns of Ixalan Promos,280s,,,,
+Restless Anchorage,,0.0,Land,"This land enters tapped.
+{T}: Add {W} or {U}.
+{1}{W}{U}: Until end of turn, this land becomes a 2/3 white and blue Bird creature with flying. It's still a land.
+Whenever this land attacks, create a Map token.",,"U,W",rare,PLCI,The Lost Caverns of Ixalan Promos,280p,,,,
+Restless Anchorage,,0.0,Land,"This land enters tapped.
+{T}: Add {W} or {U}.
+{1}{W}{U}: Until end of turn, this land becomes a 2/3 white and blue Bird creature with flying. It's still a land.
+Whenever this land attacks, create a Map token.",,"U,W",rare,LCI,The Lost Caverns of Ixalan,280,,,,
+Restless Bivouac,,0.0,Land,"This land enters tapped.
+{T}: Add {R} or {W}.
+{1}{R}{W}: This land becomes a 2/2 red and white Ox creature until end of turn. It's still a land.
+Whenever this land attacks, put a +1/+1 counter on target creature you control.",,"R,W",rare,PWOE,Wilds of Eldraine Promos,257p,,,,
+Restless Bivouac,,0.0,Land,"This land enters tapped.
+{T}: Add {R} or {W}.
+{1}{R}{W}: This land becomes a 2/2 red and white Ox creature until end of turn. It's still a land.
+Whenever this land attacks, put a +1/+1 counter on target creature you control.",,"R,W",rare,WOE,Wilds of Eldraine,303,,,,
+Restless Bivouac,,0.0,Land,"This land enters tapped.
+{T}: Add {R} or {W}.
+{1}{R}{W}: This land becomes a 2/2 red and white Ox creature until end of turn. It's still a land.
+Whenever this land attacks, put a +1/+1 counter on target creature you control.",,"R,W",rare,PWOE,Wilds of Eldraine Promos,257s,,,,
+Restless Bivouac,,0.0,Land,"This land enters tapped.
+{T}: Add {R} or {W}.
+{1}{R}{W}: This land becomes a 2/2 red and white Ox creature until end of turn. It's still a land.
+Whenever this land attacks, put a +1/+1 counter on target creature you control.",,"R,W",rare,WOE,Wilds of Eldraine,257,,,,
+Restless Cottage,,0.0,Land,"This land enters tapped.
+{T}: Add {B} or {G}.
+{2}{B}{G}: This land becomes a 4/4 black and green Horror creature until end of turn. It's still a land.
+Whenever this land attacks, create a Food token and exile up to one target card from a graveyard.",,"B,G",rare,WOE,Wilds of Eldraine,304,,,,Food
+Restless Cottage,,0.0,Land,"This land enters tapped.
+{T}: Add {B} or {G}.
+{2}{B}{G}: This land becomes a 4/4 black and green Horror creature until end of turn. It's still a land.
+Whenever this land attacks, create a Food token and exile up to one target card from a graveyard.",,"B,G",rare,PWOE,Wilds of Eldraine Promos,258s,,,,Food
+Restless Cottage,,0.0,Land,"This land enters tapped.
+{T}: Add {B} or {G}.
+{2}{B}{G}: This land becomes a 4/4 black and green Horror creature until end of turn. It's still a land.
+Whenever this land attacks, create a Food token and exile up to one target card from a graveyard.",,"B,G",rare,PWOE,Wilds of Eldraine Promos,258p,,,,Food
+Restless Cottage,,0.0,Land,"This land enters tapped.
+{T}: Add {B} or {G}.
+{2}{B}{G}: This land becomes a 4/4 black and green Horror creature until end of turn. It's still a land.
+Whenever this land attacks, create a Food token and exile up to one target card from a graveyard.",,"B,G",rare,WOE,Wilds of Eldraine,258,,,,Food
+Restless Fortress,,0.0,Land,"This land enters tapped.
+{T}: Add {W} or {B}.
+{2}{W}{B}: This land becomes a 1/4 white and black Nightmare creature until end of turn. It's still a land.
+Whenever this land attacks, defending player loses 2 life and you gain 2 life.",,"B,W",rare,PWOE,Wilds of Eldraine Promos,259s,,,,
+Restless Fortress,,0.0,Land,"This land enters tapped.
+{T}: Add {W} or {B}.
+{2}{W}{B}: This land becomes a 1/4 white and black Nightmare creature until end of turn. It's still a land.
+Whenever this land attacks, defending player loses 2 life and you gain 2 life.",,"B,W",rare,WOE,Wilds of Eldraine,259,,,,
+Restless Fortress,,0.0,Land,"This land enters tapped.
+{T}: Add {W} or {B}.
+{2}{W}{B}: This land becomes a 1/4 white and black Nightmare creature until end of turn. It's still a land.
+Whenever this land attacks, defending player loses 2 life and you gain 2 life.",,"B,W",rare,WOE,Wilds of Eldraine,305,,,,
+Restless Fortress,,0.0,Land,"This land enters tapped.
+{T}: Add {W} or {B}.
+{2}{W}{B}: This land becomes a 1/4 white and black Nightmare creature until end of turn. It's still a land.
+Whenever this land attacks, defending player loses 2 life and you gain 2 life.",,"B,W",rare,PWOE,Wilds of Eldraine Promos,259p,,,,
+Restless Prairie,,0.0,Land,"This land enters tapped.
+{T}: Add {G} or {W}.
+{2}{G}{W}: This land becomes a 3/3 green and white Llama creature until end of turn. It's still a land.
+Whenever this land attacks, other creatures you control get +1/+1 until end of turn.",,"G,W",rare,LCI,The Lost Caverns of Ixalan,348,,,,
+Restless Prairie,,0.0,Land,"This land enters tapped.
+{T}: Add {G} or {W}.
+{2}{G}{W}: This land becomes a 3/3 green and white Llama creature until end of turn. It's still a land.
+Whenever this land attacks, other creatures you control get +1/+1 until end of turn.",,"G,W",rare,PLCI,The Lost Caverns of Ixalan Promos,281p,,,,
+Restless Prairie,,0.0,Land,"This land enters tapped.
+{T}: Add {G} or {W}.
+{2}{G}{W}: This land becomes a 3/3 green and white Llama creature until end of turn. It's still a land.
+Whenever this land attacks, other creatures you control get +1/+1 until end of turn.",,"G,W",rare,PLCI,The Lost Caverns of Ixalan Promos,281s,,,,
+Restless Prairie,,0.0,Land,"This land enters tapped.
+{T}: Add {G} or {W}.
+{2}{G}{W}: This land becomes a 3/3 green and white Llama creature until end of turn. It's still a land.
+Whenever this land attacks, other creatures you control get +1/+1 until end of turn.",,"G,W",rare,LCI,The Lost Caverns of Ixalan,281,,,,
+Restless Reef,,0.0,Land,"This land enters tapped.
+{T}: Add {U} or {B}.
+{2}{U}{B}: Until end of turn, this land becomes a 4/4 blue and black Shark creature with deathtouch. It's still a land.
+Whenever this land attacks, target player mills four cards.",,"B,U",rare,PLCI,The Lost Caverns of Ixalan Promos,282s,,,,Mill
+Restless Reef,,0.0,Land,"This land enters tapped.
+{T}: Add {U} or {B}.
+{2}{U}{B}: Until end of turn, this land becomes a 4/4 blue and black Shark creature with deathtouch. It's still a land.
+Whenever this land attacks, target player mills four cards.",,"B,U",rare,LCI,The Lost Caverns of Ixalan,349,,,,Mill
+Restless Reef,,0.0,Land,"This land enters tapped.
+{T}: Add {U} or {B}.
+{2}{U}{B}: Until end of turn, this land becomes a 4/4 blue and black Shark creature with deathtouch. It's still a land.
+Whenever this land attacks, target player mills four cards.",,"B,U",rare,LCI,The Lost Caverns of Ixalan,282,,,,Mill
+Restless Reef,,0.0,Land,"This land enters tapped.
+{T}: Add {U} or {B}.
+{2}{U}{B}: Until end of turn, this land becomes a 4/4 blue and black Shark creature with deathtouch. It's still a land.
+Whenever this land attacks, target player mills four cards.",,"B,U",rare,PLCI,The Lost Caverns of Ixalan Promos,282p,,,,Mill
+Restless Ridgeline,,0.0,Land,"This land enters tapped.
+{T}: Add {R} or {G}.
+{2}{R}{G}: This land becomes a 3/4 red and green Dinosaur creature until end of turn. It's still a land.
+Whenever this land attacks, another target attacking creature gets +2/+0 until end of turn. Untap that creature.",,"G,R",rare,PLCI,The Lost Caverns of Ixalan Promos,283s,,,,
+Restless Ridgeline,,0.0,Land,"This land enters tapped.
+{T}: Add {R} or {G}.
+{2}{R}{G}: This land becomes a 3/4 red and green Dinosaur creature until end of turn. It's still a land.
+Whenever this land attacks, another target attacking creature gets +2/+0 until end of turn. Untap that creature.",,"G,R",rare,LCI,The Lost Caverns of Ixalan,350,,,,
+Restless Ridgeline,,0.0,Land,"This land enters tapped.
+{T}: Add {R} or {G}.
+{2}{R}{G}: This land becomes a 3/4 red and green Dinosaur creature until end of turn. It's still a land.
+Whenever this land attacks, another target attacking creature gets +2/+0 until end of turn. Untap that creature.",,"G,R",rare,PLCI,The Lost Caverns of Ixalan Promos,283p,,,,
+Restless Ridgeline,,0.0,Land,"This land enters tapped.
+{T}: Add {R} or {G}.
+{2}{R}{G}: This land becomes a 3/4 red and green Dinosaur creature until end of turn. It's still a land.
+Whenever this land attacks, another target attacking creature gets +2/+0 until end of turn. Untap that creature.",,"G,R",rare,LCI,The Lost Caverns of Ixalan,283,,,,
+Restless Spire,,0.0,Land,"This land enters tapped.
+{T}: Add {U} or {R}.
+{U}{R}: Until end of turn, this land becomes a 2/1 blue and red Elemental creature with ""During your turn, this creature has first strike."" It's still a land.
+Whenever this land attacks, scry 1.",,"R,U",rare,PWOE,Wilds of Eldraine Promos,260s,,,,Scry
+Restless Spire,,0.0,Land,"This land enters tapped.
+{T}: Add {U} or {R}.
+{U}{R}: Until end of turn, this land becomes a 2/1 blue and red Elemental creature with ""During your turn, this creature has first strike."" It's still a land.
+Whenever this land attacks, scry 1.",,"R,U",rare,WOE,Wilds of Eldraine,260,,,,Scry
+Restless Spire,,0.0,Land,"This land enters tapped.
+{T}: Add {U} or {R}.
+{U}{R}: Until end of turn, this land becomes a 2/1 blue and red Elemental creature with ""During your turn, this creature has first strike."" It's still a land.
+Whenever this land attacks, scry 1.",,"R,U",rare,PWOE,Wilds of Eldraine Promos,260p,,,,Scry
+Restless Spire,,0.0,Land,"This land enters tapped.
+{T}: Add {U} or {R}.
+{U}{R}: Until end of turn, this land becomes a 2/1 blue and red Elemental creature with ""During your turn, this creature has first strike."" It's still a land.
+Whenever this land attacks, scry 1.",,"R,U",rare,WOE,Wilds of Eldraine,306,,,,Scry
+Restless Vents,,0.0,Land,"This land enters tapped.
+{T}: Add {B} or {R}.
+{1}{B}{R}: Until end of turn, this land becomes a 2/3 black and red Insect creature with menace. It's still a land.
+Whenever this land attacks, you may discard a card. If you do, draw a card.",,"B,R",rare,PLCI,The Lost Caverns of Ixalan Promos,284s,,,,
+Restless Vents,,0.0,Land,"This land enters tapped.
+{T}: Add {B} or {R}.
+{1}{B}{R}: Until end of turn, this land becomes a 2/3 black and red Insect creature with menace. It's still a land.
+Whenever this land attacks, you may discard a card. If you do, draw a card.",,"B,R",rare,PLCI,The Lost Caverns of Ixalan Promos,284p,,,,
+Restless Vents,,0.0,Land,"This land enters tapped.
+{T}: Add {B} or {R}.
+{1}{B}{R}: Until end of turn, this land becomes a 2/3 black and red Insect creature with menace. It's still a land.
+Whenever this land attacks, you may discard a card. If you do, draw a card.",,"B,R",rare,LCI,The Lost Caverns of Ixalan,351,,,,
+Restless Vents,,0.0,Land,"This land enters tapped.
+{T}: Add {B} or {R}.
+{1}{B}{R}: Until end of turn, this land becomes a 2/3 black and red Insect creature with menace. It's still a land.
+Whenever this land attacks, you may discard a card. If you do, draw a card.",,"B,R",rare,LCI,The Lost Caverns of Ixalan,284,,,,
+Restless Vinestalk,,0.0,Land,"This land enters tapped.
+{T}: Add {G} or {U}.
+{3}{G}{U}: Until end of turn, this land becomes a 5/5 green and blue Plant creature with trample. It's still a land.
+Whenever this land attacks, up to one other target creature has base power and toughness 3/3 until end of turn.",,"G,U",rare,PWOE,Wilds of Eldraine Promos,261s,,,,
+Restless Vinestalk,,0.0,Land,"This land enters tapped.
+{T}: Add {G} or {U}.
+{3}{G}{U}: Until end of turn, this land becomes a 5/5 green and blue Plant creature with trample. It's still a land.
+Whenever this land attacks, up to one other target creature has base power and toughness 3/3 until end of turn.",,"G,U",rare,WOE,Wilds of Eldraine,307,,,,
+Restless Vinestalk,,0.0,Land,"This land enters tapped.
+{T}: Add {G} or {U}.
+{3}{G}{U}: Until end of turn, this land becomes a 5/5 green and blue Plant creature with trample. It's still a land.
+Whenever this land attacks, up to one other target creature has base power and toughness 3/3 until end of turn.",,"G,U",rare,PWOE,Wilds of Eldraine Promos,261p,,,,
+Restless Vinestalk,,0.0,Land,"This land enters tapped.
+{T}: Add {G} or {U}.
+{3}{G}{U}: Until end of turn, this land becomes a 5/5 green and blue Plant creature with trample. It's still a land.
+Whenever this land attacks, up to one other target creature has base power and toughness 3/3 until end of turn.",,"G,U",rare,WOE,Wilds of Eldraine,261,,,,
+Riverpyre Verge,,0.0,Land,"{T}: Add {R}.
+{T}: Add {U}. Activate only if you control an Island or a Mountain.",,"R,U",rare,PDFT,Aetherdrift Promos,260p,,,,
+Riverpyre Verge,,0.0,Land,"{T}: Add {R}.
+{T}: Add {U}. Activate only if you control an Island or a Mountain.",,"R,U",rare,PDFT,Aetherdrift Promos,260s,,,,
+Riverpyre Verge,,0.0,Land,"{T}: Add {R}.
+{T}: Add {U}. Activate only if you control an Island or a Mountain.",,"R,U",rare,DFT,Aetherdrift,260,,,,
+Riverpyre Verge,,0.0,Land,"{T}: Add {R}.
+{T}: Add {U}. Activate only if you control an Island or a Mountain.",,"R,U",rare,DFT,Aetherdrift,372,,,,
+Riverpyre Verge,,0.0,Land,"{T}: Add {R}.
+{T}: Add {U}. Activate only if you control an Island or a Mountain.",,"R,U",rare,DFT,Aetherdrift,503,,,,
+Rockface Village,,0.0,Land,"{T}: Add {C}.
+{T}: Add {R}. Spend this mana only to cast a creature spell.
+{R}, {T}: Target Lizard, Mouse, Otter, or Raccoon you control gets +1/+0 and gains haste until end of turn. Activate only as a sorcery.",,R,uncommon,BLB,Bloomburrow,259,,,,
+Rocky Roads,,0.0,Land,"This land enters tapped unless you control a Mount or Vehicle.
+{T}: Add {R}.
+{1}{R}, {T}, Sacrifice this land: Create a 1/1 colorless Pilot creature token with ""This token saddles Mounts and crews Vehicles as though its power were 2 greater."" Activate only as a sorcery.",,R,uncommon,DFT,Aetherdrift,261,,,,
+Rogue's Passage,,0.0,Land,"{T}: Add {C}.
+{4}, {T}: Target creature can't be blocked this turn.",,,uncommon,PIO,Pioneer Masters,273,,,,
+Rogue's Passage,,0.0,Land,"{T}: Add {C}.
+{4}, {T}: Target creature can't be blocked this turn.",,,uncommon,MOC,March of the Machine Commander,421,,,,
+Rogue's Passage,,0.0,Land,"{T}: Add {C}.
+{4}, {T}: Target creature can't be blocked this turn.",,,uncommon,PIP,Fallout,811,,,,
+Rogue's Passage,,0.0,Land,"{T}: Add {C}.
+{4}, {T}: Target creature can't be blocked this turn.",,,uncommon,NCC,New Capenna Commander,422,,,,
+Rogue's Passage,,0.0,Land,"{T}: Add {C}.
+{4}, {T}: Target creature can't be blocked this turn.",,,uncommon,CMR,Commander Legends,489,,,,
+Rogue's Passage,,0.0,Land,"{T}: Add {C}.
+{4}, {T}: Target creature can't be blocked this turn.",,,uncommon,OTC,Outlaws of Thunder Junction Commander,313,,,,
+Rogue's Passage,,0.0,Land,"{T}: Add {C}.
+{4}, {T}: Target creature can't be blocked this turn.",,,uncommon,CMM,Commander Masters,426,,,,
+Rogue's Passage,,0.0,Land,"{T}: Add {C}.
+{4}, {T}: Target creature can't be blocked this turn.",,,uncommon,MIC,Midnight Hunt Commander,179,,,,
+Rogue's Passage,,0.0,Land,"{T}: Add {C}.
+{4}, {T}: Target creature can't be blocked this turn.",,,uncommon,C19,Commander 2019,270,,,,
+Rogue's Passage,,0.0,Land,"{T}: Add {C}.
+{4}, {T}: Target creature can't be blocked this turn.",,,rare,SLD,Secret Lair Drop,607,,,,
+Rogue's Passage,,0.0,Land,"{T}: Add {C}.
+{4}, {T}: Target creature can't be blocked this turn.",,,uncommon,MKC,Murders at Karlov Manor Commander,284,,,,
+Rogue's Passage,,0.0,Land,"{T}: Add {C}.
+{4}, {T}: Target creature can't be blocked this turn.",,,uncommon,PLST,The List,UMA-250,,,,
+Rogue's Passage,,0.0,Land,"{T}: Add {C}.
+{4}, {T}: Target creature can't be blocked this turn.",,,uncommon,PIP,Fallout,283,,,,
+Rogue's Passage,,0.0,Land,"{T}: Add {C}.
+{4}, {T}: Target creature can't be blocked this turn.",,,uncommon,CN2,Conspiracy: Take the Crown,220,,,,
+Rogue's Passage,,0.0,Land,"{T}: Add {C}.
+{4}, {T}: Target creature can't be blocked this turn.",,,uncommon,WHO,Doctor Who,299,,,,
+Rogue's Passage,,0.0,Land,"{T}: Add {C}.
+{4}, {T}: Target creature can't be blocked this turn.",,,uncommon,C17,Commander 2017,272,,,,
+Rogue's Passage,,0.0,Land,"{T}: Add {C}.
+{4}, {T}: Target creature can't be blocked this turn.",,,uncommon,WHO,Doctor Who,890,,,,
+Rogue's Passage,,0.0,Land,"{T}: Add {C}.
+{4}, {T}: Target creature can't be blocked this turn.",,,uncommon,ZNC,Zendikar Rising Commander,138,,,,
+Rogue's Passage,,0.0,Land,"{T}: Add {C}.
+{4}, {T}: Target creature can't be blocked this turn.",,,uncommon,C20,Commander 2020,303,,,,
+Rogue's Passage,,0.0,Land,"{T}: Add {C}.
+{4}, {T}: Target creature can't be blocked this turn.",,,uncommon,LTC,Tales of Middle-earth Commander,326,,,,
+Rogue's Passage,,0.0,Land,"{T}: Add {C}.
+{4}, {T}: Target creature can't be blocked this turn.",,,uncommon,PW24,Wizards Play Network 2024,10,,,,
+Rogue's Passage,,0.0,Land,"{T}: Add {C}.
+{4}, {T}: Target creature can't be blocked this turn.",,,uncommon,FDN,Foundations,264,,,,
+Rogue's Passage,,0.0,Land,"{T}: Add {C}.
+{4}, {T}: Target creature can't be blocked this turn.",,,uncommon,LCC,The Lost Caverns of Ixalan Commander,349,,,,
+Rogue's Passage,,0.0,Land,"{T}: Add {C}.
+{4}, {T}: Target creature can't be blocked this turn.",,,uncommon,C15,Commander 2015,302,,,,
+Rogue's Passage,,0.0,Land,"{T}: Add {C}.
+{4}, {T}: Target creature can't be blocked this turn.",,,uncommon,FIC,Final Fantasy Commander,415,,,,
+Rogue's Passage,,0.0,Land,"{T}: Add {C}.
+{4}, {T}: Target creature can't be blocked this turn.",,,uncommon,C21,Commander 2021,312,,,,
+Rogue's Passage,,0.0,Land,"{T}: Add {C}.
+{4}, {T}: Target creature can't be blocked this turn.",,,uncommon,PLST,The List,C17-272,,,,
+Rogue's Passage,,0.0,Land,"{T}: Add {C}.
+{4}, {T}: Target creature can't be blocked this turn.",,,uncommon,UMA,Ultimate Masters,250,,,,
+Rogue's Passage,,0.0,Land,"{T}: Add {C}.
+{4}, {T}: Target creature can't be blocked this turn.",,,uncommon,DDM,Duel Decks: Jace vs. Vraska,77,,,,
+Rogue's Passage,,0.0,Land,"{T}: Add {C}.
+{4}, {T}: Target creature can't be blocked this turn.",,,uncommon,CLB,Commander Legends: Battle for Baldur's Gate,913,,,,
+Rogue's Passage,,0.0,Land,"{T}: Add {C}.
+{4}, {T}: Target creature can't be blocked this turn.",,,uncommon,ORI,Magic Origins,250,,,,
+Rogue's Passage,,0.0,Land,"{T}: Add {C}.
+{4}, {T}: Target creature can't be blocked this turn.",,,uncommon,RTR,Return to Ravnica,245,,,,
+Rugged Highlands,,0.0,Land,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {R} or {G}.",,"G,R",common,40K,"Warhammer 40,000 Commander",292★,,,,
+Rugged Highlands,,0.0,Land,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {R} or {G}.",,"G,R",common,TDM,Tarkir: Dragonstorm,265,,,,
+Rugged Highlands,,0.0,Land,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {R} or {G}.",,"G,R",common,MOM,March of the Machine,271,,,,
+Rugged Highlands,,0.0,Land,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {R} or {G}.",,"G,R",common,40K,"Warhammer 40,000 Commander",292,,,,
+Rugged Highlands,,0.0,Land,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {R} or {G}.",,"G,R",common,KTK,Khans of Tarkir,240,,,,
+Rugged Highlands,,0.0,Land,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {R} or {G}.",,"G,R",common,NEO,Kamigawa: Neon Dynasty,273,,,,
+Rugged Highlands,,0.0,Land,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {R} or {G}.",,"G,R",common,EMA,Eternal Masters,243,,,,
+Rugged Highlands,,0.0,Land,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {R} or {G}.",,"G,R",common,DFT,Aetherdrift,262,,,,
+Rugged Highlands,,0.0,Land,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {R} or {G}.",,"G,R",common,DDS,Duel Decks: Mind vs. Might,59,,,,
+Rugged Highlands,,0.0,Land,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {R} or {G}.",,"G,R",common,C16,Commander 2016,318,,,,
+Rugged Highlands,,0.0,Land,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {R} or {G}.",,"G,R",common,C19,Commander 2019,271,,,,
+Rugged Highlands,,0.0,Land,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {R} or {G}.",,"G,R",common,IKO,Ikoria: Lair of Behemoths,252,,,,
+Rugged Highlands,,0.0,Land,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {R} or {G}.",,"G,R",common,M21,Core Set 2021,249,,,,
+Rugged Highlands,,0.0,Land,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {R} or {G}.",,"G,R",common,SCD,Starter Commander Decks,315,,,,
+Rugged Highlands,,0.0,Land,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {R} or {G}.",,"G,R",common,M20,Core Set 2020,250,,,,
+Rugged Highlands,,0.0,Land,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {R} or {G}.",,"G,R",common,FRF,Fate Reforged,170,,,,
+Rugged Highlands,,0.0,Land,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {R} or {G}.",,"G,R",common,FDN,Foundations,265,,,,
+Rumble Arena,,0.0,Land,"Vigilance
+When this land enters, scry 1. (Look at the top card of your library. You may put it on the bottom.)
+{T}: Add {C}.
+{1}, {T}: Add one mana of any color.",,,common,TLA,Avatar: The Last Airbender,277,,,,Vigilance;Scry

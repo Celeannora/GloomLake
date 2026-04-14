@@ -1,0 +1,91 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Valley Rally,{2}{R},3.0,Instant,"Gift a Food (You may promise an opponent a gift as you cast this spell. If you do, they create a Food token before its other effects. It's an artifact with ""{2}, {T}, Sacrifice this token: You gain 3 life."")
+Creatures you control get +2/+0 until end of turn. If the gift was promised, target creature you control gains first strike until end of turn.",R,R,uncommon,BLB,Bloomburrow,159,,,,Gift;Food
+Valorous Stance,{1}{W},2.0,Instant,"Choose one —
+• Target creature gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)
+• Destroy target creature with toughness 4 or greater.",W,W,uncommon,INR,Innistrad Remastered,48,,,,
+Valorous Stance,{1}{W},2.0,Instant,"Choose one —
+• Target creature gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)
+• Destroy target creature with toughness 4 or greater.",W,W,uncommon,J22,Jumpstart 2022,263,,,,
+Valorous Stance,{1}{W},2.0,Instant,"Choose one —
+• Target creature gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)
+• Destroy target creature with toughness 4 or greater.",W,W,uncommon,VOW,Innistrad: Crimson Vow,42,,,,
+Valorous Stance,{1}{W},2.0,Instant,"Choose one —
+• Target creature gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)
+• Destroy target creature with toughness 4 or greater.",W,W,uncommon,PIP,Fallout,174,,,,
+Valorous Stance,{1}{W},2.0,Instant,"Choose one —
+• Target creature gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)
+• Destroy target creature with toughness 4 or greater.",W,W,uncommon,INR,Innistrad Remastered,352,,,,
+Valorous Stance,{1}{W},2.0,Instant,"Choose one —
+• Target creature gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)
+• Destroy target creature with toughness 4 or greater.",W,W,uncommon,JMP,Jumpstart,136,,,,
+Valorous Stance,{1}{W},2.0,Instant,"Choose one —
+• Target creature gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)
+• Destroy target creature with toughness 4 or greater.",W,W,uncommon,J25,Foundations Jumpstart,277,,,,
+Valorous Stance,{1}{W},2.0,Instant,"Choose one —
+• Target creature gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)
+• Destroy target creature with toughness 4 or greater.",W,W,uncommon,PRM,Magic Online Promos,57582,,,,
+Valorous Stance,{1}{W},2.0,Instant,"Choose one —
+• Target creature gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)
+• Destroy target creature with toughness 4 or greater.",W,W,uncommon,DBL,Innistrad: Double Feature,309,,,,
+Valorous Stance,{1}{W},2.0,Instant,"Choose one —
+• Target creature gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)
+• Destroy target creature with toughness 4 or greater.",W,W,uncommon,FRF,Fate Reforged,28,,,,
+Valorous Stance,{1}{W},2.0,Instant,"Choose one —
+• Target creature gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)
+• Destroy target creature with toughness 4 or greater.",W,W,uncommon,PLST,The List,VOW-42,,,,
+Valorous Stance,{1}{W},2.0,Instant,"Choose one —
+• Target creature gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)
+• Destroy target creature with toughness 4 or greater.",W,W,uncommon,2XM,Double Masters,38,,,,
+Valorous Stance,{1}{W},2.0,Instant,"Choose one —
+• Target creature gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)
+• Destroy target creature with toughness 4 or greater.",W,W,uncommon,TLE,Avatar: The Last Airbender Eternal,154,,,,
+Valorous Stance,{1}{W},2.0,Instant,"Choose one —
+• Target creature gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)
+• Destroy target creature with toughness 4 or greater.",W,W,uncommon,GN3,Game Night: Free-for-All,20,,,,
+Valorous Stance,{1}{W},2.0,Instant,"Choose one —
+• Target creature gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)
+• Destroy target creature with toughness 4 or greater.",W,W,uncommon,AFC,Forgotten Realms Commander,76,,,,
+Valorous Stance,{1}{W},2.0,Instant,"Choose one —
+• Target creature gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)
+• Destroy target creature with toughness 4 or greater.",W,W,uncommon,FDN,Foundations,583,,,,
+Valorous Stance,{1}{W},2.0,Instant,"Choose one —
+• Target creature gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)
+• Destroy target creature with toughness 4 or greater.",W,W,uncommon,CMR,Commander Legends,390,,,,
+Valorous Stance,{1}{W},2.0,Instant,"Choose one —
+• Target creature gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)
+• Destroy target creature with toughness 4 or greater.",W,W,uncommon,PIP,Fallout,702,,,,
+Valorous Stance,{1}{W},2.0,Instant,"Choose one —
+• Target creature gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)
+• Destroy target creature with toughness 4 or greater.",W,W,uncommon,PLST,The List,CMR-390,,,,
+Valorous Stance,{1}{W},2.0,Instant,"Choose one —
+• Target creature gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)
+• Destroy target creature with toughness 4 or greater.",W,W,uncommon,OTC,Outlaws of Thunder Junction Commander,88,,,,
+Valorous Stance,{1}{W},2.0,Instant,"Choose one —
+• Target creature gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)
+• Destroy target creature with toughness 4 or greater.",W,W,uncommon,CP3,Magic Origins Clash Pack,3,,,,
+Valorous Stance,{1}{W},2.0,Instant,"Choose one —
+• Target creature gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)
+• Destroy target creature with toughness 4 or greater.",W,W,uncommon,J22,Jumpstart 2022,59,,,,
+Vanish from Sight,{3}{U},4.0,Instant,Target nonland permanent's owner puts it on their choice of the top or bottom of their library. Surveil 1. (Look at the top card of your library. You may put it into your graveyard.),U,U,common,DSK,Duskmourn: House of Horror,82,,,,Surveil
+Vayne's Treachery,{1}{B},2.0,Instant,"Kicker—Sacrifice an artifact or creature. (You may sacrifice an artifact or creature in addition to any other costs as you cast this spell.)
+Target creature gets -2/-2 until end of turn. If this spell was kicked, that creature gets -6/-6 until end of turn instead.",B,B,common,FIN,Final Fantasy,124,,,,Kicker
+Vincent's Limit Break,{1}{B},2.0,Instant,"Tiered (Choose one additional cost.)
+Until end of turn, target creature you control gains ""When this creature dies, return it to the battlefield tapped under its owner's control"" and has the chosen base power and toughness.
+• Galian Beast — {0} — 3/2.
+• Death Gigas — {1} — 5/2.
+• Hellmasker — {3} — 7/2.",B,B,common,FIN,Final Fantasy,126,,,,Hellmasker;Death Gigas;Tiered;Galian Beast
+Violent Urge,{R},1.0,Instant,"Target creature gets +1/+0 and gains first strike until end of turn.
+Delirium — If there are four or more card types among cards in your graveyard, that creature gains double strike until end of turn.",R,R,uncommon,DSK,Duskmourn: House of Horror,164,,,,Delirium
+Virtue of Courage // Embereth Blaze,{3}{R}{R} // {1}{R},5.0,Enchantment // Instant — Adventure,,R,R,mythic,PWOE,Wilds of Eldraine Promos,157s,,,,
+Virtue of Courage // Embereth Blaze,{3}{R}{R} // {1}{R},5.0,Enchantment // Instant — Adventure,,R,R,mythic,WOE,Wilds of Eldraine,157,,,,
+Virtue of Courage // Embereth Blaze,{3}{R}{R} // {1}{R},5.0,Enchantment // Instant — Adventure,,R,R,mythic,PWOE,Wilds of Eldraine Promos,157p,,,,
+Virtue of Courage // Embereth Blaze,{3}{R}{R} // {1}{R},5.0,Enchantment // Instant — Adventure,,R,R,mythic,WOE,Wilds of Eldraine,282,,,,
+Virtue of Knowledge // Vantress Visions,{4}{U} // {1}{U},5.0,Enchantment // Instant — Adventure,,U,U,mythic,PWOE,Wilds of Eldraine Promos,76p,,,,
+Virtue of Knowledge // Vantress Visions,{4}{U} // {1}{U},5.0,Enchantment // Instant — Adventure,,U,U,mythic,WOE,Wilds of Eldraine,279,,,,
+Virtue of Knowledge // Vantress Visions,{4}{U} // {1}{U},5.0,Enchantment // Instant — Adventure,,U,U,mythic,PWOE,Wilds of Eldraine Promos,76s,,,,
+Virtue of Knowledge // Vantress Visions,{4}{U} // {1}{U},5.0,Enchantment // Instant — Adventure,,U,U,mythic,WOE,Wilds of Eldraine,76,,,,
+Virtue of Loyalty // Ardenvale Fealty,{3}{W}{W} // {1}{W},5.0,Enchantment // Instant — Adventure,,W,W,mythic,PWOE,Wilds of Eldraine Promos,38s,,,,
+Virtue of Loyalty // Ardenvale Fealty,{3}{W}{W} // {1}{W},5.0,Enchantment // Instant — Adventure,,W,W,mythic,WOE,Wilds of Eldraine,277,,,,
+Virtue of Loyalty // Ardenvale Fealty,{3}{W}{W} // {1}{W},5.0,Enchantment // Instant — Adventure,,W,W,mythic,PWOE,Wilds of Eldraine Promos,38p,,,,
+Virtue of Loyalty // Ardenvale Fealty,{3}{W}{W} // {1}{W},5.0,Enchantment // Instant — Adventure,,W,W,mythic,WOE,Wilds of Eldraine,38,,,,

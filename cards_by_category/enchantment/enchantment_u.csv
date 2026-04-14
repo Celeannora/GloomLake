@@ -1,0 +1,43 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Unable to Scream,{U},1.0,Enchantment — Aura,"Enchant creature
+Enchanted creature loses all abilities and is a Toy artifact creature with base power and toughness 0/2 in addition to its other types.
+As long as enchanted creature is face down, it can't be turned face up.",U,U,common,DSK,Duskmourn: House of Horror,78,,,,Enchant
+Undergrowth Recon,{1}{G}{G},3.0,Enchantment,"At the beginning of your upkeep, return target land card from your graveyard to the battlefield tapped.",G,G,mythic,PMKM,Murders at Karlov Manor Promos,181s,,,,
+Undergrowth Recon,{1}{G}{G},3.0,Enchantment,"At the beginning of your upkeep, return target land card from your graveyard to the battlefield tapped.",G,G,mythic,MKM,Murders at Karlov Manor,181,,,,
+Undergrowth Recon,{1}{G}{G},3.0,Enchantment,"At the beginning of your upkeep, return target land card from your graveyard to the battlefield tapped.",G,G,mythic,MKM,Murders at Karlov Manor,411,,,,
+Undergrowth Recon,{1}{G}{G},3.0,Enchantment,"At the beginning of your upkeep, return target land card from your graveyard to the battlefield tapped.",G,G,mythic,PMKM,Murders at Karlov Manor Promos,181p,,,,
+Underwater Tunnel // Slimy Aquarium,{U} // {3}{U},5.0,Enchantment — Room // Enchantment — Room,,U,U,common,DSK,Duskmourn: House of Horror,79,,,,Surveil;Manifest;Manifest dread
+Uneasy Alliance,{1}{W},2.0,Enchantment — Aura,"Enchant creature
+Enchanted creature can't attack or block.
+{5}, Sacrifice this Aura: Exile enchanted creature. You create a 1/1 black Ninja creature token. Activate only as a sorcery.",W,W,common,TMT,Teenage Mutant Ninja Turtles,28,,,,Enchant
+Unflinching Courage,{1}{G}{W},3.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets +2/+2 and has trample and lifelink. (Damage dealt by the creature also causes its controller to gain that much life.)","G,W","G,W",uncommon,PIO,Pioneer Masters,250,,,,Enchant
+Unflinching Courage,{1}{G}{W},3.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets +2/+2 and has trample and lifelink. (Damage dealt by the creature also causes its controller to gain that much life.)","G,W","G,W",uncommon,DGM,Dragon's Maze,111,,,,Enchant
+Unflinching Courage,{1}{G}{W},3.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets +2/+2 and has trample and lifelink. (Damage dealt by the creature also causes its controller to gain that much life.)","G,W","G,W",uncommon,PLST,The List,C18-192,,,,Enchant
+Unflinching Courage,{1}{G}{W},3.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets +2/+2 and has trample and lifelink. (Damage dealt by the creature also causes its controller to gain that much life.)","G,W","G,W",uncommon,BBD,Battlebond,230,,,,Enchant
+Unflinching Courage,{1}{G}{W},3.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets +2/+2 and has trample and lifelink. (Damage dealt by the creature also causes its controller to gain that much life.)","G,W","G,W",uncommon,FDN,Foundations,722,,,,Enchant
+Unflinching Courage,{1}{G}{W},3.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets +2/+2 and has trample and lifelink. (Damage dealt by the creature also causes its controller to gain that much life.)","G,W","G,W",uncommon,C18,Commander 2018,192,,,,Enchant
+Unflinching Courage,{1}{G}{W},3.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets +2/+2 and has trample and lifelink. (Damage dealt by the creature also causes its controller to gain that much life.)","G,W","G,W",uncommon,MM3,Modern Masters 2017,197,,,,Enchant
+Unholy Annex // Ritual Chamber,{2}{B} // {3}{B}{B},8.0,Enchantment — Room // Enchantment — Room,,B,B,rare,DSK,Duskmourn: House of Horror,118,,,,
+Unholy Annex // Ritual Chamber,{2}{B} // {3}{B}{B},8.0,Enchantment — Room // Enchantment — Room,,B,B,rare,PDSK,Duskmourn: House of Horror Promos,118p,,,,
+Unholy Annex // Ritual Chamber,{2}{B} // {3}{B}{B},8.0,Enchantment — Room // Enchantment — Room,,B,B,rare,DSK,Duskmourn: House of Horror,339,,,,
+Unholy Annex // Ritual Chamber,{2}{B} // {3}{B}{B},8.0,Enchantment — Room // Enchantment — Room,,B,B,rare,PDSK,Duskmourn: House of Horror Promos,118s,,,,
+Unstoppable Plan,{2}{U},3.0,Enchantment,"At the beginning of your end step, untap all nonland permanents you control.",U,U,rare,DFT,Aetherdrift,442,,,,
+Unstoppable Plan,{2}{U},3.0,Enchantment,"At the beginning of your end step, untap all nonland permanents you control.",U,U,rare,PDFT,Aetherdrift Promos,72p,,,,
+Unstoppable Plan,{2}{U},3.0,Enchantment,"At the beginning of your end step, untap all nonland permanents you control.",U,U,rare,DFT,Aetherdrift,72,,,,
+Unstoppable Plan,{2}{U},3.0,Enchantment,"At the beginning of your end step, untap all nonland permanents you control.",U,U,rare,DFT,Aetherdrift,382,,,,
+Unstoppable Plan,{2}{U},3.0,Enchantment,"At the beginning of your end step, untap all nonland permanents you control.",U,U,rare,PDFT,Aetherdrift Promos,72s,,,,
+Untamed Hunger,{2}{B},3.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets +2/+1 and has menace. (It can't be blocked except by two or more creatures.)",B,B,common,PLST,The List,OGW-91,,,,Enchant
+Untamed Hunger,{2}{B},3.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets +2/+1 and has menace. (It can't be blocked except by two or more creatures.)",B,B,common,FDN,Foundations,529,,,,Enchant
+Untamed Hunger,{2}{B},3.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets +2/+1 and has menace. (It can't be blocked except by two or more creatures.)",B,B,common,OGW,Oath of the Gatewatch,91,,,,Enchant
+Untamed Hunger,{2}{B},3.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets +2/+1 and has menace. (It can't be blocked except by two or more creatures.)",B,B,common,W17,Welcome Deck 2017,20,,,,Enchant

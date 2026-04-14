@@ -1,0 +1,26 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Leonardo's Technique,{3}{W},4.0,Sorcery,"Sneak {1}{W} (You may cast this spell for {1}{W} if you also return an unblocked attacker you control to hand during the declare blockers step.)
+Return one or two target creature cards each with mana value 3 or less from your graveyard to the battlefield.",W,W,rare,TMT,Teenage Mutant Ninja Turtles,224,,,,Sneak
+Leonardo's Technique,{3}{W},4.0,Sorcery,"Sneak {1}{W} (You may cast this spell for {1}{W} if you also return an unblocked attacker you control to hand during the declare blockers step.)
+Return one or two target creature cards each with mana value 3 or less from your graveyard to the battlefield.",W,W,rare,TMT,Teenage Mutant Ninja Turtles,18,,,,Sneak
+Lessons from Life,{2}{G}{U},4.0,Sorcery,Draw three cards. You may put a land card from your hand onto the battlefield tapped.,"G,U","G,U",uncommon,TMT,Teenage Mutant Ninja Turtles,155,,,,
+Let's Play a Game,{3}{B},4.0,Sorcery,"Delirium — Choose one. If there are four or more card types among cards in your graveyard, choose one or more instead.
+• Creatures your opponents control get -1/-1 until end of turn.
+• Each opponent discards two cards.
+• Each opponent loses 3 life and you gain 3 life.",B,B,uncommon,DSK,Duskmourn: House of Horror,105,,,,Delirium
+Lich-Knights' Conquest,{4}{B},5.0,Sorcery,"Sacrifice any number of artifacts, enchantments, and/or tokens. Return that many creature cards from your graveyard to the battlefield.",B,B,rare,PWOE,Wilds of Eldraine Promos,96p,,,,
+Lich-Knights' Conquest,{4}{B},5.0,Sorcery,"Sacrifice any number of artifacts, enchantments, and/or tokens. Return that many creature cards from your graveyard to the battlefield.",B,B,rare,WOE,Wilds of Eldraine,96,,,,
+Lich-Knights' Conquest,{4}{B},5.0,Sorcery,"Sacrifice any number of artifacts, enchantments, and/or tokens. Return that many creature cards from your graveyard to the battlefield.",B,B,rare,WOE,Wilds of Eldraine,380,,,,
+Lich-Knights' Conquest,{4}{B},5.0,Sorcery,"Sacrifice any number of artifacts, enchantments, and/or tokens. Return that many creature cards from your graveyard to the battlefield.",B,B,rare,PWOE,Wilds of Eldraine Promos,96s,,,,
+Lich-Knights' Conquest,{4}{B},5.0,Sorcery,"Sacrifice any number of artifacts, enchantments, and/or tokens. Return that many creature cards from your graveyard to the battlefield.",B,B,rare,WOE,Wilds of Eldraine,338,,,,
+Lie in Wait,{B}{G}{U},3.0,Sorcery,Return target creature card from your graveyard to your hand. Lie in Wait deals damage equal to that card's power to target creature.,"B,G,U","B,G,U",uncommon,TDM,Tarkir: Dragonstorm,203,,,,
+Lively Dirge,{1}{B},2.0,Sorcery,"Spree (Choose one or more additional costs.)
++ {1} — Search your library for a card, put it into your graveyard, then shuffle.
++ {2} — Return up to two creature cards with total mana value 4 or less from your graveyard to the battlefield.",B,B,uncommon,OTJ,Outlaws of Thunder Junction,93,,,,Spree
+Longstalk Brawl,{G},1.0,Sorcery,"Gift a tapped Fish (You may promise an opponent a gift as you cast this spell. If you do, they create a tapped 1/1 blue Fish creature token before its other effects.)
+Choose target creature you control and target creature you don't control. Put a +1/+1 counter on the creature you control if the gift was promised. Then those creatures fight each other.",G,G,common,BLB,Bloomburrow,182,,,,Gift;Fight
+Lunar Insight,{2}{U},3.0,Sorcery,Draw a card for each different mana value among nonland permanents you control.,U,U,rare,FDN,Foundations,310,,,,
+Lunar Insight,{2}{U},3.0,Sorcery,Draw a card for each different mana value among nonland permanents you control.,U,U,rare,PFDN,Foundations Promos,46s,,,,
+Lunar Insight,{2}{U},3.0,Sorcery,Draw a card for each different mana value among nonland permanents you control.,U,U,rare,FDN,Foundations,378,,,,
+Lunar Insight,{2}{U},3.0,Sorcery,Draw a card for each different mana value among nonland permanents you control.,U,U,rare,FDN,Foundations,46,,,,
+Lunar Insight,{2}{U},3.0,Sorcery,Draw a card for each different mana value among nonland permanents you control.,U,U,rare,FDN,Foundations,456,,,,

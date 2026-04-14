@@ -1,0 +1,34 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Ill-Timed Explosion,{2}{U}{R},4.0,Sorcery,"Draw two cards. Then you may discard two cards. When you do, Ill-Timed Explosion deals X damage to each creature, where X is the greatest mana value among cards discarded this way.","R,U","R,U",rare,MKM,Murders at Karlov Manor,207,,,,
+Ill-Timed Explosion,{2}{U}{R},4.0,Sorcery,"Draw two cards. Then you may discard two cards. When you do, Ill-Timed Explosion deals X damage to each creature, where X is the greatest mana value among cards discarded this way.","R,U","R,U",rare,MKM,Murders at Karlov Manor,416,,,,
+Ill-Timed Explosion,{2}{U}{R},4.0,Sorcery,"Draw two cards. Then you may discard two cards. When you do, Ill-Timed Explosion deals X damage to each creature, where X is the greatest mana value among cards discarded this way.","R,U","R,U",rare,PMKM,Murders at Karlov Manor Promos,207p,,,,
+Ill-Timed Explosion,{2}{U}{R},4.0,Sorcery,"Draw two cards. Then you may discard two cards. When you do, Ill-Timed Explosion deals X damage to each creature, where X is the greatest mana value among cards discarded this way.","R,U","R,U",rare,PMKM,Murders at Karlov Manor Promos,207s,,,,
+Impolite Entrance,{R},1.0,Sorcery,"Target creature gains trample and haste until end of turn.
+Draw a card.",R,R,uncommon,ECL,Lorwyn Eclipsed,146,,,,
+Incinerating Blast,{4}{R},5.0,Sorcery,"Incinerating Blast deals 6 damage to target creature.
+You may discard a card. If you do, draw a card.",R,R,common,FDN,Foundations,90,,,,
+Insatiable Avarice,{B},1.0,Sorcery,"Spree (Choose one or more additional costs.)
++ {2} — Search your library for a card, then shuffle and put that card on top.
++ {B}{B} — Target player draws three cards and loses 3 life.",B,B,rare,POTJ,Outlaws of Thunder Junction Promos,91p,,,,Spree
+Insatiable Avarice,{B},1.0,Sorcery,"Spree (Choose one or more additional costs.)
++ {2} — Search your library for a card, then shuffle and put that card on top.
++ {B}{B} — Target player draws three cards and loses 3 life.",B,B,rare,POTJ,Outlaws of Thunder Junction Promos,91s,,,,Spree
+Insatiable Avarice,{B},1.0,Sorcery,"Spree (Choose one or more additional costs.)
++ {2} — Search your library for a card, then shuffle and put that card on top.
++ {B}{B} — Target player draws three cards and loses 3 life.",B,B,rare,OTJ,Outlaws of Thunder Junction,91,,,,Spree
+Insatiable Avarice,{B},1.0,Sorcery,"Spree (Choose one or more additional costs.)
++ {2} — Search your library for a card, then shuffle and put that card on top.
++ {B}{B} — Target player draws three cards and loses 3 life.",B,B,rare,OTJ,Outlaws of Thunder Junction,325,,,,Spree
+Inspiration from Beyond,{2}{U},3.0,Sorcery,"Mill three cards, then return an instant or sorcery card from your graveyard to your hand.
+Flashback {5}{U}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",U,U,uncommon,FDN,Foundations,43,,,,Flashback;Mill
+Intimidation Tactics,{B},1.0,Sorcery,"Target opponent reveals their hand. You choose an artifact or creature card from it. Exile that card.
+Cycling {3} ({3}, Discard this card: Draw a card.)",B,B,uncommon,DFT,Aetherdrift,92,,,,Cycling
+Into the Fae Court,{3}{U}{U},5.0,Sorcery,"Draw three cards. Create a 1/1 blue Faerie creature token with flying and ""This token can block only creatures with flying.""",U,U,common,WOE,Wilds of Eldraine,57,,,,
+Involuntary Employment,{3}{R},4.0,Sorcery,"Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. Create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")",R,R,uncommon,SNC,Streets of New Capenna,110,,,,Treasure
+Involuntary Employment,{3}{R},4.0,Sorcery,"Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. Create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")",R,R,common,FDN,Foundations,203,,,,Treasure
+Iroh's Demonstration,{1}{R},2.0,Sorcery — Lesson,"Choose one —
+• Iroh's Demonstration deals 1 damage to each creature your opponents control.
+• Iroh's Demonstration deals 4 damage to target creature.",R,R,uncommon,TLA,Avatar: The Last Airbender,141,,,,
+"Ishgard, the Holy See // Faith & Grief",{3}{W}{W},0.0,Land — Town // Sorcery — Adventure,,,W,rare,FIN,Final Fantasy,283,,,,
+"Ishgard, the Holy See // Faith & Grief",{3}{W}{W},0.0,Land — Town // Sorcery — Adventure,,,W,rare,PFIN,Final Fantasy Promos,283s,,,,
+"Ishgard, the Holy See // Faith & Grief",{3}{W}{W},0.0,Land — Town // Sorcery — Adventure,,,W,rare,FIN,Final Fantasy,310,,,,

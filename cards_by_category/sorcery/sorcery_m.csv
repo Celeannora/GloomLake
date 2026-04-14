@@ -1,0 +1,93 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Macabre Reconstruction,{3}{B},4.0,Sorcery,"This spell costs {2} less to cast if a creature card was put into your graveyard from anywhere this turn.
+Return up to two target creature cards from your graveyard to your hand.",B,B,common,MKM,Murders at Karlov Manor,93,,,,
+Macabre Waltz,{1}{B},2.0,Sorcery,"Return up to two target creature cards from your graveyard to your hand, then discard a card.",B,B,common,FDN,Foundations,177,,,,
+Macabre Waltz,{1}{B},2.0,Sorcery,"Return up to two target creature cards from your graveyard to your hand, then discard a card.",B,B,common,PLST,The List,SOI-121,,,,
+Macabre Waltz,{1}{B},2.0,Sorcery,"Return up to two target creature cards from your graveyard to your hand, then discard a card.",B,B,common,SIR,Shadows over Innistrad Remastered,121,,,,
+Macabre Waltz,{1}{B},2.0,Sorcery,"Return up to two target creature cards from your graveyard to your hand, then discard a card.",B,B,common,RVR,Ravnica Remastered,82,,,,
+Macabre Waltz,{1}{B},2.0,Sorcery,"Return up to two target creature cards from your graveyard to your hand, then discard a card.",B,B,common,SOI,Shadows over Innistrad,121,,,,
+Macabre Waltz,{1}{B},2.0,Sorcery,"Return up to two target creature cards from your graveyard to your hand, then discard a card.",B,B,common,ORI,Magic Origins,107,,,,
+Macabre Waltz,{1}{B},2.0,Sorcery,"Return up to two target creature cards from your graveyard to your hand, then discard a card.",B,B,common,JMP,Jumpstart,252,,,,
+Macabre Waltz,{1}{B},2.0,Sorcery,"Return up to two target creature cards from your graveyard to your hand, then discard a card.",B,B,common,DIS,Dissension,47,,,,
+Macabre Waltz,{1}{B},2.0,Sorcery,"Return up to two target creature cards from your graveyard to your hand, then discard a card.",B,B,common,M19,Core Set 2019,108,,,,
+Maelstrom Pulse,{1}{B}{G},3.0,Sorcery,Destroy target nonland permanent and all other permanents with the same name as that permanent.,"B,G","B,G",rare,FDN,Foundations,661,,,,
+Maelstrom Pulse,{1}{B}{G},3.0,Sorcery,Destroy target nonland permanent and all other permanents with the same name as that permanent.,"B,G","B,G",rare,PRM,Magic Online Promos,37845,,,,
+Maelstrom Pulse,{1}{B}{G},3.0,Sorcery,Destroy target nonland permanent and all other permanents with the same name as that permanent.,"B,G","B,G",mythic,PUMA,Ultimate Box Topper,U24,,,,
+Maelstrom Pulse,{1}{B}{G},3.0,Sorcery,Destroy target nonland permanent and all other permanents with the same name as that permanent.,"B,G","B,G",rare,MMA,Modern Masters,180,,,,
+Maelstrom Pulse,{1}{B}{G},3.0,Sorcery,Destroy target nonland permanent and all other permanents with the same name as that permanent.,"B,G","B,G",rare,INR,Innistrad Remastered,244,,,,
+Maelstrom Pulse,{1}{B}{G},3.0,Sorcery,Destroy target nonland permanent and all other permanents with the same name as that permanent.,"B,G","B,G",rare,2XM,Double Masters,207,,,,
+Maelstrom Pulse,{1}{B}{G},3.0,Sorcery,Destroy target nonland permanent and all other permanents with the same name as that permanent.,"B,G","B,G",rare,HA2,Historic Anthology 2,16,,,,
+Maelstrom Pulse,{1}{B}{G},3.0,Sorcery,Destroy target nonland permanent and all other permanents with the same name as that permanent.,"B,G","B,G",rare,UMA,Ultimate Masters,204,,,,
+Maelstrom Pulse,{1}{B}{G},3.0,Sorcery,Destroy target nonland permanent and all other permanents with the same name as that permanent.,"B,G","B,G",rare,PGPX,Grand Prix Promos,2011,,,,
+Maelstrom Pulse,{1}{B}{G},3.0,Sorcery,Destroy target nonland permanent and all other permanents with the same name as that permanent.,"B,G","B,G",rare,BLC,Bloomburrow Commander,126,,,,
+Maelstrom Pulse,{1}{B}{G},3.0,Sorcery,Destroy target nonland permanent and all other permanents with the same name as that permanent.,"B,G","B,G",special,MP2,Amonkhet Invocations,29,,,,
+Maelstrom Pulse,{1}{B}{G},3.0,Sorcery,Destroy target nonland permanent and all other permanents with the same name as that permanent.,"B,G","B,G",rare,ARB,Alara Reborn,92,,,,
+Maelstrom Pulse,{1}{B}{G},3.0,Sorcery,Destroy target nonland permanent and all other permanents with the same name as that permanent.,"B,G","B,G",rare,M3C,Modern Horizons 3 Commander,269,,,,
+Make Your Own Luck,{3}{G}{U},5.0,Sorcery,"Look at the top three cards of your library. You may exile a nonland card from among them. If you do, it becomes plotted. Put the rest into your hand. (You may cast it as a sorcery on a later turn without paying its mana cost.)","G,U","G,U",uncommon,OTJ,Outlaws of Thunder Junction,218,,,,Plot
+Make Your Own Luck,{3}{G}{U},5.0,Sorcery,"Look at the top three cards of your library. You may exile a nonland card from among them. If you do, it becomes plotted. Put the rest into your hand. (You may cast it as a sorcery on a later turn without paying its mana cost.)","G,U","G,U",uncommon,OTJ,Outlaws of Thunder Junction,371,,,,Plot
+Malamet Battle Glyph,{G},1.0,Sorcery,"Choose target creature you control and target creature you don't control. If the creature you control entered this turn, put a +1/+1 counter on it. Then those creatures fight each other.",G,G,uncommon,LCI,The Lost Caverns of Ixalan,198,,,,Fight
+Malicious Eclipse,{1}{B}{B},3.0,Sorcery,"All creatures get -2/-2 until end of turn. If a creature an opponent controls would die this turn, exile it instead.",B,B,uncommon,LCI,The Lost Caverns of Ixalan,111,,,,
+Mammoth Bellow,{2}{G}{U}{R},5.0,Sorcery,"Create a 5/5 green Elephant creature token.
+Harmonize {5}{G}{U}{R} (You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)","G,R,U","G,R,U",uncommon,TDM,Tarkir: Dragonstorm,205,,,,Harmonize
+Manifest Dread,{1}{G},2.0,Sorcery,Manifest dread. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.),G,G,common,DSK,Duskmourn: House of Horror,189,,,,Manifest;Manifest dread
+Map the Frontier,{3}{G},4.0,Sorcery,"Search your library for up to two basic land cards and/or Desert cards, put them onto the battlefield tapped, then shuffle.",G,G,uncommon,OTJ,Outlaws of Thunder Junction,170,,,,
+Memories Returning,{2}{U}{U},4.0,Sorcery,"Reveal the top five cards of your library. Put one of them into your hand. Then choose an opponent. They put one on the bottom of your library. Then you put one into your hand. Then they put one on the bottom of your library. Put the other into your hand.
+Flashback {7}{U}{U}",U,U,rare,FIN,Final Fantasy,63,,,,Flashback
+Memories Returning,{2}{U}{U},4.0,Sorcery,"Reveal the top five cards of your library. Put one of them into your hand. Then choose an opponent. They put one on the bottom of your library. Then you put one into your hand. Then they put one on the bottom of your library. Put the other into your hand.
+Flashback {7}{U}{U}",U,U,rare,PFIN,Final Fantasy Promos,63s,,,,Flashback
+Memories Returning,{2}{U}{U},4.0,Sorcery,"Reveal the top five cards of your library. Put one of them into your hand. Then choose an opponent. They put one on the bottom of your library. Then you put one into your hand. Then they put one on the bottom of your library. Put the other into your hand.
+Flashback {7}{U}{U}",U,U,rare,FIN,Final Fantasy,331,,,,Flashback
+Michelangelo's Technique,{4}{G},5.0,Sorcery,"Sneak {3}{G} (You may cast this spell for {3}{G} if you also return an unblocked attacker you control to hand during the declare blockers step.)
+Look at the top eight cards of your library. Put up to two creature cards with total mana value 6 or less from among them onto the battlefield and the rest on the bottom of your library in a random order.",G,G,rare,TMT,Teenage Mutant Ninja Turtles,122,,,,Sneak
+Michelangelo's Technique,{4}{G},5.0,Sorcery,"Sneak {3}{G} (You may cast this spell for {3}{G} if you also return an unblocked attacker you control to hand during the declare blockers step.)
+Look at the top eight cards of your library. Put up to two creature cards with total mana value 6 or less from among them onto the battlefield and the rest on the bottom of your library in a random order.",G,G,rare,TMT,Teenage Mutant Ninja Turtles,239,,,,Sneak
+"Midgar, City of Mako // Reactor Raid",{2}{B},0.0,Land — Town // Sorcery — Adventure,,,B,rare,FIN,Final Fantasy,286,,,,
+"Midgar, City of Mako // Reactor Raid",{2}{B},0.0,Land — Town // Sorcery — Adventure,,,B,rare,PFIN,Final Fantasy Promos,286s,,,,
+"Midgar, City of Mako // Reactor Raid",{2}{B},0.0,Land — Town // Sorcery — Adventure,,,B,rare,FIN,Final Fantasy,313,,,,
+Midnight Mayhem,{2}{R}{W},4.0,Sorcery,"Create three 1/1 red Gremlin creature tokens. Gremlins you control gain menace, lifelink, and haste until end of turn. (A creature with menace can't be blocked except by two or more creatures.)","R,W","R,W",uncommon,DSK,Duskmourn: House of Horror,222,,,,
+Mind Spiral,{4}{U},5.0,Sorcery,"Gift a tapped Fish (You may promise an opponent a gift as you cast this spell. If you do, they create a tapped 1/1 blue Fish creature token before its other effects.)
+Target player draws three cards. If the gift was promised, tap target creature an opponent controls and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)",U,U,common,BLB,Bloomburrow,59,,,,Gift
+Mind Spring,{X}{U}{U},2.0,Sorcery,Draw X cards.,U,U,rare,DDT,Duel Decks: Merfolk vs. Goblins,14,,,,
+Mind Spring,{X}{U}{U},2.0,Sorcery,Draw X cards.,U,U,rare,C20,Commander 2020,116,,,,
+Mind Spring,{X}{U}{U},2.0,Sorcery,Draw X cards.,U,U,rare,M10,Magic 2010,64,,,,
+Mind Spring,{X}{U}{U},2.0,Sorcery,Draw X cards.,U,U,rare,MOR,Morningtide,41,,,,
+Mind Spring,{X}{U}{U},2.0,Sorcery,Draw X cards.,U,U,rare,BLB,Bloomburrow,389,,,,
+Mind Spring,{X}{U}{U},2.0,Sorcery,Draw X cards.,U,U,rare,PS11,Salvat 2011,46,,,,
+Mind Spring,{X}{U}{U},2.0,Sorcery,Draw X cards.,U,U,rare,DPA,Duels of the Planeswalkers,12,,,,
+Mind Spring,{X}{U}{U},2.0,Sorcery,Draw X cards.,U,U,rare,PLST,The List,DDT-14,,,,
+Molten Collapse,{B}{R},2.0,Sorcery,"Choose one. If you descended this turn, you may choose both instead. (You descended if a permanent card was put into your graveyard from anywhere.)
+• Destroy target creature or planeswalker.
+• Destroy target noncreature, nonland permanent with mana value 1 or less.","B,R","B,R",rare,LCI,The Lost Caverns of Ixalan,234,,,,
+Molten Collapse,{B}{R},2.0,Sorcery,"Choose one. If you descended this turn, you may choose both instead. (You descended if a permanent card was put into your graveyard from anywhere.)
+• Destroy target creature or planeswalker.
+• Destroy target noncreature, nonland permanent with mana value 1 or less.","B,R","B,R",rare,PLCI,The Lost Caverns of Ixalan Promos,234s,,,,
+Molten Collapse,{B}{R},2.0,Sorcery,"Choose one. If you descended this turn, you may choose both instead. (You descended if a permanent card was put into your graveyard from anywhere.)
+• Destroy target creature or planeswalker.
+• Destroy target noncreature, nonland permanent with mana value 1 or less.","B,R","B,R",rare,PLCI,The Lost Caverns of Ixalan Promos,234p,,,,
+Molten Collapse,{B}{R},2.0,Sorcery,"Choose one. If you descended this turn, you may choose both instead. (You descended if a permanent card was put into your graveyard from anywhere.)
+• Destroy target creature or planeswalker.
+• Destroy target noncreature, nonland permanent with mana value 1 or less.","B,R","B,R",rare,LCI,The Lost Caverns of Ixalan,342,,,,
+Molten Duplication,{1}{R},2.0,Sorcery,"Create a token that's a copy of target artifact or creature you control, except it's an artifact in addition to its other types. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.",R,R,mythic,BIG,The Big Score,79,,,,
+Molten Duplication,{1}{R},2.0,Sorcery,"Create a token that's a copy of target artifact or creature you control, except it's an artifact in addition to its other types. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.",R,R,mythic,BIG,The Big Score,44,,,,
+Molten Duplication,{1}{R},2.0,Sorcery,"Create a token that's a copy of target artifact or creature you control, except it's an artifact in addition to its other types. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.",R,R,mythic,BIG,The Big Score,14,,,,
+Molten Exhale,{1}{R},2.0,Sorcery,"You may cast this spell as though it had flash if you behold a Dragon as an additional cost to cast it. (To behold a Dragon, choose a Dragon you control or reveal a Dragon card from your hand.)
+Molten Exhale deals 4 damage to target creature or planeswalker.",R,R,common,TDM,Tarkir: Dragonstorm,113,,,,Behold
+Monstrous Emergence,{1}{G},2.0,Sorcery,"As an additional cost to cast this spell, choose a creature you control or reveal a creature card from your hand.
+Monstrous Emergence deals damage equal to the power of the creature you chose or the card you revealed to target creature.",G,G,common,DSK,Duskmourn: House of Horror,191,,,,
+Morningtide's Light,{3}{W},4.0,Sorcery,"Exile any number of target creatures. At the beginning of the next end step, return those cards to the battlefield tapped under their owners' control.
+Until your next turn, prevent all damage that would be dealt to you.
+Exile Morningtide's Light.",W,W,mythic,ECL,Lorwyn Eclipsed,27,,,,
+Morningtide's Light,{3}{W},4.0,Sorcery,"Exile any number of target creatures. At the beginning of the next end step, return those cards to the battlefield tapped under their owners' control.
+Until your next turn, prevent all damage that would be dealt to you.
+Exile Morningtide's Light.",W,W,mythic,ECL,Lorwyn Eclipsed,301,,,,
+Morningtide's Light,{3}{W},4.0,Sorcery,"Exile any number of target creatures. At the beginning of the next end step, return those cards to the battlefield tapped under their owners' control.
+Until your next turn, prevent all damage that would be dealt to you.
+Exile Morningtide's Light.",W,W,mythic,PECL,Lorwyn Eclipsed Promos,27p,,,,
+Mourner's Surprise,{1}{B},2.0,Sorcery,"Return up to one target creature card from your graveyard to your hand. Create a 1/1 red Mercenary creature token with ""{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.""",B,B,common,OTJ,Outlaws of Thunder Junction,94,,,,
+Mutant Chain Reaction,{2}{G},3.0,Sorcery,"Destroy up to one target artifact, enchantment, or creature with flying. Create a Mutagen token. (It's an artifact with ""{1}, {T}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery."")",G,G,common,TMT,Teenage Mutant Ninja Turtles,125,,,,
+Mutinous Massacre,{3}{B}{B}{R}{R},7.0,Sorcery,Choose odd or even. Destroy each creature with mana value of the chosen quality. Then gain control of all creatures until end of turn. Untap them. They gain haste until end of turn. (Zero is even.),"B,R","B,R",rare,PEOE,Edge of Eternities Promos,222s,,,,
+Mutinous Massacre,{3}{B}{B}{R}{R},7.0,Sorcery,Choose odd or even. Destroy each creature with mana value of the chosen quality. Then gain control of all creatures until end of turn. Untap them. They gain haste until end of turn. (Zero is even.),"B,R","B,R",rare,EOE,Edge of Eternities,222,,,,
+Mutinous Massacre,{3}{B}{B}{R}{R},7.0,Sorcery,Choose odd or even. Destroy each creature with mana value of the chosen quality. Then gain control of all creatures until end of turn. Untap them. They gain haste until end of turn. (Zero is even.),"B,R","B,R",mythic,EOE,Edge of Eternities,389,,,,
+Mutinous Massacre,{3}{B}{B}{R}{R},7.0,Sorcery,Choose odd or even. Destroy each creature with mana value of the chosen quality. Then gain control of all creatures until end of turn. Untap them. They gain haste until end of turn. (Zero is even.),"B,R","B,R",mythic,EOE,Edge of Eternities,363,,,,
+Mutinous Massacre,{3}{B}{B}{R}{R},7.0,Sorcery,Choose odd or even. Destroy each creature with mana value of the chosen quality. Then gain control of all creatures until end of turn. Untap them. They gain haste until end of turn. (Zero is even.),"B,R","B,R",rare,EOE,Edge of Eternities,314,,,,
+Mutinous Massacre,{3}{B}{B}{R}{R},7.0,Sorcery,Choose odd or even. Destroy each creature with mana value of the chosen quality. Then gain control of all creatures until end of turn. Untap them. They gain haste until end of turn. (Zero is even.),"B,R","B,R",rare,PEOE,Edge of Eternities Promos,222p,,,,

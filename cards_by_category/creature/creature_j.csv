@@ -1,0 +1,182 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+J. Jonah Jameson,{2}{R},3.0,Legendary Creature — Human Citizen,"When J. Jonah Jameson enters, suspect up to one target creature. (A suspected creature has menace and can't block.)
+Whenever a creature you control with menace attacks, create a Treasure token.",R,R,rare,OM1,Through the Omenpaths,88,2,2,,Treasure
+J. Jonah Jameson,{2}{R},3.0,Legendary Creature — Human Citizen,"When J. Jonah Jameson enters, suspect up to one target creature. (A suspected creature has menace and can't block.)
+Whenever a creature you control with menace attacks, create a Treasure token.",R,R,rare,PF25,MagicFest 2025,17,2,2,,Treasure
+J. Jonah Jameson,{2}{R},3.0,Legendary Creature — Human Citizen,"When J. Jonah Jameson enters, suspect up to one target creature. (A suspected creature has menace and can't block.)
+Whenever a creature you control with menace attacks, create a Treasure token.",R,R,rare,SPM,Marvel's Spider-Man,81,2,2,,Treasure
+J. Jonah Jameson,{2}{R},3.0,Legendary Creature — Human Citizen,"When J. Jonah Jameson enters, suspect up to one target creature. (A suspected creature has menace and can't block.)
+Whenever a creature you control with menace attacks, create a Treasure token.",R,R,rare,PSPM,Marvel's Spider-Man Promos,81s,2,2,,Treasure
+J. Jonah Jameson,{2}{R},3.0,Legendary Creature — Human Citizen,"When J. Jonah Jameson enters, suspect up to one target creature. (A suspected creature has menace and can't block.)
+Whenever a creature you control with menace attacks, create a Treasure token.",R,R,rare,SPM,Marvel's Spider-Man,261,2,2,,Treasure
+"Jackal, Genius Geneticist",{G}{U},2.0,Legendary Creature — Human Scientist Villain,"Trample
+Whenever you cast a creature spell with mana value equal to Jackal's power, copy that spell, except the copy isn't legendary. Then put a +1/+1 counter on Jackal. (The copy becomes a token.)","G,U","G,U",rare,SPM,Marvel's Spider-Man,272,1,1,,Trample
+"Jackal, Genius Geneticist",{G}{U},2.0,Legendary Creature — Human Scientist Villain,"Trample
+Whenever you cast a creature spell with mana value equal to Jackal's power, copy that spell, except the copy isn't legendary. Then put a +1/+1 counter on Jackal. (The copy becomes a token.)","G,U","G,U",rare,PSPM,Marvel's Spider-Man Promos,131s,1,1,,Trample
+"Jackal, Genius Geneticist",{G}{U},2.0,Legendary Creature — Human Scientist Villain,"Trample
+Whenever you cast a creature spell with mana value equal to Jackal's power, copy that spell, except the copy isn't legendary. Then put a +1/+1 counter on Jackal. (The copy becomes a token.)","G,U","G,U",rare,SPM,Marvel's Spider-Man,131,1,1,,Trample
+"Jackal, Genius Geneticist",{G}{U},2.0,Legendary Creature — Human Scientist Villain,"Trample
+Whenever you cast a creature spell with mana value equal to Jackal's power, copy that spell, except the copy isn't legendary. Then put a +1/+1 counter on Jackal. (The copy becomes a token.)","G,U","G,U",rare,OM1,Through the Omenpaths,136,1,1,,Trample
+Jackdaw Savior,{2}{W},3.0,Creature — Bird Cleric,"Flying
+Whenever this creature or another creature you control with flying dies, return another target creature card with lesser mana value from your graveyard to the battlefield.",W,W,rare,BLB,Bloomburrow,18,3,1,,Flying
+Jackdaw Savior,{2}{W},3.0,Creature — Bird Cleric,"Flying
+Whenever this creature or another creature you control with flying dies, return another target creature card with lesser mana value from your graveyard to the battlefield.",W,W,rare,BLB,Bloomburrow,296,3,1,,Flying
+Jackdaw Savior,{2}{W},3.0,Creature — Bird Cleric,"Flying
+Whenever this creature or another creature you control with flying dies, return another target creature card with lesser mana value from your graveyard to the battlefield.",W,W,rare,PBLB,Bloomburrow Promos,18s,3,1,,Flying
+Jackdaw Savior,{2}{W},3.0,Creature — Bird Cleric,"Flying
+Whenever this creature or another creature you control with flying dies, return another target creature card with lesser mana value from your graveyard to the battlefield.",W,W,rare,PBLB,Bloomburrow Promos,18p,3,1,,Flying
+Jade Seedstones // Jadeheart Attendant,,4.0,Artifact // Artifact Creature — Golem,,,G,uncommon,LCI,The Lost Caverns of Ixalan,195,,,,Craft;Transform
+Jade-Cast Sentinel,{4},4.0,Artifact Creature — Ape Snake,"Reach
+{2}, {T}: Put target card from a graveyard on the bottom of its owner's library.",,,common,TDM,Tarkir: Dragonstorm,243,1,5,,Reach
+Jaded Analyst,{1}{U},2.0,Creature — Human Detective,"Defender
+Whenever you draw your second card each turn, this creature loses defender and gains vigilance until end of turn.",U,U,common,MKM,Murders at Karlov Manor,62,3,2,,Defender
+Jadelight Spelunker,{X}{G},1.0,Creature — Merfolk Scout,"When this creature enters, it explores X times. (To have it explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)",G,G,rare,LCI,The Lost Caverns of Ixalan,382,1,1,,Explore
+Jadelight Spelunker,{X}{G},1.0,Creature — Merfolk Scout,"When this creature enters, it explores X times. (To have it explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)",G,G,rare,PLCI,The Lost Caverns of Ixalan Promos,196p,1,1,,Explore
+Jadelight Spelunker,{X}{G},1.0,Creature — Merfolk Scout,"When this creature enters, it explores X times. (To have it explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)",G,G,rare,PLCI,The Lost Caverns of Ixalan Promos,196s,1,1,,Explore
+Jadelight Spelunker,{X}{G},1.0,Creature — Merfolk Scout,"When this creature enters, it explores X times. (To have it explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)",G,G,rare,LCI,The Lost Caverns of Ixalan,196,1,1,,Explore
+Jadelight Spelunker,{X}{G},1.0,Creature — Merfolk Scout,"When this creature enters, it explores X times. (To have it explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)",G,G,rare,LCI,The Lost Caverns of Ixalan,403,1,1,,Explore
+Jazal Goldmane,{2}{W}{W},4.0,Legendary Creature — Cat Warrior,"First strike (This creature deals combat damage before creatures without first strike.)
+{3}{W}{W}: Attacking creatures you control get +X/+X until end of turn, where X is the number of attacking creatures.",W,W,mythic,C17,Commander 2017,62,4,4,,First strike
+Jazal Goldmane,{2}{W}{W},4.0,Legendary Creature — Cat Warrior,"First strike (This creature deals combat damage before creatures without first strike.)
+{3}{W}{W}: Attacking creatures you control get +X/+X until end of turn, where X is the number of attacking creatures.",W,W,rare,FDN,Foundations,497,4,4,,First strike
+Jazal Goldmane,{2}{W}{W},4.0,Legendary Creature — Cat Warrior,"First strike (This creature deals combat damage before creatures without first strike.)
+{3}{W}{W}: Attacking creatures you control get +X/+X until end of turn, where X is the number of attacking creatures.",W,W,rare,CMM,Commander Masters,32,4,4,,First strike
+Jazal Goldmane,{2}{W}{W},4.0,Legendary Creature — Cat Warrior,"First strike (This creature deals combat damage before creatures without first strike.)
+{3}{W}{W}: Attacking creatures you control get +X/+X until end of turn, where X is the number of attacking creatures.",W,W,mythic,CLB,Commander Legends: Battle for Baldur's Gate,697,4,4,,First strike
+Jazal Goldmane,{2}{W}{W},4.0,Legendary Creature — Cat Warrior,"First strike (This creature deals combat damage before creatures without first strike.)
+{3}{W}{W}: Attacking creatures you control get +X/+X until end of turn, where X is the number of attacking creatures.",W,W,mythic,DMC,Dominaria United Commander,102,4,4,,First strike
+Jazal Goldmane,{2}{W}{W},4.0,Legendary Creature — Cat Warrior,"First strike (This creature deals combat damage before creatures without first strike.)
+{3}{W}{W}: Attacking creatures you control get +X/+X until end of turn, where X is the number of attacking creatures.",W,W,mythic,PLST,The List,DMC-102,4,4,,First strike
+Jazal Goldmane,{2}{W}{W},4.0,Legendary Creature — Cat Warrior,"First strike (This creature deals combat damage before creatures without first strike.)
+{3}{W}{W}: Attacking creatures you control get +X/+X until end of turn, where X is the number of attacking creatures.",W,W,mythic,C14,Commander 2014,9,4,4,,First strike
+Jazal Goldmane,{2}{W}{W},4.0,Legendary Creature — Cat Warrior,"First strike (This creature deals combat damage before creatures without first strike.)
+{3}{W}{W}: Attacking creatures you control get +X/+X until end of turn, where X is the number of attacking creatures.",W,W,rare,BLC,Bloomburrow Commander,142,4,4,,First strike
+Jazal Goldmane,{2}{W}{W},4.0,Legendary Creature — Cat Warrior,"First strike (This creature deals combat damage before creatures without first strike.)
+{3}{W}{W}: Attacking creatures you control get +X/+X until end of turn, where X is the number of attacking creatures.",W,W,rare,CMM,Commander Masters,463,4,4,,First strike
+"Jecht, Reluctant Guardian // Braska's Final Aeon",,4.0,Legendary Creature — Human Warrior // Legendary Enchantment Creature — Saga Nightmare,,,B,rare,PFIN,Final Fantasy Promos,104s,,,,Transform;Menace
+"Jecht, Reluctant Guardian // Braska's Final Aeon",,4.0,Legendary Creature — Human Warrior // Legendary Enchantment Creature — Saga Nightmare,,,B,rare,FIN,Final Fantasy,363,,,,Transform;Menace
+"Jecht, Reluctant Guardian // Braska's Final Aeon",,4.0,Legendary Creature — Human Warrior // Legendary Enchantment Creature — Saga Nightmare,,,B,rare,FIN,Final Fantasy,448,,,,Transform;Menace
+"Jecht, Reluctant Guardian // Braska's Final Aeon",,4.0,Legendary Creature — Human Warrior // Legendary Enchantment Creature — Saga Nightmare,,,B,rare,FIN,Final Fantasy,104,,,,Transform;Menace
+"Jem Lightfoote, Sky Explorer",{2}{W}{U},4.0,Legendary Creature — Human Scout,"Flying, vigilance
+At the beginning of your end step, if you haven't cast a spell from your hand this turn, draw a card.","U,W","U,W",uncommon,OTJ,Outlaws of Thunder Junction,209,3,3,,Flying;Vigilance
+"Jennika, Bad Apple Big Sister",{4}{W},5.0,Legendary Creature — Mutant Ninja Turtle,"When Jennika enters, create a 2/2 red Mutant creature token.
+Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)",W,W,common,TMT,Teenage Mutant Ninja Turtles,203,3,3,,Plainscycling;Landcycling;Typecycling;Cycling
+"Jennika, Bad Apple Big Sister",{4}{W},5.0,Legendary Creature — Mutant Ninja Turtle,"When Jennika enters, create a 2/2 red Mutant creature token.
+Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)",W,W,common,TMT,Teenage Mutant Ninja Turtles,10,3,3,,Plainscycling;Landcycling;Typecycling;Cycling
+"Jenova, Ancient Calamity",{2}{B}{G},4.0,Legendary Creature — Alien,"At the beginning of combat on your turn, put a number of +1/+1 counters equal to Jenova's power on up to one other target creature. That creature becomes a Mutant in addition to its other types.
+Whenever a Mutant you control dies during your turn, you draw cards equal to its power.","B,G","B,G",rare,FIN,Final Fantasy,493,1,5,,
+"Jenova, Ancient Calamity",{2}{B}{G},4.0,Legendary Creature — Alien,"At the beginning of combat on your turn, put a number of +1/+1 counters equal to Jenova's power on up to one other target creature. That creature becomes a Mutant in addition to its other types.
+Whenever a Mutant you control dies during your turn, you draw cards equal to its power.","B,G","B,G",rare,FIN,Final Fantasy,228,1,5,,
+"Jenova, Ancient Calamity",{2}{B}{G},4.0,Legendary Creature — Alien,"At the beginning of combat on your turn, put a number of +1/+1 counters equal to Jenova's power on up to one other target creature. That creature becomes a Mutant in addition to its other types.
+Whenever a Mutant you control dies during your turn, you draw cards equal to its power.","B,G","B,G",rare,FIN,Final Fantasy,346,1,5,,
+"Jenova, Ancient Calamity",{2}{B}{G},4.0,Legendary Creature — Alien,"At the beginning of combat on your turn, put a number of +1/+1 counters equal to Jenova's power on up to one other target creature. That creature becomes a Mutant in addition to its other types.
+Whenever a Mutant you control dies during your turn, you draw cards equal to its power.","B,G","B,G",rare,PFIN,Final Fantasy Promos,228s,1,5,,
+Jeong Jeong's Deserters,{1}{W},2.0,Creature — Human Rebel Ally,"When this creature enters, put a +1/+1 counter on target creature.",W,W,common,TLA,Avatar: The Last Airbender,25,1,2,,
+"Jeong Jeong, the Deserter",{2}{R},3.0,Legendary Creature — Human Rebel Ally,"Firebending 1 (Whenever this creature attacks, add {R}. This mana lasts until end of combat.)
+Exhaust — {3}: Put a +1/+1 counter on Jeong Jeong. When you next cast a Lesson spell this turn, copy it and you may choose new targets for the copy. (Activate each exhaust ability only once.)",R,R,uncommon,TLA,Avatar: The Last Airbender,142,2,3,,Exhaust;Firebending
+Jeskai Brushmaster,{1}{U}{R}{W},4.0,Creature — Orc Monk,"Double strike
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)","R,U,W","R,U,W",uncommon,TDM,Tarkir: Dragonstorm,195,2,4,,Prowess;Double strike
+Jeskai Devotee,{1}{R},2.0,Creature — Orc Monk,"Flurry — Whenever you cast your second spell each turn, this creature gets +1/+1 until end of turn.
+{1}: Add {U}, {R}, or {W}. Activate only once each turn.",R,"R,U,W",common,TDM,Tarkir: Dragonstorm,110,2,2,,Flurry
+Jeskai Shrinekeeper,{2}{U}{R}{W},5.0,Creature — Dragon,"Flying, haste
+Whenever this creature deals combat damage to a player, you gain 1 life and draw a card.","R,U,W","R,U,W",uncommon,TDM,Tarkir: Dragonstorm,311,3,3,,Flying;Haste
+Jeskai Shrinekeeper,{2}{U}{R}{W},5.0,Creature — Dragon,"Flying, haste
+Whenever this creature deals combat damage to a player, you gain 1 life and draw a card.","R,U,W","R,U,W",uncommon,TDM,Tarkir: Dragonstorm,197,3,3,,Flying;Haste
+"Jet, Freedom Fighter",{2}{R/W}{R/W}{R/W},5.0,Legendary Creature — Human Rebel Ally,"When Jet enters, he deals damage equal to the number of creatures you control to target creature an opponent controls.
+When Jet dies, put a +1/+1 counter on each of up to two target creatures.","R,W","R,W",uncommon,TLA,Avatar: The Last Airbender,229,3,1,,
+Jibbirik Omnivore,{1}{G},2.0,Creature — Beast,,G,G,common,DFT,Aetherdrift,166,3,2,,
+"Jill, Shiva's Dominant // Shiva, Warden of Ice",,3.0,Legendary Creature — Human Noble Warrior // Legendary Enchantment Creature — Saga Elemental,,,U,rare,FIN,Final Fantasy,58,,,,Transform
+"Jill, Shiva's Dominant // Shiva, Warden of Ice",,3.0,Legendary Creature — Human Noble Warrior // Legendary Enchantment Creature — Saga Elemental,,,U,rare,PFIN,Final Fantasy Promos,58s,,,,Transform
+"Jill, Shiva's Dominant // Shiva, Warden of Ice",,3.0,Legendary Creature — Human Noble Warrior // Legendary Enchantment Creature — Saga Elemental,,,U,rare,FIN,Final Fantasy,438,,,,Transform
+"Jill, Shiva's Dominant // Shiva, Warden of Ice",,3.0,Legendary Creature — Human Noble Warrior // Legendary Enchantment Creature — Saga Elemental,,,U,rare,FIN,Final Fantasy,378,,,,Transform
+"Jill, Shiva's Dominant // Shiva, Warden of Ice",,3.0,Legendary Creature — Human Noble Warrior // Legendary Enchantment Creature — Saga Elemental,,,U,rare,FIN,Final Fantasy,523,,,,Transform
+"Johann, Apprentice Sorcerer",{2}{U}{R},4.0,Legendary Creature — Human Wizard Sorcerer,"You may look at the top card of your library any time.
+Once each turn, you may cast an instant or sorcery spell from the top of your library. (You still pay its costs. Timing rules still apply.)","R,U","R,U",uncommon,WOE,Wilds of Eldraine,207,2,5,,
+"Jolene, Plundering Pugilist",{1}{R}{G},3.0,Legendary Creature — Human Mercenary,"Whenever you attack with one or more creatures with power 4 or greater, create a Treasure token.
+{1}{R}, Sacrifice a Treasure: Jolene deals 1 damage to any target.","G,R","G,R",uncommon,OTJ,Outlaws of Thunder Junction,210,4,2,,Treasure
+Jolly Gerbils,{1}{W},2.0,Creature — Hamster Citizen,"Whenever you give a gift, draw a card.",W,W,uncommon,BLB,Bloomburrow,19,2,3,,
+"Joo Dee, One of Many",{1}{B},2.0,Creature — Human Advisor,"{B}, {T}: Surveil 1. Create a token that's a copy of this creature, then sacrifice an artifact or creature. Activate only as a sorcery. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)",B,B,uncommon,TLA,Avatar: The Last Airbender,105,2,2,,Surveil
+"Joshua, Phoenix's Dominant // Phoenix, Warden of Fire",,3.0,Legendary Creature — Human Noble Wizard // Legendary Enchantment Creature — Saga Phoenix,,,"R,W",rare,FIN,Final Fantasy,397,,,,Flying;Lifelink;Transform
+"Joshua, Phoenix's Dominant // Phoenix, Warden of Fire",,3.0,Legendary Creature — Human Noble Wizard // Legendary Enchantment Creature — Saga Phoenix,,,"R,W",rare,FIN,Final Fantasy,229,,,,Flying;Lifelink;Transform
+"Joshua, Phoenix's Dominant // Phoenix, Warden of Fire",,3.0,Legendary Creature — Human Noble Wizard // Legendary Enchantment Creature — Saga Phoenix,,,"R,W",rare,FIN,Final Fantasy,494,,,,Flying;Lifelink;Transform
+"Joshua, Phoenix's Dominant // Phoenix, Warden of Fire",,3.0,Legendary Creature — Human Noble Wizard // Legendary Enchantment Creature — Saga Phoenix,,,"R,W",rare,FIN,Final Fantasy,542,,,,Flying;Lifelink;Transform
+"Joshua, Phoenix's Dominant // Phoenix, Warden of Fire",,3.0,Legendary Creature — Human Noble Wizard // Legendary Enchantment Creature — Saga Phoenix,,,"R,W",rare,PFIN,Final Fantasy Promos,229s,,,,Flying;Lifelink;Transform
+Judge Magister Gabranth,{W}{B},2.0,Legendary Creature — Human Advisor Knight,"Menace (This creature can't be blocked except by two or more creatures.)
+Whenever another creature or artifact you control dies, put a +1/+1 counter on Judge Magister Gabranth.","B,W","B,W",uncommon,FIN,Final Fantasy,495,2,2,,Menace
+Judge Magister Gabranth,{W}{B},2.0,Legendary Creature — Human Advisor Knight,"Menace (This creature can't be blocked except by two or more creatures.)
+Whenever another creature or artifact you control dies, put a +1/+1 counter on Judge Magister Gabranth.","B,W","B,W",uncommon,FIN,Final Fantasy,230,2,2,,Menace
+"Judith, Carnage Connoisseur",{3}{B}{R},5.0,Legendary Creature — Human Shaman,"Whenever you cast an instant or sorcery spell, choose one —
+• That spell gains deathtouch and lifelink.
+• Create a 2/2 red Imp creature token with ""When this token dies, it deals 2 damage to each opponent.""","B,R","B,R",rare,MKM,Murders at Karlov Manor,210,3,4,,
+"Judith, Carnage Connoisseur",{3}{B}{R},5.0,Legendary Creature — Human Shaman,"Whenever you cast an instant or sorcery spell, choose one —
+• That spell gains deathtouch and lifelink.
+• Create a 2/2 red Imp creature token with ""When this token dies, it deals 2 damage to each opponent.""","B,R","B,R",rare,PMKM,Murders at Karlov Manor Promos,210p,3,4,,
+"Judith, Carnage Connoisseur",{3}{B}{R},5.0,Legendary Creature — Human Shaman,"Whenever you cast an instant or sorcery spell, choose one —
+• That spell gains deathtouch and lifelink.
+• Create a 2/2 red Imp creature token with ""When this token dies, it deals 2 damage to each opponent.""","B,R","B,R",rare,PMKM,Murders at Karlov Manor Promos,210s,3,4,,
+"Judith, Carnage Connoisseur",{3}{B}{R},5.0,Legendary Creature — Human Shaman,"Whenever you cast an instant or sorcery spell, choose one —
+• That spell gains deathtouch and lifelink.
+• Create a 2/2 red Imp creature token with ""When this token dies, it deals 2 damage to each opponent.""","B,R","B,R",rare,MKM,Murders at Karlov Manor,363,3,4,,
+Juggernaut,{4},4.0,Artifact Creature — Juggernaut,"This creature attacks each combat if able.
+This creature can't be blocked by Walls.",,,uncommon,CEI,Intl. Collectors' Edition,256,5,3,,
+Juggernaut,{4},4.0,Artifact Creature — Juggernaut,"This creature attacks each combat if able.
+This creature can't be blocked by Walls.",,,uncommon,2ED,Unlimited Edition,256,5,3,,
+Juggernaut,{4},4.0,Artifact Creature — Juggernaut,"This creature attacks each combat if able.
+This creature can't be blocked by Walls.",,,uncommon,10E,Tenth Edition,328,5,3,,
+Juggernaut,{4},4.0,Artifact Creature — Juggernaut,"This creature attacks each combat if able.
+This creature can't be blocked by Walls.",,,common,DMR,Dominaria Remastered,228,5,3,,
+Juggernaut,{4},4.0,Artifact Creature — Juggernaut,"This creature attacks each combat if able.
+This creature can't be blocked by Walls.",,,uncommon,ME4,Masters Edition IV,209,5,3,,
+Juggernaut,{4},4.0,Artifact Creature — Juggernaut,"This creature attacks each combat if able.
+This creature can't be blocked by Walls.",,,uncommon,CED,Collectors' Edition,256,5,3,,
+Juggernaut,{4},4.0,Artifact Creature — Juggernaut,"This creature attacks each combat if able.
+This creature can't be blocked by Walls.",,,common,DMR,Dominaria Remastered,382,5,3,,
+Juggernaut,{4},4.0,Artifact Creature — Juggernaut,"This creature attacks each combat if able.
+This creature can't be blocked by Walls.",,,uncommon,3ED,Revised Edition,259,5,3,,
+Juggernaut,{4},4.0,Artifact Creature — Juggernaut,"This creature attacks each combat if able.
+This creature can't be blocked by Walls.",,,uncommon,ARC,Archenemy,109,5,3,,
+Juggernaut,{4},4.0,Artifact Creature — Juggernaut,"This creature attacks each combat if able.
+This creature can't be blocked by Walls.",,,uncommon,M11,Magic 2011,209,5,3,,
+Juggernaut,{4},4.0,Artifact Creature — Juggernaut,"This creature attacks each combat if able.
+This creature can't be blocked by Walls.",,,rare,F05,Friday Night Magic 2005,7,5,3,,
+Juggernaut,{4},4.0,Artifact Creature — Juggernaut,"This creature attacks each combat if able.
+This creature can't be blocked by Walls.",,,uncommon,M15,Magic 2015,220,5,3,,
+Juggernaut,{4},4.0,Artifact Creature — Juggernaut,"This creature attacks each combat if able.
+This creature can't be blocked by Walls.",,,uncommon,J22,Jumpstart 2022,780,5,3,,
+Juggernaut,{4},4.0,Artifact Creature — Juggernaut,"This creature attacks each combat if able.
+This creature can't be blocked by Walls.",,,uncommon,SUM,Summer Magic / Edgar,259,5,3,,
+Juggernaut,{4},4.0,Artifact Creature — Juggernaut,"This creature attacks each combat if able.
+This creature can't be blocked by Walls.",,,uncommon,LEB,Limited Edition Beta,256,5,3,,
+Juggernaut,{4},4.0,Artifact Creature — Juggernaut,"This creature attacks each combat if able.
+This creature can't be blocked by Walls.",,,uncommon,DDF,Duel Decks: Elspeth vs. Tezzeret,52,5,3,,
+Juggernaut,{4},4.0,Artifact Creature — Juggernaut,"This creature attacks each combat if able.
+This creature can't be blocked by Walls.",,,uncommon,DST,Darksteel,125,5,3,,
+Juggernaut,{4},4.0,Artifact Creature — Juggernaut,"This creature attacks each combat if able.
+This creature can't be blocked by Walls.",,,uncommon,PLST,The List,BBD-238,5,3,,
+Juggernaut,{4},4.0,Artifact Creature — Juggernaut,"This creature attacks each combat if able.
+This creature can't be blocked by Walls.",,,uncommon,PRM,Magic Online Promos,35044,5,3,,
+Juggernaut,{4},4.0,Artifact Creature — Juggernaut,"This creature attacks each combat if able.
+This creature can't be blocked by Walls.",,,uncommon,30A,30th Anniversary Edition,252,5,3,,
+Juggernaut,{4},4.0,Artifact Creature — Juggernaut,"This creature attacks each combat if able.
+This creature can't be blocked by Walls.",,,uncommon,30A,30th Anniversary Edition,549,5,3,,
+Juggernaut,{4},4.0,Artifact Creature — Juggernaut,"This creature attacks each combat if able.
+This creature can't be blocked by Walls.",,,uncommon,FBB,Foreign Black Border,259,5,3,,
+Juggernaut,{4},4.0,Artifact Creature — Juggernaut,"This creature attacks each combat if able.
+This creature can't be blocked by Walls.",,,uncommon,EMA,Eternal Masters,224,5,3,,
+Juggernaut,{4},4.0,Artifact Creature — Juggernaut,"This creature attacks each combat if able.
+This creature can't be blocked by Walls.",,,uncommon,JMP,Jumpstart,471,5,3,,
+Juggernaut,{4},4.0,Artifact Creature — Juggernaut,"This creature attacks each combat if able.
+This creature can't be blocked by Walls.",,,uncommon,LEA,Limited Edition Alpha,255,5,3,,
+Juggernaut,{4},4.0,Artifact Creature — Juggernaut,"This creature attacks each combat if able.
+This creature can't be blocked by Walls.",,,uncommon,DOM,Dominaria,222,5,3,,
+Juggernaut,{4},4.0,Artifact Creature — Juggernaut,"This creature attacks each combat if able.
+This creature can't be blocked by Walls.",,,uncommon,BBD,Battlebond,238,5,3,,
+Juggernaut,{4},4.0,Artifact Creature — Juggernaut,"This creature attacks each combat if able.
+This creature can't be blocked by Walls.",,,uncommon,FDN,Foundations,255,5,3,,
+Jumbo Cactuar,{5}{G}{G},7.0,Creature — Plant,"10,000 Needles — Whenever this creature attacks, it gets +9999/+0 until end of turn.",G,G,rare,PFIN,Final Fantasy Promos,191s,1,7,,"10,000 Needles"
+Jumbo Cactuar,{5}{G}{G},7.0,Creature — Plant,"10,000 Needles — Whenever this creature attacks, it gets +9999/+0 until end of turn.",G,G,rare,FIN,Final Fantasy,191,1,7,,"10,000 Needles"
+Jumbo Cactuar,{5}{G}{G},7.0,Creature — Plant,"10,000 Needles — Whenever this creature attacks, it gets +9999/+0 until end of turn.",G,G,rare,FIN,Final Fantasy,343,1,7,,"10,000 Needles"
+"June, Bounty Hunter",{1}{B},2.0,Legendary Creature — Human Mercenary,"June can't be blocked as long as you've drawn two or more cards this turn.
+{1}, Sacrifice another creature: Create a Clue token. Activate only during your turn. (It's an artifact with ""{2}, Sacrifice this token: Draw a card."")",B,B,uncommon,TLA,Avatar: The Last Airbender,106,2,2,,
+Junkblade Bruiser,{3}{R/G}{R/G},5.0,Creature — Raccoon Berserker,"Trample
+Whenever you expend 4, this creature gets +2/+1 until end of turn. (You expend 4 as you spend your fourth total mana to cast spells during a turn.)","G,R","G,R",common,BLB,Bloomburrow,220,4,5,,Trample

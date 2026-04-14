@@ -1,0 +1,139 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Raiding Schemes,{3}{R}{G},5.0,Enchantment,"Each noncreature spell you cast has conspire. (As you cast a noncreature spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it and you may choose new targets for the copy. A copy of a permanent spell becomes a token.)","G,R","G,R",rare,ECL,Lorwyn Eclipsed,239,,,,
+Raiding Schemes,{3}{R}{G},5.0,Enchantment,"Each noncreature spell you cast has conspire. (As you cast a noncreature spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it and you may choose new targets for the copy. A copy of a permanent spell becomes a token.)","G,R","G,R",rare,ECL,Lorwyn Eclipsed,377,,,,
+Raiding Schemes,{3}{R}{G},5.0,Enchantment,"Each noncreature spell you cast has conspire. (As you cast a noncreature spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it and you may choose new targets for the copy. A copy of a permanent spell becomes a token.)","G,R","G,R",rare,PECL,Lorwyn Eclipsed Promos,239p,,,,
+Rakdos Joins Up,{3}{B}{R},5.0,Legendary Enchantment,"When Rakdos Joins Up enters, return target creature card from your graveyard to the battlefield with two additional +1/+1 counters on it.
+Whenever a legendary creature you control dies, Rakdos Joins Up deals damage equal to that creature's power to target opponent.","B,R","B,R",rare,POTJ,Outlaws of Thunder Junction Promos,225s,,,,
+Rakdos Joins Up,{3}{B}{R},5.0,Legendary Enchantment,"When Rakdos Joins Up enters, return target creature card from your graveyard to the battlefield with two additional +1/+1 counters on it.
+Whenever a legendary creature you control dies, Rakdos Joins Up deals damage equal to that creature's power to target opponent.","B,R","B,R",rare,OTJ,Outlaws of Thunder Junction,360,,,,
+Rakdos Joins Up,{3}{B}{R},5.0,Legendary Enchantment,"When Rakdos Joins Up enters, return target creature card from your graveyard to the battlefield with two additional +1/+1 counters on it.
+Whenever a legendary creature you control dies, Rakdos Joins Up deals damage equal to that creature's power to target opponent.","B,R","B,R",rare,OTJ,Outlaws of Thunder Junction,225,,,,
+Rakdos Joins Up,{3}{B}{R},5.0,Legendary Enchantment,"When Rakdos Joins Up enters, return target creature card from your graveyard to the battlefield with two additional +1/+1 counters on it.
+Whenever a legendary creature you control dies, Rakdos Joins Up deals damage equal to that creature's power to target opponent.","B,R","B,R",rare,POTJ,Outlaws of Thunder Junction Promos,225p,,,,
+Rakish Crew,{2}{B},3.0,Enchantment,"When this enchantment enters, create a 1/1 red Mercenary creature token with ""{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.""
+Whenever an outlaw you control dies, each opponent loses 1 life and you gain 1 life. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)",B,B,uncommon,OTJ,Outlaws of Thunder Junction,99,,,,
+Reach for the Sky,{3}{G},4.0,Enchantment — Aura,"Flash
+Enchant creature
+Enchanted creature gets +3/+2 and has reach.
+When this Aura is put into a graveyard from the battlefield, draw a card.",G,G,common,OTJ,Outlaws of Thunder Junction,178,,,,Enchant;Flash
+Rediscover the Way,{U}{R}{W},3.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II — Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
+III — Whenever you cast a noncreature spell this turn, target creature you control gains double strike until end of turn.","R,U,W","R,U,W",rare,PTDM,Tarkir: Dragonstorm Promos,215s,,,,
+Rediscover the Way,{U}{R}{W},3.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II — Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
+III — Whenever you cast a noncreature spell this turn, target creature you control gains double strike until end of turn.","R,U,W","R,U,W",rare,TDM,Tarkir: Dragonstorm,215,,,,
+Rediscover the Way,{U}{R}{W},3.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II — Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
+III — Whenever you cast a noncreature spell this turn, target creature you control gains double strike until end of turn.","R,U,W","R,U,W",rare,PTDM,Tarkir: Dragonstorm Promos,215p,,,,
+Rediscover the Way,{U}{R}{W},3.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II — Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
+III — Whenever you cast a noncreature spell this turn, target creature you control gains double strike until end of turn.","R,U,W","R,U,W",rare,TDM,Tarkir: Dragonstorm,388,,,,
+Rent Is Due,{W},1.0,Enchantment,"At the beginning of your end step, you may tap two untapped creatures and/or Treasures you control. If you do, draw a card. Otherwise, sacrifice this enchantment.",W,W,rare,SPM,Marvel's Spider-Man,11,,,,
+Rent Is Due,{W},1.0,Enchantment,"At the beginning of your end step, you may tap two untapped creatures and/or Treasures you control. If you do, draw a card. Otherwise, sacrifice this enchantment.",W,W,rare,SPM,Marvel's Spider-Man,247,,,,
+Rent Is Due,{W},1.0,Enchantment,"At the beginning of your end step, you may tap two untapped creatures and/or Treasures you control. If you do, draw a card. Otherwise, sacrifice this enchantment.",W,W,rare,OM1,Through the Omenpaths,6,,,,
+Rent Is Due,{W},1.0,Enchantment,"At the beginning of your end step, you may tap two untapped creatures and/or Treasures you control. If you do, draw a card. Otherwise, sacrifice this enchantment.",W,W,rare,PSPM,Marvel's Spider-Man Promos,11s,,,,
+Rest in Peace,{1}{W},2.0,Enchantment,"When this enchantment enters, exile all graveyards.
+If a card or token would be put into a graveyard from anywhere, exile it instead.",W,W,rare,PRM,Magic Online Promos,77943,,,,
+Rest in Peace,{1}{W},2.0,Enchantment,"When this enchantment enters, exile all graveyards.
+If a card or token would be put into a graveyard from anywhere, exile it instead.",W,W,rare,RTR,Return to Ravnica,18,,,,
+Rest in Peace,{1}{W},2.0,Enchantment,"When this enchantment enters, exile all graveyards.
+If a card or token would be put into a graveyard from anywhere, exile it instead.",W,W,mythic,BIG,The Big Score,69,,,,
+Rest in Peace,{1}{W},2.0,Enchantment,"When this enchantment enters, exile all graveyards.
+If a card or token would be put into a graveyard from anywhere, exile it instead.",W,W,mythic,MAR,Marvel Universe,6,,,,
+Rest in Peace,{1}{W},2.0,Enchantment,"When this enchantment enters, exile all graveyards.
+If a card or token would be put into a graveyard from anywhere, exile it instead.",W,W,rare,WOT,Wilds of Eldraine: Enchanting Tales,12,,,,
+Rest in Peace,{1}{W},2.0,Enchantment,"When this enchantment enters, exile all graveyards.
+If a card or token would be put into a graveyard from anywhere, exile it instead.",W,W,rare,AKR,Amonkhet Remastered,33,,,,
+Rest in Peace,{1}{W},2.0,Enchantment,"When this enchantment enters, exile all graveyards.
+If a card or token would be put into a graveyard from anywhere, exile it instead.",W,W,rare,ACR,Assassin's Creed,156,,,,
+Rest in Peace,{1}{W},2.0,Enchantment,"When this enchantment enters, exile all graveyards.
+If a card or token would be put into a graveyard from anywhere, exile it instead.",W,W,rare,OMB,Through the Omenpaths Bonus Sheet,6,,,,
+Rest in Peace,{1}{W},2.0,Enchantment,"When this enchantment enters, exile all graveyards.
+If a card or token would be put into a graveyard from anywhere, exile it instead.",W,W,rare,SLD,Secret Lair Drop,96,,,,
+Rest in Peace,{1}{W},2.0,Enchantment,"When this enchantment enters, exile all graveyards.
+If a card or token would be put into a graveyard from anywhere, exile it instead.",W,W,rare,ACR,Assassin's Creed,180,,,,
+Rest in Peace,{1}{W},2.0,Enchantment,"When this enchantment enters, exile all graveyards.
+If a card or token would be put into a graveyard from anywhere, exile it instead.",W,W,rare,ACR,Assassin's Creed,83,,,,
+Rest in Peace,{1}{W},2.0,Enchantment,"When this enchantment enters, exile all graveyards.
+If a card or token would be put into a graveyard from anywhere, exile it instead.",W,W,rare,A25,Masters 25,32,,,,
+Rest in Peace,{1}{W},2.0,Enchantment,"When this enchantment enters, exile all graveyards.
+If a card or token would be put into a graveyard from anywhere, exile it instead.",W,W,mythic,BIG,The Big Score,34,,,,
+Rest in Peace,{1}{W},2.0,Enchantment,"When this enchantment enters, exile all graveyards.
+If a card or token would be put into a graveyard from anywhere, exile it instead.",W,W,rare,RVR,Ravnica Remastered,446,,,,
+Rest in Peace,{1}{W},2.0,Enchantment,"When this enchantment enters, exile all graveyards.
+If a card or token would be put into a graveyard from anywhere, exile it instead.",W,W,rare,SS2,Signature Spellbook: Gideon,4,,,,
+Rest in Peace,{1}{W},2.0,Enchantment,"When this enchantment enters, exile all graveyards.
+If a card or token would be put into a graveyard from anywhere, exile it instead.",W,W,rare,MB2,Mystery Booster 2,150,,,,
+Rest in Peace,{1}{W},2.0,Enchantment,"When this enchantment enters, exile all graveyards.
+If a card or token would be put into a graveyard from anywhere, exile it instead.",W,W,mythic,BIG,The Big Score,4,,,,
+Rest in Peace,{1}{W},2.0,Enchantment,"When this enchantment enters, exile all graveyards.
+If a card or token would be put into a graveyard from anywhere, exile it instead.",W,W,rare,PLST,The List,SS2-4,,,,
+Restricted Office // Lecture Hall,{2}{W}{W} // {5}{U}{U},11.0,Enchantment — Room // Enchantment — Room,,"U,W","U,W",rare,PDSK,Duskmourn: House of Horror Promos,227p,,,,
+Restricted Office // Lecture Hall,{2}{W}{W} // {5}{U}{U},11.0,Enchantment — Room // Enchantment — Room,,"U,W","U,W",rare,DSK,Duskmourn: House of Horror,227,,,,
+Restricted Office // Lecture Hall,{2}{W}{W} // {5}{U}{U},11.0,Enchantment — Room // Enchantment — Room,,"U,W","U,W",rare,PDSK,Duskmourn: House of Horror Promos,227s,,,,
+Restricted Office // Lecture Hall,{2}{W}{W} // {5}{U}{U},11.0,Enchantment — Room // Enchantment — Room,,"U,W","U,W",rare,DSK,Duskmourn: House of Horror,342,,,,
+Retro-Mutation,{2}{U},3.0,Enchantment — Aura,"Flash
+Enchant creature
+Enchanted creature is a Turtle with base power and toughness 0/1. It can't attack and loses all abilities. (It also loses all other creature types.)",U,U,common,TMT,Teenage Mutant Ninja Turtles,51,,,,Enchant;Flash
+Reverberating Summons,{1}{R},2.0,Enchantment,"At the beginning of each combat, if you've cast two or more spells this turn, this enchantment becomes a 3/3 Monk creature with haste in addition to its other types until end of turn.
+{1}{R}, Discard your hand, Sacrifice this enchantment: Draw two cards.",R,R,uncommon,TDM,Tarkir: Dragonstorm,117,,,,
+Revival of the Ancestors,{1}{W}{B}{G},4.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Create three 1/1 white Spirit creature tokens.
+II — Distribute three +1/+1 counters among one, two, or three target creatures you control.
+III — Creatures you control gain trample and lifelink until end of turn.","B,G,W","B,G,W",rare,PTDM,Tarkir: Dragonstorm Promos,218s,,,,
+Revival of the Ancestors,{1}{W}{B}{G},4.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Create three 1/1 white Spirit creature tokens.
+II — Distribute three +1/+1 counters among one, two, or three target creatures you control.
+III — Creatures you control gain trample and lifelink until end of turn.","B,G,W","B,G,W",rare,TDM,Tarkir: Dragonstorm,389,,,,
+Revival of the Ancestors,{1}{W}{B}{G},4.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Create three 1/1 white Spirit creature tokens.
+II — Distribute three +1/+1 counters among one, two, or three target creatures you control.
+III — Creatures you control gain trample and lifelink until end of turn.","B,G,W","B,G,W",rare,PTDM,Tarkir: Dragonstorm Promos,218p,,,,
+Revival of the Ancestors,{1}{W}{B}{G},4.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Create three 1/1 white Spirit creature tokens.
+II — Distribute three +1/+1 counters among one, two, or three target creatures you control.
+III — Creatures you control gain trample and lifelink until end of turn.","B,G,W","B,G,W",rare,TDM,Tarkir: Dragonstorm,218,,,,
+Ride the Shoopuf,{1}{G},2.0,Enchantment,"Landfall — Whenever a land you control enters, put a +1/+1 counter on target creature you control.
+{5}{G}{G}: This enchantment becomes a 7/7 Beast creature in addition to its other types.",G,G,uncommon,FIN,Final Fantasy,197,,,,Landfall
+Ringing Strike Mastery,{U},1.0,Enchantment — Aura,"Enchant creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.
+Enchanted creature has ""{5}: Untap this creature.""",U,U,common,TDM,Tarkir: Dragonstorm,53,,,,Enchant
+Rite of the Dragoncaller,{4}{R}{R},6.0,Enchantment,"Whenever you cast an instant or sorcery spell, create a 5/5 red Dragon creature token with flying.",R,R,mythic,FDN,Foundations,331,,,,
+Rite of the Dragoncaller,{4}{R}{R},6.0,Enchantment,"Whenever you cast an instant or sorcery spell, create a 5/5 red Dragon creature token with flying.",R,R,mythic,FDN,Foundations,467,,,,
+Rite of the Dragoncaller,{4}{R}{R},6.0,Enchantment,"Whenever you cast an instant or sorcery spell, create a 5/5 red Dragon creature token with flying.",R,R,mythic,FDN,Foundations,393,,,,
+Rite of the Dragoncaller,{4}{R}{R},6.0,Enchantment,"Whenever you cast an instant or sorcery spell, create a 5/5 red Dragon creature token with flying.",R,R,mythic,FDN,Foundations,92,,,,
+Rite of the Dragoncaller,{4}{R}{R},6.0,Enchantment,"Whenever you cast an instant or sorcery spell, create a 5/5 red Dragon creature token with flying.",R,R,mythic,PFDN,Foundations Promos,92s,,,,
+Roadside Assistance,{2}{W},3.0,Enchantment — Aura,"Enchant creature or Vehicle
+When this Aura enters, create a 1/1 colorless Pilot creature token with ""This token saddles Mounts and crews Vehicles as though its power were 2 greater.""
+Enchanted permanent gets +1/+1 and has lifelink.",W,W,uncommon,DFT,Aetherdrift,26,,,,Enchant
+Roar of Endless Song,{2}{G}{U}{R},5.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II — Create a 5/5 green Elephant creature token.
+III — Double the power and toughness of each creature you control until end of turn.","G,R,U","G,R,U",rare,PTDM,Tarkir: Dragonstorm Promos,220p,,,,
+Roar of Endless Song,{2}{G}{U}{R},5.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II — Create a 5/5 green Elephant creature token.
+III — Double the power and toughness of each creature you control until end of turn.","G,R,U","G,R,U",rare,TDM,Tarkir: Dragonstorm,220,,,,
+Roar of Endless Song,{2}{G}{U}{R},5.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II — Create a 5/5 green Elephant creature token.
+III — Double the power and toughness of each creature you control until end of turn.","G,R,U","G,R,U",rare,PTDM,Tarkir: Dragonstorm Promos,220s,,,,
+Roar of Endless Song,{2}{G}{U}{R},5.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II — Create a 5/5 green Elephant creature token.
+III — Double the power and toughness of each creature you control until end of turn.","G,R,U","G,R,U",rare,TDM,Tarkir: Dragonstorm,390,,,,
+Roaring Furnace // Steaming Sauna,{1}{R} // {3}{U}{U},7.0,Enchantment — Room // Enchantment — Room,,"R,U","R,U",rare,PDSK,Duskmourn: House of Horror Promos,230p,,,,
+Roaring Furnace // Steaming Sauna,{1}{R} // {3}{U}{U},7.0,Enchantment — Room // Enchantment — Room,,"R,U","R,U",rare,DSK,Duskmourn: House of Horror,230,,,,
+Roaring Furnace // Steaming Sauna,{1}{R} // {3}{U}{U},7.0,Enchantment — Room // Enchantment — Room,,"R,U","R,U",rare,PDSK,Duskmourn: House of Horror Promos,230s,,,,
+Roaring Furnace // Steaming Sauna,{1}{R} // {3}{U}{U},7.0,Enchantment — Room // Enchantment — Room,,"R,U","R,U",rare,DSK,Duskmourn: House of Horror,343,,,,
+Robotics Mastery,{4}{U},5.0,Enchantment — Aura,"Flash
+Enchant creature
+When this Aura enters, create two 1/1 colorless Robot artifact creature tokens with flying.
+Enchanted creature gets +2/+2.",U,U,uncommon,OM1,Through the Omenpaths,41,,,,Enchant;Flash
+Robotics Mastery,{4}{U},5.0,Enchantment — Aura,"Flash
+Enchant creature
+When this Aura enters, create two 1/1 colorless Robot artifact creature tokens with flying.
+Enchanted creature gets +2/+2.",U,U,uncommon,SPM,Marvel's Spider-Man,41,,,,Enchant;Flash
+Roiling Dragonstorm,{1}{U},2.0,Enchantment,"When this enchantment enters, draw two cards, then discard a card.
+When a Dragon you control enters, return this enchantment to its owner's hand.",U,U,uncommon,TDM,Tarkir: Dragonstorm,421,,,,
+Roiling Dragonstorm,{1}{U},2.0,Enchantment,"When this enchantment enters, draw two cards, then discard a card.
+When a Dragon you control enters, return this enchantment to its owner's hand.",U,U,uncommon,TDM,Tarkir: Dragonstorm,296,,,,
+Roiling Dragonstorm,{1}{U},2.0,Enchantment,"When this enchantment enters, draw two cards, then discard a card.
+When a Dragon you control enters, return this enchantment to its owner's hand.",U,U,uncommon,TDM,Tarkir: Dragonstorm,55,,,,

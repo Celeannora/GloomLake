@@ -1,0 +1,528 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Slickshot Show-Off,{1}{R},2.0,Creature — Bird Wizard,"Flying, haste
+Whenever you cast a noncreature spell, this creature gets +2/+0 until end of turn.
+Plot {1}{R} (You may pay {1}{R} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",R,R,rare,POTJ,Outlaws of Thunder Junction Promos,146p,1,2,,Flying;Plot;Haste
+Slickshot Vault-Buster,{2}{U},3.0,Creature — Human Rogue,"Vigilance
+This creature gets +2/+0 as long as you've committed a crime this turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)",U,U,common,OTJ,Outlaws of Thunder Junction,68,1,4,,Vigilance
+Slimy Dualleech,{3}{B},4.0,Creature — Leech,"At the beginning of combat on your turn, target creature you control with power 2 or less gets +1/+0 and gains deathtouch until end of turn.",B,B,uncommon,MKM,Murders at Karlov Manor,104,2,4,,
+Slithering Cryptid,{2}{G/U},3.0,Creature — Fish Mutant,"When this creature enters, create a Mutagen token. (It's an artifact with ""{1}, {T}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery."")","G,U","G,U",common,TMT,Teenage Mutant Ninja Turtles,168,2,3,,
+Slumbering Cerberus,{1}{R},2.0,Creature — Dog,"This creature doesn't untap during your untap step.
+Morbid — At the beginning of each end step, if a creature died this turn, untap this creature.",R,R,uncommon,FDN,Foundations,94,4,2,,Morbid
+Slumbering Keepguard,{W},1.0,Creature — Human Knight,"Whenever an enchantment you control enters, scry 1.
+{2}{W}: This creature gets +1/+1 until end of turn for each enchantment you control.",W,W,common,WOE,Wilds of Eldraine,29,1,1,,Scry
+Slumbering Walker,{3}{W}{W},5.0,Creature — Giant Warrior,"This creature enters with two -1/-1 counters on it.
+At the beginning of your end step, you may remove a counter from this creature. When you do, return target creature card with power 2 or less from your graveyard to the battlefield.",W,W,rare,ECL,Lorwyn Eclipsed,302,4,7,,
+Slumbering Walker,{3}{W}{W},5.0,Creature — Giant Warrior,"This creature enters with two -1/-1 counters on it.
+At the beginning of your end step, you may remove a counter from this creature. When you do, return target creature card with power 2 or less from your graveyard to the battlefield.",W,W,rare,ECL,Lorwyn Eclipsed,35,4,7,,
+Slumbering Walker,{3}{W}{W},5.0,Creature — Giant Warrior,"This creature enters with two -1/-1 counters on it.
+At the beginning of your end step, you may remove a counter from this creature. When you do, return target creature card with power 2 or less from your graveyard to the battlefield.",W,W,rare,PECL,Lorwyn Eclipsed Promos,35p,4,7,,
+Snaremaster Sprite,{U},1.0,Creature — Faerie Wizard,"Flying
+When this creature enters, you may pay {2}. When you do, tap target creature an opponent controls and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)",U,U,common,WOE,Wilds of Eldraine,68,1,1,,Flying
+Snarling Gorehound,{B},1.0,Creature — Dog,"Menace
+Whenever another creature you control with power 2 or less enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",B,B,common,MKM,Murders at Karlov Manor,105,1,1,,Surveil;Menace
+Snow Villiers,{2}{W},3.0,Legendary Creature — Human Rebel Monk,"Vigilance
+Snow Villiers's power is equal to the number of creatures you control.",W,W,uncommon,FIN,Final Fantasy,33,*,3,,Vigilance
+Snow Villiers,{2}{W},3.0,Legendary Creature — Human Rebel Monk,"Vigilance
+Snow Villiers's power is equal to the number of creatures you control.",W,W,uncommon,FIN,Final Fantasy,432,*,3,,Vigilance
+Snowmelt Stag,{3}{U},4.0,Creature — Elemental Elk,"Vigilance
+During your turn, this creature has base power and toughness 5/2.
+{5}{U}{U}: This creature can't be blocked this turn.",U,U,common,TDM,Tarkir: Dragonstorm,57,2,5,,Vigilance
+Soaring Sandwing,{4}{W}{W},6.0,Creature — Dinosaur,"Flying
+When this creature enters, you gain 3 life.
+Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)",W,W,common,LCI,The Lost Caverns of Ixalan,35,3,5,,Flying;Plainscycling;Landcycling;Typecycling;Cycling
+"Sokka, Bold Boomeranger",{U}{R},2.0,Legendary Creature — Human Warrior Ally,"When Sokka enters, discard up to two cards, then draw that many cards.
+Whenever you cast an artifact or Lesson spell, put a +1/+1 counter on Sokka.","R,U","R,U",rare,TLA,Avatar: The Last Airbender,383,1,1,,
+"Sokka, Bold Boomeranger",{U}{R},2.0,Legendary Creature — Human Warrior Ally,"When Sokka enters, discard up to two cards, then draw that many cards.
+Whenever you cast an artifact or Lesson spell, put a +1/+1 counter on Sokka.","R,U","R,U",rare,PF25,MagicFest 2025,18,1,1,,
+"Sokka, Bold Boomeranger",{U}{R},2.0,Legendary Creature — Human Warrior Ally,"When Sokka enters, discard up to two cards, then draw that many cards.
+Whenever you cast an artifact or Lesson spell, put a +1/+1 counter on Sokka.","R,U","R,U",rare,TLA,Avatar: The Last Airbender,240,1,1,,
+"Sokka, Bold Boomeranger",{U}{R},2.0,Legendary Creature — Human Warrior Ally,"When Sokka enters, discard up to two cards, then draw that many cards.
+Whenever you cast an artifact or Lesson spell, put a +1/+1 counter on Sokka.","R,U","R,U",rare,PTLA,Avatar: The Last Airbender Promos,240s,1,1,,
+"Sokka, Lateral Strategist",{1}{W/U}{W/U},3.0,Legendary Creature — Human Warrior Ally,"Vigilance
+Whenever Sokka and at least one other creature attack, draw a card.","U,W","U,W",uncommon,TLA,Avatar: The Last Airbender,241,2,4,,Vigilance
+"Sokka, Tenacious Tactician",{1}{U}{R}{W},4.0,Legendary Creature — Human Warrior Ally,"Menace, prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Other Allies you control have menace and prowess.
+Whenever you cast a noncreature spell, create a 1/1 white Ally creature token.","R,U,W","R,U,W",rare,PTLA,Avatar: The Last Airbender Promos,242s,3,3,,Prowess;Menace
+"Sokka, Tenacious Tactician",{1}{U}{R}{W},4.0,Legendary Creature — Human Warrior Ally,"Menace, prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Other Allies you control have menace and prowess.
+Whenever you cast a noncreature spell, create a 1/1 white Ally creature token.","R,U,W","R,U,W",rare,TLA,Avatar: The Last Airbender,352,3,3,,Prowess;Menace
+"Sokka, Tenacious Tactician",{1}{U}{R}{W},4.0,Legendary Creature — Human Warrior Ally,"Menace, prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Other Allies you control have menace and prowess.
+Whenever you cast a noncreature spell, create a 1/1 white Ally creature token.","R,U,W","R,U,W",rare,TLA,Avatar: The Last Airbender,242,3,3,,Prowess;Menace
+Solemn Simulacrum,{4},4.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.",,,rare,MRD,Mirrodin,245,2,2,,
+Solemn Simulacrum,{4},4.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.",,,rare,PRM,Magic Online Promos,81916,2,2,,
+Solemn Simulacrum,{4},4.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.",,,rare,WHO,Doctor Who,246,2,2,,
+Solemn Simulacrum,{4},4.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.",,,rare,C15,Commander 2015,269,2,2,,
+Solemn Simulacrum,{4},4.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.",,,rare,PLST,The List,DDU-62,2,2,,
+Solemn Simulacrum,{4},4.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.",,,rare,C21,Commander 2021,264,2,2,,
+Solemn Simulacrum,{4},4.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.",,,rare,M12,Magic 2012,217,2,2,,
+Solemn Simulacrum,{4},4.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.",,,rare,CM2,Commander Anthology Volume II,218,2,2,,
+Solemn Simulacrum,{4},4.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.",,,rare,M21,Core Set 2021,319,2,2,,
+Solemn Simulacrum,{4},4.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.",,,rare,CMD,Commander 2011,262,2,2,,
+Solemn Simulacrum,{4},4.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.",,,rare,C19,Commander 2019,222,2,2,,
+Solemn Simulacrum,{4},4.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.",,,rare,ONC,Phyrexia: All Will Be One Commander,141,2,2,,
+Solemn Simulacrum,{4},4.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.",,,rare,DRC,Aetherdrift Commander,138,2,2,,
+Solemn Simulacrum,{4},4.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.",,,rare,NEC,Neon Dynasty Commander,162,2,2,,
+Solemn Simulacrum,{4},4.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.",,,rare,SLD,Secret Lair Drop,1725,2,2,,
+Solemn Simulacrum,{4},4.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.",,,rare,J22,Jumpstart 2022,797,2,2,,
+Solemn Simulacrum,{4},4.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.",,,rare,WHO,Doctor Who,1071,2,2,,
+Solemn Simulacrum,{4},4.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.",,,rare,SCD,Starter Commander Decks,277,2,2,,
+Solemn Simulacrum,{4},4.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.",,,rare,FDN,Foundations,257,2,2,,
+Solemn Simulacrum,{4},4.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.",,,rare,CM2,Commander Anthology Volume II,219,2,2,,
+Solemn Simulacrum,{4},4.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.",,,rare,CMM,Commander Masters,973,2,2,,
+Solemn Simulacrum,{4},4.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.",,,rare,CLB,Commander Legends: Battle for Baldur's Gate,872,2,2,,
+Solemn Simulacrum,{4},4.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.",,,rare,PM21,Core Set 2021 Promos,239s,2,2,,
+Solemn Simulacrum,{4},4.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.",,,rare,FIC,Final Fantasy Commander,360,2,2,,
+Solemn Simulacrum,{4},4.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.",,,rare,M3C,Modern Horizons 3 Commander,306,2,2,,
+Solemn Simulacrum,{4},4.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.",,,rare,AFC,Forgotten Realms Commander,216,2,2,,
+Solemn Simulacrum,{4},4.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.",,,rare,M21,Core Set 2021,239,2,2,,
+Solemn Simulacrum,{4},4.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.",,,rare,C14,Commander 2014,271,2,2,,
+Solemn Simulacrum,{4},4.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.",,,rare,DSC,Duskmourn: House of Horror Commander,253,2,2,,
+Solemn Simulacrum,{4},4.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.",,,rare,PIP,Fallout,1014,2,2,,
+Solemn Simulacrum,{4},4.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.",,,rare,SLD,Secret Lair Drop,1113,2,2,,
+Solemn Simulacrum,{4},4.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.",,,rare,C20,Commander 2020,253,2,2,,
+Solemn Simulacrum,{4},4.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.",,,rare,NCC,New Capenna Commander,380,2,2,,
+Solemn Simulacrum,{4},4.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.",,,rare,DDU,Duel Decks: Elves vs. Inventors,62,2,2,,
+Solemn Simulacrum,{4},4.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.",,,rare,BLC,Bloomburrow Commander,284,2,2,,
+Solemn Simulacrum,{4},4.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.",,,rare,SLD,Secret Lair Drop,791,2,2,,
+Solemn Simulacrum,{4},4.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.",,,rare,SLD,Secret Lair Drop,791★,2,2,,
+Solemn Simulacrum,{4},4.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.",,,rare,C16,Commander 2016,273,2,2,,
+Solemn Simulacrum,{4},4.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.",,,rare,PM21,Core Set 2021 Promos,239p,2,2,,
+Solemn Simulacrum,{4},4.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.",,,special,MPS,Kaladesh Inventions,25,2,2,,
+Solemn Simulacrum,{4},4.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.",,,rare,MKC,Murders at Karlov Manor Commander,238,2,2,,
+Solemn Simulacrum,{4},4.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.",,,rare,BRC,The Brothers' War Commander,161,2,2,,
+Solemn Simulacrum,{4},4.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.",,,rare,PFDN,Foundations Promos,257s,2,2,,
+Solemn Simulacrum,{4},4.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.",,,rare,FDN,Foundations,729,2,2,,
+Solemn Simulacrum,{4},4.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.",,,rare,WHO,Doctor Who,480,2,2,,
+Solemn Simulacrum,{4},4.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.",,,rare,PIP,Fallout,768,2,2,,
+Solemn Simulacrum,{4},4.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.",,,rare,TDC,Tarkir: Dragonstorm Commander,325,2,2,,
+Solemn Simulacrum,{4},4.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.",,,rare,PIP,Fallout,240,2,2,,
+Solemn Simulacrum,{4},4.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.",,,rare,WHO,Doctor Who,837,2,2,,
+Solemn Simulacrum,{4},4.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.",,,rare,DMC,Dominaria United Commander,191,2,2,,
+Solemn Simulacrum,{4},4.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.",,,rare,PIP,Fallout,486,2,2,,
+Solemn Simulacrum,{4},4.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.",,,special,TSR,Time Spiral Remastered,400,2,2,,
+Songcrafter Mage,{G}{U}{R},3.0,Creature — Human Bard,"Flash
+When this creature enters, target instant or sorcery card in your graveyard gains harmonize until end of turn. Its harmonize cost is equal to its mana cost. (You may cast that card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile the spell.)","G,R,U","G,R,U",rare,PTDM,Tarkir: Dragonstorm Promos,225s,3,2,,Flash
+Songcrafter Mage,{G}{U}{R},3.0,Creature — Human Bard,"Flash
+When this creature enters, target instant or sorcery card in your graveyard gains harmonize until end of turn. Its harmonize cost is equal to its mana cost. (You may cast that card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile the spell.)","G,R,U","G,R,U",rare,TDM,Tarkir: Dragonstorm,371,3,2,,Flash
+Songcrafter Mage,{G}{U}{R},3.0,Creature — Human Bard,"Flash
+When this creature enters, target instant or sorcery card in your graveyard gains harmonize until end of turn. Its harmonize cost is equal to its mana cost. (You may cast that card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile the spell.)","G,R,U","G,R,U",rare,TDM,Tarkir: Dragonstorm,225,3,2,,Flash
+Songcrafter Mage,{G}{U}{R},3.0,Creature — Human Bard,"Flash
+When this creature enters, target instant or sorcery card in your graveyard gains harmonize until end of turn. Its harmonize cost is equal to its mana cost. (You may cast that card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile the spell.)","G,R,U","G,R,U",rare,PTDM,Tarkir: Dragonstorm Promos,225p,3,2,,Flash
+Sonic Shrieker,{2}{R}{W}{B},5.0,Creature — Dragon,"Flying
+When this creature enters, it deals 2 damage to any target and you gain 2 life. If a player is dealt damage this way, they discard a card.","B,R,W","B,R,W",uncommon,TDM,Tarkir: Dragonstorm,318,4,4,,Flying
+Sonic Shrieker,{2}{R}{W}{B},5.0,Creature — Dragon,"Flying
+When this creature enters, it deals 2 damage to any target and you gain 2 life. If a player is dealt damage this way, they discard a card.","B,R,W","B,R,W",uncommon,TDM,Tarkir: Dragonstorm,226,4,4,,Flying
+Soul-Shackled Zombie,{3}{B},4.0,Creature — Zombie,"When this creature enters, exile up to two target cards from a single graveyard. If at least one creature card was exiled this way, each opponent loses 2 life and you gain 2 life.",B,B,common,FDN,Foundations,70,4,2,,
+Soulbright Seeker,{R},1.0,Creature — Elemental Sorcerer,"As an additional cost to cast this spell, behold an Elemental or pay {2}. (To behold an Elemental, choose an Elemental you control or reveal an Elemental card from your hand.)
+{R}: Target creature you control gains trample until end of turn. If this is the third time this ability has resolved this turn, add {R}{R}{R}{R}.",R,R,uncommon,ECL,Lorwyn Eclipsed,157,2,1,,Behold
+Soulcoil Viper,{2}{B},3.0,Creature — Snake,"{B}, {T}, Sacrifice this creature: Return target creature card from your graveyard to the battlefield with a finality counter on it. Activate only as a sorcery. (If a creature with a finality counter on it would die, exile it instead.)",B,B,uncommon,LCI,The Lost Caverns of Ixalan,120,2,3,,
+Souls of the Lost,{1}{B},2.0,Creature — Spirit,"As an additional cost to cast this spell, discard a card or sacrifice a permanent.
+Fathomless descent — Souls of the Lost's power is equal to the number of permanent cards in your graveyard and its toughness is equal to that number plus 1.",B,B,rare,PLCI,The Lost Caverns of Ixalan Promos,121s,*,*+1,,Fathomless descent
+Souls of the Lost,{1}{B},2.0,Creature — Spirit,"As an additional cost to cast this spell, discard a card or sacrifice a permanent.
+Fathomless descent — Souls of the Lost's power is equal to the number of permanent cards in your graveyard and its toughness is equal to that number plus 1.",B,B,rare,PLCI,The Lost Caverns of Ixalan Promos,121p,*,*+1,,Fathomless descent
+Souls of the Lost,{1}{B},2.0,Creature — Spirit,"As an additional cost to cast this spell, discard a card or sacrifice a permanent.
+Fathomless descent — Souls of the Lost's power is equal to the number of permanent cards in your graveyard and its toughness is equal to that number plus 1.",B,B,rare,LCI,The Lost Caverns of Ixalan,121,*,*+1,,Fathomless descent
+Souls of the Lost,{1}{B},2.0,Creature — Spirit,"As an additional cost to cast this spell, discard a card or sacrifice a permanent.
+Fathomless descent — Souls of the Lost's power is equal to the number of permanent cards in your graveyard and its toughness is equal to that number plus 1.",B,B,rare,LCI,The Lost Caverns of Ixalan,369,*,*+1,,Fathomless descent
+Sourbread Auntie,{2}{R}{R},4.0,Creature — Goblin Warrior,"When this creature enters, you may blight 2. If you do, create two 1/1 black and red Goblin creature tokens. (To blight 2, put two -1/-1 counters on a creature you control.)",R,R,uncommon,ECL,Lorwyn Eclipsed,158,4,3,,Blight
+South Pole Voyager,{1}{W},2.0,Creature — Human Scout Ally,"Whenever this creature or another Ally you control enters, you gain 1 life. If this is the second time this ability has resolved this turn, draw a card.",W,W,rare,TLA,Avatar: The Last Airbender,367,2,2,,
+South Pole Voyager,{1}{W},2.0,Creature — Human Scout Ally,"Whenever this creature or another Ally you control enters, you gain 1 life. If this is the second time this ability has resolved this turn, draw a card.",W,W,rare,TLA,Avatar: The Last Airbender,35,2,2,,
+South Pole Voyager,{1}{W},2.0,Creature — Human Scout Ally,"Whenever this creature or another Ally you control enters, you gain 1 life. If this is the second time this ability has resolved this turn, draw a card.",W,W,rare,PTLA,Avatar: The Last Airbender Promos,35s,2,2,,
+South Wind Avatar,{3}{B},4.0,Creature — Snake Spirit Avatar,"Deathtouch
+Whenever another creature you control dies, you gain life equal to its toughness.
+Whenever you gain life, each opponent loses 1 life.",B,B,rare,TMT,Teenage Mutant Ninja Turtles,269,3,4,,Deathtouch
+South Wind Avatar,{3}{B},4.0,Creature — Snake Spirit Avatar,"Deathtouch
+Whenever another creature you control dies, you gain life equal to its toughness.
+Whenever you gain life, each opponent loses 1 life.",B,B,rare,TMT,Teenage Mutant Ninja Turtles,78,3,4,,Deathtouch
+Sovereign Okinec Ahau,{2}{G}{W},4.0,Legendary Creature — Cat Noble,"Ward {2}
+Whenever Sovereign Okinec Ahau attacks, for each creature you control with power greater than that creature's base power, put a number of +1/+1 counters on that creature equal to the difference.","G,W","G,W",mythic,PLCI,The Lost Caverns of Ixalan Promos,240s,3,4,,Ward
+Sovereign Okinec Ahau,{2}{G}{W},4.0,Legendary Creature — Cat Noble,"Ward {2}
+Whenever Sovereign Okinec Ahau attacks, for each creature you control with power greater than that creature's base power, put a number of +1/+1 counters on that creature equal to the difference.","G,W","G,W",mythic,LCI,The Lost Caverns of Ixalan,309,3,4,,Ward
+Sovereign Okinec Ahau,{2}{G}{W},4.0,Legendary Creature — Cat Noble,"Ward {2}
+Whenever Sovereign Okinec Ahau attacks, for each creature you control with power greater than that creature's base power, put a number of +1/+1 counters on that creature equal to the difference.","G,W","G,W",mythic,LCI,The Lost Caverns of Ixalan,240,3,4,,Ward
+Sovereign Okinec Ahau,{2}{G}{W},4.0,Legendary Creature — Cat Noble,"Ward {2}
+Whenever Sovereign Okinec Ahau attacks, for each creature you control with power greater than that creature's base power, put a number of +1/+1 counters on that creature equal to the difference.","G,W","G,W",mythic,PLCI,The Lost Caverns of Ixalan Promos,240p,3,4,,Ward
+Sower of Chaos,{3}{R},4.0,Creature — Devil,{2}{R}: Target creature can't block this turn.,R,R,common,FDN,Foundations,95,4,3,,
+"SP//dr, Piloted by Peni",{3}{W}{U},5.0,Legendary Artifact Creature — Spider Hero,"Vigilance
+When SP//dr enters, put a +1/+1 counter on target creature.
+Whenever a modified creature you control deals combat damage to a player, draw a card. (Equipment, Auras you control, and counters are modifications.)","U,W","U,W",uncommon,OM1,Through the Omenpaths,143,4,4,,Vigilance
+"SP//dr, Piloted by Peni",{3}{W}{U},5.0,Legendary Artifact Creature — Spider Hero,"Vigilance
+When SP//dr enters, put a +1/+1 counter on target creature.
+Whenever a modified creature you control deals combat damage to a player, draw a card. (Equipment, Auras you control, and counters are modifications.)","U,W","U,W",uncommon,SPM,Marvel's Spider-Man,147,4,4,,Vigilance
+"SP//dr, Piloted by Peni",{3}{W}{U},5.0,Legendary Artifact Creature — Spider Hero,"Vigilance
+When SP//dr enters, put a +1/+1 counter on target creature.
+Whenever a modified creature you control deals combat damage to a player, draw a card. (Equipment, Auras you control, and counters are modifications.)","U,W","U,W",uncommon,SPM,Marvel's Spider-Man,199,4,4,,Vigilance
+Sparring Dummy,{1}{G},2.0,Artifact Creature — Scarecrow,"Defender
+{T}: Mill a card. You may put a land card milled this way into your hand. You gain 2 life if a Lesson card is milled this way. (To mill a card, put the top card of your library into your graveyard.)",G,G,uncommon,TLA,Avatar: The Last Airbender,197,1,3,,Mill;Defender
+Spectacular Spider-Man,{1}{W},2.0,Legendary Creature — Spider Human Hero,"Flash
+{1}: Spectacular Spider-Man gains flying until end of turn.
+{1}, Sacrifice Spectacular Spider-Man: Creatures you control gain hexproof and indestructible until end of turn.",W,W,rare,SPM,Marvel's Spider-Man,241,3,2,,Flash
+Spectacular Spider-Man,{1}{W},2.0,Legendary Creature — Spider Human Hero,"Flash
+{1}: Spectacular Spider-Man gains flying until end of turn.
+{1}, Sacrifice Spectacular Spider-Man: Creatures you control gain hexproof and indestructible until end of turn.",W,W,rare,SPM,Marvel's Spider-Man,240,3,2,,Flash
+Spectacular Spider-Man,{1}{W},2.0,Legendary Creature — Spider Human Hero,"Flash
+{1}: Spectacular Spider-Man gains flying until end of turn.
+{1}, Sacrifice Spectacular Spider-Man: Creatures you control gain hexproof and indestructible until end of turn.",W,W,rare,SPM,Marvel's Spider-Man,14,3,2,,Flash
+Spectacular Spider-Man,{1}{W},2.0,Legendary Creature — Spider Human Hero,"Flash
+{1}: Spectacular Spider-Man gains flying until end of turn.
+{1}, Sacrifice Spectacular Spider-Man: Creatures you control gain hexproof and indestructible until end of turn.",W,W,rare,PSPL,Spotlight Series,6,3,2,,Flash
+Spectacular Spider-Man,{1}{W},2.0,Legendary Creature — Spider Human Hero,"Flash
+{1}: Spectacular Spider-Man gains flying until end of turn.
+{1}, Sacrifice Spectacular Spider-Man: Creatures you control gain hexproof and indestructible until end of turn.",W,W,rare,SPM,Marvel's Spider-Man,238,3,2,,Flash
+Spectacular Spider-Man,{1}{W},2.0,Legendary Creature — Spider Human Hero,"Flash
+{1}: Spectacular Spider-Man gains flying until end of turn.
+{1}, Sacrifice Spectacular Spider-Man: Creatures you control gain hexproof and indestructible until end of turn.",W,W,rare,SPM,Marvel's Spider-Man,237,3,2,,Flash
+Spectacular Spider-Man,{1}{W},2.0,Legendary Creature — Spider Human Hero,"Flash
+{1}: Spectacular Spider-Man gains flying until end of turn.
+{1}, Sacrifice Spectacular Spider-Man: Creatures you control gain hexproof and indestructible until end of turn.",W,W,rare,SPM,Marvel's Spider-Man,235,3,2,,Flash
+Spectacular Spider-Man,{1}{W},2.0,Legendary Creature — Spider Human Hero,"Flash
+{1}: Spectacular Spider-Man gains flying until end of turn.
+{1}, Sacrifice Spectacular Spider-Man: Creatures you control gain hexproof and indestructible until end of turn.",W,W,rare,LMAR,Marvel Legends Series Inserts,2,3,2,,Flash
+Spectacular Spider-Man,{1}{W},2.0,Legendary Creature — Spider Human Hero,"Flash
+{1}: Spectacular Spider-Man gains flying until end of turn.
+{1}, Sacrifice Spectacular Spider-Man: Creatures you control gain hexproof and indestructible until end of turn.",W,W,rare,PSPM,Marvel's Spider-Man Promos,14s,3,2,,Flash
+Spectacular Spider-Man,{1}{W},2.0,Legendary Creature — Spider Human Hero,"Flash
+{1}: Spectacular Spider-Man gains flying until end of turn.
+{1}, Sacrifice Spectacular Spider-Man: Creatures you control gain hexproof and indestructible until end of turn.",W,W,rare,OM1,Through the Omenpaths,1,3,2,,Flash
+Spectacular Spider-Man,{1}{W},2.0,Legendary Creature — Spider Human Hero,"Flash
+{1}: Spectacular Spider-Man gains flying until end of turn.
+{1}, Sacrifice Spectacular Spider-Man: Creatures you control gain hexproof and indestructible until end of turn.",W,W,rare,SPM,Marvel's Spider-Man,239,3,2,,Flash
+Spectacular Spider-Man,{1}{W},2.0,Legendary Creature — Spider Human Hero,"Flash
+{1}: Spectacular Spider-Man gains flying until end of turn.
+{1}, Sacrifice Spectacular Spider-Man: Creatures you control gain hexproof and indestructible until end of turn.",W,W,rare,SPM,Marvel's Spider-Man,236,3,2,,Flash
+Specter of Mortality,{3}{B}{B},5.0,Creature — Specter,"Flying
+When this creature enters, you may exile one or more creature cards from your graveyard. When you do, each other creature gets -X/-X until end of turn, where X is the number of cards exiled this way.",B,B,rare,WOE,Wilds of Eldraine,342,3,3,,Flying
+Specter of Mortality,{3}{B}{B},5.0,Creature — Specter,"Flying
+When this creature enters, you may exile one or more creature cards from your graveyard. When you do, each other creature gets -X/-X until end of turn, where X is the number of cards exiled this way.",B,B,rare,PWOE,Wilds of Eldraine Promos,107s,3,3,,Flying
+Specter of Mortality,{3}{B}{B},5.0,Creature — Specter,"Flying
+When this creature enters, you may exile one or more creature cards from your graveyard. When you do, each other creature gets -X/-X until end of turn, where X is the number of cards exiled this way.",B,B,rare,WOE,Wilds of Eldraine,107,3,3,,Flying
+Specter of Mortality,{3}{B}{B},5.0,Creature — Specter,"Flying
+When this creature enters, you may exile one or more creature cards from your graveyard. When you do, each other creature gets -X/-X until end of turn, where X is the number of cards exiled this way.",B,B,rare,PWOE,Wilds of Eldraine Promos,107p,3,3,,Flying
+Spectral Sailor,{U},1.0,Creature — Spirit Pirate,"Flash (You may cast this spell any time you could cast an instant.)
+Flying
+{3}{U}: Draw a card.",U,U,uncommon,FDN,Foundations,164,1,1,,Flying;Flash
+Spectral Sailor,{U},1.0,Creature — Spirit Pirate,"Flash (You may cast this spell any time you could cast an instant.)
+Flying
+{3}{U}: Draw a card.",U,U,uncommon,LCC,The Lost Caverns of Ixalan Commander,172,1,1,,Flying;Flash
+Spectral Sailor,{U},1.0,Creature — Spirit Pirate,"Flash (You may cast this spell any time you could cast an instant.)
+Flying
+{3}{U}: Draw a card.",U,U,uncommon,JMP,Jumpstart,178,1,1,,Flying;Flash
+Spectral Sailor,{U},1.0,Creature — Spirit Pirate,"Flash (You may cast this spell any time you could cast an instant.)
+Flying
+{3}{U}: Draw a card.",U,U,uncommon,M20,Core Set 2020,76,1,1,,Flying;Flash
+Spectral Sailor,{U},1.0,Creature — Spirit Pirate,"Flash (You may cast this spell any time you could cast an instant.)
+Flying
+{3}{U}: Draw a card.",U,U,uncommon,J22,Jumpstart 2022,64,1,1,,Flying;Flash
+Spectral Sailor,{U},1.0,Creature — Spirit Pirate,"Flash (You may cast this spell any time you could cast an instant.)
+Flying
+{3}{U}: Draw a card.",U,U,uncommon,J25,Foundations Jumpstart,363,1,1,,Flying;Flash
+Spectral Sailor,{U},1.0,Creature — Spirit Pirate,"Flash (You may cast this spell any time you could cast an instant.)
+Flying
+{3}{U}: Draw a card.",U,U,uncommon,PLST,The List,M20-76,1,1,,Flying;Flash
+Spectral Sailor,{U},1.0,Creature — Spirit Pirate,"Flash (You may cast this spell any time you could cast an instant.)
+Flying
+{3}{U}: Draw a card.",U,U,uncommon,VOC,Crimson Vow Commander,114,1,1,,Flying;Flash
+Spectral Snatcher,{4}{B}{B},6.0,Creature — Spirit,"Ward—Discard a card. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player discards a card.)
+Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)",B,B,common,DSK,Duskmourn: House of Horror,116,6,5,,Landcycling;Ward;Typecycling;Cycling;Swampcycling
+Spellbook Vendor,{1}{W},2.0,Creature — Human Peasant,"Vigilance
+At the beginning of combat on your turn, you may pay {1}. When you do, create a Sorcerer Role token attached to target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1 and has ""Whenever this creature attacks, scry 1."")",W,W,rare,PWOE,Wilds of Eldraine Promos,31s,2,2,,Role token;Vigilance;Scry
+Spellbook Vendor,{1}{W},2.0,Creature — Human Peasant,"Vigilance
+At the beginning of combat on your turn, you may pay {1}. When you do, create a Sorcerer Role token attached to target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1 and has ""Whenever this creature attacks, scry 1."")",W,W,rare,WOE,Wilds of Eldraine,31,2,2,,Role token;Vigilance;Scry
+Spellbook Vendor,{1}{W},2.0,Creature — Human Peasant,"Vigilance
+At the beginning of combat on your turn, you may pay {1}. When you do, create a Sorcerer Role token attached to target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1 and has ""Whenever this creature attacks, scry 1."")",W,W,rare,PWOE,Wilds of Eldraine Promos,31p,2,2,,Role token;Vigilance;Scry
+Spellbook Vendor,{1}{W},2.0,Creature — Human Peasant,"Vigilance
+At the beginning of combat on your turn, you may pay {1}. When you do, create a Sorcerer Role token attached to target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1 and has ""Whenever this creature attacks, scry 1."")",W,W,rare,WOE,Wilds of Eldraine,327,2,2,,Role token;Vigilance;Scry
+Spellscorn Coven // Take It Back,{3}{B} // {2}{U},4.0,Creature — Faerie Warlock // Instant — Adventure,,B,"B,U",uncommon,WOE,Wilds of Eldraine,237,2,3,,Flying
+Sphinx of Forgotten Lore,{2}{U}{U},4.0,Creature — Sphinx,"Flash (You may cast this spell any time you could cast an instant.)
+Flying
+Whenever this creature attacks, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to that card's mana cost. (You may cast that card from your graveyard for its flashback cost. Then exile it.)",U,U,mythic,FDN,Foundations,380,3,3,,Flying;Flash
+Sphinx of Forgotten Lore,{2}{U}{U},4.0,Creature — Sphinx,"Flash (You may cast this spell any time you could cast an instant.)
+Flying
+Whenever this creature attacks, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to that card's mana cost. (You may cast that card from your graveyard for its flashback cost. Then exile it.)",U,U,mythic,PFDN,Foundations Promos,51s,3,3,,Flying;Flash
+Sphinx of Forgotten Lore,{2}{U}{U},4.0,Creature — Sphinx,"Flash (You may cast this spell any time you could cast an instant.)
+Flying
+Whenever this creature attacks, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to that card's mana cost. (You may cast that card from your graveyard for its flashback cost. Then exile it.)",U,U,mythic,FDN,Foundations,314,3,3,,Flying;Flash
+Sphinx of Forgotten Lore,{2}{U}{U},4.0,Creature — Sphinx,"Flash (You may cast this spell any time you could cast an instant.)
+Flying
+Whenever this creature attacks, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to that card's mana cost. (You may cast that card from your graveyard for its flashback cost. Then exile it.)",U,U,mythic,FDN,Foundations,51,3,3,,Flying;Flash
+Sphinx of Forgotten Lore,{2}{U}{U},4.0,Creature — Sphinx,"Flash (You may cast this spell any time you could cast an instant.)
+Flying
+Whenever this creature attacks, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to that card's mana cost. (You may cast that card from your graveyard for its flashback cost. Then exile it.)",U,U,mythic,FDN,Foundations,457,3,3,,Flying;Flash
+Sphinx of the Final Word,{5}{U}{U},7.0,Creature — Sphinx,"This spell can't be countered.
+Flying
+Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+Instant and sorcery spells you control can't be countered.",U,U,mythic,OGW,Oath of the Gatewatch,63,5,5,,Flying;Hexproof
+Sphinx of the Final Word,{5}{U}{U},7.0,Creature — Sphinx,"This spell can't be countered.
+Flying
+Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+Instant and sorcery spells you control can't be countered.",U,U,mythic,FDN,Foundations,597,5,5,,Flying;Hexproof
+Sphinx of the Final Word,{5}{U}{U},7.0,Creature — Sphinx,"This spell can't be countered.
+Flying
+Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+Instant and sorcery spells you control can't be countered.",U,U,mythic,POGW,Oath of the Gatewatch Promos,63s,5,5,,Flying;Hexproof
+Spider Manifestation,{1}{R/G},2.0,Creature — Spider Avatar,"Reach
+{T}: Add {R} or {G}.
+Whenever you cast a spell with mana value 4 or greater, untap this creature.","G,R","G,R",common,OM1,Through the Omenpaths,144,2,2,,Reach
+Spider Manifestation,{1}{R/G},2.0,Creature — Spider Avatar,"Reach
+{T}: Add {R} or {G}.
+Whenever you cast a spell with mana value 4 or greater, untap this creature.","G,R","G,R",common,SPM,Marvel's Spider-Man,148,2,2,,Reach
+Spider-Bot,{2},2.0,Artifact Creature — Spider Robot Scout,"Reach
+When this creature enters, you may search your library for a basic land card, reveal it, then shuffle and put that card on top.",,,common,SPM,Marvel's Spider-Man,173,2,1,,Reach
+Spider-Bot,{2},2.0,Artifact Creature — Spider Robot Scout,"Reach
+When this creature enters, you may search your library for a basic land card, reveal it, then shuffle and put that card on top.",,,common,OM1,Through the Omenpaths,174,2,1,,Reach
+"Spider-Byte, Web Warden",{2}{U},3.0,Legendary Creature — Spider Avatar Hero,"When Spider-Byte enters, return up to one target nonland permanent to its owner's hand.",U,U,uncommon,SPM,Marvel's Spider-Man,44,2,2,,
+"Spider-Byte, Web Warden",{2}{U},3.0,Legendary Creature — Spider Avatar Hero,"When Spider-Byte enters, return up to one target nonland permanent to its owner's hand.",U,U,uncommon,OM1,Through the Omenpaths,26,2,2,,
+"Spider-Girl, Legacy Hero",{G}{W},2.0,Legendary Creature — Spider Human Hero,"During your turn, Spider-Girl has flying.
+When Spider-Girl leaves the battlefield, create a 1/1 green and white Human Citizen creature token.","G,W","G,W",uncommon,SPM,Marvel's Spider-Man,149,2,2,,
+"Spider-Girl, Legacy Hero",{G}{W},2.0,Legendary Creature — Spider Human Hero,"During your turn, Spider-Girl has flying.
+When Spider-Girl leaves the battlefield, create a 1/1 green and white Human Citizen creature token.","G,W","G,W",uncommon,OM1,Through the Omenpaths,139,2,2,,
+"Spider-Gwen, Free Spirit",{2}{R},3.0,Legendary Creature — Spider Human Hero,"Reach
+Whenever Spider-Gwen becomes tapped, you may discard a card. If you do, draw a card.",R,R,common,SPM,Marvel's Spider-Man,90,2,3,,Reach
+"Spider-Gwen, Free Spirit",{2}{R},3.0,Legendary Creature — Spider Human Hero,"Reach
+Whenever Spider-Gwen becomes tapped, you may discard a card. If you do, draw a card.",R,R,common,OM1,Through the Omenpaths,97,2,3,,Reach
+"Spider-Ham, Peter Porker",{1}{G},2.0,Legendary Creature — Spider Boar Hero,"When Spider-Ham enters, create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this token: You gain 3 life."")
+Animal May-Ham — Other Spiders, Boars, Bats, Bears, Birds, Cats, Dogs, Frogs, Jackals, Lizards, Mice, Otters, Rabbits, Raccoons, Rats, Squirrels, Turtles, and Wolves you control get +1/+1.",G,G,rare,SPM,Marvel's Spider-Man,201,2,2,,Food;Animal May-Ham
+"Spider-Ham, Peter Porker",{1}{G},2.0,Legendary Creature — Spider Boar Hero,"When Spider-Ham enters, create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this token: You gain 3 life."")
+Animal May-Ham — Other Spiders, Boars, Bats, Bears, Birds, Cats, Dogs, Frogs, Jackals, Lizards, Mice, Otters, Rabbits, Raccoons, Rats, Squirrels, Turtles, and Wolves you control get +1/+1.",G,G,rare,PW25,Wizards Play Network 2025,10,2,2,,Food;Animal May-Ham
+"Spider-Ham, Peter Porker",{1}{G},2.0,Legendary Creature — Spider Boar Hero,"When Spider-Ham enters, create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this token: You gain 3 life."")
+Animal May-Ham — Other Spiders, Boars, Bats, Bears, Birds, Cats, Dogs, Frogs, Jackals, Lizards, Mice, Otters, Rabbits, Raccoons, Rats, Squirrels, Turtles, and Wolves you control get +1/+1.",G,G,rare,SPM,Marvel's Spider-Man,114,2,2,,Food;Animal May-Ham
+"Spider-Ham, Peter Porker",{1}{G},2.0,Legendary Creature — Spider Boar Hero,"When Spider-Ham enters, create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this token: You gain 3 life."")
+Animal May-Ham — Other Spiders, Boars, Bats, Bears, Birds, Cats, Dogs, Frogs, Jackals, Lizards, Mice, Otters, Rabbits, Raccoons, Rats, Squirrels, Turtles, and Wolves you control get +1/+1.",G,G,rare,OM1,Through the Omenpaths,118,2,2,,Food;Animal May-Ham
+"Spider-Ham, Peter Porker",{1}{G},2.0,Legendary Creature — Spider Boar Hero,"When Spider-Ham enters, create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this token: You gain 3 life."")
+Animal May-Ham — Other Spiders, Boars, Bats, Bears, Birds, Cats, Dogs, Frogs, Jackals, Lizards, Mice, Otters, Rabbits, Raccoons, Rats, Squirrels, Turtles, and Wolves you control get +1/+1.",G,G,rare,PSPM,Marvel's Spider-Man Promos,114s,2,2,,Food;Animal May-Ham
+Spider-Islanders,{3}{R},4.0,Creature — Spider Horror Citizen,Mayhem {1}{R} (You may cast this card from your graveyard for {1}{R} if you discarded it this turn. Timing rules still apply.),R,R,common,OM1,Through the Omenpaths,94,4,3,,Mayhem
+Spider-Islanders,{3}{R},4.0,Creature — Spider Horror Citizen,Mayhem {1}{R} (You may cast this card from your graveyard for {1}{R} if you discarded it this turn. Timing rules still apply.),R,R,common,SPM,Marvel's Spider-Man,91,4,3,,Mayhem
+Spider-Man 2099,{U}{R},2.0,Legendary Creature — Spider Human Hero,"From the Future — You can't cast Spider-Man 2099 during your first, second, or third turns of the game.
+Double strike, vigilance
+At the beginning of your end step, if you've played a land or cast a spell this turn from anywhere other than your hand, Spider-Man 2099 deals damage equal to his power to any target.","R,U","R,U",rare,SPM,Marvel's Spider-Man,150,2,3,,Vigilance;Double strike
+Spider-Man 2099,{U}{R},2.0,Legendary Creature — Spider Human Hero,"From the Future — You can't cast Spider-Man 2099 during your first, second, or third turns of the game.
+Double strike, vigilance
+At the beginning of your end step, if you've played a land or cast a spell this turn from anywhere other than your hand, Spider-Man 2099 deals damage equal to his power to any target.","R,U","R,U",rare,SPM,Marvel's Spider-Man,216,2,3,,Vigilance;Double strike
+Spider-Man 2099,{U}{R},2.0,Legendary Creature — Spider Human Hero,"From the Future — You can't cast Spider-Man 2099 during your first, second, or third turns of the game.
+Double strike, vigilance
+At the beginning of your end step, if you've played a land or cast a spell this turn from anywhere other than your hand, Spider-Man 2099 deals damage equal to his power to any target.","R,U","R,U",rare,SPM,Marvel's Spider-Man,205,2,3,,Vigilance;Double strike
+Spider-Man 2099,{U}{R},2.0,Legendary Creature — Spider Human Hero,"From the Future — You can't cast Spider-Man 2099 during your first, second, or third turns of the game.
+Double strike, vigilance
+At the beginning of your end step, if you've played a land or cast a spell this turn from anywhere other than your hand, Spider-Man 2099 deals damage equal to his power to any target.","R,U","R,U",rare,PSPM,Marvel's Spider-Man Promos,150s,2,3,,Vigilance;Double strike
+Spider-Man 2099,{U}{R},2.0,Legendary Creature — Spider Human Hero,"From the Future — You can't cast Spider-Man 2099 during your first, second, or third turns of the game.
+Double strike, vigilance
+At the beginning of your end step, if you've played a land or cast a spell this turn from anywhere other than your hand, Spider-Man 2099 deals damage equal to his power to any target.","R,U","R,U",rare,OM1,Through the Omenpaths,157,2,3,,Vigilance;Double strike
+Spider-Man India,{3}{G}{W},5.0,Legendary Creature — Spider Human Hero,"Web-slinging {1}{G}{W} (You may cast this spell for {1}{G}{W} if you also return a tapped creature you control to its owner's hand.)
+Pavitr's Sevā — Whenever you cast a creature spell, put a +1/+1 counter on target creature you control. It gains flying until end of turn.","G,W","G,W",uncommon,SPM,Marvel's Spider-Man,151,4,4,,Web-slinging
+Spider-Man India,{3}{G}{W},5.0,Legendary Creature — Spider Human Hero,"Web-slinging {1}{G}{W} (You may cast this spell for {1}{G}{W} if you also return a tapped creature you control to its owner's hand.)
+Pavitr's Sevā — Whenever you cast a creature spell, put a +1/+1 counter on target creature you control. It gains flying until end of turn.","G,W","G,W",uncommon,OM1,Through the Omenpaths,124,4,4,,Web-slinging
+Spider-Man Noir,{4}{B},5.0,Legendary Creature — Spider Human Hero,"Menace
+Whenever a creature you control attacks alone, put a +1/+1 counter on it. Then surveil X, where X is the number of counters on it. (Look at the top X cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)",B,B,uncommon,OM1,Through the Omenpaths,59,4,4,,Surveil;Menace
+Spider-Man Noir,{4}{B},5.0,Legendary Creature — Spider Human Hero,"Menace
+Whenever a creature you control attacks alone, put a +1/+1 counter on it. Then surveil X, where X is the number of counters on it. (Look at the top X cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)",B,B,uncommon,SPM,Marvel's Spider-Man,67,4,4,,Surveil;Menace
+Spider-Man Noir,{4}{B},5.0,Legendary Creature — Spider Human Hero,"Menace
+Whenever a creature you control attacks alone, put a +1/+1 counter on it. Then surveil X, where X is the number of counters on it. (Look at the top X cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)",B,B,uncommon,SPM,Marvel's Spider-Man,204,4,4,,Surveil;Menace
+"Spider-Man, Brooklyn Visionary",{4}{G},5.0,Legendary Creature — Spider Human Hero,"Web-slinging {2}{G} (You may cast this spell for {2}{G} if you also return a tapped creature you control to its owner's hand.)
+When Spider-Man enters, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",G,G,common,SPM,Marvel's Spider-Man,115,4,3,,Web-slinging
+"Spider-Man, Brooklyn Visionary",{4}{G},5.0,Legendary Creature — Spider Human Hero,"Web-slinging {2}{G} (You may cast this spell for {2}{G} if you also return a tapped creature you control to its owner's hand.)
+When Spider-Man enters, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",G,G,common,OM1,Through the Omenpaths,122,4,3,,Web-slinging
+"Spider-Man, Web-Slinger",{2}{W},3.0,Legendary Creature — Spider Human Hero,Web-slinging {W} (You may cast this spell for {W} if you also return a tapped creature you control to its owner's hand.),W,W,common,OM1,Through the Omenpaths,9,3,3,,Web-slinging
+"Spider-Man, Web-Slinger",{2}{W},3.0,Legendary Creature — Spider Human Hero,Web-slinging {W} (You may cast this spell for {W} if you also return a tapped creature you control to its owner's hand.),W,W,common,SPM,Marvel's Spider-Man,16,3,3,,Web-slinging
+Spider-Punk,{1}{R},2.0,Legendary Creature — Spider Human Hero,"Riot (This creature enters with your choice of a +1/+1 counter or haste.)
+Other Spiders you control have riot.
+Spells and abilities can't be countered.
+Damage can't be prevented.",R,R,rare,SPM,Marvel's Spider-Man,92,2,1,,Riot
+Spider-Punk,{1}{R},2.0,Legendary Creature — Spider Human Hero,"Riot (This creature enters with your choice of a +1/+1 counter or haste.)
+Other Spiders you control have riot.
+Spells and abilities can't be countered.
+Damage can't be prevented.",R,R,rare,PSPM,Marvel's Spider-Man Promos,92s,2,1,,Riot
+Spider-Punk,{1}{R},2.0,Legendary Creature — Spider Human Hero,"Riot (This creature enters with your choice of a +1/+1 counter or haste.)
+Other Spiders you control have riot.
+Spells and abilities can't be countered.
+Damage can't be prevented.",R,R,rare,SPM,Marvel's Spider-Man,210,2,1,,Riot
+Spider-Punk,{1}{R},2.0,Legendary Creature — Spider Human Hero,"Riot (This creature enters with your choice of a +1/+1 counter or haste.)
+Other Spiders you control have riot.
+Spells and abilities can't be countered.
+Damage can't be prevented.",R,R,rare,OM1,Through the Omenpaths,85,2,1,,Riot
+Spider-Punk,{1}{R},2.0,Legendary Creature — Spider Human Hero,"Riot (This creature enters with your choice of a +1/+1 counter or haste.)
+Other Spiders you control have riot.
+Spells and abilities can't be countered.
+Damage can't be prevented.",R,R,rare,SPM,Marvel's Spider-Man,207,2,1,,Riot
+"Spider-Rex, Daring Dino",{4}{G}{G},6.0,Legendary Creature — Spider Dinosaur Hero,"Reach, trample
+Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)",G,G,common,OM1,Through the Omenpaths,100,6,6,,Reach;Trample;Ward
+"Spider-Rex, Daring Dino",{4}{G}{G},6.0,Legendary Creature — Spider Dinosaur Hero,"Reach, trample
+Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)",G,G,common,SPM,Marvel's Spider-Man,116,6,6,,Reach;Trample;Ward
+"Spider-Slayer, Hatred Honed",{2},2.0,Legendary Artifact Creature — Human Villain,"Whenever Spider-Slayer deals damage to a Spider, destroy that creature.
+{6}, Exile this card from your graveyard: Create two tapped 1/1 colorless Robot artifact creature tokens with flying.",,,uncommon,OM1,Through the Omenpaths,168,2,1,,
+"Spider-Slayer, Hatred Honed",{2},2.0,Legendary Artifact Creature — Human Villain,"Whenever Spider-Slayer deals damage to a Spider, destroy that creature.
+{6}, Exile this card from your graveyard: Create two tapped 1/1 colorless Robot artifact creature tokens with flying.",,,uncommon,SPM,Marvel's Spider-Man,175,2,1,,
+Spider-UK,{3}{W},4.0,Legendary Creature — Spider Human Hero,"Web-slinging {2}{W} (You may cast this spell for {2}{W} if you also return a tapped creature you control to its owner's hand.)
+At the beginning of your end step, if two or more creatures entered the battlefield under your control this turn, you draw a card and gain 2 life.",W,W,uncommon,OM1,Through the Omenpaths,18,3,4,,Web-slinging
+Spider-UK,{3}{W},4.0,Legendary Creature — Spider Human Hero,"Web-slinging {2}{W} (You may cast this spell for {2}{W} if you also return a tapped creature you control to its owner's hand.)
+At the beginning of your end step, if two or more creatures entered the battlefield under your control this turn, you draw a card and gain 2 life.",W,W,uncommon,SPM,Marvel's Spider-Man,17,3,4,,Web-slinging
+"Spider-Woman, Stunning Savior",{1}{W/U},2.0,Legendary Creature — Spider Human Hero,"Flying
+Venom Blast — Artifacts and creatures your opponents control enter tapped.","U,W","U,W",rare,PSPM,Marvel's Spider-Man Promos,152s,2,2,,Flying
+"Spider-Woman, Stunning Savior",{1}{W/U},2.0,Legendary Creature — Spider Human Hero,"Flying
+Venom Blast — Artifacts and creatures your opponents control enter tapped.","U,W","U,W",rare,SPM,Marvel's Spider-Man,230,2,2,,Flying
+"Spider-Woman, Stunning Savior",{1}{W/U},2.0,Legendary Creature — Spider Human Hero,"Flying
+Venom Blast — Artifacts and creatures your opponents control enter tapped.","U,W","U,W",rare,SPM,Marvel's Spider-Man,152,2,2,,Flying
+"Spider-Woman, Stunning Savior",{1}{W/U},2.0,Legendary Creature — Spider Human Hero,"Flying
+Venom Blast — Artifacts and creatures your opponents control enter tapped.","U,W","U,W",rare,OM1,Through the Omenpaths,145,2,2,,Flying
+"Spiders-Man, Heroic Horde",{1}{G},2.0,Legendary Creature — Spider Hero,"Web-slinging {4}{G}{G} (You may cast this spell for {4}{G}{G} if you also return a tapped creature you control to its owner's hand.)
+When Spiders-Man enters, if they were cast using web-slinging, you gain 3 life and create two 2/1 green Spider creature tokens with reach.",G,G,uncommon,SPM,Marvel's Spider-Man,117,2,3,,Web-slinging
+"Spiders-Man, Heroic Horde",{1}{G},2.0,Legendary Creature — Spider Hero,"Web-slinging {4}{G}{G} (You may cast this spell for {4}{G}{G} if you also return a tapped creature you control to its owner's hand.)
+When Spiders-Man enters, if they were cast using web-slinging, you gain 3 life and create two 2/1 green Spider creature tokens with reach.",G,G,uncommon,OM1,Through the Omenpaths,101,2,3,,Web-slinging
+Spikeshell Harrier,{4}{U},5.0,Artifact Creature — Robot Turtle,"When this creature enters, return target creature or Vehicle an opponent controls to its owner's hand. If that opponent's speed is greater than each other player's speed, reduce that opponent's speed by 1. This effect can't reduce their speed below 1.",U,U,uncommon,DFT,Aetherdrift,65,4,4,,
+Spinerock Tyrant,{3}{R}{R},5.0,Creature — Dragon,"Flying
+Wither (This deals damage to creatures in the form of -1/-1 counters.)
+Whenever you cast an instant or sorcery spell with a single target, you may copy it. If you do, those spells gain wither. You may choose new targets for the copy.",R,R,mythic,ECL,Lorwyn Eclipsed,399,6,6,,Flying;Wither
+Spinerock Tyrant,{3}{R}{R},5.0,Creature — Dragon,"Flying
+Wither (This deals damage to creatures in the form of -1/-1 counters.)
+Whenever you cast an instant or sorcery spell with a single target, you may copy it. If you do, those spells gain wither. You may choose new targets for the copy.",R,R,mythic,ECL,Lorwyn Eclipsed,159,6,6,,Flying;Wither
+Spinerock Tyrant,{3}{R}{R},5.0,Creature — Dragon,"Flying
+Wither (This deals damage to creatures in the form of -1/-1 counters.)
+Whenever you cast an instant or sorcery spell with a single target, you may copy it. If you do, those spells gain wither. You may choose new targets for the copy.",R,R,mythic,ECL,Lorwyn Eclipsed,322,6,6,,Flying;Wither
+Spinerock Tyrant,{3}{R}{R},5.0,Creature — Dragon,"Flying
+Wither (This deals damage to creatures in the form of -1/-1 counters.)
+Whenever you cast an instant or sorcery spell with a single target, you may copy it. If you do, those spells gain wither. You may choose new targets for the copy.",R,R,mythic,PECL,Lorwyn Eclipsed Promos,159p,6,6,,Flying;Wither
+Spinerock Tyrant,{3}{R}{R},5.0,Creature — Dragon,"Flying
+Wither (This deals damage to creatures in the form of -1/-1 counters.)
+Whenever you cast an instant or sorcery spell with a single target, you may copy it. If you do, those spells gain wither. You may choose new targets for the copy.",R,R,mythic,ECL,Lorwyn Eclipsed,389,6,6,,Flying;Wither
+Spineseeker Centipede,{2}{G},3.0,Creature — Insect,"When this creature enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+Delirium — This creature gets +1/+2 and has vigilance as long as there are four or more card types among cards in your graveyard.",G,G,common,DSK,Duskmourn: House of Horror,199,2,1,,Delirium
+Spinewoods Armadillo,{4}{G}{G},6.0,Creature — Armadillo,"Reach
+Ward {3} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)
+{1}{G}, Discard this card: Search your library for a basic land card or a Desert card, reveal it, put it into your hand, then shuffle. You gain 3 life.",G,G,uncommon,OTJ,Outlaws of Thunder Junction,182,7,7,,Reach;Ward
+Spinewoods Paladin,{4}{G},5.0,Creature — Human Knight,"Trample
+When this creature enters, you gain 3 life.
+Plot {3}{G} (You may pay {3}{G} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",G,G,common,OTJ,Outlaws of Thunder Junction,183,5,4,,Plot;Trample
+Spinner of Souls,{2}{G},3.0,Creature — Spider Spirit,"Reach
+Whenever another nontoken creature you control dies, you may reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest on the bottom of your library in a random order.",G,G,rare,FDN,Foundations,474,4,3,,Reach
+Spinner of Souls,{2}{G},3.0,Creature — Spider Spirit,"Reach
+Whenever another nontoken creature you control dies, you may reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest on the bottom of your library in a random order.",G,G,rare,PFDN,Foundations Promos,112s,4,3,,Reach
+Spinner of Souls,{2}{G},3.0,Creature — Spider Spirit,"Reach
+Whenever another nontoken creature you control dies, you may reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest on the bottom of your library in a random order.",G,G,rare,FDN,Foundations,341,4,3,,Reach
+Spinner of Souls,{2}{G},3.0,Creature — Spider Spirit,"Reach
+Whenever another nontoken creature you control dies, you may reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest on the bottom of your library in a random order.",G,G,rare,FDN,Foundations,112,4,3,,Reach
+Spinner of Souls,{2}{G},3.0,Creature — Spider Spirit,"Reach
+Whenever another nontoken creature you control dies, you may reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest on the bottom of your library in a random order.",G,G,rare,FDN,Foundations,402,4,3,,Reach
+Spinneret and Spiderling,{R},1.0,Legendary Creature — Spider Human Hero,"Whenever you attack with two or more Spiders, put a +1/+1 counter on Spinneret and Spiderling.
+Whenever Spinneret and Spiderling deals 4 or more damage, exile the top card of your library. Until the end of your next turn, you may play that card.",R,R,rare,OM1,Through the Omenpaths,92,1,2,,
+Spinneret and Spiderling,{R},1.0,Legendary Creature — Spider Human Hero,"Whenever you attack with two or more Spiders, put a +1/+1 counter on Spinneret and Spiderling.
+Whenever Spinneret and Spiderling deals 4 or more damage, exile the top card of your library. Until the end of your next turn, you may play that card.",R,R,rare,PSPM,Marvel's Spider-Man Promos,94s,1,2,,
+Spinneret and Spiderling,{R},1.0,Legendary Creature — Spider Human Hero,"Whenever you attack with two or more Spiders, put a +1/+1 counter on Spinneret and Spiderling.
+Whenever Spinneret and Spiderling deals 4 or more damage, exile the top card of your library. Until the end of your next turn, you may play that card.",R,R,rare,SPM,Marvel's Spider-Man,94,1,2,,
+Spinneret and Spiderling,{R},1.0,Legendary Creature — Spider Human Hero,"Whenever you attack with two or more Spiders, put a +1/+1 counter on Spinneret and Spiderling.
+Whenever Spinneret and Spiderling deals 4 or more damage, exile the top card of your library. Until the end of your next turn, you may play that card.",R,R,rare,SPM,Marvel's Spider-Man,264,1,2,,
+Spiteful Hexmage,{B},1.0,Creature — Human Warlock,"When this creature enters, create a Cursed Role token attached to target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature is 1/1.)",B,B,rare,PWOE,Wilds of Eldraine Promos,108s,3,2,,Role token
+Spiteful Hexmage,{B},1.0,Creature — Human Warlock,"When this creature enters, create a Cursed Role token attached to target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature is 1/1.)",B,B,rare,WOE,Wilds of Eldraine,108,3,2,,Role token
+Spiteful Hexmage,{B},1.0,Creature — Human Warlock,"When this creature enters, create a Cursed Role token attached to target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature is 1/1.)",B,B,rare,WOE,Wilds of Eldraine,343,3,2,,Role token
+Spiteful Hexmage,{B},1.0,Creature — Human Warlock,"When this creature enters, create a Cursed Role token attached to target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature is 1/1.)",B,B,rare,PWOE,Wilds of Eldraine Promos,108p,3,2,,Role token
+Spitfire Lagac,{3}{R},4.0,Creature — Lizard,"Landfall — Whenever a land you control enters, this creature deals 1 damage to each opponent.",R,R,common,FDN,Foundations,208,3,4,,Landfall
+Spitfire Lagac,{3}{R},4.0,Creature — Lizard,"Landfall — Whenever a land you control enters, this creature deals 1 damage to each opponent.",R,R,common,ZNR,Zendikar Rising,167,3,4,,Landfall
+Spitfire Lagac,{3}{R},4.0,Creature — Lizard,"Landfall — Whenever a land you control enters, this creature deals 1 damage to each opponent.",R,R,common,ZNR,Zendikar Rising,302,3,4,,Landfall
+Spitfire Lagac,{3}{R},4.0,Creature — Lizard,"Landfall — Whenever a land you control enters, this creature deals 1 damage to each opponent.",R,R,common,PRM,Magic Online Promos,83688,3,4,,Landfall
+Splash Lasher,{3}{U},4.0,Creature — Frog Wizard,"Offspring {1}{U} (You may pay an additional {1}{U} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+When this creature enters, tap up to one target creature and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)",U,U,uncommon,BLB,Bloomburrow,73,3,3,,Offspring
+Splashy Spellcaster,{3}{U},4.0,Creature — Elemental Wizard,"Whenever you cast an instant or sorcery spell, create a Sorcerer Role token attached to up to one other target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1 and has ""Whenever this creature attacks, scry 1."")",U,U,uncommon,WOE,Wilds of Eldraine,70,2,4,,Role token;Scry
+"Splinter, Hamato Yoshi",{1}{B},2.0,Legendary Creature — Mutant Ninja Rat,"Sneak {B} (You may cast this spell for {B} if you also return an unblocked attacker you control to hand during the declare blockers step. He enters tapped and attacking.)
+Menace (This creature can't be blocked except by two or more creatures.)
+Other Ninjas you control get +1/+1.",B,B,uncommon,TMT,Teenage Mutant Ninja Turtles,79,1,3,,Menace;Sneak
+"Splinter, Radical Rat",{1}{W/B}{W/B},3.0,Legendary Creature — Mutant Ninja Rat,"If an ability of a Ninja creature you control triggers, that ability triggers an additional time.
+{1}{U}: Target Ninja can't be blocked this turn.","B,W","B,U,W",rare,TMT,Teenage Mutant Ninja Turtles,251,2,4,,
+"Splinter, Radical Rat",{1}{W/B}{W/B},3.0,Legendary Creature — Mutant Ninja Rat,"If an ability of a Ninja creature you control triggers, that ability triggers an additional time.
+{1}{U}: Target Ninja can't be blocked this turn.","B,W","B,U,W",rare,TMT,Teenage Mutant Ninja Turtles,169,2,4,,
+Splitskin Doll,{1}{W},2.0,Artifact Creature — Toy,"When this creature enters, draw a card. Then discard a card unless you control another creature with power 2 or less.",W,W,uncommon,DSK,Duskmourn: House of Horror,33,2,1,,
+Spring Splasher,{1}{U},2.0,Creature — Frog Beast,"Whenever this creature attacks, target creature defending player controls gets -3/-0 until end of turn.",U,U,common,OTJ,Outlaws of Thunder Junction,69,2,1,,
+Springbloom Druid,{2}{G},3.0,Creature — Elf Druid,"When this creature enters, you may sacrifice a land. If you do, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",G,G,common,J21,Jumpstart: Historic Horizons,642,1,1,,
+Springbloom Druid,{2}{G},3.0,Creature — Elf Druid,"When this creature enters, you may sacrifice a land. If you do, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",G,G,common,TDC,Tarkir: Dragonstorm Commander,271,1,1,,
+Springbloom Druid,{2}{G},3.0,Creature — Elf Druid,"When this creature enters, you may sacrifice a land. If you do, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",G,G,common,MH1,Modern Horizons,181,1,1,,
+Springbloom Druid,{2}{G},3.0,Creature — Elf Druid,"When this creature enters, you may sacrifice a land. If you do, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",G,G,common,EOC,Edge of Eternities Commander,51,1,1,,
+Springbloom Druid,{2}{G},3.0,Creature — Elf Druid,"When this creature enters, you may sacrifice a land. If you do, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",G,G,common,ZNC,Zendikar Rising Commander,83,1,1,,
+Springbloom Druid,{2}{G},3.0,Creature — Elf Druid,"When this creature enters, you may sacrifice a land. If you do, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",G,G,common,OTC,Outlaws of Thunder Junction Commander,208,1,1,,
+Springbloom Druid,{2}{G},3.0,Creature — Elf Druid,"When this creature enters, you may sacrifice a land. If you do, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",G,G,common,KHC,Kaldheim Commander,74,1,1,,
+Springbloom Druid,{2}{G},3.0,Creature — Elf Druid,"When this creature enters, you may sacrifice a land. If you do, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",G,G,common,FDN,Foundations,646,1,1,,
+Spyglass Siren,{U},1.0,Creature — Siren Pirate,"Flying
+When this creature enters, create a Map token. (It's an artifact with ""{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery."")",U,U,uncommon,LCI,The Lost Caverns of Ixalan,405,1,1,,Flying;Explore
+Spyglass Siren,{U},1.0,Creature — Siren Pirate,"Flying
+When this creature enters, create a Map token. (It's an artifact with ""{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery."")",U,U,uncommon,LCI,The Lost Caverns of Ixalan,78,1,1,,Flying;Explore
+Squad Rallier,{3}{W},4.0,Creature — Human Scout,{2}{W}: Look at the top four cards of your library. You may reveal a creature card with power 2 or less from among them and put it into your hand. Put the rest on the bottom of your library in a random order.,W,W,common,FDN,Foundations,24,3,4,,
+"Squall, SeeD Mercenary",{2}{W}{B},4.0,Legendary Creature — Human Knight Mercenary,"Rough Divide — Whenever a creature you control attacks alone, it gains double strike until end of turn.
+Whenever Squall deals combat damage to a player, return target permanent card with mana value 3 or less from your graveyard to the battlefield.","B,W","B,W",rare,PSS5,FIN Standard Showdown,2,3,4,,Rough Divide
+"Squall, SeeD Mercenary",{2}{W}{B},4.0,Legendary Creature — Human Knight Mercenary,"Rough Divide — Whenever a creature you control attacks alone, it gains double strike until end of turn.
+Whenever Squall deals combat damage to a player, return target permanent card with mana value 3 or less from your graveyard to the battlefield.","B,W","B,W",rare,FIN,Final Fantasy,547,3,4,,Rough Divide
+"Squall, SeeD Mercenary",{2}{W}{B},4.0,Legendary Creature — Human Knight Mercenary,"Rough Divide — Whenever a creature you control attacks alone, it gains double strike until end of turn.
+Whenever Squall deals combat damage to a player, return target permanent card with mana value 3 or less from your graveyard to the battlefield.","B,W","B,W",rare,FIN,Final Fantasy,402,3,4,,Rough Divide
+"Squall, SeeD Mercenary",{2}{W}{B},4.0,Legendary Creature — Human Knight Mercenary,"Rough Divide — Whenever a creature you control attacks alone, it gains double strike until end of turn.
+Whenever Squall deals combat damage to a player, return target permanent card with mana value 3 or less from your graveyard to the battlefield.","B,W","B,W",rare,PFIN,Final Fantasy Promos,243s,3,4,,Rough Divide
+"Squall, SeeD Mercenary",{2}{W}{B},4.0,Legendary Creature — Human Knight Mercenary,"Rough Divide — Whenever a creature you control attacks alone, it gains double strike until end of turn.
+Whenever Squall deals combat damage to a player, return target permanent card with mana value 3 or less from your graveyard to the battlefield.","B,W","B,W",rare,FIN,Final Fantasy,243,3,4,,Rough Divide
+"Squall, SeeD Mercenary",{2}{W}{B},4.0,Legendary Creature — Human Knight Mercenary,"Rough Divide — Whenever a creature you control attacks alone, it gains double strike until end of turn.
+Whenever Squall deals combat damage to a player, return target permanent card with mana value 3 or less from your graveyard to the battlefield.","B,W","B,W",rare,FIN,Final Fantasy,509,3,4,,Rough Divide
+Squawkroaster,{3}{R},4.0,Creature — Elemental,"Double strike
+Vivid — Squawkroaster's power is equal to the number of colors among permanents you control.",R,R,uncommon,ECL,Lorwyn Eclipsed,160,*,4,,Double strike;Vivid
+Squirrelanoids,{B},1.0,Creature — Squirrel Mutant,Deathtouch,B,B,common,TMT,Teenage Mutant Ninja Turtles,81,1,1,,Deathtouch
+Stadium Headliner,{R},1.0,Creature — Goblin Warrior,"Mobilize 1 (Whenever this creature attacks, create a tapped and attacking 1/1 red Warrior creature token. Sacrifice it at the beginning of the next end step.)
+{1}{R}, Sacrifice this creature: It deals damage equal to the number of creatures you control to target creature.",R,R,rare,PTDM,Tarkir: Dragonstorm Promos,122s,1,1,,Mobilize
+Stadium Headliner,{R},1.0,Creature — Goblin Warrior,"Mobilize 1 (Whenever this creature attacks, create a tapped and attacking 1/1 red Warrior creature token. Sacrifice it at the beginning of the next end step.)
+{1}{R}, Sacrifice this creature: It deals damage equal to the number of creatures you control to target creature.",R,R,rare,TDM,Tarkir: Dragonstorm,122,1,1,,Mobilize
+Stadium Headliner,{R},1.0,Creature — Goblin Warrior,"Mobilize 1 (Whenever this creature attacks, create a tapped and attacking 1/1 red Warrior creature token. Sacrifice it at the beginning of the next end step.)
+{1}{R}, Sacrifice this creature: It deals damage equal to the number of creatures you control to target creature.",R,R,rare,PTDM,Tarkir: Dragonstorm Promos,122p,1,1,,Mobilize
+Stadium Headliner,{R},1.0,Creature — Goblin Warrior,"Mobilize 1 (Whenever this creature attacks, create a tapped and attacking 1/1 red Warrior creature token. Sacrifice it at the beginning of the next end step.)
+{1}{R}, Sacrifice this creature: It deals damage equal to the number of creatures you control to target creature.",R,R,rare,TDM,Tarkir: Dragonstorm,344,1,1,,Mobilize
+Stagecoach Security,{4}{W},5.0,Creature — Human Soldier,"When this creature enters, creatures you control get +1/+1 and gain vigilance until end of turn.
+Plot {3}{W} (You may pay {3}{W} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",W,W,common,OTJ,Outlaws of Thunder Junction,30,4,5,,Plot
+Stalactite Stalker,{B},1.0,Creature — Goblin Rogue,"Menace
+At the beginning of your end step, if you descended this turn, put a +1/+1 counter on this creature. (You descended if a permanent card was put into your graveyard from anywhere.)
+{2}{B}, Sacrifice this creature: Target creature gets -X/-X until end of turn, where X is this creature's power.",B,B,rare,PLCI,The Lost Caverns of Ixalan Promos,122p,1,1,,Menace
+Stalactite Stalker,{B},1.0,Creature — Goblin Rogue,"Menace
+At the beginning of your end step, if you descended this turn, put a +1/+1 counter on this creature. (You descended if a permanent card was put into your graveyard from anywhere.)
+{2}{B}, Sacrifice this creature: Target creature gets -X/-X until end of turn, where X is this creature's power.",B,B,rare,LCI,The Lost Caverns of Ixalan,122,1,1,,Menace

@@ -1,0 +1,77 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Hallowed Fountain,,0.0,Land — Plains Island,"({T}: Add {W} or {U}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"U,W",rare,UNF,Unfinity,277,,,,
+Hallowed Fountain,,0.0,Land — Plains Island,"({T}: Add {W} or {U}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"U,W",rare,CLU,Ravnica: Clue Edition,277,,,,
+Hallowed Fountain,,0.0,Land — Plains Island,"({T}: Add {W} or {U}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"U,W",rare,RVR,Ravnica Remastered,295,,,,
+Hallowed Fountain,,0.0,Land — Plains Island,"({T}: Add {W} or {U}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"U,W",mythic,EXP,Zendikar Expeditions,6,,,,
+Hallowed Fountain,,0.0,Land — Plains Island,"({T}: Add {W} or {U}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"U,W",rare,RVR,Ravnica Remastered,404,,,,
+Hallowed Fountain,,0.0,Land — Plains Island,"({T}: Add {W} or {U}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"U,W",rare,RVR,Ravnica Remastered,404z,,,,
+Hallowed Fountain,,0.0,Land — Plains Island,"({T}: Add {W} or {U}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"U,W",rare,UNF,Unfinity,528,,,,
+Hallowed Fountain,,0.0,Land — Plains Island,"({T}: Add {W} or {U}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"U,W",rare,PRM,Magic Online Promos,72297,,,,
+Hallowed Fountain,,0.0,Land — Plains Island,"({T}: Add {W} or {U}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"U,W",rare,PECL,Lorwyn Eclipsed Promos,265p,,,,
+Hallowed Fountain,,0.0,Land — Plains Island,"({T}: Add {W} or {U}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"U,W",rare,RTR,Return to Ravnica,241,,,,
+Hallowed Fountain,,0.0,Land — Plains Island,"({T}: Add {W} or {U}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"U,W",rare,PRNA,Ravnica Allegiance Promos,251p,,,,
+Hallowed Fountain,,0.0,Land — Plains Island,"({T}: Add {W} or {U}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"U,W",rare,DIS,Dissension,174,,,,
+Hallowed Fountain,,0.0,Land — Plains Island,"({T}: Add {W} or {U}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"U,W",rare,RVR,Ravnica Remastered,280,,,,
+Hallowed Fountain,,0.0,Land — Plains Island,"({T}: Add {W} or {U}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"U,W",rare,ECL,Lorwyn Eclipsed,265,,,,
+Hallowed Fountain,,0.0,Land — Plains Island,"({T}: Add {W} or {U}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"U,W",rare,SLD,Secret Lair Drop,123,,,,
+Hallowed Fountain,,0.0,Land — Plains Island,"({T}: Add {W} or {U}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"U,W",rare,RNA,Ravnica Allegiance,251,,,,
+Hedge Maze,,0.0,Land — Forest Island,"({T}: Add {G} or {U}.)
+This land enters tapped.
+When this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,"G,U",rare,PMKM,Murders at Karlov Manor Promos,262s,,,,Surveil
+Hedge Maze,,0.0,Land — Forest Island,"({T}: Add {G} or {U}.)
+This land enters tapped.
+When this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,"G,U",rare,PMKM,Murders at Karlov Manor Promos,262p,,,,Surveil
+Hedge Maze,,0.0,Land — Forest Island,"({T}: Add {G} or {U}.)
+This land enters tapped.
+When this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,"G,U",rare,MKM,Murders at Karlov Manor,262,,,,Surveil
+Hedge Maze,,0.0,Land — Forest Island,"({T}: Add {G} or {U}.)
+This land enters tapped.
+When this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,"G,U",rare,MKM,Murders at Karlov Manor,326,,,,Surveil
+Hidden Cataract,,0.0,Land — Cave,"This land enters tapped.
+{T}: Add {U}.
+{4}{U}, {T}, Sacrifice this land: Discover 4. Activate only as a sorcery. (Exile cards from the top of your library until you exile a nonland card with mana value 4 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)",,U,common,LCI,The Lost Caverns of Ixalan,273,,,,Discover
+Hidden Cataract,,0.0,Land — Cave,"This land enters tapped.
+{T}: Add {U}.
+{4}{U}, {T}, Sacrifice this land: Discover 4. Activate only as a sorcery. (Exile cards from the top of your library until you exile a nonland card with mana value 4 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)",,U,common,M3C,Modern Horizons 3 Commander,348,,,,Discover
+Hidden Courtyard,,0.0,Land — Cave,"This land enters tapped.
+{T}: Add {W}.
+{4}{W}, {T}, Sacrifice this land: Discover 4. Activate only as a sorcery. (Exile cards from the top of your library until you exile a nonland card with mana value 4 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)",,W,common,LCI,The Lost Caverns of Ixalan,274,,,,Discover
+Hidden Grotto,,0.0,Land,"When this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+{T}: Add {C}.
+{1}, {T}: Add one mana of any color.",,,common,BLB,Bloomburrow,254,,,,Surveil
+Hidden Necropolis,,0.0,Land — Cave,"This land enters tapped.
+{T}: Add {B}.
+{4}{B}, {T}, Sacrifice this land: Discover 4. Activate only as a sorcery. (Exile cards from the top of your library until you exile a nonland card with mana value 4 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)",,B,common,LCI,The Lost Caverns of Ixalan,275,,,,Discover
+Hidden Nursery,,0.0,Land — Cave,"This land enters tapped.
+{T}: Add {G}.
+{4}{G}, {T}, Sacrifice this land: Discover 4. Activate only as a sorcery. (Exile cards from the top of your library until you exile a nonland card with mana value 4 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)",,G,common,LCI,The Lost Caverns of Ixalan,276,,,,Discover
+Hidden Nursery,,0.0,Land — Cave,"This land enters tapped.
+{T}: Add {G}.
+{4}{G}, {T}, Sacrifice this land: Discover 4. Activate only as a sorcery. (Exile cards from the top of your library until you exile a nonland card with mana value 4 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)",,G,common,M3C,Modern Horizons 3 Commander,349,,,,Discover
+Hidden Volcano,,0.0,Land — Cave,"This land enters tapped.
+{T}: Add {R}.
+{4}{R}, {T}, Sacrifice this land: Discover 4. Activate only as a sorcery. (Exile cards from the top of your library until you exile a nonland card with mana value 4 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)",,R,common,LCI,The Lost Caverns of Ixalan,277,,,,Discover
+Hushwood Verge,,0.0,Land,"{T}: Add {G}.
+{T}: Add {W}. Activate only if you control a Forest or a Plains.",,"G,W",rare,DSK,Duskmourn: House of Horror,332,,,,
+Hushwood Verge,,0.0,Land,"{T}: Add {G}.
+{T}: Add {W}. Activate only if you control a Forest or a Plains.",,"G,W",rare,PDSK,Duskmourn: House of Horror Promos,261s,,,,
+Hushwood Verge,,0.0,Land,"{T}: Add {G}.
+{T}: Add {W}. Activate only if you control a Forest or a Plains.",,"G,W",rare,DSK,Duskmourn: House of Horror,261,,,,
+Hushwood Verge,,0.0,Land,"{T}: Add {G}.
+{T}: Add {W}. Activate only if you control a Forest or a Plains.",,"G,W",rare,PDSK,Duskmourn: House of Horror Promos,261p,,,,

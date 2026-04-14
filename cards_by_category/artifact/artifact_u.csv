@@ -1,0 +1,23 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Ultima Weapon,{7},7.0,Legendary Artifact — Equipment,"Whenever equipped creature attacks, destroy target creature an opponent controls.
+Equipped creature gets +7/+7.
+Equip {7}",,,rare,FIN,Final Fantasy,563,,,,Equip
+Unidentified Hovership,{1}{W}{W},3.0,Artifact — Vehicle,"Flying
+When this Vehicle enters, exile up to one target creature with toughness 5 or less.
+When this Vehicle leaves the battlefield, the exiled card's owner manifests dread.
+Crew 1",W,W,rare,DSK,Duskmourn: House of Horror,305,2,2,,Flying;Crew
+Unidentified Hovership,{1}{W}{W},3.0,Artifact — Vehicle,"Flying
+When this Vehicle enters, exile up to one target creature with toughness 5 or less.
+When this Vehicle leaves the battlefield, the exiled card's owner manifests dread.
+Crew 1",W,W,rare,PDSK,Duskmourn: House of Horror Promos,37p,2,2,,Flying;Crew
+Unidentified Hovership,{1}{W}{W},3.0,Artifact — Vehicle,"Flying
+When this Vehicle enters, exile up to one target creature with toughness 5 or less.
+When this Vehicle leaves the battlefield, the exiled card's owner manifests dread.
+Crew 1",W,W,rare,PDSK,Duskmourn: House of Horror Promos,37s,2,2,,Flying;Crew
+Unidentified Hovership,{1}{W}{W},3.0,Artifact — Vehicle,"Flying
+When this Vehicle enters, exile up to one target creature with toughness 5 or less.
+When this Vehicle leaves the battlefield, the exiled card's owner manifests dread.
+Crew 1",W,W,rare,DSK,Duskmourn: House of Horror,37,2,2,,Flying;Crew
+Uthros Scanship,{3}{U},4.0,Artifact — Spacecraft,"When this Spacecraft enters, draw two cards, then discard a card.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 8+.)
+8+ | Flying",U,U,uncommon,EOE,Edge of Eternities,85,4,4,,Station

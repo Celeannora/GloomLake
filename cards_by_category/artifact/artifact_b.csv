@@ -1,0 +1,158 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Bagel and Schmear,{1},1.0,Artifact — Food,"Share — {W}, {T}, Sacrifice this artifact: Put a +1/+1 counter on up to one target creature. Draw a card. Activate only as a sorcery.
+Nosh — {2}, {T}, Sacrifice this artifact: You gain 3 life and draw a card.",,W,common,SPM,Marvel's Spider-Man,161,,,,
+Bagel and Schmear,{1},1.0,Artifact — Food,"Share — {W}, {T}, Sacrifice this artifact: Put a +1/+1 counter on up to one target creature. Draw a card. Activate only as a sorcery.
+Nosh — {2}, {T}, Sacrifice this artifact: You gain 3 life and draw a card.",,W,common,OM1,Through the Omenpaths,170,,,,
+"Balamb Garden, SeeD Academy // Balamb Garden, Airborne",,0.0,Land — Town // Legendary Artifact — Vehicle,,,"G,U",rare,FIN,Final Fantasy,272,,,,Flying;Transform;Crew
+"Balamb Garden, SeeD Academy // Balamb Garden, Airborne",,0.0,Land — Town // Legendary Artifact — Vehicle,,,"G,U",rare,FIN,Final Fantasy,354,,,,Flying;Transform;Crew
+"Balamb Garden, SeeD Academy // Balamb Garden, Airborne",,0.0,Land — Town // Legendary Artifact — Vehicle,,,"G,U",rare,PFIN,Final Fantasy Promos,272s,,,,Flying;Transform;Crew
+Bandit's Haul,{3},3.0,Artifact,"Whenever you commit a crime, put a loot counter on this artifact. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)
+{T}: Add one mana of any color.
+{2}, {T}, Remove two loot counters from this artifact: Draw a card.",,,uncommon,OTJ,Outlaws of Thunder Junction,240,,,,
+Banner of Kinship,{5},5.0,Artifact,"As this artifact enters, choose a creature type. This artifact enters with a fellowship counter on it for each creature you control of the chosen type.
+Creatures you control of the chosen type get +1/+1 for each fellowship counter on this artifact.",,,rare,FDN,Foundations,352,,,,
+Banner of Kinship,{5},5.0,Artifact,"As this artifact enters, choose a creature type. This artifact enters with a fellowship counter on it for each creature you control of the chosen type.
+Creatures you control of the chosen type get +1/+1 for each fellowship counter on this artifact.",,,rare,FDN,Foundations,413,,,,
+Banner of Kinship,{5},5.0,Artifact,"As this artifact enters, choose a creature type. This artifact enters with a fellowship counter on it for each creature you control of the chosen type.
+Creatures you control of the chosen type get +1/+1 for each fellowship counter on this artifact.",,,rare,PFDN,Foundations Promos,127s,,,,
+Banner of Kinship,{5},5.0,Artifact,"As this artifact enters, choose a creature type. This artifact enters with a fellowship counter on it for each creature you control of the chosen type.
+Creatures you control of the chosen type get +1/+1 for each fellowship counter on this artifact.",,,rare,PFDN,Foundations Promos,127p,,,,
+Banner of Kinship,{5},5.0,Artifact,"As this artifact enters, choose a creature type. This artifact enters with a fellowship counter on it for each creature you control of the chosen type.
+Creatures you control of the chosen type get +1/+1 for each fellowship counter on this artifact.",,,rare,FDN,Foundations,127,,,,
+Banner of Kinship,{5},5.0,Artifact,"As this artifact enters, choose a creature type. This artifact enters with a fellowship counter on it for each creature you control of the chosen type.
+Creatures you control of the chosen type get +1/+1 for each fellowship counter on this artifact.",,,rare,FDN,Foundations,484,,,,
+Barbed Bloodletter,{1}{B},2.0,Artifact — Equipment,"Flash
+When this Equipment enters, attach it to target creature you control. That creature gains wither until end of turn. (It deals damage to creatures in the form of -1/-1 counters.)
+Equipped creature gets +1/+2.
+Equip {2}",B,B,common,ECL,Lorwyn Eclipsed,86,,,,Equip;Flash
+Bard's Bow,{2}{G},3.0,Artifact — Equipment,"Job select (When this Equipment enters, create a 1/1 colorless Hero creature token, then attach this to it.)
+Equipped creature gets +2/+2, has reach, and is a Bard in addition to its other types.
+Perseus's Bow — Equip {6} ({6}: Attach to target creature you control. Equip only as a sorcery.)",G,G,common,FIN,Final Fantasy,174,,,,Job select;Equip
+Bark of Doran,{1}{W},2.0,Artifact — Equipment,"Equipped creature gets +0/+1.
+As long as equipped creature's toughness is greater than its power, it assigns combat damage equal to its toughness rather than its power.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",W,W,uncommon,ECL,Lorwyn Eclipsed,6,,,,Equip
+Barrels of Blasting Jelly,{1},1.0,Artifact,"{1}: Add one mana of any color. Activate only once each turn.
+{5}, {T}, Sacrifice this artifact: It deals 5 damage to target creature.",,,common,TLA,Avatar: The Last Airbender,254,,,,
+Baseball Bat,{G}{W},2.0,Artifact — Equipment,"When this Equipment enters, attach it to target creature you control.
+Equipped creature gets +1/+1.
+Whenever equipped creature attacks, tap up to one target creature.
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)","G,W","G,W",uncommon,DSK,Duskmourn: House of Horror,209,,,,Equip
+Basilisk Collar,{1},1.0,Artifact — Equipment,"Equipped creature has deathtouch and lifelink. (Any amount of damage it deals to a creature is enough to destroy it. Damage dealt by this creature also causes you to gain that much life.)
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",,,rare,CLB,Commander Legends: Battle for Baldur's Gate,595,,,,Equip
+Basilisk Collar,{1},1.0,Artifact — Equipment,"Equipped creature has deathtouch and lifelink. (Any amount of damage it deals to a creature is enough to destroy it. Damage dealt by this creature also causes you to gain that much life.)
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",,,rare,AFC,Forgotten Realms Commander,199,,,,Equip
+Basilisk Collar,{1},1.0,Artifact — Equipment,"Equipped creature has deathtouch and lifelink. (Any amount of damage it deals to a creature is enough to destroy it. Damage dealt by this creature also causes you to gain that much life.)
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",,,rare,SLD,Secret Lair Drop,1920,,,,Equip
+Basilisk Collar,{1},1.0,Artifact — Equipment,"Equipped creature has deathtouch and lifelink. (Any amount of damage it deals to a creature is enough to destroy it. Damage dealt by this creature also causes you to gain that much life.)
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",,,rare,PIP,Fallout,1008,,,,Equip
+Basilisk Collar,{1},1.0,Artifact — Equipment,"Equipped creature has deathtouch and lifelink. (Any amount of damage it deals to a creature is enough to destroy it. Damage dealt by this creature also causes you to gain that much life.)
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",,,rare,SLD,Secret Lair Drop,1925,,,,Equip
+Basilisk Collar,{1},1.0,Artifact — Equipment,"Equipped creature has deathtouch and lifelink. (Any amount of damage it deals to a creature is enough to destroy it. Damage dealt by this creature also causes you to gain that much life.)
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",,,rare,2XM,Double Masters,233,,,,Equip
+Basilisk Collar,{1},1.0,Artifact — Equipment,"Equipped creature has deathtouch and lifelink. (Any amount of damage it deals to a creature is enough to destroy it. Damage dealt by this creature also causes you to gain that much life.)
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",,,rare,DSC,Duskmourn: House of Horror Commander,241,,,,Equip
+Basilisk Collar,{1},1.0,Artifact — Equipment,"Equipped creature has deathtouch and lifelink. (Any amount of damage it deals to a creature is enough to destroy it. Damage dealt by this creature also causes you to gain that much life.)
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",,,rare,CLB,Commander Legends: Battle for Baldur's Gate,300,,,,Equip
+Basilisk Collar,{1},1.0,Artifact — Equipment,"Equipped creature has deathtouch and lifelink. (Any amount of damage it deals to a creature is enough to destroy it. Damage dealt by this creature also causes you to gain that much life.)
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",,,rare,WWK,Worldwake,122,,,,Equip
+Basilisk Collar,{1},1.0,Artifact — Equipment,"Equipped creature has deathtouch and lifelink. (Any amount of damage it deals to a creature is enough to destroy it. Damage dealt by this creature also causes you to gain that much life.)
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",,,rare,PIP,Fallout,225,,,,Equip
+Basilisk Collar,{1},1.0,Artifact — Equipment,"Equipped creature has deathtouch and lifelink. (Any amount of damage it deals to a creature is enough to destroy it. Damage dealt by this creature also causes you to gain that much life.)
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",,,rare,FDN,Foundations,669,,,,Equip
+Basilisk Collar,{1},1.0,Artifact — Equipment,"Equipped creature has deathtouch and lifelink. (Any amount of damage it deals to a creature is enough to destroy it. Damage dealt by this creature also causes you to gain that much life.)
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",,,rare,PIP,Fallout,480,,,,Equip
+Basilisk Collar,{1},1.0,Artifact — Equipment,"Equipped creature has deathtouch and lifelink. (Any amount of damage it deals to a creature is enough to destroy it. Damage dealt by this creature also causes you to gain that much life.)
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",,,rare,MM3,Modern Masters 2017,216,,,,Equip
+Basilisk Collar,{1},1.0,Artifact — Equipment,"Equipped creature has deathtouch and lifelink. (Any amount of damage it deals to a creature is enough to destroy it. Damage dealt by this creature also causes you to gain that much life.)
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",,,rare,PIP,Fallout,753,,,,Equip
+Basilisk Collar,{1},1.0,Artifact — Equipment,"Equipped creature has deathtouch and lifelink. (Any amount of damage it deals to a creature is enough to destroy it. Damage dealt by this creature also causes you to gain that much life.)
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",,,rare,PLST,The List,2XM-233,,,,Equip
+Basilisk Collar,{1},1.0,Artifact — Equipment,"Equipped creature has deathtouch and lifelink. (Any amount of damage it deals to a creature is enough to destroy it. Damage dealt by this creature also causes you to gain that much life.)
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",,,rare,HBG,Alchemy Horizons: Baldur's Gate,253,,,,Equip
+Basilisk Collar,{1},1.0,Artifact — Equipment,"Equipped creature has deathtouch and lifelink. (Any amount of damage it deals to a creature is enough to destroy it. Damage dealt by this creature also causes you to gain that much life.)
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",,,rare,PCLB,Battle for Baldur's Gate Promos,300s,,,,Equip
+Basilisk Collar,{1},1.0,Artifact — Equipment,"Equipped creature has deathtouch and lifelink. (Any amount of damage it deals to a creature is enough to destroy it. Damage dealt by this creature also causes you to gain that much life.)
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",,,rare,PLST,The List,MM3-216,,,,Equip
+Bear Trap,{1},1.0,Artifact,"Flash
+{3}, {T}, Sacrifice this artifact: It deals 3 damage to target creature.",,,common,DSK,Duskmourn: House of Horror,243,,,,Flash
+Bender's Waterskin,{3},3.0,Artifact,"Untap this artifact during each other player's untap step.
+{T}: Add one mana of any color.",,,common,TLA,Avatar: The Last Airbender,255,,,,
+Bespoke Battlegarb,{1}{R},2.0,Artifact — Equipment,"Equipped creature gets +2/+0.
+Celebration — At the beginning of combat on your turn, if two or more nonland permanents entered the battlefield under your control this turn, attach this Equipment to up to one target creature you control.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",R,R,common,WOE,Wilds of Eldraine,122,,,,Celebration;Equip
+Bespoke Bō,{2}{U},3.0,Artifact — Equipment,"When this Equipment enters, return up to one other target nonland permanent to its owner's hand.
+Equipped creature gets +2/+1 and has vigilance.
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",U,U,uncommon,TMT,Teenage Mutant Ninja Turtles,31,,,,Equip
+Biorganic Carapace,{2}{W}{U},4.0,Artifact — Equipment,"When this Equipment enters, attach it to target creature you control.
+Equipped creature gets +2/+2 and has ""Whenever this creature deals combat damage to a player, draw a card for each modified creature you control."" (Equipment, Auras you control, and counters are modifications.)
+Equip {2}","U,W","U,W",rare,SPM,Marvel's Spider-Man,269,,,,Equip
+Biorganic Carapace,{2}{W}{U},4.0,Artifact — Equipment,"When this Equipment enters, attach it to target creature you control.
+Equipped creature gets +2/+2 and has ""Whenever this creature deals combat damage to a player, draw a card for each modified creature you control."" (Equipment, Auras you control, and counters are modifications.)
+Equip {2}","U,W","U,W",rare,SPM,Marvel's Spider-Man,124,,,,Equip
+Biorganic Carapace,{2}{W}{U},4.0,Artifact — Equipment,"When this Equipment enters, attach it to target creature you control.
+Equipped creature gets +2/+2 and has ""Whenever this creature deals combat damage to a player, draw a card for each modified creature you control."" (Equipment, Auras you control, and counters are modifications.)
+Equip {2}","U,W","U,W",rare,PSPM,Marvel's Spider-Man Promos,124s,,,,Equip
+Biorganic Carapace,{2}{W}{U},4.0,Artifact — Equipment,"When this Equipment enters, attach it to target creature you control.
+Equipped creature gets +2/+2 and has ""Whenever this creature deals combat damage to a player, draw a card for each modified creature you control."" (Equipment, Auras you control, and counters are modifications.)
+Equip {2}","U,W","U,W",rare,OM1,Through the Omenpaths,125,,,,Equip
+Black Mage's Rod,{1}{B},2.0,Artifact — Equipment,"Job select (When this Equipment enters, create a 1/1 colorless Hero creature token, then attach this to it.)
+Equipped creature gets +1/+0, has ""Whenever you cast a noncreature spell, this creature deals 1 damage to each opponent,"" and is a Wizard in addition to its other types.
+Equip {3}",B,B,common,FIN,Final Fantasy,90,,,,Job select;Equip
+Blitzball,{3},3.0,Artifact,"{T}: Add one mana of any color.
+GOOOOAAAALLL! — {T}, Sacrifice this artifact: Draw two cards. Activate only if an opponent was dealt combat damage by a legendary creature this turn.",,,common,FIN,Final Fantasy,254,,,,GOOOOAAAALLL!
+Bloodthorn Flail,{B},1.0,Artifact — Equipment,"Equipped creature gets +2/+1.
+Equip—Pay {3} or discard a card.",B,B,uncommon,LCI,The Lost Caverns of Ixalan,93,,,,Equip
+Boom Box,{2},2.0,Artifact,"{6}, {T}, Sacrifice this artifact: Destroy up to one target artifact, up to one target creature, and up to one target land.",,,uncommon,OTJ,Outlaws of Thunder Junction,241,,,,
+Boommobile,{2}{R}{R},4.0,Artifact — Vehicle,"When this Vehicle enters, add four mana of any one color. Spend this mana only to activate abilities.
+Exhaust — {X}{2}{R}: This Vehicle deals X damage to any target. Put a +1/+1 counter on this Vehicle. (Activate each exhaust ability only once.)
+Crew 2",R,R,rare,DFT,Aetherdrift,310,5,5,,Crew;Exhaust
+Boommobile,{2}{R}{R},4.0,Artifact — Vehicle,"When this Vehicle enters, add four mana of any one color. Spend this mana only to activate abilities.
+Exhaust — {X}{2}{R}: This Vehicle deals X damage to any target. Put a +1/+1 counter on this Vehicle. (Activate each exhaust ability only once.)
+Crew 2",R,R,rare,DFT,Aetherdrift,454,5,5,,Crew;Exhaust
+Boommobile,{2}{R}{R},4.0,Artifact — Vehicle,"When this Vehicle enters, add four mana of any one color. Spend this mana only to activate abilities.
+Exhaust — {X}{2}{R}: This Vehicle deals X damage to any target. Put a +1/+1 counter on this Vehicle. (Activate each exhaust ability only once.)
+Crew 2",R,R,rare,PDFT,Aetherdrift Promos,113s,5,5,,Crew;Exhaust
+Boommobile,{2}{R}{R},4.0,Artifact — Vehicle,"When this Vehicle enters, add four mana of any one color. Spend this mana only to activate abilities.
+Exhaust — {X}{2}{R}: This Vehicle deals X damage to any target. Put a +1/+1 counter on this Vehicle. (Activate each exhaust ability only once.)
+Crew 2",R,R,rare,DFT,Aetherdrift,113,5,5,,Crew;Exhaust
+Boommobile,{2}{R}{R},4.0,Artifact — Vehicle,"When this Vehicle enters, add four mana of any one color. Spend this mana only to activate abilities.
+Exhaust — {X}{2}{R}: This Vehicle deals X damage to any target. Put a +1/+1 counter on this Vehicle. (Activate each exhaust ability only once.)
+Crew 2",R,R,rare,PDFT,Aetherdrift Promos,113p,5,5,,Crew;Exhaust
+Boommobile,{2}{R}{R},4.0,Artifact — Vehicle,"When this Vehicle enters, add four mana of any one color. Spend this mana only to activate abilities.
+Exhaust — {X}{2}{R}: This Vehicle deals X damage to any target. Put a +1/+1 counter on this Vehicle. (Activate each exhaust ability only once.)
+Crew 2",R,R,rare,DFT,Aetherdrift,526,5,5,,Crew;Exhaust
+Boosted Sloop,{1}{U}{R},3.0,Artifact — Vehicle,"Menace
+Whenever you attack, draw a card, then discard a card.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)","R,U","R,U",uncommon,DFT,Aetherdrift,190,3,3,,Crew;Menace
+Boosted Sloop,{1}{U}{R},3.0,Artifact — Vehicle,"Menace
+Whenever you attack, draw a card, then discard a card.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)","R,U","R,U",uncommon,DFT,Aetherdrift,320,3,3,,Crew;Menace
+Braided Net // Braided Quipu,,3.0,Artifact // Artifact,,,U,rare,LCI,The Lost Caverns of Ixalan,47,,,,Craft
+Braided Net // Braided Quipu,,3.0,Artifact // Artifact,,,U,rare,LCI,The Lost Caverns of Ixalan,360,,,,Craft
+"Brass's Tunnel-Grinder // Tecutlan, the Searing Rift",,3.0,Legendary Artifact // Legendary Land — Cave,,,R,rare,LCI,The Lost Caverns of Ixalan,135,,,,Transform;Discover
+"Brass's Tunnel-Grinder // Tecutlan, the Searing Rift",,3.0,Legendary Artifact // Legendary Land — Cave,,,R,rare,LCI,The Lost Caverns of Ixalan,373,,,,Transform;Discover
+Broadcast Rambler,{4}{W},5.0,Artifact — Vehicle,"When this Vehicle enters, create a 1/1 colorless Thopter artifact creature token with flying.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)",W,W,common,DFT,Aetherdrift,6,5,4,,Crew
+Broadcast Rambler,{4}{W},5.0,Artifact — Vehicle,"When this Vehicle enters, create a 1/1 colorless Thopter artifact creature token with flying.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)",W,W,common,DFT,Aetherdrift,293,5,4,,Crew
+Broodheart Engine,{B}{G},2.0,Artifact,"At the beginning of your upkeep, surveil 1.
+{2}{B}{G}, {T}, Sacrifice this artifact: Return target creature or Vehicle card from your graveyard to the battlefield. Activate only as a sorcery.","B,G","B,G",uncommon,DFT,Aetherdrift,193,,,,Surveil
+Bumbleflower's Sharepot,{2},2.0,Artifact,"When this artifact enters, create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this token: You gain 3 life."")
+{5}, {T}, Sacrifice this artifact: Destroy target nonland permanent. Activate only as a sorcery.",,,common,BLB,Bloomburrow,244,,,,Food
+Buried Treasure,{2},2.0,Artifact — Treasure,"{T}, Sacrifice this artifact: Add one mana of any color.
+{5}, Exile this card from your graveyard: Discover 5. Activate only as a sorcery. (Exile cards from the top of your library until you exile a nonland card with mana value 5 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)",,,common,LCI,The Lost Caverns of Ixalan,246,,,,Discover
+Burner Rocket,{1}{R},2.0,Artifact — Vehicle,"Flash
+When this Vehicle enters, target creature you control gets +2/+0 and gains trample until end of turn.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)",R,R,common,DFT,Aetherdrift,311,3,1,,Crew;Flash
+Burner Rocket,{1}{R},2.0,Artifact — Vehicle,"Flash
+When this Vehicle enters, target creature you control gets +2/+0 and gains trample until end of turn.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)",R,R,common,DFT,Aetherdrift,114,3,1,,Crew;Flash
+Buster Sword,{3},3.0,Artifact — Equipment,"Equipped creature gets +3/+2.
+Whenever equipped creature deals combat damage to a player, draw a card, then you may cast a spell from your hand with mana value less than or equal to that damage without paying its mana cost.
+Equip {2}",,,mythic,FIN,Final Fantasy,255,,,,Equip
+Buster Sword,{3},3.0,Artifact — Equipment,"Equipped creature gets +3/+2.
+Whenever equipped creature deals combat damage to a player, draw a card, then you may cast a spell from your hand with mana value less than or equal to that damage without paying its mana cost.
+Equip {2}",,,mythic,PFIN,Final Fantasy Promos,255s,,,,Equip
+Buster Sword,{3},3.0,Artifact — Equipment,"Equipped creature gets +3/+2.
+Whenever equipped creature deals combat damage to a player, draw a card, then you may cast a spell from your hand with mana value less than or equal to that damage without paying its mana cost.
+Equip {2}",,,mythic,FIN,Final Fantasy,351,,,,Equip

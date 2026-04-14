@@ -1,0 +1,398 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+G'raha Tia,{4}{W},5.0,Legendary Creature — Cat Archer,"Reach
+The Allagan Eye — Whenever one or more other creatures and/or artifacts you control die, draw a card. This ability triggers only once each turn.",W,W,uncommon,FIN,Final Fantasy,21,3,5,,Reach;The Allagan Eye
+G'raha Tia,{4}{W},5.0,Legendary Creature — Cat Archer,"Reach
+The Allagan Eye — Whenever one or more other creatures and/or artifacts you control die, draw a card. This ability triggers only once each turn.",W,W,uncommon,FIN,Final Fantasy,429,3,5,,Reach;The Allagan Eye
+Gadget Technician,{2}{U}{R},4.0,Creature — Goblin Artificer,"When this creature enters or is turned face up, create a 1/1 colorless Thopter artifact creature token with flying.
+Disguise {U/R}{U/R} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)","R,U","R,U",common,MKM,Murders at Karlov Manor,204,3,2,,Disguise
+Gaelicat,{2}{W},3.0,Creature — Cat,"Flying, vigilance
+As long as you control two or more artifacts, this creature gets +2/+0.",W,W,common,FIN,Final Fantasy,22,1,3,,Flying;Vigilance
+Gaius van Baelsar,{2}{B}{B},4.0,Legendary Creature — Human Soldier,"When Gaius van Baelsar enters, choose one —
+• Each player sacrifices a creature token of their choice.
+• Each player sacrifices a nontoken creature of their choice.
+• Each player sacrifices an enchantment of their choice.",B,B,uncommon,FIN,Final Fantasy,447,3,2,,
+Gaius van Baelsar,{2}{B}{B},4.0,Legendary Creature — Human Soldier,"When Gaius van Baelsar enters, choose one —
+• Each player sacrifices a creature token of their choice.
+• Each player sacrifices a nontoken creature of their choice.
+• Each player sacrifices an enchantment of their choice.",B,B,uncommon,FIN,Final Fantasy,102,3,2,,
+Galactic Wayfarer,{2}{G},3.0,Creature — Human Scout,"When this creature enters, create a Lander token. (It's an artifact with ""{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."")",G,G,common,EOE,Edge of Eternities,185,3,3,,
+Galewind Moose,{4}{G}{G},6.0,Creature — Elemental Elk,"Flash
+Vigilance, reach, trample",G,G,uncommon,BLB,Bloomburrow,173,6,6,,Reach;Vigilance;Trample;Flash
+Gallant Citizen,{G/W}{G/W},2.0,Creature — Human Citizen,"When this creature enters, draw a card.","G,W","G,W",common,OM1,Through the Omenpaths,137,1,1,,
+Gallant Citizen,{G/W}{G/W},2.0,Creature — Human Citizen,"When this creature enters, draw a card.","G,W","G,W",common,SPM,Marvel's Spider-Man,129,1,1,,
+Gallant Fowlknight,{3}{W},4.0,Creature — Kithkin Knight,"When this creature enters, creatures you control get +1/+0 until end of turn. Kithkin creatures you control also gain first strike until end of turn.",W,W,common,ECL,Lorwyn Eclipsed,17,3,4,,
+Gallant Pie-Wielder,{2}{W},3.0,Creature — Dwarf Knight,"First strike
+Celebration — This creature has double strike as long as two or more nonland permanents entered the battlefield under your control this turn.",W,W,uncommon,WOE,Wilds of Eldraine,15,2,3,,Celebration;First strike
+Galvanic Giant // Storm Reading,{3}{U} // {5}{U}{U},4.0,Creature — Giant Wizard // Instant — Adventure,,U,U,uncommon,WOE,Wilds of Eldraine,52,3,3,,
+Gangly Stompling,{2}{R/G},3.0,Creature — Shapeshifter,"Changeling (This card is every creature type.)
+Trample","G,R","G,R",common,ECL,Lorwyn Eclipsed,226,4,2,,Trample;Changeling
+Gargantuan Leech,{7}{B},8.0,Creature — Leech,"This spell costs {1} less to cast for each Cave you control and each Cave card in your graveyard.
+Lifelink",B,B,uncommon,LCI,The Lost Caverns of Ixalan,107,5,5,,Lifelink
+"Garland, Knight of Cornelia // Chaos, the Endless",,2.0,Legendary Creature — Human Knight // Legendary Creature — Demon,,,"B,R",uncommon,FIN,Final Fantasy,486,,,,Flying;Surveil;Transform
+"Garland, Knight of Cornelia // Chaos, the Endless",,2.0,Legendary Creature — Human Knight // Legendary Creature — Demon,,,"B,R",uncommon,FIN,Final Fantasy,221,,,,Flying;Surveil;Transform
+"Garna, Bloodfist of Keld",{1}{B}{R}{R},4.0,Legendary Creature — Human Berserker,"Whenever another creature you control dies, draw a card if it was attacking. Otherwise, Garna deals 1 damage to each opponent.","B,R","B,R",uncommon,DMU,Dominaria United,299,4,3,,
+"Garna, Bloodfist of Keld",{1}{B}{R}{R},4.0,Legendary Creature — Human Berserker,"Whenever another creature you control dies, draw a card if it was attacking. Otherwise, Garna deals 1 damage to each opponent.","B,R","B,R",uncommon,DMU,Dominaria United,200,4,3,,
+"Garna, Bloodfist of Keld",{1}{B}{R}{R},4.0,Legendary Creature — Human Berserker,"Whenever another creature you control dies, draw a card if it was attacking. Otherwise, Garna deals 1 damage to each opponent.","B,R","B,R",uncommon,FDN,Foundations,658,4,3,,
+"Garna, Bloodfist of Keld",{1}{B}{R}{R},4.0,Legendary Creature — Human Berserker,"Whenever another creature you control dies, draw a card if it was attacking. Otherwise, Garna deals 1 damage to each opponent.","B,R","B,R",uncommon,DMU,Dominaria United,340,4,3,,
+"Garnet, Princess of Alexandria",{G}{W},2.0,Legendary Creature — Human Noble Cleric,"Lifelink
+Whenever Garnet attacks, you may remove a lore counter from each of any number of Sagas you control. Put a +1/+1 counter on Garnet for each lore counter removed this way.","G,W","G,W",uncommon,FIN,Final Fantasy,487,2,2,,Lifelink
+"Garnet, Princess of Alexandria",{G}{W},2.0,Legendary Creature — Human Noble Cleric,"Lifelink
+Whenever Garnet attacks, you may remove a lore counter from each of any number of Sagas you control. Put a +1/+1 counter on Garnet for each lore counter removed this way.","G,W","G,W",uncommon,FIN,Final Fantasy,222,2,2,,Lifelink
+Gas Guzzler,{B},1.0,Creature — Vampire Rogue,"Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+This creature enters tapped.
+Max speed — {B}, Sacrifice another creature or Vehicle: Draw a card.",B,B,rare,PDFT,Aetherdrift Promos,85p,2,1,,Max speed;Start your engines!
+Gas Guzzler,{B},1.0,Creature — Vampire Rogue,"Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+This creature enters tapped.
+Max speed — {B}, Sacrifice another creature or Vehicle: Draw a card.",B,B,rare,DFT,Aetherdrift,338,2,1,,Max speed;Start your engines!
+Gas Guzzler,{B},1.0,Creature — Vampire Rogue,"Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+This creature enters tapped.
+Max speed — {B}, Sacrifice another creature or Vehicle: Draw a card.",B,B,rare,DFT,Aetherdrift,537,2,1,,Max speed;Start your engines!
+Gas Guzzler,{B},1.0,Creature — Vampire Rogue,"Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+This creature enters tapped.
+Max speed — {B}, Sacrifice another creature or Vehicle: Draw a card.",B,B,rare,DFT,Aetherdrift,85,2,1,,Max speed;Start your engines!
+Gas Guzzler,{B},1.0,Creature — Vampire Rogue,"Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+This creature enters tapped.
+Max speed — {B}, Sacrifice another creature or Vehicle: Draw a card.",B,B,rare,DFT,Aetherdrift,449,2,1,,Max speed;Start your engines!
+Gas Guzzler,{B},1.0,Creature — Vampire Rogue,"Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+This creature enters tapped.
+Max speed — {B}, Sacrifice another creature or Vehicle: Draw a card.",B,B,rare,PDFT,Aetherdrift Promos,85s,2,1,,Max speed;Start your engines!
+Gastal Blockbuster,{2}{R},3.0,Creature — Human Berserker,"When this creature enters, you may sacrifice a creature or Vehicle. When you do, destroy target artifact an opponent controls.",R,R,common,DFT,Aetherdrift,128,3,2,,
+Gastal Raider,{2}{B},3.0,Creature — Vampire Rogue,"Start your engines!
+When this creature enters, target opponent reveals their hand. You choose an instant or sorcery card from it. That player discards that card.
+Max speed — This creature gets +1/+1 and has menace.",B,B,uncommon,DFT,Aetherdrift,418,2,1,,Max speed;Start your engines!
+Gastal Raider,{2}{B},3.0,Creature — Vampire Rogue,"Start your engines!
+When this creature enters, target opponent reveals their hand. You choose an instant or sorcery card from it. That player discards that card.
+Max speed — This creature gets +1/+1 and has menace.",B,B,uncommon,DFT,Aetherdrift,86,2,1,,Max speed;Start your engines!
+Gastal Thrillseeker,{B}{R},2.0,Creature — Lizard Berserker,"Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+When this creature enters, it deals 1 damage to target opponent and you gain 1 life.
+Max speed — This creature has deathtouch and haste.","B,R","B,R",uncommon,DFT,Aetherdrift,205,2,3,,Max speed;Start your engines!
+Gate Colossus,{8},8.0,Artifact Creature — Construct,"Affinity for Gates (This spell costs {1} less to cast for each Gate you control.)
+This creature can't be blocked by creatures with power 2 or less.
+Whenever a Gate you control enters, you may put this card from your graveyard on top of your library.",,,uncommon,PRM,Magic Online Promos,71592,8,8,,Affinity
+Gate Colossus,{8},8.0,Artifact Creature — Construct,"Affinity for Gates (This spell costs {1} less to cast for each Gate you control.)
+This creature can't be blocked by creatures with power 2 or less.
+Whenever a Gate you control enters, you may put this card from your graveyard on top of your library.",,,uncommon,PIO,Pioneer Masters,255,8,8,,Affinity
+Gate Colossus,{8},8.0,Artifact Creature — Construct,"Affinity for Gates (This spell costs {1} less to cast for each Gate you control.)
+This creature can't be blocked by creatures with power 2 or less.
+Whenever a Gate you control enters, you may put this card from your graveyard on top of your library.",,,uncommon,PRNA,Ravnica Allegiance Promos,232,8,8,,Affinity
+Gate Colossus,{8},8.0,Artifact Creature — Construct,"Affinity for Gates (This spell costs {1} less to cast for each Gate you control.)
+This creature can't be blocked by creatures with power 2 or less.
+Whenever a Gate you control enters, you may put this card from your graveyard on top of your library.",,,uncommon,CLB,Commander Legends: Battle for Baldur's Gate,315,8,8,,Affinity
+Gate Colossus,{8},8.0,Artifact Creature — Construct,"Affinity for Gates (This spell costs {1} less to cast for each Gate you control.)
+This creature can't be blocked by creatures with power 2 or less.
+Whenever a Gate you control enters, you may put this card from your graveyard on top of your library.",,,uncommon,RNA,Ravnica Allegiance,232,8,8,,Affinity
+Gate Colossus,{8},8.0,Artifact Creature — Construct,"Affinity for Gates (This spell costs {1} less to cast for each Gate you control.)
+This creature can't be blocked by creatures with power 2 or less.
+Whenever a Gate you control enters, you may put this card from your graveyard on top of your library.",,,uncommon,RVR,Ravnica Remastered,257,8,8,,Affinity
+Gate Colossus,{8},8.0,Artifact Creature — Construct,"Affinity for Gates (This spell costs {1} less to cast for each Gate you control.)
+This creature can't be blocked by creatures with power 2 or less.
+Whenever a Gate you control enters, you may put this card from your graveyard on top of your library.",,,uncommon,FDN,Foundations,675,8,8,,Affinity
+Gatekeeper of Malakir,{B}{B},2.0,Creature — Vampire Warrior,"Kicker {B} (You may pay an additional {B} as you cast this spell.)
+When this creature enters, if it was kicked, target player sacrifices a creature of their choice.",B,B,uncommon,PLST,The List,ZEN-89,2,2,,Kicker
+Gatekeeper of Malakir,{B}{B},2.0,Creature — Vampire Warrior,"Kicker {B} (You may pay an additional {B} as you cast this spell.)
+When this creature enters, if it was kicked, target player sacrifices a creature of their choice.",B,B,rare,F10,Friday Night Magic 2010,11,2,2,,Kicker
+Gatekeeper of Malakir,{B}{B},2.0,Creature — Vampire Warrior,"Kicker {B} (You may pay an additional {B} as you cast this spell.)
+When this creature enters, if it was kicked, target player sacrifices a creature of their choice.",B,B,uncommon,PRM,Magic Online Promos,37853,2,2,,Kicker
+Gatekeeper of Malakir,{B}{B},2.0,Creature — Vampire Warrior,"Kicker {B} (You may pay an additional {B} as you cast this spell.)
+When this creature enters, if it was kicked, target player sacrifices a creature of their choice.",B,B,uncommon,FDN,Foundations,713,2,2,,Kicker
+Gatekeeper of Malakir,{B}{B},2.0,Creature — Vampire Warrior,"Kicker {B} (You may pay an additional {B} as you cast this spell.)
+When this creature enters, if it was kicked, target player sacrifices a creature of their choice.",B,B,uncommon,ZEN,Zendikar,89,2,2,,Kicker
+Gatekeeper of Malakir,{B}{B},2.0,Creature — Vampire Warrior,"Kicker {B} (You may pay an additional {B} as you cast this spell.)
+When this creature enters, if it was kicked, target player sacrifices a creature of their choice.",B,B,uncommon,DDK,Duel Decks: Sorin vs. Tibalt,8,2,2,,Kicker
+Gateway Sneak,{2}{U},3.0,Creature — Vedalken Rogue,"Whenever a Gate you control enters, this creature can't be blocked this turn.
+Whenever this creature deals combat damage to a player, draw a card.",U,U,uncommon,FDN,Foundations,592,1,3,,
+Gateway Sneak,{2}{U},3.0,Creature — Vedalken Rogue,"Whenever a Gate you control enters, this creature can't be blocked this turn.
+Whenever this creature deals combat damage to a player, draw a card.",U,U,uncommon,RNA,Ravnica Allegiance,40,1,3,,
+Gearbane Orangutan,{2}{R},3.0,Creature — Ape,"Reach
+When this creature enters, choose one —
+• Destroy up to one target artifact.
+• Sacrifice an artifact. If you do, put two +1/+1 counters on this creature.",R,R,common,MKM,Murders at Karlov Manor,129,2,2,,Reach
+Gearseeker Serpent,{5}{U}{U},7.0,Creature — Serpent,"Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+{5}{U}: This creature can't be blocked this turn.",U,U,common,DFT,Aetherdrift,43,5,6,,Affinity
+Gearseeker Serpent,{5}{U}{U},7.0,Creature — Serpent,"Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+{5}{U}: This creature can't be blocked this turn.",U,U,common,J22,Jumpstart 2022,302,5,6,,Affinity
+Gearseeker Serpent,{5}{U}{U},7.0,Creature — Serpent,"Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+{5}{U}: This creature can't be blocked this turn.",U,U,common,KLR,Kaladesh Remastered,48,5,6,,Affinity
+Gearseeker Serpent,{5}{U}{U},7.0,Creature — Serpent,"Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+{5}{U}: This creature can't be blocked this turn.",U,U,common,KLD,Kaladesh,48,5,6,,Affinity
+Gearseeker Serpent,{5}{U}{U},7.0,Creature — Serpent,"Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+{5}{U}: This creature can't be blocked this turn.",U,U,common,J25,Foundations Jumpstart,314,5,6,,Affinity
+Gene Pollinator,{G},1.0,Artifact Creature — Robot Insect,"{T}, Tap an untapped permanent you control: Add one mana of any color.",G,G,common,EOE,Edge of Eternities,186,1,2,,
+Genemorph Imago,{G}{U},2.0,Creature — Insect Druid,"Flying
+Landfall — Whenever a land you control enters, target creature has base power and toughness 3/3 until end of turn. If you control six or more lands, that creature has base power and toughness 6/6 until end of turn instead.","G,U","G,U",rare,EOE,Edge of Eternities,299,1,3,,Landfall;Flying
+Genemorph Imago,{G}{U},2.0,Creature — Insect Druid,"Flying
+Landfall — Whenever a land you control enters, target creature has base power and toughness 3/3 until end of turn. If you control six or more lands, that creature has base power and toughness 6/6 until end of turn instead.","G,U","G,U",rare,EOE,Edge of Eternities,217,1,3,,Landfall;Flying
+Genemorph Imago,{G}{U},2.0,Creature — Insect Druid,"Flying
+Landfall — Whenever a land you control enters, target creature has base power and toughness 3/3 until end of turn. If you control six or more lands, that creature has base power and toughness 6/6 until end of turn instead.","G,U","G,U",rare,PEOE,Edge of Eternities Promos,217s,1,3,,Landfall;Flying
+Genemorph Imago,{G}{U},2.0,Creature — Insect Druid,"Flying
+Landfall — Whenever a land you control enters, target creature has base power and toughness 3/3 until end of turn. If you control six or more lands, that creature has base power and toughness 6/6 until end of turn instead.","G,U","G,U",rare,PEOE,Edge of Eternities Promos,217p,1,3,,Landfall;Flying
+"General Traag, Heart of Stone",{3}{R}{R},5.0,Legendary Artifact Creature — Elemental Soldier,"Trample
+When General Traag enters, you may sacrifice another artifact. When you do, General Traag deals 4 damage to target creature.",R,R,uncommon,TMT,Teenage Mutant Ninja Turtles,90,4,3,,Trample
+Generous Plunderer,{1}{R},2.0,Creature — Human Rogue,"Menace
+At the beginning of your upkeep, you may create a Treasure token. When you do, target opponent creates a tapped Treasure token.
+Whenever this creature attacks, it deals damage to defending player equal to the number of artifacts they control.",R,R,mythic,BIG,The Big Score,41,2,2,,Treasure;Menace
+Generous Plunderer,{1}{R},2.0,Creature — Human Rogue,"Menace
+At the beginning of your upkeep, you may create a Treasure token. When you do, target opponent creates a tapped Treasure token.
+Whenever this creature attacks, it deals damage to defending player equal to the number of artifacts they control.",R,R,mythic,BIG,The Big Score,76,2,2,,Treasure;Menace
+Generous Plunderer,{1}{R},2.0,Creature — Human Rogue,"Menace
+At the beginning of your upkeep, you may create a Treasure token. When you do, target opponent creates a tapped Treasure token.
+Whenever this creature attacks, it deals damage to defending player equal to the number of artifacts they control.",R,R,mythic,BIG,The Big Score,11,2,2,,Treasure;Menace
+Genghis Frog,{G}{U},2.0,Legendary Creature — Frog Mutant Rogue,"Trample
+Whenever Genghis Frog or another Mutant you control enters, create a Mutagen token. (It's an artifact with ""{1}, {T}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery."")","G,U","G,U",uncommon,TMT,Teenage Mutant Ninja Turtles,148,1,3,,Trample
+Geological Appraiser,{2}{R}{R},4.0,Creature — Human Artificer,"When this creature enters, if you cast it, discover 3. (Exile cards from the top of your library until you exile a nonland card with mana value 3 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)",R,R,uncommon,LCI,The Lost Caverns of Ixalan,150,3,2,,Discover
+Geological Appraiser,{2}{R}{R},4.0,Creature — Human Artificer,"When this creature enters, if you cast it, discover 3. (Exile cards from the top of your library until you exile a nonland card with mana value 3 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)",R,R,uncommon,LCI,The Lost Caverns of Ixalan,407,3,2,,Discover
+"Geralf, the Fleshwright",{2}{U},3.0,Legendary Creature — Human Warlock,"Whenever you cast a spell during your turn other than your first spell that turn, create a 2/2 blue and black Zombie Rogue creature token.
+Whenever a Zombie you control enters, put a +1/+1 counter on it for each other Zombie that entered the battlefield under your control this turn.",U,U,mythic,POTJ,Outlaws of Thunder Junction Promos,50s,2,3,,
+"Geralf, the Fleshwright",{2}{U},3.0,Legendary Creature — Human Warlock,"Whenever you cast a spell during your turn other than your first spell that turn, create a 2/2 blue and black Zombie Rogue creature token.
+Whenever a Zombie you control enters, put a +1/+1 counter on it for each other Zombie that entered the battlefield under your control this turn.",U,U,mythic,OTJ,Outlaws of Thunder Junction,287,2,3,,
+"Geralf, the Fleshwright",{2}{U},3.0,Legendary Creature — Human Warlock,"Whenever you cast a spell during your turn other than your first spell that turn, create a 2/2 blue and black Zombie Rogue creature token.
+Whenever a Zombie you control enters, put a +1/+1 counter on it for each other Zombie that entered the battlefield under your control this turn.",U,U,mythic,OTJ,Outlaws of Thunder Junction,50,2,3,,
+"Geralf, the Fleshwright",{2}{U},3.0,Legendary Creature — Human Warlock,"Whenever you cast a spell during your turn other than your first spell that turn, create a 2/2 blue and black Zombie Rogue creature token.
+Whenever a Zombie you control enters, put a +1/+1 counter on it for each other Zombie that entered the battlefield under your control this turn.",U,U,mythic,POTJ,Outlaws of Thunder Junction Promos,50p,2,3,,
+Germinating Wurm,{4}{G},5.0,Creature — Plant Wurm,"When this creature enters, you gain 2 life.
+Warp {1}{G} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",G,G,common,EOE,Edge of Eternities,187,5,5,,Warp
+"Gev, Scaled Scorch",{B}{R},2.0,Legendary Creature — Lizard Mercenary,"Ward—Pay 2 life.
+Other creatures you control enter with an additional +1/+1 counter on them for each opponent who lost life this turn.
+Whenever you cast a Lizard spell, Gev deals 1 damage to target opponent.","B,R","B,R",rare,PBLB,Bloomburrow Promos,214p,3,2,,Ward
+"Gev, Scaled Scorch",{B}{R},2.0,Legendary Creature — Lizard Mercenary,"Ward—Pay 2 life.
+Other creatures you control enter with an additional +1/+1 counter on them for each opponent who lost life this turn.
+Whenever you cast a Lizard spell, Gev deals 1 damage to target opponent.","B,R","B,R",rare,BLB,Bloomburrow,214,3,2,,Ward
+"Gev, Scaled Scorch",{B}{R},2.0,Legendary Creature — Lizard Mercenary,"Ward—Pay 2 life.
+Other creatures you control enter with an additional +1/+1 counter on them for each opponent who lost life this turn.
+Whenever you cast a Lizard spell, Gev deals 1 damage to target opponent.","B,R","B,R",rare,BLB,Bloomburrow,349,3,2,,Ward
+"Gev, Scaled Scorch",{B}{R},2.0,Legendary Creature — Lizard Mercenary,"Ward—Pay 2 life.
+Other creatures you control enter with an additional +1/+1 counter on them for each opponent who lost life this turn.
+Whenever you cast a Lizard spell, Gev deals 1 damage to target opponent.","B,R","B,R",rare,PBLB,Bloomburrow Promos,214s,3,2,,Ward
+Geyser Drake,{2}{U},3.0,Creature — Drake,"Flying
+During turns other than yours, spells you cast cost {1} less to cast.",U,U,common,OTJ,Outlaws of Thunder Junction,51,2,3,,Flying
+Geyser Leaper,{4}{U},5.0,Creature — Human Warrior Ally,"Flying
+Waterbend {4}: Draw a card, then discard a card. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)",U,U,common,TLA,Avatar: The Last Airbender,52,4,3,,Flying;Waterbend
+"Ghalta, Primal Hunger",{10}{G}{G},12.0,Legendary Creature — Elder Dinosaur,"This spell costs {X} less to cast, where X is the total power of creatures you control.
+Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)",G,G,rare,RIX,Rivals of Ixalan,130,12,12,,Trample
+"Ghalta, Primal Hunger",{10}{G}{G},12.0,Legendary Creature — Elder Dinosaur,"This spell costs {X} less to cast, where X is the total power of creatures you control.
+Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)",G,G,rare,PRIX,Rivals of Ixalan Promos,130s,12,12,,Trample
+"Ghalta, Primal Hunger",{10}{G}{G},12.0,Legendary Creature — Elder Dinosaur,"This spell costs {X} less to cast, where X is the total power of creatures you control.
+Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)",G,G,rare,PRIX,Rivals of Ixalan Promos,130p,12,12,,Trample
+"Ghalta, Primal Hunger",{10}{G}{G},12.0,Legendary Creature — Elder Dinosaur,"This spell costs {X} less to cast, where X is the total power of creatures you control.
+Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)",G,G,rare,J25,Foundations Jumpstart,77,12,12,,Trample
+"Ghalta, Primal Hunger",{10}{G}{G},12.0,Legendary Creature — Elder Dinosaur,"This spell costs {X} less to cast, where X is the total power of creatures you control.
+Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)",G,G,rare,FDN,Foundations,397,12,12,,Trample
+"Ghalta, Primal Hunger",{10}{G}{G},12.0,Legendary Creature — Elder Dinosaur,"This spell costs {X} less to cast, where X is the total power of creatures you control.
+Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)",G,G,rare,FDN,Foundations,335,12,12,,Trample
+"Ghalta, Primal Hunger",{10}{G}{G},12.0,Legendary Creature — Elder Dinosaur,"This spell costs {X} less to cast, where X is the total power of creatures you control.
+Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)",G,G,rare,GN2,Game Night 2019,47,12,12,,Trample
+"Ghalta, Primal Hunger",{10}{G}{G},12.0,Legendary Creature — Elder Dinosaur,"This spell costs {X} less to cast, where X is the total power of creatures you control.
+Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)",G,G,rare,CMM,Commander Masters,292,12,12,,Trample
+"Ghalta, Primal Hunger",{10}{G}{G},12.0,Legendary Creature — Elder Dinosaur,"This spell costs {X} less to cast, where X is the total power of creatures you control.
+Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)",G,G,rare,FDN,Foundations,222,12,12,,Trample
+"Ghalta, Primal Hunger",{10}{G}{G},12.0,Legendary Creature — Elder Dinosaur,"This spell costs {X} less to cast, where X is the total power of creatures you control.
+Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)",G,G,rare,PFDN,Foundations Promos,222s,12,12,,Trample
+"Ghalta, Primal Hunger",{10}{G}{G},12.0,Legendary Creature — Elder Dinosaur,"This spell costs {X} less to cast, where X is the total power of creatures you control.
+Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)",G,G,rare,JMP,Jumpstart,399,12,12,,Trample
+"Ghalta, Primal Hunger",{10}{G}{G},12.0,Legendary Creature — Elder Dinosaur,"This spell costs {X} less to cast, where X is the total power of creatures you control.
+Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)",G,G,rare,CMM,Commander Masters,561,12,12,,Trample
+"Ghalta, Primal Hunger",{10}{G}{G},12.0,Legendary Creature — Elder Dinosaur,"This spell costs {X} less to cast, where X is the total power of creatures you control.
+Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)",G,G,rare,GNT,Game Night,44,12,12,,Trample
+"Ghalta, Primal Hunger",{10}{G}{G},12.0,Legendary Creature — Elder Dinosaur,"This spell costs {X} less to cast, where X is the total power of creatures you control.
+Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)",G,G,rare,PANA,MTG Arena Promos,7,12,12,,Trample
+"Ghalta, Primal Hunger",{10}{G}{G},12.0,Legendary Creature — Elder Dinosaur,"This spell costs {X} less to cast, where X is the total power of creatures you control.
+Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)",G,G,rare,PRIX,Rivals of Ixalan Promos,130,12,12,,Trample
+"Ghalta, Primal Hunger",{10}{G}{G},12.0,Legendary Creature — Elder Dinosaur,"This spell costs {X} less to cast, where X is the total power of creatures you control.
+Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)",G,G,rare,PLST,The List,RIX-130,12,12,,Trample
+"Ghalta, Primal Hunger",{10}{G}{G},12.0,Legendary Creature — Elder Dinosaur,"This spell costs {X} less to cast, where X is the total power of creatures you control.
+Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)",G,G,rare,BLC,Bloomburrow Commander,220,12,12,,Trample
+"Ghalta, Primal Hunger",{10}{G}{G},12.0,Legendary Creature — Elder Dinosaur,"This spell costs {X} less to cast, where X is the total power of creatures you control.
+Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)",G,G,rare,SPG,Special Guests,11,12,12,,Trample
+"Ghalta, Primal Hunger",{10}{G}{G},12.0,Legendary Creature — Elder Dinosaur,"This spell costs {X} less to cast, where X is the total power of creatures you control.
+Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)",G,G,rare,PRM,Magic Online Promos,66896,12,12,,Trample
+"Ghalta, Stampede Tyrant",{5}{G}{G}{G},8.0,Legendary Creature — Elder Dinosaur,"Trample
+When Ghalta enters, put any number of creature cards from your hand onto the battlefield.",G,G,mythic,LCI,The Lost Caverns of Ixalan,185,12,12,,Trample
+"Ghalta, Stampede Tyrant",{5}{G}{G}{G},8.0,Legendary Creature — Elder Dinosaur,"Trample
+When Ghalta enters, put any number of creature cards from your hand onto the battlefield.",G,G,mythic,PLCI,The Lost Caverns of Ixalan Promos,185s,12,12,,Trample
+"Ghalta, Stampede Tyrant",{5}{G}{G}{G},8.0,Legendary Creature — Elder Dinosaur,"Trample
+When Ghalta enters, put any number of creature cards from your hand onto the battlefield.",G,G,mythic,PLCI,The Lost Caverns of Ixalan Promos,185p,12,12,,Trample
+"Ghalta, Stampede Tyrant",{5}{G}{G}{G},8.0,Legendary Creature — Elder Dinosaur,"Trample
+When Ghalta enters, put any number of creature cards from your hand onto the battlefield.",G,G,mythic,LCI,The Lost Caverns of Ixalan,326,12,12,,Trample
+"Ghired, Mirror of the Wilds",{R}{G}{W},3.0,Legendary Creature — Human Shaman,"Haste
+Nontoken creatures you control have ""{T}: Create a token that's a copy of target token you control that entered this turn.""","G,R,W","G,R,W",mythic,POTJ,Outlaws of Thunder Junction Promos,205s,3,3,,Haste
+"Ghired, Mirror of the Wilds",{R}{G}{W},3.0,Legendary Creature — Human Shaman,"Haste
+Nontoken creatures you control have ""{T}: Create a token that's a copy of target token you control that entered this turn.""","G,R,W","G,R,W",mythic,OTJ,Outlaws of Thunder Junction,351,3,3,,Haste
+"Ghired, Mirror of the Wilds",{R}{G}{W},3.0,Legendary Creature — Human Shaman,"Haste
+Nontoken creatures you control have ""{T}: Create a token that's a copy of target token you control that entered this turn.""","G,R,W","G,R,W",mythic,POTJ,Outlaws of Thunder Junction Promos,205p,3,3,,Haste
+"Ghired, Mirror of the Wilds",{R}{G}{W},3.0,Legendary Creature — Human Shaman,"Haste
+Nontoken creatures you control have ""{T}: Create a token that's a copy of target token you control that entered this turn.""","G,R,W","G,R,W",mythic,OTJ,Outlaws of Thunder Junction,205,3,3,,Haste
+Ghitu Lavarunner,{R},1.0,Creature — Human Wizard,"As long as there are two or more instant and/or sorcery cards in your graveyard, this creature gets +1/+0 and has haste. (It can attack and {T} as soon as it comes under your control.)",R,R,common,PLST,The List,DOM-127,1,2,,
+Ghitu Lavarunner,{R},1.0,Creature — Human Wizard,"As long as there are two or more instant and/or sorcery cards in your graveyard, this creature gets +1/+0 and has haste. (It can attack and {T} as soon as it comes under your control.)",R,R,common,FDN,Foundations,623,1,2,,
+Ghitu Lavarunner,{R},1.0,Creature — Human Wizard,"As long as there are two or more instant and/or sorcery cards in your graveyard, this creature gets +1/+0 and has haste. (It can attack and {T} as soon as it comes under your control.)",R,R,common,DOM,Dominaria,127,1,2,,
+Ghostly Dancers,{3}{W}{W},5.0,Creature — Spirit,"Flying
+When this creature enters, return an enchantment card from your graveyard to your hand or unlock a locked door of a Room you control.
+Eerie — Whenever an enchantment you control enters and whenever you fully unlock a Room, create a 3/1 white Spirit creature token with flying.",W,W,rare,PDSK,Duskmourn: House of Horror Promos,13p,2,5,,Flying;Eerie
+Ghostly Dancers,{3}{W}{W},5.0,Creature — Spirit,"Flying
+When this creature enters, return an enchantment card from your graveyard to your hand or unlock a locked door of a Room you control.
+Eerie — Whenever an enchantment you control enters and whenever you fully unlock a Room, create a 3/1 white Spirit creature token with flying.",W,W,rare,PDSK,Duskmourn: House of Horror Promos,13s,2,5,,Flying;Eerie
+Ghostly Dancers,{3}{W}{W},5.0,Creature — Spirit,"Flying
+When this creature enters, return an enchantment card from your graveyard to your hand or unlock a locked door of a Room you control.
+Eerie — Whenever an enchantment you control enters and whenever you fully unlock a Room, create a 3/1 white Spirit creature token with flying.",W,W,rare,DSK,Duskmourn: House of Horror,302,2,5,,Flying;Eerie
+Ghostly Dancers,{3}{W}{W},5.0,Creature — Spirit,"Flying
+When this creature enters, return an enchantment card from your graveyard to your hand or unlock a locked door of a Room you control.
+Eerie — Whenever an enchantment you control enters and whenever you fully unlock a Room, create a 3/1 white Spirit creature token with flying.",W,W,rare,DSK,Duskmourn: House of Horror,13,2,5,,Flying;Eerie
+Ghostly Keybearer,{3}{U},4.0,Creature — Spirit,"Flying
+Whenever this creature deals combat damage to a player, unlock a locked door of up to one target Room you control.",U,U,uncommon,DSK,Duskmourn: House of Horror,61,3,3,,Flying
+"Giada, Font of Hope",{1}{W},2.0,Legendary Creature — Angel,"Flying, vigilance
+Each other Angel you control enters with an additional +1/+1 counter on it for each Angel you already control.
+{T}: Add {W}. Spend this mana only to cast an Angel spell.",W,W,rare,PWCS,Planeswalker Championship Promos,2023-2,2,2,,Flying;Vigilance
+"Giada, Font of Hope",{1}{W},2.0,Legendary Creature — Angel,"Flying, vigilance
+Each other Angel you control enters with an additional +1/+1 counter on it for each Angel you already control.
+{T}: Add {W}. Spend this mana only to cast an Angel spell.",W,W,rare,FDN,Foundations,298,2,2,,Flying;Vigilance
+"Giada, Font of Hope",{1}{W},2.0,Legendary Creature — Angel,"Flying, vigilance
+Each other Angel you control enters with an additional +1/+1 counter on it for each Angel you already control.
+{T}: Add {W}. Spend this mana only to cast an Angel spell.",W,W,rare,PSNC,Streets of New Capenna Promos,14s,2,2,,Flying;Vigilance
+"Giada, Font of Hope",{1}{W},2.0,Legendary Creature — Angel,"Flying, vigilance
+Each other Angel you control enters with an additional +1/+1 counter on it for each Angel you already control.
+{T}: Add {W}. Spend this mana only to cast an Angel spell.",W,W,rare,FDN,Foundations,367,2,2,,Flying;Vigilance
+"Giada, Font of Hope",{1}{W},2.0,Legendary Creature — Angel,"Flying, vigilance
+Each other Angel you control enters with an additional +1/+1 counter on it for each Angel you already control.
+{T}: Add {W}. Spend this mana only to cast an Angel spell.",W,W,rare,J25,Foundations Jumpstart,60,2,2,,Flying;Vigilance
+"Giada, Font of Hope",{1}{W},2.0,Legendary Creature — Angel,"Flying, vigilance
+Each other Angel you control enters with an additional +1/+1 counter on it for each Angel you already control.
+{T}: Add {W}. Spend this mana only to cast an Angel spell.",W,W,rare,SNC,Streets of New Capenna,342,2,2,,Flying;Vigilance
+"Giada, Font of Hope",{1}{W},2.0,Legendary Creature — Angel,"Flying, vigilance
+Each other Angel you control enters with an additional +1/+1 counter on it for each Angel you already control.
+{T}: Add {W}. Spend this mana only to cast an Angel spell.",W,W,rare,SLD,Secret Lair Drop,1586,2,2,,Flying;Vigilance
+"Giada, Font of Hope",{1}{W},2.0,Legendary Creature — Angel,"Flying, vigilance
+Each other Angel you control enters with an additional +1/+1 counter on it for each Angel you already control.
+{T}: Add {W}. Spend this mana only to cast an Angel spell.",W,W,rare,FDN,Foundations,141,2,2,,Flying;Vigilance
+"Giada, Font of Hope",{1}{W},2.0,Legendary Creature — Angel,"Flying, vigilance
+Each other Angel you control enters with an additional +1/+1 counter on it for each Angel you already control.
+{T}: Add {W}. Spend this mana only to cast an Angel spell.",W,W,rare,PSNC,Streets of New Capenna Promos,14p,2,2,,Flying;Vigilance
+"Giada, Font of Hope",{1}{W},2.0,Legendary Creature — Angel,"Flying, vigilance
+Each other Angel you control enters with an additional +1/+1 counter on it for each Angel you already control.
+{T}: Add {W}. Spend this mana only to cast an Angel spell.",W,W,rare,PFDN,Foundations Promos,141s,2,2,,Flying;Vigilance
+"Giada, Font of Hope",{1}{W},2.0,Legendary Creature — Angel,"Flying, vigilance
+Each other Angel you control enters with an additional +1/+1 counter on it for each Angel you already control.
+{T}: Add {W}. Spend this mana only to cast an Angel spell.",W,W,rare,SNC,Streets of New Capenna,14,2,2,,Flying;Vigilance
+"Giada, Font of Hope",{1}{W},2.0,Legendary Creature — Angel,"Flying, vigilance
+Each other Angel you control enters with an additional +1/+1 counter on it for each Angel you already control.
+{T}: Add {W}. Spend this mana only to cast an Angel spell.",W,W,rare,SNC,Streets of New Capenna,442,2,2,,Flying;Vigilance
+"Giada, Font of Hope",{1}{W},2.0,Legendary Creature — Angel,"Flying, vigilance
+Each other Angel you control enters with an additional +1/+1 counter on it for each Angel you already control.
+{T}: Add {W}. Spend this mana only to cast an Angel spell.",W,W,rare,PLST,The List,SNC-14,2,2,,Flying;Vigilance
+Giant Beaver,{3}{G},4.0,Creature — Beaver Mount,"Vigilance
+Whenever this creature attacks while saddled, put a +1/+1 counter on target creature that saddled it this turn.
+Saddle 3 (Tap any number of other creatures you control with total power 3 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",G,G,common,OTJ,Outlaws of Thunder Junction,165,4,4,,Saddle;Vigilance
+Giant Cindermaw,{2}{R},3.0,Creature — Dinosaur Beast,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Players can't gain life.",R,R,uncommon,BRO,The Brothers' War,136,4,3,,Trample
+Giant Cindermaw,{2}{R},3.0,Creature — Dinosaur Beast,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Players can't gain life.",R,R,uncommon,FDN,Foundations,624,4,3,,Trample
+Giant Cindermaw,{2}{R},3.0,Creature — Dinosaur Beast,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Players can't gain life.",R,R,uncommon,PLST,The List,BRO-136,4,3,,Trample
+Giant Koi,{4}{U}{U},6.0,Creature — Fish,"Waterbend {3}: This creature can't be blocked this turn. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)
+Islandcycling {2} ({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)",U,U,common,TLA,Avatar: The Last Airbender,53,5,7,,Islandcycling;Landcycling;Typecycling;Waterbend;Cycling
+Gigantoad,{3}{G},4.0,Creature — Frog,"As long as you control seven or more lands, this creature gets +2/+2.",G,G,common,FIN,Final Fantasy,187,4,4,,
+Gigantosaurus,{G}{G}{G}{G}{G},5.0,Creature — Dinosaur,,G,G,rare,PLST,The List,M19-185,10,10,,
+Gigantosaurus,{G}{G}{G}{G}{G},5.0,Creature — Dinosaur,,G,G,rare,PM19,Core Set 2019 Promos,185p,10,10,,
+Gigantosaurus,{G}{G}{G}{G}{G},5.0,Creature — Dinosaur,,G,G,rare,ANB,Arena Beginner Set,96,10,10,,
+Gigantosaurus,{G}{G}{G}{G}{G},5.0,Creature — Dinosaur,,G,G,rare,PM19,Core Set 2019 Promos,185s,10,10,,
+Gigantosaurus,{G}{G}{G}{G}{G},5.0,Creature — Dinosaur,,G,G,rare,FDN,Foundations,718,10,10,,
+Gigantosaurus,{G}{G}{G}{G}{G},5.0,Creature — Dinosaur,,G,G,rare,M19,Core Set 2019,185,10,10,,
+Gigantosaurus,{G}{G}{G}{G}{G},5.0,Creature — Dinosaur,,G,G,rare,PLST,The List,M19-185j,10,10,,
+Gigastorm Titan,{4}{U},5.0,Creature — Elemental,This spell costs {3} less to cast if you've cast another spell this turn.,U,U,uncommon,EOE,Edge of Eternities,57,4,4,,
+Gila Courser,{2}{R},3.0,Creature — Lizard Mount,"Whenever this creature attacks while saddled, exile the top card of your library. Until the end of your next turn, you may play that card.
+Saddle 1 (Tap any number of other creatures you control with total power 1 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",R,R,uncommon,OTJ,Outlaws of Thunder Junction,124,4,2,,Saddle
+Gilded Ghoda,{1}{R},2.0,Creature — Horse Mount,"Whenever this creature attacks while saddled, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")
+Saddle 1 (Tap any number of other creatures you control with total power 1 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",R,R,common,DFT,Aetherdrift,130,2,2,,Saddle;Treasure
+"Gilgamesh, Master-at-Arms",{4}{R}{R},6.0,Legendary Creature — Human Samurai,"Whenever Gilgamesh enters or attacks, look at the top six cards of your library. You may put any number of Equipment cards from among them onto the battlefield. Put the rest on the bottom of your library in a random order. When you put one or more Equipment onto the battlefield this way, you may attach one of them to a Samurai you control.",R,R,rare,FIN,Final Fantasy,139,6,6,,
+"Gilgamesh, Master-at-Arms",{4}{R}{R},6.0,Legendary Creature — Human Samurai,"Whenever Gilgamesh enters or attacks, look at the top six cards of your library. You may put any number of Equipment cards from among them onto the battlefield. Put the rest on the bottom of your library in a random order. When you put one or more Equipment onto the battlefield this way, you may attach one of them to a Samurai you control.",R,R,rare,FIN,Final Fantasy,461,6,6,,
+"Gilgamesh, Master-at-Arms",{4}{R}{R},6.0,Legendary Creature — Human Samurai,"Whenever Gilgamesh enters or attacks, look at the top six cards of your library. You may put any number of Equipment cards from among them onto the battlefield. Put the rest on the bottom of your library in a random order. When you put one or more Equipment onto the battlefield this way, you may attach one of them to a Samurai you control.",R,R,rare,FIN,Final Fantasy,338,6,6,,
+"Gilgamesh, Master-at-Arms",{4}{R}{R},6.0,Legendary Creature — Human Samurai,"Whenever Gilgamesh enters or attacks, look at the top six cards of your library. You may put any number of Equipment cards from among them onto the battlefield. Put the rest on the bottom of your library in a random order. When you put one or more Equipment onto the battlefield this way, you may attach one of them to a Samurai you control.",R,R,rare,PFIN,Final Fantasy Promos,139s,6,6,,
+Gingerbread Hunter // Puny Snack,{4}{G} // {2}{B},5.0,Creature — Giant // Instant — Adventure,,G,"B,G",uncommon,WOE,Wilds of Eldraine,227,5,5,,Food
+Gingerbrute,{1},1.0,Artifact Creature — Food Golem,"Haste (This creature can attack and {T} as soon as it comes under your control.)
+{1}: This creature can't be blocked this turn except by creatures with haste.
+{2}, {T}, Sacrifice this creature: You gain 3 life.",,,common,WOE,Wilds of Eldraine,246,1,1,,Haste
+Gingerbrute,{1},1.0,Artifact Creature — Food Golem,"Haste (This creature can attack and {T} as soon as it comes under your control.)
+{1}: This creature can't be blocked this turn except by creatures with haste.
+{2}, {T}, Sacrifice this creature: You gain 3 life.",,,common,J25,Foundations Jumpstart,751,1,1,,Haste
+Gingerbrute,{1},1.0,Artifact Creature — Food Golem,"Haste (This creature can attack and {T} as soon as it comes under your control.)
+{1}: This creature can't be blocked this turn except by creatures with haste.
+{2}, {T}, Sacrifice this creature: You gain 3 life.",,,rare,PMEI,Media and Collaboration Promos,2023-3,1,1,,Haste
+Gingerbrute,{1},1.0,Artifact Creature — Food Golem,"Haste (This creature can attack and {T} as soon as it comes under your control.)
+{1}: This creature can't be blocked this turn except by creatures with haste.
+{2}, {T}, Sacrifice this creature: You gain 3 life.",,,common,JMP,Jumpstart,466,1,1,,Haste
+Gingerbrute,{1},1.0,Artifact Creature — Food Golem,"Haste (This creature can attack and {T} as soon as it comes under your control.)
+{1}: This creature can't be blocked this turn except by creatures with haste.
+{2}, {T}, Sacrifice this creature: You gain 3 life.",,,common,ELD,Throne of Eldraine,219,1,1,,Haste
+"Giott, King of the Dwarves",{R}{W},2.0,Legendary Creature — Dwarf Noble,"Double strike
+Whenever Giott or another Dwarf you control enters and whenever an Equipment you control enters, you may discard a card. If you do, draw a card.","R,W","R,W",uncommon,FIN,Final Fantasy,223,1,1,,Double strike
+"Giott, King of the Dwarves",{R}{W},2.0,Legendary Creature — Dwarf Noble,"Double strike
+Whenever Giott or another Dwarf you control enters and whenever an Equipment you control enters, you may discard a card. If you do, draw a card.","R,W","R,W",uncommon,FIN,Final Fantasy,488,1,1,,Double strike
+"Gisa, the Hellraiser",{3}{B}{B},5.0,Legendary Creature — Human Warlock,"Ward—{2}, Pay 2 life.
+Skeletons and Zombies you control get +1/+1 and have menace.
+Whenever you commit a crime, create two tapped 2/2 blue and black Zombie Rogue creature tokens. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)",B,B,mythic,POTJ,Outlaws of Thunder Junction Promos,89s,4,4,,Ward
+"Gisa, the Hellraiser",{3}{B}{B},5.0,Legendary Creature — Human Warlock,"Ward—{2}, Pay 2 life.
+Skeletons and Zombies you control get +1/+1 and have menace.
+Whenever you commit a crime, create two tapped 2/2 blue and black Zombie Rogue creature tokens. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)",B,B,mythic,OTJ,Outlaws of Thunder Junction,288,4,4,,Ward
+"Gisa, the Hellraiser",{3}{B}{B},5.0,Legendary Creature — Human Warlock,"Ward—{2}, Pay 2 life.
+Skeletons and Zombies you control get +1/+1 and have menace.
+Whenever you commit a crime, create two tapped 2/2 blue and black Zombie Rogue creature tokens. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)",B,B,mythic,POTJ,Outlaws of Thunder Junction Promos,89p,4,4,,Ward
+"Gisa, the Hellraiser",{3}{B}{B},5.0,Legendary Creature — Human Warlock,"Ward—{2}, Pay 2 life.
+Skeletons and Zombies you control get +1/+1 and have menace.
+Whenever you commit a crime, create two tapped 2/2 blue and black Zombie Rogue creature tokens. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)",B,B,mythic,OTJ,Outlaws of Thunder Junction,89,4,4,,Ward
+"Gishath, Sun's Avatar",{5}{R}{G}{W},8.0,Legendary Creature — Dinosaur Avatar,"Vigilance, trample, haste
+Whenever Gishath deals combat damage to a player, reveal that many cards from the top of your library. Put any number of Dinosaur creature cards from among them onto the battlefield and the rest on the bottom of your library in a random order.","G,R,W","G,R,W",mythic,SLD,Secret Lair Drop,320,7,6,,Vigilance;Haste;Trample
+"Gishath, Sun's Avatar",{5}{R}{G}{W},8.0,Legendary Creature — Dinosaur Avatar,"Vigilance, trample, haste
+Whenever Gishath deals combat damage to a player, reveal that many cards from the top of your library. Put any number of Dinosaur creature cards from among them onto the battlefield and the rest on the bottom of your library in a random order.","G,R,W","G,R,W",mythic,XLN,Ixalan,222,7,6,,Vigilance;Haste;Trample
+"Gishath, Sun's Avatar",{5}{R}{G}{W},8.0,Legendary Creature — Dinosaur Avatar,"Vigilance, trample, haste
+Whenever Gishath deals combat damage to a player, reveal that many cards from the top of your library. Put any number of Dinosaur creature cards from among them onto the battlefield and the rest on the bottom of your library in a random order.","G,R,W","G,R,W",mythic,LCI,The Lost Caverns of Ixalan,330,7,6,,Vigilance;Haste;Trample
+"Gishath, Sun's Avatar",{5}{R}{G}{W},8.0,Legendary Creature — Dinosaur Avatar,"Vigilance, trample, haste
+Whenever Gishath deals combat damage to a player, reveal that many cards from the top of your library. Put any number of Dinosaur creature cards from among them onto the battlefield and the rest on the bottom of your library in a random order.","G,R,W","G,R,W",mythic,LCI,The Lost Caverns of Ixalan,229,7,6,,Vigilance;Haste;Trample
+"Gishath, Sun's Avatar",{5}{R}{G}{W},8.0,Legendary Creature — Dinosaur Avatar,"Vigilance, trample, haste
+Whenever Gishath deals combat damage to a player, reveal that many cards from the top of your library. Put any number of Dinosaur creature cards from among them onto the battlefield and the rest on the bottom of your library in a random order.","G,R,W","G,R,W",mythic,PLCI,The Lost Caverns of Ixalan Promos,229p,7,6,,Vigilance;Haste;Trample
+"Gishath, Sun's Avatar",{5}{R}{G}{W},8.0,Legendary Creature — Dinosaur Avatar,"Vigilance, trample, haste
+Whenever Gishath deals combat damage to a player, reveal that many cards from the top of your library. Put any number of Dinosaur creature cards from among them onto the battlefield and the rest on the bottom of your library in a random order.","G,R,W","G,R,W",mythic,PLCI,The Lost Caverns of Ixalan Promos,229s,7,6,,Vigilance;Haste;Trample
+"Gishath, Sun's Avatar",{5}{R}{G}{W},8.0,Legendary Creature — Dinosaur Avatar,"Vigilance, trample, haste
+Whenever Gishath deals combat damage to a player, reveal that many cards from the top of your library. Put any number of Dinosaur creature cards from among them onto the battlefield and the rest on the bottom of your library in a random order.","G,R,W","G,R,W",mythic,PXLN,Ixalan Promos,222s,7,6,,Vigilance;Haste;Trample
+Glacier Godmaw,{5}{G}{G},7.0,Creature — Leviathan,"Trample
+When this creature enters, create a Lander token. (It's an artifact with ""{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."")
+Landfall — Whenever a land you control enters, creatures you control get +1/+1 and gain vigilance and haste until end of turn.",G,G,uncommon,EOE,Edge of Eternities,188,6,6,,Trample;Landfall
+Gladiolus Amicitia,{4}{R}{G},6.0,Legendary Creature — Human Warrior,"When Gladiolus Amicitia enters, search your library for a land card, put it onto the battlefield tapped, then shuffle.
+Landfall — Whenever a land you control enters, another target creature you control gets +2/+2 and gains trample until end of turn.","G,R","G,R",uncommon,FIN,Final Fantasy,224,6,6,,Landfall
+Gladiolus Amicitia,{4}{R}{G},6.0,Legendary Creature — Human Warrior,"When Gladiolus Amicitia enters, search your library for a land card, put it onto the battlefield tapped, then shuffle.
+Landfall — Whenever a land you control enters, another target creature you control gets +2/+2 and gains trample until end of turn.","G,R","G,R",uncommon,FIN,Final Fantasy,489,6,6,,Landfall
+Glamer Gifter,{1}{U},2.0,Creature — Faerie Wizard,"Flash
+Flying
+When this creature enters, choose up to one other target creature. Until end of turn, that creature has base power and toughness 4/4 and gains all creature types.",U,U,uncommon,ECL,Lorwyn Eclipsed,49,1,2,,Flying;Flash
+Glamermite,{2}{U},3.0,Creature — Faerie Rogue,"Flash
+Flying
+When this creature enters, choose one —
+• Tap target creature.
+• Untap target creature.",U,U,common,ECL,Lorwyn Eclipsed,50,2,2,,Flying;Flash
+"Glarb, Calamity's Augur",{B}{G}{U},3.0,Legendary Creature — Frog Wizard Noble,"Deathtouch
+You may look at the top card of your library any time.
+You may play lands and cast spells with mana value 4 or greater from the top of your library.
+{T}: Surveil 2.","B,G,U","B,G,U",mythic,PBLB,Bloomburrow Promos,215p,2,4,,Surveil;Deathtouch
+"Glarb, Calamity's Augur",{B}{G}{U},3.0,Legendary Creature — Frog Wizard Noble,"Deathtouch
+You may look at the top card of your library any time.
+You may play lands and cast spells with mana value 4 or greater from the top of your library.
+{T}: Surveil 2.","B,G,U","B,G,U",mythic,BLB,Bloomburrow,331,2,4,,Surveil;Deathtouch
+"Glarb, Calamity's Augur",{B}{G}{U},3.0,Legendary Creature — Frog Wizard Noble,"Deathtouch
+You may look at the top card of your library any time.
+You may play lands and cast spells with mana value 4 or greater from the top of your library.
+{T}: Surveil 2.","B,G,U","B,G,U",mythic,PBLB,Bloomburrow Promos,215s,2,4,,Surveil;Deathtouch
+"Glarb, Calamity's Augur",{B}{G}{U},3.0,Legendary Creature — Frog Wizard Noble,"Deathtouch
+You may look at the top card of your library any time.
+You may play lands and cast spells with mana value 4 or greater from the top of your library.
+{T}: Surveil 2.","B,G,U","B,G,U",mythic,BLB,Bloomburrow,215,2,4,,Surveil;Deathtouch
+Gleaming Barrier,{2},2.0,Artifact Creature — Wall,"Defender
+When this creature dies, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")",,,common,FDN,Foundations,252,0,4,,Treasure;Defender
+Gleaming Barrier,{2},2.0,Artifact Creature — Wall,"Defender
+When this creature dies, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")",,,common,2XM,Double Masters,257,0,4,,Treasure;Defender
+Gleaming Barrier,{2},2.0,Artifact Creature — Wall,"Defender
+When this creature dies, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")",,,common,RIX,Rivals of Ixalan,178,0,4,,Treasure;Defender
+Gleaming Barrier,{2},2.0,Artifact Creature — Wall,"Defender
+When this creature dies, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")",,,common,J22,Jumpstart 2022,768,0,4,,Treasure;Defender
+Gleaming Geardrake,{U}{R},2.0,Artifact Creature — Drake,"Flying
+When this creature enters, investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")
+Whenever you sacrifice an artifact, put a +1/+1 counter on this creature.","R,U","R,U",uncommon,MKM,Murders at Karlov Manor,424,1,1,,Flying;Investigate
+Gleaming Geardrake,{U}{R},2.0,Artifact Creature — Drake,"Flying
+When this creature enters, investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")
+Whenever you sacrifice an artifact, put a +1/+1 counter on this creature.","R,U","R,U",uncommon,MKM,Murders at Karlov Manor,361,1,1,,Flying;Investigate

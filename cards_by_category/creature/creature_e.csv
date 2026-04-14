@@ -1,0 +1,482 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Eager Trufflesnout,{2}{G},3.0,Creature — Boar,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Whenever this creature deals combat damage to a player, create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this token: You gain 3 life."")",G,G,uncommon,FDN,Foundations,102,4,2,,Food;Trample
+Earth King's Lieutenant,{G}{W},2.0,Creature — Human Soldier Ally,"Trample
+When this creature enters, put a +1/+1 counter on each other Ally creature you control.
+Whenever another Ally you control enters, put a +1/+1 counter on this creature.","G,W","G,W",rare,PTLA,Avatar: The Last Airbender Promos,217s,1,1,,Trample
+Earth King's Lieutenant,{G}{W},2.0,Creature — Human Soldier Ally,"Trample
+When this creature enters, put a +1/+1 counter on each other Ally creature you control.
+Whenever another Ally you control enters, put a +1/+1 counter on this creature.","G,W","G,W",rare,TLA,Avatar: The Last Airbender,217,1,1,,Trample
+Earth King's Lieutenant,{G}{W},2.0,Creature — Human Soldier Ally,"Trample
+When this creature enters, put a +1/+1 counter on each other Ally creature you control.
+Whenever another Ally you control enters, put a +1/+1 counter on this creature.","G,W","G,W",rare,TLA,Avatar: The Last Airbender,380,1,1,,Trample
+Earth Kingdom General,{3}{G},4.0,Creature — Human Soldier Ally,"When this creature enters, earthbend 2. (Target land you control becomes a 0/0 creature with haste that's still a land. Put two +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)
+Whenever you put one or more +1/+1 counters on a creature, you may gain that much life. Do this only once each turn.",G,G,uncommon,TLA,Avatar: The Last Airbender,173,2,2,,Earthbend
+Earth Kingdom Jailer,{2}{W},3.0,Creature — Human Soldier Ally,"When this creature enters, exile up to one target artifact, creature, or enchantment an opponent controls with mana value 3 or greater until this creature leaves the battlefield.",W,W,uncommon,TLA,Avatar: The Last Airbender,16,3,3,,
+Earth Kingdom Protectors,{W},1.0,Creature — Human Soldier Ally,"Vigilance
+Sacrifice this creature: Another target Ally you control gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)",W,W,uncommon,TLA,Avatar: The Last Airbender,17,1,1,,Vigilance
+Earth Kingdom Soldier,{4}{G/W},5.0,Creature — Human Soldier,"Vigilance
+When this creature enters, put a +1/+1 counter on each of up to two target creatures you control.","G,W","G,W",common,TLA,Avatar: The Last Airbender,216,3,4,,Vigilance
+Earth Rumble Wrestlers,{3}{R/G},4.0,Creature — Human Warrior Performer,"Reach
+This creature gets +1/+0 and has trample as long as you control a land creature or a land entered the battlefield under your control this turn.","G,R","G,R",common,TLA,Avatar: The Last Airbender,218,3,4,,Reach
+Earth Village Ruffians,{2}{B/G},3.0,Creature — Human Soldier Rogue,"When this creature dies, earthbend 2. (Target land you control becomes a 0/0 creature with haste that's still a land. Put two +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)","B,G","B,G",common,TLA,Avatar: The Last Airbender,219,3,1,,Earthbend
+Earthen Ally,{G},1.0,Creature — Human Soldier Ally,"This creature gets +1/+0 for each color among Allies you control.
+{2}{W}{U}{B}{R}{G}: Earthbend 5. (Target land you control becomes a 0/0 creature with haste that's still a land. Put five +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)",G,"B,G,R,U,W",rare,PTLA,Avatar: The Last Airbender Promos,177s,0,2,,Earthbend
+Earthen Ally,{G},1.0,Creature — Human Soldier Ally,"This creature gets +1/+0 for each color among Allies you control.
+{2}{W}{U}{B}{R}{G}: Earthbend 5. (Target land you control becomes a 0/0 creature with haste that's still a land. Put five +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)",G,"B,G,R,U,W",rare,TLA,Avatar: The Last Airbender,377,0,2,,Earthbend
+Earthen Ally,{G},1.0,Creature — Human Soldier Ally,"This creature gets +1/+0 for each color among Allies you control.
+{2}{W}{U}{B}{R}{G}: Earthbend 5. (Target land you control becomes a 0/0 creature with haste that's still a land. Put five +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)",G,"B,G,R,U,W",rare,TLA,Avatar: The Last Airbender,177,0,2,,Earthbend
+Earthshaker Dreadmaw,{4}{G}{G},6.0,Creature — Dinosaur,"Trample
+When this creature enters, draw a card for each other Dinosaur you control.",G,G,uncommon,LCI,The Lost Caverns of Ixalan,325,6,6,,Trample
+Earthshaker Dreadmaw,{4}{G}{G},6.0,Creature — Dinosaur,"Trample
+When this creature enters, draw a card for each other Dinosaur you control.",G,G,uncommon,LCI,The Lost Caverns of Ixalan,183,6,6,,Trample
+East Wind Avatar,{3}{W},4.0,Creature — Bird Spirit Avatar,"Flying, vigilance
+Alliance — Whenever another creature you control enters, this creature gets +1/+0 until end of turn.",W,W,common,TMT,Teenage Mutant Ninja Turtles,5,2,4,,Flying;Vigilance;Alliance
+Echo of Dusk,{1}{B},2.0,Creature — Vampire Spirit,"Descend 4 — As long as there are four or more permanent cards in your graveyard, this creature gets +1/+1 and has lifelink.",B,B,common,LCI,The Lost Caverns of Ixalan,104,2,2,,Descend
+Eclipsed Boggart,{B/R}{B/R}{B/R},3.0,Creature — Goblin Scout,"When this creature enters, look at the top four cards of your library. You may reveal a Goblin, Swamp, or Mountain card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.","B,R","B,R",uncommon,ECL,Lorwyn Eclipsed,217,2,3,,
+Eclipsed Boggart,{B/R}{B/R}{B/R},3.0,Creature — Goblin Scout,"When this creature enters, look at the top four cards of your library. You may reveal a Goblin, Swamp, or Mountain card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.","B,R","B,R",uncommon,ECL,Lorwyn Eclipsed,335,2,3,,
+Eclipsed Elf,{B/G}{B/G}{B/G},3.0,Creature — Elf Scout,"When this creature enters, look at the top four cards of your library. You may reveal an Elf, Swamp, or Forest card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.","B,G","B,G",uncommon,ECL,Lorwyn Eclipsed,336,3,2,,
+Eclipsed Elf,{B/G}{B/G}{B/G},3.0,Creature — Elf Scout,"When this creature enters, look at the top four cards of your library. You may reveal an Elf, Swamp, or Forest card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.","B,G","B,G",uncommon,ECL,Lorwyn Eclipsed,218,3,2,,
+Eclipsed Flamekin,{1}{U/R}{U/R},3.0,Creature — Elemental Scout,"When this creature enters, look at the top four cards of your library. You may reveal an Elemental, Island, or Mountain card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.","R,U","R,U",uncommon,ECL,Lorwyn Eclipsed,337,1,4,,
+Eclipsed Flamekin,{1}{U/R}{U/R},3.0,Creature — Elemental Scout,"When this creature enters, look at the top four cards of your library. You may reveal an Elemental, Island, or Mountain card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.","R,U","R,U",uncommon,ECL,Lorwyn Eclipsed,219,1,4,,
+Eclipsed Kithkin,{G/W}{G/W},2.0,Creature — Kithkin Scout,"When this creature enters, look at the top four cards of your library. You may reveal a Kithkin, Forest, or Plains card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.","G,W","G,W",uncommon,ECL,Lorwyn Eclipsed,220,2,1,,
+Eclipsed Kithkin,{G/W}{G/W},2.0,Creature — Kithkin Scout,"When this creature enters, look at the top four cards of your library. You may reveal a Kithkin, Forest, or Plains card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.","G,W","G,W",uncommon,ECL,Lorwyn Eclipsed,338,2,1,,
+Eclipsed Merrow,{W/U}{W/U}{W/U},3.0,Creature — Merfolk Scout,"When this creature enters, look at the top four cards of your library. You may reveal a Merfolk, Plains, or Island card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.","U,W","U,W",uncommon,ECL,Lorwyn Eclipsed,221,2,3,,
+Eclipsed Merrow,{W/U}{W/U}{W/U},3.0,Creature — Merfolk Scout,"When this creature enters, look at the top four cards of your library. You may reveal a Merfolk, Plains, or Island card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.","U,W","U,W",uncommon,ECL,Lorwyn Eclipsed,339,2,3,,
+"Eddie Brock // Venom, Lethal Protector",,3.0,Legendary Creature — Human Hero Villain // Legendary Creature — Symbiote Hero Villain,,,"B,G,R",mythic,SPM,Marvel's Spider-Man,224,,,,Transform;Haste;Trample;Menace
+"Eddie Brock // Venom, Lethal Protector",,3.0,Legendary Creature — Human Hero Villain // Legendary Creature — Symbiote Hero Villain,,,"B,G,R",mythic,OM1,Through the Omenpaths,71,,,,Transform;Haste;Trample;Menace
+"Eddie Brock // Venom, Lethal Protector",,3.0,Legendary Creature — Human Hero Villain // Legendary Creature — Symbiote Hero Villain,,,"B,G,R",mythic,SPM,Marvel's Spider-Man,233,,,,Transform;Haste;Trample;Menace
+"Eddie Brock // Venom, Lethal Protector",,3.0,Legendary Creature — Human Hero Villain // Legendary Creature — Symbiote Hero Villain,,,"B,G,R",mythic,PSPM,Marvel's Spider-Man Promos,55s,,,,Transform;Haste;Trample;Menace
+"Eddie Brock // Venom, Lethal Protector",,3.0,Legendary Creature — Human Hero Villain // Legendary Creature — Symbiote Hero Villain,,,"B,G,R",mythic,SPM,Marvel's Spider-Man,55,,,,Transform;Haste;Trample;Menace
+Eddymurk Crab,{5}{U}{U},7.0,Creature — Elemental Crab,"Flash
+This spell costs {1} less to cast for each instant and sorcery card in your graveyard.
+This creature enters tapped if it's not your turn.
+When this creature enters, tap up to two target creatures.",U,U,uncommon,BLB,Bloomburrow,48,5,5,,Flash
+"Edgar, King of Figaro",{4}{U}{U},6.0,Legendary Creature — Human Artificer Noble,"When Edgar enters, draw a card for each artifact you control.
+Two-Headed Coin — The first time you flip one or more coins each turn, those coins come up heads and you win those flips.",U,U,rare,PFIN,Final Fantasy Promos,51s,4,5,,Two-Headed Coin
+"Edgar, King of Figaro",{4}{U}{U},6.0,Legendary Creature — Human Artificer Noble,"When Edgar enters, draw a card for each artifact you control.
+Two-Headed Coin — The first time you flip one or more coins each turn, those coins come up heads and you win those flips.",U,U,rare,FIN,Final Fantasy,51,4,5,,Two-Headed Coin
+"Edgar, King of Figaro",{4}{U}{U},6.0,Legendary Creature — Human Artificer Noble,"When Edgar enters, draw a card for each artifact you control.
+Two-Headed Coin — The first time you flip one or more coins each turn, those coins come up heads and you win those flips.",U,U,rare,FIN,Final Fantasy,436,4,5,,Two-Headed Coin
+Edge Rover,{G},1.0,Artifact Creature — Robot Scout,"Reach
+When this creature dies, each player creates a Lander token. (It's an artifact with ""{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."")",G,G,uncommon,EOE,Edge of Eternities,179,2,2,,Reach
+Edgewall Pack,{3}{R},4.0,Creature — Dog,"Menace (This creature can't be blocked except by two or more creatures.)
+When this creature enters, create a 1/1 black Rat creature token with ""This token can't block.""",R,R,common,WOE,Wilds of Eldraine,126,3,3,,Menace
+Effortless Master,{2}{U}{R},4.0,Creature — Orc Monk,"Vigilance
+Menace (This creature can't be blocked except by two or more creatures.)
+This creature enters with two +1/+1 counters on it if you've cast two or more spells this turn.","R,U","R,U",uncommon,TDM,Tarkir: Dragonstorm,181,4,3,,Vigilance;Menace
+"Eirdu, Carrier of Dawn // Isilu, Carrier of Twilight",,5.0,Legendary Creature — Elemental God // Legendary Creature — Elemental God,,,"B,W",mythic,ECL,Lorwyn Eclipsed,13,,,,Flying;Lifelink;Transform
+"Eirdu, Carrier of Dawn // Isilu, Carrier of Twilight",,5.0,Legendary Creature — Elemental God // Legendary Creature — Elemental God,,,"B,W",mythic,PECL,Lorwyn Eclipsed Promos,13p,,,,Flying;Lifelink;Transform
+"Eirdu, Carrier of Dawn // Isilu, Carrier of Twilight",,5.0,Legendary Creature — Elemental God // Legendary Creature — Elemental God,,,"B,W",mythic,ECL,Lorwyn Eclipsed,286,,,,Flying;Lifelink;Transform
+Elder Auntie,{2}{R},3.0,Creature — Goblin Warlock,"When this creature enters, create a 1/1 black and red Goblin creature token.",R,R,common,ECL,Lorwyn Eclipsed,133,2,2,,
+"Electro, Assaulting Battery",{1}{R}{R},3.0,Legendary Creature — Human Villain,"Flying
+You don't lose unspent red mana as steps and phases end.
+Whenever you cast an instant or sorcery spell, add {R}.
+When Electro leaves the battlefield, you may pay {X}. When you do, he deals X damage to target player.",R,R,rare,PSPM,Marvel's Spider-Man Promos,76s,2,3,,Flying
+"Electro, Assaulting Battery",{1}{R}{R},3.0,Legendary Creature — Human Villain,"Flying
+You don't lose unspent red mana as steps and phases end.
+Whenever you cast an instant or sorcery spell, add {R}.
+When Electro leaves the battlefield, you may pay {X}. When you do, he deals X damage to target player.",R,R,rare,SPM,Marvel's Spider-Man,260,2,3,,Flying
+"Electro, Assaulting Battery",{1}{R}{R},3.0,Legendary Creature — Human Villain,"Flying
+You don't lose unspent red mana as steps and phases end.
+Whenever you cast an instant or sorcery spell, add {R}.
+When Electro leaves the battlefield, you may pay {X}. When you do, he deals X damage to target player.",R,R,rare,OM1,Through the Omenpaths,76,2,3,,Flying
+"Electro, Assaulting Battery",{1}{R}{R},3.0,Legendary Creature — Human Villain,"Flying
+You don't lose unspent red mana as steps and phases end.
+Whenever you cast an instant or sorcery spell, add {R}.
+When Electro leaves the battlefield, you may pay {X}. When you do, he deals X damage to target player.",R,R,rare,SPM,Marvel's Spider-Man,76,2,3,,Flying
+Elegy Acolyte,{2}{B}{B},4.0,Creature — Human Cleric,"Lifelink
+Whenever one or more creatures you control deal combat damage to a player, you draw a card and lose 1 life.
+Void — At the beginning of your end step, if a nonland permanent left the battlefield this turn or a spell was warped this turn, create a 2/2 colorless Robot artifact creature token.",B,B,rare,PEOE,Edge of Eternities Promos,97s,4,4,,Lifelink;Void
+Elegy Acolyte,{2}{B}{B},4.0,Creature — Human Cleric,"Lifelink
+Whenever one or more creatures you control deal combat damage to a player, you draw a card and lose 1 life.
+Void — At the beginning of your end step, if a nonland permanent left the battlefield this turn or a spell was warped this turn, create a 2/2 colorless Robot artifact creature token.",B,B,rare,EOE,Edge of Eternities,97,4,4,,Lifelink;Void
+Elegy Acolyte,{2}{B}{B},4.0,Creature — Human Cleric,"Lifelink
+Whenever one or more creatures you control deal combat damage to a player, you draw a card and lose 1 life.
+Void — At the beginning of your end step, if a nonland permanent left the battlefield this turn or a spell was warped this turn, create a 2/2 colorless Robot artifact creature token.",B,B,rare,PEOE,Edge of Eternities Promos,97p,4,4,,Lifelink;Void
+Elegy Acolyte,{2}{B}{B},4.0,Creature — Human Cleric,"Lifelink
+Whenever one or more creatures you control deal combat damage to a player, you draw a card and lose 1 life.
+Void — At the beginning of your end step, if a nonland permanent left the battlefield this turn or a spell was warped this turn, create a 2/2 colorless Robot artifact creature token.",B,B,rare,EOE,Edge of Eternities,293,4,4,,Lifelink;Void
+Elementalist Adept,{1}{U},2.0,Creature — Human Wizard,"Flash (You may cast this spell any time you could cast an instant.)
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)",U,U,common,FDN,Foundations,36,2,1,,Prowess;Flash
+"Elenda, Saint of Dusk",{2}{W}{B},4.0,Legendary Creature — Vampire Knight,"Lifelink, hexproof from instants
+As long as your life total is greater than your starting life total, Elenda gets +1/+1 and has menace. Elenda gets an additional +5/+5 as long as your life total is at least 10 greater than your starting life total.","B,W","B,W",rare,FDN,Foundations,346,4,4,,Lifelink;Hexproof from;Hexproof
+"Elenda, Saint of Dusk",{2}{W}{B},4.0,Legendary Creature — Vampire Knight,"Lifelink, hexproof from instants
+As long as your life total is greater than your starting life total, Elenda gets +1/+1 and has menace. Elenda gets an additional +5/+5 as long as your life total is at least 10 greater than your starting life total.","B,W","B,W",rare,FDN,Foundations,119,4,4,,Lifelink;Hexproof from;Hexproof
+"Elenda, Saint of Dusk",{2}{W}{B},4.0,Legendary Creature — Vampire Knight,"Lifelink, hexproof from instants
+As long as your life total is greater than your starting life total, Elenda gets +1/+1 and has menace. Elenda gets an additional +5/+5 as long as your life total is at least 10 greater than your starting life total.","B,W","B,W",rare,PFDN,Foundations Promos,119s,4,4,,Lifelink;Hexproof from;Hexproof
+"Elenda, Saint of Dusk",{2}{W}{B},4.0,Legendary Creature — Vampire Knight,"Lifelink, hexproof from instants
+As long as your life total is greater than your starting life total, Elenda gets +1/+1 and has menace. Elenda gets an additional +5/+5 as long as your life total is at least 10 greater than your starting life total.","B,W","B,W",rare,FDN,Foundations,407,4,4,,Lifelink;Hexproof from;Hexproof
+"Elenda, Saint of Dusk",{2}{W}{B},4.0,Legendary Creature — Vampire Knight,"Lifelink, hexproof from instants
+As long as your life total is greater than your starting life total, Elenda gets +1/+1 and has menace. Elenda gets an additional +5/+5 as long as your life total is at least 10 greater than your starting life total.","B,W","B,W",rare,FDN,Foundations,479,4,4,,Lifelink;Hexproof from;Hexproof
+"Elenda, Saint of Dusk",{2}{W}{B},4.0,Legendary Creature — Vampire Knight,"Lifelink, hexproof from instants
+As long as your life total is greater than your starting life total, Elenda gets +1/+1 and has menace. Elenda gets an additional +5/+5 as long as your life total is at least 10 greater than your starting life total.","B,W","B,W",rare,PFDN,Foundations Promos,119p,4,4,,Lifelink;Hexproof from;Hexproof
+Elfsworn Giant,{3}{G}{G},5.0,Creature — Giant,"Reach (This creature can block creatures with flying.)
+Landfall — Whenever a land you control enters, create a 1/1 green Elf Warrior creature token.",G,G,common,FDN,Foundations,103,5,3,,Reach;Landfall
+"Eluge, the Shoreless Sea",{1}{U}{U}{U},4.0,Legendary Creature — Elemental Fish,"Eluge's power and toughness are each equal to the number of Islands you control.
+Whenever Eluge enters or attacks, put a flood counter on target land. It's an Island in addition to its other types for as long as it has a flood counter on it.
+The first instant or sorcery spell you cast each turn costs {U} (or {1}) less to cast for each land you control with a flood counter on it.",U,U,mythic,BLB,Bloomburrow,49,*,*,,
+"Eluge, the Shoreless Sea",{1}{U}{U}{U},4.0,Legendary Creature — Elemental Fish,"Eluge's power and toughness are each equal to the number of Islands you control.
+Whenever Eluge enters or attacks, put a flood counter on target land. It's an Island in addition to its other types for as long as it has a flood counter on it.
+The first instant or sorcery spell you cast each turn costs {U} (or {1}) less to cast for each land you control with a flood counter on it.",U,U,mythic,PBLB,Bloomburrow Promos,49p,*,*,,
+"Eluge, the Shoreless Sea",{1}{U}{U}{U},4.0,Legendary Creature — Elemental Fish,"Eluge's power and toughness are each equal to the number of Islands you control.
+Whenever Eluge enters or attacks, put a flood counter on target land. It's an Island in addition to its other types for as long as it has a flood counter on it.
+The first instant or sorcery spell you cast each turn costs {U} (or {1}) less to cast for each land you control with a flood counter on it.",U,U,mythic,PBLB,Bloomburrow Promos,49s,*,*,,
+"Eluge, the Shoreless Sea",{1}{U}{U}{U},4.0,Legendary Creature — Elemental Fish,"Eluge's power and toughness are each equal to the number of Islands you control.
+Whenever Eluge enters or attacks, put a flood counter on target land. It's an Island in addition to its other types for as long as it has a flood counter on it.
+The first instant or sorcery spell you cast each turn costs {U} (or {1}) less to cast for each land you control with a flood counter on it.",U,U,mythic,BLB,Bloomburrow,288,*,*,,
+Elusive Otter // Grove's Bounty,{U} // {X}{G},1.0,Creature — Otter // Sorcery — Adventure,,U,"G,U",rare,PWOE,Wilds of Eldraine Promos,225p,1,1,,Prowess
+Elusive Otter // Grove's Bounty,{U} // {X}{G},1.0,Creature — Otter // Sorcery — Adventure,,U,"G,U",rare,PWOE,Wilds of Eldraine Promos,225s,1,1,,Prowess
+Elusive Otter // Grove's Bounty,{U} // {X}{G},1.0,Creature — Otter // Sorcery — Adventure,,U,"G,U",rare,WOE,Wilds of Eldraine,225,1,1,,Prowess
+Elusive Otter // Grove's Bounty,{U} // {X}{G},1.0,Creature — Otter // Sorcery — Adventure,,U,"G,U",rare,WOE,Wilds of Eldraine,289,1,1,,Prowess
+Elvish Archdruid,{1}{G}{G},3.0,Creature — Elf Druid,"Other Elf creatures you control get +1/+1.
+{T}: Add {G} for each Elf you control.",G,G,rare,DDU,Duel Decks: Elves vs. Inventors,5,2,2,,
+Elvish Archdruid,{1}{G}{G},3.0,Creature — Elf Druid,"Other Elf creatures you control get +1/+1.
+{T}: Add {G} for each Elf you control.",G,G,rare,FDN,Foundations,219,2,2,,
+Elvish Archdruid,{1}{G}{G},3.0,Creature — Elf Druid,"Other Elf creatures you control get +1/+1.
+{T}: Add {G} for each Elf you control.",G,G,rare,LTC,Tales of Middle-earth Commander,237,2,2,,
+Elvish Archdruid,{1}{G}{G},3.0,Creature — Elf Druid,"Other Elf creatures you control get +1/+1.
+{T}: Add {G} for each Elf you control.",G,G,rare,GN3,Game Night: Free-for-All,93,2,2,,
+Elvish Archdruid,{1}{G}{G},3.0,Creature — Elf Druid,"Other Elf creatures you control get +1/+1.
+{T}: Add {G} for each Elf you control.",G,G,rare,KHC,Kaldheim Commander,57,2,2,,
+Elvish Archdruid,{1}{G}{G},3.0,Creature — Elf Druid,"Other Elf creatures you control get +1/+1.
+{T}: Add {G} for each Elf you control.",G,G,rare,M10,Magic 2010,176,2,2,,
+Elvish Archdruid,{1}{G}{G},3.0,Creature — Elf Druid,"Other Elf creatures you control get +1/+1.
+{T}: Add {G} for each Elf you control.",G,G,rare,M12,Magic 2012,172,2,2,,
+Elvish Archdruid,{1}{G}{G},3.0,Creature — Elf Druid,"Other Elf creatures you control get +1/+1.
+{T}: Add {G} for each Elf you control.",G,G,rare,C14,Commander 2014,190,2,2,,
+Elvish Archdruid,{1}{G}{G},3.0,Creature — Elf Druid,"Other Elf creatures you control get +1/+1.
+{T}: Add {G} for each Elf you control.",G,G,rare,PLST,The List,DDU-5,2,2,,
+Elvish Archdruid,{1}{G}{G},3.0,Creature — Elf Druid,"Other Elf creatures you control get +1/+1.
+{T}: Add {G} for each Elf you control.",G,G,rare,J25,Foundations Jumpstart,655,2,2,,
+Elvish Archdruid,{1}{G}{G},3.0,Creature — Elf Druid,"Other Elf creatures you control get +1/+1.
+{T}: Add {G} for each Elf you control.",G,G,rare,CMA,Commander Anthology,102,2,2,,
+Elvish Archdruid,{1}{G}{G},3.0,Creature — Elf Druid,"Other Elf creatures you control get +1/+1.
+{T}: Add {G} for each Elf you control.",G,G,rare,M13,Magic 2013,168,2,2,,
+Elvish Archdruid,{1}{G}{G},3.0,Creature — Elf Druid,"Other Elf creatures you control get +1/+1.
+{T}: Add {G} for each Elf you control.",G,G,rare,PFDN,Foundations Promos,219s,2,2,,
+Elvish Archdruid,{1}{G}{G},3.0,Creature — Elf Druid,"Other Elf creatures you control get +1/+1.
+{T}: Add {G} for each Elf you control.",G,G,rare,M11,Magic 2011,171,2,2,,
+Elvish Archdruid,{1}{G}{G},3.0,Creature — Elf Druid,"Other Elf creatures you control get +1/+1.
+{T}: Add {G} for each Elf you control.",G,G,rare,JMP,Jumpstart,391,2,2,,
+Elvish Archivist,{1}{G},2.0,Creature — Elf Artificer,"Whenever one or more artifacts you control enter, put two +1/+1 counters on this creature. This ability triggers only once each turn.
+Whenever one or more enchantments you control enter, draw a card. This ability triggers only once each turn.",G,G,rare,WOE,Wilds of Eldraine,168,0,1,,
+Elvish Archivist,{1}{G},2.0,Creature — Elf Artificer,"Whenever one or more artifacts you control enter, put two +1/+1 counters on this creature. This ability triggers only once each turn.
+Whenever one or more enchantments you control enter, draw a card. This ability triggers only once each turn.",G,G,rare,PWOE,Wilds of Eldraine Promos,168p,0,1,,
+Elvish Archivist,{1}{G},2.0,Creature — Elf Artificer,"Whenever one or more artifacts you control enter, put two +1/+1 counters on this creature. This ability triggers only once each turn.
+Whenever one or more enchantments you control enter, draw a card. This ability triggers only once each turn.",G,G,rare,WOE,Wilds of Eldraine,355,0,1,,
+Elvish Archivist,{1}{G},2.0,Creature — Elf Artificer,"Whenever one or more artifacts you control enter, put two +1/+1 counters on this creature. This ability triggers only once each turn.
+Whenever one or more enchantments you control enter, draw a card. This ability triggers only once each turn.",G,G,rare,PWOE,Wilds of Eldraine Promos,168s,0,1,,
+Elvish Refueler,{2}{G},3.0,Creature — Elf Druid,"During your turn, as long as you haven't activated an exhaust ability this turn, you may activate exhaust abilities as though they haven't been activated.
+Exhaust — {1}{G}: Put a +1/+1 counter on this creature. (Activate each exhaust ability only once.)",G,G,uncommon,DFT,Aetherdrift,161,2,3,,Exhaust
+Elvish Regrower,{2}{G}{G},4.0,Creature — Elf Druid,"When this creature enters, return target permanent card from your graveyard to your hand.",G,G,uncommon,FDN,Foundations,104,4,3,,
+Embalmed Ascendant,{1}{W}{B},3.0,Creature — Zombie,"Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+When this creature enters, create a 2/2 black Zombie creature token.
+Max speed — Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life.","B,W","B,W",uncommon,DFT,Aetherdrift,201,1,2,,Max speed;Start your engines!
+Embereth Veteran,{R},1.0,Creature — Human Knight,"{1}, Sacrifice this creature: Create a Young Hero Role token attached to another target creature. (If you control another Role on it, put that one into the graveyard. Enchanted creature has ""Whenever this creature attacks, if its toughness is 3 or less, put a +1/+1 counter on it."")",R,R,uncommon,WOE,Wilds of Eldraine,127,2,1,,Role token
+Emberheart Challenger,{1}{R},2.0,Creature — Mouse Warrior,"Haste
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Valiant — Whenever this creature becomes the target of a spell or ability you control for the first time each turn, exile the top card of your library. Until end of turn, you may play that card.",R,R,rare,BLB,Bloomburrow,133,2,2,,Prowess;Valiant;Haste
+Emberheart Challenger,{1}{R},2.0,Creature — Mouse Warrior,"Haste
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Valiant — Whenever this creature becomes the target of a spell or ability you control for the first time each turn, exile the top card of your library. Until end of turn, you may play that card.",R,R,rare,PBLB,Bloomburrow Promos,133s,2,2,,Prowess;Valiant;Haste
+Emberheart Challenger,{1}{R},2.0,Creature — Mouse Warrior,"Haste
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Valiant — Whenever this creature becomes the target of a spell or ability you control for the first time each turn, exile the top card of your library. Until end of turn, you may play that card.",R,R,rare,SLP,Secret Lair Promo,48,2,2,,Prowess;Valiant;Haste
+Emberheart Challenger,{1}{R},2.0,Creature — Mouse Warrior,"Haste
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Valiant — Whenever this creature becomes the target of a spell or ability you control for the first time each turn, exile the top card of your library. Until end of turn, you may play that card.",R,R,rare,BLB,Bloomburrow,315,2,2,,Prowess;Valiant;Haste
+Emberheart Challenger,{1}{R},2.0,Creature — Mouse Warrior,"Haste
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Valiant — Whenever this creature becomes the target of a spell or ability you control for the first time each turn, exile the top card of your library. Until end of turn, you may play that card.",R,R,rare,PBLB,Bloomburrow Promos,133p,2,2,,Prowess;Valiant;Haste
+Embermouth Sentinel,{2},2.0,Artifact Creature — Chimera,"When this creature enters, you may search your library for a basic land card, reveal it, then shuffle and put that card on top. If you control a Dragon, put that card onto the battlefield tapped instead.",,,common,TDM,Tarkir: Dragonstorm,242,2,1,,
+"Emet-Selch, Unsundered // Hades, Sorcerer of Eld",,3.0,Legendary Creature — Elder Wizard // Legendary Creature — Avatar,,,"B,U",mythic,FIN,Final Fantasy,483,,,,Vigilance;Echo of the Lost;Transform
+"Emet-Selch, Unsundered // Hades, Sorcerer of Eld",,3.0,Legendary Creature — Elder Wizard // Legendary Creature — Avatar,,,"B,U",mythic,PFIN,Final Fantasy Promos,218s,,,,Vigilance;Echo of the Lost;Transform
+"Emet-Selch, Unsundered // Hades, Sorcerer of Eld",,3.0,Legendary Creature — Elder Wizard // Legendary Creature — Avatar,,,"B,U",mythic,FIN,Final Fantasy,539,,,,Vigilance;Echo of the Lost;Transform
+"Emet-Selch, Unsundered // Hades, Sorcerer of Eld",,3.0,Legendary Creature — Elder Wizard // Legendary Creature — Avatar,,,"B,U",mythic,FIN,Final Fantasy,218,,,,Vigilance;Echo of the Lost;Transform
+"Emet-Selch, Unsundered // Hades, Sorcerer of Eld",,3.0,Legendary Creature — Elder Wizard // Legendary Creature — Avatar,,,"B,U",mythic,FIN,Final Fantasy,394,,,,Vigilance;Echo of the Lost;Transform
+Emissary Escort,{1}{U},2.0,Artifact Creature — Robot Soldier,"This creature gets +X/+0, where X is the greatest mana value among other artifacts you control.",U,U,rare,PEOE,Edge of Eternities Promos,56s,0,4,,
+Emissary Escort,{1}{U},2.0,Artifact Creature — Robot Soldier,"This creature gets +X/+0, where X is the greatest mana value among other artifacts you control.",U,U,rare,PEOE,Edge of Eternities Promos,56p,0,4,,
+Emissary Escort,{1}{U},2.0,Artifact Creature — Robot Soldier,"This creature gets +X/+0, where X is the greatest mana value among other artifacts you control.",U,U,rare,EOE,Edge of Eternities,56,0,4,,
+Emissary Escort,{1}{U},2.0,Artifact Creature — Robot Soldier,"This creature gets +X/+0, where X is the greatest mana value among other artifacts you control.",U,U,rare,EOE,Edge of Eternities,326,0,4,,
+Emissary Escort,{1}{U},2.0,Artifact Creature — Robot Soldier,"This creature gets +X/+0, where X is the greatest mana value among other artifacts you control.",U,U,rare,EOE,Edge of Eternities,399,0,4,,
+Emptiness,{4}{W/B}{W/B},6.0,Creature — Elemental Incarnation,"When this creature enters, if {W}{W} was spent to cast it, return target creature card with mana value 3 or less from your graveyard to the battlefield.
+When this creature enters, if {B}{B} was spent to cast it, put three -1/-1 counters on up to one target creature.
+Evoke {W/B}{W/B}","B,W","B,W",mythic,PECL,Lorwyn Eclipsed Promos,222p,3,5,,Evoke
+Emptiness,{4}{W/B}{W/B},6.0,Creature — Elemental Incarnation,"When this creature enters, if {W}{W} was spent to cast it, return target creature card with mana value 3 or less from your graveyard to the battlefield.
+When this creature enters, if {B}{B} was spent to cast it, put three -1/-1 counters on up to one target creature.
+Evoke {W/B}{W/B}","B,W","B,W",mythic,ECL,Lorwyn Eclipsed,294,3,5,,Evoke
+Emptiness,{4}{W/B}{W/B},6.0,Creature — Elemental Incarnation,"When this creature enters, if {W}{W} was spent to cast it, return target creature card with mana value 3 or less from your graveyard to the battlefield.
+When this creature enters, if {B}{B} was spent to cast it, put three -1/-1 counters on up to one target creature.
+Evoke {W/B}{W/B}","B,W","B,W",mythic,ECL,Lorwyn Eclipsed,222,3,5,,Evoke
+Empyrean Eagle,{1}{W}{U},3.0,Creature — Bird Spirit,"Flying
+Other creatures you control with flying get +1/+1.","U,W","U,W",uncommon,SCD,Starter Commander Decks,226,2,3,,Flying
+Empyrean Eagle,{1}{W}{U},3.0,Creature — Bird Spirit,"Flying
+Other creatures you control with flying get +1/+1.","U,W","U,W",uncommon,FDN,Foundations,239,2,3,,Flying
+Empyrean Eagle,{1}{W}{U},3.0,Creature — Bird Spirit,"Flying
+Other creatures you control with flying get +1/+1.","U,W","U,W",uncommon,KHC,Kaldheim Commander,85,2,3,,Flying
+Empyrean Eagle,{1}{W}{U},3.0,Creature — Bird Spirit,"Flying
+Other creatures you control with flying get +1/+1.","U,W","U,W",uncommon,PLST,The List,M20-208,2,3,,Flying
+Empyrean Eagle,{1}{W}{U},3.0,Creature — Bird Spirit,"Flying
+Other creatures you control with flying get +1/+1.","U,W","U,W",uncommon,M20,Core Set 2020,208,2,3,,Flying
+Encumbered Reejerey,{1}{W},2.0,Creature — Merfolk Soldier,"This creature enters with three -1/-1 counters on it.
+Whenever this creature becomes tapped while it has a -1/-1 counter on it, remove a -1/-1 counter from it.",W,W,uncommon,ECL,Lorwyn Eclipsed,14,5,4,,
+Endrider Catalyzer,{1}{R},2.0,Creature — Human Warrior,"Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+Max speed — {T}: Add {R}{R}.",R,R,common,DFT,Aetherdrift,124,3,1,,Max speed;Start your engines!
+Endrider Spikespitter,{3}{R},4.0,Creature — Human Mercenary,"Reach
+Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+Max speed — At the beginning of your upkeep, exile the top card of your library. You may play that card this turn.",R,R,uncommon,DFT,Aetherdrift,125,3,4,,Reach;Max speed;Start your engines!
+Enduring Courage,{2}{R}{R},4.0,Enchantment Creature — Dog Glimmer,"Whenever another creature you control enters, it gets +2/+0 and gains haste until end of turn.
+When Enduring Courage dies, if it was a creature, return it to the battlefield under its owner's control. It's an enchantment. (It's not a creature.)",R,R,mythic,DSK,Duskmourn: House of Horror,392,3,3,,
+Enduring Courage,{2}{R}{R},4.0,Enchantment Creature — Dog Glimmer,"Whenever another creature you control enters, it gets +2/+0 and gains haste until end of turn.
+When Enduring Courage dies, if it was a creature, return it to the battlefield under its owner's control. It's an enchantment. (It's not a creature.)",R,R,rare,PDSK,Duskmourn: House of Horror Promos,133p,3,3,,
+Enduring Courage,{2}{R}{R},4.0,Enchantment Creature — Dog Glimmer,"Whenever another creature you control enters, it gets +2/+0 and gains haste until end of turn.
+When Enduring Courage dies, if it was a creature, return it to the battlefield under its owner's control. It's an enchantment. (It's not a creature.)",R,R,rare,DSK,Duskmourn: House of Horror,378,3,3,,
+Enduring Courage,{2}{R}{R},4.0,Enchantment Creature — Dog Glimmer,"Whenever another creature you control enters, it gets +2/+0 and gains haste until end of turn.
+When Enduring Courage dies, if it was a creature, return it to the battlefield under its owner's control. It's an enchantment. (It's not a creature.)",R,R,rare,PDSK,Duskmourn: House of Horror Promos,133s,3,3,,
+Enduring Courage,{2}{R}{R},4.0,Enchantment Creature — Dog Glimmer,"Whenever another creature you control enters, it gets +2/+0 and gains haste until end of turn.
+When Enduring Courage dies, if it was a creature, return it to the battlefield under its owner's control. It's an enchantment. (It's not a creature.)",R,R,mythic,DSK,Duskmourn: House of Horror,402,3,3,,
+Enduring Courage,{2}{R}{R},4.0,Enchantment Creature — Dog Glimmer,"Whenever another creature you control enters, it gets +2/+0 and gains haste until end of turn.
+When Enduring Courage dies, if it was a creature, return it to the battlefield under its owner's control. It's an enchantment. (It's not a creature.)",R,R,rare,DSK,Duskmourn: House of Horror,133,3,3,,
+Enduring Curiosity,{2}{U}{U},4.0,Enchantment Creature — Cat Glimmer,"Flash
+Whenever a creature you control deals combat damage to a player, draw a card.
+When Enduring Curiosity dies, if it was a creature, return it to the battlefield under its owner's control. It's an enchantment. (It's not a creature.)",U,U,rare,PDSK,Duskmourn: House of Horror Promos,51s,4,3,,Flash
+Enduring Curiosity,{2}{U}{U},4.0,Enchantment Creature — Cat Glimmer,"Flash
+Whenever a creature you control deals combat damage to a player, draw a card.
+When Enduring Curiosity dies, if it was a creature, return it to the battlefield under its owner's control. It's an enchantment. (It's not a creature.)",U,U,rare,DSK,Duskmourn: House of Horror,51,4,3,,Flash
+Enduring Curiosity,{2}{U}{U},4.0,Enchantment Creature — Cat Glimmer,"Flash
+Whenever a creature you control deals combat damage to a player, draw a card.
+When Enduring Curiosity dies, if it was a creature, return it to the battlefield under its owner's control. It's an enchantment. (It's not a creature.)",U,U,mythic,DSK,Duskmourn: House of Horror,388,4,3,,Flash
+Enduring Curiosity,{2}{U}{U},4.0,Enchantment Creature — Cat Glimmer,"Flash
+Whenever a creature you control deals combat damage to a player, draw a card.
+When Enduring Curiosity dies, if it was a creature, return it to the battlefield under its owner's control. It's an enchantment. (It's not a creature.)",U,U,rare,PDSK,Duskmourn: House of Horror Promos,51p,4,3,,Flash
+Enduring Curiosity,{2}{U}{U},4.0,Enchantment Creature — Cat Glimmer,"Flash
+Whenever a creature you control deals combat damage to a player, draw a card.
+When Enduring Curiosity dies, if it was a creature, return it to the battlefield under its owner's control. It's an enchantment. (It's not a creature.)",U,U,rare,DSK,Duskmourn: House of Horror,371,4,3,,Flash
+Enduring Curiosity,{2}{U}{U},4.0,Enchantment Creature — Cat Glimmer,"Flash
+Whenever a creature you control deals combat damage to a player, draw a card.
+When Enduring Curiosity dies, if it was a creature, return it to the battlefield under its owner's control. It's an enchantment. (It's not a creature.)",U,U,mythic,DSK,Duskmourn: House of Horror,398,4,3,,Flash
+Enduring Innocence,{1}{W}{W},3.0,Enchantment Creature — Sheep Glimmer,"Lifelink
+Whenever one or more other creatures you control with power 2 or less enter, draw a card. This ability triggers only once each turn.
+When Enduring Innocence dies, if it was a creature, return it to the battlefield under its owner's control. It's an enchantment. (It's not a creature.)",W,W,rare,DSK,Duskmourn: House of Horror,6,2,1,,Lifelink
+Enduring Innocence,{1}{W}{W},3.0,Enchantment Creature — Sheep Glimmer,"Lifelink
+Whenever one or more other creatures you control with power 2 or less enter, draw a card. This ability triggers only once each turn.
+When Enduring Innocence dies, if it was a creature, return it to the battlefield under its owner's control. It's an enchantment. (It's not a creature.)",W,W,rare,DSK,Duskmourn: House of Horror,368,2,1,,Lifelink
+Enduring Innocence,{1}{W}{W},3.0,Enchantment Creature — Sheep Glimmer,"Lifelink
+Whenever one or more other creatures you control with power 2 or less enter, draw a card. This ability triggers only once each turn.
+When Enduring Innocence dies, if it was a creature, return it to the battlefield under its owner's control. It's an enchantment. (It's not a creature.)",W,W,mythic,DSK,Duskmourn: House of Horror,386,2,1,,Lifelink
+Enduring Innocence,{1}{W}{W},3.0,Enchantment Creature — Sheep Glimmer,"Lifelink
+Whenever one or more other creatures you control with power 2 or less enter, draw a card. This ability triggers only once each turn.
+When Enduring Innocence dies, if it was a creature, return it to the battlefield under its owner's control. It's an enchantment. (It's not a creature.)",W,W,rare,PDSK,Duskmourn: House of Horror Promos,6s,2,1,,Lifelink
+Enduring Innocence,{1}{W}{W},3.0,Enchantment Creature — Sheep Glimmer,"Lifelink
+Whenever one or more other creatures you control with power 2 or less enter, draw a card. This ability triggers only once each turn.
+When Enduring Innocence dies, if it was a creature, return it to the battlefield under its owner's control. It's an enchantment. (It's not a creature.)",W,W,mythic,DSK,Duskmourn: House of Horror,396,2,1,,Lifelink
+Enduring Innocence,{1}{W}{W},3.0,Enchantment Creature — Sheep Glimmer,"Lifelink
+Whenever one or more other creatures you control with power 2 or less enter, draw a card. This ability triggers only once each turn.
+When Enduring Innocence dies, if it was a creature, return it to the battlefield under its owner's control. It's an enchantment. (It's not a creature.)",W,W,rare,PDSK,Duskmourn: House of Horror Promos,6p,2,1,,Lifelink
+Enduring Tenacity,{2}{B}{B},4.0,Enchantment Creature — Snake Glimmer,"Whenever you gain life, target opponent loses that much life.
+When Enduring Tenacity dies, if it was a creature, return it to the battlefield under its owner's control. It's an enchantment. (It's not a creature.)",B,B,mythic,DSK,Duskmourn: House of Horror,400,4,3,,
+Enduring Tenacity,{2}{B}{B},4.0,Enchantment Creature — Snake Glimmer,"Whenever you gain life, target opponent loses that much life.
+When Enduring Tenacity dies, if it was a creature, return it to the battlefield under its owner's control. It's an enchantment. (It's not a creature.)",B,B,rare,DSK,Duskmourn: House of Horror,374,4,3,,
+Enduring Tenacity,{2}{B}{B},4.0,Enchantment Creature — Snake Glimmer,"Whenever you gain life, target opponent loses that much life.
+When Enduring Tenacity dies, if it was a creature, return it to the battlefield under its owner's control. It's an enchantment. (It's not a creature.)",B,B,rare,PDSK,Duskmourn: House of Horror Promos,95p,4,3,,
+Enduring Tenacity,{2}{B}{B},4.0,Enchantment Creature — Snake Glimmer,"Whenever you gain life, target opponent loses that much life.
+When Enduring Tenacity dies, if it was a creature, return it to the battlefield under its owner's control. It's an enchantment. (It's not a creature.)",B,B,rare,DSK,Duskmourn: House of Horror,95,4,3,,
+Enduring Tenacity,{2}{B}{B},4.0,Enchantment Creature — Snake Glimmer,"Whenever you gain life, target opponent loses that much life.
+When Enduring Tenacity dies, if it was a creature, return it to the battlefield under its owner's control. It's an enchantment. (It's not a creature.)",B,B,mythic,DSK,Duskmourn: House of Horror,390,4,3,,
+Enduring Tenacity,{2}{B}{B},4.0,Enchantment Creature — Snake Glimmer,"Whenever you gain life, target opponent loses that much life.
+When Enduring Tenacity dies, if it was a creature, return it to the battlefield under its owner's control. It's an enchantment. (It's not a creature.)",B,B,rare,PDSK,Duskmourn: House of Horror Promos,95s,4,3,,
+Enduring Vitality,{1}{G}{G},3.0,Enchantment Creature — Elk Glimmer,"Vigilance
+Creatures you control have ""{T}: Add one mana of any color.""
+When Enduring Vitality dies, if it was a creature, return it to the battlefield under its owner's control. It's an enchantment. (It's not a creature.)",G,G,mythic,DSK,Duskmourn: House of Horror,394,3,3,,Vigilance
+Enduring Vitality,{1}{G}{G},3.0,Enchantment Creature — Elk Glimmer,"Vigilance
+Creatures you control have ""{T}: Add one mana of any color.""
+When Enduring Vitality dies, if it was a creature, return it to the battlefield under its owner's control. It's an enchantment. (It's not a creature.)",G,G,rare,DSK,Duskmourn: House of Horror,381,3,3,,Vigilance
+Enduring Vitality,{1}{G}{G},3.0,Enchantment Creature — Elk Glimmer,"Vigilance
+Creatures you control have ""{T}: Add one mana of any color.""
+When Enduring Vitality dies, if it was a creature, return it to the battlefield under its owner's control. It's an enchantment. (It's not a creature.)",G,G,rare,PDSK,Duskmourn: House of Horror Promos,176s,3,3,,Vigilance
+Enduring Vitality,{1}{G}{G},3.0,Enchantment Creature — Elk Glimmer,"Vigilance
+Creatures you control have ""{T}: Add one mana of any color.""
+When Enduring Vitality dies, if it was a creature, return it to the battlefield under its owner's control. It's an enchantment. (It's not a creature.)",G,G,mythic,DSK,Duskmourn: House of Horror,404,3,3,,Vigilance
+Enduring Vitality,{1}{G}{G},3.0,Enchantment Creature — Elk Glimmer,"Vigilance
+Creatures you control have ""{T}: Add one mana of any color.""
+When Enduring Vitality dies, if it was a creature, return it to the battlefield under its owner's control. It's an enchantment. (It's not a creature.)",G,G,rare,DSK,Duskmourn: House of Horror,176,3,3,,Vigilance
+Enduring Vitality,{1}{G}{G},3.0,Enchantment Creature — Elk Glimmer,"Vigilance
+Creatures you control have ""{T}: Add one mana of any color.""
+When Enduring Vitality dies, if it was a creature, return it to the battlefield under its owner's control. It's an enchantment. (It's not a creature.)",G,G,rare,PDSK,Duskmourn: House of Horror Promos,176p,3,3,,Vigilance
+Engine Rat,{B},1.0,Creature — Zombie Rat,"Deathtouch
+{5}{B}: Each opponent loses 2 life.",B,B,common,DFT,Aetherdrift,84,1,1,,Deathtouch
+Enigma Drake,{1}{U}{R},3.0,Creature — Drake,"Flying
+Enigma Drake's power is equal to the number of instant and sorcery cards in your graveyard.","R,U","R,U",uncommon,AKR,Amonkhet Remastered,234,*,4,,Flying
+Enigma Drake,{1}{U}{R},3.0,Creature — Drake,"Flying
+Enigma Drake's power is equal to the number of instant and sorcery cards in your graveyard.","R,U","R,U",uncommon,FDN,Foundations,657,*,4,,Flying
+Enigma Drake,{1}{U}{R},3.0,Creature — Drake,"Flying
+Enigma Drake's power is equal to the number of instant and sorcery cards in your graveyard.","R,U","R,U",uncommon,AKH,Amonkhet,198,*,4,,Flying
+Enigma Drake,{1}{U}{R},3.0,Creature — Drake,"Flying
+Enigma Drake's power is equal to the number of instant and sorcery cards in your graveyard.","R,U","R,U",uncommon,M19,Core Set 2019,216,*,4,,Flying
+Enraged Flamecaster,{2}{R},3.0,Creature — Elemental Sorcerer,"Reach
+Whenever you cast a spell with mana value 4 or greater, this creature deals 2 damage to each opponent.",R,R,common,ECL,Lorwyn Eclipsed,135,3,2,,Reach
+Enterprising Scallywag,{1}{R},2.0,Creature — Goblin Pirate,"At the beginning of your end step, if you descended this turn, create a Treasure token. (You descended if a permanent card was put into your graveyard from anywhere.)",R,R,uncommon,LCI,The Lost Caverns of Ixalan,148,2,2,,Treasure
+Entity Tracker,{2}{U},3.0,Creature — Human Scout,"Flash
+Eerie — Whenever an enchantment you control enters and whenever you fully unlock a Room, draw a card.",U,U,rare,DSK,Duskmourn: House of Horror,290,2,3,,Flash;Eerie
+Entity Tracker,{2}{U},3.0,Creature — Human Scout,"Flash
+Eerie — Whenever an enchantment you control enters and whenever you fully unlock a Room, draw a card.",U,U,rare,PDSK,Duskmourn: House of Horror Promos,53p,2,3,,Flash;Eerie
+Entity Tracker,{2}{U},3.0,Creature — Human Scout,"Flash
+Eerie — Whenever an enchantment you control enters and whenever you fully unlock a Room, draw a card.",U,U,rare,PDSK,Duskmourn: House of Horror Promos,53s,2,3,,Flash;Eerie
+Entity Tracker,{2}{U},3.0,Creature — Human Scout,"Flash
+Eerie — Whenever an enchantment you control enters and whenever you fully unlock a Room, draw a card.",U,U,rare,DSK,Duskmourn: House of Horror,307,2,3,,Flash;Eerie
+Entity Tracker,{2}{U},3.0,Creature — Human Scout,"Flash
+Eerie — Whenever an enchantment you control enters and whenever you fully unlock a Room, draw a card.",U,U,rare,DSK,Duskmourn: House of Horror,53,2,3,,Flash;Eerie
+Envoy of Okinec Ahau,{2}{W},3.0,Creature — Cat Advisor,{4}{W}: Create a 1/1 colorless Gnome artifact creature token.,W,W,common,LCI,The Lost Caverns of Ixalan,11,3,3,,
+EPF Point Squad,{1}{R/W}{R/W},3.0,Creature — Human Soldier,"Alliance — Whenever another creature you control enters, put a +1/+1 counter on this creature.","R,W","R,W",common,TMT,Teenage Mutant Ninja Turtles,145,2,1,,Alliance
+Equilibrium Adept,{3}{R},4.0,Creature — Dog Monk,"When this creature enters, exile the top card of your library. Until the end of your next turn, you may play that card.
+Flurry — Whenever you cast your second spell each turn, this creature gains double strike until end of turn.",R,R,uncommon,TDM,Tarkir: Dragonstorm,106,2,4,,Flurry
+Eriette of the Charmed Apple,{1}{W}{B},3.0,Legendary Creature — Human Warlock,"Each creature that's enchanted by an Aura you control can't attack you or planeswalkers you control.
+At the beginning of your end step, each opponent loses X life and you gain X life, where X is the number of Auras you control.","B,W","B,W",mythic,PWOE,Wilds of Eldraine Promos,202s,2,4,,
+Eriette of the Charmed Apple,{1}{W}{B},3.0,Legendary Creature — Human Warlock,"Each creature that's enchanted by an Aura you control can't attack you or planeswalkers you control.
+At the beginning of your end step, each opponent loses X life and you gain X life, where X is the number of Auras you control.","B,W","B,W",mythic,WOE,Wilds of Eldraine,299,2,4,,
+Eriette of the Charmed Apple,{1}{W}{B},3.0,Legendary Creature — Human Warlock,"Each creature that's enchanted by an Aura you control can't attack you or planeswalkers you control.
+At the beginning of your end step, each opponent loses X life and you gain X life, where X is the number of Auras you control.","B,W","B,W",mythic,PWOE,Wilds of Eldraine Promos,202p,2,4,,
+Eriette of the Charmed Apple,{1}{W}{B},3.0,Legendary Creature — Human Warlock,"Each creature that's enchanted by an Aura you control can't attack you or planeswalkers you control.
+At the beginning of your end step, each opponent loses X life and you gain X life, where X is the number of Auras you control.","B,W","B,W",mythic,WOE,Wilds of Eldraine,202,2,4,,
+"Eriette, the Beguiler",{1}{W}{U}{B},4.0,Legendary Creature — Human Warlock,"Lifelink
+Whenever an Aura you control becomes attached to a nonland permanent an opponent controls with mana value less than or equal to that Aura's mana value, gain control of that permanent for as long as that Aura is attached to it.","B,U,W","B,U,W",rare,POTJ,Outlaws of Thunder Junction Promos,202s,4,4,,Lifelink
+"Eriette, the Beguiler",{1}{W}{U}{B},4.0,Legendary Creature — Human Warlock,"Lifelink
+Whenever an Aura you control becomes attached to a nonland permanent an opponent controls with mana value less than or equal to that Aura's mana value, gain control of that permanent for as long as that Aura is attached to it.","B,U,W","B,U,W",rare,POTJ,Outlaws of Thunder Junction Promos,202p,4,4,,Lifelink
+"Eriette, the Beguiler",{1}{W}{U}{B},4.0,Legendary Creature — Human Warlock,"Lifelink
+Whenever an Aura you control becomes attached to a nonland permanent an opponent controls with mana value less than or equal to that Aura's mana value, gain control of that permanent for as long as that Aura is attached to it.","B,U,W","B,U,W",rare,OTJ,Outlaws of Thunder Junction,202,4,4,,Lifelink
+"Eriette, the Beguiler",{1}{W}{U}{B},4.0,Legendary Creature — Human Warlock,"Lifelink
+Whenever an Aura you control becomes attached to a nonland permanent an opponent controls with mana value less than or equal to that Aura's mana value, gain control of that permanent for as long as that Aura is attached to it.","B,U,W","B,U,W",rare,OTJ,Outlaws of Thunder Junction,293,4,4,,Lifelink
+Erratic Apparition,{2}{U},3.0,Creature — Spirit,"Flying, vigilance
+Eerie — Whenever an enchantment you control enters and whenever you fully unlock a Room, this creature gets +1/+1 until end of turn.",U,U,common,DSK,Duskmourn: House of Horror,54,1,3,,Flying;Vigilance;Eerie
+"Ertha Jo, Frontier Mentor",{2}{R}{W},4.0,Legendary Creature — Kor Advisor,"When Ertha Jo enters, create a 1/1 red Mercenary creature token with ""{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.""
+Whenever you activate an ability that targets a creature or player, copy that ability. You may choose new targets for the copy.","R,W","R,W",uncommon,OTJ,Outlaws of Thunder Junction,203,2,4,,
+Erudite Wizard,{2}{U},3.0,Creature — Human Wizard,"Whenever you draw your second card each turn, put a +1/+1 counter on this creature.",U,U,common,FDN,Foundations,37,2,3,,
+Eshki Dragonclaw,{1}{G}{U}{R},4.0,Legendary Creature — Human Warrior,"Vigilance, trample, ward {1}
+At the beginning of combat on your turn, if you've cast both a creature spell and a noncreature spell this turn, draw a card and put two +1/+1 counters on Eshki Dragonclaw.","G,R,U","G,R,U",rare,PTDM,Tarkir: Dragonstorm Promos,182p,4,4,,Vigilance;Trample;Ward
+Eshki Dragonclaw,{1}{G}{U}{R},4.0,Legendary Creature — Human Warrior,"Vigilance, trample, ward {1}
+At the beginning of combat on your turn, if you've cast both a creature spell and a noncreature spell this turn, draw a card and put two +1/+1 counters on Eshki Dragonclaw.","G,R,U","G,R,U",rare,TDM,Tarkir: Dragonstorm,182,4,4,,Vigilance;Trample;Ward
+Eshki Dragonclaw,{1}{G}{U}{R},4.0,Legendary Creature — Human Warrior,"Vigilance, trample, ward {1}
+At the beginning of combat on your turn, if you've cast both a creature spell and a noncreature spell this turn, draw a card and put two +1/+1 counters on Eshki Dragonclaw.","G,R,U","G,R,U",rare,PTDM,Tarkir: Dragonstorm Promos,182s,4,4,,Vigilance;Trample;Ward
+Eshki Dragonclaw,{1}{G}{U}{R},4.0,Legendary Creature — Human Warrior,"Vigilance, trample, ward {1}
+At the beginning of combat on your turn, if you've cast both a creature spell and a noncreature spell this turn, draw a card and put two +1/+1 counters on Eshki Dragonclaw.","G,R,U","G,R,U",rare,TDM,Tarkir: Dragonstorm,356,4,4,,Vigilance;Trample;Ward
+Esper Origins // Summon: Esper Maduin,,2.0,Sorcery // Enchantment Creature — Saga Elemental,,,G,rare,FIN,Final Fantasy,185,,,,Surveil;Transform;Flashback
+Esper Origins // Summon: Esper Maduin,,2.0,Sorcery // Enchantment Creature — Saga Elemental,,,G,rare,PFIN,Final Fantasy Promos,185s,,,,Surveil;Transform;Flashback
+Esper Origins // Summon: Esper Maduin,,2.0,Sorcery // Enchantment Creature — Saga Elemental,,,G,rare,FIN,Final Fantasy,370,,,,Surveil;Transform;Flashback
+Essence Channeler,{1}{W},2.0,Creature — Bat Cleric,"As long as you've lost life this turn, this creature has flying and vigilance.
+Whenever you gain life, put a +1/+1 counter on this creature.
+When this creature dies, put its counters on target creature you control.",W,W,rare,PBLB,Bloomburrow Promos,12s,2,1,,
+Essence Channeler,{1}{W},2.0,Creature — Bat Cleric,"As long as you've lost life this turn, this creature has flying and vigilance.
+Whenever you gain life, put a +1/+1 counter on this creature.
+When this creature dies, put its counters on target creature you control.",W,W,rare,BLB,Bloomburrow,12,2,1,,
+Essence Channeler,{1}{W},2.0,Creature — Bat Cleric,"As long as you've lost life this turn, this creature has flying and vigilance.
+Whenever you gain life, put a +1/+1 counter on this creature.
+When this creature dies, put its counters on target creature you control.",W,W,rare,PBLB,Bloomburrow Promos,12p,2,1,,
+Essence Channeler,{1}{W},2.0,Creature — Bat Cleric,"As long as you've lost life this turn, this creature has flying and vigilance.
+Whenever you gain life, put a +1/+1 counter on this creature.
+When this creature dies, put its counters on target creature you control.",W,W,rare,BLB,Bloomburrow,356,2,1,,
+Essence of Antiquity,{3}{W}{W},5.0,Artifact Creature — Golem,"Disguise {2}{W} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)
+When this creature is turned face up, creatures you control gain hexproof until end of turn. Untap them.",W,W,uncommon,MKM,Murders at Karlov Manor,15,1,10,,Disguise
+"Etali, Primal Storm",{4}{R}{R},6.0,Legendary Creature — Elder Dinosaur,"Whenever Etali attacks, exile the top card of each player's library, then you may cast any number of spells from among those cards without paying their mana costs.",R,R,rare,RIX,Rivals of Ixalan,100,6,6,,
+"Etali, Primal Storm",{4}{R}{R},6.0,Legendary Creature — Elder Dinosaur,"Whenever Etali attacks, exile the top card of each player's library, then you may cast any number of spells from among those cards without paying their mana costs.",R,R,rare,PRIX,Rivals of Ixalan Promos,100s,6,6,,
+"Etali, Primal Storm",{4}{R}{R},6.0,Legendary Creature — Elder Dinosaur,"Whenever Etali attacks, exile the top card of each player's library, then you may cast any number of spells from among those cards without paying their mana costs.",R,R,rare,FDN,Foundations,391,6,6,,
+"Etali, Primal Storm",{4}{R}{R},6.0,Legendary Creature — Elder Dinosaur,"Whenever Etali attacks, exile the top card of each player's library, then you may cast any number of spells from among those cards without paying their mana costs.",R,R,rare,SLD,Secret Lair Drop,1389★,6,6,,
+"Etali, Primal Storm",{4}{R}{R},6.0,Legendary Creature — Elder Dinosaur,"Whenever Etali attacks, exile the top card of each player's library, then you may cast any number of spells from among those cards without paying their mana costs.",R,R,rare,NCC,New Capenna Commander,268,6,6,,
+"Etali, Primal Storm",{4}{R}{R},6.0,Legendary Creature — Elder Dinosaur,"Whenever Etali attacks, exile the top card of each player's library, then you may cast any number of spells from among those cards without paying their mana costs.",R,R,rare,C20,Commander 2020,151,6,6,,
+"Etali, Primal Storm",{4}{R}{R},6.0,Legendary Creature — Elder Dinosaur,"Whenever Etali attacks, exile the top card of each player's library, then you may cast any number of spells from among those cards without paying their mana costs.",R,R,rare,PFDN,Foundations Promos,194s,6,6,,
+"Etali, Primal Storm",{4}{R}{R},6.0,Legendary Creature — Elder Dinosaur,"Whenever Etali attacks, exile the top card of each player's library, then you may cast any number of spells from among those cards without paying their mana costs.",R,R,rare,AFC,Forgotten Realms Commander,126,6,6,,
+"Etali, Primal Storm",{4}{R}{R},6.0,Legendary Creature — Elder Dinosaur,"Whenever Etali attacks, exile the top card of each player's library, then you may cast any number of spells from among those cards without paying their mana costs.",R,R,rare,SLD,Secret Lair Drop,1389,6,6,,
+"Etali, Primal Storm",{4}{R}{R},6.0,Legendary Creature — Elder Dinosaur,"Whenever Etali attacks, exile the top card of each player's library, then you may cast any number of spells from among those cards without paying their mana costs.",R,R,rare,PRIX,Rivals of Ixalan Promos,100★,6,6,,
+"Etali, Primal Storm",{4}{R}{R},6.0,Legendary Creature — Elder Dinosaur,"Whenever Etali attacks, exile the top card of each player's library, then you may cast any number of spells from among those cards without paying their mana costs.",R,R,rare,BLC,Bloomburrow Commander,196,6,6,,
+"Etali, Primal Storm",{4}{R}{R},6.0,Legendary Creature — Elder Dinosaur,"Whenever Etali attacks, exile the top card of each player's library, then you may cast any number of spells from among those cards without paying their mana costs.",R,R,rare,JMP,Jumpstart,314,6,6,,
+"Etali, Primal Storm",{4}{R}{R},6.0,Legendary Creature — Elder Dinosaur,"Whenever Etali attacks, exile the top card of each player's library, then you may cast any number of spells from among those cards without paying their mana costs.",R,R,rare,FDN,Foundations,329,6,6,,
+"Etali, Primal Storm",{4}{R}{R},6.0,Legendary Creature — Elder Dinosaur,"Whenever Etali attacks, exile the top card of each player's library, then you may cast any number of spells from among those cards without paying their mana costs.",R,R,rare,DMC,Dominaria United Commander,121,6,6,,
+"Etali, Primal Storm",{4}{R}{R},6.0,Legendary Creature — Elder Dinosaur,"Whenever Etali attacks, exile the top card of each player's library, then you may cast any number of spells from among those cards without paying their mana costs.",R,R,rare,MKC,Murders at Karlov Manor Commander,152,6,6,,
+"Etali, Primal Storm",{4}{R}{R},6.0,Legendary Creature — Elder Dinosaur,"Whenever Etali attacks, exile the top card of each player's library, then you may cast any number of spells from among those cards without paying their mana costs.",R,R,rare,C21,Commander 2021,167,6,6,,
+"Etali, Primal Storm",{4}{R}{R},6.0,Legendary Creature — Elder Dinosaur,"Whenever Etali attacks, exile the top card of each player's library, then you may cast any number of spells from among those cards without paying their mana costs.",R,R,special,TSR,Time Spiral Remastered,342,6,6,,
+"Etali, Primal Storm",{4}{R}{R},6.0,Legendary Creature — Elder Dinosaur,"Whenever Etali attacks, exile the top card of each player's library, then you may cast any number of spells from among those cards without paying their mana costs.",R,R,rare,FDN,Foundations,194,6,6,,
+"Etali, Primal Storm",{4}{R}{R},6.0,Legendary Creature — Elder Dinosaur,"Whenever Etali attacks, exile the top card of each player's library, then you may cast any number of spells from among those cards without paying their mana costs.",R,R,rare,PLST,The List,RIX-100,6,6,,
+"Etali, Primal Storm",{4}{R}{R},6.0,Legendary Creature — Elder Dinosaur,"Whenever Etali attacks, exile the top card of each player's library, then you may cast any number of spells from among those cards without paying their mana costs.",R,R,rare,LCC,The Lost Caverns of Ixalan Commander,224,6,6,,
+"Etali, Primal Storm",{4}{R}{R},6.0,Legendary Creature — Elder Dinosaur,"Whenever Etali attacks, exile the top card of each player's library, then you may cast any number of spells from among those cards without paying their mana costs.",R,R,rare,PRIX,Rivals of Ixalan Promos,100p,6,6,,
+"Etali, Primal Storm",{4}{R}{R},6.0,Legendary Creature — Elder Dinosaur,"Whenever Etali attacks, exile the top card of each player's library, then you may cast any number of spells from among those cards without paying their mana costs.",R,R,rare,CLB,Commander Legends: Battle for Baldur's Gate,793,6,6,,
+"Etrata, Deadly Fugitive",{1}{U}{B},3.0,Legendary Creature — Vampire Assassin,"Deathtouch
+Face-down creatures you control have ""{2}{U}{B}: Turn this creature face up. If you can't, exile it, then you may cast the exiled card without paying its mana cost.""
+Whenever an Assassin you control deals combat damage to an opponent, cloak the top card of that player's library.","B,U","B,U",mythic,MKM,Murders at Karlov Manor,386,1,4,,Cloak;Deathtouch
+"Etrata, Deadly Fugitive",{1}{U}{B},3.0,Legendary Creature — Vampire Assassin,"Deathtouch
+Face-down creatures you control have ""{2}{U}{B}: Turn this creature face up. If you can't, exile it, then you may cast the exiled card without paying its mana cost.""
+Whenever an Assassin you control deals combat damage to an opponent, cloak the top card of that player's library.","B,U","B,U",mythic,MKM,Murders at Karlov Manor,200,1,4,,Cloak;Deathtouch
+"Etrata, Deadly Fugitive",{1}{U}{B},3.0,Legendary Creature — Vampire Assassin,"Deathtouch
+Face-down creatures you control have ""{2}{U}{B}: Turn this creature face up. If you can't, exile it, then you may cast the exiled card without paying its mana cost.""
+Whenever an Assassin you control deals combat damage to an opponent, cloak the top card of that player's library.","B,U","B,U",mythic,PMKM,Murders at Karlov Manor Promos,200p,1,4,,Cloak;Deathtouch
+"Etrata, Deadly Fugitive",{1}{U}{B},3.0,Legendary Creature — Vampire Assassin,"Deathtouch
+Face-down creatures you control have ""{2}{U}{B}: Turn this creature face up. If you can't, exile it, then you may cast the exiled card without paying its mana cost.""
+Whenever an Assassin you control deals combat damage to an opponent, cloak the top card of that player's library.","B,U","B,U",mythic,PMKM,Murders at Karlov Manor Promos,200s,1,4,,Cloak;Deathtouch
+"Etrata, Deadly Fugitive",{1}{U}{B},3.0,Legendary Creature — Vampire Assassin,"Deathtouch
+Face-down creatures you control have ""{2}{U}{B}: Turn this creature face up. If you can't, exile it, then you may cast the exiled card without paying its mana cost.""
+Whenever an Assassin you control deals combat damage to an opponent, cloak the top card of that player's library.","B,U","B,U",mythic,MKM,Murders at Karlov Manor,359,1,4,,Cloak;Deathtouch
+Eumidian Terrabotanist,{1}{G},2.0,Creature — Insect Druid,"Landfall — Whenever a land you control enters, you gain 1 life.",G,G,uncommon,EOE,Edge of Eternities,180,2,3,,Landfall
+Evidence Examiner,{G}{U},2.0,Creature — Merfolk Detective,"At the beginning of combat on your turn, you may collect evidence 4. (Exile cards with total mana value 4 or greater from your graveyard.)
+Whenever you collect evidence, investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")","G,U","G,U",uncommon,MKM,Murders at Karlov Manor,201,2,2,,Collect evidence;Investigate
+Exalted Sunborn,{3}{W}{W},5.0,Creature — Angel Wizard,"Flying, lifelink
+If one or more tokens would be created under your control, twice that many of those tokens are created instead.
+Warp {1}{W} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",W,W,mythic,EOE,Edge of Eternities,358,4,5,,Flying;Lifelink;Warp
+Exalted Sunborn,{3}{W}{W},5.0,Creature — Angel Wizard,"Flying, lifelink
+If one or more tokens would be created under your control, twice that many of those tokens are created instead.
+Warp {1}{W} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",W,W,mythic,EOE,Edge of Eternities,15,4,5,,Flying;Lifelink;Warp
+Exalted Sunborn,{3}{W}{W},5.0,Creature — Angel Wizard,"Flying, lifelink
+If one or more tokens would be created under your control, twice that many of those tokens are created instead.
+Warp {1}{W} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",W,W,mythic,PEOE,Edge of Eternities Promos,15s,4,5,,Flying;Lifelink;Warp
+Exalted Sunborn,{3}{W}{W},5.0,Creature — Angel Wizard,"Flying, lifelink
+If one or more tokens would be created under your control, twice that many of those tokens are created instead.
+Warp {1}{W} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",W,W,mythic,EOE,Edge of Eternities,384,4,5,,Flying;Lifelink;Warp
+Exalted Sunborn,{3}{W}{W},5.0,Creature — Angel Wizard,"Flying, lifelink
+If one or more tokens would be created under your control, twice that many of those tokens are created instead.
+Warp {1}{W} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",W,W,mythic,EOE,Edge of Eternities,318,4,5,,Flying;Lifelink;Warp
+Exalted Sunborn,{3}{W}{W},5.0,Creature — Angel Wizard,"Flying, lifelink
+If one or more tokens would be created under your control, twice that many of those tokens are created instead.
+Warp {1}{W} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",W,W,mythic,PEOE,Edge of Eternities Promos,15p,4,5,,Flying;Lifelink;Warp
+Exclusion Mage,{2}{U},3.0,Creature — Human Wizard,"When this creature enters, return target creature an opponent controls to its owner's hand.",U,U,uncommon,FDN,Foundations,508,2,2,,
+Exclusion Mage,{2}{U},3.0,Creature — Human Wizard,"When this creature enters, return target creature an opponent controls to its owner's hand.",U,U,uncommon,J25,Foundations Jumpstart,306,2,2,,
+Exclusion Mage,{2}{U},3.0,Creature — Human Wizard,"When this creature enters, return target creature an opponent controls to its owner's hand.",U,U,uncommon,JMP,Jumpstart,153,2,2,,
+Exclusion Mage,{2}{U},3.0,Creature — Human Wizard,"When this creature enters, return target creature an opponent controls to its owner's hand.",U,U,uncommon,M19,Core Set 2019,55,2,2,,
+"Exdeath, Void Warlock // Neo Exdeath, Dimension's End",,3.0,Legendary Creature — Spirit Warlock // Legendary Creature — Spirit Avatar,,,"B,G",uncommon,FIN,Final Fantasy,220,,,,Transform;Trample
+"Exdeath, Void Warlock // Neo Exdeath, Dimension's End",,3.0,Legendary Creature — Spirit Warlock // Legendary Creature — Spirit Avatar,,,"B,G",uncommon,FIN,Final Fantasy,485,,,,Transform;Trample
+Exemplar of Light,{2}{W}{W},4.0,Creature — Angel,"Flying
+Whenever you gain life, put a +1/+1 counter on this creature.
+Whenever you put one or more +1/+1 counters on this creature, draw a card. This ability triggers only once each turn.",W,W,rare,FDN,Foundations,297,3,3,,Flying
+Exemplar of Light,{2}{W}{W},4.0,Creature — Angel,"Flying
+Whenever you gain life, put a +1/+1 counter on this creature.
+Whenever you put one or more +1/+1 counters on this creature, draw a card. This ability triggers only once each turn.",W,W,rare,PFDN,Foundations Promos,11s,3,3,,Flying
+Exemplar of Light,{2}{W}{W},4.0,Creature — Angel,"Flying
+Whenever you gain life, put a +1/+1 counter on this creature.
+Whenever you put one or more +1/+1 counters on this creature, draw a card. This ability triggers only once each turn.",W,W,rare,FDN,Foundations,11,3,3,,Flying
+Exemplar of Light,{2}{W}{W},4.0,Creature — Angel,"Flying
+Whenever you gain life, put a +1/+1 counter on this creature.
+Whenever you put one or more +1/+1 counters on this creature, draw a card. This ability triggers only once each turn.",W,W,rare,FDN,Foundations,445,3,3,,Flying
+Exemplar of Light,{2}{W}{W},4.0,Creature — Angel,"Flying
+Whenever you gain life, put a +1/+1 counter on this creature.
+Whenever you put one or more +1/+1 counters on this creature, draw a card. This ability triggers only once each turn.",W,W,rare,FDN,Foundations,366,3,3,,Flying
+Exit Specialist,{1}{U},2.0,Creature — Human Detective,"This creature can't be blocked by creatures with power 3 or greater.
+Disguise {1}{U} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)
+When this creature is turned face up, return another target creature to its owner's hand.",U,U,uncommon,MKM,Murders at Karlov Manor,55,2,1,,Disguise
+Exosuit Savior,{2}{W},3.0,Creature — Human Soldier,"Flying
+When this creature enters, return up to one other target permanent you control to its owner's hand.",W,W,common,EOE,Edge of Eternities,16,2,2,,Flying
+Experimental Confectioner,{2}{B},3.0,Creature — Human Peasant,"When this creature enters, create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this token: You gain 3 life."")
+Whenever you sacrifice a Food, create a 1/1 black Rat creature token with ""This token can't block.""",B,B,uncommon,WOE,Wilds of Eldraine,314,2,3,,Food
+Explosive Prodigy,{1}{R},2.0,Creature — Elemental Sorcerer,"Vivid — When this creature enters, it deals X damage to target creature an opponent controls, where X is the number of colors among permanents you control.",R,R,uncommon,ECL,Lorwyn Eclipsed,136,1,1,,Vivid
+"Ezekiel Sims, Spider-Totem",{4}{G},5.0,Legendary Creature — Spider Human Advisor,"Reach
+At the beginning of combat on your turn, target Spider you control gets +2/+2 until end of turn.",G,G,uncommon,SPM,Marvel's Spider-Man,100,3,5,,Reach
+"Ezekiel Sims, Spider-Totem",{4}{G},5.0,Legendary Creature — Spider Human Advisor,"Reach
+At the beginning of combat on your turn, target Spider you control gets +2/+2 until end of turn.",G,G,uncommon,OM1,Through the Omenpaths,110,3,5,,Reach
+"Ezrim, Agency Chief",{1}{W}{W}{U}{U},5.0,Legendary Creature — Archon Detective,"Flying
+When Ezrim enters, investigate twice. (To investigate, create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")
+{1}, Sacrifice an artifact: Ezrim gains your choice of vigilance, lifelink, or hexproof until end of turn.","U,W","U,W",rare,MKM,Murders at Karlov Manor,360,5,5,,Flying;Investigate
+"Ezrim, Agency Chief",{1}{W}{W}{U}{U},5.0,Legendary Creature — Archon Detective,"Flying
+When Ezrim enters, investigate twice. (To investigate, create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")
+{1}, Sacrifice an artifact: Ezrim gains your choice of vigilance, lifelink, or hexproof until end of turn.","U,W","U,W",rare,MKM,Murders at Karlov Manor,202,5,5,,Flying;Investigate
+"Ezrim, Agency Chief",{1}{W}{W}{U}{U},5.0,Legendary Creature — Archon Detective,"Flying
+When Ezrim enters, investigate twice. (To investigate, create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")
+{1}, Sacrifice an artifact: Ezrim gains your choice of vigilance, lifelink, or hexproof until end of turn.","U,W","U,W",rare,PMKM,Murders at Karlov Manor Promos,202s,5,5,,Flying;Investigate
+"Ezrim, Agency Chief",{1}{W}{W}{U}{U},5.0,Legendary Creature — Archon Detective,"Flying
+When Ezrim enters, investigate twice. (To investigate, create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")
+{1}, Sacrifice an artifact: Ezrim gains your choice of vigilance, lifelink, or hexproof until end of turn.","U,W","U,W",rare,PMKM,Murders at Karlov Manor Promos,202p,5,5,,Flying;Investigate

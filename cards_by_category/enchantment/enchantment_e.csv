@@ -1,0 +1,64 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Earthbender Ascension,{2}{G},3.0,Enchantment,"When this enchantment enters, earthbend 2. Then search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+Landfall — Whenever a land you control enters, put a quest counter on this enchantment. When you do, if it has four or more quest counters on it, put a +1/+1 counter on target creature you control. It gains trample until end of turn.",G,G,rare,PTLA,Avatar: The Last Airbender Promos,175s,,,,Earthbend;Landfall
+Earthbender Ascension,{2}{G},3.0,Enchantment,"When this enchantment enters, earthbend 2. Then search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+Landfall — Whenever a land you control enters, put a quest counter on this enchantment. When you do, if it has four or more quest counters on it, put a +1/+1 counter on target creature you control. It gains trample until end of turn.",G,G,rare,TLA,Avatar: The Last Airbender,175,,,,Earthbend;Landfall
+Earthbender Ascension,{2}{G},3.0,Enchantment,"When this enchantment enters, earthbend 2. Then search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+Landfall — Whenever a land you control enters, put a quest counter on this enchantment. When you do, if it has four or more quest counters on it, put a +1/+1 counter on target creature you control. It gains trample until end of turn.",G,G,rare,TLA,Avatar: The Last Airbender,307,,,,Earthbend;Landfall
+Eaten by Piranhas,{1}{U},2.0,Enchantment — Aura,"Flash (You may cast this spell any time you could cast an instant.)
+Enchant creature
+Enchanted creature loses all abilities and is a black Skeleton creature with base power and toughness 1/1. (It loses all other colors, card types, and creature types.)",U,U,uncommon,FDN,Foundations,507,,,,Enchant;Flash
+Eaten by Piranhas,{1}{U},2.0,Enchantment — Aura,"Flash (You may cast this spell any time you could cast an instant.)
+Enchant creature
+Enchanted creature loses all abilities and is a black Skeleton creature with base power and toughness 1/1. (It loses all other colors, card types, and creature types.)",U,U,uncommon,LCI,The Lost Caverns of Ixalan,54,,,,Enchant;Flash
+Emergent Haunting,{1}{U},2.0,Enchantment,"At the beginning of your end step, if you haven't cast a spell from your hand this turn and this enchantment isn't a creature, it becomes a 3/3 Spirit creature with flying in addition to its other types.
+{2}{U}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",U,U,uncommon,OTJ,Outlaws of Thunder Junction,46,,,,Surveil
+Encroaching Dragonstorm,{3}{G},4.0,Enchantment,"When this enchantment enters, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.
+When a Dragon you control enters, return this enchantment to its owner's hand.",G,G,uncommon,TDM,Tarkir: Dragonstorm,142,,,,
+Encroaching Dragonstorm,{3}{G},4.0,Enchantment,"When this enchantment enters, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.
+When a Dragon you control enters, return this enchantment to its owner's hand.",G,G,uncommon,TDM,Tarkir: Dragonstorm,305,,,,
+Encroaching Dragonstorm,{3}{G},4.0,Enchantment,"When this enchantment enters, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.
+When a Dragon you control enters, return this enchantment to its owner's hand.",G,G,uncommon,TDM,Tarkir: Dragonstorm,424,,,,
+Etali's Favor,{2}{R},3.0,Enchantment — Aura,"Enchant creature you control
+When this Aura enters, discover 3. (Exile cards from the top of your library until you exile a nonland card with mana value 3 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)
+Enchanted creature gets +1/+1 and has trample.",R,R,common,LCI,The Lost Caverns of Ixalan,149,,,,Discover;Enchant
+Ethereal Armor,{W},1.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets +1/+1 for each enchantment you control and has first strike.",W,W,common,WOC,Wilds of Eldraine Commander,67,,,,Enchant
+Ethereal Armor,{W},1.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets +1/+1 for each enchantment you control and has first strike.",W,W,common,Q06,Pioneer Challenger Decks 2021,2,,,,Enchant
+Ethereal Armor,{W},1.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets +1/+1 for each enchantment you control and has first strike.",W,W,special,TSR,Time Spiral Remastered,293,,,,Enchant
+Ethereal Armor,{W},1.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets +1/+1 for each enchantment you control and has first strike.",W,W,common,PLST,The List,Q06-2,,,,Enchant
+Ethereal Armor,{W},1.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets +1/+1 for each enchantment you control and has first strike.",W,W,common,RTR,Return to Ravnica,9,,,,Enchant
+Ethereal Armor,{W},1.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets +1/+1 for each enchantment you control and has first strike.",W,W,rare,PL23,Year of the Rabbit 2023,5,,,,Enchant
+Ethereal Armor,{W},1.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets +1/+1 for each enchantment you control and has first strike.",W,W,common,EA2,Explorer Anthology 2,7,,,,Enchant
+Ethereal Armor,{W},1.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets +1/+1 for each enchantment you control and has first strike.",W,W,uncommon,DSK,Duskmourn: House of Horror,7,,,,Enchant
+Eusocial Engineering,{3}{G}{G},5.0,Enchantment,"Landfall — Whenever a land you control enters, create a 2/2 colorless Robot artifact creature token.
+Warp {1}{G} (You may cast this card from your hand for its warp cost. Exile this enchantment at the beginning of the next end step, then you may cast it from exile on a later turn.)",G,G,uncommon,EOE,Edge of Eternities,181,,,,Warp;Landfall
+Evershrike's Gift,{W},1.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets +1/+0 and has flying.
+{1}{W}, Blight 2: Return this card from your graveyard to your hand. Activate only as a sorcery. (To blight 2, put two -1/-1 counters on a creature you control.)",W,W,uncommon,ECL,Lorwyn Eclipsed,15,,,,Blight;Enchant
+Expedited Inheritance,{R}{R},2.0,Enchantment,"Whenever a creature is dealt damage, its controller may exile that many cards from the top of their library. They may play those cards until the end of their next turn.",R,R,mythic,PMKM,Murders at Karlov Manor Promos,123p,,,,
+Expedited Inheritance,{R}{R},2.0,Enchantment,"Whenever a creature is dealt damage, its controller may exile that many cards from the top of their library. They may play those cards until the end of their next turn.",R,R,mythic,MKM,Murders at Karlov Manor,404,,,,
+Expedited Inheritance,{R}{R},2.0,Enchantment,"Whenever a creature is dealt damage, its controller may exile that many cards from the top of their library. They may play those cards until the end of their next turn.",R,R,mythic,PMKM,Murders at Karlov Manor Promos,123s,,,,
+Expedited Inheritance,{R}{R},2.0,Enchantment,"Whenever a creature is dealt damage, its controller may exile that many cards from the top of their library. They may play those cards until the end of their next turn.",R,R,mythic,MKM,Murders at Karlov Manor,123,,,,
+Extraordinary Journey,{X}{X}{U}{U},2.0,Enchantment,"When this enchantment enters, exile up to X target creatures. For each of those cards, its owner may play it for as long as it remains exiled.
+Whenever one or more nontoken creatures enter, if one or more of them entered from exile or was cast from exile, you draw a card. This ability triggers only once each turn.",U,U,rare,PWOE,Wilds of Eldraine Promos,48p,,,,
+Extraordinary Journey,{X}{X}{U}{U},2.0,Enchantment,"When this enchantment enters, exile up to X target creatures. For each of those cards, its owner may play it for as long as it remains exiled.
+Whenever one or more nontoken creatures enter, if one or more of them entered from exile or was cast from exile, you draw a card. This ability triggers only once each turn.",U,U,rare,WOE,Wilds of Eldraine,48,,,,
+Extraordinary Journey,{X}{X}{U}{U},2.0,Enchantment,"When this enchantment enters, exile up to X target creatures. For each of those cards, its owner may play it for as long as it remains exiled.
+Whenever one or more nontoken creatures enter, if one or more of them entered from exile or was cast from exile, you draw a card. This ability triggers only once each turn.",U,U,rare,WOE,Wilds of Eldraine,331,,,,
+Extraordinary Journey,{X}{X}{U}{U},2.0,Enchantment,"When this enchantment enters, exile up to X target creatures. For each of those cards, its owner may play it for as long as it remains exiled.
+Whenever one or more nontoken creatures enter, if one or more of them entered from exile or was cast from exile, you draw a card. This ability triggers only once each turn.",U,U,rare,PWOE,Wilds of Eldraine Promos,48s,,,,
+Extravagant Replication,{4}{U}{U},6.0,Enchantment,"At the beginning of your upkeep, create a token that's a copy of another target nonland permanent you control.",U,U,rare,PNCC,New Capenna Commander Promos,25p,,,,
+Extravagant Replication,{4}{U}{U},6.0,Enchantment,"At the beginning of your upkeep, create a token that's a copy of another target nonland permanent you control.",U,U,rare,NCC,New Capenna Commander,126,,,,
+Extravagant Replication,{4}{U}{U},6.0,Enchantment,"At the beginning of your upkeep, create a token that's a copy of another target nonland permanent you control.",U,U,rare,PRM,Magic Online Promos,99821,,,,
+Extravagant Replication,{4}{U}{U},6.0,Enchantment,"At the beginning of your upkeep, create a token that's a copy of another target nonland permanent you control.",U,U,rare,FDN,Foundations,154,,,,
+Extravagant Replication,{4}{U}{U},6.0,Enchantment,"At the beginning of your upkeep, create a token that's a copy of another target nonland permanent you control.",U,U,rare,NCC,New Capenna Commander,25,,,,
+Extravagant Replication,{4}{U}{U},6.0,Enchantment,"At the beginning of your upkeep, create a token that's a copy of another target nonland permanent you control.",U,U,rare,PFDN,Foundations Promos,154s,,,,
+Extravagant Replication,{4}{U}{U},6.0,Enchantment,"At the beginning of your upkeep, create a token that's a copy of another target nonland permanent you control.",U,U,rare,DSC,Duskmourn: House of Horror Commander,117,,,,

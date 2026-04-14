@@ -1,0 +1,165 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Zack Fair,{W},1.0,Legendary Creature — Human Soldier,"Zack Fair enters with a +1/+1 counter on it.
+{1}, Sacrifice Zack Fair: Target creature you control gains indestructible until end of turn. Put Zack Fair's counters on that creature and attach an Equipment that was attached to Zack Fair to that creature.",W,W,rare,PMEI,Media and Collaboration Promos,2026-03,0,1,,
+Zack Fair,{W},1.0,Legendary Creature — Human Soldier,"Zack Fair enters with a +1/+1 counter on it.
+{1}, Sacrifice Zack Fair: Target creature you control gains indestructible until end of turn. Put Zack Fair's counters on that creature and attach an Equipment that was attached to Zack Fair to that creature.",W,W,uncommon,FIN,Final Fantasy,580,0,1,,
+Zack Fair,{W},1.0,Legendary Creature — Human Soldier,"Zack Fair enters with a +1/+1 counter on it.
+{1}, Sacrifice Zack Fair: Target creature you control gains indestructible until end of turn. Put Zack Fair's counters on that creature and attach an Equipment that was attached to Zack Fair to that creature.",W,W,uncommon,FIN,Final Fantasy,45,0,1,,
+Zack Fair,{W},1.0,Legendary Creature — Human Soldier,"Zack Fair enters with a +1/+1 counter on it.
+{1}, Sacrifice Zack Fair: Target creature you control gains indestructible until end of turn. Put Zack Fair's counters on that creature and attach an Equipment that was attached to Zack Fair to that creature.",W,W,uncommon,FIN,Final Fantasy,435,0,1,,
+"Zahur, Glory's Past",{W}{B},2.0,Legendary Creature — Zombie Cat Warrior,"Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+Sacrifice another creature: Surveil 1. Activate only once each turn.
+Max speed — Whenever a nontoken creature you control dies, create a tapped 2/2 black Zombie creature token.","B,W","B,W",rare,DFT,Aetherdrift,229,3,2,,Surveil;Max speed;Start your engines!
+"Zahur, Glory's Past",{W}{B},2.0,Legendary Creature — Zombie Cat Warrior,"Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+Sacrifice another creature: Surveil 1. Activate only once each turn.
+Max speed — Whenever a nontoken creature you control dies, create a tapped 2/2 black Zombie creature token.","B,W","B,W",rare,DFT,Aetherdrift,370,3,2,,Surveil;Max speed;Start your engines!
+"Zahur, Glory's Past",{W}{B},2.0,Legendary Creature — Zombie Cat Warrior,"Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+Sacrifice another creature: Surveil 1. Activate only once each turn.
+Max speed — Whenever a nontoken creature you control dies, create a tapped 2/2 black Zombie creature token.","B,W","B,W",rare,DFT,Aetherdrift,495,3,2,,Surveil;Max speed;Start your engines!
+"Zahur, Glory's Past",{W}{B},2.0,Legendary Creature — Zombie Cat Warrior,"Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+Sacrifice another creature: Surveil 1. Activate only once each turn.
+Max speed — Whenever a nontoken creature you control dies, create a tapped 2/2 black Zombie creature token.","B,W","B,W",rare,PDFT,Aetherdrift Promos,229s,3,2,,Surveil;Max speed;Start your engines!
+"Zahur, Glory's Past",{W}{B},2.0,Legendary Creature — Zombie Cat Warrior,"Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+Sacrifice another creature: Surveil 1. Activate only once each turn.
+Max speed — Whenever a nontoken creature you control dies, create a tapped 2/2 black Zombie creature token.","B,W","B,W",rare,PDFT,Aetherdrift Promos,229p,3,2,,Surveil;Max speed;Start your engines!
+Zell Dincht,{2}{R},3.0,Legendary Creature — Human Monk,"You may play an additional land on each of your turns.
+Zell Dincht gets +1/+0 for each land you control.
+At the beginning of your end step, return a land you control to its owner's hand.",R,R,rare,FIN,Final Fantasy,170,0,3,,
+Zell Dincht,{2}{R},3.0,Legendary Creature — Human Monk,"You may play an additional land on each of your turns.
+Zell Dincht gets +1/+0 for each land you control.
+At the beginning of your end step, return a land you control to its owner's hand.",R,R,rare,FIN,Final Fantasy,468,0,3,,
+Zell Dincht,{2}{R},3.0,Legendary Creature — Human Monk,"You may play an additional land on each of your turns.
+Zell Dincht gets +1/+0 for each land you control.
+At the beginning of your end step, return a land you control to its owner's hand.",R,R,rare,PFIN,Final Fantasy Promos,170s,0,3,,
+"Zenos yae Galvus // Shinryu, Transcendent Rival",,5.0,Legendary Creature — Human Noble Warrior // Legendary Creature — Dragon,,,B,rare,FIN,Final Fantasy,455,,,,Flying;Transform;My First Friend;Burning Chains
+"Zenos yae Galvus // Shinryu, Transcendent Rival",,5.0,Legendary Creature — Human Noble Warrior // Legendary Creature — Dragon,,,B,rare,FIN,Final Fantasy,384,,,,Flying;Transform;My First Friend;Burning Chains
+"Zenos yae Galvus // Shinryu, Transcendent Rival",,5.0,Legendary Creature — Human Noble Warrior // Legendary Creature — Dragon,,,B,rare,PFIN,Final Fantasy Promos,127s,,,,Flying;Transform;My First Friend;Burning Chains
+"Zenos yae Galvus // Shinryu, Transcendent Rival",,5.0,Legendary Creature — Human Noble Warrior // Legendary Creature — Dragon,,,B,rare,FIN,Final Fantasy,529,,,,Flying;Transform;My First Friend;Burning Chains
+"Zenos yae Galvus // Shinryu, Transcendent Rival",,5.0,Legendary Creature — Human Noble Warrior // Legendary Creature — Dragon,,,B,rare,FIN,Final Fantasy,127,,,,Flying;Transform;My First Friend;Burning Chains
+"Zetalpa, Primal Dawn",{6}{W}{W},8.0,Legendary Creature — Elder Dinosaur,"Flying, double strike, vigilance, trample, indestructible",W,W,rare,GN2,Game Night 2019,15,4,8,,Flying;Indestructible;Vigilance;Trample;Double strike
+"Zetalpa, Primal Dawn",{6}{W}{W},8.0,Legendary Creature — Elder Dinosaur,"Flying, double strike, vigilance, trample, indestructible",W,W,rare,CMM,Commander Masters,71,4,8,,Flying;Indestructible;Vigilance;Trample;Double strike
+"Zetalpa, Primal Dawn",{6}{W}{W},8.0,Legendary Creature — Elder Dinosaur,"Flying, double strike, vigilance, trample, indestructible",W,W,rare,RIX,Rivals of Ixalan,30,4,8,,Flying;Indestructible;Vigilance;Trample;Double strike
+"Zetalpa, Primal Dawn",{6}{W}{W},8.0,Legendary Creature — Elder Dinosaur,"Flying, double strike, vigilance, trample, indestructible",W,W,rare,PRIX,Rivals of Ixalan Promos,30s,4,8,,Flying;Indestructible;Vigilance;Trample;Double strike
+"Zetalpa, Primal Dawn",{6}{W}{W},8.0,Legendary Creature — Elder Dinosaur,"Flying, double strike, vigilance, trample, indestructible",W,W,rare,FDN,Foundations,584,4,8,,Flying;Indestructible;Vigilance;Trample;Double strike
+"Zetalpa, Primal Dawn",{6}{W}{W},8.0,Legendary Creature — Elder Dinosaur,"Flying, double strike, vigilance, trample, indestructible",W,W,rare,C21,Commander 2021,112,4,8,,Flying;Indestructible;Vigilance;Trample;Double strike
+"Zetalpa, Primal Dawn",{6}{W}{W},8.0,Legendary Creature — Elder Dinosaur,"Flying, double strike, vigilance, trample, indestructible",W,W,rare,DMC,Dominaria United Commander,108,4,8,,Flying;Indestructible;Vigilance;Trample;Double strike
+"Zetalpa, Primal Dawn",{6}{W}{W},8.0,Legendary Creature — Elder Dinosaur,"Flying, double strike, vigilance, trample, indestructible",W,W,rare,TDC,Tarkir: Dragonstorm Commander,142,4,8,,Flying;Indestructible;Vigilance;Trample;Double strike
+"Zetalpa, Primal Dawn",{6}{W}{W},8.0,Legendary Creature — Elder Dinosaur,"Flying, double strike, vigilance, trample, indestructible",W,W,rare,C20,Commander 2020,107,4,8,,Flying;Indestructible;Vigilance;Trample;Double strike
+"Zetalpa, Primal Dawn",{6}{W}{W},8.0,Legendary Creature — Elder Dinosaur,"Flying, double strike, vigilance, trample, indestructible",W,W,rare,LCC,The Lost Caverns of Ixalan Commander,141,4,8,,Flying;Indestructible;Vigilance;Trample;Double strike
+"Zetalpa, Primal Dawn",{6}{W}{W},8.0,Legendary Creature — Elder Dinosaur,"Flying, double strike, vigilance, trample, indestructible",W,W,rare,PLST,The List,RIX-30,4,8,,Flying;Indestructible;Vigilance;Trample;Double strike
+"Zetalpa, Primal Dawn",{6}{W}{W},8.0,Legendary Creature — Elder Dinosaur,"Flying, double strike, vigilance, trample, indestructible",W,W,rare,PRIX,Rivals of Ixalan Promos,30p,4,8,,Flying;Indestructible;Vigilance;Trample;Double strike
+"Zetalpa, Primal Dawn",{6}{W}{W},8.0,Legendary Creature — Elder Dinosaur,"Flying, double strike, vigilance, trample, indestructible",W,W,rare,CMM,Commander Masters,478,4,8,,Flying;Indestructible;Vigilance;Trample;Double strike
+"Zetalpa, Primal Dawn",{6}{W}{W},8.0,Legendary Creature — Elder Dinosaur,"Flying, double strike, vigilance, trample, indestructible",W,W,rare,C19,Commander 2019,79,4,8,,Flying;Indestructible;Vigilance;Trample;Double strike
+"Zhao, Ruthless Admiral",{2}{B/R}{B/R},4.0,Legendary Creature — Human Soldier,"Firebending 2 (Whenever this creature attacks, add {R}{R}. This mana lasts until end of combat.)
+Whenever you sacrifice another permanent, creatures you control get +1/+0 until end of turn.","B,R","B,R",uncommon,TLA,Avatar: The Last Airbender,252,3,4,,Firebending
+"Zhao, the Moon Slayer",{1}{R},2.0,Legendary Creature — Human Soldier,"Menace
+Nonbasic lands enter tapped.
+{7}: Put a conqueror counter on Zhao.
+As long as Zhao has a conqueror counter on him, nonbasic lands are Mountains. (They lose all other land types and abilities and have ""{T}: Add {R}."")",R,R,rare,PTLA,Avatar: The Last Airbender Promos,162s,2,2,,Menace
+"Zhao, the Moon Slayer",{1}{R},2.0,Legendary Creature — Human Soldier,"Menace
+Nonbasic lands enter tapped.
+{7}: Put a conqueror counter on Zhao.
+As long as Zhao has a conqueror counter on him, nonbasic lands are Mountains. (They lose all other land types and abilities and have ""{T}: Add {R}."")",R,R,rare,TLA,Avatar: The Last Airbender,376,2,2,,Menace
+"Zhao, the Moon Slayer",{1}{R},2.0,Legendary Creature — Human Soldier,"Menace
+Nonbasic lands enter tapped.
+{7}: Put a conqueror counter on Zhao.
+As long as Zhao has a conqueror counter on him, nonbasic lands are Mountains. (They lose all other land types and abilities and have ""{T}: Add {R}."")",R,R,rare,TLA,Avatar: The Last Airbender,162,2,2,,Menace
+"Zidane, Tantalus Thief",{3}{R}{W},5.0,Legendary Creature — Human Mutant Scout,"When Zidane enters, gain control of target creature an opponent controls until end of turn. Untap it. It gains lifelink and haste until end of turn.
+Whenever an opponent gains control of a permanent from you, you create a Treasure token.","R,W","R,W",uncommon,FIN,Final Fantasy,518,3,3,,Treasure
+"Zidane, Tantalus Thief",{3}{R}{W},5.0,Legendary Creature — Human Mutant Scout,"When Zidane enters, gain control of target creature an opponent controls until end of turn. Untap it. It gains lifelink and haste until end of turn.
+Whenever an opponent gains control of a permanent from you, you create a Treasure token.","R,W","R,W",rare,PW25,Wizards Play Network 2025,5,3,3,,Treasure
+"Zidane, Tantalus Thief",{3}{R}{W},5.0,Legendary Creature — Human Mutant Scout,"When Zidane enters, gain control of target creature an opponent controls until end of turn. Untap it. It gains lifelink and haste until end of turn.
+Whenever an opponent gains control of a permanent from you, you create a Treasure token.","R,W","R,W",uncommon,FIN,Final Fantasy,550,3,3,,Treasure
+"Zidane, Tantalus Thief",{3}{R}{W},5.0,Legendary Creature — Human Mutant Scout,"When Zidane enters, gain control of target creature an opponent controls until end of turn. Untap it. It gains lifelink and haste until end of turn.
+Whenever an opponent gains control of a permanent from you, you create a Treasure token.","R,W","R,W",uncommon,FIN,Final Fantasy,405,3,3,,Treasure
+"Zidane, Tantalus Thief",{3}{R}{W},5.0,Legendary Creature — Human Mutant Scout,"When Zidane enters, gain control of target creature an opponent controls until end of turn. Untap it. It gains lifelink and haste until end of turn.
+Whenever an opponent gains control of a permanent from you, you create a Treasure token.","R,W","R,W",uncommon,FIN,Final Fantasy,251,3,3,,Treasure
+"Zimone, All-Questioning",{1}{G}{U},3.0,Legendary Creature — Human Wizard,"At the beginning of your end step, if a land entered the battlefield under your control this turn and you control a prime number of lands, create Primo, the Indivisible, a legendary 0/0 green and blue Fractal creature token, then put that many +1/+1 counters on it. (2, 3, 5, 7, 11, 13, 17, 19, 23, 29, and 31 are prime numbers.)","G,U","G,U",rare,PDSK,Duskmourn: House of Horror Promos,241p,1,1,,
+"Zimone, All-Questioning",{1}{G}{U},3.0,Legendary Creature — Human Wizard,"At the beginning of your end step, if a land entered the battlefield under your control this turn and you control a prime number of lands, create Primo, the Indivisible, a legendary 0/0 green and blue Fractal creature token, then put that many +1/+1 counters on it. (2, 3, 5, 7, 11, 13, 17, 19, 23, 29, and 31 are prime numbers.)","G,U","G,U",rare,PDSK,Duskmourn: House of Horror Promos,241s,1,1,,
+"Zimone, All-Questioning",{1}{G}{U},3.0,Legendary Creature — Human Wizard,"At the beginning of your end step, if a land entered the battlefield under your control this turn and you control a prime number of lands, create Primo, the Indivisible, a legendary 0/0 green and blue Fractal creature token, then put that many +1/+1 counters on it. (2, 3, 5, 7, 11, 13, 17, 19, 23, 29, and 31 are prime numbers.)","G,U","G,U",rare,DSK,Duskmourn: House of Horror,241,1,1,,
+"Zimone, All-Questioning",{1}{G}{U},3.0,Legendary Creature — Human Wizard,"At the beginning of your end step, if a land entered the battlefield under your control this turn and you control a prime number of lands, create Primo, the Indivisible, a legendary 0/0 green and blue Fractal creature token, then put that many +1/+1 counters on it. (2, 3, 5, 7, 11, 13, 17, 19, 23, 29, and 31 are prime numbers.)","G,U","G,U",rare,DSK,Duskmourn: House of Horror,366,1,1,,
+"Zimone, Paradox Sculptor",{2}{G}{U},4.0,Legendary Creature — Human Wizard,"At the beginning of combat on your turn, put a +1/+1 counter on each of up to two target creatures you control.
+{G}{U}, {T}: Double the number of each kind of counter on up to two target creatures and/or artifacts you control.","G,U","G,U",mythic,FDN,Foundations,483,1,4,,
+"Zimone, Paradox Sculptor",{2}{G}{U},4.0,Legendary Creature — Human Wizard,"At the beginning of combat on your turn, put a +1/+1 counter on each of up to two target creatures you control.
+{G}{U}, {T}: Double the number of each kind of counter on up to two target creatures and/or artifacts you control.","G,U","G,U",mythic,FDN,Foundations,126,1,4,,
+"Zimone, Paradox Sculptor",{2}{G}{U},4.0,Legendary Creature — Human Wizard,"At the beginning of combat on your turn, put a +1/+1 counter on each of up to two target creatures you control.
+{G}{U}, {T}: Double the number of each kind of counter on up to two target creatures and/or artifacts you control.","G,U","G,U",mythic,FDN,Foundations,412,1,4,,
+"Zimone, Paradox Sculptor",{2}{G}{U},4.0,Legendary Creature — Human Wizard,"At the beginning of combat on your turn, put a +1/+1 counter on each of up to two target creatures you control.
+{G}{U}, {T}: Double the number of each kind of counter on up to two target creatures and/or artifacts you control.","G,U","G,U",mythic,PFDN,Foundations Promos,126s,1,4,,
+"Zimone, Paradox Sculptor",{2}{G}{U},4.0,Legendary Creature — Human Wizard,"At the beginning of combat on your turn, put a +1/+1 counter on each of up to two target creatures you control.
+{G}{U}, {T}: Double the number of each kind of counter on up to two target creatures and/or artifacts you control.","G,U","G,U",mythic,PFDN,Foundations Promos,126p,1,4,,
+"Zimone, Paradox Sculptor",{2}{G}{U},4.0,Legendary Creature — Human Wizard,"At the beginning of combat on your turn, put a +1/+1 counter on each of up to two target creatures you control.
+{G}{U}, {T}: Double the number of each kind of counter on up to two target creatures and/or artifacts you control.","G,U","G,U",mythic,FDN,Foundations,351,1,4,,
+"Zodiark, Umbral God",{B}{B}{B}{B}{B},5.0,Legendary Creature — God,"Indestructible
+When Zodiark enters, each player sacrifices half the non-God creatures they control of their choice, rounded down.
+Whenever a player sacrifices another creature, put a +1/+1 counter on Zodiark.",B,B,rare,FIN,Final Fantasy,336,5,5,,Indestructible
+"Zodiark, Umbral God",{B}{B}{B}{B}{B},5.0,Legendary Creature — God,"Indestructible
+When Zodiark enters, each player sacrifices half the non-God creatures they control of their choice, rounded down.
+Whenever a player sacrifices another creature, put a +1/+1 counter on Zodiark.",B,B,rare,PFIN,Final Fantasy Promos,128s,5,5,,Indestructible
+"Zodiark, Umbral God",{B}{B}{B}{B}{B},5.0,Legendary Creature — God,"Indestructible
+When Zodiark enters, each player sacrifices half the non-God creatures they control of their choice, rounded down.
+Whenever a player sacrifices another creature, put a +1/+1 counter on Zodiark.",B,B,rare,FIN,Final Fantasy,128,5,5,,Indestructible
+"Zodiark, Umbral God",{B}{B}{B}{B}{B},5.0,Legendary Creature — God,"Indestructible
+When Zodiark enters, each player sacrifices half the non-God creatures they control of their choice, rounded down.
+Whenever a player sacrifices another creature, put a +1/+1 counter on Zodiark.",B,B,rare,FIN,Final Fantasy,456,5,5,,Indestructible
+"Zog, Triceraton Castaway",{4}{R},5.0,Legendary Creature — Dinosaur Soldier,"Reach, trample
+When Zog enters, target creature can't block this turn.
+Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)",R,R,common,TMT,Teenage Mutant Ninja Turtles,111,5,4,,Mountaincycling;Reach;Landcycling;Trample;Typecycling;Cycling
+Zoo Escapees,{1}{G},2.0,Creature — Boar Rhino,"When this creature leaves the battlefield, create a Mutagen token. (It's an artifact with ""{1}, {T}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery."")",G,G,common,TMT,Teenage Mutant Ninja Turtles,138,2,2,,
+Zookeeper Mechan,{1}{R},2.0,Artifact Creature — Robot,"{T}: Add {R}.
+{6}{R}: Target creature you control gets +4/+0 until end of turn. Activate only as a sorcery.",R,R,common,EOE,Edge of Eternities,170,1,3,,
+"Zoraline, Cosmos Caller",{1}{W}{B},3.0,Legendary Creature — Bat Cleric,"Flying, vigilance
+Whenever a Bat you control attacks, you gain 1 life.
+Whenever Zoraline enters or attacks, you may pay {W}{B} and 2 life. When you do, return target nonland permanent card with mana value 3 or less from your graveyard to the battlefield with a finality counter on it.","B,W","B,W",rare,PBLB,Bloomburrow Promos,242s,3,3,,Flying;Vigilance
+"Zoraline, Cosmos Caller",{1}{W}{B},3.0,Legendary Creature — Bat Cleric,"Flying, vigilance
+Whenever a Bat you control attacks, you gain 1 life.
+Whenever Zoraline enters or attacks, you may pay {W}{B} and 2 life. When you do, return target nonland permanent card with mana value 3 or less from your graveyard to the battlefield with a finality counter on it.","B,W","B,W",rare,BLB,Bloomburrow,355,3,3,,Flying;Vigilance
+"Zoraline, Cosmos Caller",{1}{W}{B},3.0,Legendary Creature — Bat Cleric,"Flying, vigilance
+Whenever a Bat you control attacks, you gain 1 life.
+Whenever Zoraline enters or attacks, you may pay {W}{B} and 2 life. When you do, return target nonland permanent card with mana value 3 or less from your graveyard to the battlefield with a finality counter on it.","B,W","B,W",rare,PBLB,Bloomburrow Promos,242p,3,3,,Flying;Vigilance
+"Zoraline, Cosmos Caller",{1}{W}{B},3.0,Legendary Creature — Bat Cleric,"Flying, vigilance
+Whenever a Bat you control attacks, you gain 1 life.
+Whenever Zoraline enters or attacks, you may pay {W}{B} and 2 life. When you do, return target nonland permanent card with mana value 3 or less from your graveyard to the battlefield with a finality counter on it.","B,W","B,W",rare,BLB,Bloomburrow,242,3,3,,Flying;Vigilance
+Zoyowa Lava-Tongue,{B}{R},2.0,Legendary Creature — Goblin Warlock,"Deathtouch
+At the beginning of your end step, if you descended this turn, each opponent may discard a card or sacrifice a permanent of their choice. Zoyowa deals 3 damage to each opponent who didn't. (You descended if a permanent card was put into your graveyard from anywhere.)","B,R","B,R",uncommon,LCI,The Lost Caverns of Ixalan,312,2,2,,Deathtouch
+Zoyowa Lava-Tongue,{B}{R},2.0,Legendary Creature — Goblin Warlock,"Deathtouch
+At the beginning of your end step, if you descended this turn, each opponent may discard a card or sacrifice a permanent of their choice. Zoyowa deals 3 damage to each opponent who didn't. (You descended if a permanent card was put into your graveyard from anywhere.)","B,R","B,R",uncommon,LCI,The Lost Caverns of Ixalan,245,2,2,,Deathtouch
+"Zuko, Conflicted",{B}{R},2.0,Legendary Creature — Human Rogue,"At the beginning of your first main phase, choose one that hasn't been chosen and you lose 2 life —
+• Draw a card.
+• Put a +1/+1 counter on Zuko.
+• Add {R}.
+• Exile Zuko, then return him to the battlefield under an opponent's control.","B,R","B,R",rare,TLA,Avatar: The Last Airbender,302,2,3,,
+"Zuko, Conflicted",{B}{R},2.0,Legendary Creature — Human Rogue,"At the beginning of your first main phase, choose one that hasn't been chosen and you lose 2 life —
+• Draw a card.
+• Put a +1/+1 counter on Zuko.
+• Add {R}.
+• Exile Zuko, then return him to the battlefield under an opponent's control.","B,R","B,R",rare,PTLA,Avatar: The Last Airbender Promos,253s,2,3,,
+"Zuko, Conflicted",{B}{R},2.0,Legendary Creature — Human Rogue,"At the beginning of your first main phase, choose one that hasn't been chosen and you lose 2 life —
+• Draw a card.
+• Put a +1/+1 counter on Zuko.
+• Add {R}.
+• Exile Zuko, then return him to the battlefield under an opponent's control.","B,R","B,R",rare,TLA,Avatar: The Last Airbender,253,2,3,,
+"Zuko, Exiled Prince",{3}{R},4.0,Legendary Creature — Human Noble,"Firebending 3 (Whenever this creature attacks, add {R}{R}{R}. This mana lasts until end of combat.)
+{3}: Exile the top card of your library. You may play that card this turn.",R,R,uncommon,TLA,Avatar: The Last Airbender,163,4,3,,Firebending
+"Zul Ashur, Lich Lord",{1}{B},2.0,Legendary Creature — Zombie Warlock,"Ward—Pay 2 life. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.)
+{T}: You may cast target Zombie creature card from your graveyard this turn.",B,B,rare,FDN,Foundations,326,2,2,,Ward
+"Zul Ashur, Lich Lord",{1}{B},2.0,Legendary Creature — Zombie Warlock,"Ward—Pay 2 life. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.)
+{T}: You may cast target Zombie creature card from your graveyard this turn.",B,B,rare,FDN,Foundations,77,2,2,,Ward
+"Zul Ashur, Lich Lord",{1}{B},2.0,Legendary Creature — Zombie Warlock,"Ward—Pay 2 life. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.)
+{T}: You may cast target Zombie creature card from your graveyard this turn.",B,B,rare,FDN,Foundations,464,2,2,,Ward
+"Zul Ashur, Lich Lord",{1}{B},2.0,Legendary Creature — Zombie Warlock,"Ward—Pay 2 life. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.)
+{T}: You may cast target Zombie creature card from your graveyard this turn.",B,B,rare,PFDN,Foundations Promos,77s,2,2,,Ward
+"Zul Ashur, Lich Lord",{1}{B},2.0,Legendary Creature — Zombie Warlock,"Ward—Pay 2 life. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.)
+{T}: You may cast target Zombie creature card from your graveyard this turn.",B,B,rare,PFDN,Foundations Promos,77p,2,2,,Ward
+"Zul Ashur, Lich Lord",{1}{B},2.0,Legendary Creature — Zombie Warlock,"Ward—Pay 2 life. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.)
+{T}: You may cast target Zombie creature card from your graveyard this turn.",B,B,rare,FDN,Foundations,389,2,2,,Ward
+Zurgo's Vanguard,{2}{R},3.0,Creature — Dog Soldier,"Mobilize 1 (Whenever this creature attacks, create a tapped and attacking 1/1 red Warrior creature token. Sacrifice it at the beginning of the next end step.)
+Zurgo's Vanguard's power is equal to the number of creatures you control.",R,R,uncommon,TDM,Tarkir: Dragonstorm,133,*,3,,Mobilize
+"Zurgo, Thunder's Decree",{R}{W}{B},3.0,Legendary Creature — Orc Warrior,"Mobilize 2 (Whenever this creature attacks, create two tapped and attacking 1/1 red Warrior creature tokens. Sacrifice them at the beginning of the next end step.)
+During your end step, Warrior tokens you control have ""This token can't be sacrificed.""","B,R,W","B,R,W",rare,PTDM,Tarkir: Dragonstorm Promos,237p,2,4,,Mobilize
+"Zurgo, Thunder's Decree",{R}{W}{B},3.0,Legendary Creature — Orc Warrior,"Mobilize 2 (Whenever this creature attacks, create two tapped and attacking 1/1 red Warrior creature tokens. Sacrifice them at the beginning of the next end step.)
+During your end step, Warrior tokens you control have ""This token can't be sacrificed.""","B,R,W","B,R,W",rare,TDM,Tarkir: Dragonstorm,237,2,4,,Mobilize
+"Zurgo, Thunder's Decree",{R}{W}{B},3.0,Legendary Creature — Orc Warrior,"Mobilize 2 (Whenever this creature attacks, create two tapped and attacking 1/1 red Warrior creature tokens. Sacrifice them at the beginning of the next end step.)
+During your end step, Warrior tokens you control have ""This token can't be sacrificed.""","B,R,W","B,R,W",rare,TDM,Tarkir: Dragonstorm,376,2,4,,Mobilize
+"Zurgo, Thunder's Decree",{R}{W}{B},3.0,Legendary Creature — Orc Warrior,"Mobilize 2 (Whenever this creature attacks, create two tapped and attacking 1/1 red Warrior creature tokens. Sacrifice them at the beginning of the next end step.)
+During your end step, Warrior tokens you control have ""This token can't be sacrificed.""","B,R,W","B,R,W",rare,PTDM,Tarkir: Dragonstorm Promos,237s,2,4,,Mobilize

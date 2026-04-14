@@ -1,0 +1,57 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Kellan Joins Up,{G}{W}{U},3.0,Legendary Enchantment,"When Kellan Joins Up enters, you may exile a nonland card with mana value 3 or less from your hand. If you do, it becomes plotted. (You may cast it as a sorcery on a later turn without paying its mana cost.)
+Whenever a legendary creature you control enters, put a +1/+1 counter on each creature you control.","G,U,W","G,U,W",rare,OTJ,Outlaws of Thunder Junction,354,,,,Plot
+Kellan Joins Up,{G}{W}{U},3.0,Legendary Enchantment,"When Kellan Joins Up enters, you may exile a nonland card with mana value 3 or less from your hand. If you do, it becomes plotted. (You may cast it as a sorcery on a later turn without paying its mana cost.)
+Whenever a legendary creature you control enters, put a +1/+1 counter on each creature you control.","G,U,W","G,U,W",rare,OTJ,Outlaws of Thunder Junction,212,,,,Plot
+Kellan Joins Up,{G}{W}{U},3.0,Legendary Enchantment,"When Kellan Joins Up enters, you may exile a nonland card with mana value 3 or less from your hand. If you do, it becomes plotted. (You may cast it as a sorcery on a later turn without paying its mana cost.)
+Whenever a legendary creature you control enters, put a +1/+1 counter on each creature you control.","G,U,W","G,U,W",rare,POTJ,Outlaws of Thunder Junction Promos,212p,,,,Plot
+Kellan Joins Up,{G}{W}{U},3.0,Legendary Enchantment,"When Kellan Joins Up enters, you may exile a nonland card with mana value 3 or less from your hand. If you do, it becomes plotted. (You may cast it as a sorcery on a later turn without paying its mana cost.)
+Whenever a legendary creature you control enters, put a +1/+1 counter on each creature you control.","G,U,W","G,U,W",rare,POTJ,Outlaws of Thunder Junction Promos,212s,,,,Plot
+Kickoff Celebrations,{1}{R},2.0,Enchantment,"Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+When this enchantment enters, you may discard a card. If you do, draw two cards.
+Max speed — Sacrifice this enchantment: Creatures and Vehicles you control gain haste until end of turn.",R,R,common,DFT,Aetherdrift,135,,,,Max speed;Start your engines!
+Kinbinding,{3}{W}{W},5.0,Enchantment,"Creatures you control get +X/+X, where X is the number of creatures that entered the battlefield under your control this turn.
+At the beginning of combat on your turn, create a 1/1 green and white Kithkin creature token.",W,W,rare,PECL,Lorwyn Eclipsed Promos,20p,,,,
+Kinbinding,{3}{W}{W},5.0,Enchantment,"Creatures you control get +X/+X, where X is the number of creatures that entered the battlefield under your control this turn.
+At the beginning of combat on your turn, create a 1/1 green and white Kithkin creature token.",W,W,rare,ECL,Lorwyn Eclipsed,20,,,,
+Kinbinding,{3}{W}{W},5.0,Enchantment,"Creatures you control get +X/+X, where X is the number of creatures that entered the battlefield under your control this turn.
+At the beginning of combat on your turn, create a 1/1 green and white Kithkin creature token.",W,W,rare,ECL,Lorwyn Eclipsed,299,,,,
+Kinbinding,{3}{W}{W},5.0,Enchantment,"Creatures you control get +X/+X, where X is the number of creatures that entered the battlefield under your control this turn.
+At the beginning of combat on your turn, create a 1/1 green and white Kithkin creature token.",W,W,rare,ECL,Lorwyn Eclipsed,407,,,,
+Kitnap,{2}{U}{U},4.0,Enchantment — Aura,"Gift a card (You may promise an opponent a gift as you cast this spell. If you do, when it enters, they draw a card.)
+Enchant creature
+When this Aura enters, tap enchanted creature. If the gift wasn't promised, put three stun counters on it.
+You control enchanted creature.",U,U,rare,BLB,Bloomburrow,53,,,,Gift;Enchant
+Kitnap,{2}{U}{U},4.0,Enchantment — Aura,"Gift a card (You may promise an opponent a gift as you cast this spell. If you do, when it enters, they draw a card.)
+Enchant creature
+When this Aura enters, tap enchanted creature. If the gift wasn't promised, put three stun counters on it.
+You control enchanted creature.",U,U,rare,BLB,Bloomburrow,357,,,,Gift;Enchant
+Kitnap,{2}{U}{U},4.0,Enchantment — Aura,"Gift a card (You may promise an opponent a gift as you cast this spell. If you do, when it enters, they draw a card.)
+Enchant creature
+When this Aura enters, tap enchanted creature. If the gift wasn't promised, put three stun counters on it.
+You control enchanted creature.",U,U,rare,PBLB,Bloomburrow Promos,53s,,,,Gift;Enchant
+Kitnap,{2}{U}{U},4.0,Enchantment — Aura,"Gift a card (You may promise an opponent a gift as you cast this spell. If you do, when it enters, they draw a card.)
+Enchant creature
+When this Aura enters, tap enchanted creature. If the gift wasn't promised, put three stun counters on it.
+You control enchanted creature.",U,U,rare,PBLB,Bloomburrow Promos,53p,,,,Gift;Enchant
+Korvold and the Noble Thief,{3}{R},4.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II — Create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")
+III — Exile the top three cards of target opponent's library. You may play those cards this turn.",R,R,uncommon,WOE,Wilds of Eldraine,139,,,,Treasure
+Kraven's Last Hunt,{3}{G},4.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Mill five cards. When you do, this Saga deals damage equal to the greatest power among creature cards in your graveyard to target creature.
+II — Target creature you control gets +2/+2 until end of turn.
+III — Return target creature card from your graveyard to your hand.",G,G,rare,OM1,Through the Omenpaths,121,,,,Mill
+Kraven's Last Hunt,{3}{G},4.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Mill five cards. When you do, this Saga deals damage equal to the greatest power among creature cards in your graveyard to target creature.
+II — Target creature you control gets +2/+2 until end of turn.
+III — Return target creature card from your graveyard to your hand.",G,G,rare,PSPM,Marvel's Spider-Man Promos,105s,,,,Mill
+Kraven's Last Hunt,{3}{G},4.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Mill five cards. When you do, this Saga deals damage equal to the greatest power among creature cards in your graveyard to target creature.
+II — Target creature you control gets +2/+2 until end of turn.
+III — Return target creature card from your graveyard to your hand.",G,G,rare,SPM,Marvel's Spider-Man,105,,,,Mill
+Kraven's Last Hunt,{3}{G},4.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Mill five cards. When you do, this Saga deals damage equal to the greatest power among creature cards in your graveyard to target creature.
+II — Target creature you control gets +2/+2 until end of turn.
+III — Return target creature card from your graveyard to your hand.",G,G,rare,SPM,Marvel's Spider-Man,226,,,,Mill
+Kyoshi Island Plaza,{3}{G},4.0,Legendary Enchantment — Shrine,"When Kyoshi Island Plaza enters, search your library for up to X basic land cards, where X is the number of Shrines you control. Put those cards onto the battlefield tapped, then shuffle.
+Whenever another Shrine you control enters, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",G,G,uncommon,TLA,Avatar: The Last Airbender,184,,,,

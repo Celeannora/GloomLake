@@ -1,0 +1,84 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Faerie Slumber Party,{4}{U}{U},6.0,Sorcery,"Return all creatures to their owners' hands. For each opponent who controlled a creature returned this way, you create two 1/1 blue Faerie creature tokens with flying and ""This token can block only creatures with flying.""",U,U,rare,WOE,Wilds of Eldraine,371,,,,
+Faerie Slumber Party,{4}{U}{U},6.0,Sorcery,"Return all creatures to their owners' hands. For each opponent who controlled a creature returned this way, you create two 1/1 blue Faerie creature tokens with flying and ""This token can block only creatures with flying.""",U,U,rare,WOE,Wilds of Eldraine,311,,,,
+Feed the Swarm,{1}{B},2.0,Sorcery,Destroy target creature or enchantment an opponent controls. You lose life equal to that permanent's mana value.,B,B,common,LTC,Tales of Middle-earth Commander,200,,,,
+Feed the Swarm,{1}{B},2.0,Sorcery,Destroy target creature or enchantment an opponent controls. You lose life equal to that permanent's mana value.,B,B,common,OTC,Outlaws of Thunder Junction Commander,134,,,,
+Feed the Swarm,{1}{B},2.0,Sorcery,Destroy target creature or enchantment an opponent controls. You lose life equal to that permanent's mana value.,B,B,common,NCC,New Capenna Commander,250,,,,
+Feed the Swarm,{1}{B},2.0,Sorcery,Destroy target creature or enchantment an opponent controls. You lose life equal to that permanent's mana value.,B,B,common,OMB,Through the Omenpaths Bonus Sheet,16,,,,
+Feed the Swarm,{1}{B},2.0,Sorcery,Destroy target creature or enchantment an opponent controls. You lose life equal to that permanent's mana value.,B,B,common,WHO,Doctor Who,812,,,,
+Feed the Swarm,{1}{B},2.0,Sorcery,Destroy target creature or enchantment an opponent controls. You lose life equal to that permanent's mana value.,B,B,rare,SLD,Secret Lair Drop,7001,,,,
+Feed the Swarm,{1}{B},2.0,Sorcery,Destroy target creature or enchantment an opponent controls. You lose life equal to that permanent's mana value.,B,B,common,TLE,Avatar: The Last Airbender Eternal,257,,,,
+Feed the Swarm,{1}{B},2.0,Sorcery,Destroy target creature or enchantment an opponent controls. You lose life equal to that permanent's mana value.,B,B,common,PLST,The List,SCD-77,,,,
+Feed the Swarm,{1}{B},2.0,Sorcery,Destroy target creature or enchantment an opponent controls. You lose life equal to that permanent's mana value.,B,B,common,SCD,Starter Commander Decks,77,,,,
+Feed the Swarm,{1}{B},2.0,Sorcery,Destroy target creature or enchantment an opponent controls. You lose life equal to that permanent's mana value.,B,B,common,VOC,Crimson Vow Commander,129,,,,
+Feed the Swarm,{1}{B},2.0,Sorcery,Destroy target creature or enchantment an opponent controls. You lose life equal to that permanent's mana value.,B,B,common,BRC,The Brothers' War Commander,106,,,,
+Feed the Swarm,{1}{B},2.0,Sorcery,Destroy target creature or enchantment an opponent controls. You lose life equal to that permanent's mana value.,B,B,common,CMM,Commander Masters,159,,,,
+Feed the Swarm,{1}{B},2.0,Sorcery,Destroy target creature or enchantment an opponent controls. You lose life equal to that permanent's mana value.,B,B,common,C21,Commander 2021,144,,,,
+Feed the Swarm,{1}{B},2.0,Sorcery,Destroy target creature or enchantment an opponent controls. You lose life equal to that permanent's mana value.,B,B,common,LCC,The Lost Caverns of Ixalan Commander,198,,,,
+Feed the Swarm,{1}{B},2.0,Sorcery,Destroy target creature or enchantment an opponent controls. You lose life equal to that permanent's mana value.,B,B,common,DSC,Duskmourn: House of Horror Commander,78,,,,
+Feed the Swarm,{1}{B},2.0,Sorcery,Destroy target creature or enchantment an opponent controls. You lose life equal to that permanent's mana value.,B,B,common,TDC,Tarkir: Dragonstorm Commander,180,,,,
+Feed the Swarm,{1}{B},2.0,Sorcery,Destroy target creature or enchantment an opponent controls. You lose life equal to that permanent's mana value.,B,B,common,WHO,Doctor Who,221,,,,
+Feed the Swarm,{1}{B},2.0,Sorcery,Destroy target creature or enchantment an opponent controls. You lose life equal to that permanent's mana value.,B,B,mythic,MAR,Marvel Universe,16,,,,
+Feed the Swarm,{1}{B},2.0,Sorcery,Destroy target creature or enchantment an opponent controls. You lose life equal to that permanent's mana value.,B,B,common,FDN,Foundations,712,,,,
+Feed the Swarm,{1}{B},2.0,Sorcery,Destroy target creature or enchantment an opponent controls. You lose life equal to that permanent's mana value.,B,B,common,MIC,Midnight Hunt Commander,117,,,,
+Feed the Swarm,{1}{B},2.0,Sorcery,Destroy target creature or enchantment an opponent controls. You lose life equal to that permanent's mana value.,B,B,common,ZNR,Zendikar Rising,102,,,,
+Feed the Swarm,{1}{B},2.0,Sorcery,Destroy target creature or enchantment an opponent controls. You lose life equal to that permanent's mana value.,B,B,common,CLB,Commander Legends: Battle for Baldur's Gate,752,,,,
+Fell,{1}{B},2.0,Sorcery,Destroy target creature.,B,B,uncommon,BLB,Bloomburrow,383,,,,
+Fell,{1}{B},2.0,Sorcery,Destroy target creature.,B,B,uncommon,BLB,Bloomburrow,95,,,,
+Felling Blow,{2}{G},3.0,Sorcery,Put a +1/+1 counter on target creature you control. Then that creature deals damage equal to its power to target creature an opponent controls.,G,G,uncommon,FDN,Foundations,105,,,,
+Feral Encounter,{G}{G},2.0,Sorcery,"Look at the top five cards of your library. You may exile a creature card from among them. Put the rest on the bottom of your library in a random order. You may cast the exiled card this turn. At the beginning of the next combat phase this turn, target creature you control deals damage equal to its power to up to one target creature you don't control.",G,G,rare,PWOE,Wilds of Eldraine Promos,169p,,,,
+Feral Encounter,{G}{G},2.0,Sorcery,"Look at the top five cards of your library. You may exile a creature card from among them. Put the rest on the bottom of your library in a random order. You may cast the exiled card this turn. At the beginning of the next combat phase this turn, target creature you control deals damage equal to its power to up to one target creature you don't control.",G,G,rare,PWOE,Wilds of Eldraine Promos,169s,,,,
+Feral Encounter,{G}{G},2.0,Sorcery,"Look at the top five cards of your library. You may exile a creature card from among them. Put the rest on the bottom of your library in a random order. You may cast the exiled card this turn. At the beginning of the next combat phase this turn, target creature you control deals damage equal to its power to up to one target creature you don't control.",G,G,rare,WOE,Wilds of Eldraine,356,,,,
+Feral Encounter,{G}{G},2.0,Sorcery,"Look at the top five cards of your library. You may exile a creature card from among them. Put the rest on the bottom of your library in a random order. You may cast the exiled card this turn. At the beginning of the next combat phase this turn, target creature you control deals damage equal to its power to up to one target creature you don't control.",G,G,rare,WOE,Wilds of Eldraine,169,,,,
+Final Vengeance,{B},1.0,Sorcery,"As an additional cost to cast this spell, sacrifice a creature or enchantment.
+Exile target creature.",B,B,common,DSK,Duskmourn: House of Horror,99,,,,
+Finale of Revelation,{X}{U}{U},2.0,Sorcery,"Draw X cards. If X is 10 or more, instead shuffle your graveyard into your library, draw X cards, untap up to five lands, and you have no maximum hand size for the rest of the game.
+Exile Finale of Revelation.",U,U,mythic,FDN,Foundations,589,,,,
+Finale of Revelation,{X}{U}{U},2.0,Sorcery,"Draw X cards. If X is 10 or more, instead shuffle your graveyard into your library, draw X cards, untap up to five lands, and you have no maximum hand size for the rest of the game.
+Exile Finale of Revelation.",U,U,mythic,MKC,Murders at Karlov Manor Commander,106,,,,
+Finale of Revelation,{X}{U}{U},2.0,Sorcery,"Draw X cards. If X is 10 or more, instead shuffle your graveyard into your library, draw X cards, untap up to five lands, and you have no maximum hand size for the rest of the game.
+Exile Finale of Revelation.",U,U,mythic,M3C,Modern Horizons 3 Commander,185,,,,
+Finale of Revelation,{X}{U}{U},2.0,Sorcery,"Draw X cards. If X is 10 or more, instead shuffle your graveyard into your library, draw X cards, untap up to five lands, and you have no maximum hand size for the rest of the game.
+Exile Finale of Revelation.",U,U,mythic,WAR,War of the Spark,51,,,,
+Finale of Revelation,{X}{U}{U},2.0,Sorcery,"Draw X cards. If X is 10 or more, instead shuffle your graveyard into your library, draw X cards, untap up to five lands, and you have no maximum hand size for the rest of the game.
+Exile Finale of Revelation.",U,U,mythic,OTC,Outlaws of Thunder Junction Commander,97,,,,
+Finale of Revelation,{X}{U}{U},2.0,Sorcery,"Draw X cards. If X is 10 or more, instead shuffle your graveyard into your library, draw X cards, untap up to five lands, and you have no maximum hand size for the rest of the game.
+Exile Finale of Revelation.",U,U,mythic,PWAR,War of the Spark Promos,51s,,,,
+Finale of Revelation,{X}{U}{U},2.0,Sorcery,"Draw X cards. If X is 10 or more, instead shuffle your graveyard into your library, draw X cards, untap up to five lands, and you have no maximum hand size for the rest of the game.
+Exile Finale of Revelation.",U,U,mythic,PWAR,War of the Spark Promos,51p,,,,
+Foggy Swamp Visions,{1}{B}{B},3.0,Sorcery,"As an additional cost to cast this spell, waterbend {X}. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)
+Exile X target creature cards from graveyards. For each creature card exiled this way, create a token that's a copy of it. At the beginning of your next end step, sacrifice those tokens.",B,B,rare,TLA,Avatar: The Last Airbender,102,,,,Waterbend
+Foggy Swamp Visions,{1}{B}{B},3.0,Sorcery,"As an additional cost to cast this spell, waterbend {X}. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)
+Exile X target creature cards from graveyards. For each creature card exiled this way, create a token that's a copy of it. At the beginning of your next end step, sacrifice those tokens.",B,B,rare,PTLA,Avatar: The Last Airbender Promos,102s,,,,Waterbend
+Foggy Swamp Visions,{1}{B}{B},3.0,Sorcery,"As an additional cost to cast this spell, waterbend {X}. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)
+Exile X target creature cards from graveyards. For each creature card exiled this way, create a token that's a copy of it. At the beginning of your next end step, sacrifice those tokens.",B,B,rare,TLA,Avatar: The Last Airbender,339,,,,Waterbend
+For the Common Good,{X}{X}{G},1.0,Sorcery,Create X tokens that are copies of target token you control. Then tokens you control gain indestructible until your next turn. You gain 1 life for each token you control.,G,G,rare,PBLB,Bloomburrow Promos,172p,,,,
+For the Common Good,{X}{X}{G},1.0,Sorcery,Create X tokens that are copies of target token you control. Then tokens you control gain indestructible until your next turn. You gain 1 life for each token you control.,G,G,rare,BLB,Bloomburrow,172,,,,
+For the Common Good,{X}{X}{G},1.0,Sorcery,Create X tokens that are copies of target token you control. Then tokens you control gain indestructible until your next turn. You gain 1 life for each token you control.,G,G,rare,BLB,Bloomburrow,321,,,,
+For the Common Good,{X}{X}{G},1.0,Sorcery,Create X tokens that are copies of target token you control. Then tokens you control gain indestructible until your next turn. You gain 1 life for each token you control.,G,G,rare,PBLB,Bloomburrow Promos,172s,,,,
+Form a Posse,{X}{R}{W},2.0,Sorcery,"Create X 1/1 red Mercenary creature tokens with ""{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.""","R,W","R,W",uncommon,OTJ,Outlaws of Thunder Junction,204,,,,
+Freeze in Place,{1}{U},2.0,Sorcery,"Tap target creature an opponent controls and put three stun counters on it. Scry 2. (If a permanent with a stun counter would become untapped, remove one from it instead.)",U,U,common,WOE,Wilds of Eldraine,50,,,,Scry
+From Father to Son,{1}{W},2.0,Sorcery,"Search your library for a Vehicle card, reveal it, and put it into your hand. If this spell was cast from a graveyard, put that card onto the battlefield instead. Then shuffle.
+Flashback {4}{W}{W}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",W,W,rare,FIN,Final Fantasy,20,,,,Flashback
+From Father to Son,{1}{W},2.0,Sorcery,"Search your library for a Vehicle card, reveal it, and put it into your hand. If this spell was cast from a graveyard, put that card onto the battlefield instead. Then shuffle.
+Flashback {4}{W}{W}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",W,W,rare,PFIN,Final Fantasy Promos,20s,,,,Flashback
+Full Steam Ahead,{3}{G}{G},5.0,Sorcery,"Until end of turn, each creature you control gets +2/+2 and gains trample and ""This creature can't be blocked by more than one creature.""",G,G,uncommon,OTJ,Outlaws of Thunder Junction,164,,,,
+Full Throttle,{4}{R}{R},6.0,Sorcery,"After this main phase, there are two additional combat phases.
+At the beginning of each combat this turn, untap all creatures that attacked this turn.",R,R,rare,PDFT,Aetherdrift Promos,127p,,,,
+Full Throttle,{4}{R}{R},6.0,Sorcery,"After this main phase, there are two additional combat phases.
+At the beginning of each combat this turn, untap all creatures that attacked this turn.",R,R,rare,DFT,Aetherdrift,460,,,,
+Full Throttle,{4}{R}{R},6.0,Sorcery,"After this main phase, there are two additional combat phases.
+At the beginning of each combat this turn, untap all creatures that attacked this turn.",R,R,rare,PDFT,Aetherdrift Promos,127s,,,,
+Full Throttle,{4}{R}{R},6.0,Sorcery,"After this main phase, there are two additional combat phases.
+At the beginning of each combat this turn, untap all creatures that attacked this turn.",R,R,rare,DFT,Aetherdrift,127,,,,
+Full Throttle,{4}{R}{R},6.0,Sorcery,"After this main phase, there are two additional combat phases.
+At the beginning of each combat this turn, untap all creatures that attacked this turn.",R,R,rare,DFT,Aetherdrift,386,,,,
+Fumigate,{3}{W}{W},5.0,Sorcery,Destroy all creatures. You gain 1 life for each creature destroyed this way.,W,W,rare,PKLD,Kaladesh Promos,15p,,,,
+Fumigate,{3}{W}{W},5.0,Sorcery,Destroy all creatures. You gain 1 life for each creature destroyed this way.,W,W,rare,KLR,Kaladesh Remastered,19,,,,
+Fumigate,{3}{W}{W},5.0,Sorcery,Destroy all creatures. You gain 1 life for each creature destroyed this way.,W,W,rare,PKLD,Kaladesh Promos,15s,,,,
+Fumigate,{3}{W}{W},5.0,Sorcery,Destroy all creatures. You gain 1 life for each creature destroyed this way.,W,W,rare,ONC,Phyrexia: All Will Be One Commander,69,,,,
+Fumigate,{3}{W}{W},5.0,Sorcery,Destroy all creatures. You gain 1 life for each creature destroyed this way.,W,W,rare,LTC,Tales of Middle-earth Commander,170,,,,
+Fumigate,{3}{W}{W},5.0,Sorcery,Destroy all creatures. You gain 1 life for each creature destroyed this way.,W,W,rare,EOC,Edge of Eternities Commander,65,,,,
+Fumigate,{3}{W}{W},5.0,Sorcery,Destroy all creatures. You gain 1 life for each creature destroyed this way.,W,W,rare,MKC,Murders at Karlov Manor Commander,66,,,,
+Fumigate,{3}{W}{W},5.0,Sorcery,Destroy all creatures. You gain 1 life for each creature destroyed this way.,W,W,rare,FDN,Foundations,575,,,,
+Fumigate,{3}{W}{W},5.0,Sorcery,Destroy all creatures. You gain 1 life for each creature destroyed this way.,W,W,rare,KLD,Kaladesh,15,,,,

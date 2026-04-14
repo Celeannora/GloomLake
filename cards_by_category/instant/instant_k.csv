@@ -1,0 +1,20 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Keep Out,{1}{W},2.0,Instant,"Choose one —
+• Keep Out deals 4 damage to target tapped creature.
+• Destroy target enchantment.",W,W,common,ECL,Lorwyn Eclipsed,19,,,,
+Kellan's Lightblades,{1}{W},2.0,Instant,"Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
+Kellan's Lightblades deals 3 damage to target attacking or blocking creature. If this spell was bargained, destroy that creature instead.",W,W,common,WOE,Wilds of Eldraine,18,,,,Bargain
+Kin-Tree Severance,{2/W}{2/B}{2/G},6.0,Instant,Exile target permanent with mana value 3 or greater.,"B,G,W","B,G,W",uncommon,TDM,Tarkir: Dragonstorm,200,,,,
+Kindled Fury,{R},1.0,Instant,Target creature gets +1/+0 and gains first strike until end of turn. (It deals combat damage before creatures without first strike.),R,R,common,M13,Magic 2013,137,,,,
+Kindled Fury,{R},1.0,Instant,Target creature gets +1/+0 and gains first strike until end of turn. (It deals combat damage before creatures without first strike.),R,R,common,NEO,Kamigawa: Neon Dynasty,151,,,,
+Kindled Fury,{R},1.0,Instant,Target creature gets +1/+0 and gains first strike until end of turn. (It deals combat damage before creatures without first strike.),R,R,common,J25,Foundations Jumpstart,571,,,,
+Kindled Fury,{R},1.0,Instant,Target creature gets +1/+0 and gains first strike until end of turn. (It deals combat damage before creatures without first strike.),R,R,common,DTK,Dragons of Tarkir,142,,,,
+Kindled Fury,{R},1.0,Instant,Target creature gets +1/+0 and gains first strike until end of turn. (It deals combat damage before creatures without first strike.),R,R,common,M10,Magic 2010,144,,,,
+Kindled Fury,{R},1.0,Instant,Target creature gets +1/+0 and gains first strike until end of turn. (It deals combat damage before creatures without first strike.),R,R,common,MOR,Morningtide,92,,,,
+Kindled Fury,{R},1.0,Instant,Target creature gets +1/+0 and gains first strike until end of turn. (It deals combat damage before creatures without first strike.),R,R,common,FDN,Foundations,542,,,,
+Kindled Fury,{R},1.0,Instant,Target creature gets +1/+0 and gains first strike until end of turn. (It deals combat damage before creatures without first strike.),R,R,common,HOU,Hour of Devastation,101,,,,
+Kindled Heroism,{R},1.0,Instant,Target creature gets +1/+0 and gains first strike until end of turn. Scry 1.,R,R,common,WOE,Wilds of Eldraine,138,,,,Scry
+Kitsune's Technique,{4}{U}{U},6.0,Instant,"Sneak {1}{U} (You may cast this spell for {1}{U} if you also return an unblocked attacker you control to hand during the declare blockers step.)
+Target opponent mills half their library, rounded up.",U,U,rare,TMT,Teenage Mutant Ninja Turtles,229,,,,Mill;Sneak
+Kitsune's Technique,{4}{U}{U},6.0,Instant,"Sneak {1}{U} (You may cast this spell for {1}{U} if you also return an unblocked attacker you control to hand during the declare blockers step.)
+Target opponent mills half their library, rounded up.",U,U,rare,TMT,Teenage Mutant Ninja Turtles,42,,,,Mill;Sneak

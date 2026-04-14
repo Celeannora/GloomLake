@@ -1,0 +1,83 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Abzan Monument,{2},2.0,Artifact,"When this artifact enters, search your library for a basic Plains, Swamp, or Forest card, reveal it, put it into your hand, then shuffle.
+{1}{W}{B}{G}, {T}, Sacrifice this artifact: Create an X/X white Spirit creature token, where X is the greatest toughness among creatures you control. Activate only as a sorcery.",,"B,G,W",uncommon,TDM,Tarkir: Dragonstorm,238,,,,
+Adventurer's Airship,{3},3.0,Artifact — Vehicle,"Flying
+Whenever this Vehicle attacks, draw a card, then discard a card.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)",,,common,FIN,Final Fantasy,252,3,2,,Flying;Crew
+Adventuring Gear,{1},1.0,Artifact — Equipment,"Landfall — Whenever a land you control enters, equipped creature gets +2/+2 until end of turn.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",,,uncommon,FDN,Foundations,249,,,,Equip;Landfall
+Adventuring Gear,{1},1.0,Artifact — Equipment,"Landfall — Whenever a land you control enters, equipped creature gets +2/+2 until end of turn.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",,,common,ZEN,Zendikar,195,,,,Equip;Landfall
+Adventuring Gear,{1},1.0,Artifact — Equipment,"Landfall — Whenever a land you control enters, equipped creature gets +2/+2 until end of turn.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",,,common,J22,Jumpstart 2022,751,,,,Equip;Landfall
+Aether Syphon,{1}{U}{U},3.0,Artifact,"Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+{2}, {T}: Draw a card.
+Max speed — Whenever you draw a card, each opponent mills two cards. (Each opponent puts the top two cards of their library into their graveyard.)",U,U,uncommon,DFT,Aetherdrift,38,,,,Max speed;Mill;Start your engines!
+Aettir and Priwen,{6},6.0,Legendary Artifact — Equipment,"Equipped creature has base power and toughness X/X, where X is your life total.
+Equip {5}",,,mythic,FIN,Final Fantasy,253,,,,Equip
+Aettir and Priwen,{6},6.0,Legendary Artifact — Equipment,"Equipped creature has base power and toughness X/X, where X is your life total.
+Equip {5}",,,mythic,FIN,Final Fantasy,350,,,,Equip
+Aettir and Priwen,{6},6.0,Legendary Artifact — Equipment,"Equipped creature has base power and toughness X/X, where X is your life total.
+Equip {5}",,,mythic,PFIN,Final Fantasy Promos,253s,,,,Equip
+Agatha's Soul Cauldron,{2},2.0,Legendary Artifact,"You may spend mana as though it were mana of any color to activate abilities of creatures you control.
+Creatures you control with +1/+1 counters on them have all activated abilities of all creature cards exiled with Agatha's Soul Cauldron.
+{T}: Exile target card from a graveyard. When a creature card is exiled this way, put a +1/+1 counter on target creature you control.",,,mythic,WOE,Wilds of Eldraine,242,,,,
+Agatha's Soul Cauldron,{2},2.0,Legendary Artifact,"You may spend mana as though it were mana of any color to activate abilities of creatures you control.
+Creatures you control with +1/+1 counters on them have all activated abilities of all creature cards exiled with Agatha's Soul Cauldron.
+{T}: Exile target card from a graveyard. When a creature card is exiled this way, put a +1/+1 counter on target creature you control.",,,mythic,PWOE,Wilds of Eldraine Promos,242s,,,,
+Agatha's Soul Cauldron,{2},2.0,Legendary Artifact,"You may spend mana as though it were mana of any color to activate abilities of creatures you control.
+Creatures you control with +1/+1 counters on them have all activated abilities of all creature cards exiled with Agatha's Soul Cauldron.
+{T}: Exile target card from a graveyard. When a creature card is exiled this way, put a +1/+1 counter on target creature you control.",,,mythic,PWOE,Wilds of Eldraine Promos,242p,,,,
+Agatha's Soul Cauldron,{2},2.0,Legendary Artifact,"You may spend mana as though it were mana of any color to activate abilities of creatures you control.
+Creatures you control with +1/+1 counters on them have all activated abilities of all creature cards exiled with Agatha's Soul Cauldron.
+{T}: Exile target card from a graveyard. When a creature card is exiled this way, put a +1/+1 counter on target creature you control.",,,mythic,WOE,Wilds of Eldraine,366,,,,
+Air Response Unit,{2}{W},3.0,Artifact — Vehicle,"Flying, vigilance
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)",W,W,uncommon,DFT,Aetherdrift,292,3,3,,Flying;Vigilance;Crew
+Air Response Unit,{2}{W},3.0,Artifact — Vehicle,"Flying, vigilance
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)",W,W,uncommon,DFT,Aetherdrift,1,3,3,,Flying;Vigilance;Crew
+Alacrian Armory,{3}{W},4.0,Artifact,"Creatures you control get +0/+1 and have vigilance.
+At the beginning of combat on your turn, choose up to one target Mount or Vehicle you control. Until end of turn, that permanent becomes saddled if it's a Mount and becomes an artifact creature if it's a Vehicle.",W,W,uncommon,DFT,Aetherdrift,2,,,,
+All-Fates Scroll,{3},3.0,Artifact,"{T}: Add one mana of any color.
+{7}, {T}, Sacrifice this artifact: Draw X cards, where X is the number of differently named lands you control.",,,uncommon,EOE,Edge of Eternities,234,,,,
+Anchovy & Banana Pizza,{2}{B}{B},4.0,Artifact — Food,"When this artifact enters, destroy target creature.
+{2}, {T}, Sacrifice this artifact: You gain 3 life.",B,B,common,TMT,Teenage Mutant Ninja Turtles,57,,,,
+Ancient Cornucopia,{2}{G},3.0,Artifact,"Whenever you cast a spell that's one or more colors, you may gain 1 life for each of that spell's colors. Do this only once each turn.
+{T}: Add one mana of any color.",G,G,mythic,BIG,The Big Score,46,,,,
+Ancient Cornucopia,{2}{G},3.0,Artifact,"Whenever you cast a spell that's one or more colors, you may gain 1 life for each of that spell's colors. Do this only once each turn.
+{T}: Add one mana of any color.",G,G,mythic,BIG,The Big Score,81,,,,
+Ancient Cornucopia,{2}{G},3.0,Artifact,"Whenever you cast a spell that's one or more colors, you may gain 1 life for each of that spell's colors. Do this only once each turn.
+{T}: Add one mana of any color.",G,G,mythic,BIG,The Big Score,16,,,,
+Apocalypse Runner,{2}{B}{R},4.0,Artifact — Vehicle,"{T}: Target creature you control with power 2 or less gains lifelink until end of turn and can't be blocked this turn.
+Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)","B,R","B,R",uncommon,DFT,Aetherdrift,188,6,5,,Crew
+Apocalypse Runner,{2}{B}{R},4.0,Artifact — Vehicle,"{T}: Target creature you control with power 2 or less gains lifelink until end of turn and can't be blocked this turn.
+Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)","B,R","B,R",uncommon,DFT,Aetherdrift,319,6,5,,Crew
+Assimilation Aegis,{1}{W}{U},3.0,Artifact — Equipment,"When this Equipment enters, exile up to one target creature until this Equipment leaves the battlefield.
+Whenever this Equipment becomes attached to a creature, for as long as this Equipment remains attached to it, that creature becomes a copy of a creature card exiled with this Equipment.
+Equip {2}","U,W","U,W",mythic,OTJ,Outlaws of Thunder Junction,192,,,,Equip
+Assimilation Aegis,{1}{W}{U},3.0,Artifact — Equipment,"When this Equipment enters, exile up to one target creature until this Equipment leaves the battlefield.
+Whenever this Equipment becomes attached to a creature, for as long as this Equipment remains attached to it, that creature becomes a copy of a creature card exiled with this Equipment.
+Equip {2}","U,W","U,W",mythic,OTJ,Outlaws of Thunder Junction,348,,,,Equip
+Assimilation Aegis,{1}{W}{U},3.0,Artifact — Equipment,"When this Equipment enters, exile up to one target creature until this Equipment leaves the battlefield.
+Whenever this Equipment becomes attached to a creature, for as long as this Equipment remains attached to it, that creature becomes a copy of a creature card exiled with this Equipment.
+Equip {2}","U,W","U,W",mythic,POTJ,Outlaws of Thunder Junction Promos,192s,,,,Equip
+Assimilation Aegis,{1}{W}{U},3.0,Artifact — Equipment,"When this Equipment enters, exile up to one target creature until this Equipment leaves the battlefield.
+Whenever this Equipment becomes attached to a creature, for as long as this Equipment remains attached to it, that creature becomes a copy of a creature card exiled with this Equipment.
+Equip {2}","U,W","U,W",mythic,POTJ,Outlaws of Thunder Junction Promos,192p,,,,Equip
+Astrologian's Planisphere,{1}{U},2.0,Artifact — Equipment,"Job select (When this Equipment enters, create a 1/1 colorless Hero creature token, then attach this to it.)
+Equipped creature is a Wizard in addition to its other types and has ""Whenever you cast a noncreature spell and whenever you draw your third card each turn, put a +1/+1 counter on this creature.""
+Diana — Equip {2}",U,U,rare,PFIN,Final Fantasy Promos,46s,,,,Job select;Equip
+Astrologian's Planisphere,{1}{U},2.0,Artifact — Equipment,"Job select (When this Equipment enters, create a 1/1 colorless Hero creature token, then attach this to it.)
+Equipped creature is a Wizard in addition to its other types and has ""Whenever you cast a noncreature spell and whenever you draw your third card each turn, put a +1/+1 counter on this creature.""
+Diana — Equip {2}",U,U,rare,FIN,Final Fantasy,581,,,,Job select;Equip
+Astrologian's Planisphere,{1}{U},2.0,Artifact — Equipment,"Job select (When this Equipment enters, create a 1/1 colorless Hero creature token, then attach this to it.)
+Equipped creature is a Wizard in addition to its other types and has ""Whenever you cast a noncreature spell and whenever you draw your third card each turn, put a +1/+1 counter on this creature.""
+Diana — Equip {2}",U,U,rare,FIN,Final Fantasy,46,,,,Job select;Equip
+Atmospheric Greenhouse,{4}{G},5.0,Artifact — Spacecraft,"When this Spacecraft enters, put a +1/+1 counter on each creature you control.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 8+.)
+8+ | Flying, trample",G,G,uncommon,EOE,Edge of Eternities,171,5,4,,Station
+Atomic Microsizer,{U},1.0,Artifact — Equipment,"Equipped creature gets +1/+0.
+Whenever equipped creature attacks, choose up to one target creature. That creature can't be blocked this turn and has base power and toughness 1/1 until end of turn.
+Equip {2}",U,U,uncommon,EOE,Edge of Eternities,47,,,,Equip
+Auxiliary Boosters,{4}{W},5.0,Artifact — Equipment,"When this Equipment enters, create a 2/2 colorless Robot artifact creature token and attach this Equipment to it.
+Equipped creature gets +1/+2 and has flying.
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",W,W,common,EOE,Edge of Eternities,5,,,,Equip

@@ -1,0 +1,70 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Qarsi Revenant,{1}{B}{B},3.0,Creature — Vampire,"Flying, deathtouch, lifelink
+Renew — {2}{B}, Exile this card from your graveyard: Put a flying counter, a deathtouch counter, and a lifelink counter on target creature. Activate only as a sorcery.",B,B,rare,TDM,Tarkir: Dragonstorm,426,3,3,,Deathtouch;Flying;Lifelink;Renew
+Qarsi Revenant,{1}{B}{B},3.0,Creature — Vampire,"Flying, deathtouch, lifelink
+Renew — {2}{B}, Exile this card from your graveyard: Put a flying counter, a deathtouch counter, and a lifelink counter on target creature. Activate only as a sorcery.",B,B,rare,TDM,Tarkir: Dragonstorm,338,3,3,,Deathtouch;Flying;Lifelink;Renew
+Qarsi Revenant,{1}{B}{B},3.0,Creature — Vampire,"Flying, deathtouch, lifelink
+Renew — {2}{B}, Exile this card from your graveyard: Put a flying counter, a deathtouch counter, and a lifelink counter on target creature. Activate only as a sorcery.",B,B,rare,TDM,Tarkir: Dragonstorm,86,3,3,,Deathtouch;Flying;Lifelink;Renew
+Qarsi Revenant,{1}{B}{B},3.0,Creature — Vampire,"Flying, deathtouch, lifelink
+Renew — {2}{B}, Exile this card from your graveyard: Put a flying counter, a deathtouch counter, and a lifelink counter on target creature. Activate only as a sorcery.",B,B,rare,PTDM,Tarkir: Dragonstorm Promos,86s,3,3,,Deathtouch;Flying;Lifelink;Renew
+Qarsi Revenant,{1}{B}{B},3.0,Creature — Vampire,"Flying, deathtouch, lifelink
+Renew — {2}{B}, Exile this card from your graveyard: Put a flying counter, a deathtouch counter, and a lifelink counter on target creature. Activate only as a sorcery.",B,B,rare,PTDM,Tarkir: Dragonstorm Promos,86p,3,3,,Deathtouch;Flying;Lifelink;Renew
+Qiqirn Merchant,{2}{U},3.0,Creature — Beast Citizen,"{1}, {T}: Draw a card, then discard a card.
+{7}, {T}, Sacrifice this creature: Draw three cards. This ability costs {1} less to activate for each Town you control.",U,U,common,FIN,Final Fantasy,65,1,4,,
+Quakestrider Ceratops,{3}{G}{G}{G},6.0,Creature — Dinosaur,,G,G,uncommon,FDN,Foundations,110,12,8,,
+Quaketusk Boar,{3}{R}{R},5.0,Creature — Elemental Boar,"Reach, trample, haste",R,R,uncommon,BLB,Bloomburrow,146,5,5,,Reach;Haste;Trample
+Quantum Riddler,{3}{U}{U},5.0,Creature — Sphinx,"Flying
+When this creature enters, draw a card.
+As long as you have one or fewer cards in hand, if you would draw one or more cards, you draw that many cards plus one instead.
+Warp {1}{U}",U,U,mythic,EOE,Edge of Eternities,72,4,6,,Flying;Warp
+Quantum Riddler,{3}{U}{U},5.0,Creature — Sphinx,"Flying
+When this creature enters, draw a card.
+As long as you have one or fewer cards in hand, if you would draw one or more cards, you draw that many cards plus one instead.
+Warp {1}{U}",U,U,mythic,EOE,Edge of Eternities,305,4,6,,Flying;Warp
+Quantum Riddler,{3}{U}{U},5.0,Creature — Sphinx,"Flying
+When this creature enters, draw a card.
+As long as you have one or fewer cards in hand, if you would draw one or more cards, you draw that many cards plus one instead.
+Warp {1}{U}",U,U,mythic,PEOE,Edge of Eternities Promos,72s,4,6,,Flying;Warp
+Quantum Riddler,{3}{U}{U},5.0,Creature — Sphinx,"Flying
+When this creature enters, draw a card.
+As long as you have one or fewer cards in hand, if you would draw one or more cards, you draw that many cards plus one instead.
+Warp {1}{U}",U,U,mythic,PEOE,Edge of Eternities Promos,72p,4,6,,Flying;Warp
+Queen Brahne,{2}{R},3.0,Legendary Creature — Human Noble,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever Queen Brahne attacks, create a 0/1 black Wizard creature token with ""Whenever you cast a noncreature spell, this token deals 1 damage to each opponent.""",R,R,uncommon,FIN,Final Fantasy,464,2,1,,Prowess
+Queen Brahne,{2}{R},3.0,Legendary Creature — Human Noble,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever Queen Brahne attacks, create a 0/1 black Wizard creature token with ""Whenever you cast a noncreature spell, this token deals 1 damage to each opponent.""",R,R,uncommon,FIN,Final Fantasy,149,2,1,,Prowess
+Queen's Bay Paladin,{3}{B}{B},5.0,Creature — Vampire Knight,"Whenever this creature enters or attacks, return up to one target Vampire card from your graveyard to the battlefield with a finality counter on it. You lose life equal to its mana value. (If a creature with a finality counter on it would die, exile it instead.)",B,B,rare,PLCI,The Lost Caverns of Ixalan Promos,115s,5,4,,
+Queen's Bay Paladin,{3}{B}{B},5.0,Creature — Vampire Knight,"Whenever this creature enters or attacks, return up to one target Vampire card from your graveyard to the battlefield with a finality counter on it. You lose life equal to its mana value. (If a creature with a finality counter on it would die, exile it instead.)",B,B,rare,LCI,The Lost Caverns of Ixalan,368,5,4,,
+Queen's Bay Paladin,{3}{B}{B},5.0,Creature — Vampire Knight,"Whenever this creature enters or attacks, return up to one target Vampire card from your graveyard to the battlefield with a finality counter on it. You lose life equal to its mana value. (If a creature with a finality counter on it would die, exile it instead.)",B,B,rare,PLCI,The Lost Caverns of Ixalan Promos,115p,5,4,,
+Queen's Bay Paladin,{3}{B}{B},5.0,Creature — Vampire Knight,"Whenever this creature enters or attacks, return up to one target Vampire card from your graveyard to the battlefield with a finality counter on it. You lose life equal to its mana value. (If a creature with a finality counter on it would die, exile it instead.)",B,B,rare,LCI,The Lost Caverns of Ixalan,115,5,4,,
+Questing Druid // Seek the Beast,{1}{G} // {1}{R},2.0,Creature — Human Druid // Instant — Adventure,,G,"G,R",rare,PWOE,Wilds of Eldraine Promos,234s,1,1,,
+Questing Druid // Seek the Beast,{1}{G} // {1}{R},2.0,Creature — Human Druid // Instant — Adventure,,G,"G,R",rare,WOE,Wilds of Eldraine,234,1,1,,
+Questing Druid // Seek the Beast,{1}{G} // {1}{R},2.0,Creature — Human Druid // Instant — Adventure,,G,"G,R",rare,SLP,Secret Lair Promo,38,1,1,,
+Questing Druid // Seek the Beast,{1}{G} // {1}{R},2.0,Creature — Human Druid // Instant — Adventure,,G,"G,R",rare,PWOE,Wilds of Eldraine Promos,234p,1,1,,
+Questing Druid // Seek the Beast,{1}{G} // {1}{R},2.0,Creature — Human Druid // Instant — Adventure,,G,"G,R",rare,WOE,Wilds of Eldraine,294,1,1,,
+Quilled Charger,{3}{R},4.0,Creature — Porcupine Mount,"Whenever this creature attacks while saddled, it gets +1/+2 and gains menace until end of turn. (It can't be blocked except by two or more creatures.)
+Saddle 2 (Tap any number of other creatures you control with total power 2 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",R,R,common,OTJ,Outlaws of Thunder Junction,139,4,3,,Saddle
+Quilled Greatwurm,{4}{G}{G},6.0,Creature — Wurm,"Trample
+Whenever a creature you control deals combat damage during your turn, put that many +1/+1 counters on it. (It must survive to get the counters.)
+You may cast this card from your graveyard by removing six counters from among creatures you control in addition to paying its other costs.",G,G,mythic,PFDN,Foundations Promos,111s,7,7,,Trample
+Quilled Greatwurm,{4}{G}{G},6.0,Creature — Wurm,"Trample
+Whenever a creature you control deals combat damage during your turn, put that many +1/+1 counters on it. (It must survive to get the counters.)
+You may cast this card from your graveyard by removing six counters from among creatures you control in addition to paying its other costs.",G,G,mythic,FDN,Foundations,111,7,7,,Trample
+Quilled Greatwurm,{4}{G}{G},6.0,Creature — Wurm,"Trample
+Whenever a creature you control deals combat damage during your turn, put that many +1/+1 counters on it. (It must survive to get the counters.)
+You may cast this card from your graveyard by removing six counters from among creatures you control in addition to paying its other costs.",G,G,mythic,FDN,Foundations,473,7,7,,Trample
+Quilled Greatwurm,{4}{G}{G},6.0,Creature — Wurm,"Trample
+Whenever a creature you control deals combat damage during your turn, put that many +1/+1 counters on it. (It must survive to get the counters.)
+You may cast this card from your graveyard by removing six counters from among creatures you control in addition to paying its other costs.",G,G,mythic,FDN,Foundations,401,7,7,,Trample
+Quilled Greatwurm,{4}{G}{G},6.0,Creature — Wurm,"Trample
+Whenever a creature you control deals combat damage during your turn, put that many +1/+1 counters on it. (It must survive to get the counters.)
+You may cast this card from your graveyard by removing six counters from among creatures you control in addition to paying its other costs.",G,G,mythic,FDN,Foundations,339,7,7,,Trample
+"Quina, Qu Gourmet",{2}{G},3.0,Legendary Creature — Qu,"If one or more tokens would be created under your control, those tokens plus a 1/1 green Frog creature token are created instead.
+{2}, Sacrifice a Frog: Put a +1/+1 counter on Quina.",G,G,uncommon,FIN,Final Fantasy,471,2,3,,
+"Quina, Qu Gourmet",{2}{G},3.0,Legendary Creature — Qu,"If one or more tokens would be created under your control, those tokens plus a 1/1 green Frog creature token are created instead.
+{2}, Sacrifice a Frog: Put a +1/+1 counter on Quina.",G,G,uncommon,FIN,Final Fantasy,194,2,3,,
+Quistis Trepe,{2}{U},3.0,Legendary Creature — Human Wizard,"Blue Magic — When Quistis Trepe enters, you may cast target instant or sorcery card from a graveyard, and mana of any type can be spent to cast that spell. If that spell would be put into a graveyard, exile it instead.",U,U,uncommon,FIN,Final Fantasy,440,2,2,,Blue Magic
+Quistis Trepe,{2}{U},3.0,Legendary Creature — Human Wizard,"Blue Magic — When Quistis Trepe enters, you may cast target instant or sorcery card from a graveyard, and mana of any type can be spent to cast that spell. If that spell would be put into a graveyard, exile it instead.",U,U,uncommon,FIN,Final Fantasy,66,2,2,,Blue Magic
+Qutrub Forayer,{2}{B},3.0,Creature — Zombie Horror,"When this creature enters, choose one —
+• Destroy target creature that was dealt damage this turn.
+• Exile up to two target cards from a single graveyard.",B,B,common,FIN,Final Fantasy,112,3,2,,

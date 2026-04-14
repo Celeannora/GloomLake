@@ -1,0 +1,60 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Hamato Guardian Stance,{W},1.0,Instant,Target creature gets +1/+3 and gains flying until end of turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom.),W,W,common,TMT,Teenage Mutant Ninja Turtles,8,,,,Scry
+Harmonized Crescendo,{4}{U}{U},6.0,Instant,"Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+Choose a creature type. Draw a card for each permanent you control of that type.",U,U,rare,ECL,Lorwyn Eclipsed,54,,,,Convoke
+Harmonized Crescendo,{4}{U}{U},6.0,Instant,"Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+Choose a creature type. Draw a card for each permanent you control of that type.",U,U,rare,ECL,Lorwyn Eclipsed,408,,,,Convoke
+Harmonized Crescendo,{4}{U}{U},6.0,Instant,"Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+Choose a creature type. Draw a card for each permanent you control of that type.",U,U,mythic,ECL,Lorwyn Eclipsed,384,,,,Convoke
+Harmonized Crescendo,{4}{U}{U},6.0,Instant,"Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+Choose a creature type. Draw a card for each permanent you control of that type.",U,U,rare,ECL,Lorwyn Eclipsed,357,,,,Convoke
+Harmonized Crescendo,{4}{U}{U},6.0,Instant,"Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+Choose a creature type. Draw a card for each permanent you control of that type.",U,U,mythic,ECL,Lorwyn Eclipsed,394,,,,Convoke
+Harmonized Crescendo,{4}{U}{U},6.0,Instant,"Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+Choose a creature type. Draw a card for each permanent you control of that type.",U,U,rare,PECL,Lorwyn Eclipsed Promos,54p,,,,Convoke
+Haste Magic,{1}{R},2.0,Instant,Target creature gets +3/+1 and gains haste until end of turn. Exile the top card of your library. You may play it until your next end step.,R,R,common,FIN,Final Fantasy,140,,,,
+Hazel's Nocturne,{3}{B},4.0,Instant,Return up to two target creature cards from your graveyard to your hand. Each opponent loses 2 life and you gain 2 life.,B,B,uncommon,BLB,Bloomburrow,97,,,,
+Heartless Act,{1}{B},2.0,Instant,"Choose one —
+• Destroy target creature with no counters on it.
+• Remove up to three counters from target creature.",B,B,uncommon,IKO,Ikoria: Lair of Behemoths,366,,,,
+Heartless Act,{1}{B},2.0,Instant,"Choose one —
+• Destroy target creature with no counters on it.
+• Remove up to three counters from target creature.",B,B,uncommon,CMM,Commander Masters,166,,,,
+Heartless Act,{1}{B},2.0,Instant,"Choose one —
+• Destroy target creature with no counters on it.
+• Remove up to three counters from target creature.",B,B,uncommon,TLA,Avatar: The Last Airbender,103,,,,
+Heartless Act,{1}{B},2.0,Instant,"Choose one —
+• Destroy target creature with no counters on it.
+• Remove up to three counters from target creature.",B,B,uncommon,IKO,Ikoria: Lair of Behemoths,91,,,,
+Heartless Act,{1}{B},2.0,Instant,"Choose one —
+• Destroy target creature with no counters on it.
+• Remove up to three counters from target creature.",B,B,uncommon,PLST,The List,IKO-91,,,,
+Heritage Reclamation,{1}{G},2.0,Instant,"Choose one —
+• Destroy target artifact.
+• Destroy target enchantment.
+• Exile up to one target card from a graveyard. Draw a card.",G,G,common,TDM,Tarkir: Dragonstorm,145,,,,
+Hero's Downfall,{1}{B}{B},3.0,Instant,Destroy target creature or planeswalker.,B,B,uncommon,FDN,Foundations,319,,,,
+Hero's Downfall,{1}{B}{B},3.0,Instant,Destroy target creature or planeswalker.,B,B,uncommon,DMC,Dominaria United Commander,112,,,,
+Hero's Downfall,{1}{B}{B},3.0,Instant,Destroy target creature or planeswalker.,B,B,uncommon,PLST,The List,VOW-120,,,,
+Hero's Downfall,{1}{B}{B},3.0,Instant,Destroy target creature or planeswalker.,B,B,rare,THS,Theros,90,,,,
+Hero's Downfall,{1}{B}{B},3.0,Instant,Destroy target creature or planeswalker.,B,B,rare,CP2,Fate Reforged Clash Pack,2,,,,
+Hero's Downfall,{1}{B}{B},3.0,Instant,Destroy target creature or planeswalker.,B,B,uncommon,FDN,Foundations,175,,,,
+Hero's Downfall,{1}{B}{B},3.0,Instant,Destroy target creature or planeswalker.,B,B,uncommon,VOW,Innistrad: Crimson Vow,120,,,,
+Hero's Downfall,{1}{B}{B},3.0,Instant,Destroy target creature or planeswalker.,B,B,rare,PRM,Magic Online Promos,55731,,,,
+Hero's Downfall,{1}{B}{B},3.0,Instant,Destroy target creature or planeswalker.,B,B,uncommon,DBL,Innistrad: Double Feature,387,,,,
+Hero's Downfall,{1}{B}{B},3.0,Instant,Destroy target creature or planeswalker.,B,B,rare,SLD,Secret Lair Drop,312,,,,
+Hide on the Ceiling,{X}{U},1.0,Instant,Exile X target artifacts and/or creatures. Return the exiled cards to the battlefield under their owners' control at the beginning of the next end step.,U,U,rare,OM1,Through the Omenpaths,44,,,,
+Hide on the Ceiling,{X}{U},1.0,Instant,Exile X target artifacts and/or creatures. Return the exiled cards to the battlefield under their owners' control at the beginning of the next end step.,U,U,rare,SPM,Marvel's Spider-Man,249,,,,
+Hide on the Ceiling,{X}{U},1.0,Instant,Exile X target artifacts and/or creatures. Return the exiled cards to the battlefield under their owners' control at the beginning of the next end step.,U,U,rare,SPM,Marvel's Spider-Man,32,,,,
+Hide on the Ceiling,{X}{U},1.0,Instant,Exile X target artifacts and/or creatures. Return the exiled cards to the battlefield under their owners' control at the beginning of the next end step.,U,U,rare,PSPM,Marvel's Spider-Man Promos,32s,,,,
+Hidetsugu's Second Rite,{3}{R},4.0,Instant,"If target player has exactly 10 life, Hidetsugu's Second Rite deals 10 damage to that player.",R,R,rare,SOK,Saviors of Kamigawa,102,,,,
+Hidetsugu's Second Rite,{3}{R},4.0,Instant,"If target player has exactly 10 life, Hidetsugu's Second Rite deals 10 damage to that player.",R,R,rare,HA1,Historic Anthology 1,12,,,,
+Hidetsugu's Second Rite,{3}{R},4.0,Instant,"If target player has exactly 10 life, Hidetsugu's Second Rite deals 10 damage to that player.",R,R,uncommon,FDN,Foundations,202,,,,
+Hidetsugu's Second Rite,{3}{R},4.0,Instant,"If target player has exactly 10 life, Hidetsugu's Second Rite deals 10 damage to that player.",R,R,rare,PLST,The List,SOK-102,,,,
+High Stride,{G},1.0,Instant,Target creature gets +1/+3 and gains reach until end of turn. Untap it.,G,G,common,BLB,Bloomburrow,176,,,,
+Horrid Vigor,{1}{G},2.0,Instant,Target creature gains deathtouch and indestructible until end of turn.,G,G,common,DSK,Duskmourn: House of Horror,184,,,,
+How to Start a Riot,{2}{R},3.0,Instant — Lesson,"Target creature gains menace until end of turn. (It can't be blocked except by two or more creatures.)
+Creatures target player controls get +2/+0 until end of turn.",R,R,common,TLA,Avatar: The Last Airbender,140,,,,
+Huatli's Final Strike,{2}{G},3.0,Instant,Target creature you control gets +1/+0 until end of turn. It deals damage equal to its power to target creature an opponent controls.,G,G,common,LCI,The Lost Caverns of Ixalan,190,,,,
+Hurl into History,{3}{U}{U},5.0,Instant,"Counter target artifact or creature spell. Discover X, where X is that spell's mana value. (Exile cards from the top of your library until you exile a nonland card with that mana value or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)",U,U,uncommon,LCI,The Lost Caverns of Ixalan,59,,,,Discover
+Hustle // Bustle,{U/R} // {4}{R/G}{R/G},7.0,Instant // Sorcery,,"G,R,U","G,R,U",uncommon,MKM,Murders at Karlov Manor,249,,,,

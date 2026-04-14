@@ -1,0 +1,124 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+"Uchbenbak, the Great Mistake",{3}{U}{B},5.0,Legendary Creature — Skeleton Horror,"Vigilance, menace
+Descend 8 — {4}{U}{B}: Return this card from your graveyard to the battlefield with a finality counter on it. Activate only if there are eight or more permanent cards in your graveyard and only as a sorcery. (If a creature with a finality counter on it would die, exile it instead.)","B,U","B,U",uncommon,LCI,The Lost Caverns of Ixalan,242,6,4,,Vigilance;Descend;Menace
+"Uchbenbak, the Great Mistake",{3}{U}{B},5.0,Legendary Creature — Skeleton Horror,"Vigilance, menace
+Descend 8 — {4}{U}{B}: Return this card from your graveyard to the battlefield with a finality counter on it. Activate only if there are eight or more permanent cards in your graveyard and only as a sorcery. (If a creature with a finality counter on it would die, exile it instead.)","B,U","B,U",uncommon,LCI,The Lost Caverns of Ixalan,310,6,4,,Vigilance;Descend;Menace
+"Ultima, Origin of Oblivion",{5},5.0,Legendary Creature — God,"Flying
+Whenever Ultima attacks, put a blight counter on target land. For as long as that land has a blight counter on it, it loses all land types and abilities and has ""{T}: Add {C}.""
+Whenever you tap a land for {C}, add an additional {C}.",,,rare,FIN,Final Fantasy,324,4,4,,Flying
+"Ultima, Origin of Oblivion",{5},5.0,Legendary Creature — God,"Flying
+Whenever Ultima attacks, put a blight counter on target land. For as long as that land has a blight counter on it, it loses all land types and abilities and has ""{T}: Add {C}.""
+Whenever you tap a land for {C}, add an additional {C}.",,,rare,PFIN,Final Fantasy Promos,2s,4,4,,Flying
+"Ultima, Origin of Oblivion",{5},5.0,Legendary Creature — God,"Flying
+Whenever Ultima attacks, put a blight counter on target land. For as long as that land has a blight counter on it, it loses all land types and abilities and has ""{T}: Add {C}.""
+Whenever you tap a land for {C}, add an additional {C}.",,,rare,FIN,Final Fantasy,2,4,4,,Flying
+"Ultima, Origin of Oblivion",{5},5.0,Legendary Creature — God,"Flying
+Whenever Ultima attacks, put a blight counter on target land. For as long as that land has a blight counter on it, it loses all land types and abilities and has ""{T}: Add {C}.""
+Whenever you tap a land for {C}, add an additional {C}.",,,rare,FIN,Final Fantasy,421,4,4,,Flying
+Ultimate Green Goblin,{1}{B/R}{B/R},3.0,Legendary Creature — Goblin Villain,"At the beginning of your upkeep, discard a card, then create a Treasure token.
+Mayhem {2}{B/R} (You may cast this card from your graveyard for {2}{B/R} if you discarded it this turn. Timing rules still apply.)","B,R","B,R",rare,PW25,Wizards Play Network 2025,12,5,4,,Mayhem;Treasure
+Ultimate Green Goblin,{1}{B/R}{B/R},3.0,Legendary Creature — Goblin Villain,"At the beginning of your upkeep, discard a card, then create a Treasure token.
+Mayhem {2}{B/R} (You may cast this card from your graveyard for {2}{B/R} if you discarded it this turn. Timing rules still apply.)","B,R","B,R",rare,SPM,Marvel's Spider-Man,276,5,4,,Mayhem;Treasure
+Ultimate Green Goblin,{1}{B/R}{B/R},3.0,Legendary Creature — Goblin Villain,"At the beginning of your upkeep, discard a card, then create a Treasure token.
+Mayhem {2}{B/R} (You may cast this card from your graveyard for {2}{B/R} if you discarded it this turn. Timing rules still apply.)","B,R","B,R",rare,OM1,Through the Omenpaths,153,5,4,,Mayhem;Treasure
+Ultimate Green Goblin,{1}{B/R}{B/R},3.0,Legendary Creature — Goblin Villain,"At the beginning of your upkeep, discard a card, then create a Treasure token.
+Mayhem {2}{B/R} (You may cast this card from your graveyard for {2}{B/R} if you discarded it this turn. Timing rules still apply.)","B,R","B,R",rare,PSPM,Marvel's Spider-Man Promos,157s,5,4,,Mayhem;Treasure
+Ultimate Green Goblin,{1}{B/R}{B/R},3.0,Legendary Creature — Goblin Villain,"At the beginning of your upkeep, discard a card, then create a Treasure token.
+Mayhem {2}{B/R} (You may cast this card from your graveyard for {2}{B/R} if you discarded it this turn. Timing rules still apply.)","B,R","B,R",rare,SPM,Marvel's Spider-Man,157,5,4,,Mayhem;Treasure
+"Ultimecia, Temporal Threat",{4}{U}{U},6.0,Legendary Creature — Human Warlock,"When Ultimecia enters, tap all creatures your opponents control.
+Whenever a creature you control deals combat damage to a player, draw a card.",U,U,rare,PMEI,Media and Collaboration Promos,2025-11,4,4,,
+"Ultimecia, Temporal Threat",{4}{U}{U},6.0,Legendary Creature — Human Warlock,"When Ultimecia enters, tap all creatures your opponents control.
+Whenever a creature you control deals combat damage to a player, draw a card.",U,U,rare,FIN,Final Fantasy,556,4,4,,
+"Ultimecia, Temporal Threat",{4}{U}{U},6.0,Legendary Creature — Human Warlock,"When Ultimecia enters, tap all creatures your opponents control.
+Whenever a creature you control deals combat damage to a player, draw a card.",U,U,rare,FIN,Final Fantasy,441,4,4,,
+"Ultimecia, Time Sorceress // Ultimecia, Omnipotent",,5.0,Legendary Creature — Human Warlock // Legendary Creature — Nightmare Warlock,,,"B,U",uncommon,FIN,Final Fantasy,247,,,,Surveil;Transform;Menace;Time Compression
+"Ultimecia, Time Sorceress // Ultimecia, Omnipotent",,5.0,Legendary Creature — Human Warlock // Legendary Creature — Nightmare Warlock,,,"B,U",uncommon,FIN,Final Fantasy,513,,,,Surveil;Transform;Menace;Time Compression
+"Ultros, Obnoxious Octopus",{1}{U},2.0,Legendary Creature — Octopus,"Whenever you cast a noncreature spell, if at least four mana was spent to cast it, tap target creature an opponent controls and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+Whenever you cast a noncreature spell, if at least eight mana was spent to cast it, put eight +1/+1 counters on Ultros.",U,U,uncommon,FIN,Final Fantasy,83,2,1,,
+"Ultros, Obnoxious Octopus",{1}{U},2.0,Legendary Creature — Octopus,"Whenever you cast a noncreature spell, if at least four mana was spent to cast it, tap target creature an opponent controls and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+Whenever you cast a noncreature spell, if at least eight mana was spent to cast it, put eight +1/+1 counters on Ultros.",U,U,uncommon,FIN,Final Fantasy,442,2,1,,
+Umbral Collar Zealot,{1}{B},2.0,Creature — Human Cleric,Sacrifice another creature or artifact: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.),B,B,uncommon,EOE,Edge of Eternities,395,3,2,,Surveil
+Umbral Collar Zealot,{1}{B},2.0,Creature — Human Cleric,Sacrifice another creature or artifact: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.),B,B,uncommon,EOE,Edge of Eternities,123,3,2,,Surveil
+Unassuming Sage,{1}{W},2.0,Creature — Human Peasant Wizard,"When this creature enters, you may pay {2}. If you do, create a Sorcerer Role token attached to it. (Enchanted creature gets +1/+1 and has ""Whenever this creature attacks, scry 1."")",W,W,common,WOE,Wilds of Eldraine,37,2,2,,Role token;Scry
+Unburied Earthcarver,{1}{B},2.0,Creature — Human Warrior,"{2}, Sacrifice another creature: Put a +1/+1 counter on this creature.",B,B,common,TDM,Tarkir: Dragonstorm,95,2,2,,
+Uncle Iroh,{1}{R/G}{R/G},3.0,Legendary Creature — Human Noble Ally,"Firebending 1 (Whenever this creature attacks, add {R}. This mana lasts until end of combat.)
+Lesson spells you cast cost {1} less to cast.","G,R","G,R",uncommon,TLA,Avatar: The Last Airbender,248,4,2,,Firebending
+Undead Sprinter,{B}{R},2.0,Creature — Zombie,"Trample, haste
+You may cast this card from your graveyard if a non-Zombie creature died this turn. If you do, this creature enters with a +1/+1 counter on it.","B,R","B,R",rare,PDSK,Duskmourn: House of Horror Promos,237s,2,2,,Haste;Trample
+Undead Sprinter,{B}{R},2.0,Creature — Zombie,"Trample, haste
+You may cast this card from your graveyard if a non-Zombie creature died this turn. If you do, this creature enters with a +1/+1 counter on it.","B,R","B,R",rare,PDSK,Duskmourn: House of Horror Promos,237p,2,2,,Haste;Trample
+Undead Sprinter,{B}{R},2.0,Creature — Zombie,"Trample, haste
+You may cast this card from your graveyard if a non-Zombie creature died this turn. If you do, this creature enters with a +1/+1 counter on it.","B,R","B,R",rare,DSK,Duskmourn: House of Horror,237,2,2,,Haste;Trample
+Undead Sprinter,{B}{R},2.0,Creature — Zombie,"Trample, haste
+You may cast this card from your graveyard if a non-Zombie creature died this turn. If you do, this creature enters with a +1/+1 counter on it.","B,R","B,R",rare,DSK,Duskmourn: House of Horror,350,2,2,,Haste;Trample
+Undercity Dire Rat,{1}{B},2.0,Creature — Rat,"Rat Tail — When this creature dies, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")",B,B,common,FIN,Final Fantasy,123,2,2,,Treasure;Rat Tail
+Undercity Eliminator,{3}{B}{B},5.0,Creature — Gorgon Assassin,"When this creature enters, you may sacrifice an artifact or creature. When you do, exile target creature an opponent controls.",B,B,uncommon,MKM,Murders at Karlov Manor,108,3,3,,
+Undercover Crocodelf,{4}{G}{U},6.0,Creature — Elf Crocodile Detective,"Whenever this creature deals combat damage to a player, investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")
+Disguise {3}{G/U}{G/U} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)","G,U","G,U",common,MKM,Murders at Karlov Manor,239†,5,5,,Investigate;Disguise
+Undercover Crocodelf,{4}{G}{U},6.0,Creature — Elf Crocodile Detective,"Whenever this creature deals combat damage to a player, investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")
+Disguise {3}{G/U}{G/U} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)","G,U","G,U",common,MKM,Murders at Karlov Manor,239,5,5,,Investigate;Disguise
+Underfoot Underdogs,{2}{R},3.0,Creature — Goblin Warrior,"When this creature enters, create a 1/1 red Goblin creature token.
+{1}, {T}: Target creature you control with power 2 or less can't be blocked this turn.",R,R,common,TDM,Tarkir: Dragonstorm,129,1,2,,
+Undergrowth Leopard,{1}{G},2.0,Creature — Cat,"Vigilance
+{1}, Sacrifice this creature: Destroy target artifact or enchantment.",G,G,common,TDM,Tarkir: Dragonstorm,165,2,2,,Vigilance
+Unlucky Cabbage Merchant,{1}{G},2.0,Creature — Human Citizen,"When this creature enters, create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this token: You gain 3 life."")
+Whenever you sacrifice a Food, you may search your library for a basic land card and put it onto the battlefield tapped. If you search your library this way, put this creature on the bottom of its owner's library, then shuffle.",G,G,uncommon,TLA,Avatar: The Last Airbender,201,2,2,,Food
+Unlucky Cabbage Merchant,{1}{G},2.0,Creature — Human Citizen,"When this creature enters, create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this token: You gain 3 life."")
+Whenever you sacrifice a Food, you may search your library for a basic land card and put it onto the battlefield tapped. If you search your library this way, put this creature on the bottom of its owner's library, then shuffle.",G,G,rare,PW25,Wizards Play Network 2025,15,2,2,,Food
+Unrooted Ancestor,{2}{B},3.0,Creature — Spirit Cleric,"Flash
+{1}, Sacrifice another creature: This creature gains indestructible until end of turn. Tap it. (Damage and effects that say ""destroy"" don't destroy it.)",B,B,uncommon,TDM,Tarkir: Dragonstorm,96,3,2,,Flash
+Unruly Catapult,{2}{R},3.0,Artifact Creature — Construct,"Defender
+{T}: This creature deals 1 damage to each opponent.
+Whenever you cast an instant or sorcery spell, untap this creature.",R,R,common,WOE,Wilds of Eldraine,156,0,4,,Defender
+Unscrupulous Agent,{1}{B},2.0,Creature — Elf Detective,"When this creature enters, target opponent exiles a card from their hand.",B,B,common,MKM,Murders at Karlov Manor,109,1,1,,
+Unscrupulous Contractor,{2}{B},3.0,Creature — Human Assassin,"When this creature enters, you may sacrifice a creature. When you do, target player draws two cards and loses 2 life.
+Plot {2}{B} (You may pay {2}{B} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",B,B,uncommon,OTJ,Outlaws of Thunder Junction,112,3,2,,Plot
+Unsettling Twins,{3}{W},4.0,Creature — Human,"When this creature enters, manifest dread. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)",W,W,common,DSK,Duskmourn: House of Horror,38,2,2,,Manifest;Manifest dread
+Unsparing Boltcaster,{2}{R},3.0,Creature — Ogre Wizard,"When this creature enters, it deals 5 damage to target creature an opponent controls that was dealt damage this turn.",R,R,uncommon,TDM,Tarkir: Dragonstorm,130,3,3,,
+Unstable Glyphbridge // Sandswirl Wanderglyph,,5.0,Artifact // Artifact Creature — Golem,,,W,rare,LCI,The Lost Caverns of Ixalan,358,,,,Flying;Craft;Transform
+Unstable Glyphbridge // Sandswirl Wanderglyph,,5.0,Artifact // Artifact Creature — Golem,,,W,rare,LCI,The Lost Caverns of Ixalan,41,,,,Flying;Craft;Transform
+Unstoppable Slasher,{2}{B},3.0,Creature — Zombie Assassin,"Deathtouch
+Whenever this creature deals combat damage to a player, they lose half their life, rounded up.
+When this creature dies, if it had no counters on it, return it to the battlefield tapped under its owner's control with two stun counters on it.",B,B,rare,DSK,Duskmourn: House of Horror,312,2,3,,Deathtouch
+Unstoppable Slasher,{2}{B},3.0,Creature — Zombie Assassin,"Deathtouch
+Whenever this creature deals combat damage to a player, they lose half their life, rounded up.
+When this creature dies, if it had no counters on it, return it to the battlefield tapped under its owner's control with two stun counters on it.",B,B,rare,PJSC,Japan Standard Cup,2026-2,2,3,,Deathtouch
+Unstoppable Slasher,{2}{B},3.0,Creature — Zombie Assassin,"Deathtouch
+Whenever this creature deals combat damage to a player, they lose half their life, rounded up.
+When this creature dies, if it had no counters on it, return it to the battlefield tapped under its owner's control with two stun counters on it.",B,B,rare,DSK,Duskmourn: House of Horror,294,2,3,,Deathtouch
+Unstoppable Slasher,{2}{B},3.0,Creature — Zombie Assassin,"Deathtouch
+Whenever this creature deals combat damage to a player, they lose half their life, rounded up.
+When this creature dies, if it had no counters on it, return it to the battlefield tapped under its owner's control with two stun counters on it.",B,B,rare,PDSK,Duskmourn: House of Horror Promos,119p,2,3,,Deathtouch
+Unstoppable Slasher,{2}{B},3.0,Creature — Zombie Assassin,"Deathtouch
+Whenever this creature deals combat damage to a player, they lose half their life, rounded up.
+When this creature dies, if it had no counters on it, return it to the battlefield tapped under its owner's control with two stun counters on it.",B,B,rare,DSK,Duskmourn: House of Horror,119,2,3,,Deathtouch
+Unstoppable Slasher,{2}{B},3.0,Creature — Zombie Assassin,"Deathtouch
+Whenever this creature deals combat damage to a player, they lose half their life, rounded up.
+When this creature dies, if it had no counters on it, return it to the battlefield tapped under its owner's control with two stun counters on it.",B,B,rare,PDSK,Duskmourn: House of Horror Promos,119s,2,3,,Deathtouch
+Unswerving Sloth,{3}{W}{W},5.0,Creature — Sloth Mount,"Whenever this creature attacks while saddled, it gains indestructible until end of turn. Untap all creatures you control.
+Saddle 4 (Tap any number of other creatures you control with total power 4 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",W,W,uncommon,DFT,Aetherdrift,34,5,5,,Saddle
+Unwelcome Sprite,{1}{U},2.0,Creature — Faerie Rogue,"Flying
+Whenever you cast a spell during an opponent's turn, surveil 2. (Look at the top two cards of your library. You may put any number of them into your graveyard and the rest on top of your library in any order.)",U,U,uncommon,ECL,Lorwyn Eclipsed,81,2,1,,Flying;Surveil
+Unwilling Vessel,{2}{U},3.0,Creature — Human Wizard,"Vigilance
+Eerie — Whenever an enchantment you control enters and whenever you fully unlock a Room, put a possession counter on this creature.
+When this creature dies, create an X/X blue Spirit creature token with flying, where X is the number of counters on this creature.",U,U,uncommon,DSK,Duskmourn: House of Horror,81,3,2,,Vigilance;Eerie
+Unyielding Gatekeeper,{1}{W},2.0,Creature — Elephant Cleric,"Disguise {1}{W} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)
+When this creature is turned face up, exile another target nonland permanent. If you controlled it, return it to the battlefield tapped. Otherwise, its controller creates a 2/2 white and blue Detective creature token.",W,W,rare,MKM,Murders at Karlov Manor,392,3,2,,Disguise
+Unyielding Gatekeeper,{1}{W},2.0,Creature — Elephant Cleric,"Disguise {1}{W} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)
+When this creature is turned face up, exile another target nonland permanent. If you controlled it, return it to the battlefield tapped. Otherwise, its controller creates a 2/2 white and blue Detective creature token.",W,W,rare,PMKM,Murders at Karlov Manor Promos,35s,3,2,,Disguise
+Unyielding Gatekeeper,{1}{W},2.0,Creature — Elephant Cleric,"Disguise {1}{W} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)
+When this creature is turned face up, exile another target nonland permanent. If you controlled it, return it to the battlefield tapped. Otherwise, its controller creates a 2/2 white and blue Detective creature token.",W,W,rare,PMKM,Murders at Karlov Manor Promos,35p,3,2,,Disguise
+Unyielding Gatekeeper,{1}{W},2.0,Creature — Elephant Cleric,"Disguise {1}{W} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)
+When this creature is turned face up, exile another target nonland permanent. If you controlled it, return it to the battlefield tapped. Otherwise, its controller creates a 2/2 white and blue Detective creature token.",W,W,rare,MKM,Murders at Karlov Manor,35,3,2,,Disguise
+"Ureni, the Song Unending",{5}{G}{U}{R},8.0,Legendary Creature — Spirit Dragon,"Flying, protection from white and from black
+When Ureni enters, it deals X damage divided as you choose among any number of target creatures and/or planeswalkers your opponents control, where X is the number of lands you control.","G,R,U","G,R,U",mythic,TDM,Tarkir: Dragonstorm,233,10,10,,Flying;Protection
+"Ureni, the Song Unending",{5}{G}{U}{R},8.0,Legendary Creature — Spirit Dragon,"Flying, protection from white and from black
+When Ureni enters, it deals X damage divided as you choose among any number of target creatures and/or planeswalkers your opponents control, where X is the number of lands you control.","G,R,U","G,R,U",mythic,PTDM,Tarkir: Dragonstorm Promos,233p,10,10,,Flying;Protection
+"Ureni, the Song Unending",{5}{G}{U}{R},8.0,Legendary Creature — Spirit Dragon,"Flying, protection from white and from black
+When Ureni enters, it deals X damage divided as you choose among any number of target creatures and/or planeswalkers your opponents control, where X is the number of lands you control.","G,R,U","G,R,U",mythic,PTDM,Tarkir: Dragonstorm Promos,233s,10,10,,Flying;Protection
+"Ureni, the Song Unending",{5}{G}{U}{R},8.0,Legendary Creature — Spirit Dragon,"Flying, protection from white and from black
+When Ureni enters, it deals X damage divided as you choose among any number of target creatures and/or planeswalkers your opponents control, where X is the number of lands you control.","G,R,U","G,R,U",mythic,TDM,Tarkir: Dragonstorm,321,10,10,,Flying;Protection
+"Ureni, the Song Unending",{5}{G}{U}{R},8.0,Legendary Creature — Spirit Dragon,"Flying, protection from white and from black
+When Ureni enters, it deals X damage divided as you choose among any number of target creatures and/or planeswalkers your opponents control, where X is the number of lands you control.","G,R,U","G,R,U",mythic,TDM,Tarkir: Dragonstorm,374,10,10,,Flying;Protection
+Uthros Psionicist,{2}{U},3.0,Creature — Jellyfish Scientist,The second spell you cast each turn costs {2} less to cast.,U,U,uncommon,EOE,Edge of Eternities,84,2,4,,
+Utrom Scientists,{2}{U},3.0,Artifact Creature — Utrom Robot Scientist,"When this creature enters, tap up to one target creature and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)",U,U,common,TMT,Teenage Mutant Ninja Turtles,56,2,2,,

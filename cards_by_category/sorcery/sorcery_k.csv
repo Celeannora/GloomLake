@@ -1,0 +1,14 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Kapow!,{2}{G},3.0,Sorcery,Put a +1/+1 counter on target creature you control. It fights target creature an opponent controls. (Each deals damage equal to its power to the other.),G,G,common,OM1,Through the Omenpaths,111,,,,Fight
+Kapow!,{2}{G},3.0,Sorcery,Put a +1/+1 counter on target creature you control. It fights target creature an opponent controls. (Each deals damage equal to its power to the other.),G,G,common,SPM,Marvel's Spider-Man,103,,,,Fight
+Karai's Technique,{1}{W}{B},3.0,Sorcery,"Sneak {W}{B} (You may cast this spell for {W}{B} if you also return an unblocked attacker you control to hand during the declare blockers step.)
+Choose one or both —
+• Target creature gets +3/+3 until end of turn.
+• Target creature gets -3/-3 until end of turn.","B,W","B,W",uncommon,TMT,Teenage Mutant Ninja Turtles,152,,,,Sneak
+Karai's Technique,{1}{W}{B},3.0,Sorcery,"Sneak {W}{B} (You may cast this spell for {W}{B} if you also return an unblocked attacker you control to hand during the declare blockers step.)
+Choose one or both —
+• Target creature gets +3/+3 until end of turn.
+• Target creature gets -3/-3 until end of turn.","B,W","B,W",uncommon,TMT,Teenage Mutant Ninja Turtles,244,,,,Sneak
+Kindle the Inner Flame,{3}{R},4.0,Kindred Sorcery — Elemental,"Create a token that's a copy of target creature you control, except it has haste and ""At the beginning of the end step, sacrifice this token.""
+Flashback—{1}{R}, Behold three Elementals. (You may cast this card from your graveyard for its flashback cost. Then exile it. To behold an Elemental, choose an Elemental you control or reveal an Elemental card from your hand.)",R,R,uncommon,ECL,Lorwyn Eclipsed,147,,,,Behold;Flashback
+Knockout Maneuver,{2}{G},3.0,Sorcery,"Put a +1/+1 counter on target creature you control, then it deals damage equal to its power to target creature an opponent controls.",G,G,uncommon,TDM,Tarkir: Dragonstorm,147,,,,

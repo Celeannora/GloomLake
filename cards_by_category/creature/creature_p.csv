@@ -1,0 +1,288 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Pacesetter Paragon,{2}{R},3.0,Creature — Human Pilot,Exhaust — {2}{R}: Put a +1/+1 counter on this creature. It gains double strike until end of turn. (Activate each exhaust ability only once.),R,R,uncommon,DFT,Aetherdrift,140,2,3,,Exhaust
+Pactdoll Terror,{3}{B},4.0,Artifact Creature — Toy,"Whenever this creature or another artifact you control enters, each opponent loses 1 life and you gain 1 life.",B,B,common,DFT,Aetherdrift,99,3,4,,
+Palani's Hatcher,{3}{R}{G},5.0,Creature — Dinosaur,"Other Dinosaurs you control have haste.
+When this creature enters, create two 0/1 green Dinosaur Egg creature tokens.
+At the beginning of combat on your turn, if you control one or more Eggs, sacrifice an Egg, then create a 3/3 green Dinosaur creature token.","G,R","G,R",rare,PLCI,The Lost Caverns of Ixalan Promos,237p,5,3,,
+Palani's Hatcher,{3}{R}{G},5.0,Creature — Dinosaur,"Other Dinosaurs you control have haste.
+When this creature enters, create two 0/1 green Dinosaur Egg creature tokens.
+At the beginning of combat on your turn, if you control one or more Eggs, sacrifice an Egg, then create a 3/3 green Dinosaur creature token.","G,R","G,R",rare,LCI,The Lost Caverns of Ixalan,237,5,3,,
+Palani's Hatcher,{3}{R}{G},5.0,Creature — Dinosaur,"Other Dinosaurs you control have haste.
+When this creature enters, create two 0/1 green Dinosaur Egg creature tokens.
+At the beginning of combat on your turn, if you control one or more Eggs, sacrifice an Egg, then create a 3/3 green Dinosaur creature token.","G,R","G,R",rare,LCI,The Lost Caverns of Ixalan,332,5,3,,
+Palani's Hatcher,{3}{R}{G},5.0,Creature — Dinosaur,"Other Dinosaurs you control have haste.
+When this creature enters, create two 0/1 green Dinosaur Egg creature tokens.
+At the beginning of combat on your turn, if you control one or more Eggs, sacrifice an Egg, then create a 3/3 green Dinosaur creature token.","G,R","G,R",rare,PLCI,The Lost Caverns of Ixalan Promos,237s,5,3,,
+Panicked Altisaur,{4}{R},5.0,Creature — Dinosaur,"Reach
+{T}: This creature deals 2 damage to each opponent.",R,R,common,LCI,The Lost Caverns of Ixalan,159,4,5,,Reach
+Paramecia Coloniex,{1}{B},2.0,Creature — Zombie Worm,"When this creature enters, mill three cards. (Put the top three cards of your library into your graveyard.)
+When this creature dies, you may exile it. When you do, put target creature card from your graveyard on top of your library.",B,B,uncommon,TMT,Teenage Mutant Ninja Turtles,70,2,2,,Mill
+Paranormal Analyst,{1}{U},2.0,Creature — Human Detective,"Whenever you manifest dread, put a card you put into your graveyard this way into your hand.",U,U,uncommon,DSK,Duskmourn: House of Horror,69,1,3,,Manifest;Manifest dread
+Patched Plaything,{2}{W},3.0,Artifact Creature — Toy,"Double strike
+This creature enters with two -1/-1 counters on it if you cast it from your hand.",W,W,uncommon,DSK,Duskmourn: House of Horror,24,4,3,,Double strike
+Patchwork Beastie,{G},1.0,Artifact Creature — Beast,"Delirium — This creature can't attack or block unless there are four or more card types among cards in your graveyard.
+At the beginning of your upkeep, you may mill a card. (You may put the top card of your library into your graveyard.)",G,G,uncommon,DSK,Duskmourn: House of Horror,195,3,3,,Delirium;Mill
+Pathfinding Axejaw,{3}{G},4.0,Creature — Dinosaur,"When this creature enters, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)",G,G,common,LCI,The Lost Caverns of Ixalan,206,4,3,,Explore
+Patient Naturalist,{2}{G},3.0,Creature — Human Scout,"When this creature enters, mill three cards. Put a land card from among the milled cards into your hand. If you can't, create a Treasure token. (To mill three cards, put the top three cards of your library into your graveyard.)",G,G,common,OTJ,Outlaws of Thunder Junction,174,2,3,,Treasure;Mill
+Pawpatch Recruit,{G},1.0,Creature — Rabbit Warrior,"Offspring {2} (You may pay an additional {2} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+Trample
+Whenever a creature you control becomes the target of a spell or ability an opponent controls, put a +1/+1 counter on target creature you control other than that creature.",G,G,rare,PBLB,Bloomburrow Promos,187s,2,1,,Offspring;Trample
+Pawpatch Recruit,{G},1.0,Creature — Rabbit Warrior,"Offspring {2} (You may pay an additional {2} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+Trample
+Whenever a creature you control becomes the target of a spell or ability an opponent controls, put a +1/+1 counter on target creature you control other than that creature.",G,G,rare,BLB,Bloomburrow,187,2,1,,Offspring;Trample
+Pawpatch Recruit,{G},1.0,Creature — Rabbit Warrior,"Offspring {2} (You may pay an additional {2} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+Trample
+Whenever a creature you control becomes the target of a spell or ability an opponent controls, put a +1/+1 counter on target creature you control other than that creature.",G,G,rare,BLB,Bloomburrow,363,2,1,,Offspring;Trample
+Pawpatch Recruit,{G},1.0,Creature — Rabbit Warrior,"Offspring {2} (You may pay an additional {2} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+Trample
+Whenever a creature you control becomes the target of a spell or ability an opponent controls, put a +1/+1 counter on target creature you control other than that creature.",G,G,rare,PBLB,Bloomburrow Promos,187p,2,1,,Offspring;Trample
+Peerless Ropemaster,{4}{U},5.0,Creature — Human Rogue,"When this creature enters, return up to one target tapped creature to its owner's hand.",U,U,common,OTJ,Outlaws of Thunder Junction,60,4,4,,
+Pelakka Wurm,{4}{G}{G}{G},7.0,Creature — Wurm,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+When this creature enters, you gain 7 life.
+When this creature dies, draw a card.",G,G,rare,M19,Core Set 2019,192,7,7,,Trample
+Pelakka Wurm,{4}{G}{G}{G},7.0,Creature — Wurm,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+When this creature enters, you gain 7 life.
+When this creature dies, draw a card.",G,G,uncommon,MM2,Modern Masters 2015,154,7,7,,Trample
+Pelakka Wurm,{4}{G}{G}{G},7.0,Creature — Wurm,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+When this creature enters, you gain 7 life.
+When this creature dies, draw a card.",G,G,uncommon,PLST,The List,MM2-154,7,7,,Trample
+Pelakka Wurm,{4}{G}{G}{G},7.0,Creature — Wurm,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+When this creature enters, you gain 7 life.
+When this creature dies, draw a card.",G,G,rare,PM19,Core Set 2019 Promos,192s,7,7,,Trample
+Pelakka Wurm,{4}{G}{G}{G},7.0,Creature — Wurm,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+When this creature enters, you gain 7 life.
+When this creature dies, draw a card.",G,G,uncommon,ROE,Rise of the Eldrazi,204,7,7,,Trample
+Pelakka Wurm,{4}{G}{G}{G},7.0,Creature — Wurm,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+When this creature enters, you gain 7 life.
+When this creature dies, draw a card.",G,G,uncommon,CNS,Conspiracy,172,7,7,,Trample
+Pelakka Wurm,{4}{G}{G}{G},7.0,Creature — Wurm,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+When this creature enters, you gain 7 life.
+When this creature dies, draw a card.",G,G,uncommon,FDN,Foundations,720,7,7,,Trample
+Perforating Artist,{1}{B}{R},3.0,Creature — Devil,"Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+Raid — At the beginning of your end step, if you attacked this turn, each opponent loses 3 life unless that player sacrifices a nonland permanent of their choice or discards a card.","B,R","B,R",uncommon,FDN,Foundations,124,3,2,,Raid;Deathtouch
+Perigee Beckoner,{4}{B},5.0,Creature — Horror,"When this creature enters, until end of turn, another target creature you control gets +2/+0 and gains ""When this creature dies, return it to the battlefield tapped under its owner's control.""
+Warp {1}{B} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",B,B,common,EOE,Edge of Eternities,112,4,5,,Warp
+Perimeter Enforcer,{1}{W},2.0,Creature — Human Detective,"Flying, lifelink
+Whenever another Detective you control enters and whenever a Detective you control is turned face up, this creature gets +1/+1 until end of turn.",W,W,uncommon,MKM,Murders at Karlov Manor,31,1,1,,Flying;Lifelink
+Persistent Marshstalker,{1}{B},2.0,Creature — Rat Berserker,"This creature gets +1/+0 for each other Rat you control.
+Threshold — Whenever you attack with one or more Rats, if there are seven or more cards in your graveyard, you may pay {2}{B}. If you do, return this card from your graveyard to the battlefield tapped and attacking.",B,B,uncommon,BLB,Bloomburrow,104,3,1,,Threshold
+Person of Interest,{3}{R},4.0,Creature — Human Rogue,"When this creature enters, suspect it. Create a 2/2 white and blue Detective creature token. (A suspected creature has menace and can't block.)",R,R,common,MKM,Murders at Karlov Manor,139,2,2,,Suspect
+Persuasive Interrogators,{4}{B}{B},6.0,Creature — Gorgon Detective,"When this creature enters, investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")
+Whenever you sacrifice a Clue, target opponent gets two poison counters. (A player with ten or more poison counters loses the game.)",B,B,uncommon,MKM,Murders at Karlov Manor,345,5,6,,Investigate
+Persuasive Interrogators,{4}{B}{B},6.0,Creature — Gorgon Detective,"When this creature enters, investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")
+Whenever you sacrifice a Clue, target opponent gets two poison counters. (A player with ten or more poison counters loses the game.)",B,B,uncommon,MKM,Murders at Karlov Manor,98,5,6,,Investigate
+Pestered Wellguard,{3}{U},4.0,Creature — Merfolk Soldier,"Whenever this creature becomes tapped, create a 1/1 blue and black Faerie creature token with flying.",U,U,uncommon,ECL,Lorwyn Eclipsed,63,3,2,,
+Pests of Honor,{2}{W},3.0,Creature — Mouse,"Celebration — At the beginning of combat on your turn, if two or more nonland permanents entered the battlefield under your control this turn, put a +1/+1 counter on this creature.",W,W,uncommon,WOE,Wilds of Eldraine,310,2,2,,Celebration
+Peter Parker // Amazing Spider-Man,,2.0,Legendary Creature — Human Scientist Hero // Legendary Creature — Spider Human Hero,,,"G,U,W",mythic,OM1,Through the Omenpaths,21,,,,Reach;Vigilance;Transform
+Peter Parker // Amazing Spider-Man,,2.0,Legendary Creature — Human Scientist Hero // Legendary Creature — Spider Human Hero,,,"G,U,W",mythic,SPM,Marvel's Spider-Man,10,,,,Reach;Vigilance;Transform
+Peter Parker // Amazing Spider-Man,,2.0,Legendary Creature — Human Scientist Hero // Legendary Creature — Spider Human Hero,,,"G,U,W",mythic,PSPM,Marvel's Spider-Man Promos,10s,,,,Reach;Vigilance;Transform
+Peter Parker // Amazing Spider-Man,,2.0,Legendary Creature — Human Scientist Hero // Legendary Creature — Spider Human Hero,,,"G,U,W",mythic,SPM,Marvel's Spider-Man,208,,,,Reach;Vigilance;Transform
+Peter Parker // Amazing Spider-Man,,2.0,Legendary Creature — Human Scientist Hero // Legendary Creature — Spider Human Hero,,,"G,U,W",mythic,SPM,Marvel's Spider-Man,232,,,,Reach;Vigilance;Transform
+Peter Parker // Amazing Spider-Man,,2.0,Legendary Creature — Human Scientist Hero // Legendary Creature — Spider Human Hero,,,"G,U,W",mythic,PMEI,Media and Collaboration Promos,2025-22,,,,Reach;Vigilance;Transform
+Picklock Prankster // Free the Fae,{1}{U} // {1}{U},2.0,Creature — Faerie Rogue // Instant — Adventure,,U,U,uncommon,WOE,Wilds of Eldraine,64,1,3,,Flying;Vigilance;Mill
+Picnic Ruiner // Stolen Goodies,{1}{R} // {3}{G},2.0,Creature — Goblin Rogue // Sorcery — Adventure,,R,"G,R",uncommon,WOE,Wilds of Eldraine,232,2,2,,
+Piggy Bank,{1}{R},2.0,Artifact Creature — Boar Toy,"When this creature dies, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")",R,R,uncommon,DSK,Duskmourn: House of Horror,148,3,2,,Treasure
+Pileated Provisioner,{4}{W},5.0,Creature — Bird Scout,"Flying
+When this creature enters, put a +1/+1 counter on target creature you control without flying.",W,W,common,BLB,Bloomburrow,25,3,4,,Flying
+Pinnacle Emissary,{1}{U}{R},3.0,Artifact Creature — Robot,"Whenever you cast an artifact spell, create a 1/1 colorless Drone artifact creature token with flying and ""This token can block only creatures with flying.""
+Warp {U/R} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)","R,U","R,U",rare,EOE,Edge of Eternities,349,3,3,,Warp
+Pinnacle Emissary,{1}{U}{R},3.0,Artifact Creature — Robot,"Whenever you cast an artifact spell, create a 1/1 colorless Drone artifact creature token with flying and ""This token can block only creatures with flying.""
+Warp {U/R} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)","R,U","R,U",rare,EOE,Edge of Eternities,223,3,3,,Warp
+Pinnacle Emissary,{1}{U}{R},3.0,Artifact Creature — Robot,"Whenever you cast an artifact spell, create a 1/1 colorless Drone artifact creature token with flying and ""This token can block only creatures with flying.""
+Warp {U/R} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)","R,U","R,U",rare,PEOE,Edge of Eternities Promos,223s,3,3,,Warp
+Pinnacle Emissary,{1}{U}{R},3.0,Artifact Creature — Robot,"Whenever you cast an artifact spell, create a 1/1 colorless Drone artifact creature token with flying and ""This token can block only creatures with flying.""
+Warp {U/R} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)","R,U","R,U",rare,PEOE,Edge of Eternities Promos,223p,3,3,,Warp
+Piranha Fly,{1}{U},2.0,Creature — Fish Insect,"Flying
+This creature enters tapped.",U,U,common,DSK,Duskmourn: House of Horror,70,2,1,,Flying
+Pirate Peddlers,{2}{B},3.0,Creature — Human Pirate,"Deathtouch
+Whenever you sacrifice another permanent, put a +1/+1 counter on this creature.",B,B,common,TLA,Avatar: The Last Airbender,115,2,2,,Deathtouch
+Pit Automaton,{2},2.0,Artifact Creature — Construct,"Defender
+{T}: Add {C}{C}. Spend this mana only to activate abilities.
+{2}, {T}: When you next activate an exhaust ability that isn't a mana ability this turn, copy it. You may choose new targets for the copy.",,,uncommon,DFT,Aetherdrift,238,0,4,,Defender
+"Pizza Face, Gastromancer",{3}{B}{G},5.0,Legendary Artifact Creature — Food Mutant,"When Pizza Face enters, create a Food token.
+Disappear — At the beginning of your end step, if a permanent left the battlefield under your control this turn, put three +1/+1 counters on up to one other target artifact or creature. If it isn't a creature, it becomes a 0/0 Mutant creature in addition to its other types.
+{10}, {T}, Sacrifice Pizza Face: You gain 15 life.","B,G","B,G",uncommon,TMT,Teenage Mutant Ninja Turtles,163,2,4,,Disappear;Food
+Platypus-Bear,{1}{G/U},2.0,Creature — Platypus Bear,"Defender
+When this creature enters, mill two cards. (Put the top two cards of your library into your graveyard.)
+As long as there is a Lesson card in your graveyard, this creature can attack as though it didn't have defender.","G,U","G,U",common,TLA,Avatar: The Last Airbender,236,2,3,,Mill;Defender
+Plumecreed Escort,{1}{U},2.0,Creature — Bird Scout,"Flash
+Flying
+When this creature enters, target creature you control gains hexproof until end of turn.",U,U,uncommon,BLB,Bloomburrow,65,2,1,,Flying;Flash
+Plumecreed Mentor,{1}{W}{U},3.0,Creature — Bird Scout,"Flying
+Whenever this creature or another creature you control with flying enters, put a +1/+1 counter on target creature you control without flying.","U,W","U,W",uncommon,BLB,Bloomburrow,228,2,3,,Flying
+Plundering Pirate,{2}{R},3.0,Creature — Orc Pirate,"When this creature enters, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")",R,R,common,LCI,The Lost Caverns of Ixalan,160,3,2,,Treasure
+Poised Practitioner,{2}{W},3.0,Creature — Human Monk,"Flurry — Whenever you cast your second spell each turn, put a +1/+1 counter on this creature. Scry 1. (Look at the top card of your library. You may put that card on the bottom.)",W,W,common,TDM,Tarkir: Dragonstorm,18,2,3,,Flurry;Scry
+Poison Dart Frog,{1}{G},2.0,Creature — Frog,"Reach
+{T}: Add one mana of any color.
+{2}: This creature gains deathtouch until end of turn.",G,G,common,LCI,The Lost Caverns of Ixalan,207,1,1,,Reach
+Poison Dart Frog,{1}{G},2.0,Creature — Frog,"Reach
+{T}: Add one mana of any color.
+{2}: This creature gains deathtouch until end of turn.",G,G,common,M3C,Modern Horizons 3 Commander,238,1,1,,Reach
+Pollen-Shield Hare // Hare Raising,{1}{W} // {G},2.0,Creature — Rabbit // Sorcery — Adventure,,W,"G,W",rare,PWOE,Wilds of Eldraine Promos,233p,2,2,,
+Pollen-Shield Hare // Hare Raising,{1}{W} // {G},2.0,Creature — Rabbit // Sorcery — Adventure,,W,"G,W",rare,WOE,Wilds of Eldraine,233,2,2,,
+Pollen-Shield Hare // Hare Raising,{1}{W} // {G},2.0,Creature — Rabbit // Sorcery — Adventure,,W,"G,W",rare,PWOE,Wilds of Eldraine Promos,233s,2,2,,
+Pollen-Shield Hare // Hare Raising,{1}{W} // {G},2.0,Creature — Rabbit // Sorcery — Adventure,,W,"G,W",rare,WOE,Wilds of Eldraine,293,2,2,,
+Pompous Gadabout,{2}{G},3.0,Creature — Human Citizen,"During your turn, this creature has hexproof.
+This creature can't be blocked by creatures that don't have a name.",G,G,uncommon,MKM,Murders at Karlov Manor,171,4,2,,
+Pond Prophet,{G/U}{G/U},2.0,Creature — Frog Advisor,"When this creature enters, draw a card.","G,U","G,U",common,BLB,Bloomburrow,229,1,1,,
+Popular Egotist,{2}{B},3.0,Creature — Human Rogue,"{1}{B}, Sacrifice another creature or enchantment: This creature gains indestructible until end of turn. Tap it. (Damage and effects that say ""destroy"" don't destroy it.)
+Whenever you sacrifice a permanent, target opponent loses 1 life and you gain 1 life.",B,B,uncommon,DSK,Duskmourn: House of Horror,114,3,2,,
+Possessed Goat,{W},1.0,Creature — Goat,"{3}, Discard a card: Put three +1/+1 counters on this creature and it becomes a black Demon in addition to its other colors and types. Activate only once.",W,W,common,DSK,Duskmourn: House of Horror,25,1,1,,
+Possibility Technician,{2}{R},3.0,Creature — Kavu Artificer,"Whenever this creature or another Kavu you control enters, exile the top card of your library. For as long as that card remains exiled, you may play it if you control a Kavu.
+Warp {1}{R} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",R,R,rare,EOE,Edge of Eternities,153,3,3,,Warp
+Possibility Technician,{2}{R},3.0,Creature — Kavu Artificer,"Whenever this creature or another Kavu you control enters, exile the top card of your library. For as long as that card remains exiled, you may play it if you control a Kavu.
+Warp {1}{R} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",R,R,rare,EOE,Edge of Eternities,295,3,3,,Warp
+Possibility Technician,{2}{R},3.0,Creature — Kavu Artificer,"Whenever this creature or another Kavu you control enters, exile the top card of your library. For as long as that card remains exiled, you may play it if you control a Kavu.
+Warp {1}{R} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",R,R,rare,PEOE,Edge of Eternities Promos,153s,3,3,,Warp
+Possibility Technician,{2}{R},3.0,Creature — Kavu Artificer,"Whenever this creature or another Kavu you control enters, exile the top card of your library. For as long as that card remains exiled, you may play it if you control a Kavu.
+Warp {1}{R} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",R,R,rare,PEOE,Edge of Eternities Promos,153p,3,3,,Warp
+Pothole Mole,{2}{G},3.0,Creature — Mole,"When this creature enters, mill three cards, then you may return a land card from your graveyard to your hand. (To mill three cards, put the top three cards of your library into your graveyard.)",G,G,common,DFT,Aetherdrift,176,2,3,,Mill
+Prairie Dog,{1}{W},2.0,Creature — Squirrel,"Lifelink
+At the beginning of your end step, if you haven't cast a spell from your hand this turn, put a +1/+1 counter on this creature.
+{4}{W}: Until end of turn, if you would put one or more +1/+1 counters on a creature you control, put that many plus one +1/+1 counters on it instead.",W,W,uncommon,OTJ,Outlaws of Thunder Junction,24,2,2,,Lifelink
+Preacher of the Schism,{2}{B},3.0,Creature — Vampire Cleric,"Deathtouch
+Whenever this creature attacks the player with the most life or tied for most life, create a 1/1 white Vampire creature token with lifelink.
+Whenever this creature attacks while you have the most life or are tied for most life, you draw a card and you lose 1 life.",B,B,rare,LCI,The Lost Caverns of Ixalan,367,2,4,,Deathtouch
+Preacher of the Schism,{2}{B},3.0,Creature — Vampire Cleric,"Deathtouch
+Whenever this creature attacks the player with the most life or tied for most life, create a 1/1 white Vampire creature token with lifelink.
+Whenever this creature attacks while you have the most life or are tied for most life, you draw a card and you lose 1 life.",B,B,rare,LCI,The Lost Caverns of Ixalan,113,2,4,,Deathtouch
+Preacher of the Schism,{2}{B},3.0,Creature — Vampire Cleric,"Deathtouch
+Whenever this creature attacks the player with the most life or tied for most life, create a 1/1 white Vampire creature token with lifelink.
+Whenever this creature attacks while you have the most life or are tied for most life, you draw a card and you lose 1 life.",B,B,rare,PLCI,The Lost Caverns of Ixalan Promos,113p,2,4,,Deathtouch
+Preacher of the Schism,{2}{B},3.0,Creature — Vampire Cleric,"Deathtouch
+Whenever this creature attacks the player with the most life or tied for most life, create a 1/1 white Vampire creature token with lifelink.
+Whenever this creature attacks while you have the most life or are tied for most life, you draw a card and you lose 1 life.",B,B,rare,SCH,Store Championships,34,2,4,,Deathtouch
+Preacher of the Schism,{2}{B},3.0,Creature — Vampire Cleric,"Deathtouch
+Whenever this creature attacks the player with the most life or tied for most life, create a 1/1 white Vampire creature token with lifelink.
+Whenever this creature attacks while you have the most life or are tied for most life, you draw a card and you lose 1 life.",B,B,rare,PLCI,The Lost Caverns of Ixalan Promos,113s,2,4,,Deathtouch
+Predator Ooze,{G}{G}{G},3.0,Creature — Ooze,"Indestructible (Damage and effects that say ""destroy"" don't destroy this creature.)
+Whenever this creature attacks, put a +1/+1 counter on it.
+Whenever a creature dealt damage by this creature this turn dies, put a +1/+1 counter on this creature.",G,G,rare,FDN,Foundations,642,1,1,,Indestructible
+Predator Ooze,{G}{G}{G},3.0,Creature — Ooze,"Indestructible (Damage and effects that say ""destroy"" don't destroy this creature.)
+Whenever this creature attacks, put a +1/+1 counter on it.
+Whenever a creature dealt damage by this creature this turn dies, put a +1/+1 counter on this creature.",G,G,rare,DKA,Dark Ascension,124,1,1,,Indestructible
+Predator Ooze,{G}{G}{G},3.0,Creature — Ooze,"Indestructible (Damage and effects that say ""destroy"" don't destroy this creature.)
+Whenever this creature attacks, put a +1/+1 counter on it.
+Whenever a creature dealt damage by this creature this turn dies, put a +1/+1 counter on this creature.",G,G,rare,C20,Commander 2020,185,1,1,,Indestructible
+Prehistoric Pet,{W},1.0,Creature — Dinosaur Ninja,"This creature can't be blocked by creatures with greater power.
+{1}{W}, {T}: Return another target creature you control to its owner's hand. Activate only during your turn.",W,W,rare,TMT,Teenage Mutant Ninja Turtles,22,1,2,,
+Prehistoric Pet,{W},1.0,Creature — Dinosaur Ninja,"This creature can't be blocked by creatures with greater power.
+{1}{W}, {T}: Return another target creature you control to its owner's hand. Activate only during your turn.",W,W,rare,TMT,Teenage Mutant Ninja Turtles,259,1,2,,
+Pretending Poxbearers,{1}{W/B},2.0,Creature — Human Citizen Ally,"When this creature dies, create a 1/1 white Ally creature token.","B,W","B,W",common,TLA,Avatar: The Last Airbender,237,2,1,,
+Prickly Pair,{2}{R},3.0,Creature — Plant Mercenary,"When this creature enters, create a 1/1 red Mercenary creature token with ""{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.""",R,R,common,OTJ,Outlaws of Thunder Junction,137,2,2,,
+Pride of the Road,{3}{W},4.0,Creature — Zombie Cat Warrior,"Vigilance
+Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+Max speed — At the beginning of combat on your turn, target creature or Vehicle you control gains double strike until end of turn.",W,W,uncommon,DFT,Aetherdrift,24,2,5,,Max speed;Vigilance;Start your engines!
+Prideful Feastling,{2}{W/B},3.0,Creature — Shapeshifter,"Changeling (This card is every creature type.)
+Lifelink","B,W","B,W",common,ECL,Lorwyn Eclipsed,238,2,3,,Lifelink;Changeling
+Prideful Parent,{2}{W},3.0,Creature — Cat,"Vigilance (Attacking doesn't cause this creature to tap.)
+When this creature enters, create a 1/1 white Cat creature token.",W,W,common,FDN,Foundations,21,2,2,,Vigilance
+Prime Speaker Zegana,{2}{G}{G}{U}{U},6.0,Legendary Creature — Merfolk Wizard,"Prime Speaker Zegana enters with X +1/+1 counters on it, where X is the greatest power among other creatures you control.
+When Prime Speaker Zegana enters, draw cards equal to its power.","G,U","G,U",mythic,LCC,The Lost Caverns of Ixalan Commander,278,1,1,,
+Prime Speaker Zegana,{2}{G}{G}{U}{U},6.0,Legendary Creature — Merfolk Wizard,"Prime Speaker Zegana enters with X +1/+1 counters on it, where X is the greatest power among other creatures you control.
+When Prime Speaker Zegana enters, draw cards equal to its power.","G,U","G,U",rare,RVR,Ravnica Remastered,439,1,1,,
+Prime Speaker Zegana,{2}{G}{G}{U}{U},6.0,Legendary Creature — Merfolk Wizard,"Prime Speaker Zegana enters with X +1/+1 counters on it, where X is the greatest power among other creatures you control.
+When Prime Speaker Zegana enters, draw cards equal to its power.","G,U","G,U",rare,RVR,Ravnica Remastered,211,1,1,,
+Prime Speaker Zegana,{2}{G}{G}{U}{U},6.0,Legendary Creature — Merfolk Wizard,"Prime Speaker Zegana enters with X +1/+1 counters on it, where X is the greatest power among other creatures you control.
+When Prime Speaker Zegana enters, draw cards equal to its power.","G,U","G,U",mythic,C15,Commander 2015,230,1,1,,
+Prime Speaker Zegana,{2}{G}{G}{U}{U},6.0,Legendary Creature — Merfolk Wizard,"Prime Speaker Zegana enters with X +1/+1 counters on it, where X is the greatest power among other creatures you control.
+When Prime Speaker Zegana enters, draw cards equal to its power.","G,U","G,U",rare,FDN,Foundations,664,1,1,,
+Prime Speaker Zegana,{2}{G}{G}{U}{U},6.0,Legendary Creature — Merfolk Wizard,"Prime Speaker Zegana enters with X +1/+1 counters on it, where X is the greatest power among other creatures you control.
+When Prime Speaker Zegana enters, draw cards equal to its power.","G,U","G,U",rare,RVR,Ravnica Remastered,377,1,1,,
+Prime Speaker Zegana,{2}{G}{G}{U}{U},6.0,Legendary Creature — Merfolk Wizard,"Prime Speaker Zegana enters with X +1/+1 counters on it, where X is the greatest power among other creatures you control.
+When Prime Speaker Zegana enters, draw cards equal to its power.","G,U","G,U",mythic,GTC,Gatecrash,188,1,1,,
+Prime Speaker Zegana,{2}{G}{G}{U}{U},6.0,Legendary Creature — Merfolk Wizard,"Prime Speaker Zegana enters with X +1/+1 counters on it, where X is the greatest power among other creatures you control.
+When Prime Speaker Zegana enters, draw cards equal to its power.","G,U","G,U",rare,RVR,Ravnica Remastered,377z,1,1,,
+Primordial Gnawer,{4}{B},5.0,Creature — Insect Horror,"When this creature dies, discover 3. (Exile cards from the top of your library until you exile a nonland card with mana value 3 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)",B,B,common,LCI,The Lost Caverns of Ixalan,114,5,2,,Discover
+Primordial Pachyderm,{3}{G},4.0,Creature — Elephant Avatar,"Reach, trample
+When this creature enters, you gain 2 life.",G,G,common,TMT,Teenage Mutant Ninja Turtles,129,4,4,,Reach;Trample
+Prismabasher,{4}{G}{G},6.0,Creature — Elemental,"Trample
+Vivid — When this creature enters, up to X target creatures you control get +X/+X until end of turn, where X is the number of colors among permanents you control.",G,G,uncommon,ECL,Lorwyn Eclipsed,188,6,6,,Trample;Vivid
+Private Eye,{1}{W}{U},3.0,Creature — Homunculus Detective,"Other Detectives you control get +1/+1.
+Whenever you draw your second card each turn, target Detective can't be blocked this turn.","U,W","U,W",uncommon,MKM,Murders at Karlov Manor,223,3,3,,
+Professional Wrestler,{3}{G},4.0,Creature — Human Warrior Performer,"When this creature enters, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")
+This creature can't be blocked by more than one creature.",G,G,common,OM1,Through the Omenpaths,106,4,4,,Treasure
+Professional Wrestler,{3}{G},4.0,Creature — Human Warrior Performer,"When this creature enters, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")
+This creature can't be blocked by more than one creature.",G,G,common,SPM,Marvel's Spider-Man,110,4,4,,Treasure
+"Professor Zei, Anthropologist",{U/R}{U/R},2.0,Legendary Creature — Human Advisor Ally,"{T}, Discard a card: Draw a card.
+{1}, {T}, Sacrifice Professor Zei: Return target instant or sorcery card from your graveyard to your hand. Activate only during your turn.","R,U","R,U",uncommon,TLA,Avatar: The Last Airbender,238,0,3,,
+Progenitus,{W}{W}{U}{U}{B}{B}{R}{R}{G}{G},10.0,Legendary Creature — Hydra Avatar,"Protection from everything
+If Progenitus would be put into a graveyard from anywhere, reveal Progenitus and shuffle it into its owner's library instead.","B,G,R,U,W","B,G,R,U,W",mythic,FDN,Foundations,441,10,10,,Protection
+Progenitus,{W}{W}{U}{U}{B}{B}{R}{R}{G}{G},10.0,Legendary Creature — Hydra Avatar,"Protection from everything
+If Progenitus would be put into a graveyard from anywhere, reveal Progenitus and shuffle it into its owner's library instead.","B,G,R,U,W","B,G,R,U,W",mythic,PFDN,Foundations Promos,244s,10,10,,Protection
+Progenitus,{W}{W}{U}{U}{B}{B}{R}{R}{G}{G},10.0,Legendary Creature — Hydra Avatar,"Protection from everything
+If Progenitus would be put into a graveyard from anywhere, reveal Progenitus and shuffle it into its owner's library instead.","B,G,R,U,W","B,G,R,U,W",mythic,FDN,Foundations,431,10,10,,Protection
+Progenitus,{W}{W}{U}{U}{B}{B}{R}{R}{G}{G},10.0,Legendary Creature — Hydra Avatar,"Protection from everything
+If Progenitus would be put into a graveyard from anywhere, reveal Progenitus and shuffle it into its owner's library instead.","B,G,R,U,W","B,G,R,U,W",mythic,V11,From the Vault: Legends,9,10,10,,Protection
+Progenitus,{W}{W}{U}{U}{B}{B}{R}{R}{G}{G},10.0,Legendary Creature — Hydra Avatar,"Protection from everything
+If Progenitus would be put into a graveyard from anywhere, reveal Progenitus and shuffle it into its owner's library instead.","B,G,R,U,W","B,G,R,U,W",mythic,PLST,The List,CON-121,10,10,,Protection
+Progenitus,{W}{W}{U}{U}{B}{B}{R}{R}{G}{G},10.0,Legendary Creature — Hydra Avatar,"Protection from everything
+If Progenitus would be put into a graveyard from anywhere, reveal Progenitus and shuffle it into its owner's library instead.","B,G,R,U,W","B,G,R,U,W",mythic,MMA,Modern Masters,182,10,10,,Protection
+Progenitus,{W}{W}{U}{U}{B}{B}{R}{R}{G}{G},10.0,Legendary Creature — Hydra Avatar,"Protection from everything
+If Progenitus would be put into a graveyard from anywhere, reveal Progenitus and shuffle it into its owner's library instead.","B,G,R,U,W","B,G,R,U,W",mythic,SLD,Secret Lair Drop,1163,10,10,,Protection
+Progenitus,{W}{W}{U}{U}{B}{B}{R}{R}{G}{G},10.0,Legendary Creature — Hydra Avatar,"Protection from everything
+If Progenitus would be put into a graveyard from anywhere, reveal Progenitus and shuffle it into its owner's library instead.","B,G,R,U,W","B,G,R,U,W",mythic,CON,Conflux,121,10,10,,Protection
+Progenitus,{W}{W}{U}{U}{B}{B}{R}{R}{G}{G},10.0,Legendary Creature — Hydra Avatar,"Protection from everything
+If Progenitus would be put into a graveyard from anywhere, reveal Progenitus and shuffle it into its owner's library instead.","B,G,R,U,W","B,G,R,U,W",mythic,FDN,Foundations,244,10,10,,Protection
+Progenitus,{W}{W}{U}{U}{B}{B}{R}{R}{G}{G},10.0,Legendary Creature — Hydra Avatar,"Protection from everything
+If Progenitus would be put into a graveyard from anywhere, reveal Progenitus and shuffle it into its owner's library instead.","B,G,R,U,W","B,G,R,U,W",mythic,PGPX,Grand Prix Promos,2017,10,10,,Protection
+Projektor Inspector,{2}{U},3.0,Creature — Human Detective,"Whenever this creature or another Detective you control enters and whenever a Detective you control is turned face up, you may draw a card. If you do, discard a card.",U,U,common,MKM,Murders at Karlov Manor,68,3,2,,
+Prompto Argentum,{1}{R},2.0,Legendary Creature — Human Scout,"Haste
+Selfie Shot — Whenever you cast a noncreature spell, if at least four mana was spent to cast it, create a Treasure token.",R,R,uncommon,FIN,Final Fantasy,148,2,2,,Selfie Shot;Treasure;Haste
+Prompto Argentum,{1}{R},2.0,Legendary Creature — Human Scout,"Haste
+Selfie Shot — Whenever you cast a noncreature spell, if at least four mana was spent to cast it, create a Treasure token.",R,R,uncommon,FIN,Final Fantasy,532,2,2,,Selfie Shot;Treasure;Haste
+Prompto Argentum,{1}{R},2.0,Legendary Creature — Human Scout,"Haste
+Selfie Shot — Whenever you cast a noncreature spell, if at least four mana was spent to cast it, create a Treasure token.",R,R,uncommon,FIN,Final Fantasy,463,2,2,,Selfie Shot;Treasure;Haste
+Prompto Argentum,{1}{R},2.0,Legendary Creature — Human Scout,"Haste
+Selfie Shot — Whenever you cast a noncreature spell, if at least four mana was spent to cast it, create a Treasure token.",R,R,uncommon,FIN,Final Fantasy,387,2,2,,Selfie Shot;Treasure;Haste
+Prosperity Tycoon,{3}{W},4.0,Creature — Human Noble,"When this creature enters, create a 1/1 red Mercenary creature token with ""{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.""
+{2}, Sacrifice a token: This creature gains indestructible until end of turn. Tap it. (Damage and effects that say ""destroy"" don't destroy it.)",W,W,uncommon,OTJ,Outlaws of Thunder Junction,25,4,2,,
+Protective Parents,{2}{W},3.0,Creature — Human Peasant,"When this creature dies, create a Young Hero Role token attached to up to one target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature has ""Whenever this creature attacks, if its toughness is 3 or less, put a +1/+1 counter on it."")",W,W,common,WOE,Wilds of Eldraine,24,3,2,,Role token
+Provisions Merchant,{2}{G}{G},4.0,Creature — Beast Peasant,"When this creature enters, create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this token: You gain 3 life."")
+Whenever this creature attacks, you may sacrifice a Food. If you do, attacking creatures get +1/+1 and gain trample until end of turn.",G,G,uncommon,WOE,Wilds of Eldraine,321,3,3,,Food
+Prowcatcher Specialist,{1}{R},2.0,Creature — Goblin Warrior,"Haste
+Exhaust — {3}{R}: Put two +1/+1 counters on this creature. (Activate each exhaust ability only once.)",R,R,common,DFT,Aetherdrift,142,2,1,,Haste;Exhaust
+"Prowler, Clawed Thief",{1}{U}{B},3.0,Legendary Creature — Human Rogue Villain,"Menace (This creature can't be blocked except by two or more creatures.)
+Whenever another Villain you control enters, Prowler connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)","B,U","B,U",uncommon,SPM,Marvel's Spider-Man,138,2,3,,Menace;Connive
+"Prowler, Clawed Thief",{1}{U}{B},3.0,Legendary Creature — Human Rogue Villain,"Menace (This creature can't be blocked except by two or more creatures.)
+Whenever another Villain you control enters, Prowler connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)","B,U","B,U",uncommon,OM1,Through the Omenpaths,128,2,3,,Menace;Connive
+Pugnacious Hammerskull,{2}{G},3.0,Creature — Dinosaur,"Whenever this creature attacks while you don't control another Dinosaur, put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)",G,G,rare,PLCI,The Lost Caverns of Ixalan Promos,208p,6,6,,
+Pugnacious Hammerskull,{2}{G},3.0,Creature — Dinosaur,"Whenever this creature attacks while you don't control another Dinosaur, put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)",G,G,rare,LCI,The Lost Caverns of Ixalan,208,6,6,,
+Pugnacious Hammerskull,{2}{G},3.0,Creature — Dinosaur,"Whenever this creature attacks while you don't control another Dinosaur, put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)",G,G,rare,LCI,The Lost Caverns of Ixalan,328,6,6,,
+Pugnacious Hammerskull,{2}{G},3.0,Creature — Dinosaur,"Whenever this creature attacks while you don't control another Dinosaur, put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)",G,G,rare,PLCI,The Lost Caverns of Ixalan Promos,208s,6,6,,
+Pulsar Squadron Ace,{1}{W},2.0,Creature — Human Pilot,"When this creature enters, look at the top five cards of your library. You may reveal a Spacecraft card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. If you didn't put a card into your hand this way, put a +1/+1 counter on this creature.",W,W,uncommon,EOE,Edge of Eternities,28,1,2,,
+Pulse Tracker,{B},1.0,Creature — Vampire Rogue,"Whenever this creature attacks, each opponent loses 1 life.",B,B,common,WWK,Worldwake,62,1,1,,
+Pulse Tracker,{B},1.0,Creature — Vampire Rogue,"Whenever this creature attacks, each opponent loses 1 life.",B,B,common,DDM,Duel Decks: Jace vs. Vraska,43,1,1,,
+Pulse Tracker,{B},1.0,Creature — Vampire Rogue,"Whenever this creature attacks, each opponent loses 1 life.",B,B,common,FDN,Foundations,612,1,1,,
+Pummeler for Hire,{4}{G},5.0,Creature — Giant Mercenary,"Vigilance, reach
+Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+When this creature enters, you gain X life, where X is the greatest power among Giants you control.",G,G,uncommon,ECL,Lorwyn Eclipsed,190,4,4,,Reach;Vigilance;Ward
+Punk Frogs,{3}{G/U}{G/U},5.0,Creature — Frog Mutant Rebel,"Ward {3} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)","G,U","G,U",common,TMT,Teenage Mutant Ninja Turtles,164,4,5,,Ward
+PuPu UFO,{2},2.0,Artifact Creature — Construct Alien,"Flying
+{T}: You may put a land card from your hand onto the battlefield.
+{3}: Until end of turn, this creature's base power becomes equal to the number of Towns you control.",,,uncommon,FIN,Final Fantasy,266,0,4,,Flying
+Purging Stormbrood // Absorb Essence,{4}{B} // {1}{W},5.0,Creature — Dragon // Instant — Omen,,B,"B,W",uncommon,TDM,Tarkir: Dragonstorm,213,4,4,,Flying;Ward
+Purging Stormbrood // Absorb Essence,{4}{B} // {1}{W},5.0,Creature — Dragon // Instant — Omen,,B,"B,W",uncommon,TDM,Tarkir: Dragonstorm,315,4,4,,Flying;Ward
+Purple Dragon Punks,{1}{R},2.0,Creature — Human Rogue,{T}: Add {R}. Spend this mana only to cast an artifact spell or to activate an ability.,R,R,common,TMT,Teenage Mutant Ninja Turtles,100,2,2,,
+Putrid Pals,{2}{B/G}{B/G},4.0,Creature — Human Ooze Mutant,"Deathtouch
+Disappear — This creature enters with two +1/+1 counters on it if a permanent left the battlefield under your control this turn.","B,G","B,G",common,TMT,Teenage Mutant Ninja Turtles,165,3,3,,Disappear;Deathtouch
+Pyrewood Gearhulk,{2}{R}{R}{G}{G},6.0,Artifact Creature — Construct,"Vigilance, menace
+When this creature enters, other creatures you control get +2/+2 and gain vigilance and menace until end of turn. Damage can't be prevented this turn.","G,R","G,R",mythic,PDFT,Aetherdrift Promos,216p,7,7,,Vigilance;Menace
+Pyrewood Gearhulk,{2}{R}{R}{G}{G},6.0,Artifact Creature — Construct,"Vigilance, menace
+When this creature enters, other creatures you control get +2/+2 and gain vigilance and menace until end of turn. Damage can't be prevented this turn.","G,R","G,R",mythic,DFT,Aetherdrift,216,7,7,,Vigilance;Menace
+Pyrewood Gearhulk,{2}{R}{R}{G}{G},6.0,Artifact Creature — Construct,"Vigilance, menace
+When this creature enters, other creatures you control get +2/+2 and gain vigilance and menace until end of turn. Damage can't be prevented this turn.","G,R","G,R",mythic,DFT,Aetherdrift,488,7,7,,Vigilance;Menace
+Pyrewood Gearhulk,{2}{R}{R}{G}{G},6.0,Artifact Creature — Construct,"Vigilance, menace
+When this creature enters, other creatures you control get +2/+2 and gain vigilance and menace until end of turn. Damage can't be prevented this turn.","G,R","G,R",mythic,DFT,Aetherdrift,352,7,7,,Vigilance;Menace
+Pyrewood Gearhulk,{2}{R}{R}{G}{G},6.0,Artifact Creature — Construct,"Vigilance, menace
+When this creature enters, other creatures you control get +2/+2 and gain vigilance and menace until end of turn. Damage can't be prevented this turn.","G,R","G,R",mythic,DFT,Aetherdrift,551,7,7,,Vigilance;Menace
+Pyrewood Gearhulk,{2}{R}{R}{G}{G},6.0,Artifact Creature — Construct,"Vigilance, menace
+When this creature enters, other creatures you control get +2/+2 and gain vigilance and menace until end of turn. Damage can't be prevented this turn.","G,R","G,R",mythic,PDFT,Aetherdrift Promos,216s,7,7,,Vigilance;Menace
+Pyrotechnic Performer,{1}{R},2.0,Creature — Lizard Assassin,"Disguise {R} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)
+Whenever this creature or another creature you control is turned face up, that creature deals damage equal to its power to each opponent.",R,R,rare,MKM,Murders at Karlov Manor,140,3,2,,Disguise
+Pyrotechnic Performer,{1}{R},2.0,Creature — Lizard Assassin,"Disguise {R} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)
+Whenever this creature or another creature you control is turned face up, that creature deals damage equal to its power to each opponent.",R,R,rare,MKM,Murders at Karlov Manor,407,3,2,,Disguise
+Pyrotechnic Performer,{1}{R},2.0,Creature — Lizard Assassin,"Disguise {R} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)
+Whenever this creature or another creature you control is turned face up, that creature deals damage equal to its power to each opponent.",R,R,rare,PMKM,Murders at Karlov Manor Promos,140s,3,2,,Disguise
+Pyrotechnic Performer,{1}{R},2.0,Creature — Lizard Assassin,"Disguise {R} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)
+Whenever this creature or another creature you control is turned face up, that creature deals damage equal to its power to each opponent.",R,R,rare,PMKM,Murders at Karlov Manor Promos,140p,3,2,,Disguise

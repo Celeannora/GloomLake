@@ -1,0 +1,151 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Echoing Deeps,,0.0,Land — Cave,"You may have this land enter tapped as a copy of any land card in a graveyard, except it's a Cave in addition to its other types.
+{T}: Add {C}.",,,rare,LCI,The Lost Caverns of Ixalan,271,,,,
+Echoing Deeps,,0.0,Land — Cave,"You may have this land enter tapped as a copy of any land card in a graveyard, except it's a Cave in addition to its other types.
+{T}: Add {C}.",,,rare,EOS,Edge of Eternities: Stellar Sights,58,,,,
+Echoing Deeps,,0.0,Land — Cave,"You may have this land enter tapped as a copy of any land card in a graveyard, except it's a Cave in addition to its other types.
+{T}: Add {C}.",,,rare,EOS,Edge of Eternities: Stellar Sights,103,,,,
+Echoing Deeps,,0.0,Land — Cave,"You may have this land enter tapped as a copy of any land card in a graveyard, except it's a Cave in addition to its other types.
+{T}: Add {C}.",,,rare,EOS,Edge of Eternities: Stellar Sights,13,,,,
+Echoing Deeps,,0.0,Land — Cave,"You may have this land enter tapped as a copy of any land card in a graveyard, except it's a Cave in addition to its other types.
+{T}: Add {C}.",,,rare,PLCI,The Lost Caverns of Ixalan Promos,271s,,,,
+Echoing Deeps,,0.0,Land — Cave,"You may have this land enter tapped as a copy of any land card in a graveyard, except it's a Cave in addition to its other types.
+{T}: Add {C}.",,,rare,PLCI,The Lost Caverns of Ixalan Promos,271p,,,,
+Echoing Deeps,,0.0,Land — Cave,"You may have this land enter tapped as a copy of any land card in a graveyard, except it's a Cave in addition to its other types.
+{T}: Add {C}.",,,rare,LCI,The Lost Caverns of Ixalan,346,,,,
+Echoing Deeps,,0.0,Land — Cave,"You may have this land enter tapped as a copy of any land card in a graveyard, except it's a Cave in addition to its other types.
+{T}: Add {C}.",,,rare,EOS,Edge of Eternities: Stellar Sights,148,,,,
+Eclipsed Realms,,0.0,Land,"As this land enters, choose Elemental, Elf, Faerie, Giant, Goblin, Kithkin, Merfolk, or Treefolk.
+{T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast a spell of the chosen type or activate an ability of a source of the chosen type.",,,uncommon,ECL,Lorwyn Eclipsed,263,,,,
+"Eden, Seat of the Sanctum",,0.0,Land — Town,"{T}: Add {C}.
+{5}, {T}: Mill two cards. Then you may sacrifice this land. When you do, return another target permanent card from your graveyard to your hand.",,,uncommon,FIN,Final Fantasy,355,,,,Mill
+"Eden, Seat of the Sanctum",,0.0,Land — Town,"{T}: Add {C}.
+{5}, {T}: Mill two cards. Then you may sacrifice this land. When you do, return another target permanent card from your graveyard to your hand.",,,uncommon,FIN,Final Fantasy,277,,,,Mill
+Edgewall Inn,,0.0,Land,"This land enters tapped.
+As this land enters, choose a color.
+{T}: Add one mana of the chosen color.
+{3}, {T}, Sacrifice this land: Return target card that has an Adventure from your graveyard to your hand.",,,uncommon,WOE,Wilds of Eldraine,255,,,,
+Elegant Parlor,,0.0,Land — Mountain Plains,"({T}: Add {R} or {W}.)
+This land enters tapped.
+When this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,"R,W",rare,MKM,Murders at Karlov Manor,325,,,,Surveil
+Elegant Parlor,,0.0,Land — Mountain Plains,"({T}: Add {R} or {W}.)
+This land enters tapped.
+When this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,"R,W",rare,PMKM,Murders at Karlov Manor Promos,260s,,,,Surveil
+Elegant Parlor,,0.0,Land — Mountain Plains,"({T}: Add {R} or {W}.)
+This land enters tapped.
+When this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,"R,W",rare,MKM,Murders at Karlov Manor,260,,,,Surveil
+Elegant Parlor,,0.0,Land — Mountain Plains,"({T}: Add {R} or {W}.)
+This land enters tapped.
+When this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,"R,W",rare,PMKM,Murders at Karlov Manor Promos,260p,,,,Surveil
+Eroded Canyon,,0.0,Land — Desert,"This land enters tapped.
+When this land enters, it deals 1 damage to target opponent.
+{T}: Add {U} or {R}.",,"R,U",common,OTJ,Outlaws of Thunder Junction,256,,,,
+Escape Tunnel,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+{T}, Sacrifice this land: Target creature with power 2 or less can't be blocked this turn.",,,common,TMT,Teenage Mutant Ninja Turtles,184,,,,
+Escape Tunnel,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+{T}, Sacrifice this land: Target creature with power 2 or less can't be blocked this turn.",,,common,MKM,Murders at Karlov Manor,261,,,,
+Escape Tunnel,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+{T}, Sacrifice this land: Target creature with power 2 or less can't be blocked this turn.",,,common,EOC,Edge of Eternities Commander,157,,,,
+Etched Cornfield,,0.0,Land,"This land enters tapped unless a player has 13 or less life.
+{T}: Add {G} or {W}.",,"G,W",common,DSK,Duskmourn: House of Horror,258,,,,
+"Evendo, Waking Haven",,0.0,Land — Planet,"This land enters tapped.
+{T}: Add {G}.
+Station (Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)
+12+ | {G}, {T}: Add {G} for each creature you control.",,G,mythic,EOE,Edge of Eternities,374,,,,Station
+"Evendo, Waking Haven",,0.0,Land — Planet,"This land enters tapped.
+{T}: Add {G}.
+Station (Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)
+12+ | {G}, {T}: Add {G} for each creature you control.",,G,mythic,PEOE,Edge of Eternities Promos,253s,,,,Station
+"Evendo, Waking Haven",,0.0,Land — Planet,"This land enters tapped.
+{T}: Add {G}.
+Station (Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)
+12+ | {G}, {T}: Add {G} for each creature you control.",,G,mythic,EOE,Edge of Eternities,253,,,,Station
+"Evendo, Waking Haven",,0.0,Land — Planet,"This land enters tapped.
+{T}: Add {G}.
+Station (Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)
+12+ | {G}, {T}: Add {G} for each creature you control.",,G,mythic,PEOE,Edge of Eternities Promos,253p,,,,Station
+"Evendo, Waking Haven",,0.0,Land — Planet,"This land enters tapped.
+{T}: Add {G}.
+Station (Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)
+12+ | {G}, {T}: Add {G} for each creature you control.",,G,mythic,EOE,Edge of Eternities,279,,,,Station
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,DDO,Duel Decks: Elspeth vs. Kiora,58,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,BRC,The Brothers' War Commander,184,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,PTKDF,Tarkir Dragonfury,248,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,DDH,Duel Decks: Ajani vs. Nicol Bolas,32,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,M3C,Modern Horizons 3 Commander,340,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,PIP,Fallout,791,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,40K,"Warhammer 40,000 Commander",277,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,C17,Commander 2017,248,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,PLST,The List,RIX-186,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,BRO,The Brothers' War,261,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,M15,Magic 2015,243,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,J25,Foundations Jumpstart,765,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,C16,Commander 2016,294,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,DDN,Duel Decks: Speed vs. Cunning,32,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,DKA,Dark Ascension,155,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,EOC,Edge of Eternities Commander,158,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,FIC,Final Fantasy Commander,389,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,FDN,Foundations,262,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,CMD,Commander 2011,272,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,IMA,Iconic Masters,235,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,ZNC,Zendikar Rising Commander,129,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,rare,SLD,Secret Lair Drop,538,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,MM2,Modern Masters 2015,241,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,BLC,Bloomburrow Commander,302,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,PRIX,Rivals of Ixalan Promos,186,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,PRM,Magic Online Promos,55880,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,DBL,Innistrad: Double Feature,530,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,TDM,Tarkir: Dragonstorm,255,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,RIX,Rivals of Ixalan,186,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,C14,Commander 2014,295,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,DRC,Aetherdrift Commander,154,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,AKH,Amonkhet,242,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,DDP,Duel Decks: Zendikar vs. Eldrazi,31,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,AFR,Adventures in the Forgotten Realms,256,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,WHO,Doctor Who,275,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,WOE,Wilds of Eldraine,256,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,DBL,Innistrad: Double Feature,261,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,OTC,Outlaws of Thunder Junction Commander,292,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,BFZ,Battle for Zendikar,236,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,DRC,Aetherdrift Commander,153,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,rare,PANA,MTG Arena Promos,256,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,ECL,Lorwyn Eclipsed,264,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,PRM,Magic Online Promos,46265,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,IKO,Ikoria: Lair of Behemoths,247,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,PIP,Fallout,263,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,CN2,Conspiracy: Take the Crown,218,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,CMA,Commander Anthology,247,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,TMC,Teenage Mutant Ninja Turtles Eternal,65,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,J22,Jumpstart 2022,813,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,PLST,The List,C18-245,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,AKR,Amonkhet Remastered,292,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,M20,Core Set 2020,246,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,WHO,Doctor Who,866,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,ORI,Magic Origins,246,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,DMC,Dominaria United Commander,208,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,C18,Commander 2018,245,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,C19,Commander 2019,241,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,CLB,Commander Legends: Battle for Baldur's Gate,352,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,rare,SLD,Secret Lair Drop,824,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,ROE,Rise of the Eldrazi,228,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,AFR,Adventures in the Forgotten Realms,353,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,PIO,Pioneer Masters,261,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,MOC,March of the Machine Commander,397,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,MID,Innistrad: Midnight Hunt,261,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,CMR,Commander Legends,482,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,SIS,Shadows of the Past,75,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,M13,Magic 2013,224,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,LTC,Tales of Middle-earth Commander,306,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,INR,Innistrad Remastered,278,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,DSC,Duskmourn: House of Horror Commander,274,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,DDK,Duel Decks: Sorin vs. Tibalt,33,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,C15,Commander 2015,283,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,VOW,Innistrad: Crimson Vow,263,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,DTK,Dragons of Tarkir,248,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,C13,Commander 2013,287,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,CM2,Commander Anthology Volume II,249,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,ANB,Arena Beginner Set,111,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,LCC,The Lost Caverns of Ixalan Commander,328,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,rare,F12,Friday Night Magic 2012,10,,,,
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,40K,"Warhammer 40,000 Commander",277★,,,,

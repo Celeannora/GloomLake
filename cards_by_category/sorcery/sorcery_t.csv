@@ -1,0 +1,73 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Take for a Ride,{2}{R},3.0,Sorcery,"Take for a Ride has flash as long as you've committed a crime this turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)
+Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.",R,R,uncommon,OTJ,Outlaws of Thunder Junction,148,,,,
+Tectonic Hazard,{R},1.0,Sorcery,Tectonic Hazard deals 1 damage to each opponent and each creature they control.,R,R,common,LCI,The Lost Caverns of Ixalan,169,,,,
+Temporal Cleansing,{3}{U},4.0,Sorcery,"Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+The owner of target nonland permanent puts it into their library second from the top or on the bottom.",U,U,common,ECL,Lorwyn Eclipsed,78,,,,Convoke
+Temporal Cleansing,{3}{U},4.0,Sorcery,"Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+The owner of target nonland permanent puts it into their library second from the top or on the bottom.",U,U,common,MOM,March of the Machine,80,,,,Convoke
+Temporal Intervention,{2}{B},3.0,Sorcery,"Void — This spell costs {2} less to cast if a nonland permanent left the battlefield this turn or a spell was warped this turn.
+Target opponent reveals their hand. You choose a nonland card from it. That player discards that card.",B,B,common,EOE,Edge of Eternities,120,,,,Void
+Tend the Sprigs,{2}{G},3.0,Sorcery,"Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Then if you control seven or more lands and/or Treefolk, create a 3/4 green Treefolk creature token with reach. (It can block creatures with flying.)",G,G,common,ECL,Lorwyn Eclipsed,197,,,,
+Terminal Velocity,{4}{R}{R},6.0,Sorcery,"You may put an artifact or creature card from your hand onto the battlefield. That permanent gains haste, ""When this permanent leaves the battlefield, it deals damage equal to its mana value to each creature,"" and ""At the beginning of your end step, sacrifice this permanent.""",R,R,rare,EOE,Edge of Eternities,163,,,,
+Terminal Velocity,{4}{R}{R},6.0,Sorcery,"You may put an artifact or creature card from your hand onto the battlefield. That permanent gains haste, ""When this permanent leaves the battlefield, it deals damage equal to its mana value to each creature,"" and ""At the beginning of your end step, sacrifice this permanent.""",R,R,rare,PEOE,Edge of Eternities Promos,163s,,,,
+Terminal Velocity,{4}{R}{R},6.0,Sorcery,"You may put an artifact or creature card from your hand onto the battlefield. That permanent gains haste, ""When this permanent leaves the battlefield, it deals damage equal to its mana value to each creature,"" and ""At the beginning of your end step, sacrifice this permanent.""",R,R,rare,PEOE,Edge of Eternities Promos,163p,,,,
+Terminal Velocity,{4}{R}{R},6.0,Sorcery,"You may put an artifact or creature card from your hand onto the battlefield. That permanent gains haste, ""When this permanent leaves the battlefield, it deals damage equal to its mana value to each creature,"" and ""At the beginning of your end step, sacrifice this permanent.""",R,R,rare,EOE,Edge of Eternities,338,,,,
+Terror Tide,{2}{B}{B},4.0,Sorcery,"Fathomless descent — All creatures get -X/-X until end of turn, where X is the number of permanent cards in your graveyard.",B,B,rare,LCI,The Lost Caverns of Ixalan,127,,,,Fathomless descent
+Terror Tide,{2}{B}{B},4.0,Sorcery,"Fathomless descent — All creatures get -X/-X until end of turn, where X is the number of permanent cards in your graveyard.",B,B,rare,LCI,The Lost Caverns of Ixalan,372,,,,Fathomless descent
+Terror Tide,{2}{B}{B},4.0,Sorcery,"Fathomless descent — All creatures get -X/-X until end of turn, where X is the number of permanent cards in your graveyard.",B,B,rare,PLCI,The Lost Caverns of Ixalan Promos,127p,,,,Fathomless descent
+Terror Tide,{2}{B}{B},4.0,Sorcery,"Fathomless descent — All creatures get -X/-X until end of turn, where X is the number of permanent cards in your graveyard.",B,B,rare,PLCI,The Lost Caverns of Ixalan Promos,127s,,,,Fathomless descent
+The Crystal's Chosen,{5}{W}{W},7.0,Sorcery,Create four 1/1 colorless Hero creature tokens. Then put a +1/+1 counter on each creature you control.,W,W,uncommon,FIN,Final Fantasy,14,,,,
+The Final Days,{2}{B}{B},4.0,Sorcery,"Create two tapped 2/2 black Horror creature tokens. If this spell was cast from a graveyard, instead create X of those tokens, where X is the number of creature cards in your graveyard.
+Flashback {4}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",B,B,uncommon,FIN,Final Fantasy,101,,,,Flashback
+They Went This Way,{2}{G},3.0,Sorcery,"Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")",G,G,common,MKM,Murders at Karlov Manor,178,,,,Investigate
+Throw from the Saddle,{1}{G},2.0,Sorcery,Target creature you control gets +1/+1 until end of turn. Put a +1/+1 counter on it instead if it's a Mount. Then it deals damage equal to its power to target creature you don't control.,G,G,common,OTJ,Outlaws of Thunder Junction,185,,,,
+Thunderous Debut,{6}{G}{G},8.0,Sorcery,"Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
+Look at the top twenty cards of your library. You may reveal up to two creature cards from among them. If this spell was bargained, put the revealed cards onto the battlefield. Otherwise, put the revealed cards into your hand. Then shuffle.",G,G,rare,PWOE,Wilds of Eldraine Promos,190p,,,,Bargain
+Thunderous Debut,{6}{G}{G},8.0,Sorcery,"Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
+Look at the top twenty cards of your library. You may reveal up to two creature cards from among them. If this spell was bargained, put the revealed cards onto the battlefield. Otherwise, put the revealed cards into your hand. Then shuffle.",G,G,rare,WOE,Wilds of Eldraine,359,,,,Bargain
+Thunderous Debut,{6}{G}{G},8.0,Sorcery,"Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
+Look at the top twenty cards of your library. You may reveal up to two creature cards from among them. If this spell was bargained, put the revealed cards onto the battlefield. Otherwise, put the revealed cards into your hand. Then shuffle.",G,G,rare,WOE,Wilds of Eldraine,190,,,,Bargain
+Thunderous Debut,{6}{G}{G},8.0,Sorcery,"Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
+Look at the top twenty cards of your library. You may reveal up to two creature cards from among them. If this spell was bargained, put the revealed cards onto the battlefield. Otherwise, put the revealed cards into your hand. Then shuffle.",G,G,rare,PWOE,Wilds of Eldraine Promos,190s,,,,Bargain
+Torch the Witness,{X}{R},1.0,Sorcery,"Torch the Witness deals twice X damage to target creature. If excess damage was dealt to that creature this way, investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")",R,R,uncommon,MKM,Murders at Karlov Manor,146,,,,Investigate
+Torch the Witness,{X}{R},1.0,Sorcery,"Torch the Witness deals twice X damage to target creature. If excess damage was dealt to that creature this way, investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")",R,R,uncommon,MKM,Murders at Karlov Manor,146†,,,,Investigate
+Trade the Helm,{4}{U},5.0,Sorcery,"Exchange control of target artifact or creature you control and target artifact or creature an opponent controls.
+Cycling {2} ({2}, Discard this card: Draw a card.)",U,U,uncommon,DFT,Aetherdrift,69,,,,Cycling
+Tragic Trajectory,{B},1.0,Sorcery,"Target creature gets -2/-2 until end of turn.
+Void — That creature gets -10/-10 until end of turn instead if a nonland permanent left the battlefield this turn or a spell was warped this turn.",B,B,uncommon,EOE,Edge of Eternities,122,,,,Void
+Travel the Overworld,{5}{U}{U},7.0,Sorcery,"Affinity for Towns (This spell costs {1} less to cast for each Town you control.)
+Draw four cards.",U,U,uncommon,FIN,Final Fantasy,82,,,,Affinity
+Trial of Agony,{R},1.0,Sorcery,"Choose two target creatures controlled by the same opponent. That player chooses one of those creatures. Trial of Agony deals 5 damage to that creature, and the other can't block this turn.",R,R,uncommon,DSK,Duskmourn: House of Horror,159,,,,
+Triumphant Chomp,{R},1.0,Sorcery,"Triumphant Chomp deals damage to target creature equal to 2 or the greatest power among Dinosaurs you control, whichever is greater.",R,R,uncommon,LCI,The Lost Caverns of Ixalan,170,,,,
+True Ancestry,{1}{G},2.0,Sorcery — Lesson,"Return up to one target permanent card from your graveyard to your hand.
+Create a Clue token. (It's an artifact with ""{2}, Sacrifice this token: Draw a card."")",G,G,uncommon,TLA,Avatar: The Last Airbender,199,,,,
+Trystan's Command,{4}{B}{G},6.0,Kindred Sorcery — Elf,"Choose two —
+• Create a token that's a copy of target Elf you control.
+• Return one or two target permanent cards from your graveyard to your hand.
+• Destroy target creature or enchantment.
+• Creatures target player controls get +3/+3 until end of turn. Untap them.","B,G","B,G",rare,PECL,Lorwyn Eclipsed Promos,247p,,,,
+Trystan's Command,{4}{B}{G},6.0,Kindred Sorcery — Elf,"Choose two —
+• Create a token that's a copy of target Elf you control.
+• Return one or two target permanent cards from your graveyard to your hand.
+• Destroy target creature or enchantment.
+• Creatures target player controls get +3/+3 until end of turn. Untap them.","B,G","B,G",rare,ECL,Lorwyn Eclipsed,344,,,,
+Trystan's Command,{4}{B}{G},6.0,Kindred Sorcery — Elf,"Choose two —
+• Create a token that's a copy of target Elf you control.
+• Return one or two target permanent cards from your graveyard to your hand.
+• Destroy target creature or enchantment.
+• Creatures target player controls get +3/+3 until end of turn. Untap them.","B,G","B,G",rare,ECL,Lorwyn Eclipsed,247,,,,
+Tumbleweed Rising,{1}{G},2.0,Sorcery,"Create an X/X green Elemental creature token, where X is the greatest power among creatures you control.
+Plot {2}{G} (You may pay {2}{G} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",G,G,common,OTJ,Outlaws of Thunder Junction,187,,,,Plot
+Tune Up,{3}{W},4.0,Sorcery,"Return target artifact card from your graveyard to the battlefield. If it's a Vehicle, it becomes an artifact creature.",W,W,uncommon,DFT,Aetherdrift,417,,,,
+Tune Up,{3}{W},4.0,Sorcery,"Return target artifact card from your graveyard to the battlefield. If it's a Vehicle, it becomes an artifact creature.",W,W,uncommon,DFT,Aetherdrift,33,,,,
+Turtles in Time,{5}{U}{U},7.0,Sorcery,"Return all creatures to their owners' hands. Each player may shuffle their hand and graveyard into their library, then each player who does draws seven cards.
+Exile Turtles in Time.",U,U,mythic,TMT,Teenage Mutant Ninja Turtles,263,,,,
+Turtles in Time,{5}{U}{U},7.0,Sorcery,"Return all creatures to their owners' hands. Each player may shuffle their hand and graveyard into their library, then each player who does draws seven cards.
+Exile Turtles in Time.",U,U,mythic,TMT,Teenage Mutant Ninja Turtles,294,,,,
+Turtles in Time,{5}{U}{U},7.0,Sorcery,"Return all creatures to their owners' hands. Each player may shuffle their hand and graveyard into their library, then each player who does draws seven cards.
+Exile Turtles in Time.",U,U,mythic,TMT,Teenage Mutant Ninja Turtles,284,,,,
+Turtles in Time,{5}{U}{U},7.0,Sorcery,"Return all creatures to their owners' hands. Each player may shuffle their hand and graveyard into their library, then each player who does draws seven cards.
+Exile Turtles in Time.",U,U,mythic,TMT,Teenage Mutant Ninja Turtles,55,,,,
+Twisted Fealty,{2}{R},3.0,Sorcery,"Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.
+Create a Wicked Role token attached to up to one target creature. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1. When this token is put into a graveyard, each opponent loses 1 life.)",R,R,uncommon,WOE,Wilds of Eldraine,154,,,,Role token

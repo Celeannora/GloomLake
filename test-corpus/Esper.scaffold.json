@@ -1,0 +1,40 @@
+{
+  "deck_name": "Esper",
+  "colors": [
+    "B",
+    "U",
+    "W"
+  ],
+  "archetypes": [
+    "aggro",
+    "combo",
+    "control",
+    "lifegain",
+    "opp_mill"
+  ],
+  "tribes": [],
+  "tags": [
+    "deathtouch",
+    "draw",
+    "flying",
+    "lifegain",
+    "mill",
+    "protection",
+    "pump",
+    "removal",
+    "wipe"
+  ],
+  "focus_cards": [
+    "Bloodthirsty Conqueror",
+    "Hope Estheim",
+    "Aerith Gainsborough",
+    "Scavenger's Talent"
+  ],
+  "output_dir": "",
+  "options": {
+    "skip_queries": false,
+    "run_synergy": true,
+    "auto_build": true,
+    "wildcard": false
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "deck_name": "ESPLOG",
+  "colors": [
+    "B",
+    "U",
+    "W"
+  ],
+  "archetypes": [
+    "lifegain"
+  ],
+  "tribes": [],
+  "tags": [
+    "counter",
+    "deathtouch",
+    "etb",
+    "flying",
+    "lifegain",
+    "protection",
+    "removal",
+    "tutor",
+    "wipe"
+  ],
+  "focus_cards": [
+    "ENDURING TENACITY",
+    "THE WIND CRYSTAL",
+    "SOUTH WIND AVATAR",
+    "BLOODTHIRSTY CONQUEROR",
+    "SHELTERED BY GHOSTS",
+    "AERITH GAINSBOROUGH",
+    "LEONARDO, CUTTING EDGE"
+  ],
+  "output_dir": "",
+  "options": {
+    "skip_queries": false,
+    "run_synergy": true,
+    "auto_build": true,
+    "wildcard": false
+  }
+}

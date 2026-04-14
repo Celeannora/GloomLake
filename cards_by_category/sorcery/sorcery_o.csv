@@ -1,0 +1,49 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Obliterating Bolt,{1}{R},2.0,Sorcery,"Obliterating Bolt deals 4 damage to target creature or planeswalker. If that creature or planeswalker would die this turn, exile it instead.",R,R,uncommon,BRO,The Brothers' War,145,,,,
+Obliterating Bolt,{1}{R},2.0,Sorcery,"Obliterating Bolt deals 4 damage to target creature or planeswalker. If that creature or planeswalker would die this turn, exile it instead.",R,R,uncommon,FDN,Foundations,629,,,,
+One Last Job,{2}{W},3.0,Sorcery,"Spree (Choose one or more additional costs.)
++ {2} — Return target creature card from your graveyard to the battlefield.
++ {1} — Return target Mount or Vehicle card from your graveyard to the battlefield.
++ {1} — Return target Aura or Equipment card from your graveyard to the battlefield attached to a creature you control.",W,W,rare,POTJ,Outlaws of Thunder Junction Promos,22p,,,,Spree
+One Last Job,{2}{W},3.0,Sorcery,"Spree (Choose one or more additional costs.)
++ {2} — Return target creature card from your graveyard to the battlefield.
++ {1} — Return target Mount or Vehicle card from your graveyard to the battlefield.
++ {1} — Return target Aura or Equipment card from your graveyard to the battlefield attached to a creature you control.",W,W,rare,OTJ,Outlaws of Thunder Junction,22,,,,Spree
+One Last Job,{2}{W},3.0,Sorcery,"Spree (Choose one or more additional costs.)
++ {2} — Return target creature card from your graveyard to the battlefield.
++ {1} — Return target Mount or Vehicle card from your graveyard to the battlefield.
++ {1} — Return target Aura or Equipment card from your graveyard to the battlefield attached to a creature you control.",W,W,rare,OTJ,Outlaws of Thunder Junction,315,,,,Spree
+One Last Job,{2}{W},3.0,Sorcery,"Spree (Choose one or more additional costs.)
++ {2} — Return target creature card from your graveyard to the battlefield.
++ {1} — Return target Mount or Vehicle card from your graveyard to the battlefield.
++ {1} — Return target Aura or Equipment card from your graveyard to the battlefield attached to a creature you control.",W,W,rare,POTJ,Outlaws of Thunder Junction Promos,22s,,,,Spree
+Orbital Plunge,{3}{R},4.0,Sorcery,"Orbital Plunge deals 6 damage to target creature. If excess damage was dealt this way, create a Lander token. (It's an artifact with ""{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."")",R,R,common,EOE,Edge of Eternities,149,,,,
+Otterball Antics,{1}{U},2.0,Sorcery,"Create a 1/1 blue and red Otter creature token with prowess. If this spell was cast from anywhere other than your hand, put a +1/+1 counter on that creature. (Whenever you cast a noncreature spell, a creature with prowess gets +1/+1 until end of turn.)
+Flashback {3}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",U,U,uncommon,BLB,Bloomburrow,63,,,,Flashback
+Over the Edge,{1}{G},2.0,Sorcery,"Choose one —
+• Destroy target artifact or enchantment.
+• Target creature you control explores, then it explores again. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard. Then repeat this process.)",G,G,common,LCI,The Lost Caverns of Ixalan,205,,,,Explore
+Overrun,{2}{G}{G}{G},5.0,Sorcery,Creatures you control get +3/+3 and gain trample until end of turn. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.),G,G,uncommon,TMP,Tempest,243,,,,
+Overrun,{2}{G}{G}{G},5.0,Sorcery,Creatures you control get +3/+3 and gain trample until end of turn. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.),G,G,uncommon,WC99,World Championship Decks 1999,ml243sb,,,,
+Overrun,{2}{G}{G}{G},5.0,Sorcery,Creatures you control get +3/+3 and gain trample until end of turn. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.),G,G,uncommon,FDN,Foundations,230,,,,
+Overrun,{2}{G}{G}{G},5.0,Sorcery,Creatures you control get +3/+3 and gain trample until end of turn. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.),G,G,uncommon,PS11,Salvat 2011,154,,,,
+Overrun,{2}{G}{G}{G},5.0,Sorcery,Creatures you control get +3/+3 and gain trample until end of turn. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.),G,G,uncommon,PC2,Planechase 2012,72,,,,
+Overrun,{2}{G}{G}{G},5.0,Sorcery,Creatures you control get +3/+3 and gain trample until end of turn. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.),G,G,uncommon,10E,Tenth Edition,284★,,,,
+Overrun,{2}{G}{G}{G},5.0,Sorcery,Creatures you control get +3/+3 and gain trample until end of turn. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.),G,G,uncommon,TPR,Tempest Remastered,185,,,,
+Overrun,{2}{G}{G}{G},5.0,Sorcery,Creatures you control get +3/+3 and gain trample until end of turn. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.),G,G,uncommon,ATH,Anthologies,61,,,,
+Overrun,{2}{G}{G}{G},5.0,Sorcery,Creatures you control get +3/+3 and gain trample until end of turn. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.),G,G,uncommon,GVL,Duel Decks Anthology: Garruk vs. Liliana,24,,,,
+Overrun,{2}{G}{G}{G},5.0,Sorcery,Creatures you control get +3/+3 and gain trample until end of turn. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.),G,G,uncommon,GN3,Game Night: Free-for-All,103,,,,
+Overrun,{2}{G}{G}{G},5.0,Sorcery,Creatures you control get +3/+3 and gain trample until end of turn. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.),G,G,uncommon,CN2,Conspiracy: Take the Crown,189,,,,
+Overrun,{2}{G}{G}{G},5.0,Sorcery,Creatures you control get +3/+3 and gain trample until end of turn. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.),G,G,uncommon,CMA,Commander Anthology,130,,,,
+Overrun,{2}{G}{G}{G},5.0,Sorcery,Creatures you control get +3/+3 and gain trample until end of turn. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.),G,G,uncommon,PCA,Planechase Anthology,72,,,,
+Overrun,{2}{G}{G}{G},5.0,Sorcery,Creatures you control get +3/+3 and gain trample until end of turn. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.),G,G,uncommon,SCD,Starter Commander Decks,201,,,,
+Overrun,{2}{G}{G}{G},5.0,Sorcery,Creatures you control get +3/+3 and gain trample until end of turn. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.),G,G,uncommon,10E,Tenth Edition,284,,,,
+Overrun,{2}{G}{G}{G},5.0,Sorcery,Creatures you control get +3/+3 and gain trample until end of turn. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.),G,G,uncommon,ODY,Odyssey,260,,,,
+Overrun,{2}{G}{G}{G},5.0,Sorcery,Creatures you control get +3/+3 and gain trample until end of turn. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.),G,G,uncommon,DPA,Duels of the Planeswalkers,78,,,,
+Overrun,{2}{G}{G}{G},5.0,Sorcery,Creatures you control get +3/+3 and gain trample until end of turn. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.),G,G,uncommon,M12,Magic 2012,186,,,,
+Overrun,{2}{G}{G}{G},5.0,Sorcery,Creatures you control get +3/+3 and gain trample until end of turn. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.),G,G,uncommon,PLST,The List,CMA-130,,,,
+Overrun,{2}{G}{G}{G},5.0,Sorcery,Creatures you control get +3/+3 and gain trample until end of turn. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.),G,G,uncommon,M10,Magic 2010,198,,,,
+Overrun,{2}{G}{G}{G},5.0,Sorcery,Creatures you control get +3/+3 and gain trample until end of turn. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.),G,G,uncommon,C15,Commander 2015,195,,,,
+Overrun,{2}{G}{G}{G},5.0,Sorcery,Creatures you control get +3/+3 and gain trample until end of turn. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.),G,G,uncommon,DDD,Duel Decks: Garruk vs. Liliana,24,,,,
+Overrun,{2}{G}{G}{G},5.0,Sorcery,Creatures you control get +3/+3 and gain trample until end of turn. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.),G,G,uncommon,C14,Commander 2014,207,,,,
+Ozai's Cruelty,{2}{B},3.0,Sorcery — Lesson,Ozai's Cruelty deals 2 damage to target player. That player discards two cards.,B,B,uncommon,TLA,Avatar: The Last Airbender,113,,,,

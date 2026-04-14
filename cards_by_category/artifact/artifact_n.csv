@@ -1,0 +1,16 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Nexus of Becoming,{6},6.0,Artifact,"At the beginning of combat on your turn, draw a card. Then you may exile an artifact or creature card from your hand. If you do, create a token that's a copy of the exiled card, except it's a 3/3 Golem artifact creature in addition to its other types.",,,mythic,BIG,The Big Score,25,,,,
+Nexus of Becoming,{6},6.0,Artifact,"At the beginning of combat on your turn, draw a card. Then you may exile an artifact or creature card from your hand. If you do, create a token that's a copy of the exiled card, except it's a 3/3 Golem artifact creature in addition to its other types.",,,mythic,BIG,The Big Score,90,,,,
+Nexus of Becoming,{6},6.0,Artifact,"At the beginning of combat on your turn, draw a card. Then you may exile an artifact or creature card from your hand. If you do, create a token that's a copy of the exiled card, except it's a 3/3 Golem artifact creature in addition to its other types.",,,mythic,BIG,The Big Score,55,,,,
+Ninja's Blades,{2}{B},3.0,Artifact — Equipment,"Job select
+Equipped creature gets +1/+1, is a Ninja in addition to its other types, and has ""Whenever this creature deals combat damage to a player, draw a card, then discard a card. That player loses life equal to the discarded card's mana value.""
+Mutsunokami — Equip {2}",B,B,rare,FIN,Final Fantasy,108,,,,Job select;Equip;Mutsunokami
+Ninja's Blades,{2}{B},3.0,Artifact — Equipment,"Job select
+Equipped creature gets +1/+1, is a Ninja in addition to its other types, and has ""Whenever this creature deals combat damage to a player, draw a card, then discard a card. That player loses life equal to the discarded card's mana value.""
+Mutsunokami — Equip {2}",B,B,rare,PFIN,Final Fantasy Promos,108s,,,,Job select;Equip;Mutsunokami
+Novel Nunchaku,{2}{G},3.0,Artifact — Equipment,"When this Equipment enters, attach it to target creature you control. When you do, equipped creature fights up to one target creature an opponent controls. (Each deals damage equal to its power to the other.)
+Equipped creature gets +1/+1 and has trample.
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",G,G,uncommon,TMT,Teenage Mutant Ninja Turtles,127,,,,Fight;Equip
+Nutrient Block,{1},1.0,Artifact — Food,"Indestructible (Effects that say ""destroy"" don't destroy this artifact.)
+{2}, {T}, Sacrifice this artifact: You gain 3 life.
+When this artifact is put into a graveyard from the battlefield, draw a card.",,,common,EOE,Edge of Eternities,243,,,,Indestructible

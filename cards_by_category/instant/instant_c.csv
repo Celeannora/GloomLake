@@ -1,0 +1,99 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Cache Grab,{1}{G},2.0,Instant,"Mill four cards. You may put a permanent card from among the cards milled this way into your hand. If you control a Squirrel or returned a Squirrel card to your hand this way, create a Food token. (To mill four cards, put the top four cards of your library into your graveyard. A Food token is an artifact with ""{2}, {T}, Sacrifice this token: You gain 3 life."")",G,G,common,BLB,Bloomburrow,167,,,,Food;Mill
+Cancel,{1}{U}{U},3.0,Instant,Counter target spell.,U,U,common,10E,Tenth Edition,71,,,,
+Cancel,{1}{U}{U},3.0,Instant,Counter target spell.,U,U,common,PC2,Planechase 2012,15,,,,
+Cancel,{1}{U}{U},3.0,Instant,Counter target spell.,U,U,common,M10,Magic 2010,44,,,,
+Cancel,{1}{U}{U},3.0,Instant,Counter target spell.,U,U,common,PRM,Magic Online Promos,36222,,,,
+Cancel,{1}{U}{U},3.0,Instant,Counter target spell.,U,U,common,FDN,Foundations,505,,,,
+Cancel,{1}{U}{U},3.0,Instant,Counter target spell.,U,U,common,ALA,Shards of Alara,33,,,,
+Cancel,{1}{U}{U},3.0,Instant,Counter target spell.,U,U,common,PS11,Salvat 2011,28,,,,
+Cancel,{1}{U}{U},3.0,Instant,Counter target spell.,U,U,common,M21,Core Set 2021,46,,,,
+Cancel,{1}{U}{U},3.0,Instant,Counter target spell.,U,U,common,M11,Magic 2011,48,,,,
+Cancel,{1}{U}{U},3.0,Instant,Counter target spell.,U,U,common,AKH,Amonkhet,44,,,,
+Cancel,{1}{U}{U},3.0,Instant,Counter target spell.,U,U,common,M14,Magic 2014,45,,,,
+Cancel,{1}{U}{U},3.0,Instant,Counter target spell.,U,U,common,M19,Core Set 2019,48,,,,
+Cancel,{1}{U}{U},3.0,Instant,Counter target spell.,U,U,common,ZEN,Zendikar,44,,,,
+Cancel,{1}{U}{U},3.0,Instant,Counter target spell.,U,U,common,KTK,Khans of Tarkir,33,,,,
+Cancel,{1}{U}{U},3.0,Instant,Counter target spell.,U,U,common,TSP,Time Spiral,51,,,,
+Cancel,{1}{U}{U},3.0,Instant,Counter target spell.,U,U,rare,P10,Magic Player Rewards 2010,2,,,,
+Cancel,{1}{U}{U},3.0,Instant,Counter target spell.,U,U,common,DPA,Duels of the Planeswalkers,3,,,,
+Cancel,{1}{U}{U},3.0,Instant,Counter target spell.,U,U,common,M12,Magic 2012,47,,,,
+Cancel,{1}{U}{U},3.0,Instant,Counter target spell.,U,U,common,PCA,Planechase Anthology,15,,,,
+Cancel,{1}{U}{U},3.0,Instant,Counter target spell.,U,U,common,PLST,The List,KTK-33,,,,
+Cancel,{1}{U}{U},3.0,Instant,Counter target spell.,U,U,common,XLN,Ixalan,47,,,,
+Cancel,{1}{U}{U},3.0,Instant,Counter target spell.,U,U,common,M15,Magic 2015,274,,,,
+Cancel,{1}{U}{U},3.0,Instant,Counter target spell.,U,U,common,RTR,Return to Ravnica,31,,,,
+Candy Grapple,{1}{B},2.0,Instant,"Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
+Target creature gets -3/-3 until end of turn. If this spell was bargained, that creature gets -5/-5 until end of turn instead.",B,B,common,WOE,Wilds of Eldraine,83,,,,Bargain
+Caught in the Crossfire,{R}{R},2.0,Instant,"Spree (Choose one or more additional costs.)
++ {1} — Caught in the Crossfire deals 2 damage to each outlaw creature. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)
++ {1} — Caught in the Crossfire deals 2 damage to each non-outlaw creature.",R,R,uncommon,OTJ,Outlaws of Thunder Junction,117,,,,Spree
+Caught Red-Handed,{4}{R},5.0,Instant,"This spell can't be countered. (This includes by the ward ability.)
+Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. Suspect it. (It has menace and can't block.)",R,R,uncommon,MKM,Murders at Karlov Manor,115,,,,Suspect
+Caustic Exhale,{B},1.0,Instant,"As an additional cost to cast this spell, behold a Dragon or pay {1}. (To behold a Dragon, choose a Dragon you control or reveal a Dragon card from your hand.)
+Target creature gets -3/-3 until end of turn.",B,B,common,TDM,Tarkir: Dragonstorm,74,,,,Behold
+Cease // Desist,{1}{B/G} // {4}{G/W}{G/W},8.0,Instant // Sorcery,,"B,G,W","B,G,W",uncommon,MKM,Murders at Karlov Manor,246,,,,
+Cerebral Download,{4}{U},5.0,Instant,"Surveil X, where X is the number of artifacts you control. Then draw three cards. (To surveil X, look at the top X cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)",U,U,uncommon,EOE,Edge of Eternities,48,,,,Surveil
+Claws Out,{3}{W}{W},5.0,Instant,"Affinity for Cats (This spell costs {1} less to cast for each Cat you control.)
+Creatures you control get +2/+2 until end of turn.",W,W,uncommon,FDN,Foundations,6,,,,Affinity
+Close Encounter,{1}{G},2.0,Instant,"As an additional cost to cast this spell, choose a creature you control or a warped creature card you own in exile.
+Close Encounter deals damage equal to the power of the chosen creature or card to target creature.",G,G,uncommon,EOE,Edge of Eternities,176,,,,
+Combustion Technique,{1}{R},2.0,Instant — Lesson,"Combustion Technique deals damage equal to 2 plus the number of Lesson cards in your graveyard to target creature. If that creature would die this turn, exile it instead.",R,R,uncommon,TLA,Avatar: The Last Airbender,301,,,,
+Combustion Technique,{1}{R},2.0,Instant — Lesson,"Combustion Technique deals damage equal to 2 plus the number of Lesson cards in your graveyard to target creature. If that creature would die this turn, exile it instead.",R,R,uncommon,TLA,Avatar: The Last Airbender,128,,,,
+Conduct Electricity,{4}{R},5.0,Instant,Conduct Electricity deals 6 damage to target creature and 2 damage to up to one target creature token.,R,R,common,BLB,Bloomburrow,130,,,,
+Confounding Riddle,{2}{U},3.0,Instant,"Choose one —
+• Look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard.
+• Counter target spell unless its controller pays {4}.",U,U,uncommon,LCI,The Lost Caverns of Ixalan,50,,,,
+Consult the Star Charts,{1}{U},2.0,Instant,"Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)
+Look at the top X cards of your library, where X is the number of lands you control. Put one of those cards into your hand. If this spell was kicked, put two of those cards into your hand instead. Put the rest on the bottom of your library in a random order.",U,U,rare,PEOE,Edge of Eternities Promos,51p,,,,Kicker
+Consult the Star Charts,{1}{U},2.0,Instant,"Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)
+Look at the top X cards of your library, where X is the number of lands you control. Put one of those cards into your hand. If this spell was kicked, put two of those cards into your hand instead. Put the rest on the bottom of your library in a random order.",U,U,rare,PEOE,Edge of Eternities Promos,51s,,,,Kicker
+Consult the Star Charts,{1}{U},2.0,Instant,"Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)
+Look at the top X cards of your library, where X is the number of lands you control. Put one of those cards into your hand. If this spell was kicked, put two of those cards into your hand instead. Put the rest on the bottom of your library in a random order.",U,U,rare,EOE,Edge of Eternities,325,,,,Kicker
+Consult the Star Charts,{1}{U},2.0,Instant,"Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)
+Look at the top X cards of your library, where X is the number of lands you control. Put one of those cards into your hand. If this spell was kicked, put two of those cards into your hand instead. Put the rest on the bottom of your library in a random order.",U,U,rare,EOE,Edge of Eternities,51,,,,Kicker
+Consumed by Greed,{1}{B}{B},3.0,Instant,"Gift a card (You may promise an opponent a gift as you cast this spell. If you do, they draw a card before its other effects.)
+Target opponent sacrifices a creature with the greatest power among creatures they control. If the gift was promised, return target creature card from your graveyard to your hand.",B,B,uncommon,BLB,Bloomburrow,87,,,,Gift
+Consuming Ashes,{2}{B}{B},4.0,Instant,"Exile target creature. If it had mana value 3 or less, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)",B,B,common,OTJ,Outlaws of Thunder Junction,83,,,,Surveil
+Coordinated Maneuver,{1}{W},2.0,Instant,"Choose one —
+• Coordinated Maneuver deals damage equal to the number of creatures you control to target creature or planeswalker.
+• Destroy target enchantment.",W,W,common,TDM,Tarkir: Dragonstorm,6,,,,
+Corrupted Conviction,{B},1.0,Instant,"As an additional cost to cast this spell, sacrifice a creature.
+Draw two cards.",B,B,common,OTJ,Outlaws of Thunder Junction,84,,,,
+Corrupted Conviction,{B},1.0,Instant,"As an additional cost to cast this spell, sacrifice a creature.
+Draw two cards.",B,B,common,MOM,March of the Machine,98,,,,
+Cosmium Blast,{1}{W},2.0,Instant,Cosmium Blast deals 4 damage to target attacking or blocking creature.,W,W,common,LCI,The Lost Caverns of Ixalan,7,,,,
+Crash and Burn,{3}{R},4.0,Instant,"Choose one —
+• Destroy target Vehicle.
+• Crash and Burn deals 6 damage to target creature or planeswalker.",R,R,common,DFT,Aetherdrift,119,,,,
+Crib Swap,{2}{W},3.0,Kindred Instant — Shapeshifter,"Changeling (This card is every creature type.)
+Exile target creature. Its controller creates a 1/1 colorless Shapeshifter creature token with changeling.",W,W,uncommon,SLD,Secret Lair Drop,1850,,,,Changeling
+Crib Swap,{2}{W},3.0,Kindred Instant — Shapeshifter,"Changeling (This card is every creature type.)
+Exile target creature. Its controller creates a 1/1 colorless Shapeshifter creature token with changeling.",W,W,uncommon,M3C,Modern Horizons 3 Commander,168,,,,Changeling
+Crib Swap,{2}{W},3.0,Kindred Instant — Shapeshifter,"Changeling (This card is every creature type.)
+Exile target creature. Its controller creates a 1/1 colorless Shapeshifter creature token with changeling.",W,W,uncommon,CM2,Commander Anthology Volume II,22,,,,Changeling
+Crib Swap,{2}{W},3.0,Kindred Instant — Shapeshifter,"Changeling (This card is every creature type.)
+Exile target creature. Its controller creates a 1/1 colorless Shapeshifter creature token with changeling.",W,W,common,2XM,Double Masters,12,,,,Changeling
+Crib Swap,{2}{W},3.0,Kindred Instant — Shapeshifter,"Changeling (This card is every creature type.)
+Exile target creature. Its controller creates a 1/1 colorless Shapeshifter creature token with changeling.",W,W,uncommon,C18,Commander 2018,65,,,,Changeling
+Crib Swap,{2}{W},3.0,Kindred Instant — Shapeshifter,"Changeling (This card is every creature type.)
+Exile target creature. Its controller creates a 1/1 colorless Shapeshifter creature token with changeling.",W,W,uncommon,C15,Commander 2015,65,,,,Changeling
+Crib Swap,{2}{W},3.0,Kindred Instant — Shapeshifter,"Changeling (This card is every creature type.)
+Exile target creature. Its controller creates a 1/1 colorless Shapeshifter creature token with changeling.",W,W,uncommon,ECL,Lorwyn Eclipsed,11,,,,Changeling
+Crib Swap,{2}{W},3.0,Kindred Instant — Shapeshifter,"Changeling (This card is every creature type.)
+Exile target creature. Its controller creates a 1/1 colorless Shapeshifter creature token with changeling.",W,W,uncommon,PLST,The List,LRW-11,,,,Changeling
+Crib Swap,{2}{W},3.0,Kindred Instant — Shapeshifter,"Changeling (This card is every creature type.)
+Exile target creature. Its controller creates a 1/1 colorless Shapeshifter creature token with changeling.",W,W,uncommon,PLST,The List,C18-65,,,,Changeling
+Crib Swap,{2}{W},3.0,Kindred Instant — Shapeshifter,"Changeling (This card is every creature type.)
+Exile target creature. Its controller creates a 1/1 colorless Shapeshifter creature token with changeling.",W,W,uncommon,LRW,Lorwyn,11,,,,Changeling
+Crib Swap,{2}{W},3.0,Kindred Instant — Shapeshifter,"Changeling (This card is every creature type.)
+Exile target creature. Its controller creates a 1/1 colorless Shapeshifter creature token with changeling.",W,W,common,CLB,Commander Legends: Battle for Baldur's Gate,690,,,,Changeling
+Crib Swap,{2}{W},3.0,Kindred Instant — Shapeshifter,"Changeling (This card is every creature type.)
+Exile target creature. Its controller creates a 1/1 colorless Shapeshifter creature token with changeling.",W,W,uncommon,PLST,The List,M3C-168,,,,Changeling
+Cruel Truths,{3}{B},4.0,Instant,"Surveil 2, then draw two cards. You lose 2 life. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)",B,B,common,TDM,Tarkir: Dragonstorm,76,,,,Surveil
+Crumb and Get It,{W},1.0,Instant,"Gift a Food (You may promise an opponent a gift as you cast this spell. If you do, they create a Food token before its other effects. It's an artifact with ""{2}, {T}, Sacrifice this token: You gain 3 life."")
+Target creature you control gets +2/+2 until end of turn. If the gift was promised, that creature also gains indestructible until end of turn.",W,W,common,BLB,Bloomburrow,8,,,,Gift;Food
+Cunning Maneuver,{1}{R},2.0,Instant,"Target creature gets +3/+1 until end of turn.
+Create a Clue token. (It's an artifact with ""{2}, Sacrifice this token: Draw a card."")",R,R,common,TLA,Avatar: The Last Airbender,130,,,,
+Cut Propulsion,{2}{R},3.0,Instant,"Target creature deals damage to itself equal to its power. If that creature has flying, it deals twice that much damage to itself instead.",R,R,uncommon,EOE,Edge of Eternities,130,,,,
+Cycle of Renewal,{2}{G},3.0,Instant — Lesson,"Sacrifice a land. Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",G,G,common,TLA,Avatar: The Last Airbender,170,,,,

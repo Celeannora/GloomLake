@@ -1,0 +1,18 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Wail of War,{2}{B},3.0,Instant,"Choose one —
+• Creatures target opponent controls get -1/-1 until end of turn.
+• Return up to two target creature cards from your graveyard to your hand.",B,B,uncommon,TDM,Tarkir: Dragonstorm,98,,,,
+Water Wings,{1}{U},2.0,Instant,"Until end of turn, target creature you control has base power and toughness 4/4 and gains flying and hexproof. (It can't be the target of spells or abilities your opponents control.)",U,U,common,WOE,Wilds of Eldraine,77,,,,
+Whoosh!,{1}{U},2.0,Instant,"Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)
+Return target nonland permanent to its owner's hand. If this spell was kicked, draw a card.",U,U,common,OM1,Through the Omenpaths,43,,,,Kicker
+Whoosh!,{1}{U},2.0,Instant,"Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)
+Return target nonland permanent to its owner's hand. If this spell was kicked, draw a card.",U,U,common,SPM,Marvel's Spider-Man,48,,,,Kicker
+Wild Unraveling,{U}{U},2.0,Instant,"As an additional cost to cast this spell, blight 2 or pay {1}. (To blight 2, put two -1/-1 counters on a creature you control.)
+Counter target spell.",U,U,common,ECL,Lorwyn Eclipsed,84,,,,Blight
+Winter's Intervention,{1}{B},2.0,Instant,Winter's Intervention deals 2 damage to target creature. You gain 2 life.,B,B,common,DSK,Duskmourn: House of Horror,123,,,,
+Wisecrack,{2}{R},3.0,Instant,"Target creature deals damage equal to its power to itself. If that creature is attacking, Wisecrack deals 2 damage to that creature's controller.",R,R,uncommon,OM1,Through the Omenpaths,98,,,,
+Wisecrack,{2}{R},3.0,Instant,"Target creature deals damage equal to its power to itself. If that creature is attacking, Wisecrack deals 2 damage to that creature's controller.",R,R,uncommon,SPM,Marvel's Spider-Man,98,,,,
+Witchstalker Frenzy,{3}{R},4.0,Instant,"This spell costs {1} less to cast for each creature that attacked this turn.
+Witchstalker Frenzy deals 5 damage to target creature.",R,R,uncommon,WOE,Wilds of Eldraine,159,,,,
+Withering Torment,{2}{B},3.0,Instant,Destroy target creature or enchantment. You lose 2 life.,B,B,uncommon,DSK,Duskmourn: House of Horror,124,,,,
+Withering Torment,{2}{B},3.0,Instant,Destroy target creature or enchantment. You lose 2 life.,B,B,uncommon,DSK,Duskmourn: House of Horror,313,,,,

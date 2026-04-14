@@ -1,0 +1,45 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Neglected Manor,,0.0,Land,"This land enters tapped unless a player has 13 or less life.
+{T}: Add {W} or {B}.",,"B,W",common,DSK,Duskmourn: House of Horror,264,,,,
+Night Market,,0.0,Land,"This land enters tapped. As it enters, choose a color.
+{T}: Add one mana of the chosen color.
+Cycling {3} ({3}, Discard this card: Draw a card.)",,,common,DFT,Aetherdrift,258,,,,Cycling
+Nomad Outpost,,0.0,Land,"This land enters tapped.
+{T}: Add {R}, {W}, or {B}.",,"B,R,W",rare,SLD,Secret Lair Drop,465,,,,
+Nomad Outpost,,0.0,Land,"This land enters tapped.
+{T}: Add {R}, {W}, or {B}.",,"B,R,W",uncommon,OTC,Outlaws of Thunder Junction Commander,306,,,,
+Nomad Outpost,,0.0,Land,"This land enters tapped.
+{T}: Add {R}, {W}, or {B}.",,"B,R,W",uncommon,CMM,Commander Masters,1016,,,,
+Nomad Outpost,,0.0,Land,"This land enters tapped.
+{T}: Add {R}, {W}, or {B}.",,"B,R,W",uncommon,PIP,Fallout,805,,,,
+Nomad Outpost,,0.0,Land,"This land enters tapped.
+{T}: Add {R}, {W}, or {B}.",,"B,R,W",uncommon,DDN,Duel Decks: Speed vs. Cunning,34,,,,
+Nomad Outpost,,0.0,Land,"This land enters tapped.
+{T}: Add {R}, {W}, or {B}.",,"B,R,W",uncommon,C16,Commander 2016,311,,,,
+Nomad Outpost,,0.0,Land,"This land enters tapped.
+{T}: Add {R}, {W}, or {B}.",,"B,R,W",uncommon,FIC,Final Fantasy Commander,409,,,,
+Nomad Outpost,,0.0,Land,"This land enters tapped.
+{T}: Add {R}, {W}, or {B}.",,"B,R,W",uncommon,DMC,Dominaria United Commander,222,,,,
+Nomad Outpost,,0.0,Land,"This land enters tapped.
+{T}: Add {R}, {W}, or {B}.",,"B,R,W",uncommon,PLST,The List,DMC-222,,,,
+Nomad Outpost,,0.0,Land,"This land enters tapped.
+{T}: Add {R}, {W}, or {B}.",,"B,R,W",uncommon,TDM,Tarkir: Dragonstorm,263,,,,
+Nomad Outpost,,0.0,Land,"This land enters tapped.
+{T}: Add {R}, {W}, or {B}.",,"B,R,W",uncommon,PIP,Fallout,277,,,,
+Nomad Outpost,,0.0,Land,"This land enters tapped.
+{T}: Add {R}, {W}, or {B}.",,"B,R,W",uncommon,KTK,Khans of Tarkir,237y,,,,
+Nomad Outpost,,0.0,Land,"This land enters tapped.
+{T}: Add {R}, {W}, or {B}.",,"B,R,W",uncommon,C20,Commander 2020,294,,,,
+Nomad Outpost,,0.0,Land,"This land enters tapped.
+{T}: Add {R}, {W}, or {B}.",,"B,R,W",uncommon,KTK,Khans of Tarkir,237,,,,
+Nomad Outpost,,0.0,Land,"This land enters tapped.
+{T}: Add {R}, {W}, or {B}.",,"B,R,W",uncommon,C17,Commander 2017,265,,,,
+North Pole Gates,,0.0,Land,"This land enters tapped.
+{T}: Add {W} or {U}.
+{4}, {T}, Sacrifice this land: Draw a card.",,"U,W",common,TLA,Avatar: The Last Airbender,274,,,,
+Northampton Farm,,0.0,Land,"{T}: Add {C}.
+{1}, {T}: Exile target creature you own.
+{2}, {T}, Sacrifice this land: Return a creature card exiled with this land to the battlefield under your control. Return each other card exiled with this land to its owner's hand.",,,rare,TMT,Teenage Mutant Ninja Turtles,188,,,,
+Northampton Farm,,0.0,Land,"{T}: Add {C}.
+{1}, {T}: Exile target creature you own.
+{2}, {T}, Sacrifice this land: Return a creature card exiled with this land to the battlefield under your control. Return each other card exiled with this land to its owner's hand.",,,rare,TMT,Teenage Mutant Ninja Turtles,280,,,,

@@ -1,0 +1,84 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Rabbit Response,{2}{W}{W},4.0,Instant,"Creatures you control get +2/+1 until end of turn. If you control a Rabbit, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)",W,W,common,BLB,Bloomburrow,26,,,,Scry
+Rabid Gnaw,{1}{R},2.0,Instant,Target creature you control gets +1/+0 until end of turn. Then it deals damage equal to its power to target creature you don't control.,R,R,uncommon,BLB,Bloomburrow,147,,,,
+Radiant Strike,{3}{W},4.0,Instant,Destroy target artifact or tapped creature. You gain 3 life.,W,W,common,EOE,Edge of Eternities,29,,,,
+Rakshasa's Bargain,{2/B}{2/G}{2/U},6.0,Instant,Look at the top four cards of your library. Put two of them into your hand and the rest into your graveyard.,"B,G,U","B,G,U",uncommon,TDM,Tarkir: Dragonstorm,214,,,,
+Rally the Monastery,{3}{W},4.0,Instant,"This spell costs {2} less to cast if you've cast another spell this turn.
+Choose one —
+• Create two 1/1 white Monk creature tokens with prowess.
+• Up to two target creatures you control each get +2/+2 until end of turn.
+• Destroy target creature with power 4 or greater.",W,W,uncommon,TDM,Tarkir: Dragonstorm,19,,,,
+Raphael's Technique,{4}{R}{R},6.0,Instant,"Sneak {2}{R} (You may cast this spell for {2}{R} if you also return an unblocked attacker you control to hand during the declare blockers step.)
+Each player may discard their hand and draw seven cards.",R,R,rare,TMT,Teenage Mutant Ninja Turtles,237,,,,Sneak
+Raphael's Technique,{4}{R}{R},6.0,Instant,"Sneak {2}{R} (You may cast this spell for {2}{R} if you also return an unblocked attacker you control to hand during the declare blockers step.)
+Each player may discard their hand and draw seven cards.",R,R,rare,TMT,Teenage Mutant Ninja Turtles,105,,,,Sneak
+Rat Out,{B},1.0,Instant,"Up to one target creature gets -1/-1 until end of turn. You create a 1/1 black Rat creature token with ""This token can't block.""",B,B,common,WOE,Wilds of Eldraine,103,,,,
+Razor Rings,{1}{W},2.0,Instant,Razor Rings deals 4 damage to target attacking or blocking creature. You gain life equal to the excess damage dealt this way.,W,W,common,TLE,Avatar: The Last Airbender Eternal,272,,,,
+Razor Rings,{1}{W},2.0,Instant,Razor Rings deals 4 damage to target attacking or blocking creature. You gain life equal to the excess damage dealt this way.,W,W,common,TLA,Avatar: The Last Airbender,33,,,,
+Reasonable Doubt,{1}{U},2.0,Instant,"Counter target spell unless its controller pays {2}.
+Suspect up to one target creature. (A suspected creature has menace and can't block.)",U,U,common,MKM,Murders at Karlov Manor,69,,,,
+Rebellious Strike,{1}{W},2.0,Instant,"Target creature gets +3/+0 until end of turn.
+Draw a card.",W,W,common,TDM,Tarkir: Dragonstorm,20,,,,
+Reckless Ransacking,{1}{R},2.0,Instant,"Target creature gets +3/+2 until end of turn. Create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")",R,R,common,ECL,Lorwyn Eclipsed,152,,,,Treasure
+Redirect Lightning,{R},1.0,Instant — Lesson,"As an additional cost to cast this spell, pay 5 life or pay {2}.
+Change the target of target spell or ability with a single target.",R,R,rare,TLA,Avatar: The Last Airbender,151,,,,
+Redirect Lightning,{R},1.0,Instant — Lesson,"As an additional cost to cast this spell, pay 5 life or pay {2}.
+Change the target of target spell or ability with a single target.",R,R,rare,TLA,Avatar: The Last Airbender,343,,,,
+Redirect Lightning,{R},1.0,Instant — Lesson,"As an additional cost to cast this spell, pay 5 life or pay {2}.
+Change the target of target spell or ability with a single target.",R,R,rare,PTLA,Avatar: The Last Airbender Promos,151s,,,,
+Reenact the Crime,{1}{U}{U}{U},4.0,Instant,Exile target nonland card in a graveyard that was put there from anywhere this turn. Copy it. You may cast the copy without paying its mana cost.,U,U,rare,PMKM,Murders at Karlov Manor Promos,70s,,,,
+Reenact the Crime,{1}{U}{U}{U},4.0,Instant,Exile target nonland card in a graveyard that was put there from anywhere this turn. Copy it. You may cast the copy without paying its mana cost.,U,U,rare,MKM,Murders at Karlov Manor,297,,,,
+Reenact the Crime,{1}{U}{U}{U},4.0,Instant,Exile target nonland card in a graveyard that was put there from anywhere this turn. Copy it. You may cast the copy without paying its mana cost.,U,U,rare,PMKM,Murders at Karlov Manor Promos,70p,,,,
+Reenact the Crime,{1}{U}{U}{U},4.0,Instant,Exile target nonland card in a graveyard that was put there from anywhere this turn. Copy it. You may cast the copy without paying its mana cost.,U,U,rare,MKM,Murders at Karlov Manor,70,,,,
+Refute,{1}{U}{U},3.0,Instant,"Counter target spell. Draw a card, then discard a card.",U,U,common,FDN,Foundations,313,,,,
+Refute,{1}{U}{U},3.0,Instant,"Counter target spell. Draw a card, then discard a card.",U,U,common,FDN,Foundations,48,,,,
+Relic's Roar,{U},1.0,Instant,"Until end of turn, target artifact or creature becomes a Dinosaur artifact creature with base power and toughness 4/3 in addition to its other types.",U,U,common,LCI,The Lost Caverns of Ixalan,71,,,,
+Repel Calamity,{1}{W},2.0,Instant,Destroy target creature with power or toughness 4 or greater.,W,W,uncommon,BLB,Bloomburrow,27,,,,
+Repulsive Mutation,{X}{G}{U},2.0,Instant,Put X +1/+1 counters on target creature you control. Then counter up to one target spell unless its controller pays mana equal to the greatest power among creatures you control.,"G,U","G,U",uncommon,MKM,Murders at Karlov Manor,227,,,,
+Requiting Hex,{B},1.0,Instant,"As an additional cost to cast this spell, you may blight 1. (You may put a -1/-1 counter on a creature you control.)
+Destroy target creature with mana value 2 or less. If this spell's additional cost was paid, you gain 2 life.",B,B,uncommon,ECL,Lorwyn Eclipsed,116,,,,Blight
+Reroute Systems,{W},1.0,Instant,"Choose one —
+• Target artifact or creature gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)
+• Reroute Systems deals 2 damage to target tapped creature.",W,W,uncommon,EOE,Edge of Eternities,31,,,,
+Restoration Magic,{W},1.0,Instant,"Tiered (Choose one additional cost.)
+• Cure — {0} — Target permanent gains hexproof and indestructible until end of turn.
+• Cura — {1} — Target permanent gains hexproof and indestructible until end of turn. You gain 3 life.
+• Curaga — {3}{W} — Permanents you control gain hexproof and indestructible until end of turn. You gain 6 life.",W,W,uncommon,FIN,Final Fantasy,30,,,,Curaga;Cura;Tiered;Cure
+Return the Favor,{R}{R},2.0,Instant,"Spree (Choose one or more additional costs.)
++ {1} — Copy target instant spell, sorcery spell, activated ability, or triggered ability. You may choose new targets for the copy.
++ {1} — Change the target of target spell or ability with a single target.",R,R,uncommon,OTJ,Outlaws of Thunder Junction,142,,,,Spree
+Return to the Sewers,{3}{U},4.0,Instant,"Target creature's owner puts it on their choice of the top or bottom of their library. You create a Mutagen token. (It's an artifact with ""{1}, {T}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery."")",U,U,common,TMT,Teenage Mutant Ninja Turtles,52,,,,
+Ride's End,{4}{W},5.0,Instant,"This spell costs {3} less to cast if it targets a tapped permanent.
+Exile target creature or Vehicle.",W,W,common,DFT,Aetherdrift,25,,,,
+Rig for War,{1}{R},2.0,Instant,Target creature gets +3/+0 and gains first strike and reach until end of turn.,R,R,common,EOE,Edge of Eternities,156,,,,
+Rime Chill,{6}{U},7.0,Instant,"Vivid — This spell costs {1} less to cast for each color among permanents you control.
+Tap up to two target creatures. Put a stun counter on each of them. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+Draw a card.",U,U,uncommon,ECL,Lorwyn Eclipsed,64,,,,Vivid
+Riverguard's Reflexes,{1}{W},2.0,Instant,Target creature gets +2/+2 and gains first strike until end of turn. Untap it.,W,W,common,ECL,Lorwyn Eclipsed,33,,,,
+Riverwalk Technique,{3}{U},4.0,Instant,"Choose one —
+• The owner of target nonland permanent puts it on their choice of the top or bottom of their library.
+• Counter target noncreature spell.",U,U,common,TDM,Tarkir: Dragonstorm,54,,,,
+Road Rage,{R},1.0,Instant,"Road Rage deals X damage to target creature or planeswalker, where X is 2 plus the number of Mounts and Vehicles you control.",R,R,uncommon,DFT,Aetherdrift,145,,,,
+Rocky Rebuke,{1}{G},2.0,Instant,Target creature you control deals damage equal to its power to target creature an opponent controls.,G,G,common,TLA,Avatar: The Last Airbender,193,,,,
+Rowan's Grim Search,{2}{B},3.0,Instant,"Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
+If this spell was bargained, look at the top four cards of your library, then put up to two of them back on top of your library in any order and the rest into your graveyard.
+You draw two cards and you lose 2 life.",B,B,common,WOE,Wilds of Eldraine,104,,,,Bargain
+Rowdy Research,{6}{U},7.0,Instant,"This spell costs {1} less to cast for each creature that attacked this turn.
+Draw three cards.",U,U,uncommon,BLC,Bloomburrow Commander,173,,,,
+Rowdy Research,{6}{U},7.0,Instant,"This spell costs {1} less to cast for each creature that attacked this turn.
+Draw three cards.",U,U,uncommon,WOE,Wilds of Eldraine,312,,,,
+Royal Treatment,{G},1.0,Instant,"Target creature you control gains hexproof until end of turn. Create a Royal Role token attached to that creature. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1 and has ward {1}.)",G,G,uncommon,WOE,Wilds of Eldraine,183,,,,Role token
+Run Away Together,{1}{U},2.0,Instant,Choose two target creatures controlled by different players. Return those creatures to their owners' hands.,U,U,common,WOC,Wilds of Eldraine Commander,108,,,,
+Run Away Together,{1}{U},2.0,Instant,Choose two target creatures controlled by different players. Return those creatures to their owners' hands.,U,U,common,ECL,Lorwyn Eclipsed,67,,,,
+Run Away Together,{1}{U},2.0,Instant,Choose two target creatures controlled by different players. Return those creatures to their owners' hands.,U,U,common,BLB,Bloomburrow,67,,,,
+Run Away Together,{1}{U},2.0,Instant,Choose two target creatures controlled by different players. Return those creatures to their owners' hands.,U,U,common,PLST,The List,CLB-92,,,,
+Run Away Together,{1}{U},2.0,Instant,Choose two target creatures controlled by different players. Return those creatures to their owners' hands.,U,U,common,ELD,Throne of Eldraine,62,,,,
+Run Away Together,{1}{U},2.0,Instant,Choose two target creatures controlled by different players. Return those creatures to their owners' hands.,U,U,common,CLB,Commander Legends: Battle for Baldur's Gate,92,,,,
+Run Away Together,{1}{U},2.0,Instant,Choose two target creatures controlled by different players. Return those creatures to their owners' hands.,U,U,common,CMR,Commander Legends,87,,,,
+Run Away Together,{1}{U},2.0,Instant,Choose two target creatures controlled by different players. Return those creatures to their owners' hands.,U,U,common,GN3,Game Night: Free-for-All,37,,,,
+Run Away Together,{1}{U},2.0,Instant,Choose two target creatures controlled by different players. Return those creatures to their owners' hands.,U,U,common,FDN,Foundations,162,,,,
+Run Over,{1}{G},2.0,Instant,"This spell costs {1} less to cast if it targets a Mount or Vehicle you control.
+Target creature you control deals damage equal to its power to target creature an opponent controls.",G,G,common,DFT,Aetherdrift,179,,,,
+Rustler Rampage,{W},1.0,Instant,"Spree (Choose one or more additional costs.)
++ {1} — Untap all creatures target player controls.
++ {1} — Target creature gains double strike until end of turn.",W,W,uncommon,OTJ,Outlaws of Thunder Junction,27,,,,Spree

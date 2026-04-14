@@ -1,0 +1,29 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Valgavoth's Onslaught,{X}{X}{G},1.0,Sorcery,"Manifest dread X times, then put X +1/+1 counters on each of those creatures. (To manifest dread, look at the top two cards of your library, then put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)",G,G,rare,DSK,Duskmourn: House of Horror,324,,,,Manifest;Manifest dread
+Valgavoth's Onslaught,{X}{X}{G},1.0,Sorcery,"Manifest dread X times, then put X +1/+1 counters on each of those creatures. (To manifest dread, look at the top two cards of your library, then put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)",G,G,rare,PDSK,Duskmourn: House of Horror Promos,204s,,,,Manifest;Manifest dread
+Valgavoth's Onslaught,{X}{X}{G},1.0,Sorcery,"Manifest dread X times, then put X +1/+1 counters on each of those creatures. (To manifest dread, look at the top two cards of your library, then put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)",G,G,rare,DSK,Duskmourn: House of Horror,204,,,,Manifest;Manifest dread
+Valgavoth's Onslaught,{X}{X}{G},1.0,Sorcery,"Manifest dread X times, then put X +1/+1 counters on each of those creatures. (To manifest dread, look at the top two cards of your library, then put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)",G,G,rare,PDSK,Duskmourn: House of Horror Promos,204p,,,,Manifest;Manifest dread
+Vengeful Possession,{2}{R},3.0,Sorcery,"Gain control of target creature until end of turn. Untap it. It gains haste until end of turn. You may discard a card. If you do, draw a card.",R,R,uncommon,DSK,Duskmourn: House of Horror,162,,,,
+Venom's Hunger,{4}{B},5.0,Sorcery,"This spell costs {2} less to cast if you control a Villain.
+Destroy target creature. You gain 2 life.",B,B,common,SPM,Marvel's Spider-Man,73,,,,
+Venom's Hunger,{4}{B},5.0,Sorcery,"This spell costs {2} less to cast if you control a Villain.
+Destroy target creature. You gain 2 life.",B,B,common,OM1,Through the Omenpaths,54,,,,
+Villainous Wrath,{3}{B}{B},5.0,Sorcery,Target opponent loses life equal to the number of creatures they control. Then destroy all creatures.,B,B,rare,SPM,Marvel's Spider-Man,259,,,,
+Villainous Wrath,{3}{B}{B},5.0,Sorcery,Target opponent loses life equal to the number of creatures they control. Then destroy all creatures.,B,B,rare,OM1,Through the Omenpaths,72,,,,
+Villainous Wrath,{3}{B}{B},5.0,Sorcery,Target opponent loses life equal to the number of creatures they control. Then destroy all creatures.,B,B,rare,SPM,Marvel's Spider-Man,74,,,,
+Villainous Wrath,{3}{B}{B},5.0,Sorcery,Target opponent loses life equal to the number of creatures they control. Then destroy all creatures.,B,B,rare,PSPM,Marvel's Spider-Man Promos,74s,,,,
+Virtue of Persistence // Locthwain Scorn,{5}{B}{B} // {1}{B},7.0,Enchantment // Sorcery — Adventure,,B,B,mythic,PWOE,Wilds of Eldraine Promos,115s,,,,
+Virtue of Persistence // Locthwain Scorn,{5}{B}{B} // {1}{B},7.0,Enchantment // Sorcery — Adventure,,B,B,mythic,WOE,Wilds of Eldraine,281,,,,
+Virtue of Persistence // Locthwain Scorn,{5}{B}{B} // {1}{B},7.0,Enchantment // Sorcery — Adventure,,B,B,mythic,SCH,Store Championships,35,,,,
+Virtue of Persistence // Locthwain Scorn,{5}{B}{B} // {1}{B},7.0,Enchantment // Sorcery — Adventure,,B,B,mythic,WOE,Wilds of Eldraine,115,,,,
+Virtue of Persistence // Locthwain Scorn,{5}{B}{B} // {1}{B},7.0,Enchantment // Sorcery — Adventure,,B,B,mythic,PWOE,Wilds of Eldraine Promos,115p,,,,
+Virtue of Strength // Garenbrig Growth,{5}{G}{G} // {G},7.0,Enchantment // Sorcery — Adventure,,G,G,mythic,WOE,Wilds of Eldraine,284,,,,
+Virtue of Strength // Garenbrig Growth,{5}{G}{G} // {G},7.0,Enchantment // Sorcery — Adventure,,G,G,mythic,PWOE,Wilds of Eldraine Promos,197p,,,,
+Virtue of Strength // Garenbrig Growth,{5}{G}{G} // {G},7.0,Enchantment // Sorcery — Adventure,,G,G,mythic,PWOE,Wilds of Eldraine Promos,197s,,,,
+Virtue of Strength // Garenbrig Growth,{5}{G}{G} // {G},7.0,Enchantment // Sorcery — Adventure,,G,G,mythic,WOE,Wilds of Eldraine,197,,,,
+Vote Out,{3}{B},4.0,Sorcery,"Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+Destroy target creature.",B,B,uncommon,EOE,Edge of Eternities,126,,,,Convoke
+Voyage Home,{5}{W}{U},7.0,Sorcery,"Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+You draw three cards and gain 3 life.","U,W","U,W",uncommon,DFT,Aetherdrift,421,,,,Affinity
+Voyage Home,{5}{W}{U},7.0,Sorcery,"Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+You draw three cards and gain 3 life.","U,W","U,W",uncommon,DFT,Aetherdrift,227,,,,Affinity

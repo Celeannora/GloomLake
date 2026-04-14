@@ -1,0 +1,433 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Angel of Vitality,{2}{W},3.0,Creature — Angel,"Flying
+If you would gain life, you gain that much life plus 1 instead.
+This creature gets +2/+2 as long as you have 25 or more life.",W,W,uncommon,CLU,Ravnica: Clue Edition,53,2,2,,Flying
+Angel of Vitality,{2}{W},3.0,Creature — Angel,"Flying
+If you would gain life, you gain that much life plus 1 instead.
+This creature gets +2/+2 as long as you have 25 or more life.",W,W,uncommon,ANB,Arena Beginner Set,1,2,2,,Flying
+Angel of Vitality,{2}{W},3.0,Creature — Angel,"Flying
+If you would gain life, you gain that much life plus 1 instead.
+This creature gets +2/+2 as long as you have 25 or more life.",W,W,uncommon,PLST,The List,M20-4,2,2,,Flying
+Angel of Vitality,{2}{W},3.0,Creature — Angel,"Flying
+If you would gain life, you gain that much life plus 1 instead.
+This creature gets +2/+2 as long as you have 25 or more life.",W,W,uncommon,J25,Foundations Jumpstart,162,2,2,,Flying
+Angel of Vitality,{2}{W},3.0,Creature — Angel,"Flying
+If you would gain life, you gain that much life plus 1 instead.
+This creature gets +2/+2 as long as you have 25 or more life.",W,W,uncommon,FDN,Foundations,706,2,2,,Flying
+Angel of Vitality,{2}{W},3.0,Creature — Angel,"Flying
+If you would gain life, you gain that much life plus 1 instead.
+This creature gets +2/+2 as long as you have 25 or more life.",W,W,uncommon,M20,Core Set 2020,4,2,2,,Flying
+Angry Rabble,{1}{R},2.0,Creature — Human Citizen,"Trample
+Whenever you cast a spell with mana value 4 or greater, this creature deals 1 damage to each opponent.
+{5}{R}: Put two +1/+1 counters on this creature. Activate only as a sorcery.",R,R,common,OM1,Through the Omenpaths,81,2,2,,Trample
+Angry Rabble,{1}{R},2.0,Creature — Human Citizen,"Trample
+Whenever you cast a spell with mana value 4 or greater, this creature deals 1 damage to each opponent.
+{5}{R}: Put two +1/+1 counters on this creature. Activate only as a sorcery.",R,R,common,SPM,Marvel's Spider-Man,75,2,2,,Trample
+"Anim Pakal, Thousandth Moon",{1}{R}{W},3.0,Legendary Creature — Human Soldier,"Whenever you attack with one or more non-Gnome creatures, put a +1/+1 counter on Anim Pakal, then create X 1/1 colorless Gnome artifact creature tokens that are tapped and attacking, where X is the number of +1/+1 counters on Anim Pakal.","R,W","R,W",rare,PLCI,The Lost Caverns of Ixalan Promos,223s,1,2,,
+"Anim Pakal, Thousandth Moon",{1}{R}{W},3.0,Legendary Creature — Human Soldier,"Whenever you attack with one or more non-Gnome creatures, put a +1/+1 counter on Anim Pakal, then create X 1/1 colorless Gnome artifact creature tokens that are tapped and attacking, where X is the number of +1/+1 counters on Anim Pakal.","R,W","R,W",rare,LCI,The Lost Caverns of Ixalan,300,1,2,,
+"Anim Pakal, Thousandth Moon",{1}{R}{W},3.0,Legendary Creature — Human Soldier,"Whenever you attack with one or more non-Gnome creatures, put a +1/+1 counter on Anim Pakal, then create X 1/1 colorless Gnome artifact creature tokens that are tapped and attacking, where X is the number of +1/+1 counters on Anim Pakal.","R,W","R,W",rare,LCI,The Lost Caverns of Ixalan,223,1,2,,
+"Anim Pakal, Thousandth Moon",{1}{R}{W},3.0,Legendary Creature — Human Soldier,"Whenever you attack with one or more non-Gnome creatures, put a +1/+1 counter on Anim Pakal, then create X 1/1 colorless Gnome artifact creature tokens that are tapped and attacking, where X is the number of +1/+1 counters on Anim Pakal.","R,W","R,W",rare,PLCI,The Lost Caverns of Ixalan Promos,223p,1,2,,
+Ankle Biter,{G},1.0,Creature — Snake,Deathtouch,G,G,common,OTJ,Outlaws of Thunder Junction,153,1,1,,Deathtouch
+"Annie Flash, the Veteran",{3}{R}{G}{W},6.0,Legendary Creature — Human Rogue,"Flash
+When Annie Flash enters, if you cast it, return target permanent card with mana value 3 or less from your graveyard to the battlefield tapped.
+Whenever Annie Flash becomes tapped, exile the top two cards of your library. You may play those cards this turn.","G,R,W","G,R,W",mythic,OTJ,Outlaws of Thunder Junction,291,4,5,,Flash
+"Annie Flash, the Veteran",{3}{R}{G}{W},6.0,Legendary Creature — Human Rogue,"Flash
+When Annie Flash enters, if you cast it, return target permanent card with mana value 3 or less from your graveyard to the battlefield tapped.
+Whenever Annie Flash becomes tapped, exile the top two cards of your library. You may play those cards this turn.","G,R,W","G,R,W",mythic,POTJ,Outlaws of Thunder Junction Promos,190p,4,5,,Flash
+"Annie Flash, the Veteran",{3}{R}{G}{W},6.0,Legendary Creature — Human Rogue,"Flash
+When Annie Flash enters, if you cast it, return target permanent card with mana value 3 or less from your graveyard to the battlefield tapped.
+Whenever Annie Flash becomes tapped, exile the top two cards of your library. You may play those cards this turn.","G,R,W","G,R,W",mythic,OTJ,Outlaws of Thunder Junction,190,4,5,,Flash
+"Annie Flash, the Veteran",{3}{R}{G}{W},6.0,Legendary Creature — Human Rogue,"Flash
+When Annie Flash enters, if you cast it, return target permanent card with mana value 3 or less from your graveyard to the battlefield tapped.
+Whenever Annie Flash becomes tapped, exile the top two cards of your library. You may play those cards this turn.","G,R,W","G,R,W",mythic,POTJ,Outlaws of Thunder Junction Promos,190s,4,5,,Flash
+Anthropede,{3}{G},4.0,Creature — Insect,"Reach
+When this creature enters, you may discard a card or pay {2}. When you do, destroy target Room.",G,G,common,DSK,Duskmourn: House of Horror,167,3,4,,Reach
+"Anti-Venom, Horrifying Healer",{W}{W}{W}{W}{W},5.0,Legendary Creature — Symbiote Hero,"When Anti-Venom enters, if he was cast, return target creature card from your graveyard to the battlefield.
+If damage would be dealt to Anti-Venom, prevent that damage and put that many +1/+1 counters on him.",W,W,mythic,LMAR,Marvel Legends Series Inserts,1,5,5,,
+"Anti-Venom, Horrifying Healer",{W}{W}{W}{W}{W},5.0,Legendary Creature — Symbiote Hero,"When Anti-Venom enters, if he was cast, return target creature card from your graveyard to the battlefield.
+If damage would be dealt to Anti-Venom, prevent that damage and put that many +1/+1 counters on him.",W,W,mythic,SPM,Marvel's Spider-Man,244,5,5,,
+"Anti-Venom, Horrifying Healer",{W}{W}{W}{W}{W},5.0,Legendary Creature — Symbiote Hero,"When Anti-Venom enters, if he was cast, return target creature card from your graveyard to the battlefield.
+If damage would be dealt to Anti-Venom, prevent that damage and put that many +1/+1 counters on him.",W,W,mythic,SPM,Marvel's Spider-Man,1,5,5,,
+"Anti-Venom, Horrifying Healer",{W}{W}{W}{W}{W},5.0,Legendary Creature — Symbiote Hero,"When Anti-Venom enters, if he was cast, return target creature card from your graveyard to the battlefield.
+If damage would be dealt to Anti-Venom, prevent that damage and put that many +1/+1 counters on him.",W,W,mythic,OM1,Through the Omenpaths,22,5,5,,
+"Anti-Venom, Horrifying Healer",{W}{W}{W}{W}{W},5.0,Legendary Creature — Symbiote Hero,"When Anti-Venom enters, if he was cast, return target creature card from your graveyard to the battlefield.
+If damage would be dealt to Anti-Venom, prevent that damage and put that many +1/+1 counters on him.",W,W,mythic,PSPM,Marvel's Spider-Man Promos,1s,5,5,,
+Anticausal Vestige,{6},6.0,Creature — Eldrazi,"When this creature leaves the battlefield, draw a card, then you may put a permanent card with mana value less than or equal to the number of lands you control from your hand onto the battlefield tapped.
+Warp {4} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",,,rare,EOE,Edge of Eternities,1,7,5,,Warp
+Anticausal Vestige,{6},6.0,Creature — Eldrazi,"When this creature leaves the battlefield, draw a card, then you may put a permanent card with mana value less than or equal to the number of lands you control from your hand onto the battlefield tapped.
+Warp {4} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",,,mythic,EOE,Edge of Eternities,357,7,5,,Warp
+Anticausal Vestige,{6},6.0,Creature — Eldrazi,"When this creature leaves the battlefield, draw a card, then you may put a permanent card with mana value less than or equal to the number of lands you control from your hand onto the battlefield tapped.
+Warp {4} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",,,mythic,EOE,Edge of Eternities,383,7,5,,Warp
+Anticausal Vestige,{6},6.0,Creature — Eldrazi,"When this creature leaves the battlefield, draw a card, then you may put a permanent card with mana value less than or equal to the number of lands you control from your hand onto the battlefield tapped.
+Warp {4} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",,,rare,PEOE,Edge of Eternities Promos,1p,7,5,,Warp
+Anticausal Vestige,{6},6.0,Creature — Eldrazi,"When this creature leaves the battlefield, draw a card, then you may put a permanent card with mana value less than or equal to the number of lands you control from your hand onto the battlefield tapped.
+Warp {4} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",,,rare,PEOE,Edge of Eternities Promos,1s,7,5,,Warp
+Anticausal Vestige,{6},6.0,Creature — Eldrazi,"When this creature leaves the battlefield, draw a card, then you may put a permanent card with mana value less than or equal to the number of lands you control from your hand onto the battlefield tapped.
+Warp {4} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",,,rare,EOE,Edge of Eternities,317,7,5,,Warp
+"Anzrag, the Quake-Mole",{2}{R}{G},4.0,Legendary Creature — Mole God,"Whenever Anzrag becomes blocked, untap each creature you control. After this phase, there is an additional combat phase.
+{3}{R}{R}{G}{G}: Anzrag must be blocked each combat this turn if able.","G,R","G,R",mythic,PMKM,Murders at Karlov Manor Promos,186p,8,4,,
+"Anzrag, the Quake-Mole",{2}{R}{G},4.0,Legendary Creature — Mole God,"Whenever Anzrag becomes blocked, untap each creature you control. After this phase, there is an additional combat phase.
+{3}{R}{R}{G}{G}: Anzrag must be blocked each combat this turn if able.","G,R","G,R",mythic,MKM,Murders at Karlov Manor,385,8,4,,
+"Anzrag, the Quake-Mole",{2}{R}{G},4.0,Legendary Creature — Mole God,"Whenever Anzrag becomes blocked, untap each creature you control. After this phase, there is an additional combat phase.
+{3}{R}{R}{G}{G}: Anzrag must be blocked each combat this turn if able.","G,R","G,R",mythic,PMKM,Murders at Karlov Manor Promos,186s,8,4,,
+"Anzrag, the Quake-Mole",{2}{R}{G},4.0,Legendary Creature — Mole God,"Whenever Anzrag becomes blocked, untap each creature you control. After this phase, there is an additional combat phase.
+{3}{R}{R}{G}{G}: Anzrag must be blocked each combat this turn if able.","G,R","G,R",mythic,MKM,Murders at Karlov Manor,186,8,4,,
+"Anzrag, the Quake-Mole",{2}{R}{G},4.0,Legendary Creature — Mole God,"Whenever Anzrag becomes blocked, untap each creature you control. After this phase, there is an additional combat phase.
+{3}{R}{R}{G}{G}: Anzrag must be blocked each combat this turn if able.","G,R","G,R",mythic,MKM,Murders at Karlov Manor,356,8,4,,
+Apothecary Stomper,{4}{G}{G},6.0,Creature — Elephant,"Vigilance (Attacking doesn't cause this creature to tap.)
+When this creature enters, choose one —
+• Put two +1/+1 counters on target creature you control.
+• You gain 4 life.",G,G,common,FDN,Foundations,99,4,4,,Vigilance
+"Appa, Loyal Sky Bison",{4}{W}{W},6.0,Legendary Creature — Bison Ally,"Flying
+Whenever Appa enters or attacks, choose one —
+• Target creature you control gains flying until end of turn.
+• Airbend another target nonland permanent you control. (Exile it. While it's exiled, its owner may cast it for {2} rather than its mana cost.)",W,W,uncommon,TLA,Avatar: The Last Airbender,9,4,4,,Flying;Airbend
+"Appa, Steadfast Guardian",{2}{W}{W},4.0,Legendary Creature — Bison Ally,"Flash
+Flying
+When Appa enters, airbend any number of other target nonland permanents you control. (Exile them. While each one is exiled, its owner may cast it for {2} rather than its mana cost.)
+Whenever you cast a spell from exile, create a 1/1 white Ally creature token.",W,W,mythic,TLA,Avatar: The Last Airbender,316,3,4,,Flying;Airbend;Flash
+"Appa, Steadfast Guardian",{2}{W}{W},4.0,Legendary Creature — Bison Ally,"Flash
+Flying
+When Appa enters, airbend any number of other target nonland permanents you control. (Exile them. While each one is exiled, its owner may cast it for {2} rather than its mana cost.)
+Whenever you cast a spell from exile, create a 1/1 white Ally creature token.",W,W,mythic,TLA,Avatar: The Last Airbender,10,3,4,,Flying;Airbend;Flash
+"Appa, Steadfast Guardian",{2}{W}{W},4.0,Legendary Creature — Bison Ally,"Flash
+Flying
+When Appa enters, airbend any number of other target nonland permanents you control. (Exile them. While each one is exiled, its owner may cast it for {2} rather than its mana cost.)
+Whenever you cast a spell from exile, create a 1/1 white Ally creature token.",W,W,mythic,PTLA,Avatar: The Last Airbender Promos,10s,3,4,,Flying;Airbend;Flash
+Appendage Amalgam,{2}{B},3.0,Enchantment Creature — Horror,"Flash
+Whenever this creature attacks, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",B,B,common,DSK,Duskmourn: House of Horror,83,3,2,,Surveil;Flash
+"April O'Neil, Hacktivist",{3}{U},4.0,Legendary Creature — Human Scientist,"At the beginning of your end step, draw a card for each card type among spells you've cast this turn.",U,U,mythic,TMT,Teenage Mutant Ninja Turtles,292,1,5,,
+"April O'Neil, Hacktivist",{3}{U},4.0,Legendary Creature — Human Scientist,"At the beginning of your end step, draw a card for each card type among spells you've cast this turn.",U,U,rare,TMT,Teenage Mutant Ninja Turtles,227,1,5,,
+"April O'Neil, Hacktivist",{3}{U},4.0,Legendary Creature — Human Scientist,"At the beginning of your end step, draw a card for each card type among spells you've cast this turn.",U,U,mythic,TMT,Teenage Mutant Ninja Turtles,282,1,5,,
+"April O'Neil, Hacktivist",{3}{U},4.0,Legendary Creature — Human Scientist,"At the beginning of your end step, draw a card for each card type among spells you've cast this turn.",U,U,rare,TMT,Teenage Mutant Ninja Turtles,29,1,5,,
+"April O'Neil, Kunoichi Trainee",{1}{W},2.0,Legendary Creature — Human Ninja,"When April O'Neil enters, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)
+April O'Neil can't be blocked by creatures with power 3 or greater.",W,W,common,TMT,Teenage Mutant Ninja Turtles,3,2,2,,Scry
+"April, Reporter of the Weird",{2}{U},3.0,Legendary Creature — Human Detective,"Whenever April deals combat damage to a player, draw that many cards, then discard a card.",U,U,uncommon,TMT,Teenage Mutant Ninja Turtles,30,2,2,,
+"April, Reporter of the Weird",{2}{U},3.0,Legendary Creature — Human Detective,"Whenever April deals combat damage to a player, draw that many cards, then discard a card.",U,U,uncommon,TMT,Teenage Mutant Ninja Turtles,206,2,2,,
+Aquatic Alchemist // Bubble Up,{1}{U} // {2}{U},2.0,Creature — Elemental // Sorcery — Adventure,,U,U,common,WOE,Wilds of Eldraine,40,1,3,,
+"Arabella, Abandoned Doll",{R}{W},2.0,Legendary Artifact Creature — Toy,"Whenever Arabella attacks, it deals X damage to each opponent and you gain X life, where X is the number of creatures you control with power 2 or less.","R,W","R,W",uncommon,DSK,Duskmourn: House of Horror,208,1,3,,
+"Arachne, Psionic Weaver",{2}{W},3.0,Legendary Creature — Spider Human Hero,"Web-slinging {W} (You may cast this spell for {W} if you also return a tapped creature you control to its owner's hand.)
+As Arachne enters, look at an opponent's hand, then choose a card type other than creature.
+Spells of the chosen type cost {1} more to cast.",W,W,rare,PSPM,Marvel's Spider-Man Promos,2s,3,3,,Web-slinging
+"Arachne, Psionic Weaver",{2}{W},3.0,Legendary Creature — Spider Human Hero,"Web-slinging {W} (You may cast this spell for {W} if you also return a tapped creature you control to its owner's hand.)
+As Arachne enters, look at an opponent's hand, then choose a card type other than creature.
+Spells of the chosen type cost {1} more to cast.",W,W,rare,OM1,Through the Omenpaths,23,3,3,,Web-slinging
+"Arachne, Psionic Weaver",{2}{W},3.0,Legendary Creature — Spider Human Hero,"Web-slinging {W} (You may cast this spell for {W} if you also return a tapped creature you control to its owner's hand.)
+As Arachne enters, look at an opponent's hand, then choose a card type other than creature.
+Spells of the chosen type cost {1} more to cast.",W,W,rare,SPM,Marvel's Spider-Man,2,3,3,,Web-slinging
+"Arachne, Psionic Weaver",{2}{W},3.0,Legendary Creature — Spider Human Hero,"Web-slinging {W} (You may cast this spell for {W} if you also return a tapped creature you control to its owner's hand.)
+As Arachne enters, look at an opponent's hand, then choose a card type other than creature.
+Spells of the chosen type cost {1} more to cast.",W,W,rare,SPM,Marvel's Spider-Man,245,3,3,,Web-slinging
+"Arahbo, the First Fang",{2}{W},3.0,Legendary Creature — Cat Avatar,"Other Cats you control get +1/+1.
+Whenever Arahbo or another nontoken Cat you control enters, create a 1/1 white Cat creature token.",W,W,rare,FDN,Foundations,363,2,2,,
+"Arahbo, the First Fang",{2}{W},3.0,Legendary Creature — Cat Avatar,"Other Cats you control get +1/+1.
+Whenever Arahbo or another nontoken Cat you control enters, create a 1/1 white Cat creature token.",W,W,rare,PFDN,Foundations Promos,2s,2,2,,
+"Arahbo, the First Fang",{2}{W},3.0,Legendary Creature — Cat Avatar,"Other Cats you control get +1/+1.
+Whenever Arahbo or another nontoken Cat you control enters, create a 1/1 white Cat creature token.",W,W,rare,FDN,Foundations,2,2,2,,
+"Arahbo, the First Fang",{2}{W},3.0,Legendary Creature — Cat Avatar,"Other Cats you control get +1/+1.
+Whenever Arahbo or another nontoken Cat you control enters, create a 1/1 white Cat creature token.",W,W,rare,FDN,Foundations,442,2,2,,
+"Arahbo, the First Fang",{2}{W},3.0,Legendary Creature — Cat Avatar,"Other Cats you control get +1/+1.
+Whenever Arahbo or another nontoken Cat you control enters, create a 1/1 white Cat creature token.",W,W,rare,FDN,Foundations,294,2,2,,
+Arashin Sunshield,{3}{W},4.0,Creature — Human Warrior,"When this creature enters, exile up to two target cards from a single graveyard.
+{W}, {T}: Tap target creature.",W,W,common,TDM,Tarkir: Dragonstorm,3,3,4,,
+"Araña, Heart of the Spider",{1}{R}{W},3.0,Legendary Creature — Spider Human Hero,"Whenever you attack, put a +1/+1 counter on target attacking creature.
+Whenever a modified creature you control deals combat damage to a player, exile the top card of your library. You may play that card this turn. (Equipment, Auras you control, and counters are modifications.)","R,W","R,W",rare,PSPM,Marvel's Spider-Man Promos,123s,3,3,,
+"Araña, Heart of the Spider",{1}{R}{W},3.0,Legendary Creature — Spider Human Hero,"Whenever you attack, put a +1/+1 counter on target attacking creature.
+Whenever a modified creature you control deals combat damage to a player, exile the top card of your library. You may play that card this turn. (Equipment, Auras you control, and counters are modifications.)","R,W","R,W",rare,SPM,Marvel's Spider-Man,213,3,3,,
+"Araña, Heart of the Spider",{1}{R}{W},3.0,Legendary Creature — Spider Human Hero,"Whenever you attack, put a +1/+1 counter on target attacking creature.
+Whenever a modified creature you control deals combat damage to a player, exile the top card of your library. You may play that card this turn. (Equipment, Auras you control, and counters are modifications.)","R,W","R,W",rare,SPM,Marvel's Spider-Man,123,3,3,,
+"Araña, Heart of the Spider",{1}{R}{W},3.0,Legendary Creature — Spider Human Hero,"Whenever you attack, put a +1/+1 counter on target attacking creature.
+Whenever a modified creature you control deals combat damage to a player, exile the top card of your library. You may play that card this turn. (Equipment, Auras you control, and counters are modifications.)","R,W","R,W",rare,OM1,Through the Omenpaths,138,3,3,,
+Arbiter of Woe,{4}{B}{B},6.0,Creature — Demon,"As an additional cost to cast this spell, sacrifice a creature.
+Flying
+When this creature enters, each opponent discards a card and loses 2 life. You draw a card and gain 2 life.",B,B,uncommon,FDN,Foundations,55,5,4,,Flying
+Arcanis the Omnipotent,{3}{U}{U}{U},6.0,Legendary Creature — Wizard,"{T}: Draw three cards.
+{2}{U}{U}: Return Arcanis to its owner's hand.",U,U,rare,10E,Tenth Edition,66,3,4,,
+Arcanis the Omnipotent,{3}{U}{U}{U},6.0,Legendary Creature — Wizard,"{T}: Draw three cards.
+{2}{U}{U}: Return Arcanis to its owner's hand.",U,U,rare,DMR,Dominaria Remastered,39,3,4,,
+Arcanis the Omnipotent,{3}{U}{U}{U},6.0,Legendary Creature — Wizard,"{T}: Draw three cards.
+{2}{U}{U}: Return Arcanis to its owner's hand.",U,U,mythic,PRM,Magic Online Promos,54547,3,4,,
+Arcanis the Omnipotent,{3}{U}{U}{U},6.0,Legendary Creature — Wizard,"{T}: Draw three cards.
+{2}{U}{U}: Return Arcanis to its owner's hand.",U,U,rare,DMR,Dominaria Remastered,280,3,4,,
+Arcanis the Omnipotent,{3}{U}{U}{U},6.0,Legendary Creature — Wizard,"{T}: Draw three cards.
+{2}{U}{U}: Return Arcanis to its owner's hand.",U,U,mythic,PLST,The List,DDN-42,3,4,,
+Arcanis the Omnipotent,{3}{U}{U}{U},6.0,Legendary Creature — Wizard,"{T}: Draw three cards.
+{2}{U}{U}: Return Arcanis to its owner's hand.",U,U,rare,ONS,Onslaught,66,3,4,,
+Arcanis the Omnipotent,{3}{U}{U}{U},6.0,Legendary Creature — Wizard,"{T}: Draw three cards.
+{2}{U}{U}: Return Arcanis to its owner's hand.",U,U,rare,SLD,Secret Lair Drop,498,3,4,,
+Arcanis the Omnipotent,{3}{U}{U}{U},6.0,Legendary Creature — Wizard,"{T}: Draw three cards.
+{2}{U}{U}: Return Arcanis to its owner's hand.",U,U,rare,FDN,Foundations,585,3,4,,
+Arcanis the Omnipotent,{3}{U}{U}{U},6.0,Legendary Creature — Wizard,"{T}: Draw three cards.
+{2}{U}{U}: Return Arcanis to its owner's hand.",U,U,rare,WC03,World Championship Decks 2003,pk66,3,4,,
+Arcanis the Omnipotent,{3}{U}{U}{U},6.0,Legendary Creature — Wizard,"{T}: Draw three cards.
+{2}{U}{U}: Return Arcanis to its owner's hand.",U,U,mythic,DDN,Duel Decks: Speed vs. Cunning,42,3,4,,
+Arcanis the Omnipotent,{3}{U}{U}{U},6.0,Legendary Creature — Wizard,"{T}: Draw three cards.
+{2}{U}{U}: Return Arcanis to its owner's hand.",U,U,rare,EMA,Eternal Masters,39,3,4,,
+Arcanis the Omnipotent,{3}{U}{U}{U},6.0,Legendary Creature — Wizard,"{T}: Draw three cards.
+{2}{U}{U}: Return Arcanis to its owner's hand.",U,U,rare,C17,Commander 2017,80,3,4,,
+Archangel of Tithes,{1}{W}{W}{W},4.0,Creature — Angel,"Flying
+As long as this creature is untapped, creatures can't attack you or planeswalkers you control unless their controller pays {1} for each of those creatures.
+As long as this creature is attacking, creatures can't block unless their controller pays {1} for each of those creatures.",W,W,mythic,POTJ,Outlaws of Thunder Junction Promos,2p,3,5,,Flying
+Archangel of Tithes,{1}{W}{W}{W},4.0,Creature — Angel,"Flying
+As long as this creature is untapped, creatures can't attack you or planeswalkers you control unless their controller pays {1} for each of those creatures.
+As long as this creature is attacking, creatures can't block unless their controller pays {1} for each of those creatures.",W,W,mythic,ORI,Magic Origins,4,3,5,,Flying
+Archangel of Tithes,{1}{W}{W}{W},4.0,Creature — Angel,"Flying
+As long as this creature is untapped, creatures can't attack you or planeswalkers you control unless their controller pays {1} for each of those creatures.
+As long as this creature is attacking, creatures can't block unless their controller pays {1} for each of those creatures.",W,W,mythic,PLST,The List,ORI-4,3,5,,Flying
+Archangel of Tithes,{1}{W}{W}{W},4.0,Creature — Angel,"Flying
+As long as this creature is untapped, creatures can't attack you or planeswalkers you control unless their controller pays {1} for each of those creatures.
+As long as this creature is attacking, creatures can't block unless their controller pays {1} for each of those creatures.",W,W,mythic,POTJ,Outlaws of Thunder Junction Promos,2s,3,5,,Flying
+Archangel of Tithes,{1}{W}{W}{W},4.0,Creature — Angel,"Flying
+As long as this creature is untapped, creatures can't attack you or planeswalkers you control unless their controller pays {1} for each of those creatures.
+As long as this creature is attacking, creatures can't block unless their controller pays {1} for each of those creatures.",W,W,mythic,OTJ,Outlaws of Thunder Junction,2,3,5,,Flying
+Archangel of Tithes,{1}{W}{W}{W},4.0,Creature — Angel,"Flying
+As long as this creature is untapped, creatures can't attack you or planeswalkers you control unless their controller pays {1} for each of those creatures.
+As long as this creature is attacking, creatures can't block unless their controller pays {1} for each of those creatures.",W,W,mythic,OTJ,Outlaws of Thunder Junction,308,3,5,,Flying
+Archive Dragon,{4}{U}{U},6.0,Creature — Dragon Wizard,"Flying
+Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+When this creature enters, scry 2.",U,U,uncommon,WOE,Wilds of Eldraine,41,4,6,,Scry;Flying;Ward
+Archmage of Runes,{3}{U}{U},5.0,Creature — Giant Wizard,"Instant and sorcery spells you cast cost {1} less to cast.
+Whenever you cast an instant or sorcery spell, draw a card.",U,U,rare,PFDN,Foundations Promos,30s,3,6,,
+Archmage of Runes,{3}{U}{U},5.0,Creature — Giant Wizard,"Instant and sorcery spells you cast cost {1} less to cast.
+Whenever you cast an instant or sorcery spell, draw a card.",U,U,rare,FDN,Foundations,304,3,6,,
+Archmage of Runes,{3}{U}{U},5.0,Creature — Giant Wizard,"Instant and sorcery spells you cast cost {1} less to cast.
+Whenever you cast an instant or sorcery spell, draw a card.",U,U,rare,FDN,Foundations,450,3,6,,
+Archmage of Runes,{3}{U}{U},5.0,Creature — Giant Wizard,"Instant and sorcery spells you cast cost {1} less to cast.
+Whenever you cast an instant or sorcery spell, draw a card.",U,U,rare,FDN,Foundations,30,3,6,,
+Archmage of Runes,{3}{U}{U},5.0,Creature — Giant Wizard,"Instant and sorcery spells you cast cost {1} less to cast.
+Whenever you cast an instant or sorcery spell, draw a card.",U,U,rare,FDN,Foundations,372,3,6,,
+Archmage's Newt,{1}{U},2.0,Creature — Salamander Mount,"Whenever this creature deals combat damage to a player, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. That card gains flashback {0} until end of turn instead if this creature is saddled. (You may cast that card from your graveyard for its flashback cost. Then exile it.)
+Saddle 3",U,U,rare,OTJ,Outlaws of Thunder Junction,316,2,2,,Saddle
+Archmage's Newt,{1}{U},2.0,Creature — Salamander Mount,"Whenever this creature deals combat damage to a player, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. That card gains flashback {0} until end of turn instead if this creature is saddled. (You may cast that card from your graveyard for its flashback cost. Then exile it.)
+Saddle 3",U,U,rare,POTJ,Outlaws of Thunder Junction Promos,39p,2,2,,Saddle
+Archmage's Newt,{1}{U},2.0,Creature — Salamander Mount,"Whenever this creature deals combat damage to a player, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. That card gains flashback {0} until end of turn instead if this creature is saddled. (You may cast that card from your graveyard for its flashback cost. Then exile it.)
+Saddle 3",U,U,rare,POTJ,Outlaws of Thunder Junction Promos,39s,2,2,,Saddle
+Archmage's Newt,{1}{U},2.0,Creature — Salamander Mount,"Whenever this creature deals combat damage to a player, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. That card gains flashback {0} until end of turn instead if this creature is saddled. (You may cast that card from your graveyard for its flashback cost. Then exile it.)
+Saddle 3",U,U,rare,OTJ,Outlaws of Thunder Junction,39,2,2,,Saddle
+Archon of the Wild Rose,{2}{W}{W},4.0,Creature — Archon,"Flying
+Other creatures you control that are enchanted by Auras you control have base power and toughness 4/4 and have flying.",W,W,rare,WOE,Wilds of Eldraine,1,4,4,,Flying
+Archon of the Wild Rose,{2}{W}{W},4.0,Creature — Archon,"Flying
+Other creatures you control that are enchanted by Auras you control have base power and toughness 4/4 and have flying.",W,W,rare,PWOE,Wilds of Eldraine Promos,1p,4,4,,Flying
+Archon of the Wild Rose,{2}{W}{W},4.0,Creature — Archon,"Flying
+Other creatures you control that are enchanted by Auras you control have base power and toughness 4/4 and have flying.",W,W,rare,PWOE,Wilds of Eldraine Promos,1s,4,4,,Flying
+Archon of the Wild Rose,{2}{W}{W},4.0,Creature — Archon,"Flying
+Other creatures you control that are enchanted by Auras you control have base power and toughness 4/4 and have flying.",W,W,rare,WOE,Wilds of Eldraine,323,4,4,,Flying
+Archway Angel,{5}{W},6.0,Creature — Angel,"Flying
+When this creature enters, you gain 2 life for each Gate you control.",W,W,uncommon,FDN,Foundations,566,3,4,,Flying
+Archway Angel,{5}{W},6.0,Creature — Angel,"Flying
+When this creature enters, you gain 2 life for each Gate you control.",W,W,uncommon,PIO,Pioneer Masters,5,3,4,,Flying
+Archway Angel,{5}{W},6.0,Creature — Angel,"Flying
+When this creature enters, you gain 2 life for each Gate you control.",W,W,uncommon,RNA,Ravnica Allegiance,3,3,4,,Flying
+Archway Angel,{5}{W},6.0,Creature — Angel,"Flying
+When this creature enters, you gain 2 life for each Gate you control.",W,W,uncommon,PLST,The List,RNA-3,3,4,,Flying
+"Ardyn, the Usurper",{5}{B}{B}{B},8.0,Legendary Creature — Elder Human Noble,"Demons you control have menace, lifelink, and haste.
+Starscourge — At the beginning of combat on your turn, exile up to one target creature card from a graveyard. If you exiled a card this way, create a token that's a copy of that card, except it's a 5/5 black Demon.",B,B,rare,FIN,Final Fantasy,524,4,4,,Starscourge
+"Ardyn, the Usurper",{5}{B}{B}{B},8.0,Legendary Creature — Elder Human Noble,"Demons you control have menace, lifelink, and haste.
+Starscourge — At the beginning of combat on your turn, exile up to one target creature card from a graveyard. If you exiled a card this way, create a token that's a copy of that card, except it's a 5/5 black Demon.",B,B,rare,FIN,Final Fantasy,379,4,4,,Starscourge
+"Ardyn, the Usurper",{5}{B}{B}{B},8.0,Legendary Creature — Elder Human Noble,"Demons you control have menace, lifelink, and haste.
+Starscourge — At the beginning of combat on your turn, exile up to one target creature card from a graveyard. If you exiled a card this way, create a token that's a copy of that card, except it's a 5/5 black Demon.",B,B,rare,FIN,Final Fantasy,315,4,4,,Starscourge
+"Ardyn, the Usurper",{5}{B}{B}{B},8.0,Legendary Creature — Elder Human Noble,"Demons you control have menace, lifelink, and haste.
+Starscourge — At the beginning of combat on your turn, exile up to one target creature card from a graveyard. If you exiled a card this way, create a token that's a copy of that card, except it's a 5/5 black Demon.",B,B,rare,FIN,Final Fantasy,89,4,4,,Starscourge
+"Ardyn, the Usurper",{5}{B}{B}{B},8.0,Legendary Creature — Elder Human Noble,"Demons you control have menace, lifelink, and haste.
+Starscourge — At the beginning of combat on your turn, exile up to one target creature card from a graveyard. If you exiled a card this way, create a token that's a copy of that card, except it's a 5/5 black Demon.",B,B,rare,PFIN,Final Fantasy Promos,89s,4,4,,Starscourge
+"Ardyn, the Usurper",{5}{B}{B}{B},8.0,Legendary Creature — Elder Human Noble,"Demons you control have menace, lifelink, and haste.
+Starscourge — At the beginning of combat on your turn, exile up to one target creature card from a graveyard. If you exiled a card this way, create a token that's a copy of that card, except it's a 5/5 black Demon.",B,B,rare,FIN,Final Fantasy,444,4,4,,Starscourge
+"Armaggon, Future Shark",{6}{B}{B},8.0,Legendary Creature — Shark Horror Mutant,"Flash
+When Armaggon enters, destroy up to three target creatures.",B,B,rare,TMT,Teenage Mutant Ninja Turtles,264,9,6,,Flash
+"Armaggon, Future Shark",{6}{B}{B},8.0,Legendary Creature — Shark Horror Mutant,"Flash
+When Armaggon enters, destroy up to three target creatures.",B,B,rare,TMT,Teenage Mutant Ninja Turtles,58,9,6,,Flash
+Armament Dragon,{3}{W}{B}{G},6.0,Creature — Dragon,"Flying
+When this creature enters, distribute three +1/+1 counters among one, two, or three target creatures you control.","B,G,W","B,G,W",uncommon,TDM,Tarkir: Dragonstorm,168,3,4,,Flying
+Armament Dragon,{3}{W}{B}{G},6.0,Creature — Dragon,"Flying
+When this creature enters, distribute three +1/+1 counters among one, two, or three target creatures you control.","B,G,W","B,G,W",uncommon,TDM,Tarkir: Dragonstorm,307,3,4,,Flying
+Armasaur Guide,{4}{W},5.0,Creature — Dinosaur,"Vigilance (Attacking doesn't cause this creature to tap.)
+Whenever you attack with three or more creatures, put a +1/+1 counter on target creature you control.",W,W,common,FDN,Foundations,3,4,4,,Vigilance
+Armored Armadillo,{W},1.0,Creature — Armadillo,"Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
+{3}{W}: This creature gets +X/+0 until end of turn, where X is its toughness.",W,W,common,OTJ,Outlaws of Thunder Junction,3,0,4,,Ward
+Armored Kincaller,{2}{G},3.0,Creature — Dinosaur,"When this creature enters, you may reveal a Dinosaur card from your hand. If you do or if you control another Dinosaur, you gain 3 life.",G,G,common,J25,Foundations Jumpstart,630,3,3,,
+Armored Kincaller,{2}{G},3.0,Creature — Dinosaur,"When this creature enters, you may reveal a Dinosaur card from your hand. If you do or if you control another Dinosaur, you gain 3 life.",G,G,common,LCI,The Lost Caverns of Ixalan,174,3,3,,
+Armory Mice,{1}{W},2.0,Creature — Mouse,Celebration — This creature gets +0/+2 as long as two or more nonland permanents entered the battlefield under your control this turn.,W,W,common,WOE,Wilds of Eldraine,3,3,1,,Celebration
+"Ash, Party Crasher",{R}{W},2.0,Legendary Creature — Human Peasant,"Haste
+Celebration — Whenever Ash attacks, if two or more nonland permanents entered the battlefield under your control this turn, put a +1/+1 counter on Ash.","R,W","R,W",uncommon,WOE,Wilds of Eldraine,201,2,2,,Celebration;Haste
+"Ashe, Princess of Dalmasca",{2}{W},3.0,Legendary Creature — Human Rebel Noble,"Whenever Ashe attacks, look at the top five cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",W,W,uncommon,FIN,Final Fantasy,425,3,2,,
+"Ashe, Princess of Dalmasca",{2}{W},3.0,Legendary Creature — Human Rebel Noble,"Whenever Ashe attacks, look at the top five cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",W,W,uncommon,FIN,Final Fantasy,7,3,2,,
+Ashiok's Reaper,{3}{B},4.0,Creature — Nightmare,"Whenever an enchantment you control is put into a graveyard from the battlefield, draw a card.",B,B,uncommon,WOE,Wilds of Eldraine,79,3,3,,
+"Ashling, Rekindled // Ashling, Rimebound",,2.0,Legendary Creature — Elemental Sorcerer // Legendary Creature — Elemental Wizard,,,"R,U",rare,PECL,Lorwyn Eclipsed Promos,124p,,,,Transform
+"Ashling, Rekindled // Ashling, Rimebound",,2.0,Legendary Creature — Elemental Sorcerer // Legendary Creature — Elemental Wizard,,,"R,U",rare,ECL,Lorwyn Eclipsed,290,,,,Transform
+"Ashling, Rekindled // Ashling, Rimebound",,2.0,Legendary Creature — Elemental Sorcerer // Legendary Creature — Elemental Wizard,,,"R,U",rare,ECL,Lorwyn Eclipsed,124,,,,Transform
+Ashroot Animist,{2}{R}{G},4.0,Creature — Lizard Druid,"Trample
+Whenever this creature attacks, another target creature you control gains trample and gets +X/+X until end of turn, where X is this creature's power.","G,R","G,R",rare,FDN,Foundations,345,4,4,,Trample
+Ashroot Animist,{2}{R}{G},4.0,Creature — Lizard Druid,"Trample
+Whenever this creature attacks, another target creature you control gains trample and gets +X/+X until end of turn, where X is this creature's power.","G,R","G,R",rare,PFDN,Foundations Promos,117s,4,4,,Trample
+Ashroot Animist,{2}{R}{G},4.0,Creature — Lizard Druid,"Trample
+Whenever this creature attacks, another target creature you control gains trample and gets +X/+X until end of turn, where X is this creature's power.","G,R","G,R",rare,FDN,Foundations,478,4,4,,Trample
+Ashroot Animist,{2}{R}{G},4.0,Creature — Lizard Druid,"Trample
+Whenever this creature attacks, another target creature you control gains trample and gets +X/+X until end of turn, where X is this creature's power.","G,R","G,R",rare,FDN,Foundations,406,4,4,,Trample
+Ashroot Animist,{2}{R}{G},4.0,Creature — Lizard Druid,"Trample
+Whenever this creature attacks, another target creature you control gains trample and gets +X/+X until end of turn, where X is this creature's power.","G,R","G,R",rare,FDN,Foundations,117,4,4,,Trample
+Astelli Reclaimer,{3}{W}{W},5.0,Creature — Angel Warrior,"Flying
+When this creature enters, return target noncreature, nonland permanent card with mana value X or less from your graveyard to the battlefield, where X is the amount of mana spent to cast this creature.
+Warp {2}{W}",W,W,rare,PEOE,Edge of Eternities Promos,4p,5,4,,Flying;Warp
+Astelli Reclaimer,{3}{W}{W},5.0,Creature — Angel Warrior,"Flying
+When this creature enters, return target noncreature, nonland permanent card with mana value X or less from your graveyard to the battlefield, where X is the amount of mana spent to cast this creature.
+Warp {2}{W}",W,W,rare,PEOE,Edge of Eternities Promos,4s,5,4,,Flying;Warp
+Astelli Reclaimer,{3}{W}{W},5.0,Creature — Angel Warrior,"Flying
+When this creature enters, return target noncreature, nonland permanent card with mana value X or less from your graveyard to the battlefield, where X is the amount of mana spent to cast this creature.
+Warp {2}{W}",W,W,rare,EOE,Edge of Eternities,4,5,4,,Flying;Warp
+Astelli Reclaimer,{3}{W}{W},5.0,Creature — Angel Warrior,"Flying
+When this creature enters, return target noncreature, nonland permanent card with mana value X or less from your graveyard to the battlefield, where X is the amount of mana spent to cast this creature.
+Warp {2}{W}",W,W,rare,EOE,Edge of Eternities,288,5,4,,Flying;Warp
+Attack-in-the-Box,{3},3.0,Artifact Creature — Toy,"Whenever this creature attacks, you may have it get +4/+0 until end of turn. If you do, sacrifice it at the beginning of the next end step.",,,uncommon,DSK,Duskmourn: House of Horror,242,2,4,,
+Attentive Sunscribe,{1}{W},2.0,Artifact Creature — Gnome,"Whenever this creature becomes tapped, scry 1. (Look at the top card of your library. You may put that card on the bottom.)",W,W,common,LCI,The Lost Caverns of Ixalan,4,2,2,,Scry
+Attuned Hunter,{2}{G},3.0,Creature — Human Ranger,"Trample
+Whenever one or more cards leave your graveyard during your turn, put a +1/+1 counter on this creature.",G,G,uncommon,TDM,Tarkir: Dragonstorm,135,3,3,,Trample
+Aunt May,{W},1.0,Legendary Creature — Human Citizen,"Whenever another creature you control enters, you gain 1 life. If it's a Spider, put a +1/+1 counter on it.",W,W,uncommon,OM1,Through the Omenpaths,24,0,2,,
+Aunt May,{W},1.0,Legendary Creature — Human Citizen,"Whenever another creature you control enters, you gain 1 life. If it's a Spider, put a +1/+1 counter on it.",W,W,uncommon,SPM,Marvel's Spider-Man,3,0,2,,
+Aurelia's Vindicator,{2}{W}{W},4.0,Creature — Angel,"Flying, lifelink, ward {2}
+Disguise {X}{3}{W}
+When this creature is turned face up, exile up to X other target creatures from the battlefield and/or creature cards from graveyards.
+When this creature leaves the battlefield, return the exiled cards to their owners' hands.",W,W,mythic,MKM,Murders at Karlov Manor,377,4,2,,Flying;Lifelink;Disguise;Ward
+Aurelia's Vindicator,{2}{W}{W},4.0,Creature — Angel,"Flying, lifelink, ward {2}
+Disguise {X}{3}{W}
+When this creature is turned face up, exile up to X other target creatures from the battlefield and/or creature cards from graveyards.
+When this creature leaves the battlefield, return the exiled cards to their owners' hands.",W,W,mythic,PMKM,Murders at Karlov Manor Promos,4s,4,2,,Flying;Lifelink;Disguise;Ward
+Aurelia's Vindicator,{2}{W}{W},4.0,Creature — Angel,"Flying, lifelink, ward {2}
+Disguise {X}{3}{W}
+When this creature is turned face up, exile up to X other target creatures from the battlefield and/or creature cards from graveyards.
+When this creature leaves the battlefield, return the exiled cards to their owners' hands.",W,W,mythic,MKM,Murders at Karlov Manor,4,4,2,,Flying;Lifelink;Disguise;Ward
+Aurelia's Vindicator,{2}{W}{W},4.0,Creature — Angel,"Flying, lifelink, ward {2}
+Disguise {X}{3}{W}
+When this creature is turned face up, exile up to X other target creatures from the battlefield and/or creature cards from graveyards.
+When this creature leaves the battlefield, return the exiled cards to their owners' hands.",W,W,mythic,PMKM,Murders at Karlov Manor Promos,4p,4,2,,Flying;Lifelink;Disguise;Ward
+Aurelia's Vindicator,{2}{W}{W},4.0,Creature — Angel,"Flying, lifelink, ward {2}
+Disguise {X}{3}{W}
+When this creature is turned face up, exile up to X other target creatures from the battlefield and/or creature cards from graveyards.
+When this creature leaves the battlefield, return the exiled cards to their owners' hands.",W,W,mythic,MKM,Murders at Karlov Manor,336,4,2,,Flying;Lifelink;Disguise;Ward
+"Aurelia, the Law Above",{3}{R}{W},5.0,Legendary Creature — Angel,"Flying, vigilance, haste
+Whenever a player attacks with three or more creatures, you draw a card.
+Whenever a player attacks with five or more creatures, Aurelia deals 3 damage to each of your opponents and you gain 3 life.","R,W","R,W",rare,MKM,Murders at Karlov Manor,357,4,4,,Flying;Vigilance;Haste
+"Aurelia, the Law Above",{3}{R}{W},5.0,Legendary Creature — Angel,"Flying, vigilance, haste
+Whenever a player attacks with three or more creatures, you draw a card.
+Whenever a player attacks with five or more creatures, Aurelia deals 3 damage to each of your opponents and you gain 3 life.","R,W","R,W",rare,MKM,Murders at Karlov Manor,188,4,4,,Flying;Vigilance;Haste
+"Aurelia, the Law Above",{3}{R}{W},5.0,Legendary Creature — Angel,"Flying, vigilance, haste
+Whenever a player attacks with three or more creatures, you draw a card.
+Whenever a player attacks with five or more creatures, Aurelia deals 3 damage to each of your opponents and you gain 3 life.","R,W","R,W",rare,PMKM,Murders at Karlov Manor Promos,188s,4,4,,Flying;Vigilance;Haste
+"Aurelia, the Law Above",{3}{R}{W},5.0,Legendary Creature — Angel,"Flying, vigilance, haste
+Whenever a player attacks with three or more creatures, you draw a card.
+Whenever a player attacks with five or more creatures, Aurelia deals 3 damage to each of your opponents and you gain 3 life.","R,W","R,W",rare,MKM,Murders at Karlov Manor,317,4,4,,Flying;Vigilance;Haste
+"Aurelia, the Law Above",{3}{R}{W},5.0,Legendary Creature — Angel,"Flying, vigilance, haste
+Whenever a player attacks with three or more creatures, you draw a card.
+Whenever a player attacks with five or more creatures, Aurelia deals 3 damage to each of your opponents and you gain 3 life.","R,W","R,W",rare,MKM,Murders at Karlov Manor,317z,4,4,,Flying;Vigilance;Haste
+"Aurelia, the Law Above",{3}{R}{W},5.0,Legendary Creature — Angel,"Flying, vigilance, haste
+Whenever a player attacks with three or more creatures, you draw a card.
+Whenever a player attacks with five or more creatures, Aurelia deals 3 damage to each of your opponents and you gain 3 life.","R,W","R,W",rare,PMKM,Murders at Karlov Manor Promos,188p,4,4,,Flying;Vigilance;Haste
+"Aurelia, the Warleader",{2}{R}{R}{W}{W},6.0,Legendary Creature — Angel,"Flying, vigilance, haste
+Whenever Aurelia attacks for the first time each turn, untap all creatures you control. After this phase, there is an additional combat phase.","R,W","R,W",mythic,GK1,GRN Guild Kit,77,3,4,,Flying;Vigilance;Haste
+"Aurelia, the Warleader",{2}{R}{R}{W}{W},6.0,Legendary Creature — Angel,"Flying, vigilance, haste
+Whenever Aurelia attacks for the first time each turn, untap all creatures you control. After this phase, there is an additional combat phase.","R,W","R,W",mythic,MUL,Multiverse Legends,35,3,4,,Flying;Vigilance;Haste
+"Aurelia, the Warleader",{2}{R}{R}{W}{W},6.0,Legendary Creature — Angel,"Flying, vigilance, haste
+Whenever Aurelia attacks for the first time each turn, untap all creatures you control. After this phase, there is an additional combat phase.","R,W","R,W",mythic,GTC,Gatecrash,143,3,4,,Flying;Vigilance;Haste
+"Aurelia, the Warleader",{2}{R}{R}{W}{W},6.0,Legendary Creature — Angel,"Flying, vigilance, haste
+Whenever Aurelia attacks for the first time each turn, untap all creatures you control. After this phase, there is an additional combat phase.","R,W","R,W",mythic,2X2,Double Masters 2022,179,3,4,,Flying;Vigilance;Haste
+"Aurelia, the Warleader",{2}{R}{R}{W}{W},6.0,Legendary Creature — Angel,"Flying, vigilance, haste
+Whenever Aurelia attacks for the first time each turn, untap all creatures you control. After this phase, there is an additional combat phase.","R,W","R,W",mythic,MUL,Multiverse Legends,165z,3,4,,Flying;Vigilance;Haste
+"Aurelia, the Warleader",{2}{R}{R}{W}{W},6.0,Legendary Creature — Angel,"Flying, vigilance, haste
+Whenever Aurelia attacks for the first time each turn, untap all creatures you control. After this phase, there is an additional combat phase.","R,W","R,W",mythic,MUL,Multiverse Legends,100,3,4,,Flying;Vigilance;Haste
+"Aurelia, the Warleader",{2}{R}{R}{W}{W},6.0,Legendary Creature — Angel,"Flying, vigilance, haste
+Whenever Aurelia attacks for the first time each turn, untap all creatures you control. After this phase, there is an additional combat phase.","R,W","R,W",mythic,FDN,Foundations,651,3,4,,Flying;Vigilance;Haste
+"Aurelia, the Warleader",{2}{R}{R}{W}{W},6.0,Legendary Creature — Angel,"Flying, vigilance, haste
+Whenever Aurelia attacks for the first time each turn, untap all creatures you control. After this phase, there is an additional combat phase.","R,W","R,W",mythic,MUL,Multiverse Legends,165,3,4,,Flying;Vigilance;Haste
+"Aurelia, the Warleader",{2}{R}{R}{W}{W},6.0,Legendary Creature — Angel,"Flying, vigilance, haste
+Whenever Aurelia attacks for the first time each turn, untap all creatures you control. After this phase, there is an additional combat phase.","R,W","R,W",mythic,2X2,Double Masters 2022,477,3,4,,Flying;Vigilance;Haste
+"Aurelia, the Warleader",{2}{R}{R}{W}{W},6.0,Legendary Creature — Angel,"Flying, vigilance, haste
+Whenever Aurelia attacks for the first time each turn, untap all creatures you control. After this phase, there is an additional combat phase.","R,W","R,W",mythic,V15,From the Vault: Angels,4,3,4,,Flying;Vigilance;Haste
+Aurora Awakener,{6}{G},7.0,Creature — Giant Druid,"Trample
+Vivid — When this creature enters, reveal cards from the top of your library until you reveal X permanent cards, where X is the number of colors among permanents you control. Put any number of those permanent cards onto the battlefield, then put the rest of the revealed cards on the bottom of your library in a random order.",G,G,mythic,PECL,Lorwyn Eclipsed Promos,165p,7,7,,Trample;Vivid
+Aurora Awakener,{6}{G},7.0,Creature — Giant Druid,"Trample
+Vivid — When this creature enters, reveal cards from the top of your library until you reveal X permanent cards, where X is the number of colors among permanents you control. Put any number of those permanent cards onto the battlefield, then put the rest of the revealed cards on the bottom of your library in a random order.",G,G,mythic,ECL,Lorwyn Eclipsed,165,7,7,,Trample;Vivid
+Aurora Awakener,{6}{G},7.0,Creature — Giant Druid,"Trample
+Vivid — When this creature enters, reveal cards from the top of your library until you reveal X permanent cards, where X is the number of colors among permanents you control. Put any number of those permanent cards onto the battlefield, then put the rest of the revealed cards on the bottom of your library in a random order.",G,G,mythic,ECL,Lorwyn Eclipsed,323,7,7,,Trample;Vivid
+Autarch Mammoth,{4}{G}{G},6.0,Creature — Elephant Mount,"When this creature enters and whenever it attacks while saddled, create a 3/3 green Elephant creature token.
+Saddle 5 (Tap any number of other creatures you control with total power 5 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",G,G,uncommon,DFT,Aetherdrift,153,5,5,,Saddle
+"Avatar Aang // Aang, Master of Elements",,4.0,Legendary Creature — Human Avatar Ally // Legendary Creature — Avatar Ally,,,"B,G,R,U,W",mythic,TLA,Avatar: The Last Airbender,308,,,,Flying;Transform;Firebending
+"Avatar Aang // Aang, Master of Elements",,4.0,Legendary Creature — Human Avatar Ally // Legendary Creature — Avatar Ally,,,"B,G,R,U,W",mythic,TLA,Avatar: The Last Airbender,363,,,,Flying;Transform;Firebending
+"Avatar Aang // Aang, Master of Elements",,4.0,Legendary Creature — Human Avatar Ally // Legendary Creature — Avatar Ally,,,"B,G,R,U,W",mythic,PTLA,Avatar: The Last Airbender Promos,207s,,,,Flying;Transform;Firebending
+"Avatar Aang // Aang, Master of Elements",,4.0,Legendary Creature — Human Avatar Ally // Legendary Creature — Avatar Ally,,,"B,G,R,U,W",mythic,TLA,Avatar: The Last Airbender,207,,,,Flying;Transform;Firebending
+Avatar Enthusiasts,{2}{W},3.0,Creature — Human Peasant Ally,"Whenever another Ally you control enters, put a +1/+1 counter on this creature.",W,W,common,TLA,Avatar: The Last Airbender,11,2,2,,
+Aven Interrupter,{1}{W}{W},3.0,Creature — Bird Rogue,"Flash
+Flying
+When this creature enters, exile target spell. It becomes plotted. (Its owner may cast it as a sorcery on a later turn without paying its mana cost.)
+Spells your opponents cast from graveyards or from exile cost {2} more to cast.",W,W,rare,PWCS,Planeswalker Championship Promos,2024-08,2,2,,Flying;Plot;Flash
+Aven Interrupter,{1}{W}{W},3.0,Creature — Bird Rogue,"Flash
+Flying
+When this creature enters, exile target spell. It becomes plotted. (Its owner may cast it as a sorcery on a later turn without paying its mana cost.)
+Spells your opponents cast from graveyards or from exile cost {2} more to cast.",W,W,rare,POTJ,Outlaws of Thunder Junction Promos,4s,2,2,,Flying;Plot;Flash
+Aven Interrupter,{1}{W}{W},3.0,Creature — Bird Rogue,"Flash
+Flying
+When this creature enters, exile target spell. It becomes plotted. (Its owner may cast it as a sorcery on a later turn without paying its mana cost.)
+Spells your opponents cast from graveyards or from exile cost {2} more to cast.",W,W,rare,OTJ,Outlaws of Thunder Junction,309,2,2,,Flying;Plot;Flash
+Aven Interrupter,{1}{W}{W},3.0,Creature — Bird Rogue,"Flash
+Flying
+When this creature enters, exile target spell. It becomes plotted. (Its owner may cast it as a sorcery on a later turn without paying its mana cost.)
+Spells your opponents cast from graveyards or from exile cost {2} more to cast.",W,W,rare,OTJ,Outlaws of Thunder Junction,4,2,2,,Flying;Plot;Flash
+Aven Interrupter,{1}{W}{W},3.0,Creature — Bird Rogue,"Flash
+Flying
+When this creature enters, exile target spell. It becomes plotted. (Its owner may cast it as a sorcery on a later turn without paying its mana cost.)
+Spells your opponents cast from graveyards or from exile cost {2} more to cast.",W,W,rare,POTJ,Outlaws of Thunder Junction Promos,4p,2,2,,Flying;Plot;Flash
+Avenger of the Fallen,{2}{B},3.0,Creature — Human Warrior,"Deathtouch
+Mobilize X, where X is the number of creature cards in your graveyard. (Whenever this creature attacks, create X tapped and attacking 1/1 red Warrior creature tokens. Sacrifice them at the beginning of the next end step.)",B,B,rare,PTDM,Tarkir: Dragonstorm Promos,73s,2,4,,Mobilize;Deathtouch
+Avenger of the Fallen,{2}{B},3.0,Creature — Human Warrior,"Deathtouch
+Mobilize X, where X is the number of creature cards in your graveyard. (Whenever this creature attacks, create X tapped and attacking 1/1 red Warrior creature tokens. Sacrifice them at the beginning of the next end step.)",B,B,rare,TDM,Tarkir: Dragonstorm,337,2,4,,Mobilize;Deathtouch
+Avenger of the Fallen,{2}{B},3.0,Creature — Human Warrior,"Deathtouch
+Mobilize X, where X is the number of creature cards in your graveyard. (Whenever this creature attacks, create X tapped and attacking 1/1 red Warrior creature tokens. Sacrifice them at the beginning of the next end step.)",B,B,rare,PTDM,Tarkir: Dragonstorm Promos,73p,2,4,,Mobilize;Deathtouch
+Avenger of the Fallen,{2}{B},3.0,Creature — Human Warrior,"Deathtouch
+Mobilize X, where X is the number of creature cards in your graveyard. (Whenever this creature attacks, create X tapped and attacking 1/1 red Warrior creature tokens. Sacrifice them at the beginning of the next end step.)",B,B,rare,TDM,Tarkir: Dragonstorm,73,2,4,,Mobilize;Deathtouch
+Axebane Ferox,{2}{G}{G},4.0,Creature — Beast,"Deathtouch, haste
+Ward—Collect evidence 4. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player exiles cards with total mana value 4 or greater from their graveyard.)",G,G,rare,MKM,Murders at Karlov Manor,428,4,4,,Collect evidence;Haste;Ward;Deathtouch
+Axebane Ferox,{2}{G}{G},4.0,Creature — Beast,"Deathtouch, haste
+Ward—Collect evidence 4. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player exiles cards with total mana value 4 or greater from their graveyard.)",G,G,rare,PMKM,Murders at Karlov Manor Promos,153p,4,4,,Collect evidence;Haste;Ward;Deathtouch
+Axebane Ferox,{2}{G}{G},4.0,Creature — Beast,"Deathtouch, haste
+Ward—Collect evidence 4. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player exiles cards with total mana value 4 or greater from their graveyard.)",G,G,rare,MKM,Murders at Karlov Manor,153,4,4,,Collect evidence;Haste;Ward;Deathtouch
+Axebane Ferox,{2}{G}{G},4.0,Creature — Beast,"Deathtouch, haste
+Ward—Collect evidence 4. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player exiles cards with total mana value 4 or greater from their graveyard.)",G,G,rare,PMKM,Murders at Karlov Manor Promos,153s,4,4,,Collect evidence;Haste;Ward;Deathtouch
+Axebane Ferox,{2}{G}{G},4.0,Creature — Beast,"Deathtouch, haste
+Ward—Collect evidence 4. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player exiles cards with total mana value 4 or greater from their graveyard.)",G,G,rare,MKM,Murders at Karlov Manor,409,4,4,,Collect evidence;Haste;Ward;Deathtouch
+Axgard Cavalry,{1}{R},2.0,Creature — Dwarf Berserker,{T}: Target creature gains haste until end of turn. (It can attack and {T} this turn.),R,R,common,PLST,The List,KHM-121,2,2,,
+Axgard Cavalry,{1}{R},2.0,Creature — Dwarf Berserker,{T}: Target creature gains haste until end of turn. (It can attack and {T} this turn.),R,R,common,KHM,Kaldheim,121,2,2,,
+Axgard Cavalry,{1}{R},2.0,Creature — Dwarf Berserker,{T}: Target creature gains haste until end of turn. (It can attack and {T} this turn.),R,R,common,J22,Jumpstart 2022,494,2,2,,
+Axgard Cavalry,{1}{R},2.0,Creature — Dwarf Berserker,{T}: Target creature gains haste until end of turn. (It can attack and {T} this turn.),R,R,common,FDN,Foundations,189,2,2,,
+"Ayli, Eternal Pilgrim",{W}{B},2.0,Legendary Creature — Kor Cleric,"Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+{1}, Sacrifice another creature: You gain life equal to the sacrificed creature's toughness.
+{1}{W}{B}, Sacrifice another creature: Exile target nonland permanent. Activate only if you have at least 10 life more than your starting life total.","B,W","B,W",rare,FDN,Foundations,652,2,3,,Deathtouch
+"Ayli, Eternal Pilgrim",{W}{B},2.0,Legendary Creature — Kor Cleric,"Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+{1}, Sacrifice another creature: You gain life equal to the sacrificed creature's toughness.
+{1}{W}{B}, Sacrifice another creature: Exile target nonland permanent. Activate only if you have at least 10 life more than your starting life total.","B,W","B,W",rare,PLST,The List,OGW-151,2,3,,Deathtouch
+"Ayli, Eternal Pilgrim",{W}{B},2.0,Legendary Creature — Kor Cleric,"Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+{1}, Sacrifice another creature: You gain life equal to the sacrificed creature's toughness.
+{1}{W}{B}, Sacrifice another creature: Exile target nonland permanent. Activate only if you have at least 10 life more than your starting life total.","B,W","B,W",rare,POGW,Oath of the Gatewatch Promos,151s,2,3,,Deathtouch
+"Ayli, Eternal Pilgrim",{W}{B},2.0,Legendary Creature — Kor Cleric,"Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+{1}, Sacrifice another creature: You gain life equal to the sacrificed creature's toughness.
+{1}{W}{B}, Sacrifice another creature: Exile target nonland permanent. Activate only if you have at least 10 life more than your starting life total.","B,W","B,W",rare,OGW,Oath of the Gatewatch,151,2,3,,Deathtouch
+"Azula, Cunning Usurper",{2}{U}{B}{B},5.0,Legendary Creature — Human Noble Rogue,"Firebending 2 (Whenever this creature attacks, add {R}{R}. This mana lasts until end of combat.)
+When Azula enters, target opponent exiles a nontoken creature they control, then they exile a nonland card from their graveyard.
+During your turn, you may cast cards exiled with Azula and you may cast them as though they had flash. Mana of any type can be spent to cast those spells.","B,U","B,U",rare,PTLA,Avatar: The Last Airbender Promos,208s,4,4,,Firebending
+"Azula, Cunning Usurper",{2}{U}{B}{B},5.0,Legendary Creature — Human Noble Rogue,"Firebending 2 (Whenever this creature attacks, add {R}{R}. This mana lasts until end of combat.)
+When Azula enters, target opponent exiles a nontoken creature they control, then they exile a nonland card from their graveyard.
+During your turn, you may cast cards exiled with Azula and you may cast them as though they had flash. Mana of any type can be spent to cast those spells.","B,U","B,U",rare,TLA,Avatar: The Last Airbender,303,4,4,,Firebending
+"Azula, Cunning Usurper",{2}{U}{B}{B},5.0,Legendary Creature — Human Noble Rogue,"Firebending 2 (Whenever this creature attacks, add {R}{R}. This mana lasts until end of combat.)
+When Azula enters, target opponent exiles a nontoken creature they control, then they exile a nonland card from their graveyard.
+During your turn, you may cast cards exiled with Azula and you may cast them as though they had flash. Mana of any type can be spent to cast those spells.","B,U","B,U",rare,TLA,Avatar: The Last Airbender,208,4,4,,Firebending
+"Azula, On the Hunt",{3}{B},4.0,Legendary Creature — Human Noble,"Firebending 2 (Whenever this creature attacks, add {R}{R}. This mana lasts until end of combat.)
+Whenever Azula attacks, you lose 1 life and create a Clue token. (It's an artifact with ""{2}, Sacrifice this token: Draw a card."")",B,B,uncommon,TLA,Avatar: The Last Airbender,85,4,3,,Firebending
+Azure Beastbinder,{1}{U},2.0,Creature — Rat Rogue,"Vigilance
+This creature can't be blocked by creatures with power 2 or greater.
+Whenever this creature attacks, up to one target artifact, creature, or planeswalker an opponent controls loses all abilities until your next turn. If it's a creature, it also has base power and toughness 2/2 until your next turn.",U,U,rare,BLB,Bloomburrow,41,1,3,,Vigilance
+Azure Beastbinder,{1}{U},2.0,Creature — Rat Rogue,"Vigilance
+This creature can't be blocked by creatures with power 2 or greater.
+Whenever this creature attacks, up to one target artifact, creature, or planeswalker an opponent controls loses all abilities until your next turn. If it's a creature, it also has base power and toughness 2/2 until your next turn.",U,U,rare,PBLB,Bloomburrow Promos,41s,1,3,,Vigilance
+Azure Beastbinder,{1}{U},2.0,Creature — Rat Rogue,"Vigilance
+This creature can't be blocked by creatures with power 2 or greater.
+Whenever this creature attacks, up to one target artifact, creature, or planeswalker an opponent controls loses all abilities until your next turn. If it's a creature, it also has base power and toughness 2/2 until your next turn.",U,U,rare,PBLB,Bloomburrow Promos,41p,1,3,,Vigilance
+Azure Beastbinder,{1}{U},2.0,Creature — Rat Rogue,"Vigilance
+This creature can't be blocked by creatures with power 2 or greater.
+Whenever this creature attacks, up to one target artifact, creature, or planeswalker an opponent controls loses all abilities until your next turn. If it's a creature, it also has base power and toughness 2/2 until your next turn.",U,U,rare,BLB,Bloomburrow,302,1,3,,Vigilance

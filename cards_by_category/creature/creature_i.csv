@@ -1,0 +1,283 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Ice Cream Kitty,{1}{B/G},2.0,Artifact Creature — Food Cat Mutant,"{2}, Sacrifice another creature or token: Draw a card. Activate only as a sorcery.
+{2}, {T}, Sacrifice this creature: You gain 3 life.","B,G","B,G",common,TMT,Teenage Mutant Ninja Turtles,150,1,3,,
+Ice Flan,{4}{U}{U},6.0,Creature — Elemental Ooze,"When this creature enters, tap target artifact or creature an opponent controls. Put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+Islandcycling {2} ({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)",U,U,common,FIN,Final Fantasy,55,5,4,,Islandcycling;Landcycling;Typecycling;Cycling
+Icecave Crasher,{3}{G},4.0,Creature — Beast,"Trample
+Landfall — Whenever a land you control enters, this creature gets +1/+0 until end of turn.",G,G,common,EOE,Edge of Eternities,191,4,4,,Trample;Landfall
+Iceridge Serpent,{4}{U},5.0,Creature — Serpent,"When this creature enters, return target creature an opponent controls to its owner's hand.",U,U,common,TDM,Tarkir: Dragonstorm,49,3,3,,
+Icetill Explorer,{2}{G}{G},4.0,Creature — Insect Scout,"You may play an additional land on each of your turns.
+You may play lands from your graveyard.
+Landfall — Whenever a land you control enters, mill a card.",G,G,rare,PEOE,Edge of Eternities Promos,192p,2,4,,Mill;Landfall
+Icetill Explorer,{2}{G}{G},4.0,Creature — Insect Scout,"You may play an additional land on each of your turns.
+You may play lands from your graveyard.
+Landfall — Whenever a land you control enters, mill a card.",G,G,mythic,EOE,Edge of Eternities,362,2,4,,Mill;Landfall
+Icetill Explorer,{2}{G}{G},4.0,Creature — Insect Scout,"You may play an additional land on each of your turns.
+You may play lands from your graveyard.
+Landfall — Whenever a land you control enters, mill a card.",G,G,mythic,EOE,Edge of Eternities,388,2,4,,Mill;Landfall
+Icetill Explorer,{2}{G}{G},4.0,Creature — Insect Scout,"You may play an additional land on each of your turns.
+You may play lands from your graveyard.
+Landfall — Whenever a land you control enters, mill a card.",G,G,rare,EOE,Edge of Eternities,192,2,4,,Mill;Landfall
+Icetill Explorer,{2}{G}{G},4.0,Creature — Insect Scout,"You may play an additional land on each of your turns.
+You may play lands from your graveyard.
+Landfall — Whenever a land you control enters, mill a card.",G,G,rare,PEOE,Edge of Eternities Promos,192s,2,4,,Mill;Landfall
+Icetill Explorer,{2}{G}{G},4.0,Creature — Insect Scout,"You may play an additional land on each of your turns.
+You may play lands from your graveyard.
+Landfall — Whenever a land you control enters, mill a card.",G,G,rare,EOE,Edge of Eternities,343,2,4,,Mill;Landfall
+Icewind Elemental,{4}{U},5.0,Creature — Elemental,"Flying
+When this creature enters, draw a card, then discard a card.",U,U,common,FDN,Foundations,42,3,4,,Flying
+Icewrought Sentry,{2}{U},3.0,Creature — Elemental Soldier,"Vigilance
+Whenever this creature attacks, you may pay {1}{U}. When you do, tap target creature an opponent controls.
+Whenever you tap an untapped creature an opponent controls, this creature gets +2/+1 until end of turn.",U,U,uncommon,WOE,Wilds of Eldraine,55,2,3,,Vigilance
+Ignis Scientia,{1}{G}{U},3.0,Legendary Creature — Human Advisor,"When Ignis Scientia enters, look at the top six cards of your library. You may put a land card from among them onto the battlefield tapped. Put the rest on the bottom of your library in a random order.
+I've Come Up with a New Recipe! — {1}{G}{U}, {T}: Exile target card from a graveyard. If a creature card was exiled this way, create a Food token.","G,U","G,U",uncommon,FIN,Final Fantasy,492,2,2,,Food
+Ignis Scientia,{1}{G}{U},3.0,Legendary Creature — Human Advisor,"When Ignis Scientia enters, look at the top six cards of your library. You may put a land card from among them onto the battlefield tapped. Put the rest on the bottom of your library in a random order.
+I've Come Up with a New Recipe! — {1}{G}{U}, {T}: Exile target card from a graveyard. If a creature card was exiled this way, create a Food token.","G,U","G,U",uncommon,FIN,Final Fantasy,227,2,2,,Food
+Iguana Parrot,{2}{U},3.0,Creature — Lizard Bird Pirate,"Flying, vigilance
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)",U,U,common,TLA,Avatar: The Last Airbender,56,2,2,,Flying;Prowess;Vigilance
+Il Mheg Pixie,{1}{U},2.0,Creature — Faerie,"Flying
+Whenever this creature attacks, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",U,U,uncommon,FIN,Final Fantasy,57,2,1,,Flying;Surveil
+Illusion Spinners,{4}{U},5.0,Creature — Faerie Wizard,"You may cast this spell as though it had flash if you control a Faerie.
+Flying
+This creature has hexproof as long as it's untapped. (It can't be the target of spells or abilities your opponents control.)",U,U,uncommon,ECL,Lorwyn Eclipsed,55,4,3,,Flying
+Illvoi Galeblade,{U},1.0,Creature — Jellyfish Warrior,"Flash
+Flying
+{2}, Sacrifice this creature: Draw a card.",U,U,common,EOE,Edge of Eternities,58,1,1,,Flying;Flash
+Illvoi Infiltrator,{2}{U},3.0,Creature — Jellyfish Rogue,"This creature can't be blocked if you've cast two or more spells this turn.
+Whenever this creature deals combat damage to a player, draw a card.",U,U,uncommon,EOE,Edge of Eternities,59,1,3,,
+Illvoi Operative,{1}{U},2.0,Creature — Jellyfish Rogue,"Whenever you cast your second spell each turn, put a +1/+1 counter on this creature.",U,U,common,EOE,Edge of Eternities,61,2,1,,
+Immersturm Predator,{2}{B}{R},4.0,Creature — Vampire Dragon,"Flying
+Whenever this creature becomes tapped, exile up to one target card from a graveyard and put a +1/+1 counter on this creature.
+Sacrifice another creature: This creature gains indestructible until end of turn. Tap it.","B,R","B,R",rare,KHM,Kaldheim,214,3,3,,Flying
+Immersturm Predator,{2}{B}{R},4.0,Creature — Vampire Dragon,"Flying
+Whenever this creature becomes tapped, exile up to one target card from a graveyard and put a +1/+1 counter on this creature.
+Sacrifice another creature: This creature gains indestructible until end of turn. Tap it.","B,R","B,R",rare,PKHM,Kaldheim Promos,214s,3,3,,Flying
+Immersturm Predator,{2}{B}{R},4.0,Creature — Vampire Dragon,"Flying
+Whenever this creature becomes tapped, exile up to one target card from a graveyard and put a +1/+1 counter on this creature.
+Sacrifice another creature: This creature gains indestructible until end of turn. Tap it.","B,R","B,R",rare,KHM,Kaldheim,367,3,3,,Flying
+Immersturm Predator,{2}{B}{R},4.0,Creature — Vampire Dragon,"Flying
+Whenever this creature becomes tapped, exile up to one target card from a graveyard and put a +1/+1 counter on this creature.
+Sacrifice another creature: This creature gains indestructible until end of turn. Tap it.","B,R","B,R",rare,FDN,Foundations,660,3,3,,Flying
+Immersturm Predator,{2}{B}{R},4.0,Creature — Vampire Dragon,"Flying
+Whenever this creature becomes tapped, exile up to one target card from a graveyard and put a +1/+1 counter on this creature.
+Sacrifice another creature: This creature gains indestructible until end of turn. Tap it.","B,R","B,R",rare,PRM,Magic Online Promos,88368,3,3,,Flying
+Immersturm Predator,{2}{B}{R},4.0,Creature — Vampire Dragon,"Flying
+Whenever this creature becomes tapped, exile up to one target card from a graveyard and put a +1/+1 counter on this creature.
+Sacrifice another creature: This creature gains indestructible until end of turn. Tap it.","B,R","B,R",rare,PKHM,Kaldheim Promos,214p,3,3,,Flying
+Imodane's Recruiter // Train Troops,{2}{R} // {4}{W},3.0,Creature — Human Knight // Sorcery — Adventure,,R,"R,W",uncommon,WOE,Wilds of Eldraine,229,2,2,,
+"Imodane, the Pyrohammer",{2}{R}{R},4.0,Legendary Creature — Human Knight,"Whenever an instant or sorcery spell you control that targets only a single creature deals damage to that creature, Imodane deals that much damage to each opponent.",R,R,rare,WOE,Wilds of Eldraine,137,4,4,,
+"Imodane, the Pyrohammer",{2}{R}{R},4.0,Legendary Creature — Human Knight,"Whenever an instant or sorcery spell you control that targets only a single creature deals damage to that creature, Imodane deals that much damage to each opponent.",R,R,rare,PWOE,Wilds of Eldraine Promos,137p,4,4,,
+"Imodane, the Pyrohammer",{2}{R}{R},4.0,Legendary Creature — Human Knight,"Whenever an instant or sorcery spell you control that targets only a single creature deals damage to that creature, Imodane deals that much damage to each opponent.",R,R,rare,WOE,Wilds of Eldraine,348,4,4,,
+"Imodane, the Pyrohammer",{2}{R}{R},4.0,Legendary Creature — Human Knight,"Whenever an instant or sorcery spell you control that targets only a single creature deals damage to that creature, Imodane deals that much damage to each opponent.",R,R,rare,PWOE,Wilds of Eldraine Promos,137s,4,4,,
+Imperious Perfect,{2}{G},3.0,Creature — Elf Warrior,"Other Elves you control get +1/+1.
+{G}, {T}: Create a 1/1 green Elf Warrior creature token.",G,G,uncommon,PS11,Salvat 2011,144,2,2,,
+Imperious Perfect,{2}{G},3.0,Creature — Elf Warrior,"Other Elves you control get +1/+1.
+{G}, {T}: Create a 1/1 green Elf Warrior creature token.",G,G,uncommon,PLST,The List,PCMP-9,2,2,,
+Imperious Perfect,{2}{G},3.0,Creature — Elf Warrior,"Other Elves you control get +1/+1.
+{G}, {T}: Create a 1/1 green Elf Warrior creature token.",G,G,uncommon,PRM,Magic Online Promos,31409,2,2,,
+Imperious Perfect,{2}{G},3.0,Creature — Elf Warrior,"Other Elves you control get +1/+1.
+{G}, {T}: Create a 1/1 green Elf Warrior creature token.",G,G,uncommon,CMA,Commander Anthology,118,2,2,,
+Imperious Perfect,{2}{G},3.0,Creature — Elf Warrior,"Other Elves you control get +1/+1.
+{G}, {T}: Create a 1/1 green Elf Warrior creature token.",G,G,uncommon,DPA,Duels of the Planeswalkers,71,2,2,,
+Imperious Perfect,{2}{G},3.0,Creature — Elf Warrior,"Other Elves you control get +1/+1.
+{G}, {T}: Create a 1/1 green Elf Warrior creature token.",G,G,rare,EMA,Eternal Masters,173,2,2,,
+Imperious Perfect,{2}{G},3.0,Creature — Elf Warrior,"Other Elves you control get +1/+1.
+{G}, {T}: Create a 1/1 green Elf Warrior creature token.",G,G,uncommon,EVG,Duel Decks Anthology: Elves vs. Goblins,8,2,2,,
+Imperious Perfect,{2}{G},3.0,Creature — Elf Warrior,"Other Elves you control get +1/+1.
+{G}, {T}: Create a 1/1 green Elf Warrior creature token.",G,G,uncommon,PLST,The List,CMA-118,2,2,,
+Imperious Perfect,{2}{G},3.0,Creature — Elf Warrior,"Other Elves you control get +1/+1.
+{G}, {T}: Create a 1/1 green Elf Warrior creature token.",G,G,rare,PCMP,Champs and States,9,2,2,,
+Imperious Perfect,{2}{G},3.0,Creature — Elf Warrior,"Other Elves you control get +1/+1.
+{G}, {T}: Create a 1/1 green Elf Warrior creature token.",G,G,uncommon,CMR,Commander Legends,235,2,2,,
+Imperious Perfect,{2}{G},3.0,Creature — Elf Warrior,"Other Elves you control get +1/+1.
+{G}, {T}: Create a 1/1 green Elf Warrior creature token.",G,G,rare,J22,Jumpstart 2022,677,2,2,,
+Imperious Perfect,{2}{G},3.0,Creature — Elf Warrior,"Other Elves you control get +1/+1.
+{G}, {T}: Create a 1/1 green Elf Warrior creature token.",G,G,uncommon,DD1,Duel Decks: Elves vs. Goblins,8,2,2,,
+Imperious Perfect,{2}{G},3.0,Creature — Elf Warrior,"Other Elves you control get +1/+1.
+{G}, {T}: Create a 1/1 green Elf Warrior creature token.",G,G,uncommon,HA1,Historic Anthology 1,15,2,2,,
+Imperious Perfect,{2}{G},3.0,Creature — Elf Warrior,"Other Elves you control get +1/+1.
+{G}, {T}: Create a 1/1 green Elf Warrior creature token.",G,G,uncommon,LRW,Lorwyn,220,2,2,,
+Imperious Perfect,{2}{G},3.0,Creature — Elf Warrior,"Other Elves you control get +1/+1.
+{G}, {T}: Create a 1/1 green Elf Warrior creature token.",G,G,uncommon,FDN,Foundations,719,2,2,,
+Imperious Perfect,{2}{G},3.0,Creature — Elf Warrior,"Other Elves you control get +1/+1.
+{G}, {T}: Create a 1/1 green Elf Warrior creature token.",G,G,rare,KHC,Kaldheim Commander,64,2,2,,
+Imperious Perfect,{2}{G},3.0,Creature — Elf Warrior,"Other Elves you control get +1/+1.
+{G}, {T}: Create a 1/1 green Elf Warrior creature token.",G,G,uncommon,C14,Commander 2014,202,2,2,,
+Incinerator of the Guilty,{4}{R}{R},6.0,Creature — Dragon,"Flying, trample
+Whenever this creature deals combat damage to a player, you may collect evidence X. When you do, this creature deals X damage to each creature and planeswalker that player controls. (To collect evidence X, exile cards with total mana value X or greater from your graveyard.)",R,R,mythic,MKM,Murders at Karlov Manor,132,6,6,,Flying;Trample
+Incinerator of the Guilty,{4}{R}{R},6.0,Creature — Dragon,"Flying, trample
+Whenever this creature deals combat damage to a player, you may collect evidence X. When you do, this creature deals X damage to each creature and planeswalker that player controls. (To collect evidence X, exile cards with total mana value X or greater from your graveyard.)",R,R,mythic,MKM,Murders at Karlov Manor,381,6,6,,Flying;Trample
+Incinerator of the Guilty,{4}{R}{R},6.0,Creature — Dragon,"Flying, trample
+Whenever this creature deals combat damage to a player, you may collect evidence X. When you do, this creature deals X damage to each creature and planeswalker that player controls. (To collect evidence X, exile cards with total mana value X or greater from your graveyard.)",R,R,mythic,MKM,Murders at Karlov Manor,349,6,6,,Flying;Trample
+Incinerator of the Guilty,{4}{R}{R},6.0,Creature — Dragon,"Flying, trample
+Whenever this creature deals combat damage to a player, you may collect evidence X. When you do, this creature deals X damage to each creature and planeswalker that player controls. (To collect evidence X, exile cards with total mana value X or greater from your graveyard.)",R,R,mythic,PMKM,Murders at Karlov Manor Promos,132s,6,6,,Flying;Trample
+Incinerator of the Guilty,{4}{R}{R},6.0,Creature — Dragon,"Flying, trample
+Whenever this creature deals combat damage to a player, you may collect evidence X. When you do, this creature deals X damage to each creature and planeswalker that player controls. (To collect evidence X, exile cards with total mana value X or greater from your graveyard.)",R,R,mythic,PMKM,Murders at Karlov Manor Promos,132p,6,6,,Flying;Trample
+Infernal Phantom,{3}{R},4.0,Creature — Spirit,"Eerie — Whenever an enchantment you control enters and whenever you fully unlock a Room, this creature gets +2/+0 until end of turn.
+When this creature dies, it deals damage equal to its power to any target.",R,R,uncommon,DSK,Duskmourn: House of Horror,141,2,3,,Eerie
+Infernal Vessel,{2}{B},3.0,Creature — Human Cleric,"When this creature dies, if it wasn't a Demon, return it to the battlefield under its owner's control with two +1/+1 counters on it. It's a Demon in addition to its other types.",B,B,uncommon,FDN,Foundations,63,2,1,,
+Infestation Sage,{B},1.0,Creature — Elf Warlock,"When this creature dies, create a 1/1 black and green Insect creature token with flying.",B,B,common,FDN,Foundations,64,1,1,,
+Ingenious Leonin,{4}{W},5.0,Creature — Cat Soldier,"{3}{W}: Put a +1/+1 counter on another target attacking creature you control. If that creature is a Cat, it gains first strike until end of turn. (It deals combat damage before creatures without first strike.)",W,W,uncommon,J22,Jumpstart 2022,5,4,4,,
+Ingenious Leonin,{4}{W},5.0,Creature — Cat Soldier,"{3}{W}: Put a +1/+1 counter on another target attacking creature you control. If that creature is a Cat, it gains first strike until end of turn. (It deals combat damage before creatures without first strike.)",W,W,uncommon,J25,Foundations Jumpstart,211,4,4,,
+Ingenious Leonin,{4}{W},5.0,Creature — Cat Soldier,"{3}{W}: Put a +1/+1 counter on another target attacking creature you control. If that creature is a Cat, it gains first strike until end of turn. (It deals combat damage before creatures without first strike.)",W,W,uncommon,FDN,Foundations,495,4,4,,
+Ingenious Prodigy,{X}{U},1.0,Creature — Human Wizard,"Skulk (This creature can't be blocked by creatures with greater power.)
+This creature enters with X +1/+1 counters on it.
+At the beginning of your upkeep, if this creature has one or more +1/+1 counters on it, you may remove a +1/+1 counter from it. If you do, draw a card.",U,U,rare,WOE,Wilds of Eldraine,333,0,1,,Skulk
+Ingenious Prodigy,{X}{U},1.0,Creature — Human Wizard,"Skulk (This creature can't be blocked by creatures with greater power.)
+This creature enters with X +1/+1 counters on it.
+At the beginning of your upkeep, if this creature has one or more +1/+1 counters on it, you may remove a +1/+1 counter from it. If you do, draw a card.",U,U,rare,PWOE,Wilds of Eldraine Promos,56s,0,1,,Skulk
+Ingenious Prodigy,{X}{U},1.0,Creature — Human Wizard,"Skulk (This creature can't be blocked by creatures with greater power.)
+This creature enters with X +1/+1 counters on it.
+At the beginning of your upkeep, if this creature has one or more +1/+1 counters on it, you may remove a +1/+1 counter from it. If you do, draw a card.",U,U,rare,PWOE,Wilds of Eldraine Promos,56p,0,1,,Skulk
+Ingenious Prodigy,{X}{U},1.0,Creature — Human Wizard,"Skulk (This creature can't be blocked by creatures with greater power.)
+This creature enters with X +1/+1 counters on it.
+At the beginning of your upkeep, if this creature has one or more +1/+1 counters on it, you may remove a +1/+1 counter from it. If you do, draw a card.",U,U,rare,WOE,Wilds of Eldraine,56,0,1,,Skulk
+Inner Demons Gangsters,{3}{B},4.0,Creature — Human Rogue Villain,Discard a card: This creature gets +1/+0 and gains menace until end of turn. Activate only as a sorcery. (It can't be blocked except by two or more creatures.),B,B,common,OM1,Through the Omenpaths,51,3,4,,
+Inner Demons Gangsters,{3}{B},4.0,Creature — Human Rogue Villain,Discard a card: This creature gets +1/+0 and gains menace until end of turn. Activate only as a sorcery. (It can't be blocked except by two or more creatures.),B,B,common,SPM,Marvel's Spider-Man,57,3,4,,
+Innocent Bystander,{1}{R},2.0,Creature — Goblin Citizen,"Whenever this creature is dealt 3 or more damage, investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")",R,R,common,MKM,Murders at Karlov Manor,133,2,1,,Investigate
+Innocuous Rat,{1}{B},2.0,Creature — Rat,"When this creature dies, manifest dread. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)",B,B,common,DSK,Duskmourn: House of Horror,103,1,1,,Manifest;Manifest dread
+Inquisitive Glimmer,{W}{U},2.0,Enchantment Creature — Fox Glimmer,"Enchantment spells you cast cost {1} less to cast.
+Unlock costs you pay cost {1} less.","U,W","U,W",uncommon,DSK,Duskmourn: House of Horror,415,2,3,,
+Inquisitive Glimmer,{W}{U},2.0,Enchantment Creature — Fox Glimmer,"Enchantment spells you cast cost {1} less to cast.
+Unlock costs you pay cost {1} less.","U,W","U,W",uncommon,DSK,Duskmourn: House of Horror,217,2,3,,
+Insatiable Skittermaw,{2}{B},3.0,Creature — Insect Horror,"Menace (This creature can't be blocked except by two or more creatures.)
+Void — At the beginning of your end step, if a nonland permanent left the battlefield this turn or a spell was warped this turn, put a +1/+1 counter on this creature.",B,B,common,EOE,Edge of Eternities,108,2,2,,Menace;Void
+Insectoid Exterminator,{2}{B},3.0,Creature — Insect Mutant,"Flying
+Disappear — At the beginning of your end step, if a permanent left the battlefield under your control this turn, scry 1. (Look at the top card of your library. You may put that card on the bottom.)",B,B,common,TMT,Teenage Mutant Ninja Turtles,64,2,2,,Scry;Flying;Disappear
+Inside Source,{2}{W},3.0,Creature — Human Citizen,"When this creature enters, create a 2/2 white and blue Detective creature token.
+{3}, {T}: Target Detective you control gets +2/+0 and gains vigilance until end of turn. Activate only as a sorcery.",W,W,common,MKM,Murders at Karlov Manor,19,1,1,,
+Insidious Fungus,{G},1.0,Creature — Fungus,"{2}, Sacrifice this creature: Choose one —
+• Destroy target artifact.
+• Destroy target enchantment.
+• Draw a card. Then you may put a land card from your hand onto the battlefield tapped.",G,G,uncommon,DSK,Duskmourn: House of Horror,321,1,2,,
+Insidious Fungus,{G},1.0,Creature — Fungus,"{2}, Sacrifice this creature: Choose one —
+• Destroy target artifact.
+• Destroy target enchantment.
+• Draw a card. Then you may put a land card from your hand onto the battlefield tapped.",G,G,uncommon,DSK,Duskmourn: House of Horror,186,1,2,,
+Inspiring Overseer,{2}{W},3.0,Creature — Angel Cleric,"Flying
+When this creature enters, you gain 1 life and draw a card.",W,W,common,SNC,Streets of New Capenna,18,2,1,,Flying
+Inspiring Overseer,{2}{W},3.0,Creature — Angel Cleric,"Flying
+When this creature enters, you gain 1 life and draw a card.",W,W,common,BLC,Bloomburrow Commander,141,2,1,,Flying
+Inspiring Overseer,{2}{W},3.0,Creature — Angel Cleric,"Flying
+When this creature enters, you gain 1 life and draw a card.",W,W,rare,SLD,Secret Lair Drop,1523,2,1,,Flying
+Inspiring Overseer,{2}{W},3.0,Creature — Angel Cleric,"Flying
+When this creature enters, you gain 1 life and draw a card.",W,W,common,J25,Foundations Jumpstart,212,2,1,,Flying
+Inspiring Overseer,{2}{W},3.0,Creature — Angel Cleric,"Flying
+When this creature enters, you gain 1 life and draw a card.",W,W,common,FDN,Foundations,496,2,1,,Flying
+Inspiring Overseer,{2}{W},3.0,Creature — Angel Cleric,"Flying
+When this creature enters, you gain 1 life and draw a card.",W,W,common,PLST,The List,SNC-18,2,1,,Flying
+Inspiring Overseer,{2}{W},3.0,Creature — Angel Cleric,"Flying
+When this creature enters, you gain 1 life and draw a card.",W,W,common,J22,Jumpstart 2022,200,2,1,,Flying
+Inspiring Paladin,{2}{W},3.0,Creature — Human Knight,"During your turn, this creature has first strike. (It deals combat damage before creatures without first strike.)
+During your turn, creatures you control with +1/+1 counters on them have first strike.",W,W,common,FDN,Foundations,18,3,3,,
+Inspirited Vanguard,{4}{G},5.0,Creature — Human Soldier,"Whenever this creature enters or attacks, it endures 2. (Put two +1/+1 counters on it or create a 2/2 white Spirit creature token.)",G,G,uncommon,TDM,Tarkir: Dragonstorm,146,3,2,,Endure
+Interceptor Mechan,{2}{B}{R},4.0,Artifact Creature — Robot,"Flying
+When this creature enters, return target artifact or creature card from your graveyard to your hand.
+Void — At the beginning of your end step, if a nonland permanent left the battlefield this turn or a spell was warped this turn, put a +1/+1 counter on this creature.","B,R","B,R",uncommon,EOE,Edge of Eternities,220,2,2,,Flying;Void
+Interface Ace,{1}{W},2.0,Artifact Creature — Robot Pilot,"This creature saddles Mounts and crews Vehicles using its toughness rather than its power.
+Whenever this creature becomes tapped during your turn, untap it. This ability triggers only once each turn.",W,W,common,DFT,Aetherdrift,17,0,4,,
+"Inti, Seneschal of the Sun",{1}{R},2.0,Legendary Creature — Human Knight,"Whenever you attack, you may discard a card. When you do, put a +1/+1 counter on target attacking creature. It gains trample until end of turn.
+Whenever you discard one or more cards, exile the top card of your library. You may play that card until your next end step.",R,R,rare,LCI,The Lost Caverns of Ixalan,295,2,2,,
+"Inti, Seneschal of the Sun",{1}{R},2.0,Legendary Creature — Human Knight,"Whenever you attack, you may discard a card. When you do, put a +1/+1 counter on target attacking creature. It gains trample until end of turn.
+Whenever you discard one or more cards, exile the top card of your library. You may play that card until your next end step.",R,R,rare,PWCS,Planeswalker Championship Promos,2025-4,2,2,,
+"Inti, Seneschal of the Sun",{1}{R},2.0,Legendary Creature — Human Knight,"Whenever you attack, you may discard a card. When you do, put a +1/+1 counter on target attacking creature. It gains trample until end of turn.
+Whenever you discard one or more cards, exile the top card of your library. You may play that card until your next end step.",R,R,rare,PLCI,The Lost Caverns of Ixalan Promos,156p,2,2,,
+"Inti, Seneschal of the Sun",{1}{R},2.0,Legendary Creature — Human Knight,"Whenever you attack, you may discard a card. When you do, put a +1/+1 counter on target attacking creature. It gains trample until end of turn.
+Whenever you discard one or more cards, exile the top card of your library. You may play that card until your next end step.",R,R,rare,PLCI,The Lost Caverns of Ixalan Promos,156s,2,2,,
+"Inti, Seneschal of the Sun",{1}{R},2.0,Legendary Creature — Human Knight,"Whenever you attack, you may discard a card. When you do, put a +1/+1 counter on target attacking creature. It gains trample until end of turn.
+Whenever you discard one or more cards, exile the top card of your library. You may play that card until your next end step.",R,R,rare,LCI,The Lost Caverns of Ixalan,156,2,2,,
+Intrepid Paleontologist,{1}{G},2.0,Creature — Human Druid,"{T}: Add one mana of any color.
+{2}: Exile target card from a graveyard.
+You may cast Dinosaur creature spells from among cards you own exiled with this creature. If you cast a spell this way, that creature enters with a finality counter on it. (If a creature with a finality counter on it would die, exile it instead.)",G,G,rare,LCI,The Lost Caverns of Ixalan,381,2,2,,
+Intrepid Paleontologist,{1}{G},2.0,Creature — Human Druid,"{T}: Add one mana of any color.
+{2}: Exile target card from a graveyard.
+You may cast Dinosaur creature spells from among cards you own exiled with this creature. If you cast a spell this way, that creature enters with a finality counter on it. (If a creature with a finality counter on it would die, exile it instead.)",G,G,rare,PLCI,The Lost Caverns of Ixalan Promos,193p,2,2,,
+Intrepid Paleontologist,{1}{G},2.0,Creature — Human Druid,"{T}: Add one mana of any color.
+{2}: Exile target card from a graveyard.
+You may cast Dinosaur creature spells from among cards you own exiled with this creature. If you cast a spell this way, that creature enters with a finality counter on it. (If a creature with a finality counter on it would die, exile it instead.)",G,G,rare,LCI,The Lost Caverns of Ixalan,193,2,2,,
+Intrepid Paleontologist,{1}{G},2.0,Creature — Human Druid,"{T}: Add one mana of any color.
+{2}: Exile target card from a graveyard.
+You may cast Dinosaur creature spells from among cards you own exiled with this creature. If you cast a spell this way, that creature enters with a finality counter on it. (If a creature with a finality counter on it would die, exile it instead.)",G,G,rare,PLCI,The Lost Caverns of Ixalan Promos,193s,2,2,,
+Intrepid Rabbit,{2}{W},3.0,Creature — Rabbit Soldier,"Offspring {1} (You may pay an additional {1} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+When this creature enters, target creature you control gets +1/+1 until end of turn.",W,W,common,BLB,Bloomburrow,17,3,2,,Offspring
+Intrepid Stablemaster,{1}{G},2.0,Creature — Human Scout,"Reach
+{T}: Add {G}.
+{T}: Add two mana of any one color. Spend this mana only to cast Mount or Vehicle spells.",G,G,uncommon,OTJ,Outlaws of Thunder Junction,169,2,2,,Reach
+Intrepid Tenderfoot,{1}{G},2.0,Creature — Insect Citizen,{3}: Put a +1/+1 counter on this creature. Activate only as a sorcery.,G,G,common,EOE,Edge of Eternities,193,2,2,,
+Intrepid Trufflesnout // Go Hog Wild,{1}{G} // {1}{G},2.0,Creature — Boar // Instant — Adventure,,G,G,uncommon,WOE,Wilds of Eldraine,320,3,1,,Food
+Intruding Soulrager,{U}{R},2.0,Creature — Spirit,"Vigilance
+{T}, Sacrifice a Room: This creature deals 2 damage to each opponent. Draw a card.","R,U","R,U",uncommon,DSK,Duskmourn: House of Horror,218,2,2,,Vigilance
+Invasion Reinforcements,{1}{W},2.0,Creature — Human Warrior Ally,"Flash
+When this creature enters, create a 1/1 white Ally creature token.",W,W,uncommon,TLA,Avatar: The Last Airbender,24,1,1,,Flash
+Inventive Wingsmith,{2}{W},3.0,Creature — Dwarf Artificer,"At the beginning of your end step, if you haven't cast a spell from your hand this turn and this creature doesn't have a flying counter on it, put a flying counter on it.",W,W,common,OTJ,Outlaws of Thunder Junction,17,2,4,,
+Inverted Iceberg // Iceberg Titan,,2.0,Artifact // Artifact Creature — Golem,,,U,common,LCI,The Lost Caverns of Ixalan,60,,,,Craft;Transform;Mill
+Irascible Wolverine,{2}{R},3.0,Creature — Wolverine,"When this creature enters, exile the top card of your library. Until end of turn, you may play that card.
+Plot {2}{R} (You may pay {2}{R} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",R,R,common,OTJ,Outlaws of Thunder Junction,130,3,2,,Plot
+Iridescent Tiger,{4}{R},5.0,Creature — Cat,"When this creature enters, if you cast it, add {W}{U}{B}{R}{G}.",R,"B,G,R,U,W",uncommon,TDM,Tarkir: Dragonstorm,109,3,4,,
+Iridescent Vinelasher,{B},1.0,Creature — Lizard Assassin,"Offspring {2} (You may pay an additional {2} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+Landfall — Whenever a land you control enters, this creature deals 1 damage to target opponent.",B,B,rare,PBLB,Bloomburrow Promos,99s,1,2,,Offspring;Landfall
+Iridescent Vinelasher,{B},1.0,Creature — Lizard Assassin,"Offspring {2} (You may pay an additional {2} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+Landfall — Whenever a land you control enters, this creature deals 1 damage to target opponent.",B,B,rare,BLB,Bloomburrow,359,1,2,,Offspring;Landfall
+Iridescent Vinelasher,{B},1.0,Creature — Lizard Assassin,"Offspring {2} (You may pay an additional {2} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+Landfall — Whenever a land you control enters, this creature deals 1 damage to target opponent.",B,B,rare,PBLB,Bloomburrow Promos,99p,1,2,,Offspring;Landfall
+Iridescent Vinelasher,{B},1.0,Creature — Lizard Assassin,"Offspring {2} (You may pay an additional {2} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+Landfall — Whenever a land you control enters, this creature deals 1 damage to target opponent.",B,B,rare,BLB,Bloomburrow,99,1,2,,Offspring;Landfall
+"Iroh, Grand Lotus",{3}{G}{U}{R},6.0,Legendary Creature — Human Noble Ally,"Firebending 2
+During your turn, each non-Lesson instant and sorcery card in your graveyard has flashback. The flashback cost is equal to that card's mana cost. (You may cast a card from your graveyard for its flashback cost. Then exile it.)
+During your turn, each Lesson card in your graveyard has flashback {1}.","G,R,U","G,R,U",rare,PMEI,Media and Collaboration Promos,2025-24,5,5,,Firebending
+"Iroh, Grand Lotus",{3}{G}{U}{R},6.0,Legendary Creature — Human Noble Ally,"Firebending 2
+During your turn, each non-Lesson instant and sorcery card in your graveyard has flashback. The flashback cost is equal to that card's mana cost. (You may cast a card from your graveyard for its flashback cost. Then exile it.)
+During your turn, each Lesson card in your graveyard has flashback {1}.","G,R,U","G,R,U",rare,PTLA,Avatar: The Last Airbender Promos,227s,5,5,,Firebending
+"Iroh, Grand Lotus",{3}{G}{U}{R},6.0,Legendary Creature — Human Noble Ally,"Firebending 2
+During your turn, each non-Lesson instant and sorcery card in your graveyard has flashback. The flashback cost is equal to that card's mana cost. (You may cast a card from your graveyard for its flashback cost. Then exile it.)
+During your turn, each Lesson card in your graveyard has flashback {1}.","G,R,U","G,R,U",rare,TLA,Avatar: The Last Airbender,349,5,5,,Firebending
+"Iroh, Grand Lotus",{3}{G}{U}{R},6.0,Legendary Creature — Human Noble Ally,"Firebending 2
+During your turn, each non-Lesson instant and sorcery card in your graveyard has flashback. The flashback cost is equal to that card's mana cost. (You may cast a card from your graveyard for its flashback cost. Then exile it.)
+During your turn, each Lesson card in your graveyard has flashback {1}.","G,R,U","G,R,U",rare,TLA,Avatar: The Last Airbender,227,5,5,,Firebending
+"Iroh, Tea Master",{1}{R}{W},3.0,Legendary Creature — Human Citizen Ally,"When Iroh enters, create a Food token.
+At the beginning of combat on your turn, you may have target opponent gain control of target permanent you control. When you do, create a 1/1 white Ally creature token. Put a +1/+1 counter on that token for each permanent you own that your opponents control.","R,W","R,W",rare,TLA,Avatar: The Last Airbender,381,2,2,,Food
+"Iroh, Tea Master",{1}{R}{W},3.0,Legendary Creature — Human Citizen Ally,"When Iroh enters, create a Food token.
+At the beginning of combat on your turn, you may have target opponent gain control of target permanent you control. When you do, create a 1/1 white Ally creature token. Put a +1/+1 counter on that token for each permanent you own that your opponents control.","R,W","R,W",rare,PTLA,Avatar: The Last Airbender Promos,228s,2,2,,Food
+"Iroh, Tea Master",{1}{R}{W},3.0,Legendary Creature — Human Citizen Ally,"When Iroh enters, create a Food token.
+At the beginning of combat on your turn, you may have target opponent gain control of target permanent you control. When you do, create a 1/1 white Ally creature token. Put a +1/+1 counter on that token for each permanent you own that your opponents control.","R,W","R,W",rare,TLA,Avatar: The Last Airbender,228,2,2,,Food
+Iron Giant,{7},7.0,Artifact Creature — Demon,"Vigilance, reach, trample",,,common,FIN,Final Fantasy,260,6,6,,Reach;Vigilance;Trample
+"Iron Spider, Stark Upgrade",{3},3.0,Legendary Artifact Creature — Spider Hero,"Vigilance
+{T}: Put a +1/+1 counter on each artifact creature and/or Vehicle you control.
+{2}, Remove two +1/+1 counters from among artifacts you control: Draw a card.",,,rare,OM1,Through the Omenpaths,166,2,3,,Vigilance
+"Iron Spider, Stark Upgrade",{3},3.0,Legendary Artifact Creature — Spider Hero,"Vigilance
+{T}: Put a +1/+1 counter on each artifact creature and/or Vehicle you control.
+{2}, Remove two +1/+1 counters from among artifacts you control: Draw a card.",,,rare,SPM,Marvel's Spider-Man,279,2,3,,Vigilance
+"Iron Spider, Stark Upgrade",{3},3.0,Legendary Artifact Creature — Spider Hero,"Vigilance
+{T}: Put a +1/+1 counter on each artifact creature and/or Vehicle you control.
+{2}, Remove two +1/+1 counters from among artifacts you control: Draw a card.",,,rare,PSPM,Marvel's Spider-Man Promos,166s,2,3,,Vigilance
+"Iron Spider, Stark Upgrade",{3},3.0,Legendary Artifact Creature — Spider Hero,"Vigilance
+{T}: Put a +1/+1 counter on each artifact creature and/or Vehicle you control.
+{2}, Remove two +1/+1 counters from among artifacts you control: Draw a card.",,,rare,SPM,Marvel's Spider-Man,166,2,3,,Vigilance
+"Iron Spider, Stark Upgrade",{3},3.0,Legendary Artifact Creature — Spider Hero,"Vigilance
+{T}: Put a +1/+1 counter on each artifact creature and/or Vehicle you control.
+{2}, Remove two +1/+1 counters from among artifacts you control: Draw a card.",,,rare,LMAR,Marvel Legends Series Inserts,4,2,3,,Vigilance
+Iron-Fist Pulverizer,{4}{R},5.0,Creature — Giant Warrior,"Reach
+Whenever you cast your second spell each turn, this creature deals 2 damage to target opponent. Scry 1. (Look at the top card of your library. You may put that card on the bottom.)",R,R,common,OTJ,Outlaws of Thunder Junction,131,4,5,,Reach;Scry
+Iron-Shield Elf,{1}{B},2.0,Creature — Elf Warrior,"Discard a card: This creature gains indestructible until end of turn. Tap it. (Damage and effects that say ""destroy"" don't destroy it. If its toughness is 0 or less, it still dies.)",B,B,uncommon,ECL,Lorwyn Eclipsed,404,3,1,,
+Iron-Shield Elf,{1}{B},2.0,Creature — Elf Warrior,"Discard a card: This creature gains indestructible until end of turn. Tap it. (Damage and effects that say ""destroy"" don't destroy it. If its toughness is 0 or less, it still dies.)",B,B,uncommon,ECL,Lorwyn Eclipsed,108,3,1,,
+Ironpaw Aspirant,{1}{W},2.0,Creature — Cat Warrior,"When this creature enters, put a +1/+1 counter on target creature.",W,W,common,LCI,The Lost Caverns of Ixalan,18,1,2,,
+Irreverent Gremlin,{1}{R},2.0,Creature — Gremlin,"Menace (This creature can't be blocked except by two or more creatures.)
+Whenever another creature you control with power 2 or less enters, you may discard a card. If you do, draw a card. Do this only once each turn.",R,R,uncommon,DSK,Duskmourn: House of Horror,142,2,2,,Menace
+Item Shopkeep,{1}{R},2.0,Creature — Human Citizen,"Whenever you attack, target attacking equipped creature gains menace until end of turn. (It can't be blocked except by two or more creatures.)",R,R,common,FIN,Final Fantasy,142,2,2,,
+"Itzquinth, Firstborn of Gishath",{R}{G},2.0,Legendary Creature — Dinosaur,"Haste
+When Itzquinth enters, you may pay {2}. When you do, target Dinosaur you control deals damage equal to its power to another target creature.","G,R","G,R",uncommon,LCI,The Lost Caverns of Ixalan,331,2,3,,Haste
+"Itzquinth, Firstborn of Gishath",{R}{G},2.0,Legendary Creature — Dinosaur,"Haste
+When Itzquinth enters, you may pay {2}. When you do, target Dinosaur you control deals damage equal to its power to another target creature.","G,R","G,R",uncommon,LCI,The Lost Caverns of Ixalan,230,2,3,,Haste
+Ixalli's Lorekeeper,{G},1.0,Creature — Human Druid,{T}: Add one mana of any color. Spend this mana only to cast a Dinosaur spell or activate an ability of a Dinosaur source.,G,G,uncommon,LCI,The Lost Caverns of Ixalan,194,1,1,,
+"Izoni, Center of the Web",{4}{B}{G},6.0,Legendary Creature — Elf Detective,"Menace
+Whenever Izoni enters or attacks, you may collect evidence 4. If you do, create two 2/1 black and green Spider creature tokens with menace and reach.
+Sacrifice four tokens: Surveil 2, then draw two cards. You gain 2 life.","B,G","B,G",rare,MKM,Murders at Karlov Manor,362,5,4,,Collect evidence;Surveil;Menace
+"Izoni, Center of the Web",{4}{B}{G},6.0,Legendary Creature — Elf Detective,"Menace
+Whenever Izoni enters or attacks, you may collect evidence 4. If you do, create two 2/1 black and green Spider creature tokens with menace and reach.
+Sacrifice four tokens: Surveil 2, then draw two cards. You gain 2 life.","B,G","B,G",rare,MKM,Murders at Karlov Manor,209,5,4,,Collect evidence;Surveil;Menace
+"Izoni, Center of the Web",{4}{B}{G},6.0,Legendary Creature — Elf Detective,"Menace
+Whenever Izoni enters or attacks, you may collect evidence 4. If you do, create two 2/1 black and green Spider creature tokens with menace and reach.
+Sacrifice four tokens: Surveil 2, then draw two cards. You gain 2 life.","B,G","B,G",rare,PMKM,Murders at Karlov Manor Promos,209p,5,4,,Collect evidence;Surveil;Menace
+"Izoni, Center of the Web",{4}{B}{G},6.0,Legendary Creature — Elf Detective,"Menace
+Whenever Izoni enters or attacks, you may collect evidence 4. If you do, create two 2/1 black and green Spider creature tokens with menace and reach.
+Sacrifice four tokens: Surveil 2, then draw two cards. You gain 2 life.","B,G","B,G",rare,PMKM,Murders at Karlov Manor Promos,209s,5,4,,Collect evidence;Surveil;Menace

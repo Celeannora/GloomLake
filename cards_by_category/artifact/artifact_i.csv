@@ -1,0 +1,41 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Idol of the Deep King // Sovereign's Macuahuitl,,3.0,Artifact // Artifact — Equipment,,,R,common,LCI,The Lost Caverns of Ixalan,155,,,,Craft;Transform;Equip;Flash
+Illvoi Light Jammer,{1}{U},2.0,Artifact — Equipment,"Flash
+When this Equipment enters, attach it to target creature you control. That creature gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)
+Equipped creature gets +1/+2.
+Equip {3}",U,U,common,EOE,Edge of Eternities,60,,,,Equip;Flash
+Improvised Arsenal,{1}{R},2.0,Artifact — Equipment,"Equipped creature gets +1/+0 for each artifact you control.
+{4}{R}: Create a token that's a copy of this Equipment.
+Equip {R}",R,R,rare,TMT,Teenage Mutant Ninja Turtles,92,,,,Equip
+Improvised Arsenal,{1}{R},2.0,Artifact — Equipment,"Equipped creature gets +1/+0 for each artifact you control.
+{4}{R}: Create a token that's a copy of this Equipment.
+Equip {R}",R,R,rare,TMT,Teenage Mutant Ninja Turtles,270,,,,Equip
+Infinite Guideline Station,{W}{U}{B}{R}{G},5.0,Legendary Artifact — Spacecraft,"When Infinite Guideline Station enters, create a tapped 2/2 colorless Robot artifact creature token for each multicolored permanent you control.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 12+.)
+12+ | Flying
+Whenever Infinite Guideline Station attacks, draw a card for each multicolored permanent you control.","B,G,R,U,W","B,G,R,U,W",rare,EOE,Edge of Eternities,348,7,15,,Station
+Infinite Guideline Station,{W}{U}{B}{R}{G},5.0,Legendary Artifact — Spacecraft,"When Infinite Guideline Station enters, create a tapped 2/2 colorless Robot artifact creature token for each multicolored permanent you control.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 12+.)
+12+ | Flying
+Whenever Infinite Guideline Station attacks, draw a card for each multicolored permanent you control.","B,G,R,U,W","B,G,R,U,W",rare,EOE,Edge of Eternities,219,7,15,,Station
+Infinite Guideline Station,{W}{U}{B}{R}{G},5.0,Legendary Artifact — Spacecraft,"When Infinite Guideline Station enters, create a tapped 2/2 colorless Robot artifact creature token for each multicolored permanent you control.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 12+.)
+12+ | Flying
+Whenever Infinite Guideline Station attacks, draw a card for each multicolored permanent you control.","B,G,R,U,W","B,G,R,U,W",rare,PEOE,Edge of Eternities Promos,219p,7,15,,Station
+Infinite Guideline Station,{W}{U}{B}{R}{G},5.0,Legendary Artifact — Spacecraft,"When Infinite Guideline Station enters, create a tapped 2/2 colorless Robot artifact creature token for each multicolored permanent you control.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 12+.)
+12+ | Flying
+Whenever Infinite Guideline Station attacks, draw a card for each multicolored permanent you control.","B,G,R,U,W","B,G,R,U,W",rare,PEOE,Edge of Eternities Promos,219s,7,15,,Station
+Instant Ramen,{2},2.0,Artifact — Food,"Flash
+When this artifact enters, draw a card.
+{2}, {T}, Sacrifice this artifact: You gain 3 life.",,,common,FIN,Final Fantasy,259,,,,Flash
+Interdimensional Web Watch,{4},4.0,Artifact,"When this artifact enters, exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+{T}: Add two mana in any combination of colors. Spend this mana only to cast spells from exile.",,,rare,SPM,Marvel's Spider-Man,278,,,,
+Interdimensional Web Watch,{4},4.0,Artifact,"When this artifact enters, exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+{T}: Add two mana in any combination of colors. Spend this mana only to cast spells from exile.",,,rare,SPM,Marvel's Spider-Man,165,,,,
+Interdimensional Web Watch,{4},4.0,Artifact,"When this artifact enters, exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+{T}: Add two mana in any combination of colors. Spend this mana only to cast spells from exile.",,,rare,OM1,Through the Omenpaths,172,,,,
+Interdimensional Web Watch,{4},4.0,Artifact,"When this artifact enters, exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+{T}: Add two mana in any combination of colors. Spend this mana only to cast spells from exile.",,,rare,PSPM,Marvel's Spider-Man Promos,165s,,,,
+Invasion Submersible,{2}{U},3.0,Artifact — Vehicle,"When this Vehicle enters, return up to one other target nonland permanent to its owner's hand.
+Exhaust — Waterbend {3}: This Vehicle becomes an artifact creature. Put three +1/+1 counters on it. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}. Activate each exhaust ability only once.)",U,U,uncommon,TLA,Avatar: The Last Airbender,57,0,0,,Exhaust;Waterbend

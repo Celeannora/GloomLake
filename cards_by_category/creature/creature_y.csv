@@ -1,0 +1,71 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Y'shtola Rhul,{4}{U}{U},6.0,Legendary Creature — Cat Druid,"At the beginning of your end step, exile target creature you control, then return it to the battlefield under its owner's control. Then if it's the first end step of the turn, there is an additional end step after this step.",U,U,mythic,PFIN,Final Fantasy Promos,86s,3,5,,
+Y'shtola Rhul,{4}{U}{U},6.0,Legendary Creature — Cat Druid,"At the beginning of your end step, exile target creature you control, then return it to the battlefield under its owner's control. Then if it's the first end step of the turn, there is an additional end step after this step.",U,U,mythic,FIN,Final Fantasy,577,3,5,,
+Y'shtola Rhul,{4}{U}{U},6.0,Legendary Creature — Cat Druid,"At the beginning of your end step, exile target creature you control, then return it to the battlefield under its owner's control. Then if it's the first end step of the turn, there is an additional end step after this step.",U,U,mythic,FIN,Final Fantasy,443,3,5,,
+Y'shtola Rhul,{4}{U}{U},6.0,Legendary Creature — Cat Druid,"At the beginning of your end step, exile target creature you control, then return it to the battlefield under its owner's control. Then if it's the first end step of the turn, there is an additional end step after this step.",U,U,mythic,FIN,Final Fantasy,86,3,5,,
+"Yarus, Roar of the Old Gods",{2}{R}{G},4.0,Legendary Creature — Centaur Druid,"Other creatures you control have haste.
+Whenever one or more face-down creatures you control deal combat damage to a player, draw a card.
+Whenever a face-down creature you control dies, return it to the battlefield face down under its owner's control if it's a permanent card, then turn it face up.","G,R","G,R",rare,PMKM,Murders at Karlov Manor Promos,245s,4,4,,
+"Yarus, Roar of the Old Gods",{2}{R}{G},4.0,Legendary Creature — Centaur Druid,"Other creatures you control have haste.
+Whenever one or more face-down creatures you control deal combat damage to a player, draw a card.
+Whenever a face-down creature you control dies, return it to the battlefield face down under its owner's control if it's a permanent card, then turn it face up.","G,R","G,R",rare,MKM,Murders at Karlov Manor,375,4,4,,
+"Yarus, Roar of the Old Gods",{2}{R}{G},4.0,Legendary Creature — Centaur Druid,"Other creatures you control have haste.
+Whenever one or more face-down creatures you control deal combat damage to a player, draw a card.
+Whenever a face-down creature you control dies, return it to the battlefield face down under its owner's control if it's a permanent card, then turn it face up.","G,R","G,R",rare,PMKM,Murders at Karlov Manor Promos,245p,4,4,,
+"Yarus, Roar of the Old Gods",{2}{R}{G},4.0,Legendary Creature — Centaur Druid,"Other creatures you control have haste.
+Whenever one or more face-down creatures you control deal combat damage to a player, draw a card.
+Whenever a face-down creature you control dies, return it to the battlefield face down under its owner's control if it's a permanent card, then turn it face up.","G,R","G,R",rare,MKM,Murders at Karlov Manor,245,4,4,,
+Yathan Roadwatcher,{1}{W}{B}{G},4.0,Creature — Human Scout,"When this creature enters, if you cast it, mill four cards. When you do, return target creature card with mana value 3 or less from your graveyard to the battlefield.","B,G,W","B,G,W",rare,TDM,Tarkir: Dragonstorm,375,3,3,,Mill
+Yathan Roadwatcher,{1}{W}{B}{G},4.0,Creature — Human Scout,"When this creature enters, if you cast it, mill four cards. When you do, return target creature card with mana value 3 or less from your graveyard to the battlefield.","B,G,W","B,G,W",rare,TDM,Tarkir: Dragonstorm,236,3,3,,Mill
+Yathan Roadwatcher,{1}{W}{B}{G},4.0,Creature — Human Scout,"When this creature enters, if you cast it, mill four cards. When you do, return target creature card with mana value 3 or less from your graveyard to the battlefield.","B,G,W","B,G,W",rare,PTDM,Tarkir: Dragonstorm Promos,236s,3,3,,Mill
+Yathan Roadwatcher,{1}{W}{B}{G},4.0,Creature — Human Scout,"When this creature enters, if you cast it, mill four cards. When you do, return target creature card with mana value 3 or less from your graveyard to the battlefield.","B,G,W","B,G,W",rare,PTDM,Tarkir: Dragonstorm Promos,236p,3,3,,Mill
+Yathan Tombguard,{2}{B},3.0,Creature — Human Warrior,"Menace (This creature can't be blocked except by two or more creatures.)
+Whenever a creature you control with a counter on it deals combat damage to a player, you draw a card and you lose 1 life.",B,B,uncommon,TDM,Tarkir: Dragonstorm,100,2,3,,Menace
+"Yenna, Redtooth Regent",{2}{G}{W},4.0,Legendary Creature — Elf Noble,"{2}, {T}: Choose target enchantment you control that doesn't have the same name as another permanent you control. Create a token that's a copy of it, except it isn't legendary. If the token is an Aura, untap Yenna, then scry 2. Activate only as a sorcery.","G,W","G,W",rare,WOE,Wilds of Eldraine,365,4,4,,Scry
+"Yenna, Redtooth Regent",{2}{G}{W},4.0,Legendary Creature — Elf Noble,"{2}, {T}: Choose target enchantment you control that doesn't have the same name as another permanent you control. Create a token that's a copy of it, except it isn't legendary. If the token is an Aura, untap Yenna, then scry 2. Activate only as a sorcery.","G,W","G,W",rare,PWOE,Wilds of Eldraine Promos,219p,4,4,,Scry
+"Yenna, Redtooth Regent",{2}{G}{W},4.0,Legendary Creature — Elf Noble,"{2}, {T}: Choose target enchantment you control that doesn't have the same name as another permanent you control. Create a token that's a copy of it, except it isn't legendary. If the token is an Aura, untap Yenna, then scry 2. Activate only as a sorcery.","G,W","G,W",rare,WOE,Wilds of Eldraine,219,4,4,,Scry
+"Yenna, Redtooth Regent",{2}{G}{W},4.0,Legendary Creature — Elf Noble,"{2}, {T}: Choose target enchantment you control that doesn't have the same name as another permanent you control. Create a token that's a copy of it, except it isn't legendary. If the token is an Aura, untap Yenna, then scry 2. Activate only as a sorcery.","G,W","G,W",rare,PWOE,Wilds of Eldraine Promos,219s,4,4,,Scry
+"Ygra, Eater of All",{3}{B}{G},5.0,Legendary Creature — Elemental Cat,"Ward—Sacrifice a Food.
+Other creatures are Food artifacts in addition to their other types and have ""{2}, {T}, Sacrifice this permanent: You gain 3 life.""
+Whenever a Food is put into a graveyard from the battlefield, put two +1/+1 counters on Ygra.","B,G","B,G",mythic,PBLB,Bloomburrow Promos,241s,6,6,,Ward
+"Ygra, Eater of All",{3}{B}{G},5.0,Legendary Creature — Elemental Cat,"Ward—Sacrifice a Food.
+Other creatures are Food artifacts in addition to their other types and have ""{2}, {T}, Sacrifice this permanent: You gain 3 life.""
+Whenever a Food is put into a graveyard from the battlefield, put two +1/+1 counters on Ygra.","B,G","B,G",mythic,BLB,Bloomburrow,294,6,6,,Ward
+"Ygra, Eater of All",{3}{B}{G},5.0,Legendary Creature — Elemental Cat,"Ward—Sacrifice a Food.
+Other creatures are Food artifacts in addition to their other types and have ""{2}, {T}, Sacrifice this permanent: You gain 3 life.""
+Whenever a Food is put into a graveyard from the battlefield, put two +1/+1 counters on Ygra.","B,G","B,G",mythic,BLB,Bloomburrow,241,6,6,,Ward
+"Ygra, Eater of All",{3}{B}{G},5.0,Legendary Creature — Elemental Cat,"Ward—Sacrifice a Food.
+Other creatures are Food artifacts in addition to their other types and have ""{2}, {T}, Sacrifice this permanent: You gain 3 life.""
+Whenever a Food is put into a graveyard from the battlefield, put two +1/+1 counters on Ygra.","B,G","B,G",mythic,PBLB,Bloomburrow Promos,241p,6,6,,Ward
+Youthful Valkyrie,{1}{W},2.0,Creature — Angel,"Flying
+Whenever another Angel you control enters, put a +1/+1 counter on this creature.",W,W,uncommon,PLST,The List,KHM-382,1,3,,Flying
+Youthful Valkyrie,{1}{W},2.0,Creature — Angel,"Flying
+Whenever another Angel you control enters, put a +1/+1 counter on this creature.",W,W,rare,SLD,Secret Lair Drop,1588,1,3,,Flying
+Youthful Valkyrie,{1}{W},2.0,Creature — Angel,"Flying
+Whenever another Angel you control enters, put a +1/+1 counter on this creature.",W,W,uncommon,J25,Foundations Jumpstart,280,1,3,,Flying
+Youthful Valkyrie,{1}{W},2.0,Creature — Angel,"Flying
+Whenever another Angel you control enters, put a +1/+1 counter on this creature.",W,W,uncommon,FDN,Foundations,149,1,3,,Flying
+Youthful Valkyrie,{1}{W},2.0,Creature — Angel,"Flying
+Whenever another Angel you control enters, put a +1/+1 counter on this creature.",W,W,uncommon,FDN,Foundations,303,1,3,,Flying
+Youthful Valkyrie,{1}{W},2.0,Creature — Angel,"Flying
+Whenever another Angel you control enters, put a +1/+1 counter on this creature.",W,W,uncommon,KHM,Kaldheim,382,1,3,,Flying
+"Yue, the Moon Spirit",{3}{U},4.0,Legendary Creature — Spirit Ally,"Flying, vigilance
+Waterbend {5}, {T}: You may cast a noncreature spell from your hand without paying its mana cost. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)",U,U,rare,TLA,Avatar: The Last Airbender,338,3,3,,Flying;Vigilance;Waterbend
+"Yue, the Moon Spirit",{3}{U},4.0,Legendary Creature — Spirit Ally,"Flying, vigilance
+Waterbend {5}, {T}: You may cast a noncreature spell from your hand without paying its mana cost. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)",U,U,rare,PTLA,Avatar: The Last Airbender Promos,83s,3,3,,Flying;Vigilance;Waterbend
+"Yue, the Moon Spirit",{3}{U},4.0,Legendary Creature — Spirit Ally,"Flying, vigilance
+Waterbend {5}, {T}: You may cast a noncreature spell from your hand without paying its mana cost. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)",U,U,rare,TLA,Avatar: The Last Airbender,83,3,3,,Flying;Vigilance;Waterbend
+"Yuna, Hope of Spira",{3}{G}{W},5.0,Legendary Creature — Human Cleric,"During your turn, Yuna and enchantment creatures you control have trample, lifelink, and ward {2}.
+At the beginning of your end step, return up to one target enchantment card from your graveyard to the battlefield with a finality counter on it. (If a permanent with a finality counter on it would be put into a graveyard from the battlefield, exile it instead.)","G,W","G,W",mythic,FIN,Final Fantasy,250,3,5,,
+"Yuna, Hope of Spira",{3}{G}{W},5.0,Legendary Creature — Human Cleric,"During your turn, Yuna and enchantment creatures you control have trample, lifelink, and ward {2}.
+At the beginning of your end step, return up to one target enchantment card from your graveyard to the battlefield with a finality counter on it. (If a permanent with a finality counter on it would be put into a graveyard from the battlefield, exile it instead.)","G,W","G,W",mythic,PFIN,Final Fantasy Promos,250s,3,5,,
+"Yuna, Hope of Spira",{3}{G}{W},5.0,Legendary Creature — Human Cleric,"During your turn, Yuna and enchantment creatures you control have trample, lifelink, and ward {2}.
+At the beginning of your end step, return up to one target enchantment card from your graveyard to the battlefield with a finality counter on it. (If a permanent with a finality counter on it would be put into a graveyard from the battlefield, exile it instead.)","G,W","G,W",mythic,FIN,Final Fantasy,404,3,5,,
+"Yuna, Hope of Spira",{3}{G}{W},5.0,Legendary Creature — Human Cleric,"During your turn, Yuna and enchantment creatures you control have trample, lifelink, and ward {2}.
+At the beginning of your end step, return up to one target enchantment card from your graveyard to the battlefield with a finality counter on it. (If a permanent with a finality counter on it would be put into a graveyard from the battlefield, exile it instead.)","G,W","G,W",mythic,FIN,Final Fantasy,517,3,5,,
+"Yuna, Hope of Spira",{3}{G}{W},5.0,Legendary Creature — Human Cleric,"During your turn, Yuna and enchantment creatures you control have trample, lifelink, and ward {2}.
+At the beginning of your end step, return up to one target enchantment card from your graveyard to the battlefield with a finality counter on it. (If a permanent with a finality counter on it would be put into a graveyard from the battlefield, exile it instead.)","G,W","G,W",mythic,FIN,Final Fantasy,571,3,5,,
+"Yuna, Hope of Spira",{3}{G}{W},5.0,Legendary Creature — Human Cleric,"During your turn, Yuna and enchantment creatures you control have trample, lifelink, and ward {2}.
+At the beginning of your end step, return up to one target enchantment card from your graveyard to the battlefield with a finality counter on it. (If a permanent with a finality counter on it would be put into a graveyard from the battlefield, exile it instead.)","G,W","G,W",mythic,FIN,Final Fantasy,549,3,5,,
+Yuyan Archers,{1}{R},2.0,Creature — Human Archer,"Reach
+When this creature enters, you may discard a card. If you do, draw a card.",R,R,common,TLA,Avatar: The Last Airbender,161,3,1,,Reach

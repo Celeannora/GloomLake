@@ -1,0 +1,59 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Obsessive Pursuit,{1}{B},2.0,Enchantment,"When this enchantment enters and at the beginning of your upkeep, you lose 1 life and create a Clue token. (It's an artifact with ""{2}, Sacrifice this token: Draw a card."")
+Whenever you attack, put X +1/+1 counters on target attacking creature, where X is the number of permanents you've sacrificed this turn. If X is three or greater, that creature gains lifelink until end of turn.",B,B,rare,TLA,Avatar: The Last Airbender,340,,,,
+Obsessive Pursuit,{1}{B},2.0,Enchantment,"When this enchantment enters and at the beginning of your upkeep, you lose 1 life and create a Clue token. (It's an artifact with ""{2}, Sacrifice this token: Draw a card."")
+Whenever you attack, put X +1/+1 counters on target attacking creature, where X is the number of permanents you've sacrificed this turn. If X is three or greater, that creature gains lifelink until end of turn.",B,B,rare,PTLA,Avatar: The Last Airbender Promos,112s,,,,
+Obsessive Pursuit,{1}{B},2.0,Enchantment,"When this enchantment enters and at the beginning of your upkeep, you lose 1 life and create a Clue token. (It's an artifact with ""{2}, Sacrifice this token: Draw a card."")
+Whenever you attack, put X +1/+1 counters on target attacking creature, where X is the number of permanents you've sacrificed this turn. If X is three or greater, that creature gains lifelink until end of turn.",B,B,rare,TLA,Avatar: The Last Airbender,112,,,,
+Omenpath Journey,{3}{G},4.0,Enchantment,"When this enchantment enters, search your library for up to five land cards that have different names, exile them, then shuffle.
+At the beginning of your end step, choose a card at random exiled with this enchantment and put it onto the battlefield tapped.",G,G,mythic,BIG,The Big Score,48,,,,
+Omenpath Journey,{3}{G},4.0,Enchantment,"When this enchantment enters, search your library for up to five land cards that have different names, exile them, then shuffle.
+At the beginning of your end step, choose a card at random exiled with this enchantment and put it onto the battlefield tapped.",G,G,mythic,BIG,The Big Score,83,,,,
+Omenpath Journey,{3}{G},4.0,Enchantment,"When this enchantment enters, search your library for up to five land cards that have different names, exile them, then shuffle.
+At the beginning of your end step, choose a card at random exiled with this enchantment and put it onto the battlefield tapped.",G,G,mythic,BIG,The Big Score,18,,,,
+Omniscience,{7}{U}{U}{U},10.0,Enchantment,You may cast spells from your hand without paying their mana costs.,U,U,mythic,M13,Magic 2013,63,,,,
+Omniscience,{7}{U}{U}{U},10.0,Enchantment,You may cast spells from your hand without paying their mana costs.,U,U,mythic,WOT,Wilds of Eldraine: Enchanting Tales,70,,,,
+Omniscience,{7}{U}{U}{U},10.0,Enchantment,You may cast spells from your hand without paying their mana costs.,U,U,special,MP2,Amonkhet Invocations,34,,,,
+Omniscience,{7}{U}{U}{U},10.0,Enchantment,You may cast spells from your hand without paying their mana costs.,U,U,mythic,FDN,Foundations,312,,,,
+Omniscience,{7}{U}{U}{U},10.0,Enchantment,You may cast spells from your hand without paying their mana costs.,U,U,rare,P22,Judge Gift Cards 2022,2,,,,
+Omniscience,{7}{U}{U}{U},10.0,Enchantment,You may cast spells from your hand without paying their mana costs.,U,U,mythic,FDN,Foundations,379,,,,
+Omniscience,{7}{U}{U}{U},10.0,Enchantment,You may cast spells from your hand without paying their mana costs.,U,U,mythic,PFDN,Foundations Promos,161s,,,,
+Omniscience,{7}{U}{U}{U},10.0,Enchantment,You may cast spells from your hand without paying their mana costs.,U,U,mythic,WOT,Wilds of Eldraine: Enchanting Tales,24,,,,
+Omniscience,{7}{U}{U}{U},10.0,Enchantment,You may cast spells from your hand without paying their mana costs.,U,U,mythic,FDN,Foundations,161,,,,
+Omniscience,{7}{U}{U}{U},10.0,Enchantment,You may cast spells from your hand without paying their mana costs.,U,U,mythic,WOT,Wilds of Eldraine: Enchanting Tales,90,,,,
+Omniscience,{7}{U}{U}{U},10.0,Enchantment,You may cast spells from your hand without paying their mana costs.,U,U,mythic,M19,Core Set 2019,65,,,,
+Omniscience,{7}{U}{U}{U},10.0,Enchantment,You may cast spells from your hand without paying their mana costs.,U,U,mythic,PM19,Core Set 2019 Promos,65s,,,,
+Ordeal of Nylea,{1}{G},2.0,Enchantment — Aura,"Enchant creature
+Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice this Aura.
+When you sacrifice this Aura, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",G,G,uncommon,FDN,Foundations,641,,,,Enchant
+Ordeal of Nylea,{1}{G},2.0,Enchantment — Aura,"Enchant creature
+Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice this Aura.
+When you sacrifice this Aura, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",G,G,uncommon,THS,Theros,170,,,,Enchant
+Ordeal of Nylea,{1}{G},2.0,Enchantment — Aura,"Enchant creature
+Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice this Aura.
+When you sacrifice this Aura, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",G,G,uncommon,CMR,Commander Legends,247,,,,Enchant
+Ordeal of Nylea,{1}{G},2.0,Enchantment — Aura,"Enchant creature
+Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice this Aura.
+When you sacrifice this Aura, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",G,G,uncommon,J22,Jumpstart 2022,699,,,,Enchant
+Ordeal of Nylea,{1}{G},2.0,Enchantment — Aura,"Enchant creature
+Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice this Aura.
+When you sacrifice this Aura, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",G,G,uncommon,NEC,Neon Dynasty Commander,123,,,,Enchant
+Origin of Spider-Man,{1}{W},2.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Create a 2/1 green Spider creature token with reach.
+II — Put a +1/+1 counter on target creature you control. It becomes a legendary Spider Hero in addition to its other types.
+III — Target creature you control gains double strike until end of turn.",W,W,rare,OM1,Through the Omenpaths,14,,,,
+Origin of Spider-Man,{1}{W},2.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Create a 2/1 green Spider creature token with reach.
+II — Put a +1/+1 counter on target creature you control. It becomes a legendary Spider Hero in addition to its other types.
+III — Target creature you control gains double strike until end of turn.",W,W,rare,PSPM,Marvel's Spider-Man Promos,9s,,,,
+Origin of Spider-Man,{1}{W},2.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Create a 2/1 green Spider creature token with reach.
+II — Put a +1/+1 counter on target creature you control. It becomes a legendary Spider Hero in addition to its other types.
+III — Target creature you control gains double strike until end of turn.",W,W,rare,SPM,Marvel's Spider-Man,218,,,,
+Origin of Spider-Man,{1}{W},2.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Create a 2/1 green Spider creature token with reach.
+II — Put a +1/+1 counter on target creature you control. It becomes a legendary Spider Hero in addition to its other types.
+III — Target creature you control gains double strike until end of turn.",W,W,rare,SPM,Marvel's Spider-Man,9,,,,
+Outpace Oblivion,{2}{R},3.0,Enchantment,"Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+When this enchantment enters, it deals 5 damage to up to one target creature or planeswalker.
+{2}, Sacrifice this enchantment: It deals 2 damage to each player who doesn't have max speed.",R,R,uncommon,DFT,Aetherdrift,139,,,,Start your engines!

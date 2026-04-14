@@ -1,0 +1,123 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Oakhollow Village,,0.0,Land,"{T}: Add {C}.
+{T}: Add {G}. Spend this mana only to cast a creature spell.
+{G}, {T}: Put a +1/+1 counter on each Frog, Rabbit, Raccoon, or Squirrel you control that entered the battlefield this turn.",,G,uncommon,BLB,Bloomburrow,258,,,,
+Omashu City,,0.0,Land,"This land enters tapped.
+{T}: Add {R} or {G}.
+{4}, {T}, Sacrifice this land: Draw a card.",,"G,R",common,TLA,Avatar: The Last Airbender,275,,,,
+Ominous Asylum,,0.0,Land,"This land enters tapped.
+{T}: Add {B} or {R}.
+{4}, {T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,"B,R",common,OM1,Through the Omenpaths,182,,,,Surveil
+Ominous Asylum,,0.0,Land,"This land enters tapped.
+{T}: Add {B} or {R}.
+{4}, {T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,"B,R",common,SPM,Marvel's Spider-Man,181,,,,Surveil
+Opulent Palace,,0.0,Land,"This land enters tapped.
+{T}: Add {B}, {G}, or {U}.",,"B,G,U",uncommon,CM2,Commander Anthology Volume II,260,,,,
+Opulent Palace,,0.0,Land,"This land enters tapped.
+{T}: Add {B}, {G}, or {U}.",,"B,G,U",uncommon,C17,Commander 2017,267,,,,
+Opulent Palace,,0.0,Land,"This land enters tapped.
+{T}: Add {B}, {G}, or {U}.",,"B,G,U",uncommon,KTK,Khans of Tarkir,238,,,,
+Opulent Palace,,0.0,Land,"This land enters tapped.
+{T}: Add {B}, {G}, or {U}.",,"B,G,U",uncommon,TDM,Tarkir: Dragonstorm,264,,,,
+Opulent Palace,,0.0,Land,"This land enters tapped.
+{T}: Add {B}, {G}, or {U}.",,"B,G,U",uncommon,C19,Commander 2019,264,,,,
+Opulent Palace,,0.0,Land,"This land enters tapped.
+{T}: Add {B}, {G}, or {U}.",,"B,G,U",uncommon,PIP,Fallout,278,,,,
+Opulent Palace,,0.0,Land,"This land enters tapped.
+{T}: Add {B}, {G}, or {U}.",,"B,G,U",uncommon,PLST,The List,OTC-307,,,,
+Opulent Palace,,0.0,Land,"This land enters tapped.
+{T}: Add {B}, {G}, or {U}.",,"B,G,U",uncommon,C16,Commander 2016,313,,,,
+Opulent Palace,,0.0,Land,"This land enters tapped.
+{T}: Add {B}, {G}, or {U}.",,"B,G,U",uncommon,PIP,Fallout,806,,,,
+Opulent Palace,,0.0,Land,"This land enters tapped.
+{T}: Add {B}, {G}, or {U}.",,"B,G,U",uncommon,C20,Commander 2020,295,,,,
+Opulent Palace,,0.0,Land,"This land enters tapped.
+{T}: Add {B}, {G}, or {U}.",,"B,G,U",uncommon,PLST,The List,KTK-238,,,,
+Opulent Palace,,0.0,Land,"This land enters tapped.
+{T}: Add {B}, {G}, or {U}.",,"B,G,U",uncommon,OTC,Outlaws of Thunder Junction Commander,307,,,,
+Opulent Palace,,0.0,Land,"This land enters tapped.
+{T}: Add {B}, {G}, or {U}.",,"B,G,U",uncommon,CMM,Commander Masters,1017,,,,
+Opulent Palace,,0.0,Land,"This land enters tapped.
+{T}: Add {B}, {G}, or {U}.",,"B,G,U",uncommon,DMC,Dominaria United Commander,223,,,,
+Opulent Palace,,0.0,Land,"This land enters tapped.
+{T}: Add {B}, {G}, or {U}.",,"B,G,U",uncommon,ECC,Lorwyn Eclipsed Commander,157,,,,
+Orzhov Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {W} or {B}.",,"B,W",common,GTC,Gatecrash,244,,,,
+Orzhov Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {W} or {B}.",,"B,W",common,C13,Commander 2013,312,,,,
+Orzhov Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {W} or {B}.",,"B,W",common,PIO,Pioneer Masters,271,,,,
+Orzhov Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {W} or {B}.",,"B,W",common,C17,Commander 2017,269,,,,
+Orzhov Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {W} or {B}.",,"B,W",common,C15,Commander 2015,299,,,,
+Orzhov Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {W} or {B}.",,"B,W",common,C18,Commander 2018,272,,,,
+Orzhov Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {W} or {B}.",,"B,W",common,PLST,The List,RNA-253,,,,
+Orzhov Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {W} or {B}.",,"B,W",common,DGM,Dragon's Maze,153,,,,
+Orzhov Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {W} or {B}.",,"B,W",common,RVR,Ravnica Remastered,406,,,,
+Orzhov Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {W} or {B}.",,"B,W",common,RVR,Ravnica Remastered,282,,,,
+Orzhov Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {W} or {B}.",,"B,W",common,FDN,Foundations,692,,,,
+Orzhov Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {W} or {B}.",,"B,W",common,MM3,Modern Masters 2017,241,,,,
+Orzhov Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {W} or {B}.",,"B,W",common,RNA,Ravnica Allegiance,252,,,,
+Orzhov Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {W} or {B}.",,"B,W",common,WAR,War of the Spark,269,,,,
+Orzhov Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {W} or {B}.",,"B,W",common,CLU,Ravnica: Clue Edition,242,,,,
+Orzhov Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {W} or {B}.",,"B,W",common,RNA,Ravnica Allegiance,253,,,,
+Oscorp Industries,,0.0,Land,"This land enters tapped.
+When this land enters from a graveyard, you lose 2 life.
+{T}: Add {U}, {B}, or {R}.
+Mayhem (You may play this card from your graveyard if you discarded it this turn. Timing rules still apply.)",,"B,R,U",rare,SPM,Marvel's Spider-Man,182,,,,Mayhem
+Oscorp Industries,,0.0,Land,"This land enters tapped.
+When this land enters from a graveyard, you lose 2 life.
+{T}: Add {U}, {B}, or {R}.
+Mayhem (You may play this card from your graveyard if you discarded it this turn. Timing rules still apply.)",,"B,R,U",rare,PSPM,Marvel's Spider-Man Promos,182s,,,,Mayhem
+Oscorp Industries,,0.0,Land,"This land enters tapped.
+When this land enters from a graveyard, you lose 2 life.
+{T}: Add {U}, {B}, or {R}.
+Mayhem (You may play this card from your graveyard if you discarded it this turn. Timing rules still apply.)",,"B,R,U",rare,SPM,Marvel's Spider-Man,282,,,,Mayhem
+Oscorp Industries,,0.0,Land,"This land enters tapped.
+When this land enters from a graveyard, you lose 2 life.
+{T}: Add {U}, {B}, or {R}.
+Mayhem (You may play this card from your graveyard if you discarded it this turn. Timing rules still apply.)",,"B,R,U",rare,OM1,Through the Omenpaths,179,,,,Mayhem
+Overgrown Tomb,,0.0,Land — Swamp Forest,"({T}: Add {B} or {G}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"B,G",rare,RVR,Ravnica Remastered,407z,,,,
+Overgrown Tomb,,0.0,Land — Swamp Forest,"({T}: Add {B} or {G}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"B,G",rare,RVR,Ravnica Remastered,407,,,,
+Overgrown Tomb,,0.0,Land — Swamp Forest,"({T}: Add {B} or {G}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"B,G",rare,RTR,Return to Ravnica,243,,,,
+Overgrown Tomb,,0.0,Land — Swamp Forest,"({T}: Add {B} or {G}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"B,G",rare,CLU,Ravnica: Clue Edition,278,,,,
+Overgrown Tomb,,0.0,Land — Swamp Forest,"({T}: Add {B} or {G}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"B,G",rare,ECL,Lorwyn Eclipsed,266,,,,
+Overgrown Tomb,,0.0,Land — Swamp Forest,"({T}: Add {B} or {G}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"B,G",rare,RVR,Ravnica Remastered,283,,,,
+Overgrown Tomb,,0.0,Land — Swamp Forest,"({T}: Add {B} or {G}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"B,G",rare,SLD,Secret Lair Drop,130,,,,
+Overgrown Tomb,,0.0,Land — Swamp Forest,"({T}: Add {B} or {G}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"B,G",rare,UNF,Unfinity,535,,,,
+Overgrown Tomb,,0.0,Land — Swamp Forest,"({T}: Add {B} or {G}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"B,G",rare,RVR,Ravnica Remastered,296,,,,
+Overgrown Tomb,,0.0,Land — Swamp Forest,"({T}: Add {B} or {G}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"B,G",mythic,EXP,Zendikar Expeditions,13,,,,
+Overgrown Tomb,,0.0,Land — Swamp Forest,"({T}: Add {B} or {G}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"B,G",rare,UNF,Unfinity,284,,,,
+Overgrown Tomb,,0.0,Land — Swamp Forest,"({T}: Add {B} or {G}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"B,G",rare,PRM,Magic Online Promos,72315,,,,
+Overgrown Tomb,,0.0,Land — Swamp Forest,"({T}: Add {B} or {G}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"B,G",rare,GRN,Guilds of Ravnica,253,,,,
+Overgrown Tomb,,0.0,Land — Swamp Forest,"({T}: Add {B} or {G}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"B,G",rare,PGRN,Guilds of Ravnica Promos,253p,,,,
+Overgrown Tomb,,0.0,Land — Swamp Forest,"({T}: Add {B} or {G}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"B,G",rare,RAV,Ravnica: City of Guilds,279,,,,
+Overgrown Tomb,,0.0,Land — Swamp Forest,"({T}: Add {B} or {G}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"B,G",rare,PECL,Lorwyn Eclipsed Promos,266p,,,,

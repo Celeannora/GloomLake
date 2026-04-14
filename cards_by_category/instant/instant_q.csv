@@ -1,0 +1,6 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Quick Draw,{R},1.0,Instant,Target creature you control gets +1/+1 and gains first strike until end of turn. Creatures target opponent controls lose first strike and double strike until end of turn.,R,R,common,OTJ,Outlaws of Thunder Junction,138,,,,
+Quick Study,{2}{U},3.0,Instant,Draw two cards.,U,U,common,FDN,Foundations,513,,,,
+Quick Study,{2}{U},3.0,Instant,Draw two cards.,U,U,common,WOE,Wilds of Eldraine,65,,,,
+Quicksand Whirlpool,{5}{W},6.0,Instant,"This spell costs {3} less to cast if it targets a tapped creature.
+Exile target creature.",W,W,common,LCI,The Lost Caverns of Ixalan,31,,,,

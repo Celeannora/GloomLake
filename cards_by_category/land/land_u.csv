@@ -1,0 +1,72 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Uncharted Haven,,0.0,Land,"This land enters tapped. As it enters, choose a color.
+{T}: Add one mana of the chosen color.",,,common,FDN,Foundations,564,,,,
+Uncharted Haven,,0.0,Land,"This land enters tapped. As it enters, choose a color.
+{T}: Add one mana of the chosen color.",,,common,NEO,Kamigawa: Neon Dynasty,281,,,,
+Uncharted Haven,,0.0,Land,"This land enters tapped. As it enters, choose a color.
+{T}: Add one mana of the chosen color.",,,common,BLB,Bloomburrow,261,,,,
+Undercity Sewers,,0.0,Land — Island Swamp,"({T}: Add {U} or {B}.)
+This land enters tapped.
+When this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,"B,U",mythic,PZA,Teenage Mutant Ninja Turtles Source Material,20,,,,Surveil
+Undercity Sewers,,0.0,Land — Island Swamp,"({T}: Add {U} or {B}.)
+This land enters tapped.
+When this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,"B,U",rare,MKM,Murders at Karlov Manor,270,,,,Surveil
+Undercity Sewers,,0.0,Land — Island Swamp,"({T}: Add {U} or {B}.)
+This land enters tapped.
+When this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,"B,U",rare,MKM,Murders at Karlov Manor,332,,,,Surveil
+Undercity Sewers,,0.0,Land — Island Swamp,"({T}: Add {U} or {B}.)
+This land enters tapped.
+When this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,"B,U",rare,PMKM,Murders at Karlov Manor Promos,270p,,,,Surveil
+Undercity Sewers,,0.0,Land — Island Swamp,"({T}: Add {U} or {B}.)
+This land enters tapped.
+When this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,"B,U",rare,PMKM,Murders at Karlov Manor Promos,270s,,,,Surveil
+Underground Mortuary,,0.0,Land — Swamp Forest,"({T}: Add {B} or {G}.)
+This land enters tapped.
+When this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,"B,G",rare,MKM,Murders at Karlov Manor,333,,,,Surveil
+Underground Mortuary,,0.0,Land — Swamp Forest,"({T}: Add {B} or {G}.)
+This land enters tapped.
+When this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,"B,G",rare,PMKM,Murders at Karlov Manor Promos,271p,,,,Surveil
+Underground Mortuary,,0.0,Land — Swamp Forest,"({T}: Add {B} or {G}.)
+This land enters tapped.
+When this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,"B,G",rare,PMKM,Murders at Karlov Manor Promos,271s,,,,Surveil
+Underground Mortuary,,0.0,Land — Swamp Forest,"({T}: Add {B} or {G}.)
+This land enters tapped.
+When this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,"B,G",rare,MKM,Murders at Karlov Manor,271,,,,Surveil
+University Campus,,0.0,Land,"This land enters tapped.
+{T}: Add {W} or {U}.
+{4}, {T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,"U,W",common,SPM,Marvel's Spider-Man,186,,,,Surveil
+University Campus,,0.0,Land,"This land enters tapped.
+{T}: Add {W} or {U}.
+{4}, {T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,"U,W",common,OM1,Through the Omenpaths,186,,,,Surveil
+Urban Retreat,,0.0,Land,"This land enters tapped.
+{T}: Add {G}, {W}, or {U}.
+{2}, Return a tapped creature you control to its owner's hand: Put this card from your hand onto the battlefield. Activate only as a sorcery.",,"G,U,W",rare,SPM,Marvel's Spider-Man,187,,,,
+Urban Retreat,,0.0,Land,"This land enters tapped.
+{T}: Add {G}, {W}, or {U}.
+{2}, Return a tapped creature you control to its owner's hand: Put this card from your hand onto the battlefield. Activate only as a sorcery.",,"G,U,W",rare,OM1,Through the Omenpaths,187,,,,
+Urban Retreat,,0.0,Land,"This land enters tapped.
+{T}: Add {G}, {W}, or {U}.
+{2}, Return a tapped creature you control to its owner's hand: Put this card from your hand onto the battlefield. Activate only as a sorcery.",,"G,U,W",rare,PSPM,Marvel's Spider-Man Promos,187s,,,,
+Urban Retreat,,0.0,Land,"This land enters tapped.
+{T}: Add {G}, {W}, or {U}.
+{2}, Return a tapped creature you control to its owner's hand: Put this card from your hand onto the battlefield. Activate only as a sorcery.",,"G,U,W",rare,SPM,Marvel's Spider-Man,283,,,,
+"Uthros, Titanic Godcore",,0.0,Land — Planet,"This land enters tapped.
+{T}: Add {U}.
+Station (Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)
+12+ | {U}, {T}: Add {U} for each artifact you control.",,U,mythic,EOE,Edge of Eternities,260,,,,Station
+"Uthros, Titanic Godcore",,0.0,Land — Planet,"This land enters tapped.
+{T}: Add {U}.
+Station (Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)
+12+ | {U}, {T}: Add {U} for each artifact you control.",,U,mythic,EOE,Edge of Eternities,380,,,,Station
+"Uthros, Titanic Godcore",,0.0,Land — Planet,"This land enters tapped.
+{T}: Add {U}.
+Station (Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)
+12+ | {U}, {T}: Add {U} for each artifact you control.",,U,mythic,PEOE,Edge of Eternities Promos,260p,,,,Station
+"Uthros, Titanic Godcore",,0.0,Land — Planet,"This land enters tapped.
+{T}: Add {U}.
+Station (Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)
+12+ | {U}, {T}: Add {U} for each artifact you control.",,U,mythic,EOE,Edge of Eternities,285,,,,Station
+"Uthros, Titanic Godcore",,0.0,Land — Planet,"This land enters tapped.
+{T}: Add {U}.
+Station (Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)
+12+ | {U}, {T}: Add {U} for each artifact you control.",,U,mythic,PEOE,Edge of Eternities Promos,260s,,,,Station

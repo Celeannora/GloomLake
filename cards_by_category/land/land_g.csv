@@ -1,0 +1,125 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Gloomlake Verge,,0.0,Land,"{T}: Add {U}.
+{T}: Add {B}. Activate only if you control an Island or a Swamp.",,"B,U",rare,PDSK,Duskmourn: House of Horror Promos,260s,,,,
+Gloomlake Verge,,0.0,Land,"{T}: Add {U}.
+{T}: Add {B}. Activate only if you control an Island or a Swamp.",,"B,U",rare,DSK,Duskmourn: House of Horror,260,,,,
+Gloomlake Verge,,0.0,Land,"{T}: Add {U}.
+{T}: Add {B}. Activate only if you control an Island or a Swamp.",,"B,U",rare,DSK,Duskmourn: House of Horror,331,,,,
+Gloomlake Verge,,0.0,Land,"{T}: Add {U}.
+{T}: Add {B}. Activate only if you control an Island or a Swamp.",,"B,U",rare,PDSK,Duskmourn: House of Horror Promos,260p,,,,
+Godless Shrine,,0.0,Land — Plains Swamp,"({T}: Add {W} or {B}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"B,W",rare,UNF,Unfinity,533,,,,
+Godless Shrine,,0.0,Land — Plains Swamp,"({T}: Add {W} or {B}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"B,W",rare,PRNA,Ravnica Allegiance Promos,248p,,,,
+Godless Shrine,,0.0,Land — Plains Swamp,"({T}: Add {W} or {B}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"B,W",rare,RVR,Ravnica Remastered,294,,,,
+Godless Shrine,,0.0,Land — Plains Swamp,"({T}: Add {W} or {B}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"B,W",rare,GTC,Gatecrash,242,,,,
+Godless Shrine,,0.0,Land — Plains Swamp,"({T}: Add {W} or {B}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"B,W",rare,EOE,Edge of Eternities,280,,,,
+Godless Shrine,,0.0,Land — Plains Swamp,"({T}: Add {W} or {B}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"B,W",rare,PEOE,Edge of Eternities Promos,254p,,,,
+Godless Shrine,,0.0,Land — Plains Swamp,"({T}: Add {W} or {B}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"B,W",rare,EOE,Edge of Eternities,254,,,,
+Godless Shrine,,0.0,Land — Plains Swamp,"({T}: Add {W} or {B}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"B,W",rare,RVR,Ravnica Remastered,277,,,,
+Godless Shrine,,0.0,Land — Plains Swamp,"({T}: Add {W} or {B}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"B,W",rare,UNF,Unfinity,282,,,,
+Godless Shrine,,0.0,Land — Plains Swamp,"({T}: Add {W} or {B}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"B,W",rare,GPT,Guildpact,157,,,,
+Godless Shrine,,0.0,Land — Plains Swamp,"({T}: Add {W} or {B}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"B,W",rare,PEOE,Edge of Eternities Promos,254s,,,,
+Godless Shrine,,0.0,Land — Plains Swamp,"({T}: Add {W} or {B}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"B,W",rare,RNA,Ravnica Allegiance,248,,,,
+Godless Shrine,,0.0,Land — Plains Swamp,"({T}: Add {W} or {B}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"B,W",rare,PRM,Magic Online Promos,72305,,,,
+Godless Shrine,,0.0,Land — Plains Swamp,"({T}: Add {W} or {B}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"B,W",rare,EOE,Edge of Eternities,375,,,,
+Godless Shrine,,0.0,Land — Plains Swamp,"({T}: Add {W} or {B}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"B,W",mythic,EXP,Zendikar Expeditions,11,,,,
+Godless Shrine,,0.0,Land — Plains Swamp,"({T}: Add {W} or {B}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"B,W",rare,CLU,Ravnica: Clue Edition,276,,,,
+Godless Shrine,,0.0,Land — Plains Swamp,"({T}: Add {W} or {B}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"B,W",rare,SLD,Secret Lair Drop,128,,,,
+Godless Shrine,,0.0,Land — Plains Swamp,"({T}: Add {W} or {B}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"B,W",rare,RVR,Ravnica Remastered,401z,,,,
+Godless Shrine,,0.0,Land — Plains Swamp,"({T}: Add {W} or {B}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"B,W",rare,RVR,Ravnica Remastered,401,,,,
+"Gohn, Town of Ruin",,0.0,Land — Town,"This land enters tapped.
+{T}: Add {B} or {G}.",,"B,G",common,FIN,Final Fantasy,278,,,,
+Golgari Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {B} or {G}.",,"B,G",common,DGM,Dragon's Maze,149,,,,
+Golgari Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {B} or {G}.",,"B,G",common,C15,Commander 2015,286,,,,
+Golgari Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {B} or {G}.",,"B,G",common,PLST,The List,GRN-248,,,,
+Golgari Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {B} or {G}.",,"B,G",common,CMA,Commander Anthology,252,,,,
+Golgari Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {B} or {G}.",,"B,G",common,RVR,Ravnica Remastered,402,,,,
+Golgari Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {B} or {G}.",,"B,G",common,RVR,Ravnica Remastered,278,,,,
+Golgari Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {B} or {G}.",,"B,G",common,DDM,Duel Decks: Jace vs. Vraska,76,,,,
+Golgari Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {B} or {G}.",,"B,G",common,MM3,Modern Masters 2017,235,,,,
+Golgari Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {B} or {G}.",,"B,G",common,KHC,Kaldheim Commander,111,,,,
+Golgari Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {B} or {G}.",,"B,G",common,C13,Commander 2013,290,,,,
+Golgari Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {B} or {G}.",,"B,G",common,GRN,Guilds of Ravnica,248,,,,
+Golgari Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {B} or {G}.",,"B,G",common,RTR,Return to Ravnica,239,,,,
+Golgari Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {B} or {G}.",,"B,G",common,FDN,Foundations,689,,,,
+Golgari Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {B} or {G}.",,"B,G",common,C19,Commander 2019,247,,,,
+Golgari Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {B} or {G}.",,"B,G",common,PIO,Pioneer Masters,263,,,,
+Golgari Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {B} or {G}.",,"B,G",common,GRN,Guilds of Ravnica,249,,,,
+Golgari Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {B} or {G}.",,"B,G",common,CLU,Ravnica: Clue Edition,235,,,,
+"Gongaga, Reactor Town",,0.0,Land — Town,"This land enters tapped.
+{T}: Add {R} or {G}.",,"G,R",common,FIN,Final Fantasy,280,,,,
+Great Arashin City,,0.0,Land,"This land enters tapped unless you control a Forest or a Plains.
+{T}: Add {B}.
+{1}{B}, {T}, Exile a creature card from your graveyard: Create a 1/1 white Spirit creature token.",,B,rare,PTDM,Tarkir: Dragonstorm Promos,257p,,,,
+Great Arashin City,,0.0,Land,"This land enters tapped unless you control a Forest or a Plains.
+{T}: Add {B}.
+{1}{B}, {T}, Exile a creature card from your graveyard: Create a 1/1 white Spirit creature token.",,B,rare,PTDM,Tarkir: Dragonstorm Promos,257s,,,,
+Great Arashin City,,0.0,Land,"This land enters tapped unless you control a Forest or a Plains.
+{T}: Add {B}.
+{1}{B}, {T}, Exile a creature card from your graveyard: Create a 1/1 white Spirit creature token.",,B,rare,TDM,Tarkir: Dragonstorm,395,,,,
+Great Arashin City,,0.0,Land,"This land enters tapped unless you control a Forest or a Plains.
+{T}: Add {B}.
+{1}{B}, {T}, Exile a creature card from your graveyard: Create a 1/1 white Spirit creature token.",,B,rare,TDM,Tarkir: Dragonstorm,257,,,,
+Gruul Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {R} or {G}.",,"G,R",common,RVR,Ravnica Remastered,279,,,,
+Gruul Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {R} or {G}.",,"G,R",common,DGM,Dragon's Maze,150,,,,
+Gruul Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {R} or {G}.",,"G,R",common,RNA,Ravnica Allegiance,249,,,,
+Gruul Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {R} or {G}.",,"G,R",common,PLST,The List,RNA-249,,,,
+Gruul Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {R} or {G}.",,"G,R",common,FDN,Foundations,690,,,,
+Gruul Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {R} or {G}.",,"G,R",common,MM3,Modern Masters 2017,236,,,,
+Gruul Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {R} or {G}.",,"G,R",common,PIO,Pioneer Masters,264,,,,
+Gruul Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {R} or {G}.",,"G,R",common,RVR,Ravnica Remastered,403,,,,
+Gruul Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {R} or {G}.",,"G,R",common,RNA,Ravnica Allegiance,250,,,,
+Gruul Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {R} or {G}.",,"G,R",common,GTC,Gatecrash,243,,,,
+Gruul Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {R} or {G}.",,"G,R",common,C13,Commander 2013,294,,,,
+Gruul Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {R} or {G}.",,"G,R",common,CLU,Ravnica: Clue Edition,237,,,,
+Gruul Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {R} or {G}.",,"G,R",common,ZNC,Zendikar Rising Commander,130,,,,
+"Guadosalam, Farplane Gateway",,0.0,Land — Town,"This land enters tapped.
+{T}: Add {G} or {U}.",,"G,U",common,FIN,Final Fantasy,281,,,,

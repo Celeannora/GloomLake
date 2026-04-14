@@ -1,0 +1,261 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+"Lady Octopus, Inspired Inventor",{U},1.0,Legendary Creature — Human Scientist Villain,"Whenever you draw your first or second card each turn, put an ingenuity counter on Lady Octopus.
+{T}: You may cast an artifact spell from your hand with mana value less than or equal to the number of ingenuity counters on Lady Octopus without paying its mana cost.",U,U,rare,SPM,Marvel's Spider-Man,252,0,2,,
+"Lady Octopus, Inspired Inventor",{U},1.0,Legendary Creature — Human Scientist Villain,"Whenever you draw your first or second card each turn, put an ingenuity counter on Lady Octopus.
+{T}: You may cast an artifact spell from your hand with mana value less than or equal to the number of ingenuity counters on Lady Octopus without paying its mana cost.",U,U,rare,PSPM,Marvel's Spider-Man Promos,35s,0,2,,
+"Lady Octopus, Inspired Inventor",{U},1.0,Legendary Creature — Human Scientist Villain,"Whenever you draw your first or second card each turn, put an ingenuity counter on Lady Octopus.
+{T}: You may cast an artifact spell from your hand with mana value less than or equal to the number of ingenuity counters on Lady Octopus without paying its mana cost.",U,U,rare,SPM,Marvel's Spider-Man,35,0,2,,
+"Lady Octopus, Inspired Inventor",{U},1.0,Legendary Creature — Human Scientist Villain,"Whenever you draw your first or second card each turn, put an ingenuity counter on Lady Octopus.
+{T}: You may cast an artifact spell from your hand with mana value less than or equal to the number of ingenuity counters on Lady Octopus without paying its mana cost.",U,U,rare,OM1,Through the Omenpaths,34,0,2,,
+Lady of Laughter,{3}{W}{W},5.0,Creature — Faerie Noble,"Flying
+Celebration — At the beginning of your end step, if two or more nonland permanents entered the battlefield under your control this turn, draw a card.",W,W,rare,WOE,Wilds of Eldraine,370,4,5,,Flying;Celebration
+Lady of Laughter,{3}{W}{W},5.0,Creature — Faerie Noble,"Flying
+Celebration — At the beginning of your end step, if two or more nonland permanents entered the battlefield under your control this turn, draw a card.",W,W,rare,WOE,Wilds of Eldraine,309,4,5,,Flying;Celebration
+"Lagorin, Soul of Alacria",{G}{W},2.0,Legendary Creature — Beast Mount,"Flying
+Whenever Lagorin attacks while saddled, put a +1/+1 counter on each of up to two target Mounts and/or Vehicles.
+Saddle 1 (Tap any number of other creatures you control with total power 1 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)","G,W","G,W",uncommon,DFT,Aetherdrift,211,1,1,,Flying;Saddle
+Lamplight Phoenix,{1}{R}{R},3.0,Creature — Phoenix,"Flying
+When this creature dies, you may exile it and collect evidence 4. If you do, return this card to the battlefield tapped. (To collect evidence 4, exile cards with total mana value 4 or greater from your graveyard.)",R,R,rare,MKM,Murders at Karlov Manor,137,3,3,,Flying;Collect evidence
+Lamplight Phoenix,{1}{R}{R},3.0,Creature — Phoenix,"Flying
+When this creature dies, you may exile it and collect evidence 4. If you do, return this card to the battlefield tapped. (To collect evidence 4, exile cards with total mana value 4 or greater from your graveyard.)",R,R,rare,PMKM,Murders at Karlov Manor Promos,137s,3,3,,Flying;Collect evidence
+Lamplight Phoenix,{1}{R}{R},3.0,Creature — Phoenix,"Flying
+When this creature dies, you may exile it and collect evidence 4. If you do, return this card to the battlefield tapped. (To collect evidence 4, exile cards with total mana value 4 or greater from your graveyard.)",R,R,rare,PMKM,Murders at Karlov Manor Promos,137p,3,3,,Flying;Collect evidence
+Lamplight Phoenix,{1}{R}{R},3.0,Creature — Phoenix,"Flying
+When this creature dies, you may exile it and collect evidence 4. If you do, return this card to the battlefield tapped. (To collect evidence 4, exile cards with total mana value 4 or greater from your graveyard.)",R,R,rare,MKM,Murders at Karlov Manor,406,3,3,,Flying;Collect evidence
+Lashwhip Predator,{4}{G}{G},6.0,Creature — Plant Beast,"This spell costs {2} less to cast if your opponents control three or more creatures.
+Reach",G,G,uncommon,EOE,Edge of Eternities,195,5,7,,Reach
+Lasyd Prowler,{2}{G}{G},4.0,Creature — Snake Ranger,"When this creature enters, you may mill cards equal to the number of lands you control.
+Renew — {1}{G}, Exile this card from your graveyard: Put X +1/+1 counters on target creature, where X is the number of land cards in your graveyard. Activate only as a sorcery.",G,G,rare,TDM,Tarkir: Dragonstorm,348,5,5,,Renew;Mill
+Lasyd Prowler,{2}{G}{G},4.0,Creature — Snake Ranger,"When this creature enters, you may mill cards equal to the number of lands you control.
+Renew — {1}{G}, Exile this card from your graveyard: Put X +1/+1 counters on target creature, where X is the number of land cards in your graveyard. Activate only as a sorcery.",G,G,rare,PTDM,Tarkir: Dragonstorm Promos,149p,5,5,,Renew;Mill
+Lasyd Prowler,{2}{G}{G},4.0,Creature — Snake Ranger,"When this creature enters, you may mill cards equal to the number of lands you control.
+Renew — {1}{G}, Exile this card from your graveyard: Put X +1/+1 counters on target creature, where X is the number of land cards in your graveyard. Activate only as a sorcery.",G,G,rare,PTDM,Tarkir: Dragonstorm Promos,149s,5,5,,Renew;Mill
+Lasyd Prowler,{2}{G}{G},4.0,Creature — Snake Ranger,"When this creature enters, you may mill cards equal to the number of lands you control.
+Renew — {1}{G}, Exile this card from your graveyard: Put X +1/+1 counters on target creature, where X is the number of land cards in your graveyard. Activate only as a sorcery.",G,G,rare,TDM,Tarkir: Dragonstorm,149,5,5,,Renew;Mill
+"Lathliss, Dragon Queen",{4}{R}{R},6.0,Legendary Creature — Dragon,"Flying
+Whenever another nontoken Dragon you control enters, create a 5/5 red Dragon creature token with flying.
+{1}{R}: Dragons you control get +1/+0 until end of turn.",R,R,rare,TDC,Tarkir: Dragonstorm Commander,219,6,6,,Flying
+"Lathliss, Dragon Queen",{4}{R}{R},6.0,Legendary Creature — Dragon,"Flying
+Whenever another nontoken Dragon you control enters, create a 5/5 red Dragon creature token with flying.
+{1}{R}: Dragons you control get +1/+0 until end of turn.",R,R,rare,SLD,Secret Lair Drop,1145,6,6,,Flying
+"Lathliss, Dragon Queen",{4}{R}{R},6.0,Legendary Creature — Dragon,"Flying
+Whenever another nontoken Dragon you control enters, create a 5/5 red Dragon creature token with flying.
+{1}{R}: Dragons you control get +1/+0 until end of turn.",R,R,rare,PLST,The List,GN2-41,6,6,,Flying
+"Lathliss, Dragon Queen",{4}{R}{R},6.0,Legendary Creature — Dragon,"Flying
+Whenever another nontoken Dragon you control enters, create a 5/5 red Dragon creature token with flying.
+{1}{R}: Dragons you control get +1/+0 until end of turn.",R,R,rare,SLD,Secret Lair Drop,1146,6,6,,Flying
+"Lathliss, Dragon Queen",{4}{R}{R},6.0,Legendary Creature — Dragon,"Flying
+Whenever another nontoken Dragon you control enters, create a 5/5 red Dragon creature token with flying.
+{1}{R}: Dragons you control get +1/+0 until end of turn.",R,R,rare,PM19,Core Set 2019 Promos,149s,6,6,,Flying
+"Lathliss, Dragon Queen",{4}{R}{R},6.0,Legendary Creature — Dragon,"Flying
+Whenever another nontoken Dragon you control enters, create a 5/5 red Dragon creature token with flying.
+{1}{R}: Dragons you control get +1/+0 until end of turn.",R,R,rare,FDN,Foundations,627,6,6,,Flying
+"Lathliss, Dragon Queen",{4}{R}{R},6.0,Legendary Creature — Dragon,"Flying
+Whenever another nontoken Dragon you control enters, create a 5/5 red Dragon creature token with flying.
+{1}{R}: Dragons you control get +1/+0 until end of turn.",R,R,rare,GN2,Game Night 2019,41,6,6,,Flying
+"Lathliss, Dragon Queen",{4}{R}{R},6.0,Legendary Creature — Dragon,"Flying
+Whenever another nontoken Dragon you control enters, create a 5/5 red Dragon creature token with flying.
+{1}{R}: Dragons you control get +1/+0 until end of turn.",R,R,rare,M19,Core Set 2019,149,6,6,,Flying
+"Lathliss, Dragon Queen",{4}{R}{R},6.0,Legendary Creature — Dragon,"Flying
+Whenever another nontoken Dragon you control enters, create a 5/5 red Dragon creature token with flying.
+{1}{R}: Dragons you control get +1/+0 until end of turn.",R,R,rare,J22,Jumpstart 2022,566,6,6,,Flying
+"Lathliss, Dragon Queen",{4}{R}{R},6.0,Legendary Creature — Dragon,"Flying
+Whenever another nontoken Dragon you control enters, create a 5/5 red Dragon creature token with flying.
+{1}{R}: Dragons you control get +1/+0 until end of turn.",R,R,rare,JMP,Jumpstart,340,6,6,,Flying
+"Lathliss, Dragon Queen",{4}{R}{R},6.0,Legendary Creature — Dragon,"Flying
+Whenever another nontoken Dragon you control enters, create a 5/5 red Dragon creature token with flying.
+{1}{R}: Dragons you control get +1/+0 until end of turn.",R,R,rare,J25,Foundations Jumpstart,74,6,6,,Flying
+"Lathliss, Dragon Queen",{4}{R}{R},6.0,Legendary Creature — Dragon,"Flying
+Whenever another nontoken Dragon you control enters, create a 5/5 red Dragon creature token with flying.
+{1}{R}: Dragons you control get +1/+0 until end of turn.",R,R,rare,PM19,Core Set 2019 Promos,149★,6,6,,Flying
+"Lathril, Blade of the Elves",{2}{B}{G},4.0,Legendary Creature — Elf Noble,"Menace (This creature can't be blocked except by two or more creatures.)
+Whenever Lathril deals combat damage to a player, create that many 1/1 green Elf Warrior creature tokens.
+{T}, Tap ten untapped Elves you control: Each opponent loses 10 life and you gain 10 life.","B,G","B,G",rare,PFDN,Foundations Promos,242s,2,3,,Menace
+"Lathril, Blade of the Elves",{2}{B}{G},4.0,Legendary Creature — Elf Noble,"Menace (This creature can't be blocked except by two or more creatures.)
+Whenever Lathril deals combat damage to a player, create that many 1/1 green Elf Warrior creature tokens.
+{T}, Tap ten untapped Elves you control: Each opponent loses 10 life and you gain 10 life.","B,G","B,G",mythic,PKHM,Kaldheim Promos,2★,2,3,,Menace
+"Lathril, Blade of the Elves",{2}{B}{G},4.0,Legendary Creature — Elf Noble,"Menace (This creature can't be blocked except by two or more creatures.)
+Whenever Lathril deals combat damage to a player, create that many 1/1 green Elf Warrior creature tokens.
+{T}, Tap ten untapped Elves you control: Each opponent loses 10 life and you gain 10 life.","B,G","B,G",mythic,KHC,Kaldheim Commander,1,2,3,,Menace
+"Lathril, Blade of the Elves",{2}{B}{G},4.0,Legendary Creature — Elf Noble,"Menace (This creature can't be blocked except by two or more creatures.)
+Whenever Lathril deals combat damage to a player, create that many 1/1 green Elf Warrior creature tokens.
+{T}, Tap ten untapped Elves you control: Each opponent loses 10 life and you gain 10 life.","B,G","B,G",rare,FDN,Foundations,349,2,3,,Menace
+"Lathril, Blade of the Elves",{2}{B}{G},4.0,Legendary Creature — Elf Noble,"Menace (This creature can't be blocked except by two or more creatures.)
+Whenever Lathril deals combat damage to a player, create that many 1/1 green Elf Warrior creature tokens.
+{T}, Tap ten untapped Elves you control: Each opponent loses 10 life and you gain 10 life.","B,G","B,G",rare,FDN,Foundations,242,2,3,,Menace
+"Lathril, Blade of the Elves",{2}{B}{G},4.0,Legendary Creature — Elf Noble,"Menace (This creature can't be blocked except by two or more creatures.)
+Whenever Lathril deals combat damage to a player, create that many 1/1 green Elf Warrior creature tokens.
+{T}, Tap ten untapped Elves you control: Each opponent loses 10 life and you gain 10 life.","B,G","B,G",rare,FDN,Foundations,410,2,3,,Menace
+Laughing Jasper Flint,{1}{B}{R},3.0,Legendary Creature — Lizard Rogue,"Creatures you control but don't own are Mercenaries in addition to their other types.
+At the beginning of your upkeep, exile the top X cards of target opponent's library, where X is the number of outlaws you control. Until end of turn, you may cast spells from among those cards, and mana of any type can be spent to cast those spells.","B,R","B,R",rare,SLP,Secret Lair Promo,44,4,3,,
+Laughing Jasper Flint,{1}{B}{R},3.0,Legendary Creature — Lizard Rogue,"Creatures you control but don't own are Mercenaries in addition to their other types.
+At the beginning of your upkeep, exile the top X cards of target opponent's library, where X is the number of outlaws you control. Until end of turn, you may cast spells from among those cards, and mana of any type can be spent to cast those spells.","B,R","B,R",rare,OTJ,Outlaws of Thunder Junction,355,4,3,,
+Laughing Jasper Flint,{1}{B}{R},3.0,Legendary Creature — Lizard Rogue,"Creatures you control but don't own are Mercenaries in addition to their other types.
+At the beginning of your upkeep, exile the top X cards of target opponent's library, where X is the number of outlaws you control. Until end of turn, you may cast spells from among those cards, and mana of any type can be spent to cast those spells.","B,R","B,R",rare,OTJ,Outlaws of Thunder Junction,215,4,3,,
+Laughing Jasper Flint,{1}{B}{R},3.0,Legendary Creature — Lizard Rogue,"Creatures you control but don't own are Mercenaries in addition to their other types.
+At the beginning of your upkeep, exile the top X cards of target opponent's library, where X is the number of outlaws you control. Until end of turn, you may cast spells from among those cards, and mana of any type can be spent to cast those spells.","B,R","B,R",rare,POTJ,Outlaws of Thunder Junction Promos,215s,4,3,,
+Laughing Jasper Flint,{1}{B}{R},3.0,Legendary Creature — Lizard Rogue,"Creatures you control but don't own are Mercenaries in addition to their other types.
+At the beginning of your upkeep, exile the top X cards of target opponent's library, where X is the number of outlaws you control. Until end of turn, you may cast spells from among those cards, and mana of any type can be spent to cast those spells.","B,R","B,R",rare,POTJ,Outlaws of Thunder Junction Promos,215p,4,3,,
+Lavaleaper,{3}{R},4.0,Creature — Elemental,"All creatures have haste.
+Whenever a player taps a basic land for mana, that player adds one mana of any type that land produced.",R,R,rare,ECL,Lorwyn Eclipsed,318,4,4,,
+Lavaleaper,{3}{R},4.0,Creature — Elemental,"All creatures have haste.
+Whenever a player taps a basic land for mana, that player adds one mana of any type that land produced.",R,R,rare,ECL,Lorwyn Eclipsed,150,4,4,,
+Lavaleaper,{3}{R},4.0,Creature — Elemental,"All creatures have haste.
+Whenever a player taps a basic land for mana, that player adds one mana of any type that land produced.",R,R,rare,PECL,Lorwyn Eclipsed Promos,150p,4,4,,
+"Lazav, Familiar Stranger",{1}{U}{B},3.0,Legendary Creature — Shapeshifter,"Whenever you commit a crime, put a +1/+1 counter on Lazav. Then you may exile a card from a graveyard. If a creature card was exiled this way, you may have Lazav become a copy of that card until end of turn. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)","B,U","B,U",uncommon,OTJ,Outlaws of Thunder Junction,216,1,4,,
+"Lazav, Wearer of Faces",{U}{B},2.0,Legendary Creature — Shapeshifter Detective,"Whenever Lazav attacks, exile target card from a graveyard, then investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")
+Whenever you sacrifice a Clue, you may have Lazav become a copy of a creature card exiled with it until end of turn.","B,U","B,U",rare,PMKM,Murders at Karlov Manor Promos,216p,2,3,,Investigate
+"Lazav, Wearer of Faces",{U}{B},2.0,Legendary Creature — Shapeshifter Detective,"Whenever Lazav attacks, exile target card from a graveyard, then investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")
+Whenever you sacrifice a Clue, you may have Lazav become a copy of a creature card exiled with it until end of turn.","B,U","B,U",rare,MKM,Murders at Karlov Manor,318z,2,3,,Investigate
+"Lazav, Wearer of Faces",{U}{B},2.0,Legendary Creature — Shapeshifter Detective,"Whenever Lazav attacks, exile target card from a graveyard, then investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")
+Whenever you sacrifice a Clue, you may have Lazav become a copy of a creature card exiled with it until end of turn.","B,U","B,U",rare,MKM,Murders at Karlov Manor,318,2,3,,Investigate
+"Lazav, Wearer of Faces",{U}{B},2.0,Legendary Creature — Shapeshifter Detective,"Whenever Lazav attacks, exile target card from a graveyard, then investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")
+Whenever you sacrifice a Clue, you may have Lazav become a copy of a creature card exiled with it until end of turn.","B,U","B,U",rare,MKM,Murders at Karlov Manor,366,2,3,,Investigate
+"Lazav, Wearer of Faces",{U}{B},2.0,Legendary Creature — Shapeshifter Detective,"Whenever Lazav attacks, exile target card from a graveyard, then investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")
+Whenever you sacrifice a Clue, you may have Lazav become a copy of a creature card exiled with it until end of turn.","B,U","B,U",rare,MKM,Murders at Karlov Manor,216,2,3,,Investigate
+"Lazav, Wearer of Faces",{U}{B},2.0,Legendary Creature — Shapeshifter Detective,"Whenever Lazav attacks, exile target card from a graveyard, then investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")
+Whenever you sacrifice a Clue, you may have Lazav become a copy of a creature card exiled with it until end of turn.","B,U","B,U",rare,PMKM,Murders at Karlov Manor Promos,216s,2,3,,Investigate
+"Leatherhead, Swamp Stalker",{2}{G}{G},4.0,Legendary Creature — Crocodile Mutant Rogue,"Trample
+Leatherhead enters with a hexproof counter on her.
+Whenever Leatherhead deals combat damage to a player, you may remove a counter from her. When you do, destroy target artifact or enchantment that player controls.",G,G,rare,TMT,Teenage Mutant Ninja Turtles,272,5,4,,Trample
+"Leatherhead, Swamp Stalker",{2}{G}{G},4.0,Legendary Creature — Crocodile Mutant Rogue,"Trample
+Leatherhead enters with a hexproof counter on her.
+Whenever Leatherhead deals combat damage to a player, you may remove a counter from her. When you do, destroy target artifact or enchantment that player controls.",G,G,rare,TMT,Teenage Mutant Ninja Turtles,117,5,4,,Trample
+Leering Onlooker,{1}{B},2.0,Creature — Vampire,"Flying
+{2}{B}{B}, Exile this card from your graveyard: Create two tapped 1/1 black Bat creature tokens with flying.",B,B,uncommon,MKM,Murders at Karlov Manor,91,1,3,,Flying
+"Leonardo, Big Brother",{2}{W},3.0,Legendary Creature — Mutant Ninja Turtle,"Sneak {W} (You may cast this spell for {W} if you also return an unblocked attacker you control to hand during the declare blockers step. He enters tapped and attacking.)
+Leonardo gets +1/+0 for each other creature you control.",W,W,common,TMT,Teenage Mutant Ninja Turtles,14,1,3,,Sneak
+"Leonardo, Cutting Edge",{1}{W},2.0,Legendary Creature — Mutant Ninja Turtle,"Sneak {W} (You may cast this spell for {W} if you also return an unblocked attacker you control to hand during the declare blockers step. He enters tapped and attacking.)
+Lifelink
+Whenever you gain life, put a +1/+1 counter on Leonardo.",W,W,mythic,TMT,Teenage Mutant Ninja Turtles,281,1,1,,Lifelink;Sneak
+"Leonardo, Cutting Edge",{1}{W},2.0,Legendary Creature — Mutant Ninja Turtle,"Sneak {W} (You may cast this spell for {W} if you also return an unblocked attacker you control to hand during the declare blockers step. He enters tapped and attacking.)
+Lifelink
+Whenever you gain life, put a +1/+1 counter on Leonardo.",W,W,mythic,TMT,Teenage Mutant Ninja Turtles,291,1,1,,Lifelink;Sneak
+"Leonardo, Cutting Edge",{1}{W},2.0,Legendary Creature — Mutant Ninja Turtle,"Sneak {W} (You may cast this spell for {W} if you also return an unblocked attacker you control to hand during the declare blockers step. He enters tapped and attacking.)
+Lifelink
+Whenever you gain life, put a +1/+1 counter on Leonardo.",W,W,rare,TMT,Teenage Mutant Ninja Turtles,15,1,1,,Lifelink;Sneak
+"Leonardo, Cutting Edge",{1}{W},2.0,Legendary Creature — Mutant Ninja Turtle,"Sneak {W} (You may cast this spell for {W} if you also return an unblocked attacker you control to hand during the declare blockers step. He enters tapped and attacking.)
+Lifelink
+Whenever you gain life, put a +1/+1 counter on Leonardo.",W,W,rare,TMT,Teenage Mutant Ninja Turtles,211,1,1,,Lifelink;Sneak
+"Leonardo, Leader in Blue",{W},1.0,Legendary Creature — Mutant Ninja Turtle,"Sneak {3}{W}{W} (You may cast this spell for {3}{W}{W} if you also return an unblocked attacker you control to hand during the declare blockers step. He enters tapped and attacking.)
+When Leonardo enters, if his sneak cost was paid, creatures you control get +2/+0 until end of turn.
+{1}{W}: Leonardo gains first strike until end of turn.",W,W,uncommon,TMT,Teenage Mutant Ninja Turtles,196,2,1,,Sneak
+"Leonardo, Leader in Blue",{W},1.0,Legendary Creature — Mutant Ninja Turtle,"Sneak {3}{W}{W} (You may cast this spell for {3}{W}{W} if you also return an unblocked attacker you control to hand during the declare blockers step. He enters tapped and attacking.)
+When Leonardo enters, if his sneak cost was paid, creatures you control get +2/+0 until end of turn.
+{1}{W}: Leonardo gains first strike until end of turn.",W,W,uncommon,TMT,Teenage Mutant Ninja Turtles,16,2,1,,Sneak
+"Leonardo, Sewer Samurai",{3}{W},4.0,Legendary Creature — Mutant Ninja Turtle Samurai,"Sneak {2}{W}{W}
+Double strike
+During your turn, you may cast creature spells with power or toughness 1 or less from your graveyard. If you cast a spell this way, that creature enters with a finality counter on it. (If a creature with a finality counter on it would die, exile it instead.)",W,W,mythic,TMT,Teenage Mutant Ninja Turtles,17,3,3,,Double strike;Sneak
+"Leonardo, Sewer Samurai",{3}{W},4.0,Legendary Creature — Mutant Ninja Turtle Samurai,"Sneak {2}{W}{W}
+Double strike
+During your turn, you may cast creature spells with power or toughness 1 or less from your graveyard. If you cast a spell this way, that creature enters with a finality counter on it. (If a creature with a finality counter on it would die, exile it instead.)",W,W,mythic,TMT,Teenage Mutant Ninja Turtles,215,3,3,,Double strike;Sneak
+"Leonardo, Sewer Samurai",{3}{W},4.0,Legendary Creature — Mutant Ninja Turtle Samurai,"Sneak {2}{W}{W}
+Double strike
+During your turn, you may cast creature spells with power or toughness 1 or less from your graveyard. If you cast a spell this way, that creature enters with a finality counter on it. (If a creature with a finality counter on it would die, exile it instead.)",W,W,mythic,TMT,Teenage Mutant Ninja Turtles,301,3,3,,Double strike;Sneak
+Leonin Skyhunter,{W}{W},2.0,Creature — Cat Knight,Flying,W,W,uncommon,9ED,Ninth Edition,25,2,2,,Flying
+Leonin Skyhunter,{W}{W},2.0,Creature — Cat Knight,Flying,W,W,uncommon,DDG,Duel Decks: Knights vs. Dragons,7,2,2,,Flying
+Leonin Skyhunter,{W}{W},2.0,Creature — Cat Knight,Flying,W,W,uncommon,FDN,Foundations,498,2,2,,Flying
+Leonin Skyhunter,{W}{W},2.0,Creature — Cat Knight,Flying,W,W,uncommon,MRD,Mirrodin,11,2,2,,Flying
+Leonin Skyhunter,{W}{W},2.0,Creature — Cat Knight,Flying,W,W,uncommon,9ED,Ninth Edition,25★,2,2,,Flying
+Leonin Skyhunter,{W}{W},2.0,Creature — Cat Knight,Flying,W,W,uncommon,PSAL,Salvat 2005,L52,2,2,,Flying
+Leonin Skyhunter,{W}{W},2.0,Creature — Cat Knight,Flying,W,W,common,MBS,Mirrodin Besieged,11,2,2,,Flying
+Leonin Surveyor,{1}{W},2.0,Creature — Cat Scout,"Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+During your turn, this creature has first strike.
+Max speed — {3}, Exile this card from your graveyard: Draw a card.",W,W,common,DFT,Aetherdrift,18,2,2,,Max speed;Start your engines!
+Leonin Vanguard,{W},1.0,Creature — Cat Soldier,"At the beginning of combat on your turn, if you control three or more creatures, this creature gets +1/+1 until end of turn and you gain 1 life.",W,W,uncommon,FDN,Foundations,499,1,1,,
+Leonin Vanguard,{W},1.0,Creature — Cat Soldier,"At the beginning of combat on your turn, if you control three or more creatures, this creature gets +1/+1 until end of turn and you gain 1 life.",W,W,uncommon,M19,Core Set 2019,22,1,1,,
+Leonin Vanguard,{W},1.0,Creature — Cat Soldier,"At the beginning of combat on your turn, if you control three or more creatures, this creature gets +1/+1 until end of turn and you gain 1 life.",W,W,uncommon,J25,Foundations Jumpstart,216,1,1,,
+Lifecreed Duo,{1}{W},2.0,Creature — Bat Bird,"Flying
+Whenever another creature you control enters, you gain 1 life.",W,W,common,BLB,Bloomburrow,20,1,2,,Flying
+Lightless Evangel,{1}{B},2.0,Creature — Vampire Cleric,"Whenever you sacrifice another creature or artifact, put a +1/+1 counter on this creature.",B,B,uncommon,EOE,Edge of Eternities,109,2,2,,
+"Lightning, Army of One",{1}{R}{W},3.0,Legendary Creature — Human Soldier,"First strike, trample, lifelink
+Stagger — Whenever Lightning deals combat damage to a player, until your next turn, if a source would deal damage to that player or a permanent that player controls, it deals double that damage instead.","R,W","R,W",mythic,FIN,Final Fantasy,498,3,2,,Lifelink;Stagger;First strike;Trample
+"Lightning, Army of One",{1}{R}{W},3.0,Legendary Creature — Human Soldier,"First strike, trample, lifelink
+Stagger — Whenever Lightning deals combat damage to a player, until your next turn, if a source would deal damage to that player or a permanent that player controls, it deals double that damage instead.","R,W","R,W",mythic,FIN,Final Fantasy,233,3,2,,Lifelink;Stagger;First strike;Trample
+"Lightning, Army of One",{1}{R}{W},3.0,Legendary Creature — Human Soldier,"First strike, trample, lifelink
+Stagger — Whenever Lightning deals combat damage to a player, until your next turn, if a source would deal damage to that player or a permanent that player controls, it deals double that damage instead.","R,W","R,W",mythic,FIN,Final Fantasy,545,3,2,,Lifelink;Stagger;First strike;Trample
+"Lightning, Army of One",{1}{R}{W},3.0,Legendary Creature — Human Soldier,"First strike, trample, lifelink
+Stagger — Whenever Lightning deals combat damage to a player, until your next turn, if a source would deal damage to that player or a permanent that player controls, it deals double that damage instead.","R,W","R,W",mythic,FIN,Final Fantasy,400,3,2,,Lifelink;Stagger;First strike;Trample
+"Lightning, Army of One",{1}{R}{W},3.0,Legendary Creature — Human Soldier,"First strike, trample, lifelink
+Stagger — Whenever Lightning deals combat damage to a player, until your next turn, if a source would deal damage to that player or a permanent that player controls, it deals double that damage instead.","R,W","R,W",mythic,PFIN,Final Fantasy Promos,233s,3,2,,Lifelink;Stagger;First strike;Trample
+"Lightning, Army of One",{1}{R}{W},3.0,Legendary Creature — Human Soldier,"First strike, trample, lifelink
+Stagger — Whenever Lightning deals combat damage to a player, until your next turn, if a source would deal damage to that player or a permanent that player controls, it deals double that damage instead.","R,W","R,W",mythic,FIN,Final Fantasy,320,3,2,,Lifelink;Stagger;First strike;Trample
+"Lightning, Security Sergeant",{2}{R},3.0,Legendary Creature — Human Soldier,"Menace (This creature can't be blocked except by two or more creatures.)
+Whenever Lightning deals combat damage to a player, exile the top card of your library. You may play that card for as long as you control Lightning.",R,R,rare,FIN,Final Fantasy,462,2,3,,Menace
+"Lightning, Security Sergeant",{2}{R},3.0,Legendary Creature — Human Soldier,"Menace (This creature can't be blocked except by two or more creatures.)
+Whenever Lightning deals combat damage to a player, exile the top card of your library. You may play that card for as long as you control Lightning.",R,R,rare,FIN,Final Fantasy,560,2,3,,Menace
+"Lightning, Security Sergeant",{2}{R},3.0,Legendary Creature — Human Soldier,"Menace (This creature can't be blocked except by two or more creatures.)
+Whenever Lightning deals combat damage to a player, exile the top card of your library. You may play that card for as long as you control Lightning.",R,R,rare,PMEI,Media and Collaboration Promos,2025-12,2,3,,Menace
+Lightshell Duo,{3}{U},4.0,Creature — Rat Otter,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+When this creature enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)",U,U,common,BLB,Bloomburrow,56,3,4,,Surveil;Prowess
+Lightshell Duo,{3}{U},4.0,Creature — Rat Otter,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+When this creature enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)",U,U,common,FDN,Foundations,157,3,4,,Surveil;Prowess
+Lightstall Inquisitor,{W},1.0,Creature — Angel Wizard,"Vigilance
+When this creature enters, each opponent exiles a card from their hand and may play that card for as long as it remains exiled. Each spell cast this way costs {1} more to cast. Each land played this way enters tapped.",W,W,rare,PEOE,Edge of Eternities Promos,24s,2,1,,Vigilance
+Lightstall Inquisitor,{W},1.0,Creature — Angel Wizard,"Vigilance
+When this creature enters, each opponent exiles a card from their hand and may play that card for as long as it remains exiled. Each spell cast this way costs {1} more to cast. Each land played this way enters tapped.",W,W,rare,EOE,Edge of Eternities,24,2,1,,Vigilance
+Lightstall Inquisitor,{W},1.0,Creature — Angel Wizard,"Vigilance
+When this creature enters, each opponent exiles a card from their hand and may play that card for as long as it remains exiled. Each spell cast this way costs {1} more to cast. Each land played this way enters tapped.",W,W,rare,EOE,Edge of Eternities,320,2,1,,Vigilance
+Lightstall Inquisitor,{W},1.0,Creature — Angel Wizard,"Vigilance
+When this creature enters, each opponent exiles a card from their hand and may play that card for as long as it remains exiled. Each spell cast this way costs {1} more to cast. Each land played this way enters tapped.",W,W,rare,PEOE,Edge of Eternities Promos,24p,2,1,,Vigilance
+Likeness Looter,{U}{B},2.0,Creature — Faerie Shapeshifter,"Flying
+{T}: Draw a card, then discard a card.
+{X}: This creature becomes a copy of target creature card in your graveyard with mana value X, except it has flying and this ability. Activate only as a sorcery.","B,U","B,U",rare,PWOE,Wilds of Eldraine Promos,208s,1,1,,Flying
+Likeness Looter,{U}{B},2.0,Creature — Faerie Shapeshifter,"Flying
+{T}: Draw a card, then discard a card.
+{X}: This creature becomes a copy of target creature card in your graveyard with mana value X, except it has flying and this ability. Activate only as a sorcery.","B,U","B,U",rare,WOE,Wilds of Eldraine,208,1,1,,Flying
+Likeness Looter,{U}{B},2.0,Creature — Faerie Shapeshifter,"Flying
+{T}: Draw a card, then discard a card.
+{X}: This creature becomes a copy of target creature card in your graveyard with mana value X, except it has flying and this ability. Activate only as a sorcery.","B,U","B,U",rare,WOE,Wilds of Eldraine,364,1,1,,Flying
+Likeness Looter,{U}{B},2.0,Creature — Faerie Shapeshifter,"Flying
+{T}: Draw a card, then discard a card.
+{X}: This creature becomes a copy of target creature card in your graveyard with mana value X, except it has flying and this ability. Activate only as a sorcery.","B,U","B,U",rare,PWOE,Wilds of Eldraine Promos,208p,1,1,,Flying
+"Lilah, Undefeated Slickshot",{1}{U}{R},3.0,Legendary Creature — Human Rogue,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever you cast a multicolored instant or sorcery spell from your hand, exile that spell instead of putting it into your graveyard as it resolves. If you do, it becomes plotted. (You may cast it as a sorcery on a later turn without paying its mana cost.)","R,U","R,U",rare,POTJ,Outlaws of Thunder Junction Promos,217p,3,3,,Plot;Prowess
+"Lilah, Undefeated Slickshot",{1}{U}{R},3.0,Legendary Creature — Human Rogue,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever you cast a multicolored instant or sorcery spell from your hand, exile that spell instead of putting it into your graveyard as it resolves. If you do, it becomes plotted. (You may cast it as a sorcery on a later turn without paying its mana cost.)","R,U","R,U",rare,OTJ,Outlaws of Thunder Junction,356,3,3,,Plot;Prowess
+"Lilah, Undefeated Slickshot",{1}{U}{R},3.0,Legendary Creature — Human Rogue,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever you cast a multicolored instant or sorcery spell from your hand, exile that spell instead of putting it into your graveyard as it resolves. If you do, it becomes plotted. (You may cast it as a sorcery on a later turn without paying its mana cost.)","R,U","R,U",rare,POTJ,Outlaws of Thunder Junction Promos,217s,3,3,,Plot;Prowess
+"Lilah, Undefeated Slickshot",{1}{U}{R},3.0,Legendary Creature — Human Rogue,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever you cast a multicolored instant or sorcery spell from your hand, exile that spell instead of putting it into your graveyard as it resolves. If you do, it becomes plotted. (You may cast it as a sorcery on a later turn without paying its mana cost.)","R,U","R,U",rare,OTJ,Outlaws of Thunder Junction,217,3,3,,Plot;Prowess
+Lilysplash Mentor,{2}{G}{U},4.0,Creature — Frog Druid,"Reach
+{1}{G}{U}: Exile another target creature you control, then return it to the battlefield under its owner's control with a +1/+1 counter on it. Activate only as a sorcery.","G,U","G,U",uncommon,BLB,Bloomburrow,222,4,4,,Reach
+"Linden, the Steadfast Queen",{W}{W}{W},3.0,Legendary Creature — Human Noble,"Vigilance (Attacking doesn't cause this creature to tap.)
+Whenever a white creature you control attacks, you gain 1 life.",W,W,rare,ELD,Throne of Eldraine,340,3,3,,Vigilance
+"Linden, the Steadfast Queen",{W}{W}{W},3.0,Legendary Creature — Human Noble,"Vigilance (Attacking doesn't cause this creature to tap.)
+Whenever a white creature you control attacks, you gain 1 life.",W,W,rare,FDN,Foundations,577,3,3,,Vigilance
+"Linden, the Steadfast Queen",{W}{W}{W},3.0,Legendary Creature — Human Noble,"Vigilance (Attacking doesn't cause this creature to tap.)
+Whenever a white creature you control attacks, you gain 1 life.",W,W,rare,PELD,Throne of Eldraine Promos,20p,3,3,,Vigilance
+"Linden, the Steadfast Queen",{W}{W}{W},3.0,Legendary Creature — Human Noble,"Vigilance (Attacking doesn't cause this creature to tap.)
+Whenever a white creature you control attacks, you gain 1 life.",W,W,rare,PELD,Throne of Eldraine Promos,20s,3,3,,Vigilance
+"Linden, the Steadfast Queen",{W}{W}{W},3.0,Legendary Creature — Human Noble,"Vigilance (Attacking doesn't cause this creature to tap.)
+Whenever a white creature you control attacks, you gain 1 life.",W,W,rare,PLST,The List,ELD-20,3,3,,Vigilance
+"Linden, the Steadfast Queen",{W}{W}{W},3.0,Legendary Creature — Human Noble,"Vigilance (Attacking doesn't cause this creature to tap.)
+Whenever a white creature you control attacks, you gain 1 life.",W,W,rare,ELD,Throne of Eldraine,20,3,3,,Vigilance
+Lionheart Glimmer,{3}{W}{W},5.0,Enchantment Creature — Cat Glimmer,"Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+Whenever you attack, creatures you control get +1/+1 until end of turn.",W,W,uncommon,DSK,Duskmourn: House of Horror,19,2,5,,Ward
+"Lita, Little Orphan Amphibian",{1}{W},2.0,Legendary Creature — Mutant Ninja Turtle,"Alliance — Whenever another creature you control enters, choose one that hasn't been chosen this turn.
+• Put a +1/+1 counter on Lita.
+• Create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this token: You gain 3 life."")
+• Scry 1.",W,W,uncommon,TMT,Teenage Mutant Ninja Turtles,19,2,1,,Alliance;Food;Scry
+"Living Brain, Mechanical Marvel",{4},4.0,Legendary Artifact Creature — Robot Villain,"At the beginning of combat on your turn, target non-Equipment artifact you control becomes an artifact creature with base power and toughness 3/3 until end of turn. Untap it.",,,uncommon,SPM,Marvel's Spider-Man,167,3,3,,
+"Living Brain, Mechanical Marvel",{4},4.0,Legendary Artifact Creature — Robot Villain,"At the beginning of combat on your turn, target non-Equipment artifact you control becomes an artifact creature with base power and toughness 3/3 until end of turn. Untap it.",,,uncommon,OM1,Through the Omenpaths,165,3,3,,
+Living Conundrum,{4}{U},5.0,Creature — Elemental,"Hexproof
+If you would draw a card while your library has no cards in it, skip that draw instead.
+As long as there are no cards in your library, this creature has base power and toughness 10/10 and has flying and vigilance.",U,U,uncommon,MKM,Murders at Karlov Manor,63,2,5,,Hexproof
+Living Lectern,{1}{U},2.0,Artifact Creature — Construct,"{1}, Sacrifice this creature: Draw a card. Create a Sorcerer Role token attached to up to one other target creature you control. Activate only as a sorcery. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1 and has ""Whenever this creature attacks, scry 1."")",U,U,common,WOE,Wilds of Eldraine,59,0,4,,Role token;Scry
+Living Phone,{2}{W},3.0,Artifact Creature — Toy,"When this creature dies, look at the top five cards of your library. You may reveal a creature card with power 2 or less from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",W,W,common,DSK,Duskmourn: House of Horror,20,2,1,,
+"Lizard, Connors's Curse",{2}{G}{G},4.0,Legendary Creature — Lizard Villain,"Trample
+Lizard Formula — When Lizard, Connors's Curse enters, up to one other target creature loses all abilities and becomes a green Lizard creature with base power and toughness 4/4.",G,G,rare,OM1,Through the Omenpaths,108,5,5,,Trample
+"Lizard, Connors's Curse",{2}{G}{G},4.0,Legendary Creature — Lizard Villain,"Trample
+Lizard Formula — When Lizard, Connors's Curse enters, up to one other target creature loses all abilities and becomes a green Lizard creature with base power and toughness 4/4.",G,G,rare,SPM,Marvel's Spider-Man,106,5,5,,Trample
+"Lizard, Connors's Curse",{2}{G}{G},4.0,Legendary Creature — Lizard Villain,"Trample
+Lizard Formula — When Lizard, Connors's Curse enters, up to one other target creature loses all abilities and becomes a green Lizard creature with base power and toughness 4/4.",G,G,rare,PSPM,Marvel's Spider-Man Promos,106s,5,5,,Trample
+"Lizard, Connors's Curse",{2}{G}{G},4.0,Legendary Creature — Lizard Villain,"Trample
+Lizard Formula — When Lizard, Connors's Curse enters, up to one other target creature loses all abilities and becomes a green Lizard creature with base power and toughness 4/4.",G,G,rare,SPM,Marvel's Spider-Man,265,5,5,,Trample
+Llanowar Elves,{G},1.0,Creature — Elf Druid,{T}: Add {G}.,G,G,common,M12,Magic 2012,182,1,1,,
+Llanowar Elves,{G},1.0,Creature — Elf Druid,{T}: Add {G}.,G,G,rare,SLD,Secret Lair Drop,1553,1,1,,
+Llanowar Elves,{G},1.0,Creature — Elf Druid,{T}: Add {G}.,G,G,common,30A,30th Anniversary Edition,206,1,1,,
+Llanowar Elves,{G},1.0,Creature — Elf Druid,{T}: Add {G}.,G,G,rare,PDMU,Dominaria United Promos,1★,1,1,,
+Llanowar Elves,{G},1.0,Creature — Elf Druid,{T}: Add {G}.,G,G,rare,P30H,30th Anniversary History Promos,5★,1,1,,
+Llanowar Elves,{G},1.0,Creature — Elf Druid,{T}: Add {G}.,G,G,common,PANA,MTG Arena Promos,4,1,1,,

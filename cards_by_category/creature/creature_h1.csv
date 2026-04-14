@@ -1,0 +1,240 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Haazda Vigilante,{4}{W},5.0,Creature — Giant Soldier,"Whenever this creature enters or attacks, put a +1/+1 counter on target creature you control with power 2 or less.",W,W,common,MKM,Murders at Karlov Manor,18,4,4,,
+"Hakoda, Selfless Commander",{3}{W},4.0,Legendary Creature — Human Warrior Ally,"Vigilance
+You may look at the top card of your library any time.
+You may cast Ally spells from the top of your library.
+Sacrifice Hakoda: Creatures you control get +0/+5 and gain indestructible until end of turn.",W,W,rare,TLA,Avatar: The Last Airbender,366,3,5,,Vigilance
+"Hakoda, Selfless Commander",{3}{W},4.0,Legendary Creature — Human Warrior Ally,"Vigilance
+You may look at the top card of your library any time.
+You may cast Ally spells from the top of your library.
+Sacrifice Hakoda: Creatures you control get +0/+5 and gain indestructible until end of turn.",W,W,rare,TLA,Avatar: The Last Airbender,23,3,5,,Vigilance
+"Hakoda, Selfless Commander",{3}{W},4.0,Legendary Creature — Human Warrior Ally,"Vigilance
+You may look at the top card of your library any time.
+You may cast Ally spells from the top of your library.
+Sacrifice Hakoda: Creatures you control get +0/+5 and gain indestructible until end of turn.",W,W,rare,PTLA,Avatar: The Last Airbender Promos,23s,3,5,,Vigilance
+"Halana and Alena, Partners",{2}{R}{G},4.0,Legendary Creature — Human Ranger,"First strike (This creature deals combat damage before creatures without first strike.)
+Reach (This creature can block creatures with flying.)
+At the beginning of combat on your turn, put X +1/+1 counters on another target creature you control, where X is Halana and Alena's power. That creature gains haste until end of turn.","G,R","G,R",rare,DBL,Innistrad: Double Feature,506,2,3,,Reach;First strike
+"Halana and Alena, Partners",{2}{R}{G},4.0,Legendary Creature — Human Ranger,"First strike (This creature deals combat damage before creatures without first strike.)
+Reach (This creature can block creatures with flying.)
+At the beginning of combat on your turn, put X +1/+1 counters on another target creature you control, where X is Halana and Alena's power. That creature gains haste until end of turn.","G,R","G,R",rare,VOW,Innistrad: Crimson Vow,239,2,3,,Reach;First strike
+"Halana and Alena, Partners",{2}{R}{G},4.0,Legendary Creature — Human Ranger,"First strike (This creature deals combat damage before creatures without first strike.)
+Reach (This creature can block creatures with flying.)
+At the beginning of combat on your turn, put X +1/+1 counters on another target creature you control, where X is Halana and Alena's power. That creature gains haste until end of turn.","G,R","G,R",rare,VOW,Innistrad: Crimson Vow,325,2,3,,Reach;First strike
+"Halana and Alena, Partners",{2}{R}{G},4.0,Legendary Creature — Human Ranger,"First strike (This creature deals combat damage before creatures without first strike.)
+Reach (This creature can block creatures with flying.)
+At the beginning of combat on your turn, put X +1/+1 counters on another target creature you control, where X is Halana and Alena's power. That creature gains haste until end of turn.","G,R","G,R",rare,PVOW,Innistrad: Crimson Vow Promos,239s,2,3,,Reach;First strike
+"Halana and Alena, Partners",{2}{R}{G},4.0,Legendary Creature — Human Ranger,"First strike (This creature deals combat damage before creatures without first strike.)
+Reach (This creature can block creatures with flying.)
+At the beginning of combat on your turn, put X +1/+1 counters on another target creature you control, where X is Halana and Alena's power. That creature gains haste until end of turn.","G,R","G,R",rare,FDN,Foundations,659,2,3,,Reach;First strike
+"Haliya, Ascendant Cadet",{2}{G}{W}{W},5.0,Legendary Creature — Human Soldier,"Whenever Haliya enters or attacks, put a +1/+1 counter on target creature you control.
+Whenever one or more creatures you control with +1/+1 counters on them deal combat damage to a player, draw a card.","G,W","G,W",uncommon,EOE,Edge of Eternities,218,3,3,,
+"Haliya, Guided by Light",{2}{W},3.0,Legendary Creature — Human Soldier,"Whenever Haliya or another creature or artifact you control enters, you gain 1 life.
+At the beginning of your end step, draw a card if you've gained 3 or more life this turn.
+Warp {W} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",W,W,rare,PEOE,Edge of Eternities Promos,19s,3,3,,Warp
+"Haliya, Guided by Light",{2}{W},3.0,Legendary Creature — Human Soldier,"Whenever Haliya or another creature or artifact you control enters, you gain 1 life.
+At the beginning of your end step, draw a card if you've gained 3 or more life this turn.
+Warp {W} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",W,W,rare,EOE,Edge of Eternities,19,3,3,,Warp
+"Haliya, Guided by Light",{2}{W},3.0,Legendary Creature — Human Soldier,"Whenever Haliya or another creature or artifact you control enters, you gain 1 life.
+At the beginning of your end step, draw a card if you've gained 3 or more life this turn.
+Warp {W} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",W,W,rare,PEOE,Edge of Eternities Promos,19p,3,3,,Warp
+"Haliya, Guided by Light",{2}{W},3.0,Legendary Creature — Human Soldier,"Whenever Haliya or another creature or artifact you control enters, you gain 1 life.
+At the beginning of your end step, draw a card if you've gained 3 or more life this turn.
+Warp {W} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",W,W,rare,EOE,Edge of Eternities,289,3,3,,Warp
+"Hama, the Bloodbender",{2}{U/B}{U/B}{U/B},5.0,Legendary Creature — Human Warlock,"When Hama enters, target opponent mills three cards. Exile up to one noncreature, nonland card from that player's graveyard. For as long as you control Hama, you may cast the exiled card during your turn by waterbending {X} rather than paying its mana cost, where X is its mana value. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)","B,U","B,U",uncommon,TLA,Avatar: The Last Airbender,224,3,3,,Mill;Waterbend
+Hamlet Glutton,{5}{G}{G},7.0,Creature — Giant,"Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
+This spell costs {2} less to cast if it's bargained.
+Trample
+When this creature enters, you gain 3 life.",G,G,common,WOE,Wilds of Eldraine,173,6,6,,Trample;Bargain
+Hand That Feeds,{1}{R},2.0,Creature — Mutant,"Delirium — Whenever this creature attacks while there are four or more card types among cards in your graveyard, it gets +2/+0 and gains menace until end of turn. (It can't be blocked except by two or more creatures.)",R,R,common,DSK,Duskmourn: House of Horror,139,2,2,,Delirium
+Harbinger of the Tides,{U}{U},2.0,Creature — Merfolk Wizard,"You may cast this spell as though it had flash if you pay {2} more to cast it. (You may cast it any time you could cast an instant.)
+When this creature enters, you may return target tapped creature an opponent controls to its owner's hand.",U,U,rare,PORI,Magic Origins Promos,58s,2,2,,
+Harbinger of the Tides,{U}{U},2.0,Creature — Merfolk Wizard,"You may cast this spell as though it had flash if you pay {2} more to cast it. (You may cast it any time you could cast an instant.)
+When this creature enters, you may return target tapped creature an opponent controls to its owner's hand.",U,U,rare,J22,Jumpstart 2022,306,2,2,,
+Harbinger of the Tides,{U}{U},2.0,Creature — Merfolk Wizard,"You may cast this spell as though it had flash if you pay {2} more to cast it. (You may cast it any time you could cast an instant.)
+When this creature enters, you may return target tapped creature an opponent controls to its owner's hand.",U,U,rare,DDT,Duel Decks: Merfolk vs. Goblins,7,2,2,,
+Harbinger of the Tides,{U}{U},2.0,Creature — Merfolk Wizard,"You may cast this spell as though it had flash if you pay {2} more to cast it. (You may cast it any time you could cast an instant.)
+When this creature enters, you may return target tapped creature an opponent controls to its owner's hand.",U,U,rare,ORI,Magic Origins,58,2,2,,
+Harbinger of the Tides,{U}{U},2.0,Creature — Merfolk Wizard,"You may cast this spell as though it had flash if you pay {2} more to cast it. (You may cast it any time you could cast an instant.)
+When this creature enters, you may return target tapped creature an opponent controls to its owner's hand.",U,U,rare,FDN,Foundations,593,2,2,,
+Harbinger of the Tides,{U}{U},2.0,Creature — Merfolk Wizard,"You may cast this spell as though it had flash if you pay {2} more to cast it. (You may cast it any time you could cast an instant.)
+When this creature enters, you may return target tapped creature an opponent controls to its owner's hand.",U,U,rare,C17,Commander 2017,85,2,2,,
+Hardbristle Bandit,{1}{G},2.0,Creature — Plant Rogue,"{T}: Add one mana of any color.
+Whenever you commit a crime, untap this creature. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)",G,G,common,OTJ,Outlaws of Thunder Junction,168,1,1,,
+Hardened Escort,{2}{W},3.0,Creature — Human Soldier,"Whenever this creature attacks, another target creature you control gets +1/+0 and gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)",W,W,common,DSK,Duskmourn: House of Horror,16,2,4,,
+Hardened Tactician,{1}{W}{B},3.0,Creature — Human Warrior,"{1}, Sacrifice a token: Draw a card.","B,W","B,W",uncommon,TDM,Tarkir: Dragonstorm,191,2,4,,
+Hare Apparent,{1}{W},2.0,Creature — Rabbit Noble,"When this creature enters, create a number of 1/1 white Rabbit creature tokens equal to the number of other creatures you control named Hare Apparent.
+A deck can have any number of cards named Hare Apparent.",W,W,common,FDN,Foundations,15,2,2,,
+Harmonious Grovestrider,{3}{G}{G},5.0,Creature — Beast,"Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+Harmonious Grovestrider's power and toughness are each equal to the number of lands you control.",G,G,uncommon,EOE,Edge of Eternities,189,*,*,,Ward
+Harnesser of Storms,{2}{R},3.0,Creature — Otter Wizard,"Whenever you cast a noncreature or Otter spell, you may exile the top card of your library. Until end of turn, you may play that card. This ability triggers only once each turn.",R,R,uncommon,BLB,Bloomburrow,137,1,4,,
+Harried Dronesmith,{3}{R},4.0,Creature — Human Artificer,"At the beginning of combat on your turn, create a 1/1 colorless Thopter artifact creature token with flying. It gains haste until end of turn. Sacrifice it at the beginning of your next end step.",R,R,uncommon,MKM,Murders at Karlov Manor,131,2,3,,
+Harried Spearguard,{R},1.0,Creature — Human Soldier,"Haste
+When this creature dies, create a 1/1 black Rat creature token with ""This token can't block.""",R,R,common,WOE,Wilds of Eldraine,135,1,1,,Haste
+Harrier Strix,{U},1.0,Creature — Bird,"Flying
+When this creature enters, tap target permanent.
+{2}{U}: Draw a card, then discard a card.",U,U,common,OTJ,Outlaws of Thunder Junction,52,1,1,,Flying
+"Haru, Hidden Talent",{1}{G},2.0,Legendary Creature — Human Peasant Ally,"Whenever another Ally you control enters, earthbend 1. (Target land you control becomes a 0/0 creature with haste that's still a land. Put a +1/+1 counter on it. When it dies or is exiled, return it to the battlefield tapped.)",G,G,uncommon,TLA,Avatar: The Last Airbender,182,1,1,,Earthbend
+Harvester of Misery,{3}{B}{B},5.0,Creature — Spirit,"Menace
+When this creature enters, other creatures get -2/-2 until end of turn.
+{1}{B}, Discard this card: Target creature gets -2/-2 until end of turn.",B,B,mythic,BIG,The Big Score,9,5,4,,Menace
+Harvester of Misery,{3}{B}{B},5.0,Creature — Spirit,"Menace
+When this creature enters, other creatures get -2/-2 until end of turn.
+{1}{B}, Discard this card: Target creature gets -2/-2 until end of turn.",B,B,mythic,BIG,The Big Score,39,5,4,,Menace
+Harvester of Misery,{3}{B}{B},5.0,Creature — Spirit,"Menace
+When this creature enters, other creatures get -2/-2 until end of turn.
+{1}{B}, Discard this card: Target creature gets -2/-2 until end of turn.",B,B,mythic,BIG,The Big Score,74,5,4,,Menace
+Harvestrite Host,{2}{W},3.0,Creature — Rabbit Citizen,"Whenever this creature or another Rabbit you control enters, target creature you control gets +1/+0 until end of turn. Then draw a card if this is the second time this ability has resolved this turn.",W,W,uncommon,BLB,Bloomburrow,15,3,3,,
+Hauntwoods Shrieker,{1}{G}{G},3.0,Creature — Beast Mutant,"Whenever this creature attacks, manifest dread. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)
+{1}{G}: Reveal target face-down permanent. If it's a creature card, you may turn it face up.",G,G,mythic,DSK,Duskmourn: House of Horror,349,3,3,,Manifest;Manifest dread
+Hauntwoods Shrieker,{1}{G}{G},3.0,Creature — Beast Mutant,"Whenever this creature attacks, manifest dread. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)
+{1}{G}: Reveal target face-down permanent. If it's a creature card, you may turn it face up.",G,G,mythic,DSK,Duskmourn: House of Horror,182,3,3,,Manifest;Manifest dread
+Hauntwoods Shrieker,{1}{G}{G},3.0,Creature — Beast Mutant,"Whenever this creature attacks, manifest dread. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)
+{1}{G}: Reveal target face-down permanent. If it's a creature card, you may turn it face up.",G,G,mythic,PDSK,Duskmourn: House of Horror Promos,182p,3,3,,Manifest;Manifest dread
+Hauntwoods Shrieker,{1}{G}{G},3.0,Creature — Beast Mutant,"Whenever this creature attacks, manifest dread. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)
+{1}{G}: Reveal target face-down permanent. If it's a creature card, you may turn it face up.",G,G,mythic,PDSK,Duskmourn: House of Horror Promos,182s,3,3,,Manifest;Manifest dread
+Hazard of the Dunes,{3}{G},4.0,Creature — Wurm,"Trample, reach
+Exhaust — {6}{G}: Put three +1/+1 counters on this creature. (Activate each exhaust ability only once.)",G,G,common,DFT,Aetherdrift,165,4,4,,Reach;Trample;Exhaust
+Hazardroot Herbalist,{2}{G},3.0,Creature — Rabbit Druid,"Whenever you attack, target creature you control gets +1/+0 until end of turn. If that creature is a token, it also gains deathtouch until end of turn.",G,G,uncommon,BLB,Bloomburrow,174,1,4,,
+"Hazoret, Godseeker",{1}{R},2.0,Legendary Creature — God,"Indestructible, haste
+Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+{1}, {T}: Target creature with power 2 or less can't be blocked this turn.
+Hazoret can't attack or block unless you have max speed.",R,R,mythic,DFT,Aetherdrift,462,5,3,,Indestructible;Haste;Start your engines!
+"Hazoret, Godseeker",{1}{R},2.0,Legendary Creature — God,"Indestructible, haste
+Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+{1}, {T}: Target creature with power 2 or less can't be blocked this turn.
+Hazoret can't attack or block unless you have max speed.",R,R,mythic,PDFT,Aetherdrift Promos,133s,5,3,,Indestructible;Haste;Start your engines!
+"Hazoret, Godseeker",{1}{R},2.0,Legendary Creature — God,"Indestructible, haste
+Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+{1}, {T}: Target creature with power 2 or less can't be blocked this turn.
+Hazoret can't attack or block unless you have max speed.",R,R,mythic,PDFT,Aetherdrift Promos,133p,5,3,,Indestructible;Haste;Start your engines!
+"Hazoret, Godseeker",{1}{R},2.0,Legendary Creature — God,"Indestructible, haste
+Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+{1}, {T}: Target creature with power 2 or less can't be blocked this turn.
+Hazoret can't attack or block unless you have max speed.",R,R,mythic,DFT,Aetherdrift,546,5,3,,Indestructible;Haste;Start your engines!
+"Hazoret, Godseeker",{1}{R},2.0,Legendary Creature — God,"Indestructible, haste
+Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+{1}, {T}: Target creature with power 2 or less can't be blocked this turn.
+Hazoret can't attack or block unless you have max speed.",R,R,mythic,DFT,Aetherdrift,133,5,3,,Indestructible;Haste;Start your engines!
+"Hazoret, Godseeker",{1}{R},2.0,Legendary Creature — God,"Indestructible, haste
+Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+{1}, {T}: Target creature with power 2 or less can't be blocked this turn.
+Hazoret can't attack or block unless you have max speed.",R,R,mythic,DFT,Aetherdrift,347,5,3,,Indestructible;Haste;Start your engines!
+Head of the Homestead,{3}{G/W}{G/W},5.0,Creature — Rabbit Citizen,"When this creature enters, create two 1/1 white Rabbit creature tokens.","G,W","G,W",common,BLB,Bloomburrow,216,3,2,,
+Healer's Hawk,{W},1.0,Creature — Bird,"Flying
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)",W,W,common,GRN,Guilds of Ravnica,14,1,1,,Flying;Lifelink
+Healer's Hawk,{W},1.0,Creature — Bird,"Flying
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)",W,W,common,PLST,The List,GRN-14,1,1,,Flying;Lifelink
+Healer's Hawk,{W},1.0,Creature — Bird,"Flying
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)",W,W,common,FDN,Foundations,142,1,1,,Flying;Lifelink
+Healer's Hawk,{W},1.0,Creature — Bird,"Flying
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)",W,W,common,JMP,Jumpstart,107,1,1,,Flying;Lifelink
+Heartfire Immolator,{1}{R},2.0,Creature — Human Wizard,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+{R}, Sacrifice this creature: It deals damage equal to its power to target creature or planeswalker.",R,R,uncommon,M21,Core Set 2021,396,2,2,,Prowess
+Heartfire Immolator,{1}{R},2.0,Creature — Human Wizard,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+{R}, Sacrifice this creature: It deals damage equal to its power to target creature or planeswalker.",R,R,uncommon,FDN,Foundations,201,2,2,,Prowess
+Heartfire Immolator,{1}{R},2.0,Creature — Human Wizard,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+{R}, Sacrifice this creature: It deals damage equal to its power to target creature or planeswalker.",R,R,uncommon,M21,Core Set 2021,150,2,2,,Prowess
+Heartflame Duelist // Heartflame Slash,{1}{W} // {2}{R},2.0,Creature — Human Knight // Instant — Adventure,,W,"R,W",rare,PWOE,Wilds of Eldraine Promos,228s,3,1,,
+Heartflame Duelist // Heartflame Slash,{1}{W} // {2}{R},2.0,Creature — Human Knight // Instant — Adventure,,W,"R,W",rare,WOE,Wilds of Eldraine,228,3,1,,
+Heartflame Duelist // Heartflame Slash,{1}{W} // {2}{R},2.0,Creature — Human Knight // Instant — Adventure,,W,"R,W",rare,PWOE,Wilds of Eldraine Promos,228p,3,1,,
+Heartflame Duelist // Heartflame Slash,{1}{W} // {2}{R},2.0,Creature — Human Knight // Instant — Adventure,,W,"R,W",rare,WOE,Wilds of Eldraine,290,3,1,,
+Hearth Elemental // Stoke Genius,{5}{R} // {1}{R},6.0,Creature — Elemental // Sorcery — Adventure,,R,R,uncommon,WOE,Wilds of Eldraine,136,4,5,,
+Hearthborn Battler,{2}{R},3.0,Creature — Lizard Warlock,"Haste
+Whenever a player casts their second spell each turn, this creature deals 2 damage to target opponent.",R,R,rare,BLB,Bloomburrow,361,2,3,,Haste
+Hearthborn Battler,{2}{R},3.0,Creature — Lizard Warlock,"Haste
+Whenever a player casts their second spell each turn, this creature deals 2 damage to target opponent.",R,R,rare,PBLB,Bloomburrow Promos,139p,2,3,,Haste
+Hearthborn Battler,{2}{R},3.0,Creature — Lizard Warlock,"Haste
+Whenever a player casts their second spell each turn, this creature deals 2 damage to target opponent.",R,R,rare,PBLB,Bloomburrow Promos,139s,2,3,,Haste
+Hearthborn Battler,{2}{R},3.0,Creature — Lizard Warlock,"Haste
+Whenever a player casts their second spell each turn, this creature deals 2 damage to target opponent.",R,R,rare,BLB,Bloomburrow,139,2,3,,Haste
+Hecteyes,{1}{B},2.0,Creature — Ooze Horror,"When this creature enters, each opponent discards a card.",B,B,common,FIN,Final Fantasy,103,1,1,,
+Hedge Whisperer,{G},1.0,Creature — Elf Druid Detective,"You may choose not to untap this creature during your untap step.
+{3}{G}, {T}, Collect evidence 4: Target land you control becomes a 5/5 green Plant Boar creature with haste for as long as this creature remains tapped. It's still a land. Activate only as a sorcery. (To collect evidence 4, exile cards with total mana value 4 or greater from your graveyard.)",G,G,uncommon,MKM,Murders at Karlov Manor,165,0,3,,Collect evidence
+"Hei Bai, Spirit of Balance",{2}{W/B}{W/B},4.0,Legendary Creature — Bear Spirit,"Whenever Hei Bai enters or attacks, you may sacrifice another creature or artifact. If you do, put two +1/+1 counters on Hei Bai.
+When Hei Bai leaves the battlefield, put its counters on target creature you control.","B,W","B,W",uncommon,TLA,Avatar: The Last Airbender,225,3,3,,
+Heirloom Auntie,{2}{B},3.0,Creature — Goblin Warlock,"This creature enters with two -1/-1 counters on it.
+Whenever another creature you control dies, surveil 1, then remove a -1/-1 counter from this creature. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)",B,B,common,ECL,Lorwyn Eclipsed,107,4,4,,Surveil
+"Helga, Skittish Seer",{G}{W}{U},3.0,Legendary Creature — Frog Druid,"Whenever you cast a creature spell with mana value 4 or greater, you draw a card, gain 1 life, and put a +1/+1 counter on Helga.
+{T}: Add X mana of any one color, where X is Helga's power. Spend this mana only to cast creature spells with mana value 4 or greater or creature spells with {X} in their mana costs.","G,U,W","G,U,W",mythic,PBLB,Bloomburrow Promos,217p,1,3,,
+"Helga, Skittish Seer",{G}{W}{U},3.0,Legendary Creature — Frog Druid,"Whenever you cast a creature spell with mana value 4 or greater, you draw a card, gain 1 life, and put a +1/+1 counter on Helga.
+{T}: Add X mana of any one color, where X is Helga's power. Spend this mana only to cast creature spells with mana value 4 or greater or creature spells with {X} in their mana costs.","G,U,W","G,U,W",mythic,BLB,Bloomburrow,217,1,3,,
+"Helga, Skittish Seer",{G}{W}{U},3.0,Legendary Creature — Frog Druid,"Whenever you cast a creature spell with mana value 4 or greater, you draw a card, gain 1 life, and put a +1/+1 counter on Helga.
+{T}: Add X mana of any one color, where X is Helga's power. Spend this mana only to cast creature spells with mana value 4 or greater or creature spells with {X} in their mana costs.","G,U,W","G,U,W",mythic,PBLB,Bloomburrow Promos,217s,1,3,,
+"Helga, Skittish Seer",{G}{W}{U},3.0,Legendary Creature — Frog Druid,"Whenever you cast a creature spell with mana value 4 or greater, you draw a card, gain 1 life, and put a +1/+1 counter on Helga.
+{T}: Add X mana of any one color, where X is Helga's power. Spend this mana only to cast creature spells with mana value 4 or greater or creature spells with {X} in their mana costs.","G,U,W","G,U,W",mythic,BLB,Bloomburrow,332,1,3,,
+Hellspur Brute,{4}{R},5.0,Creature — Minotaur Mercenary,"Affinity for outlaws (This spell costs {1} less to cast for each Assassin, Mercenary, Pirate, Rogue, and/or Warlock you control.)
+Trample",R,R,uncommon,OTJ,Outlaws of Thunder Junction,127,5,4,,Affinity;Trample
+Hellspur Posse Boss,{2}{R}{R},4.0,Creature — Lizard Rogue,"Other outlaws you control have haste. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)
+When this creature enters, create two 1/1 red Mercenary creature tokens with ""{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.""",R,R,rare,OTJ,Outlaws of Thunder Junction,333,2,4,,
+Hellspur Posse Boss,{2}{R}{R},4.0,Creature — Lizard Rogue,"Other outlaws you control have haste. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)
+When this creature enters, create two 1/1 red Mercenary creature tokens with ""{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.""",R,R,rare,OTJ,Outlaws of Thunder Junction,128,2,4,,
+Hellspur Posse Boss,{2}{R}{R},4.0,Creature — Lizard Rogue,"Other outlaws you control have haste. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)
+When this creature enters, create two 1/1 red Mercenary creature tokens with ""{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.""",R,R,rare,POTJ,Outlaws of Thunder Junction Promos,128s,2,4,,
+Hellspur Posse Boss,{2}{R}{R},4.0,Creature — Lizard Rogue,"Other outlaws you control have haste. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)
+When this creature enters, create two 1/1 red Mercenary creature tokens with ""{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.""",R,R,rare,POTJ,Outlaws of Thunder Junction Promos,128p,2,4,,
+Helpful Hunter,{1}{W},2.0,Creature — Cat,"When this creature enters, draw a card.",W,W,rare,SLD,Secret Lair Drop,895,1,1,,
+Helpful Hunter,{1}{W},2.0,Creature — Cat,"When this creature enters, draw a card.",W,W,common,FDN,Foundations,16,1,1,,
+Hemosymbic Mite,{G},1.0,Creature — Mite,"Whenever this creature becomes tapped, another target creature you control gets +X/+X until end of turn, where X is this creature's power.",G,G,uncommon,EOE,Edge of Eternities,190,1,1,,
+Henchbots,{4},4.0,Artifact Creature — Robot,"When this creature enters, exile target tapped creature an opponent controls until this creature leaves the battlefield.",,,uncommon,TMT,Teenage Mutant Ninja Turtles,174,2,3,,
+Herald of Eternal Dawn,{4}{W}{W}{W},7.0,Creature — Angel,"Flash (You may cast this spell any time you could cast an instant.)
+Flying
+You can't lose the game and your opponents can't win the game.",W,W,mythic,FDN,Foundations,368,6,6,,Flying;Flash
+Herald of Eternal Dawn,{4}{W}{W}{W},7.0,Creature — Angel,"Flash (You may cast this spell any time you could cast an instant.)
+Flying
+You can't lose the game and your opponents can't win the game.",W,W,mythic,FDN,Foundations,299,6,6,,Flying;Flash
+Herald of Eternal Dawn,{4}{W}{W}{W},7.0,Creature — Angel,"Flash (You may cast this spell any time you could cast an instant.)
+Flying
+You can't lose the game and your opponents can't win the game.",W,W,mythic,PFDN,Foundations Promos,17s,6,6,,Flying;Flash
+Herald of Eternal Dawn,{4}{W}{W}{W},7.0,Creature — Angel,"Flash (You may cast this spell any time you could cast an instant.)
+Flying
+You can't lose the game and your opponents can't win the game.",W,W,mythic,FDN,Foundations,446,6,6,,Flying;Flash
+Herald of Eternal Dawn,{4}{W}{W}{W},7.0,Creature — Angel,"Flash (You may cast this spell any time you could cast an instant.)
+Flying
+You can't lose the game and your opponents can't win the game.",W,W,mythic,FDN,Foundations,17,6,6,,Flying;Flash
+Herald of Eternal Dawn,{4}{W}{W}{W},7.0,Creature — Angel,"Flash (You may cast this spell any time you could cast an instant.)
+Flying
+You can't lose the game and your opponents can't win the game.",W,W,mythic,FDN,Foundations,433,6,6,,Flying;Flash
+Herald of Eternal Dawn,{4}{W}{W}{W},7.0,Creature — Angel,"Flash (You may cast this spell any time you could cast an instant.)
+Flying
+You can't lose the game and your opponents can't win the game.",W,W,mythic,FDN,Foundations,423,6,6,,Flying;Flash
+Herald of Faith,{3}{W}{W},5.0,Creature — Angel,"Flying
+Whenever this creature attacks, you gain 2 life.",W,W,uncommon,M19,Core Set 2019,13,4,3,,Flying
+Herald of Faith,{3}{W}{W},5.0,Creature — Angel,"Flying
+Whenever this creature attacks, you gain 2 life.",W,W,uncommon,FDN,Foundations,494,4,3,,Flying
+Hermitic Herbalist,{G}{U},2.0,Creature — Human Druid Ally,"{T}: Add one mana of any color.
+{T}: Add two mana in any combination of colors. Spend this mana only to cast Lesson spells.","G,U","G,U",uncommon,TLA,Avatar: The Last Airbender,226,2,3,,
+Hermitic Nautilus,{1}{U},2.0,Artifact Creature — Nautilus,"Vigilance
+{1}{U}: This creature gets +3/-3 until end of turn.",U,U,uncommon,LCI,The Lost Caverns of Ixalan,58,1,4,,Vigilance
+Heroes' Bane,{3}{G}{G},5.0,Creature — Hydra,"This creature enters with four +1/+1 counters on it.
+{2}{G}{G}: Put X +1/+1 counters on this creature, where X is its power.",G,G,uncommon,C20,Commander 2020,175,0,0,,
+Heroes' Bane,{3}{G}{G},5.0,Creature — Hydra,"This creature enters with four +1/+1 counters on it.
+{2}{G}{G}: Put X +1/+1 counters on this creature, where X is its power.",G,G,rare,JOU,Journey into Nyx,126,0,0,,
+Heroes' Bane,{3}{G}{G},5.0,Creature — Hydra,"This creature enters with four +1/+1 counters on it.
+{2}{G}{G}: Put X +1/+1 counters on this creature, where X is its power.",G,G,uncommon,IMA,Iconic Masters,166,0,0,,
+Heroes' Bane,{3}{G}{G},5.0,Creature — Hydra,"This creature enters with four +1/+1 counters on it.
+{2}{G}{G}: Put X +1/+1 counters on this creature, where X is its power.",G,G,rare,FDN,Foundations,639,0,0,,
+Heroes' Bane,{3}{G}{G},5.0,Creature — Hydra,"This creature enters with four +1/+1 counters on it.
+{2}{G}{G}: Put X +1/+1 counters on this creature, where X is its power.",G,G,uncommon,PLST,The List,IMA-166,0,0,,
+Heroes' Bane,{3}{G}{G},5.0,Creature — Hydra,"This creature enters with four +1/+1 counters on it.
+{2}{G}{G}: Put X +1/+1 counters on this creature, where X is its power.",G,G,rare,PRM,Magic Online Promos,52328,0,0,,
+Heroes' Bane,{3}{G}{G},5.0,Creature — Hydra,"This creature enters with four +1/+1 counters on it.
+{2}{G}{G}: Put X +1/+1 counters on this creature, where X is its power.",G,G,rare,PJOU,Journey into Nyx Promos,126★,0,0,,
+Hexing Squelcher,{1}{R},2.0,Creature — Goblin Sorcerer,"This spell can't be countered.
+Ward—Pay 2 life.
+Spells you control can't be countered.
+Other creatures you control have ""Ward—Pay 2 life.""",R,R,rare,PECL,Lorwyn Eclipsed Promos,145p,2,2,,Ward
+Hexing Squelcher,{1}{R},2.0,Creature — Goblin Sorcerer,"This spell can't be countered.
+Ward—Pay 2 life.
+Spells you control can't be countered.
+Other creatures you control have ""Ward—Pay 2 life.""",R,R,rare,ECL,Lorwyn Eclipsed,145,2,2,,Ward
+Hexing Squelcher,{1}{R},2.0,Creature — Goblin Sorcerer,"This spell can't be countered.
+Ward—Pay 2 life.
+Spells you control can't be countered.
+Other creatures you control have ""Ward—Pay 2 life.""",R,R,rare,ECL,Lorwyn Eclipsed,317,2,2,,Ward
+High Fae Negotiator,{3}{B}{B},5.0,Creature — Faerie Warlock,"Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
+Flying
+When this creature enters, if it was bargained, each opponent loses 3 life and you gain 3 life.",B,B,uncommon,WOE,Wilds of Eldraine,94,3,5,,Flying;Bargain
+High Fae Trickster,{3}{U},4.0,Creature — Faerie Wizard,"Flash (You may cast this spell any time you could cast an instant.)
+Flying
+You may cast spells as though they had flash.",U,U,rare,FDN,Foundations,375,4,2,,Flying;Flash

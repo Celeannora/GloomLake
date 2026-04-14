@@ -1,0 +1,115 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Back for Seconds,{2}{B},3.0,Sorcery,"Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
+Return up to two target creature cards from your graveyard to your hand. If this spell was bargained, you may put one of those cards with mana value 4 or less onto the battlefield instead of putting it into your hand.",B,B,uncommon,WOE,Wilds of Eldraine,80,,,,Bargain
+Back on Track,{4}{B},5.0,Sorcery,"Return target creature or Vehicle card from your graveyard to the battlefield. Create a 1/1 colorless Pilot creature token with ""This token saddles Mounts and crews Vehicles as though its power were 2 greater.""",B,B,uncommon,DFT,Aetherdrift,76,,,,
+Badlands Revival,{3}{B}{G},5.0,Sorcery,Return up to one target creature card from your graveyard to the battlefield. Return up to one target permanent card from your graveyard to your hand.,"B,G","B,G",uncommon,OTJ,Outlaws of Thunder Junction,194,,,,
+Beastie Beatdown,{R}{G},2.0,Sorcery,"Choose target creature you control and target creature an opponent controls.
+Delirium — If there are four or more card types among cards in your graveyard, put two +1/+1 counters on the creature you control.
+The creature you control deals damage equal to its power to the creature an opponent controls.","G,R","G,R",uncommon,DSK,Duskmourn: House of Horror,210,,,,Delirium
+Become Brutes,{1}{R},2.0,Sorcery,"One or two target creatures each gain haste until end of turn. For each of those creatures, create a Monster Role token attached to it. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1 and has trample.)",R,R,uncommon,WOE,Wilds of Eldraine,317,,,,Role token
+Behold the Sinister Six!,{6}{B},7.0,Sorcery,Return up to six target creature cards with different names from your graveyard to the battlefield.,B,B,mythic,SPM,Marvel's Spider-Man,51,,,,
+Behold the Sinister Six!,{6}{B},7.0,Sorcery,Return up to six target creature cards with different names from your graveyard to the battlefield.,B,B,mythic,OM1,Through the Omenpaths,57,,,,
+Behold the Sinister Six!,{6}{B},7.0,Sorcery,Return up to six target creature cards with different names from your graveyard to the battlefield.,B,B,mythic,PSPM,Marvel's Spider-Man Promos,51s,,,,
+Behold the Sinister Six!,{6}{B},7.0,Sorcery,Return up to six target creature cards with different names from your graveyard to the battlefield.,B,B,mythic,SPM,Marvel's Spider-Man,221,,,,
+Behold the Sinister Six!,{6}{B},7.0,Sorcery,Return up to six target creature cards with different names from your graveyard to the battlefield.,B,B,mythic,PURL,URL/Convention Promos,2025-4,,,,
+Beseech the Mirror,{1}{B}{B}{B},4.0,Sorcery,"Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
+Search your library for a card, exile it face down, then shuffle. If this spell was bargained, you may cast the exiled card without paying its mana cost if that spell's mana value is 4 or less. Put the exiled card into your hand if it wasn't cast this way.",B,B,mythic,WOE,Wilds of Eldraine,82,,,,Bargain
+Beseech the Mirror,{1}{B}{B}{B},4.0,Sorcery,"Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
+Search your library for a card, exile it face down, then shuffle. If this spell was bargained, you may cast the exiled card without paying its mana cost if that spell's mana value is 4 or less. Put the exiled card into your hand if it wasn't cast this way.",B,B,mythic,WOE,Wilds of Eldraine,336,,,,Bargain
+Beseech the Mirror,{1}{B}{B}{B},4.0,Sorcery,"Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
+Search your library for a card, exile it face down, then shuffle. If this spell was bargained, you may cast the exiled card without paying its mana cost if that spell's mana value is 4 or less. Put the exiled card into your hand if it wasn't cast this way.",B,B,mythic,PWOE,Wilds of Eldraine Promos,82p,,,,Bargain
+Beseech the Mirror,{1}{B}{B}{B},4.0,Sorcery,"Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
+Search your library for a card, exile it face down, then shuffle. If this spell was bargained, you may cast the exiled card without paying its mana cost if that spell's mana value is 4 or less. Put the exiled card into your hand if it wasn't cast this way.",B,B,mythic,PWOE,Wilds of Eldraine Promos,82s,,,,Bargain
+Beyond the Quiet,{3}{W}{W},5.0,Sorcery,Exile all creatures and Spacecraft.,W,W,rare,EOE,Edge of Eternities,303,,,,
+Beyond the Quiet,{3}{W}{W},5.0,Sorcery,Exile all creatures and Spacecraft.,W,W,rare,PEOE,Edge of Eternities Promos,7s,,,,
+Beyond the Quiet,{3}{W}{W},5.0,Sorcery,Exile all creatures and Spacecraft.,W,W,rare,PEOE,Edge of Eternities Promos,7p,,,,
+Beyond the Quiet,{3}{W}{W},5.0,Sorcery,Exile all creatures and Spacecraft.,W,W,rare,EOE,Edge of Eternities,7,,,,
+Binding Negotiation,{1}{B},2.0,Sorcery,"Target opponent reveals their hand. You may choose a nonland card from it. If you do, they discard it. Otherwise, you may put a face-up exiled card they own into their graveyard.",B,B,uncommon,OTJ,Outlaws of Thunder Junction,78,,,,
+Biogenic Upgrade,{4}{G}{G},6.0,Sorcery,"Distribute three +1/+1 counters among one, two, or three target creatures, then double the number of +1/+1 counters on each of those creatures.",G,G,uncommon,J25,Foundations Jumpstart,144,,,,
+Biogenic Upgrade,{4}{G}{G},6.0,Sorcery,"Distribute three +1/+1 counters among one, two, or three target creatures, then double the number of +1/+1 counters on each of those creatures.",G,G,uncommon,MIC,Midnight Hunt Commander,135,,,,
+Biogenic Upgrade,{4}{G}{G},6.0,Sorcery,"Distribute three +1/+1 counters among one, two, or three target creatures, then double the number of +1/+1 counters on each of those creatures.",G,G,uncommon,RNA,Ravnica Allegiance,123,,,,
+Biogenic Upgrade,{4}{G}{G},6.0,Sorcery,"Distribute three +1/+1 counters among one, two, or three target creatures, then double the number of +1/+1 counters on each of those creatures.",G,G,uncommon,2X2,Double Masters 2022,137,,,,
+Biogenic Upgrade,{4}{G}{G},6.0,Sorcery,"Distribute three +1/+1 counters among one, two, or three target creatures, then double the number of +1/+1 counters on each of those creatures.",G,G,uncommon,PLST,The List,RNA-123,,,,
+Biogenic Upgrade,{4}{G}{G},6.0,Sorcery,"Distribute three +1/+1 counters among one, two, or three target creatures, then double the number of +1/+1 counters on each of those creatures.",G,G,uncommon,FDN,Foundations,553,,,,
+Bite Down on Crime,{3}{G},4.0,Sorcery,"As an additional cost to cast this spell, you may collect evidence 6. This spell costs {2} less to cast if evidence was collected. (To collect evidence 6, exile cards with total mana value 6 or greater from your graveyard.)
+Target creature you control gets +2/+0 until end of turn. It deals damage equal to its power to target creature you don't control.",G,G,common,MKM,Murders at Karlov Manor,154,,,,Collect evidence
+Blasphemous Edict,{3}{B}{B},5.0,Sorcery,"You may pay {B} rather than pay this spell's mana cost if there are thirteen or more creatures on the battlefield.
+Each player sacrifices thirteen creatures of their choice.",B,B,rare,FDN,Foundations,382,,,,
+Blasphemous Edict,{3}{B}{B},5.0,Sorcery,"You may pay {B} rather than pay this spell's mana cost if there are thirteen or more creatures on the battlefield.
+Each player sacrifices thirteen creatures of their choice.",B,B,rare,FDN,Foundations,57,,,,
+Blasphemous Edict,{3}{B}{B},5.0,Sorcery,"You may pay {B} rather than pay this spell's mana cost if there are thirteen or more creatures on the battlefield.
+Each player sacrifices thirteen creatures of their choice.",B,B,rare,FDN,Foundations,459,,,,
+Blasphemous Edict,{3}{B}{B},5.0,Sorcery,"You may pay {B} rather than pay this spell's mana cost if there are thirteen or more creatures on the battlefield.
+Each player sacrifices thirteen creatures of their choice.",B,B,rare,FDN,Foundations,317,,,,
+Blasphemous Edict,{3}{B}{B},5.0,Sorcery,"You may pay {B} rather than pay this spell's mana cost if there are thirteen or more creatures on the battlefield.
+Each player sacrifices thirteen creatures of their choice.",B,B,rare,PFDN,Foundations Promos,57p,,,,
+Blasphemous Edict,{3}{B}{B},5.0,Sorcery,"You may pay {B} rather than pay this spell's mana cost if there are thirteen or more creatures on the battlefield.
+Each player sacrifices thirteen creatures of their choice.",B,B,rare,PFDN,Foundations Promos,57s,,,,
+Bloodline Bidding,{6}{B}{B},8.0,Sorcery,"Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+Choose a creature type. Return all creature cards of the chosen type from your graveyard to the battlefield.",B,B,rare,PECL,Lorwyn Eclipsed Promos,91p,,,,Convoke
+Bloodline Bidding,{6}{B}{B},8.0,Sorcery,"Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+Choose a creature type. Return all creature cards of the chosen type from your graveyard to the battlefield.",B,B,rare,ECL,Lorwyn Eclipsed,91,,,,Convoke
+Bloodline Bidding,{6}{B}{B},8.0,Sorcery,"Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+Choose a creature type. Return all creature cards of the chosen type from your graveyard to the battlefield.",B,B,mythic,ECL,Lorwyn Eclipsed,385,,,,Convoke
+Bloodline Bidding,{6}{B}{B},8.0,Sorcery,"Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+Choose a creature type. Return all creature cards of the chosen type from your graveyard to the battlefield.",B,B,mythic,ECL,Lorwyn Eclipsed,395,,,,Convoke
+Bloodline Bidding,{6}{B}{B},8.0,Sorcery,"Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+Choose a creature type. Return all creature cards of the chosen type from your graveyard to the battlefield.",B,B,rare,ECL,Lorwyn Eclipsed,359,,,,Convoke
+Bogslither's Embrace,{1}{B},2.0,Sorcery,"As an additional cost to cast this spell, blight 1 or pay {3}. (To blight 1, put a -1/-1 counter on a creature you control.)
+Exile target creature.",B,B,common,ECL,Lorwyn Eclipsed,94,,,,Blight
+Boltwave,{R},1.0,Sorcery,Boltwave deals 3 damage to each opponent.,R,R,uncommon,FDN,Foundations,79,,,,
+Boomerang Basics,{U},1.0,Sorcery — Lesson,"Return target nonland permanent to its owner's hand. If you controlled that permanent, draw a card.",U,U,uncommon,TLA,Avatar: The Last Airbender,46,,,,
+Bot Bashing Time,{3}{R},4.0,Sorcery,"Bot Bashing Time deals 6 damage to target creature. If that creature would die this turn, exile it instead.",R,R,common,TMT,Teenage Mutant Ninja Turtles,85,,,,
+Boulder Dash,{1}{R},2.0,Sorcery,Boulder Dash deals 2 damage to any target and 1 damage to any other target.,R,R,uncommon,ECL,Lorwyn Eclipsed,127,,,,
+Brass's Bounty,{6}{R},7.0,Sorcery,"For each land you control, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")",R,R,rare,PRIX,Rivals of Ixalan Promos,94p,,,,Treasure
+Brass's Bounty,{6}{R},7.0,Sorcery,"For each land you control, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")",R,R,rare,RIX,Rivals of Ixalan,94,,,,Treasure
+Brass's Bounty,{6}{R},7.0,Sorcery,"For each land you control, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")",R,R,rare,C21,Commander 2021,160,,,,Treasure
+Brass's Bounty,{6}{R},7.0,Sorcery,"For each land you control, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")",R,R,rare,PRM,Magic Online Promos,66886,,,,Treasure
+Brass's Bounty,{6}{R},7.0,Sorcery,"For each land you control, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")",R,R,rare,FDN,Foundations,190,,,,Treasure
+Brass's Bounty,{6}{R},7.0,Sorcery,"For each land you control, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")",R,R,rare,MOC,March of the Machine Commander,272,,,,Treasure
+Brass's Bounty,{6}{R},7.0,Sorcery,"For each land you control, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")",R,R,rare,PFDN,Foundations Promos,190s,,,,Treasure
+Brass's Bounty,{6}{R},7.0,Sorcery,"For each land you control, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")",R,R,rare,PRIX,Rivals of Ixalan Promos,94,,,,Treasure
+Brass's Bounty,{6}{R},7.0,Sorcery,"For each land you control, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")",R,R,rare,PLST,The List,RIX-94,,,,Treasure
+Brass's Bounty,{6}{R},7.0,Sorcery,"For each land you control, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")",R,R,rare,PRIX,Rivals of Ixalan Promos,94s,,,,Treasure
+Brave the Wilds,{G},1.0,Sorcery,"Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
+If this spell was bargained, target land you control becomes a 3/3 Elemental creature with haste that's still a land.
+Search your library for a basic land card, reveal it, put it into your hand, then shuffle.",G,G,common,WOE,Wilds of Eldraine,165,,,,Bargain
+Break Out,{R}{G},2.0,Sorcery,"Look at the top six cards of your library. You may reveal a creature card from among them. If that card has mana value 2 or less, you may put it onto the battlefield and it gains haste until end of turn. If you didn't put the revealed card onto the battlefield this way, put it into your hand. Put the rest on the bottom of your library in a random order.","G,R","G,R",uncommon,MKM,Murders at Karlov Manor,190†,,,,
+Break Out,{R}{G},2.0,Sorcery,"Look at the top six cards of your library. You may reveal a creature card from among them. If that card has mana value 2 or less, you may put it onto the battlefield and it gains haste until end of turn. If you didn't put the revealed card onto the battlefield this way, put it into your hand. Put the rest on the bottom of your library in a random order.","G,R","G,R",uncommon,MKM,Murders at Karlov Manor,190,,,,
+Brigid's Command,{1}{G}{W},3.0,Kindred Sorcery — Kithkin,"Choose two —
+• Create a token that's a copy of target Kithkin you control.
+• Target player creates a 1/1 green and white Kithkin creature token.
+• Target creature you control gets +3/+3 until end of turn.
+• Target creature you control fights target creature an opponent controls.","G,W","G,W",rare,ECL,Lorwyn Eclipsed,332,,,,Fight
+Brigid's Command,{1}{G}{W},3.0,Kindred Sorcery — Kithkin,"Choose two —
+• Create a token that's a copy of target Kithkin you control.
+• Target player creates a 1/1 green and white Kithkin creature token.
+• Target creature you control gets +3/+3 until end of turn.
+• Target creature you control fights target creature an opponent controls.","G,W","G,W",rare,ECL,Lorwyn Eclipsed,208,,,,Fight
+Brigid's Command,{1}{G}{W},3.0,Kindred Sorcery — Kithkin,"Choose two —
+• Create a token that's a copy of target Kithkin you control.
+• Target player creates a 1/1 green and white Kithkin creature token.
+• Target creature you control gets +3/+3 until end of turn.
+• Target creature you control fights target creature an opponent controls.","G,W","G,W",rare,PECL,Lorwyn Eclipsed Promos,208p,,,,Fight
+Brilliance Unleashed,{4}{U}{R},6.0,Sorcery,"Choose one or both —
+• Brilliance Unleashed deals 5 damage to target creature.
+• Choose target artifact card in your graveyard. Return it to the battlefield if it's an artifact creature card. Otherwise, return it to the battlefield and it's a 3/3 Robot artifact creature with flying.","R,U","R,U",uncommon,TMT,Teenage Mutant Ninja Turtles,141,,,,
+Broadcast Takeover,{2}{R}{R}{R},5.0,Sorcery,Gain control of all artifacts your opponents control until end of turn. Untap them. They gain haste until end of turn.,R,R,mythic,TMT,Teenage Mutant Ninja Turtles,234,,,,
+Broadcast Takeover,{2}{R}{R}{R},5.0,Sorcery,Gain control of all artifacts your opponents control until end of turn. Untap them. They gain haste until end of turn.,R,R,mythic,TMT,Teenage Mutant Ninja Turtles,86,,,,
+Bumi Bash,{3}{R},4.0,Sorcery,"Choose one —
+• Bumi Bash deals damage equal to the number of lands you control to target creature.
+• Destroy target land creature or nonbasic land.",R,R,common,TLA,Avatar: The Last Airbender,125,,,,
+Burning Curiosity,{2}{R},3.0,Sorcery,"As an additional cost to cast this spell, you may blight 1. (You may put a -1/-1 counter on a creature you control.)
+Exile the top two cards of your library. If this spell's additional cost was paid, exile the top three cards instead. Until the end of your next turn, you may play those cards.",R,R,common,ECL,Lorwyn Eclipsed,129,,,,Blight
+Bushwhack,{G},1.0,Sorcery,"Choose one —
+• Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+• Target creature you control fights target creature you don't control. (Each deals damage equal to its power to the other.)",G,G,common,FDN,Foundations,215,,,,Fight
+Bushwhack,{G},1.0,Sorcery,"Choose one —
+• Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+• Target creature you control fights target creature you don't control. (Each deals damage equal to its power to the other.)",G,G,uncommon,BRO,The Brothers' War,174,,,,Fight
+Bushwhack,{G},1.0,Sorcery,"Choose one —
+• Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+• Target creature you control fights target creature you don't control. (Each deals damage equal to its power to the other.)",G,G,uncommon,PLST,The List,BRO-174,,,,Fight
+Bushwhack,{G},1.0,Sorcery,"Choose one —
+• Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+• Target creature you control fights target creature you don't control. (Each deals damage equal to its power to the other.)",G,G,uncommon,J25,Foundations Jumpstart,641,,,,Fight

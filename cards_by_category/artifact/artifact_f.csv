@@ -1,0 +1,56 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Fabrication Foundry,{1}{W},2.0,Artifact,"{T}: Add {W}. Spend this mana only to cast an artifact spell or activate an ability of an artifact source.
+{2}{W}, {T}, Exile one or more other artifacts you control with total mana value X: Return target artifact card with mana value X or less from your graveyard to the battlefield. Activate only as a sorcery.",W,W,rare,LCI,The Lost Caverns of Ixalan,12,,,,
+Fabrication Foundry,{1}{W},2.0,Artifact,"{T}: Add {W}. Spend this mana only to cast an artifact spell or activate an ability of an artifact source.
+{2}{W}, {T}, Exile one or more other artifacts you control with total mana value X: Return target artifact card with mana value X or less from your graveyard to the battlefield. Activate only as a sorcery.",W,W,rare,LCI,The Lost Caverns of Ixalan,354,,,,
+Fabrication Foundry,{1}{W},2.0,Artifact,"{T}: Add {W}. Spend this mana only to cast an artifact spell or activate an ability of an artifact source.
+{2}{W}, {T}, Exile one or more other artifacts you control with total mana value X: Return target artifact card with mana value X or less from your graveyard to the battlefield. Activate only as a sorcery.",W,W,rare,PLCI,The Lost Caverns of Ixalan Promos,12p,,,,
+Fabrication Foundry,{1}{W},2.0,Artifact,"{T}: Add {W}. Spend this mana only to cast an artifact spell or activate an ability of an artifact source.
+{2}{W}, {T}, Exile one or more other artifacts you control with total mana value X: Return target artifact card with mana value X or less from your graveyard to the battlefield. Activate only as a sorcery.",W,W,rare,PLCI,The Lost Caverns of Ixalan Promos,12s,,,,
+Feldon's Cane,{1},1.0,Artifact,"{T}, Exile this artifact: Shuffle your graveyard into your library.",,,uncommon,FDN,Foundations,673,,,,
+Feldon's Cane,{1},1.0,Artifact,"{T}, Exile this artifact: Shuffle your graveyard into your library.",,,uncommon,5ED,Fifth Edition,368,,,,
+Feldon's Cane,{1},1.0,Artifact,"{T}, Exile this artifact: Shuffle your graveyard into your library.",,,common,BCHR,Chronicles Foreign Black Border,97,,,,
+Feldon's Cane,{1},1.0,Artifact,"{T}, Exile this artifact: Shuffle your graveyard into your library.",,,common,PTC,Pro Tour Collector Set,ll50sb,,,,
+Feldon's Cane,{1},1.0,Artifact,"{T}, Exile this artifact: Shuffle your graveyard into your library.",,,common,CHR,Chronicles,97,,,,
+Feldon's Cane,{1},1.0,Artifact,"{T}, Exile this artifact: Shuffle your graveyard into your library.",,,common,RIN,Rinascimento,119,,,,
+Feldon's Cane,{1},1.0,Artifact,"{T}, Exile this artifact: Shuffle your graveyard into your library.",,,common,PTC,Pro Tour Collector Set,ml50,,,,
+Feldon's Cane,{1},1.0,Artifact,"{T}, Exile this artifact: Shuffle your graveyard into your library.",,,special,TSB,Time Spiral Timeshifted,109,,,,
+Feldon's Cane,{1},1.0,Artifact,"{T}, Exile this artifact: Shuffle your graveyard into your library.",,,uncommon,ATQ,Antiquities,50,,,,
+Feldon's Cane,{1},1.0,Artifact,"{T}, Exile this artifact: Shuffle your graveyard into your library.",,,common,PTC,Pro Tour Collector Set,shr50sb,,,,
+Feldon's Cane,{1},1.0,Artifact,"{T}, Exile this artifact: Shuffle your graveyard into your library.",,,common,PTC,Pro Tour Collector Set,mj50,,,,
+Fell Gravship,{2}{B},3.0,Artifact — Spacecraft,"When this Spacecraft enters, mill three cards, then return a creature or Spacecraft card from your graveyard to your hand.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 8+.)
+8+ | Flying, lifelink",B,B,uncommon,EOE,Edge of Eternities,101,3,2,,Station;Mill
+Firdoch Core,{3},3.0,Kindred Artifact — Shapeshifter,"Changeling (This card is every creature type.)
+{T}: Add one mana of any color.
+{4}: This artifact becomes a 4/4 artifact creature until end of turn.",,,common,ECL,Lorwyn Eclipsed,255,,,,Changeling
+Fire Nation Warship,{3},3.0,Artifact — Vehicle,"Reach
+When this Vehicle dies, create a Clue token. (It's an artifact with ""{2}, Sacrifice this token: Draw a card."")
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)",,,uncommon,TLA,Avatar: The Last Airbender,256,4,4,,Reach;Crew
+Fireshrieker,{3},3.0,Artifact — Equipment,"Equipped creature has double strike. (It deals both first-strike and regular combat damage.)
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",,,uncommon,CMR,Commander Legends,462,,,,Equip
+Fireshrieker,{3},3.0,Artifact — Equipment,"Equipped creature has double strike. (It deals both first-strike and regular combat damage.)
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",,,uncommon,PIP,Fallout,232,,,,Equip
+Fireshrieker,{3},3.0,Artifact — Equipment,"Equipped creature has double strike. (It deals both first-strike and regular combat damage.)
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",,,uncommon,FDN,Foundations,674,,,,Equip
+Fireshrieker,{3},3.0,Artifact — Equipment,"Equipped creature has double strike. (It deals both first-strike and regular combat damage.)
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",,,uncommon,CMM,Commander Masters,949,,,,Equip
+Fireshrieker,{3},3.0,Artifact — Equipment,"Equipped creature has double strike. (It deals both first-strike and regular combat damage.)
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",,,uncommon,CNS,Conspiracy,199,,,,Equip
+Fireshrieker,{3},3.0,Artifact — Equipment,"Equipped creature has double strike. (It deals both first-strike and regular combat damage.)
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",,,uncommon,MRD,Mirrodin,171,,,,Equip
+Fireshrieker,{3},3.0,Artifact — Equipment,"Equipped creature has double strike. (It deals both first-strike and regular combat damage.)
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",,,uncommon,M14,Magic 2014,210,,,,Equip
+Fireshrieker,{3},3.0,Artifact — Equipment,"Equipped creature has double strike. (It deals both first-strike and regular combat damage.)
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",,,uncommon,NEC,Neon Dynasty Commander,151,,,,Equip
+Fireshrieker,{3},3.0,Artifact — Equipment,"Equipped creature has double strike. (It deals both first-strike and regular combat damage.)
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",,,uncommon,PIP,Fallout,760,,,,Equip
+Fireshrieker,{3},3.0,Artifact — Equipment,"Equipped creature has double strike. (It deals both first-strike and regular combat damage.)
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",,,uncommon,J25,Foundations Jumpstart,750,,,,Equip
+Fishing Pole,{1},1.0,Artifact — Equipment,"Equipped creature has ""{1}, {T}, Tap Fishing Pole: Put a bait counter on Fishing Pole.""
+Whenever equipped creature becomes untapped, remove a bait counter from this Equipment. If you do, create a 1/1 blue Fish creature token.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",,,uncommon,FDN,Foundations,128,,,,Equip
+Found Footage,{1},1.0,Artifact — Clue,"You may look at face-down creatures your opponents control any time.
+{2}, Sacrifice this artifact: Surveil 2, then draw a card. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)",,,common,DSK,Duskmourn: House of Horror,246,,,,Surveil
+Fountainport Bell,{1},1.0,Artifact,"When this artifact enters, you may search your library for a basic land card, reveal it, then shuffle and put that card on top.
+{1}, Sacrifice this artifact: Draw a card.",,,common,BLB,Bloomburrow,245,,,,

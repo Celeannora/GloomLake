@@ -1,0 +1,59 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Nameless Inversion,{1}{B},2.0,Kindred Instant — Shapeshifter,"Changeling (This card is every creature type.)
+Target creature gets +3/-3 and loses all creature types until end of turn.",B,B,common,PRM,Magic Online Promos,35126,,,,Changeling
+Nameless Inversion,{1}{B},2.0,Kindred Instant — Shapeshifter,"Changeling (This card is every creature type.)
+Target creature gets +3/-3 and loses all creature types until end of turn.",B,B,common,MM2,Modern Masters 2015,87,,,,Changeling
+Nameless Inversion,{1}{B},2.0,Kindred Instant — Shapeshifter,"Changeling (This card is every creature type.)
+Target creature gets +3/-3 and loses all creature types until end of turn.",B,B,uncommon,ECL,Lorwyn Eclipsed,113,,,,Changeling
+Nameless Inversion,{1}{B},2.0,Kindred Instant — Shapeshifter,"Changeling (This card is every creature type.)
+Target creature gets +3/-3 and loses all creature types until end of turn.",B,B,common,LRW,Lorwyn,128,,,,Changeling
+Nameless Inversion,{1}{B},2.0,Kindred Instant — Shapeshifter,"Changeling (This card is every creature type.)
+Target creature gets +3/-3 and loses all creature types until end of turn.",B,B,rare,P09,Magic Player Rewards 2009,4,,,,Changeling
+Nameless Inversion,{1}{B},2.0,Kindred Instant — Shapeshifter,"Changeling (This card is every creature type.)
+Target creature gets +3/-3 and loses all creature types until end of turn.",B,B,common,PLST,The List,MM2-87,,,,Changeling
+Narset's Rebuke,{4}{R},5.0,Instant,"Narset's Rebuke deals 5 damage to target creature. Add {U}{R}{W}. If that creature would die this turn, exile it instead.",R,"R,U,W",common,TDM,Tarkir: Dragonstorm,114,,,,
+Negate,{1}{U},2.0,Instant,Counter target noncreature spell.,U,U,common,OGW,Oath of the Gatewatch,59,,,,
+Negate,{1}{U},2.0,Instant,Counter target noncreature spell.,U,U,common,PM20,Core Set 2020 Promos,69,,,,
+Negate,{1}{U},2.0,Instant,Counter target noncreature spell.,U,U,common,PLST,The List,ZNR-71,,,,
+Negate,{1}{U},2.0,Instant,Counter target noncreature spell.,U,U,rare,P09,Magic Player Rewards 2009,8,,,,
+Negate,{1}{U},2.0,Instant,Counter target noncreature spell.,U,U,common,RIX,Rivals of Ixalan,44,,,,
+Negate,{1}{U},2.0,Instant,Counter target noncreature spell.,U,U,common,M20,Core Set 2020,69,,,,
+Negate,{1}{U},2.0,Instant,Counter target noncreature spell.,U,U,uncommon,STA,Strixhaven Mystical Archive,81,,,,
+Negate,{1}{U},2.0,Instant,Counter target noncreature spell.,U,U,common,M10,Magic 2010,65,,,,
+Negate,{1}{U},2.0,Instant,Counter target noncreature spell.,U,U,common,CN2,Conspiracy: Take the Crown,117,,,,
+Negate,{1}{U},2.0,Instant,Counter target noncreature spell.,U,U,common,DMU,Dominaria United,58,,,,
+Negate,{1}{U},2.0,Instant,Counter target noncreature spell.,U,U,common,PS11,Salvat 2011,47,,,,
+Negate,{1}{U},2.0,Instant,Counter target noncreature spell.,U,U,common,TMT,Teenage Mutant Ninja Turtles,47,,,,
+Negate,{1}{U},2.0,Instant,Counter target noncreature spell.,U,U,common,MOR,Morningtide,43,,,,
+Negate,{1}{U},2.0,Instant,Counter target noncreature spell.,U,U,uncommon,STA,Strixhaven Mystical Archive,18,,,,
+Negate,{1}{U},2.0,Instant,Counter target noncreature spell.,U,U,common,DTK,Dragons of Tarkir,65,,,,
+Negate,{1}{U},2.0,Instant,Counter target noncreature spell.,U,U,common,M14,Magic 2014,64,,,,
+Negate,{1}{U},2.0,Instant,Counter target noncreature spell.,U,U,common,M15,Magic 2015,71,,,,
+Negate,{1}{U},2.0,Instant,Counter target noncreature spell.,U,U,common,DPA,Duels of the Planeswalkers,13,,,,
+Negate,{1}{U},2.0,Instant,Counter target noncreature spell.,U,U,rare,PRM,Magic Online Promos,70930,,,,
+Negate,{1}{U},2.0,Instant,Counter target noncreature spell.,U,U,common,M12,Magic 2012,69,,,,
+Negate,{1}{U},2.0,Instant,Counter target noncreature spell.,U,U,common,MOM,March of the Machine,68,,,,
+Negate,{1}{U},2.0,Instant,Counter target noncreature spell.,U,U,common,M13,Magic 2013,62,,,,
+Negate,{1}{U},2.0,Instant,Counter target noncreature spell.,U,U,rare,SS1,Signature Spellbook: Jace,7,,,,
+Negate,{1}{U},2.0,Instant,Counter target noncreature spell.,U,U,common,M11,Magic 2011,68,,,,
+Negate,{1}{U},2.0,Instant,Counter target noncreature spell.,U,U,rare,PLST,The List,P09-8,,,,
+Negate,{1}{U},2.0,Instant,Counter target noncreature spell.,U,U,common,AER,Aether Revolt,40,,,,
+Negate,{1}{U},2.0,Instant,Counter target noncreature spell.,U,U,common,SCD,Starter Commander Decks,58,,,,
+Negate,{1}{U},2.0,Instant,Counter target noncreature spell.,U,U,common,PLST,The List,RIX-44,,,,
+Negate,{1}{U},2.0,Instant,Counter target noncreature spell.,U,U,common,PRM,Magic Online Promos,35138,,,,
+Negate,{1}{U},2.0,Instant,Counter target noncreature spell.,U,U,common,ORI,Magic Origins,65,,,,
+Negate,{1}{U},2.0,Instant,Counter target noncreature spell.,U,U,common,ZNR,Zendikar Rising,71,,,,
+Negate,{1}{U},2.0,Instant,Counter target noncreature spell.,U,U,common,BBD,Battlebond,123,,,,
+Negate,{1}{U},2.0,Instant,Counter target noncreature spell.,U,U,common,FDN,Foundations,710,,,,
+Neutralize the Guards,{2}{B},3.0,Instant,"Creatures target opponent controls get -1/-1 until end of turn. Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)",B,B,uncommon,OTJ,Outlaws of Thunder Junction,95,,,,Surveil
+New Way Forward,{2}{U}{R}{W},5.0,Instant,"The next time a source of your choice would deal damage to you this turn, prevent that damage. When damage is prevented this way, New Way Forward deals that much damage to that source's controller and you draw that many cards.","R,U,W","R,U,W",rare,TDM,Tarkir: Dragonstorm,367,,,,
+New Way Forward,{2}{U}{R}{W},5.0,Instant,"The next time a source of your choice would deal damage to you this turn, prevent that damage. When damage is prevented this way, New Way Forward deals that much damage to that source's controller and you draw that many cards.","R,U,W","R,U,W",rare,PTDM,Tarkir: Dragonstorm Promos,211s,,,,
+New Way Forward,{2}{U}{R}{W},5.0,Instant,"The next time a source of your choice would deal damage to you this turn, prevent that damage. When damage is prevented this way, New Way Forward deals that much damage to that source's controller and you draw that many cards.","R,U,W","R,U,W",rare,PTDM,Tarkir: Dragonstorm Promos,211p,,,,
+New Way Forward,{2}{U}{R}{W},5.0,Instant,"The next time a source of your choice would deal damage to you this turn, prevent that damage. When damage is prevented this way, New Way Forward deals that much damage to that source's controller and you draw that many cards.","R,U,W","R,U,W",rare,TDM,Tarkir: Dragonstorm,211,,,,
+No More Lies,{W}{U},2.0,Instant,"Counter target spell unless its controller pays {3}. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.","U,W","U,W",uncommon,MKM,Murders at Karlov Manor,221,,,,
+No More Lies,{W}{U},2.0,Instant,"Counter target spell unless its controller pays {3}. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.","U,W","U,W",uncommon,MKM,Murders at Karlov Manor,427,,,,
+Nocturnal Hunger,{2}{B},3.0,Instant,"Gift a Food (You may promise an opponent a gift as you cast this spell. If you do, they create a Food token before its other effects. It's an artifact with ""{2}, {T}, Sacrifice this token: You gain 3 life."")
+Destroy target creature. If the gift wasn't promised, you lose 2 life.",B,B,common,BLB,Bloomburrow,102,,,,Gift;Food
+Not Dead After All,{B},1.0,Instant,"Until end of turn, target creature you control gains ""When this creature dies, return it to the battlefield tapped under its owner's control, then create a Wicked Role token attached to it."" (Enchanted creature gets +1/+1. When this token is put into a graveyard, each opponent loses 1 life.)",B,B,common,WOE,Wilds of Eldraine,101,,,,Role token
+Not on My Watch,{1}{W},2.0,Instant,Exile target attacking creature.,W,W,uncommon,MKM,Murders at Karlov Manor,28,,,,
+Not on My Watch,{1}{W},2.0,Instant,Exile target attacking creature.,W,W,uncommon,MKM,Murders at Karlov Manor,291,,,,

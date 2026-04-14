@@ -1,0 +1,109 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Hard-Won Jitte,{1}{R},2.0,Artifact — Equipment,"Equipped creature has double strike.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",R,R,uncommon,TMT,Teenage Mutant Ninja Turtles,91,,,,Equip
+Haunted Hellride,{1}{U}{B},3.0,Artifact — Vehicle,"Whenever you attack, target creature you control gets +1/+0 and gains deathtouch until end of turn. Untap it.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)","B,U","B,U",uncommon,DFT,Aetherdrift,325,3,3,,Crew
+Haunted Hellride,{1}{U}{B},3.0,Artifact — Vehicle,"Whenever you attack, target creature you control gets +1/+0 and gains deathtouch until end of turn. Untap it.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)","B,U","B,U",uncommon,DFT,Aetherdrift,208,3,3,,Crew
+Haunted Screen,{3},3.0,Artifact,"{T}: Add {W} or {B}.
+{T}, Pay 1 life: Add {G}, {U}, or {R}.
+{7}: Put seven +1/+1 counters on this artifact. It becomes a 0/0 Spirit creature in addition to its other types. Activate only once.",,"B,G,R,U,W",uncommon,DSK,Duskmourn: House of Horror,250,,,,
+Heaped Harvest,{2}{G},3.0,Artifact — Food,"When this artifact enters and when you sacrifice it, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+{2}, {T}, Sacrifice this artifact: You gain 3 life.",G,G,common,BLB,Bloomburrow,175,,,,
+Hedge Shredder,{2}{G}{G},4.0,Artifact — Vehicle,"Whenever this Vehicle attacks, you may mill two cards.
+Whenever one or more land cards are put into your graveyard from your library, put them onto the battlefield tapped.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)",G,G,rare,DSK,Duskmourn: House of Horror,320,5,5,,Crew;Mill
+Hedge Shredder,{2}{G}{G},4.0,Artifact — Vehicle,"Whenever this Vehicle attacks, you may mill two cards.
+Whenever one or more land cards are put into your graveyard from your library, put them onto the battlefield tapped.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)",G,G,rare,DSK,Duskmourn: House of Horror,183,5,5,,Crew;Mill
+Hedge Shredder,{2}{G}{G},4.0,Artifact — Vehicle,"Whenever this Vehicle attacks, you may mill two cards.
+Whenever one or more land cards are put into your graveyard from your library, put them onto the battlefield tapped.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)",G,G,rare,PDSK,Duskmourn: House of Horror Promos,183p,5,5,,Crew;Mill
+Hedge Shredder,{2}{G}{G},4.0,Artifact — Vehicle,"Whenever this Vehicle attacks, you may mill two cards.
+Whenever one or more land cards are put into your graveyard from your library, put them onto the battlefield tapped.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)",G,G,rare,PDSK,Duskmourn: House of Horror Promos,183s,5,5,,Crew;Mill
+Hedron Archive,{4},4.0,Artifact,"{T}: Add {C}{C}.
+{2}, {T}, Sacrifice this artifact: Draw two cards.",,,uncommon,BLC,Bloomburrow Commander,275,,,,
+Hedron Archive,{4},4.0,Artifact,"{T}: Add {C}{C}.
+{2}, {T}, Sacrifice this artifact: Draw two cards.",,,uncommon,BFZ,Battle for Zendikar,223,,,,
+Hedron Archive,{4},4.0,Artifact,"{T}: Add {C}{C}.
+{2}, {T}, Sacrifice this artifact: Draw two cards.",,,uncommon,DMC,Dominaria United Commander,184,,,,
+Hedron Archive,{4},4.0,Artifact,"{T}: Add {C}{C}.
+{2}, {T}, Sacrifice this artifact: Draw two cards.",,,uncommon,40K,"Warhammer 40,000 Commander",240,,,,
+Hedron Archive,{4},4.0,Artifact,"{T}: Add {C}{C}.
+{2}, {T}, Sacrifice this artifact: Draw two cards.",,,uncommon,CLB,Commander Legends: Battle for Baldur's Gate,861,,,,
+Hedron Archive,{4},4.0,Artifact,"{T}: Add {C}{C}.
+{2}, {T}, Sacrifice this artifact: Draw two cards.",,,uncommon,FDN,Foundations,726,,,,
+Hedron Archive,{4},4.0,Artifact,"{T}: Add {C}{C}.
+{2}, {T}, Sacrifice this artifact: Draw two cards.",,,uncommon,40K,"Warhammer 40,000 Commander",240★,,,,
+Hedron Archive,{4},4.0,Artifact,"{T}: Add {C}{C}.
+{2}, {T}, Sacrifice this artifact: Draw two cards.",,,uncommon,C18,Commander 2018,206,,,,
+Hedron Archive,{4},4.0,Artifact,"{T}: Add {C}{C}.
+{2}, {T}, Sacrifice this artifact: Draw two cards.",,,uncommon,BRC,The Brothers' War Commander,142,,,,
+Hedron Archive,{4},4.0,Artifact,"{T}: Add {C}{C}.
+{2}, {T}, Sacrifice this artifact: Draw two cards.",,,rare,SLD,Secret Lair Drop,691,,,,
+Hedron Archive,{4},4.0,Artifact,"{T}: Add {C}{C}.
+{2}, {T}, Sacrifice this artifact: Draw two cards.",,,uncommon,SCD,Starter Commander Decks,266,,,,
+Hedron Archive,{4},4.0,Artifact,"{T}: Add {C}{C}.
+{2}, {T}, Sacrifice this artifact: Draw two cards.",,,uncommon,J22,Jumpstart 2022,774,,,,
+Hedron Archive,{4},4.0,Artifact,"{T}: Add {C}{C}.
+{2}, {T}, Sacrifice this artifact: Draw two cards.",,,uncommon,C19,Commander 2019,214,,,,
+Hedron Archive,{4},4.0,Artifact,"{T}: Add {C}{C}.
+{2}, {T}, Sacrifice this artifact: Draw two cards.",,,special,TSR,Time Spiral Remastered,395,,,,
+Hedron Archive,{4},4.0,Artifact,"{T}: Add {C}{C}.
+{2}, {T}, Sacrifice this artifact: Draw two cards.",,,uncommon,MOC,March of the Machine Commander,359,,,,
+Hedron Archive,{4},4.0,Artifact,"{T}: Add {C}{C}.
+{2}, {T}, Sacrifice this artifact: Draw two cards.",,,uncommon,CMM,Commander Masters,952,,,,
+Hedron Archive,{4},4.0,Artifact,"{T}: Add {C}{C}.
+{2}, {T}, Sacrifice this artifact: Draw two cards.",,,uncommon,JMP,Jumpstart,468,,,,
+Hedron Archive,{4},4.0,Artifact,"{T}: Add {C}{C}.
+{2}, {T}, Sacrifice this artifact: Draw two cards.",,,uncommon,M3C,Modern Horizons 3 Commander,295,,,,
+Hedron Archive,{4},4.0,Artifact,"{T}: Add {C}{C}.
+{2}, {T}, Sacrifice this artifact: Draw two cards.",,,uncommon,C17,Commander 2017,213,,,,
+Hedron Archive,{4},4.0,Artifact,"{T}: Add {C}{C}.
+{2}, {T}, Sacrifice this artifact: Draw two cards.",,,uncommon,C21,Commander 2021,244,,,,
+Heirloom Epic,{1},1.0,Artifact,"{4}, {T}: Draw a card. For each mana in this ability's activation cost, you may tap an untapped creature you control rather than pay that mana. Activate only as a sorcery.",,,uncommon,BLB,Bloomburrow,246,,,,
+Heraldic Banner,{3},3.0,Artifact,"As this artifact enters, choose a color.
+Creatures you control of the chosen color get +1/+0.
+{T}: Add one mana of the chosen color.",,,uncommon,SCD,Starter Commander Decks,267,,,,
+Heraldic Banner,{3},3.0,Artifact,"As this artifact enters, choose a color.
+Creatures you control of the chosen color get +1/+0.
+{T}: Add one mana of the chosen color.",,,uncommon,ELD,Throne of Eldraine,222,,,,
+Heraldic Banner,{3},3.0,Artifact,"As this artifact enters, choose a color.
+Creatures you control of the chosen color get +1/+0.
+{T}: Add one mana of the chosen color.",,,uncommon,FDN,Foundations,254,,,,
+Heraldic Banner,{3},3.0,Artifact,"As this artifact enters, choose a color.
+Creatures you control of the chosen color get +1/+0.
+{T}: Add one mana of the chosen color.",,,uncommon,PLST,The List,ELD-222,,,,
+Herd Heirloom,{1}{G},2.0,Artifact,"{T}: Add one mana of any color. Spend this mana only to cast a creature spell.
+{T}: Until end of turn, target creature you control with power 4 or greater gains trample and ""Whenever this creature deals combat damage to a player, draw a card.""",G,G,rare,PTDM,Tarkir: Dragonstorm Promos,144p,,,,
+Herd Heirloom,{1}{G},2.0,Artifact,"{T}: Add one mana of any color. Spend this mana only to cast a creature spell.
+{T}: Until end of turn, target creature you control with power 4 or greater gains trample and ""Whenever this creature deals combat damage to a player, draw a card.""",G,G,rare,TDM,Tarkir: Dragonstorm,144,,,,
+Herd Heirloom,{1}{G},2.0,Artifact,"{T}: Add one mana of any color. Spend this mana only to cast a creature spell.
+{T}: Until end of turn, target creature you control with power 4 or greater gains trample and ""Whenever this creature deals combat damage to a player, draw a card.""",G,G,rare,TDM,Tarkir: Dragonstorm,347,,,,
+Herd Heirloom,{1}{G},2.0,Artifact,"{T}: Add one mana of any color. Spend this mana only to cast a creature spell.
+{T}: Until end of turn, target creature you control with power 4 or greater gains trample and ""Whenever this creature deals combat damage to a player, draw a card.""",G,G,rare,PTDM,Tarkir: Dragonstorm Promos,144s,,,,
+Hot Dog Cart,{3},3.0,Artifact,"When this artifact enters, create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this token: You gain 3 life."")
+{T}: Add one mana of any color.",,,common,OM1,Through the Omenpaths,177,,,,Food
+Hot Dog Cart,{3},3.0,Artifact,"When this artifact enters, create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this token: You gain 3 life."")
+{T}: Add one mana of any color.",,,common,SPM,Marvel's Spider-Man,164,,,,Food
+Hulldrifter,{3}{U}{U},5.0,Artifact — Vehicle,"Flying
+When this Vehicle enters, draw two cards.
+Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)",U,U,common,DFT,Aetherdrift,300,3,2,,Flying;Crew
+Hulldrifter,{3}{U}{U},5.0,Artifact — Vehicle,"Flying
+When this Vehicle enters, draw two cards.
+Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)",U,U,common,DFT,Aetherdrift,47,3,2,,Flying;Crew
+Hunter's Blowgun,{1},1.0,Artifact — Equipment,"Equipped creature gets +1/+1.
+Equipped creature has deathtouch during your turn. Otherwise, it has reach.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",,,common,LCI,The Lost Caverns of Ixalan,255,,,,Equip
+Hylda's Crown of Winter,{3},3.0,Legendary Artifact,"{1}, {T}: Tap target creature. This ability costs {1} less to activate during your turn.
+{3}, Sacrifice Hylda's Crown of Winter: Draw a card for each tapped creature your opponents control.",,,rare,WOE,Wilds of Eldraine,367,,,,
+Hylda's Crown of Winter,{3},3.0,Legendary Artifact,"{1}, {T}: Tap target creature. This ability costs {1} less to activate during your turn.
+{3}, Sacrifice Hylda's Crown of Winter: Draw a card for each tapped creature your opponents control.",,,rare,PWOE,Wilds of Eldraine Promos,247p,,,,
+Hylda's Crown of Winter,{3},3.0,Legendary Artifact,"{1}, {T}: Tap target creature. This ability costs {1} less to activate during your turn.
+{3}, Sacrifice Hylda's Crown of Winter: Draw a card for each tapped creature your opponents control.",,,rare,PWOE,Wilds of Eldraine Promos,247s,,,,
+Hylda's Crown of Winter,{3},3.0,Legendary Artifact,"{1}, {T}: Tap target creature. This ability costs {1} less to activate during your turn.
+{3}, Sacrifice Hylda's Crown of Winter: Draw a card for each tapped creature your opponents control.",,,rare,WOE,Wilds of Eldraine,247,,,,
+Hylderblade,{B},1.0,Artifact — Equipment,"Equipped creature gets +3/+1.
+Void — At the beginning of your end step, if a nonland permanent left the battlefield this turn or a spell was warped this turn, attach this Equipment to target creature you control.
+Equip {4} ({4}: Attach to target creature you control. Equip only as a sorcery.)",B,B,uncommon,EOE,Edge of Eternities,106,,,,Equip;Void

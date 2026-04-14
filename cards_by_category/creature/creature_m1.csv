@@ -1,0 +1,348 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Maalfeld Twins,{5}{B},6.0,Creature — Zombie,"When this creature dies, create two 2/2 black Zombie creature tokens.",B,B,common,GN3,Game Night: Free-for-All,56,4,4,,
+Maalfeld Twins,{5}{B},6.0,Creature — Zombie,"When this creature dies, create two 2/2 black Zombie creature tokens.",B,B,common,J22,Jumpstart 2022,438,4,4,,
+Maalfeld Twins,{5}{B},6.0,Creature — Zombie,"When this creature dies, create two 2/2 black Zombie creature tokens.",B,B,uncommon,FDN,Foundations,523,4,4,,
+Maalfeld Twins,{5}{B},6.0,Creature — Zombie,"When this creature dies, create two 2/2 black Zombie creature tokens.",B,B,uncommon,AVR,Avacyn Restored,112,4,4,,
+Maalfeld Twins,{5}{B},6.0,Creature — Zombie,"When this creature dies, create two 2/2 black Zombie creature tokens.",B,B,common,CMR,Commander Legends,132,4,4,,
+"Mabel, Heir to Cragflame",{1}{R}{W},3.0,Legendary Creature — Mouse Soldier,"Other Mice you control get +1/+1.
+When Mabel enters, create Cragflame, a legendary colorless Equipment artifact token with ""Equipped creature gets +1/+1 and has vigilance, trample, and haste"" and equip {2}.","R,W","R,W",rare,BLB,Bloomburrow,336,3,3,,
+"Mabel, Heir to Cragflame",{1}{R}{W},3.0,Legendary Creature — Mouse Soldier,"Other Mice you control get +1/+1.
+When Mabel enters, create Cragflame, a legendary colorless Equipment artifact token with ""Equipped creature gets +1/+1 and has vigilance, trample, and haste"" and equip {2}.","R,W","R,W",rare,PBLB,Bloomburrow Promos,224p,3,3,,
+"Mabel, Heir to Cragflame",{1}{R}{W},3.0,Legendary Creature — Mouse Soldier,"Other Mice you control get +1/+1.
+When Mabel enters, create Cragflame, a legendary colorless Equipment artifact token with ""Equipped creature gets +1/+1 and has vigilance, trample, and haste"" and equip {2}.","R,W","R,W",rare,BLB,Bloomburrow,224,3,3,,
+"Mabel, Heir to Cragflame",{1}{R}{W},3.0,Legendary Creature — Mouse Soldier,"Other Mice you control get +1/+1.
+When Mabel enters, create Cragflame, a legendary colorless Equipment artifact token with ""Equipped creature gets +1/+1 and has vigilance, trample, and haste"" and equip {2}.","R,W","R,W",rare,PBLB,Bloomburrow Promos,224s,3,3,,
+"Mabel, Heir to Cragflame",{1}{R}{W},3.0,Legendary Creature — Mouse Soldier,"Other Mice you control get +1/+1.
+When Mabel enters, create Cragflame, a legendary colorless Equipment artifact token with ""Equipped creature gets +1/+1 and has vigilance, trample, and haste"" and equip {2}.","R,W","R,W",rare,BLB,Bloomburrow,351,3,3,,
+"Madame Null, Power Broker",{2}{B},3.0,Legendary Creature — Demon Advisor,"Deathtouch
+Whenever another creature you control enters, you may pay life equal to its power. If you do, put that many +1/+1 counters on it.",B,B,rare,TMT,Teenage Mutant Ninja Turtles,66,1,3,,Deathtouch
+"Madame Null, Power Broker",{2}{B},3.0,Legendary Creature — Demon Advisor,"Deathtouch
+Whenever another creature you control enters, you may pay life equal to its power. If you do, put that many +1/+1 counters on it.",B,B,rare,TMT,Teenage Mutant Ninja Turtles,265,1,3,,Deathtouch
+"Madame Web, Clairvoyant",{4}{U}{U},6.0,Legendary Creature — Mutant Advisor,"You may look at the top card of your library any time.
+You may cast Spider spells and noncreature spells from the top of your library.
+Whenever you attack, you may mill a card. (You may put the top card of your library into your graveyard.)",U,U,uncommon,OM1,Through the Omenpaths,36,4,4,,Mill
+"Madame Web, Clairvoyant",{4}{U}{U},6.0,Legendary Creature — Mutant Advisor,"You may look at the top card of your library any time.
+You may cast Spider spells and noncreature spells from the top of your library.
+Whenever you attack, you may mill a card. (You may put the top card of your library into your graveyard.)",U,U,uncommon,SPM,Marvel's Spider-Man,36,4,4,,Mill
+"Magda, the Hoardmaster",{1}{R},2.0,Legendary Creature — Dwarf Berserker,"Whenever you commit a crime, create a tapped Treasure token. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)
+Sacrifice three Treasures: Create a 4/4 red Scorpion Dragon creature token with flying and haste. Activate only as a sorcery.",R,R,rare,OTJ,Outlaws of Thunder Junction,374,2,2,,Treasure
+"Magda, the Hoardmaster",{1}{R},2.0,Legendary Creature — Dwarf Berserker,"Whenever you commit a crime, create a tapped Treasure token. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)
+Sacrifice three Treasures: Create a 4/4 red Scorpion Dragon creature token with flying and haste. Activate only as a sorcery.",R,R,rare,POTJ,Outlaws of Thunder Junction Promos,133s,2,2,,Treasure
+"Magda, the Hoardmaster",{1}{R},2.0,Legendary Creature — Dwarf Berserker,"Whenever you commit a crime, create a tapped Treasure token. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)
+Sacrifice three Treasures: Create a 4/4 red Scorpion Dragon creature token with flying and haste. Activate only as a sorcery.",R,R,rare,OTJ,Outlaws of Thunder Junction,133,2,2,,Treasure
+"Magda, the Hoardmaster",{1}{R},2.0,Legendary Creature — Dwarf Berserker,"Whenever you commit a crime, create a tapped Treasure token. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)
+Sacrifice three Treasures: Create a 4/4 red Scorpion Dragon creature token with flying and haste. Activate only as a sorcery.",R,R,rare,OTJ,Outlaws of Thunder Junction,334,2,2,,Treasure
+"Magda, the Hoardmaster",{1}{R},2.0,Legendary Creature — Dwarf Berserker,"Whenever you commit a crime, create a tapped Treasure token. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)
+Sacrifice three Treasures: Create a 4/4 red Scorpion Dragon creature token with flying and haste. Activate only as a sorcery.",R,R,rare,POTJ,Outlaws of Thunder Junction Promos,133p,2,2,,Treasure
+Magebane Lizard,{1}{R},2.0,Creature — Lizard,"Whenever a player casts a noncreature spell, this creature deals damage to that player equal to the number of noncreature spells they've cast this turn.",R,R,uncommon,OTJ,Outlaws of Thunder Junction,134,1,4,,
+Magic Pot,{3},3.0,Artifact Creature — Goblin Construct,"When this creature dies, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")
+{2}, {T}: Exile target card from a graveyard.",,,common,FIN,Final Fantasy,263,1,4,,Treasure
+Magitek Infantry,{W},1.0,Artifact Creature — Robot Soldier,"This creature gets +1/+0 as long as you control another artifact.
+{2}{W}: Search your library for a card named Magitek Infantry, put it onto the battlefield tapped, then shuffle.",W,W,common,FIN,Final Fantasy,25,1,1,,
+Magmakin Artillerist,{2}{R},3.0,Creature — Elemental Pirate,"Whenever you discard one or more cards, this creature deals that much damage to each opponent.
+Cycling {1}{R} ({1}{R}, Discard this card: Draw a card.)
+When you cycle this card, it deals 1 damage to each opponent.",R,R,common,DFT,Aetherdrift,137,1,4,,Cycling
+Magmatic Hellkite,{2}{R}{R},4.0,Creature — Dragon,"Flying
+When this creature enters, destroy target nonbasic land an opponent controls. Its controller searches their library for a basic land card, puts it onto the battlefield tapped with a stun counter on it, then shuffles. (If a permanent with a stun counter would become untapped, remove one from it instead.)",R,R,rare,PTDM,Tarkir: Dragonstorm Promos,111s,4,5,,Flying
+Magmatic Hellkite,{2}{R}{R},4.0,Creature — Dragon,"Flying
+When this creature enters, destroy target nonbasic land an opponent controls. Its controller searches their library for a basic land card, puts it onto the battlefield tapped with a stun counter on it, then shuffles. (If a permanent with a stun counter would become untapped, remove one from it instead.)",R,R,rare,PTDM,Tarkir: Dragonstorm Promos,111p,4,5,,Flying
+Magmatic Hellkite,{2}{R}{R},4.0,Creature — Dragon,"Flying
+When this creature enters, destroy target nonbasic land an opponent controls. Its controller searches their library for a basic land card, puts it onto the battlefield tapped with a stun counter on it, then shuffles. (If a permanent with a stun counter would become untapped, remove one from it instead.)",R,R,rare,TDM,Tarkir: Dragonstorm,111,4,5,,Flying
+Magmatic Hellkite,{2}{R}{R},4.0,Creature — Dragon,"Flying
+When this creature enters, destroy target nonbasic land an opponent controls. Its controller searches their library for a basic land card, puts it onto the battlefield tapped with a stun counter on it, then shuffles. (If a permanent with a stun counter would become untapped, remove one from it instead.)",R,R,rare,TDM,Tarkir: Dragonstorm,301,4,5,,Flying
+Magnetic Snuffler,{5},5.0,Artifact Creature — Construct,"When this creature enters, return target Equipment card from your graveyard to the battlefield attached to this creature.
+Whenever you sacrifice an artifact, put a +1/+1 counter on this creature.",,,uncommon,MKM,Murders at Karlov Manor,254,4,4,,
+Magnetic Snuffler,{5},5.0,Artifact Creature — Construct,"When this creature enters, return target Equipment card from your graveyard to the battlefield attached to this creature.
+Whenever you sacrifice an artifact, put a +1/+1 counter on this creature.",,,uncommon,MKM,Murders at Karlov Manor,376,4,4,,
+Magnigoth Sentry,{3}{G},4.0,Creature — Treefolk,Reach (This creature can block creatures with flying.),G,G,common,FDN,Foundations,556,4,4,,Reach
+Magnigoth Sentry,{3}{G},4.0,Creature — Treefolk,Reach (This creature can block creatures with flying.),G,G,common,DMU,Dominaria United,172,4,4,,Reach
+"Maha, Its Feathers Night",{3}{B}{B},5.0,Legendary Creature — Elemental Bird,"Flying, trample
+Ward—Discard a card.
+Creatures your opponents control have base toughness 1.",B,B,mythic,BLB,Bloomburrow,289,6,5,,Flying;Trample;Ward
+"Maha, Its Feathers Night",{3}{B}{B},5.0,Legendary Creature — Elemental Bird,"Flying, trample
+Ward—Discard a card.
+Creatures your opponents control have base toughness 1.",B,B,mythic,BLB,Bloomburrow,100,6,5,,Flying;Trample;Ward
+"Maha, Its Feathers Night",{3}{B}{B},5.0,Legendary Creature — Elemental Bird,"Flying, trample
+Ward—Discard a card.
+Creatures your opponents control have base toughness 1.",B,B,mythic,PBLB,Bloomburrow Promos,100p,6,5,,Flying;Trample;Ward
+"Maha, Its Feathers Night",{3}{B}{B},5.0,Legendary Creature — Elemental Bird,"Flying, trample
+Ward—Discard a card.
+Creatures your opponents control have base toughness 1.",B,B,mythic,PBLB,Bloomburrow Promos,100s,6,5,,Flying;Trample;Ward
+"Mai, Jaded Edge",{1}{R},2.0,Legendary Creature — Human Noble,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Exhaust — {3}: Put a double strike counter on Mai. (Activate each exhaust ability only once.)",R,R,uncommon,TLA,Avatar: The Last Airbender,147,1,3,,Prowess;Exhaust
+"Mai, Scornful Striker",{1}{B},2.0,Legendary Creature — Human Noble Ally,"First strike
+Whenever a player casts a noncreature spell, they lose 2 life.",B,B,rare,PTLA,Avatar: The Last Airbender Promos,109s,2,2,,First strike
+"Mai, Scornful Striker",{1}{B},2.0,Legendary Creature — Human Noble Ally,"First strike
+Whenever a player casts a noncreature spell, they lose 2 life.",B,B,rare,TLA,Avatar: The Last Airbender,109,2,2,,First strike
+"Mai, Scornful Striker",{1}{B},2.0,Legendary Creature — Human Noble Ally,"First strike
+Whenever a player casts a noncreature spell, they lose 2 life.",B,B,rare,TLA,Avatar: The Last Airbender,374,2,2,,First strike
+Malamet Brawler,{1}{G},2.0,Creature — Cat Warrior,"Whenever this creature attacks, target attacking creature gains trample until end of turn.",G,G,common,LCI,The Lost Caverns of Ixalan,199,2,2,,
+Malamet Veteran,{4}{G},5.0,Creature — Cat Warrior,"Trample
+Descend 4 — Whenever this creature attacks, if there are four or more permanent cards in your graveyard, put a +1/+1 counter on target creature.",G,G,common,LCI,The Lost Caverns of Ixalan,201,5,4,,Descend;Trample
+Malamet War Scribe,{3}{W}{W},5.0,Creature — Cat Warrior,"When this creature enters, creatures you control get +2/+1 until end of turn.",W,W,uncommon,LCI,The Lost Caverns of Ixalan,21,4,3,,
+Malboro,{4}{B}{B},6.0,Creature — Plant Horror,"Bad Breath — When this creature enters, each opponent discards a card, loses 2 life, and exiles the top three cards of their library.
+Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)",B,B,common,FIN,Final Fantasy,106,4,4,,Landcycling;Bad Breath;Typecycling;Cycling;Swampcycling
+"Malcolm, Alluring Scoundrel",{1}{U},2.0,Legendary Creature — Siren Pirate,"Flash
+Flying
+Whenever Malcolm deals combat damage to a player, put a chorus counter on it. Draw a card, then discard a card. If there are four or more chorus counters on Malcolm, you may cast the discarded card without paying its mana cost.",U,U,rare,PLCI,The Lost Caverns of Ixalan Promos,63p,2,1,,Flying;Flash
+"Malcolm, Alluring Scoundrel",{1}{U},2.0,Legendary Creature — Siren Pirate,"Flash
+Flying
+Whenever Malcolm deals combat damage to a player, put a chorus counter on it. Draw a card, then discard a card. If there are four or more chorus counters on Malcolm, you may cast the discarded card without paying its mana cost.",U,U,rare,LCI,The Lost Caverns of Ixalan,63,2,1,,Flying;Flash
+"Malcolm, Alluring Scoundrel",{1}{U},2.0,Legendary Creature — Siren Pirate,"Flash
+Flying
+Whenever Malcolm deals combat damage to a player, put a chorus counter on it. Draw a card, then discard a card. If there are four or more chorus counters on Malcolm, you may cast the discarded card without paying its mana cost.",U,U,rare,LCI,The Lost Caverns of Ixalan,293,2,1,,Flying;Flash
+"Malcolm, Alluring Scoundrel",{1}{U},2.0,Legendary Creature — Siren Pirate,"Flash
+Flying
+Whenever Malcolm deals combat damage to a player, put a chorus counter on it. Draw a card, then discard a card. If there are four or more chorus counters on Malcolm, you may cast the discarded card without paying its mana cost.",U,U,rare,PLCI,The Lost Caverns of Ixalan Promos,63s,2,1,,Flying;Flash
+"Malcolm, the Eyes",{U}{R},2.0,Legendary Creature — Siren Pirate,"Flying, haste
+Whenever you cast your second spell each turn, investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")","R,U","R,U",rare,OTJ,Outlaws of Thunder Junction,295,2,2,,Flying;Investigate;Haste
+"Malcolm, the Eyes",{U}{R},2.0,Legendary Creature — Siren Pirate,"Flying, haste
+Whenever you cast your second spell each turn, investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")","R,U","R,U",rare,OTJ,Outlaws of Thunder Junction,219,2,2,,Flying;Investigate;Haste
+"Malcolm, the Eyes",{U}{R},2.0,Legendary Creature — Siren Pirate,"Flying, haste
+Whenever you cast your second spell each turn, investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")","R,U","R,U",rare,POTJ,Outlaws of Thunder Junction Promos,219p,2,2,,Flying;Investigate;Haste
+"Malcolm, the Eyes",{U}{R},2.0,Legendary Creature — Siren Pirate,"Flying, haste
+Whenever you cast your second spell each turn, investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")","R,U","R,U",rare,POTJ,Outlaws of Thunder Junction Promos,219s,2,2,,Flying;Investigate;Haste
+Malevolent Chandelier,{6},6.0,Artifact Creature — Construct,"Flying
+{2}: Put target card from a graveyard on the bottom of its owner's library. Activate only as a sorcery.",,,common,DSK,Duskmourn: House of Horror,252,4,4,,Flying
+Malevolent Witchkite,{4}{B}{B},6.0,Creature — Dragon Warlock,"Flying
+When this creature enters, sacrifice any number of artifacts, enchantments, and/or tokens, then draw that many cards.",B,B,rare,WOE,Wilds of Eldraine,372,5,4,,Flying
+Malevolent Witchkite,{4}{B}{B},6.0,Creature — Dragon Warlock,"Flying
+When this creature enters, sacrifice any number of artifacts, enchantments, and/or tokens, then draw that many cards.",B,B,rare,WOE,Wilds of Eldraine,315,5,4,,Flying
+Manifold Mouse,{1}{R},2.0,Creature — Mouse Soldier,"Offspring {2} (You may pay an additional {2} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+At the beginning of combat on your turn, target Mouse you control gains your choice of double strike or trample until end of turn.",R,R,rare,PBLB,Bloomburrow Promos,143p,1,2,,Offspring
+Manifold Mouse,{1}{R},2.0,Creature — Mouse Soldier,"Offspring {2} (You may pay an additional {2} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+At the beginning of combat on your turn, target Mouse you control gains your choice of double strike or trample until end of turn.",R,R,rare,SLP,Secret Lair Promo,47,1,2,,Offspring
+Manifold Mouse,{1}{R},2.0,Creature — Mouse Soldier,"Offspring {2} (You may pay an additional {2} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+At the beginning of combat on your turn, target Mouse you control gains your choice of double strike or trample until end of turn.",R,R,rare,BLB,Bloomburrow,318,1,2,,Offspring
+Manifold Mouse,{1}{R},2.0,Creature — Mouse Soldier,"Offspring {2} (You may pay an additional {2} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+At the beginning of combat on your turn, target Mouse you control gains your choice of double strike or trample until end of turn.",R,R,rare,PBLB,Bloomburrow Promos,143s,1,2,,Offspring
+Manifold Mouse,{1}{R},2.0,Creature — Mouse Soldier,"Offspring {2} (You may pay an additional {2} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+At the beginning of combat on your turn, target Mouse you control gains your choice of double strike or trample until end of turn.",R,R,rare,BLB,Bloomburrow,143,1,2,,Offspring
+"Maralen, Fae Ascendant",{2}{B}{G}{U},5.0,Legendary Creature — Elf Faerie Noble,"Flying
+Whenever Maralen or another Elf or Faerie you control enters, exile the top two cards of target opponent's library.
+Once each turn, you may cast a spell with mana value less than or equal to the number of Elves and Faeries you control from among cards exiled with Maralen this turn without paying its mana cost.","B,G,U","B,G,U",rare,ECL,Lorwyn Eclipsed,376,4,5,,Flying
+"Maralen, Fae Ascendant",{2}{B}{G}{U},5.0,Legendary Creature — Elf Faerie Noble,"Flying
+Whenever Maralen or another Elf or Faerie you control enters, exile the top two cards of target opponent's library.
+Once each turn, you may cast a spell with mana value less than or equal to the number of Elves and Faeries you control from among cards exiled with Maralen this turn without paying its mana cost.","B,G,U","B,G,U",rare,PECL,Lorwyn Eclipsed Promos,233p,4,5,,Flying
+"Maralen, Fae Ascendant",{2}{B}{G}{U},5.0,Legendary Creature — Elf Faerie Noble,"Flying
+Whenever Maralen or another Elf or Faerie you control enters, exile the top two cards of target opponent's library.
+Once each turn, you may cast a spell with mana value less than or equal to the number of Elves and Faeries you control from among cards exiled with Maralen this turn without paying its mana cost.","B,G,U","B,G,U",rare,ECL,Lorwyn Eclipsed,233,4,5,,Flying
+Marang River Regent // Coil and Catch,{4}{U}{U} // {3}{U},6.0,Creature — Dragon // Instant — Omen,,U,U,rare,PTDM,Tarkir: Dragonstorm Promos,51p,6,7,,Flying
+Marang River Regent // Coil and Catch,{4}{U}{U} // {3}{U},6.0,Creature — Dragon // Instant — Omen,,U,U,rare,PTDM,Tarkir: Dragonstorm Promos,51s,6,7,,Flying
+Marang River Regent // Coil and Catch,{4}{U}{U} // {3}{U},6.0,Creature — Dragon // Instant — Omen,,U,U,rare,TDM,Tarkir: Dragonstorm,51,6,7,,Flying
+Marauding Blight-Priest,{2}{B},3.0,Creature — Vampire Cleric,"Whenever you gain life, each opponent loses 1 life.",B,B,common,J22,Jumpstart 2022,439,3,2,,
+Marauding Blight-Priest,{2}{B},3.0,Creature — Vampire Cleric,"Whenever you gain life, each opponent loses 1 life.",B,B,common,FDN,Foundations,178,3,2,,
+Marauding Blight-Priest,{2}{B},3.0,Creature — Vampire Cleric,"Whenever you gain life, each opponent loses 1 life.",B,B,common,ZNR,Zendikar Rising,112,3,2,,
+Marauding Brinefang,{5}{U}{U},7.0,Creature — Dinosaur,"Ward {3} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)
+Islandcycling {2} ({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)",U,U,common,LCI,The Lost Caverns of Ixalan,64,6,7,,Islandcycling;Landcycling;Ward;Typecycling;Cycling
+Marauding Mako,{R},1.0,Creature — Shark Pirate,"Whenever you discard one or more cards, put that many +1/+1 counters on this creature.
+Cycling {2} ({2}, Discard this card: Draw a card.)",R,R,uncommon,DFT,Aetherdrift,419,1,1,,Cycling
+Marauding Mako,{R},1.0,Creature — Shark Pirate,"Whenever you discard one or more cards, put that many +1/+1 counters on this creature.
+Cycling {2} ({2}, Discard this card: Draw a card.)",R,R,uncommon,DFT,Aetherdrift,138,1,1,,Cycling
+Marauding Sphinx,{3}{U}{U},5.0,Creature — Sphinx Rogue,"Flying, vigilance, ward {2}
+Whenever you commit a crime, surveil 2. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)",U,U,uncommon,OTJ,Outlaws of Thunder Junction,56,3,5,,Flying;Surveil;Vigilance;Ward
+"Marchesa, Dealer of Death",{U}{B}{R},3.0,Legendary Creature — Human Rogue,"Whenever you commit a crime, you may pay {1}. If you do, look at the top two cards of your library. Put one of them into your hand and the other into your graveyard. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)","B,R,U","B,R,U",rare,POTJ,Outlaws of Thunder Junction Promos,220p,3,4,,
+"Marchesa, Dealer of Death",{U}{B}{R},3.0,Legendary Creature — Human Rogue,"Whenever you commit a crime, you may pay {1}. If you do, look at the top two cards of your library. Put one of them into your hand and the other into your graveyard. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)","B,R,U","B,R,U",rare,OTJ,Outlaws of Thunder Junction,357,3,4,,
+"Marchesa, Dealer of Death",{U}{B}{R},3.0,Legendary Creature — Human Rogue,"Whenever you commit a crime, you may pay {1}. If you do, look at the top two cards of your library. Put one of them into your hand and the other into your graveyard. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)","B,R,U","B,R,U",rare,POTJ,Outlaws of Thunder Junction Promos,220s,3,4,,
+"Marchesa, Dealer of Death",{U}{B}{R},3.0,Legendary Creature — Human Rogue,"Whenever you commit a crime, you may pay {1}. If you do, look at the top two cards of your library. Put one of them into your hand and the other into your graveyard. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)","B,R,U","B,R,U",rare,OTJ,Outlaws of Thunder Junction,220,3,4,,
+Mardu Devotee,{W},1.0,Creature — Human Scout,"When this creature enters, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)
+{1}: Add {R}, {W}, or {B}. Activate only once each turn.",W,"B,R,W",common,TDM,Tarkir: Dragonstorm,16,1,2,,Scry
+Mardu Siegebreaker,{1}{R}{W}{B},4.0,Creature — Human Warrior,"Deathtouch, haste
+When this creature enters, exile up to one other target creature you control until this creature leaves the battlefield.
+Whenever this creature attacks, for each opponent, create a tapped token that's a copy of the exiled card attacking that opponent. At the beginning of your next end step, sacrifice those tokens.","B,R,W","B,R,W",rare,TDM,Tarkir: Dragonstorm,206,4,4,,Haste;Deathtouch
+Mardu Siegebreaker,{1}{R}{W}{B},4.0,Creature — Human Warrior,"Deathtouch, haste
+When this creature enters, exile up to one other target creature you control until this creature leaves the battlefield.
+Whenever this creature attacks, for each opponent, create a tapped token that's a copy of the exiled card attacking that opponent. At the beginning of your next end step, sacrifice those tokens.","B,R,W","B,R,W",rare,TDM,Tarkir: Dragonstorm,364,4,4,,Haste;Deathtouch
+Mardu Siegebreaker,{1}{R}{W}{B},4.0,Creature — Human Warrior,"Deathtouch, haste
+When this creature enters, exile up to one other target creature you control until this creature leaves the battlefield.
+Whenever this creature attacks, for each opponent, create a tapped token that's a copy of the exiled card attacking that opponent. At the beginning of your next end step, sacrifice those tokens.","B,R,W","B,R,W",rare,PTDM,Tarkir: Dragonstorm Promos,206p,4,4,,Haste;Deathtouch
+Mardu Siegebreaker,{1}{R}{W}{B},4.0,Creature — Human Warrior,"Deathtouch, haste
+When this creature enters, exile up to one other target creature you control until this creature leaves the battlefield.
+Whenever this creature attacks, for each opponent, create a tapped token that's a copy of the exiled card attacking that opponent. At the beginning of your next end step, sacrifice those tokens.","B,R,W","B,R,W",rare,PTDM,Tarkir: Dragonstorm Promos,206s,4,4,,Haste;Deathtouch
+Marina Vendrell,{W}{U}{B}{R}{G},5.0,Legendary Creature — Human Warlock,"When Marina Vendrell enters, reveal the top seven cards of your library. Put all enchantment cards from among them into your hand and the rest on the bottom of your library in a random order.
+{T}: Lock or unlock a door of target Room you control. Activate only as a sorcery.","B,G,R,U,W","B,G,R,U,W",rare,PDSK,Duskmourn: House of Horror Promos,221s,3,5,,
+Marina Vendrell,{W}{U}{B}{R}{G},5.0,Legendary Creature — Human Warlock,"When Marina Vendrell enters, reveal the top seven cards of your library. Put all enchantment cards from among them into your hand and the rest on the bottom of your library in a random order.
+{T}: Lock or unlock a door of target Room you control. Activate only as a sorcery.","B,G,R,U,W","B,G,R,U,W",rare,DSK,Duskmourn: House of Horror,221,3,5,,
+Marina Vendrell,{W}{U}{B}{R}{G},5.0,Legendary Creature — Human Warlock,"When Marina Vendrell enters, reveal the top seven cards of your library. Put all enchantment cards from among them into your hand and the rest on the bottom of your library in a random order.
+{T}: Lock or unlock a door of target Room you control. Activate only as a sorcery.","B,G,R,U,W","B,G,R,U,W",rare,PDSK,Duskmourn: House of Horror Promos,221p,3,5,,
+Marina Vendrell,{W}{U}{B}{R}{G},5.0,Legendary Creature — Human Warlock,"When Marina Vendrell enters, reveal the top seven cards of your library. Put all enchantment cards from among them into your hand and the rest on the bottom of your library in a random order.
+{T}: Lock or unlock a door of target Room you control. Activate only as a sorcery.","B,G,R,U,W","B,G,R,U,W",rare,DSK,Duskmourn: House of Horror,360,3,5,,
+Market Gnome,{W},1.0,Artifact Creature — Gnome,"When this creature dies, you gain 1 life and draw a card.
+When this creature is exiled from the battlefield while you're activating a craft ability, you gain 1 life and draw a card.",W,W,uncommon,LCI,The Lost Caverns of Ixalan,22,0,3,,
+Marketback Walker,{X}{X},0.0,Artifact Creature — Construct,"This creature enters with X +1/+1 counters on it.
+{4}: Put a +1/+1 counter on this creature.
+When this creature dies, draw a card for each +1/+1 counter on it.",,,rare,DFT,Aetherdrift,498,0,0,,
+Marketback Walker,{X}{X},0.0,Artifact Creature — Construct,"This creature enters with X +1/+1 counters on it.
+{4}: Put a +1/+1 counter on this creature.
+When this creature dies, draw a card for each +1/+1 counter on it.",,,rare,DFT,Aetherdrift,393,0,0,,
+Marketback Walker,{X}{X},0.0,Artifact Creature — Construct,"This creature enters with X +1/+1 counters on it.
+{4}: Put a +1/+1 counter on this creature.
+When this creature dies, draw a card for each +1/+1 counter on it.",,,rare,PDFT,Aetherdrift Promos,235s,0,0,,
+Marketback Walker,{X}{X},0.0,Artifact Creature — Construct,"This creature enters with X +1/+1 counters on it.
+{4}: Put a +1/+1 counter on this creature.
+When this creature dies, draw a card for each +1/+1 counter on it.",,,rare,DFT,Aetherdrift,235,0,0,,
+Marketback Walker,{X}{X},0.0,Artifact Creature — Construct,"This creature enters with X +1/+1 counters on it.
+{4}: Put a +1/+1 counter on this creature.
+When this creature dies, draw a card for each +1/+1 counter on it.",,,rare,PDFT,Aetherdrift Promos,235p,0,0,,
+Marketwatch Phantom,{1}{W},2.0,Creature — Spirit Detective,"Whenever another creature you control with power 2 or less enters, this creature gains flying until end of turn.",W,W,common,MKM,Murders at Karlov Manor,24,2,2,,
+Marshal of the Lost,{2}{W}{B},4.0,Creature — Orc Warrior,"Deathtouch
+Whenever you attack, target creature gets +X/+X until end of turn, where X is the number of attacking creatures.","B,W","B,W",uncommon,TDM,Tarkir: Dragonstorm,207,3,3,,Deathtouch
+"Marvin, Murderous Mimic",{2},2.0,Legendary Artifact Creature — Toy,Marvin has all activated abilities of creatures you control that don't have the same name as this creature.,,,rare,PDSK,Duskmourn: House of Horror Promos,253s,2,2,,
+"Marvin, Murderous Mimic",{2},2.0,Legendary Artifact Creature — Toy,Marvin has all activated abilities of creatures you control that don't have the same name as this creature.,,,rare,DSK,Duskmourn: House of Horror,253,2,2,,
+"Marvin, Murderous Mimic",{2},2.0,Legendary Artifact Creature — Toy,Marvin has all activated abilities of creatures you control that don't have the same name as this creature.,,,rare,PDSK,Duskmourn: House of Horror Promos,253p,2,2,,
+"Marvin, Murderous Mimic",{2},2.0,Legendary Artifact Creature — Toy,Marvin has all activated abilities of creatures you control that don't have the same name as this creature.,,,rare,DSK,Duskmourn: House of Horror,367,2,2,,
+Mary Jane Watson,{1}{G/W},2.0,Legendary Creature — Human Performer,"Whenever a Spider you control enters, draw a card. This ability triggers only once each turn.","G,W","G,W",rare,SPM,Marvel's Spider-Man,134,2,2,,
+Mary Jane Watson,{1}{G/W},2.0,Legendary Creature — Human Performer,"Whenever a Spider you control enters, draw a card. This ability triggers only once each turn.","G,W","G,W",rare,SPM,Marvel's Spider-Man,229,2,2,,
+Mary Jane Watson,{1}{G/W},2.0,Legendary Creature — Human Performer,"Whenever a Spider you control enters, draw a card. This ability triggers only once each turn.","G,W","G,W",rare,PSPM,Marvel's Spider-Man Promos,134s,2,2,,
+Mary Jane Watson,{1}{G/W},2.0,Legendary Creature — Human Performer,"Whenever a Spider you control enters, draw a card. This ability triggers only once each turn.","G,W","G,W",rare,OM1,Through the Omenpaths,132,2,2,,
+Mary Jane Watson,{1}{G/W},2.0,Legendary Creature — Human Performer,"Whenever a Spider you control enters, draw a card. This ability triggers only once each turn.","G,W","G,W",rare,PW25,Wizards Play Network 2025,11,2,2,,
+Masked Meower,{R},1.0,Creature — Spider Cat Hero,"Haste
+Discard a card, Sacrifice this creature: Draw a card.",R,R,common,SPM,Marvel's Spider-Man,82,1,1,,Haste
+Masked Meower,{R},1.0,Creature — Spider Cat Hero,"Haste
+Discard a card, Sacrifice this creature: Draw a card.",R,R,common,OM1,Through the Omenpaths,96,1,1,,Haste
+"Massacre Girl, Known Killer",{2}{B}{B},4.0,Legendary Creature — Human Assassin,"Menace
+Creatures you control have wither. (They deal damage to creatures in the form of -1/-1 counters.)
+Whenever a creature an opponent controls dies, if its toughness was less than 1, draw a card.",B,B,mythic,PMKM,Murders at Karlov Manor Promos,94s,4,4,,Menace
+"Massacre Girl, Known Killer",{2}{B}{B},4.0,Legendary Creature — Human Assassin,"Menace
+Creatures you control have wither. (They deal damage to creatures in the form of -1/-1 counters.)
+Whenever a creature an opponent controls dies, if its toughness was less than 1, draw a card.",B,B,mythic,MKM,Murders at Karlov Manor,344,4,4,,Menace
+"Massacre Girl, Known Killer",{2}{B}{B},4.0,Legendary Creature — Human Assassin,"Menace
+Creatures you control have wither. (They deal damage to creatures in the form of -1/-1 counters.)
+Whenever a creature an opponent controls dies, if its toughness was less than 1, draw a card.",B,B,mythic,ECC,Lorwyn Eclipsed Commander,79,4,4,,Menace
+"Massacre Girl, Known Killer",{2}{B}{B},4.0,Legendary Creature — Human Assassin,"Menace
+Creatures you control have wither. (They deal damage to creatures in the form of -1/-1 counters.)
+Whenever a creature an opponent controls dies, if its toughness was less than 1, draw a card.",B,B,mythic,MKM,Murders at Karlov Manor,380,4,4,,Menace
+"Massacre Girl, Known Killer",{2}{B}{B},4.0,Legendary Creature — Human Assassin,"Menace
+Creatures you control have wither. (They deal damage to creatures in the form of -1/-1 counters.)
+Whenever a creature an opponent controls dies, if its toughness was less than 1, draw a card.",B,B,mythic,MKM,Murders at Karlov Manor,94,4,4,,Menace
+"Massacre Girl, Known Killer",{2}{B}{B},4.0,Legendary Creature — Human Assassin,"Menace
+Creatures you control have wither. (They deal damage to creatures in the form of -1/-1 counters.)
+Whenever a creature an opponent controls dies, if its toughness was less than 1, draw a card.",B,B,mythic,PMKM,Murders at Karlov Manor Promos,94p,4,4,,Menace
+Massacre Wurm,{3}{B}{B}{B},6.0,Creature — Phyrexian Wurm,"When this creature enters, creatures your opponents control get -2/-2 until end of turn.
+Whenever a creature an opponent controls dies, that player loses 2 life.",B,B,mythic,PM21,Core Set 2021 Promos,114s,6,5,,
+Massacre Wurm,{3}{B}{B}{B},6.0,Creature — Phyrexian Wurm,"When this creature enters, creatures your opponents control get -2/-2 until end of turn.
+Whenever a creature an opponent controls dies, that player loses 2 life.",B,B,mythic,FDN,Foundations,714,6,5,,
+Massacre Wurm,{3}{B}{B}{B},6.0,Creature — Phyrexian Wurm,"When this creature enters, creatures your opponents control get -2/-2 until end of turn.
+Whenever a creature an opponent controls dies, that player loses 2 life.",B,B,mythic,PM21,Core Set 2021 Promos,114p,6,5,,
+Massacre Wurm,{3}{B}{B}{B},6.0,Creature — Phyrexian Wurm,"When this creature enters, creatures your opponents control get -2/-2 until end of turn.
+Whenever a creature an opponent controls dies, that player loses 2 life.",B,B,mythic,PRM,Magic Online Promos,81914,6,5,,
+Massacre Wurm,{3}{B}{B}{B},6.0,Creature — Phyrexian Wurm,"When this creature enters, creatures your opponents control get -2/-2 until end of turn.
+Whenever a creature an opponent controls dies, that player loses 2 life.",B,B,mythic,DSC,Duskmourn: House of Horror Commander,147,6,5,,
+Massacre Wurm,{3}{B}{B}{B},6.0,Creature — Phyrexian Wurm,"When this creature enters, creatures your opponents control get -2/-2 until end of turn.
+Whenever a creature an opponent controls dies, that player loses 2 life.",B,B,mythic,MKC,Murders at Karlov Manor Commander,130,6,5,,
+Massacre Wurm,{3}{B}{B}{B},6.0,Creature — Phyrexian Wurm,"When this creature enters, creatures your opponents control get -2/-2 until end of turn.
+Whenever a creature an opponent controls dies, that player loses 2 life.",B,B,mythic,M21,Core Set 2021,316,6,5,,
+Massacre Wurm,{3}{B}{B}{B},6.0,Creature — Phyrexian Wurm,"When this creature enters, creatures your opponents control get -2/-2 until end of turn.
+Whenever a creature an opponent controls dies, that player loses 2 life.",B,B,mythic,MBS,Mirrodin Besieged,46,6,5,,
+Massacre Wurm,{3}{B}{B}{B},6.0,Creature — Phyrexian Wurm,"When this creature enters, creatures your opponents control get -2/-2 until end of turn.
+Whenever a creature an opponent controls dies, that player loses 2 life.",B,B,mythic,M21,Core Set 2021,114,6,5,,
+Massacre Wurm,{3}{B}{B}{B},6.0,Creature — Phyrexian Wurm,"When this creature enters, creatures your opponents control get -2/-2 until end of turn.
+Whenever a creature an opponent controls dies, that player loses 2 life.",B,B,mythic,J22,Jumpstart 2022,441,6,5,,
+Massacre Wurm,{3}{B}{B}{B},6.0,Creature — Phyrexian Wurm,"When this creature enters, creatures your opponents control get -2/-2 until end of turn.
+Whenever a creature an opponent controls dies, that player loses 2 life.",B,B,mythic,MOC,March of the Machine Commander,256,6,5,,
+Master Pakku,{1}{U},2.0,Legendary Creature — Human Advisor Ally,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever Master Pakku becomes tapped, target player mills X cards, where X is the number of Lesson cards in your graveyard. (They put the top X cards of their library into their graveyard.)",U,U,uncommon,TLA,Avatar: The Last Airbender,63,1,3,,Prowess;Mill
+Master Piandao,{4}{W},5.0,Legendary Creature — Human Warrior Ally,"First strike
+Whenever Master Piandao attacks, look at the top four cards of your library. You may reveal an Ally, Equipment, or Lesson card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",W,W,uncommon,TLA,Avatar: The Last Airbender,28,4,4,,First strike
+"Matoya, Archon Elder",{2}{U},3.0,Legendary Creature — Human Warlock,"Whenever you scry or surveil, draw a card. (Draw after you scry or surveil.)",U,U,rare,FIN,Final Fantasy,439,1,4,,
+"Matoya, Archon Elder",{2}{U},3.0,Legendary Creature — Human Warlock,"Whenever you scry or surveil, draw a card. (Draw after you scry or surveil.)",U,U,rare,FIN,Final Fantasy,62,1,4,,
+"Matoya, Archon Elder",{2}{U},3.0,Legendary Creature — Human Warlock,"Whenever you scry or surveil, draw a card. (Draw after you scry or surveil.)",U,U,rare,PFIN,Final Fantasy Promos,62s,1,4,,
+Meanders Guide,{2}{W},3.0,Creature — Merfolk Scout,"Whenever this creature attacks, you may tap another untapped Merfolk you control. When you do, return target creature card with mana value 3 or less from your graveyard to the battlefield.",W,W,uncommon,ECL,Lorwyn Eclipsed,25,3,2,,
+Mechan Assembler,{4}{U},5.0,Artifact Creature — Robot Artificer,"Whenever another artifact you control enters, create a 2/2 colorless Robot artifact creature token. This ability triggers only once each turn.",U,U,uncommon,EOE,Edge of Eternities,63,4,4,,
+Mechan Navigator,{1}{U},2.0,Artifact Creature — Robot Pilot,"Whenever this creature becomes tapped, draw a card, then discard a card.",U,U,uncommon,EOE,Edge of Eternities,64,2,1,,
+Mechan Shieldmate,{1}{U},2.0,Artifact Creature — Robot Soldier,"Defender
+As long as an artifact entered the battlefield under your control this turn, this creature can attack as though it didn't have defender.",U,U,common,EOE,Edge of Eternities,65,3,2,,Defender
+Mechanical Mobster,{3},3.0,Artifact Creature — Human Robot Villain,"When this creature enters, exile up to one target card from a graveyard. Target creature you control connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)",,,common,OM1,Through the Omenpaths,163,2,1,,Connive
+Mechanical Mobster,{3},3.0,Artifact Creature — Human Robot Villain,"When this creature enters, exile up to one target card from a graveyard. Target creature you control connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)",,,common,SPM,Marvel's Spider-Man,168,2,1,,Connive
+Mechanized Ninja Cavalry,{1}{R/W},2.0,Artifact Creature — Robot Ninja,"When this creature enters, create a 1/1 colorless Robot artifact creature token.","R,W","R,W",common,TMT,Teenage Mutant Ninja Turtles,156,1,1,,
+Mechanozoa,{4}{U}{U},6.0,Artifact Creature — Robot Jellyfish,"When this creature enters, tap target artifact or creature an opponent controls and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+Warp {2}{U} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",U,U,common,EOE,Edge of Eternities,66,5,5,,Warp
+Meddling Youths,{3}{R}{W},5.0,Creature — Human Detective,"Haste
+Whenever you attack with three or more creatures, investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")","R,W","R,W",uncommon,MKM,Murders at Karlov Manor,219,4,5,,Investigate;Haste
+Meddling Youths,{3}{R}{W},5.0,Creature — Human Detective,"Haste
+Whenever you attack with three or more creatures, investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")","R,W","R,W",uncommon,MKM,Murders at Karlov Manor,367,4,5,,Investigate;Haste
+"Melek, Reforged Researcher",{3}{U}{R},5.0,Legendary Creature — Weird Detective,"Melek's power and toughness are each equal to twice the number of instant and sorcery cards in your graveyard.
+The first instant or sorcery spell you cast each turn costs {3} less to cast.","R,U","R,U",mythic,MKM,Murders at Karlov Manor,430,*,*,,
+Meltstrider Eulogist,{2}{G},3.0,Creature — Insect Soldier,"Whenever a creature you control with a +1/+1 counter on it dies, draw a card.",G,G,uncommon,EOE,Edge of Eternities,197,3,3,,
+Memorial Team Leader,{3}{R},4.0,Creature — Kavu Soldier,"During your turn, other creatures you control get +1/+0.
+Warp {1}{R} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",R,R,uncommon,EOE,Edge of Eternities,144,4,3,,Warp
+Memory Guardian,{4}{U},5.0,Artifact Creature — Robot Artificer,"Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Flying",U,U,uncommon,DFT,Aetherdrift,49,3,4,,Flying;Affinity
+"Mendicant Core, Guidelight",{W}{U},2.0,Legendary Artifact Creature — Robot,"Mendicant Core's power is equal to the number of artifacts you control.
+Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+Max speed — Whenever you cast an artifact spell, you may pay {1}. If you do, copy it. (The copy becomes a token.)","U,W","U,W",rare,DFT,Aetherdrift,365,*,3,,Max speed;Start your engines!
+"Mendicant Core, Guidelight",{W}{U},2.0,Legendary Artifact Creature — Robot,"Mendicant Core's power is equal to the number of artifacts you control.
+Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+Max speed — Whenever you cast an artifact spell, you may pay {1}. If you do, copy it. (The copy becomes a token.)","U,W","U,W",rare,PDFT,Aetherdrift Promos,213s,*,3,,Max speed;Start your engines!
+"Mendicant Core, Guidelight",{W}{U},2.0,Legendary Artifact Creature — Robot,"Mendicant Core's power is equal to the number of artifacts you control.
+Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+Max speed — Whenever you cast an artifact spell, you may pay {1}. If you do, copy it. (The copy becomes a token.)","U,W","U,W",rare,DFT,Aetherdrift,485,*,3,,Max speed;Start your engines!
+"Mendicant Core, Guidelight",{W}{U},2.0,Legendary Artifact Creature — Robot,"Mendicant Core's power is equal to the number of artifacts you control.
+Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+Max speed — Whenever you cast an artifact spell, you may pay {1}. If you do, copy it. (The copy becomes a token.)","U,W","U,W",rare,DFT,Aetherdrift,213,*,3,,Max speed;Start your engines!
+"Mendicant Core, Guidelight",{W}{U},2.0,Legendary Artifact Creature — Robot,"Mendicant Core's power is equal to the number of artifacts you control.
+Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+Max speed — Whenever you cast an artifact spell, you may pay {1}. If you do, copy it. (The copy becomes a token.)","U,W","U,W",rare,PDFT,Aetherdrift Promos,213p,*,3,,Max speed;Start your engines!
+Mentor of the Meek,{2}{W},3.0,Creature — Human Soldier,"Whenever another creature you control with power 2 or less enters, you may pay {1}. If you do, draw a card.",W,W,uncommon,2X2,Double Masters 2022,17,2,2,,
+Mentor of the Meek,{2}{W},3.0,Creature — Human Soldier,"Whenever another creature you control with power 2 or less enters, you may pay {1}. If you do, draw a card.",W,W,uncommon,INR,Innistrad Remastered,34,2,2,,
+Mentor of the Meek,{2}{W},3.0,Creature — Human Soldier,"Whenever another creature you control with power 2 or less enters, you may pay {1}. If you do, draw a card.",W,W,rare,ONC,Phyrexia: All Will Be One Commander,81,2,2,,
+Mentor of the Meek,{2}{W},3.0,Creature — Human Soldier,"Whenever another creature you control with power 2 or less enters, you may pay {1}. If you do, draw a card.",W,W,rare,PM19,Core Set 2019 Promos,27s,2,2,,
+Mentor of the Meek,{2}{W},3.0,Creature — Human Soldier,"Whenever another creature you control with power 2 or less enters, you may pay {1}. If you do, draw a card.",W,W,uncommon,PRM,Magic Online Promos,102219,2,2,,
+Mentor of the Meek,{2}{W},3.0,Creature — Human Soldier,"Whenever another creature you control with power 2 or less enters, you may pay {1}. If you do, draw a card.",W,W,uncommon,J25,Foundations Jumpstart,99,2,2,,
+Mentor of the Meek,{2}{W},3.0,Creature — Human Soldier,"Whenever another creature you control with power 2 or less enters, you may pay {1}. If you do, draw a card.",W,W,rare,JMP,Jumpstart,121,2,2,,
+Mentor of the Meek,{2}{W},3.0,Creature — Human Soldier,"Whenever another creature you control with power 2 or less enters, you may pay {1}. If you do, draw a card.",W,W,uncommon,PIO,Pioneer Masters,27,2,2,,
+Mentor of the Meek,{2}{W},3.0,Creature — Human Soldier,"Whenever another creature you control with power 2 or less enters, you may pay {1}. If you do, draw a card.",W,W,rare,MOC,March of the Machine Commander,196,2,2,,
+Mentor of the Meek,{2}{W},3.0,Creature — Human Soldier,"Whenever another creature you control with power 2 or less enters, you may pay {1}. If you do, draw a card.",W,W,rare,M19,Core Set 2019,27,2,2,,
+Mentor of the Meek,{2}{W},3.0,Creature — Human Soldier,"Whenever another creature you control with power 2 or less enters, you may pay {1}. If you do, draw a card.",W,W,rare,FDN,Foundations,578,2,2,,
+Mentor of the Meek,{2}{W},3.0,Creature — Human Soldier,"Whenever another creature you control with power 2 or less enters, you may pay {1}. If you do, draw a card.",W,W,rare,VOC,Crimson Vow Commander,93,2,2,,
+Mentor of the Meek,{2}{W},3.0,Creature — Human Soldier,"Whenever another creature you control with power 2 or less enters, you may pay {1}. If you do, draw a card.",W,W,uncommon,PLST,The List,2X2-17,2,2,,
+Mentor of the Meek,{2}{W},3.0,Creature — Human Soldier,"Whenever another creature you control with power 2 or less enters, you may pay {1}. If you do, draw a card.",W,W,rare,C14,Commander 2014,79,2,2,,
+Mentor of the Meek,{2}{W},3.0,Creature — Human Soldier,"Whenever another creature you control with power 2 or less enters, you may pay {1}. If you do, draw a card.",W,W,uncommon,2X2,Double Masters 2022,340,2,2,,
+Mentor of the Meek,{2}{W},3.0,Creature — Human Soldier,"Whenever another creature you control with power 2 or less enters, you may pay {1}. If you do, draw a card.",W,W,uncommon,INR,Innistrad Remastered,345,2,2,,
+Mentor of the Meek,{2}{W},3.0,Creature — Human Soldier,"Whenever another creature you control with power 2 or less enters, you may pay {1}. If you do, draw a card.",W,W,rare,LTC,Tales of Middle-earth Commander,173,2,2,,
+Mentor of the Meek,{2}{W},3.0,Creature — Human Soldier,"Whenever another creature you control with power 2 or less enters, you may pay {1}. If you do, draw a card.",W,W,rare,ISD,Innistrad,21,2,2,,
+Mentor of the Meek,{2}{W},3.0,Creature — Human Soldier,"Whenever another creature you control with power 2 or less enters, you may pay {1}. If you do, draw a card.",W,W,rare,E01,Archenemy: Nicol Bolas,15,2,2,,
+Mentor of the Meek,{2}{W},3.0,Creature — Human Soldier,"Whenever another creature you control with power 2 or less enters, you may pay {1}. If you do, draw a card.",W,W,rare,C16,Commander 2016,69,2,2,,
+Mentor of the Meek,{2}{W},3.0,Creature — Human Soldier,"Whenever another creature you control with power 2 or less enters, you may pay {1}. If you do, draw a card.",W,W,rare,SCD,Starter Commander Decks,28,2,2,,
+Merchant of Many Hats,{1}{B},2.0,Creature — Human Peasant Ally,{2}{B}: Return this card from your graveyard to your hand.,B,B,common,TLA,Avatar: The Last Airbender,110,2,2,,
+Merciless Enforcers,{1}{B},2.0,Creature — Human Mercenary Villain,"Lifelink
+{3}{B}: This creature deals 1 damage to each opponent.",B,B,common,OM1,Through the Omenpaths,61,2,1,,Lifelink
+Merciless Enforcers,{1}{B},2.0,Creature — Human Mercenary Villain,"Lifelink
+{3}{B}: This creature deals 1 damage to each opponent.",B,B,common,SPM,Marvel's Spider-Man,58,2,1,,Lifelink
+Merfolk Cave-Diver,{2}{U},3.0,Creature — Merfolk Scout,"Whenever a creature you control explores, this creature gets +1/+0 until end of turn and can't be blocked this turn.",U,U,uncommon,LCI,The Lost Caverns of Ixalan,65,2,4,,Explore
+Merfolk Coralsmith,{2}{U},3.0,Creature — Merfolk,"{1}: This creature gets +1/-1 until end of turn.
+When this creature dies, scry 2.",U,U,common,WOE,Wilds of Eldraine,60,2,3,,Scry
+Merrow Skyswimmer,{3}{W/U}{W/U},5.0,Creature — Merfolk Soldier,"Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+Flying, vigilance
+When this creature enters, create a 1/1 white and blue Merfolk creature token.","U,W","U,W",common,ECL,Lorwyn Eclipsed,234,2,2,,Flying;Vigilance;Convoke
+Merry Bards,{2}{R},3.0,Creature — Human Bard,"When this creature enters, you may pay {1}. When you do, create a Young Hero Role token attached to target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature has ""Whenever this creature attacks, if its toughness is 3 or less, put a +1/+1 counter on it."")",R,R,common,WOE,Wilds of Eldraine,140,3,2,,Role token
+Messenger Hawk,{2}{U/B},3.0,Creature — Bird Scout,"Flying
+When this creature enters, create a Clue token. (It's an artifact with ""{2}, Sacrifice this token: Draw a card."")
+This creature gets +2/+0 as long as you've drawn two or more cards this turn.","B,U","B,U",common,TLA,Avatar: The Last Airbender,234,1,2,,Flying
+Metalhead,{4}{U},5.0,Legendary Artifact Creature — Robot Turtle,"When Metalhead enters, return up to one other target artifact or creature to its owner's hand.
+{R}, Sacrifice another artifact: Put a +1/+1 counter on Metalhead. He gains menace and haste until end of turn.",U,"R,U",uncommon,TMT,Teenage Mutant Ninja Turtles,44,4,4,,
+Meteor Golem,{7},7.0,Artifact Creature — Golem,"When this creature enters, destroy target nonland permanent an opponent controls.",,,uncommon,KHC,Kaldheim Commander,101,3,3,,
+Meteor Golem,{7},7.0,Artifact Creature — Golem,"When this creature enters, destroy target nonland permanent an opponent controls.",,,uncommon,CLB,Commander Legends: Battle for Baldur's Gate,323,3,3,,
+Meteor Golem,{7},7.0,Artifact Creature — Golem,"When this creature enters, destroy target nonland permanent an opponent controls.",,,uncommon,M19,Core Set 2019,241,3,3,,
+Meteor Golem,{7},7.0,Artifact Creature — Golem,"When this creature enters, destroy target nonland permanent an opponent controls.",,,uncommon,PLST,The List,M19-241,3,3,,
+Meteor Golem,{7},7.0,Artifact Creature — Golem,"When this creature enters, destroy target nonland permanent an opponent controls.",,,rare,SLD,Secret Lair Drop,1660,3,3,,
+Meteor Golem,{7},7.0,Artifact Creature — Golem,"When this creature enters, destroy target nonland permanent an opponent controls.",,,uncommon,HBG,Alchemy Horizons: Baldur's Gate,260,3,3,,
+Meteor Golem,{7},7.0,Artifact Creature — Golem,"When this creature enters, destroy target nonland permanent an opponent controls.",,,uncommon,CMR,Commander Legends,467,3,3,,
+Meteor Golem,{7},7.0,Artifact Creature — Golem,"When this creature enters, destroy target nonland permanent an opponent controls.",,,uncommon,C21,Commander 2021,250,3,3,,
+Meteor Golem,{7},7.0,Artifact Creature — Golem,"When this creature enters, destroy target nonland permanent an opponent controls.",,,uncommon,J22,Jumpstart 2022,786,3,3,,
+Meteor Golem,{7},7.0,Artifact Creature — Golem,"When this creature enters, destroy target nonland permanent an opponent controls.",,,uncommon,FIC,Final Fantasy Commander,351,3,3,,
+Meteor Golem,{7},7.0,Artifact Creature — Golem,"When this creature enters, destroy target nonland permanent an opponent controls.",,,uncommon,JMP,Jumpstart,474,3,3,,
+Meteor Golem,{7},7.0,Artifact Creature — Golem,"When this creature enters, destroy target nonland permanent an opponent controls.",,,uncommon,CMR,Commander Legends,325,3,3,,
+Meteor Golem,{7},7.0,Artifact Creature — Golem,"When this creature enters, destroy target nonland permanent an opponent controls.",,,uncommon,M20,Core Set 2020,232,3,3,,
+Meteor Golem,{7},7.0,Artifact Creature — Golem,"When this creature enters, destroy target nonland permanent an opponent controls.",,,rare,SLD,Secret Lair Drop,2225,3,3,,
+Meteor Golem,{7},7.0,Artifact Creature — Golem,"When this creature enters, destroy target nonland permanent an opponent controls.",,,rare,SLD,Secret Lair Drop,285,3,3,,
+Meteor Golem,{7},7.0,Artifact Creature — Golem,"When this creature enters, destroy target nonland permanent an opponent controls.",,,uncommon,CMM,Commander Masters,399,3,3,,
+Meteor Golem,{7},7.0,Artifact Creature — Golem,"When this creature enters, destroy target nonland permanent an opponent controls.",,,uncommon,FDN,Foundations,256,3,3,,
+Meteor Golem,{7},7.0,Artifact Creature — Golem,"When this creature enters, destroy target nonland permanent an opponent controls.",,,uncommon,MOC,March of the Machine Commander,363,3,3,,
+Meteor Golem,{7},7.0,Artifact Creature — Golem,"When this creature enters, destroy target nonland permanent an opponent controls.",,,uncommon,AFC,Forgotten Realms Commander,210,3,3,,
+Meteor Golem,{7},7.0,Artifact Creature — Golem,"When this creature enters, destroy target nonland permanent an opponent controls.",,,uncommon,C19,Commander 2019,218,3,3,,
+Meticulous Artisan,{3}{R},4.0,Creature — Djinn Artificer,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+When this creature enters, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")",R,R,common,TDM,Tarkir: Dragonstorm,112,3,3,,Prowess;Treasure
+Miasma Demon,{4}{B}{B},6.0,Creature — Demon,"Flying
+When this creature enters, you may discard any number of cards. When you do, up to that many target creatures each get -2/-2 until end of turn.",B,B,uncommon,DSK,Duskmourn: House of Horror,109,5,4,,Flying
+"Michelangelo, Game Master",{2}{G},3.0,Legendary Creature — Mutant Ninja Turtle,"Disappear — At the beginning of your end step, if a permanent left the battlefield under your control this turn, put a +1/+1 counter on Michelangelo.",G,G,common,TMT,Teenage Mutant Ninja Turtles,118,3,3,,Disappear

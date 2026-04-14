@@ -1,0 +1,203 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Sapling Nursery,{6}{G}{G},8.0,Enchantment,"Affinity for Forests (This spell costs {1} less to cast for each Forest you control.)
+Landfall — Whenever a land you control enters, create a 3/4 green Treefolk creature token with reach.
+{1}{G}, Exile this enchantment: Treefolk and Forests you control gain indestructible until end of turn.",G,G,rare,PECL,Lorwyn Eclipsed Promos,192p,,,,Affinity;Landfall
+Sapling Nursery,{6}{G}{G},8.0,Enchantment,"Affinity for Forests (This spell costs {1} less to cast for each Forest you control.)
+Landfall — Whenever a land you control enters, create a 3/4 green Treefolk creature token with reach.
+{1}{G}, Exile this enchantment: Treefolk and Forests you control gain indestructible until end of turn.",G,G,rare,ECL,Lorwyn Eclipsed,192,,,,Affinity;Landfall
+Sapling Nursery,{6}{G}{G},8.0,Enchantment,"Affinity for Forests (This spell costs {1} less to cast for each Forest you control.)
+Landfall — Whenever a land you control enters, create a 3/4 green Treefolk creature token with reach.
+{1}{G}, Exile this enchantment: Treefolk and Forests you control gain indestructible until end of turn.",G,G,rare,ECL,Lorwyn Eclipsed,328,,,,Affinity;Landfall
+Scavenger's Talent,{B},1.0,Enchantment — Class,"(Gain the next level as a sorcery to add its ability.)
+Whenever one or more creatures you control die, create a Food token. This ability triggers only once each turn.
+{1}{B}: Level 2
+Whenever you sacrifice a permanent, target player mills two cards.
+{2}{B}: Level 3
+At the beginning of your end step, you may sacrifice three other nonland permanents. If you do, return a creature card from your graveyard to the battlefield with a finality counter on it.",B,B,rare,BLB,Bloomburrow,111,,,,Food;Mill
+Scavenger's Talent,{B},1.0,Enchantment — Class,"(Gain the next level as a sorcery to add its ability.)
+Whenever one or more creatures you control die, create a Food token. This ability triggers only once each turn.
+{1}{B}: Level 2
+Whenever you sacrifice a permanent, target player mills two cards.
+{2}{B}: Level 3
+At the beginning of your end step, you may sacrifice three other nonland permanents. If you do, return a creature card from your graveyard to the battlefield with a finality counter on it.",B,B,rare,PBLB,Bloomburrow Promos,111s,,,,Food;Mill
+Scavenger's Talent,{B},1.0,Enchantment — Class,"(Gain the next level as a sorcery to add its ability.)
+Whenever one or more creatures you control die, create a Food token. This ability triggers only once each turn.
+{1}{B}: Level 2
+Whenever you sacrifice a permanent, target player mills two cards.
+{2}{B}: Level 3
+At the beginning of your end step, you may sacrifice three other nonland permanents. If you do, return a creature card from your graveyard to the battlefield with a finality counter on it.",B,B,rare,PBLB,Bloomburrow Promos,111p,,,,Food;Mill
+Seam Rip,{W},1.0,Enchantment,"When this enchantment enters, exile target nonland permanent an opponent controls with mana value 2 or less until this enchantment leaves the battlefield.",W,W,uncommon,EOE,Edge of Eternities,34,,,,
+Shadow of the Goblin,{1}{R},2.0,Enchantment,"Unreliable Visions — At the beginning of your first main phase, discard a card. If you do, draw a card.
+Undying Vengeance — Whenever you play a land or cast a spell from anywhere other than your hand, this enchantment deals 1 damage to each opponent.",R,R,rare,SPM,Marvel's Spider-Man,87,,,,Undying
+Shadow of the Goblin,{1}{R},2.0,Enchantment,"Unreliable Visions — At the beginning of your first main phase, discard a card. If you do, draw a card.
+Undying Vengeance — Whenever you play a land or cast a spell from anywhere other than your hand, this enchantment deals 1 damage to each opponent.",R,R,rare,PSPM,Marvel's Spider-Man Promos,87s,,,,Undying
+Shadow of the Goblin,{1}{R},2.0,Enchantment,"Unreliable Visions — At the beginning of your first main phase, discard a card. If you do, draw a card.
+Undying Vengeance — Whenever you play a land or cast a spell from anywhere other than your hand, this enchantment deals 1 damage to each opponent.",R,R,rare,OM1,Through the Omenpaths,90,,,,Undying
+Shadow of the Goblin,{1}{R},2.0,Enchantment,"Unreliable Visions — At the beginning of your first main phase, discard a card. If you do, draw a card.
+Undying Vengeance — Whenever you play a land or cast a spell from anywhere other than your hand, this enchantment deals 1 damage to each opponent.",R,R,rare,SPM,Marvel's Spider-Man,262,,,,Undying
+Shardmage's Rescue,{W},1.0,Enchantment — Aura,"Flash
+Enchant creature you control
+As long as this Aura entered this turn, enchanted creature has hexproof.
+Enchanted creature gets +1/+1.",W,W,uncommon,DSK,Duskmourn: House of Horror,411,,,,Enchant;Flash
+Shardmage's Rescue,{W},1.0,Enchantment — Aura,"Flash
+Enchant creature you control
+As long as this Aura entered this turn, enchanted creature has hexproof.
+Enchanted creature gets +1/+1.",W,W,uncommon,DSK,Duskmourn: House of Horror,29,,,,Enchant;Flash
+Sheltered by Ghosts,{1}{W},2.0,Enchantment — Aura,"Enchant creature you control
+When this Aura enters, exile target nonland permanent an opponent controls until this Aura leaves the battlefield.
+Enchanted creature gets +1/+0 and has lifelink and ward {2}.",W,W,rare,PJSC,Japan Standard Cup,2026-1,,,,Enchant
+Sheltered by Ghosts,{1}{W},2.0,Enchantment — Aura,"Enchant creature you control
+When this Aura enters, exile target nonland permanent an opponent controls until this Aura leaves the battlefield.
+Enchanted creature gets +1/+0 and has lifelink and ward {2}.",W,W,uncommon,DSK,Duskmourn: House of Horror,30,,,,Enchant
+Shimmerwilds Growth,{1}{G},2.0,Enchantment — Aura,"Enchant land
+As this Aura enters, choose a color.
+Enchanted land is the chosen color.
+Whenever enchanted land is tapped for mana, its controller adds an additional one mana of the chosen color.",G,G,uncommon,ECL,Lorwyn Eclipsed,194,,,,Enchant
+Sidequest: Catch a Fish // Cooking Campsite,,3.0,Enchantment // Land,,,W,uncommon,FIN,Final Fantasy,31,,,,Transform;Food
+Silken Strength,{1}{G},2.0,Enchantment — Aura,"Flash
+Enchant creature or Vehicle
+When this Aura enters, untap enchanted permanent.
+Enchanted permanent gets +1/+2 and has reach.",G,G,common,DFT,Aetherdrift,180,,,,Enchant;Flash
+Sleep Magic,{U},1.0,Enchantment — Aura,"Enchant creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.
+When enchanted creature is dealt damage, sacrifice this Aura.",U,U,uncommon,FIN,Final Fantasy,74,,,,Enchant
+Smile at Death,{3}{W}{W},5.0,Enchantment,"At the beginning of your upkeep, return up to two target creature cards with power 2 or less from your graveyard to the battlefield. Put a +1/+1 counter on each of those creatures.",W,W,mythic,PTDM,Tarkir: Dragonstorm Promos,24s,,,,
+Smile at Death,{3}{W}{W},5.0,Enchantment,"At the beginning of your upkeep, return up to two target creature cards with power 2 or less from your graveyard to the battlefield. Put a +1/+1 counter on each of those creatures.",W,W,mythic,PTDM,Tarkir: Dragonstorm Promos,24p,,,,
+Smile at Death,{3}{W}{W},5.0,Enchantment,"At the beginning of your upkeep, return up to two target creature cards with power 2 or less from your graveyard to the battlefield. Put a +1/+1 counter on each of those creatures.",W,W,mythic,TDM,Tarkir: Dragonstorm,329,,,,
+Smile at Death,{3}{W}{W},5.0,Enchantment,"At the beginning of your upkeep, return up to two target creature cards with power 2 or less from your graveyard to the battlefield. Put a +1/+1 counter on each of those creatures.",W,W,mythic,TDM,Tarkir: Dragonstorm,24,,,,
+Smoky Lounge // Misty Salon,{2}{R} // {3}{U},7.0,Enchantment — Room // Enchantment — Room,,"R,U","R,U",uncommon,DSK,Duskmourn: House of Horror,235,,,,
+Solitary Sanctuary,{2}{W},3.0,Enchantment,"When this enchantment enters, tap target creature an opponent controls and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+Whenever you tap an untapped creature an opponent controls, put a +1/+1 counter on target creature you control.",W,W,uncommon,WOE,Wilds of Eldraine,30,,,,
+Song of Stupefaction,{1}{U},2.0,Enchantment — Aura,"Enchant creature or Vehicle
+When this Aura enters, you may mill two cards. (You may put the top two cards of your library into your graveyard.)
+Fathomless descent — Enchanted permanent gets -X/-0, where X is the number of permanent cards in your graveyard.",U,U,common,LCI,The Lost Caverns of Ixalan,77,,,,Fathomless descent;Enchant;Mill
+"Sothera, the Supervoid",{2}{B}{B},4.0,Legendary Enchantment,"Whenever a creature you control dies, each opponent chooses a creature they control and exiles it.
+At the beginning of your end step, if a player controls no creatures, sacrifice Sothera, then put a creature card exiled with it onto the battlefield under your control with two additional +1/+1 counters on it.",B,B,mythic,EOE,Edge of Eternities,382,,,,
+"Sothera, the Supervoid",{2}{B}{B},4.0,Legendary Enchantment,"Whenever a creature you control dies, each opponent chooses a creature they control and exiles it.
+At the beginning of your end step, if a player controls no creatures, sacrifice Sothera, then put a creature card exiled with it onto the battlefield under your control with two additional +1/+1 counters on it.",B,B,mythic,EOE,Edge of Eternities,386,,,,
+"Sothera, the Supervoid",{2}{B}{B},4.0,Legendary Enchantment,"Whenever a creature you control dies, each opponent chooses a creature they control and exiles it.
+At the beginning of your end step, if a player controls no creatures, sacrifice Sothera, then put a creature card exiled with it onto the battlefield under your control with two additional +1/+1 counters on it.",B,B,mythic,PEOE,Edge of Eternities Promos,115s,,,,
+"Sothera, the Supervoid",{2}{B}{B},4.0,Legendary Enchantment,"Whenever a creature you control dies, each opponent chooses a creature they control and exiles it.
+At the beginning of your end step, if a player controls no creatures, sacrifice Sothera, then put a creature card exiled with it onto the battlefield under your control with two additional +1/+1 counters on it.",B,B,mythic,EOE,Edge of Eternities,360,,,,
+"Sothera, the Supervoid",{2}{B}{B},4.0,Legendary Enchantment,"Whenever a creature you control dies, each opponent chooses a creature they control and exiles it.
+At the beginning of your end step, if a player controls no creatures, sacrifice Sothera, then put a creature card exiled with it onto the battlefield under your control with two additional +1/+1 counters on it.",B,B,mythic,PEOE,Edge of Eternities Promos,115p,,,,
+"Sothera, the Supervoid",{2}{B}{B},4.0,Legendary Enchantment,"Whenever a creature you control dies, each opponent chooses a creature they control and exiles it.
+At the beginning of your end step, if a player controls no creatures, sacrifice Sothera, then put a creature card exiled with it onto the battlefield under your control with two additional +1/+1 counters on it.",B,B,mythic,EOE,Edge of Eternities,115,,,,
+Soul Enervation,{3}{B},4.0,Enchantment,"Flash
+When this enchantment enters, target creature gets -4/-4 until end of turn.
+Whenever one or more creature cards leave your graveyard, each opponent loses 1 life and you gain 1 life.",B,B,uncommon,MKM,Murders at Karlov Manor,106,,,,Flash
+Soul Enervation,{3}{B},4.0,Enchantment,"Flash
+When this enchantment enters, target creature gets -4/-4 until end of turn.
+Whenever one or more creature cards leave your graveyard, each opponent loses 1 life and you gain 1 life.",B,B,uncommon,MKM,Murders at Karlov Manor,302,,,,Flash
+Southern Air Temple,{3}{W},4.0,Legendary Enchantment — Shrine,"When Southern Air Temple enters, put X +1/+1 counters on each creature you control, where X is the number of Shrines you control.
+Whenever another Shrine you control enters, put a +1/+1 counter on each creature you control.",W,W,uncommon,TLA,Avatar: The Last Airbender,36,,,,
+Spelunking,{2}{G},3.0,Enchantment,"When this enchantment enters, draw a card, then you may put a land card from your hand onto the battlefield. If you put a Cave onto the battlefield this way, you gain 4 life.
+Lands you control enter untapped.",G,G,uncommon,LCI,The Lost Caverns of Ixalan,213,,,,
+Spider-Man No More,{1}{U},2.0,Enchantment — Aura,"Enchant creature
+Enchanted creature is a Citizen with base power and toughness 1/1. It has defender and loses all other abilities. (It also loses all other creature types.)",U,U,common,OM1,Through the Omenpaths,31,,,,Enchant
+Spider-Man No More,{1}{U},2.0,Enchantment — Aura,"Enchant creature
+Enchanted creature is a Citizen with base power and toughness 1/1. It has defender and loses all other abilities. (It also loses all other creature types.)",U,U,common,SPM,Marvel's Spider-Man,45,,,,Enchant
+Spider-Verse,{3}{R}{R},5.0,Enchantment,"The ""legend rule"" doesn't apply to Spiders you control.
+Whenever you cast a spell from anywhere other than your hand, you may copy it. If you do, you may choose new targets for the copy. If the copy is a permanent spell, it gains haste. Do this only once each turn.",R,R,mythic,PSPM,Marvel's Spider-Man Promos,93s,,,,
+Spider-Verse,{3}{R}{R},5.0,Enchantment,"The ""legend rule"" doesn't apply to Spiders you control.
+Whenever you cast a spell from anywhere other than your hand, you may copy it. If you do, you may choose new targets for the copy. If the copy is a permanent spell, it gains haste. Do this only once each turn.",R,R,mythic,SPM,Marvel's Spider-Man,263,,,,
+Spider-Verse,{3}{R}{R},5.0,Enchantment,"The ""legend rule"" doesn't apply to Spiders you control.
+Whenever you cast a spell from anywhere other than your hand, you may copy it. If you do, you may choose new targets for the copy. If the copy is a permanent spell, it gains haste. Do this only once each turn.",R,R,mythic,OM1,Through the Omenpaths,75,,,,
+Spider-Verse,{3}{R}{R},5.0,Enchantment,"The ""legend rule"" doesn't apply to Spiders you control.
+Whenever you cast a spell from anywhere other than your hand, you may copy it. If you do, you may choose new targets for the copy. If the copy is a permanent spell, it gains haste. Do this only once each turn.",R,R,mythic,SPM,Marvel's Spider-Man,93,,,,
+Spiral into Solitude,{1}{W},2.0,Enchantment — Aura,"Enchant creature
+Enchanted creature can't attack or block.
+{1}{W}, Blight 1, Sacrifice this Aura: Exile enchanted creature. (To blight 1, put a -1/-1 counter on a creature you control.)",W,W,common,ECL,Lorwyn Eclipsed,36,,,,Blight;Enchant
+Sporogenic Infection,{1}{B},2.0,Enchantment — Aura,"Enchant creature
+When this Aura enters, target player sacrifices a creature of their choice other than enchanted creature.
+When enchanted creature is dealt damage, destroy it.",B,B,uncommon,DSK,Duskmourn: House of Horror,117,,,,Enchant
+Starlight Snare,{2}{U},3.0,Enchantment — Aura,"Enchant creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.",U,U,common,FDN,Foundations,514,,,,Enchant
+Starlight Snare,{2}{U},3.0,Enchantment — Aura,"Enchant creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.",U,U,common,J25,Foundations Jumpstart,9,,,,Enchant
+Stasis Snare,{1}{W}{W},3.0,Enchantment,"Flash (You may cast this spell any time you could cast an instant.)
+When this enchantment enters, exile target creature an opponent controls until this enchantment leaves the battlefield.",W,W,uncommon,PLST,The List,PBFZ-50,,,,Flash
+Stasis Snare,{1}{W}{W},3.0,Enchantment,"Flash (You may cast this spell any time you could cast an instant.)
+When this enchantment enters, exile target creature an opponent controls until this enchantment leaves the battlefield.",W,W,uncommon,PRM,Magic Online Promos,58275,,,,Flash
+Stasis Snare,{1}{W}{W},3.0,Enchantment,"Flash (You may cast this spell any time you could cast an instant.)
+When this enchantment enters, exile target creature an opponent controls until this enchantment leaves the battlefield.",W,W,uncommon,PIO,Pioneer Masters,37,,,,Flash
+Stasis Snare,{1}{W}{W},3.0,Enchantment,"Flash (You may cast this spell any time you could cast an instant.)
+When this enchantment enters, exile target creature an opponent controls until this enchantment leaves the battlefield.",W,W,uncommon,FDN,Foundations,581,,,,Flash
+Stasis Snare,{1}{W}{W},3.0,Enchantment,"Flash (You may cast this spell any time you could cast an instant.)
+When this enchantment enters, exile target creature an opponent controls until this enchantment leaves the battlefield.",W,W,uncommon,PLST,The List,BFZ-50,,,,Flash
+Stasis Snare,{1}{W}{W},3.0,Enchantment,"Flash (You may cast this spell any time you could cast an instant.)
+When this enchantment enters, exile target creature an opponent controls until this enchantment leaves the battlefield.",W,W,uncommon,PBFZ,Battle for Zendikar Promos,50,,,,Flash
+Stasis Snare,{1}{W}{W},3.0,Enchantment,"Flash (You may cast this spell any time you could cast an instant.)
+When this enchantment enters, exile target creature an opponent controls until this enchantment leaves the battlefield.",W,W,uncommon,BFZ,Battle for Zendikar,50,,,,Flash
+Static Snare,{4}{W},5.0,Enchantment,"Flash
+This spell costs {1} less to cast for each attacking creature.
+When this enchantment enters, exile target artifact or creature an opponent controls until this enchantment leaves the battlefield.",W,W,uncommon,TDM,Tarkir: Dragonstorm,26,,,,Flash
+Static Snare,{4}{W},5.0,Enchantment,"Flash
+This spell costs {1} less to cast for each attacking creature.
+When this enchantment enters, exile target artifact or creature an opponent controls until this enchantment leaves the battlefield.",W,W,uncommon,TDM,Tarkir: Dragonstorm,420,,,,Flash
+"Stay Hidden, Stay Silent",{1}{U},2.0,Enchantment — Aura,"Enchant creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.
+{4}{U}{U}: Shuffle enchanted creature into its owner's library, then manifest dread. Activate only as a sorcery.",U,U,uncommon,DSK,Duskmourn: House of Horror,291,,,,Manifest;Enchant;Manifest dread
+"Stay Hidden, Stay Silent",{1}{U},2.0,Enchantment — Aura,"Enchant creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.
+{4}{U}{U}: Shuffle enchanted creature into its owner's library, then manifest dread. Activate only as a sorcery.",U,U,uncommon,DSK,Duskmourn: House of Horror,74,,,,Manifest;Enchant;Manifest dread
+Stillness in Motion,{1}{U},2.0,Enchantment,"At the beginning of your upkeep, mill three cards. Then if your library has no cards in it, exile this enchantment and put five cards from your graveyard on top of your library in any order.",U,U,rare,PTDM,Tarkir: Dragonstorm Promos,59p,,,,Mill
+Stillness in Motion,{1}{U},2.0,Enchantment,"At the beginning of your upkeep, mill three cards. Then if your library has no cards in it, exile this enchantment and put five cards from your graveyard on top of your library in any order.",U,U,rare,TDM,Tarkir: Dragonstorm,334,,,,Mill
+Stillness in Motion,{1}{U},2.0,Enchantment,"At the beginning of your upkeep, mill three cards. Then if your library has no cards in it, exile this enchantment and put five cards from your graveyard on top of your library in any order.",U,U,rare,PTDM,Tarkir: Dragonstorm Promos,59s,,,,Mill
+Stillness in Motion,{1}{U},2.0,Enchantment,"At the beginning of your upkeep, mill three cards. Then if your library has no cards in it, exile this enchantment and put five cards from your graveyard on top of your library in any order.",U,U,rare,TDM,Tarkir: Dragonstorm,59,,,,Mill
+Stocking the Pantry,{G},1.0,Enchantment,"Whenever you put one or more +1/+1 counters on a creature you control, put a supply counter on this enchantment.
+{2}, Remove a supply counter from this enchantment: Draw a card.",G,G,uncommon,BLB,Bloomburrow,194,,,,
+Stop Cold,{3}{U},4.0,Enchantment — Aura,"Flash
+Enchant artifact or creature
+When this Aura enters, tap enchanted permanent.
+Enchanted permanent loses all abilities and doesn't untap during its controller's untap step.",U,U,common,OTJ,Outlaws of Thunder Junction,72,,,,Enchant;Flash
+Stormchaser's Talent,{U},1.0,Enchantment — Class,"(Gain the next level as a sorcery to add its ability.)
+When this Class enters, create a 1/1 blue and red Otter creature token with prowess.
+{3}{U}: Level 2
+When this Class becomes level 2, return target instant or sorcery card from your graveyard to your hand.
+{5}{U}: Level 3
+Whenever you cast an instant or sorcery spell, create a 1/1 blue and red Otter creature token with prowess.",U,U,rare,PBLB,Bloomburrow Promos,75s,,,,
+Stormchaser's Talent,{U},1.0,Enchantment — Class,"(Gain the next level as a sorcery to add its ability.)
+When this Class enters, create a 1/1 blue and red Otter creature token with prowess.
+{3}{U}: Level 2
+When this Class becomes level 2, return target instant or sorcery card from your graveyard to your hand.
+{5}{U}: Level 3
+Whenever you cast an instant or sorcery spell, create a 1/1 blue and red Otter creature token with prowess.",U,U,rare,BLB,Bloomburrow,75,,,,
+Stormchaser's Talent,{U},1.0,Enchantment — Class,"(Gain the next level as a sorcery to add its ability.)
+When this Class enters, create a 1/1 blue and red Otter creature token with prowess.
+{3}{U}: Level 2
+When this Class becomes level 2, return target instant or sorcery card from your graveyard to your hand.
+{5}{U}: Level 3
+Whenever you cast an instant or sorcery spell, create a 1/1 blue and red Otter creature token with prowess.",U,U,rare,PBLB,Bloomburrow Promos,75p,,,,
+Stormplain Detainment,{2}{W},3.0,Enchantment,"When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.",W,W,common,TDM,Tarkir: Dragonstorm,28,,,,
+Stuck in Summoner's Sanctum,{2}{U},3.0,Enchantment — Aura,"Flash
+Enchant artifact or creature
+When this Aura enters, tap enchanted permanent.
+Enchanted permanent doesn't untap during its controller's untap step and its activated abilities can't be activated.",U,U,common,FIN,Final Fantasy,76,,,,Enchant;Flash
+Sugar Coat,{2}{U},3.0,Enchantment — Aura,"Flash
+Enchant creature or Food
+Enchanted permanent is a colorless Food artifact with ""{2}, {T}, Sacrifice this artifact: You gain 3 life"" and loses all other card types and abilities.",U,U,uncommon,BLB,Bloomburrow,76,,,,Enchant;Flash
+Surgical Suite // Hospital Room,{1}{W} // {3}{W},6.0,Enchantment — Room // Enchantment — Room,,W,W,uncommon,DSK,Duskmourn: House of Horror,34,,,,
+Swampsnare Trap,{2}{B},3.0,Enchantment — Aura,"This spell costs {1} less to cast if it targets a creature with flying.
+Enchant creature
+Enchanted creature gets -5/-3.",B,B,common,TLA,Avatar: The Last Airbender,120,,,,Enchant
+Sylvan Scavenging,{1}{G}{G},3.0,Enchantment,"At the beginning of your end step, choose one —
+• Put a +1/+1 counter on target creature you control.
+• Create a 3/3 green Raccoon creature token if you control a creature with power 4 or greater.",G,G,rare,FDN,Foundations,475,,,,
+Sylvan Scavenging,{1}{G}{G},3.0,Enchantment,"At the beginning of your end step, choose one —
+• Put a +1/+1 counter on target creature you control.
+• Create a 3/3 green Raccoon creature token if you control a creature with power 4 or greater.",G,G,rare,FDN,Foundations,403,,,,
+Sylvan Scavenging,{1}{G}{G},3.0,Enchantment,"At the beginning of your end step, choose one —
+• Put a +1/+1 counter on target creature you control.
+• Create a 3/3 green Raccoon creature token if you control a creature with power 4 or greater.",G,G,rare,FDN,Foundations,342,,,,
+Sylvan Scavenging,{1}{G}{G},3.0,Enchantment,"At the beginning of your end step, choose one —
+• Put a +1/+1 counter on target creature you control.
+• Create a 3/3 green Raccoon creature token if you control a creature with power 4 or greater.",G,G,rare,FDN,Foundations,113,,,,
+Sylvan Scavenging,{1}{G}{G},3.0,Enchantment,"At the beginning of your end step, choose one —
+• Put a +1/+1 counter on target creature you control.
+• Create a 3/3 green Raccoon creature token if you control a creature with power 4 or greater.",G,G,rare,PFDN,Foundations Promos,113s,,,,

@@ -1,0 +1,303 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Gleaming Geardrake,{U}{R},2.0,Artifact Creature — Drake,"Flying
+When this creature enters, investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")
+Whenever you sacrifice an artifact, put a +1/+1 counter on this creature.","R,U","R,U",uncommon,MKM,Murders at Karlov Manor,205,1,1,,Flying;Investigate
+Glen Elendra Guardian,{2}{U},3.0,Creature — Faerie Wizard,"Flash
+Flying
+This creature enters with a -1/-1 counter on it.
+{1}{U}, Remove a counter from this creature: Counter target noncreature spell. Its controller draws a card.",U,U,rare,ECL,Lorwyn Eclipsed,51,3,4,,Flying;Flash
+Glen Elendra Guardian,{2}{U},3.0,Creature — Faerie Wizard,"Flash
+Flying
+This creature enters with a -1/-1 counter on it.
+{1}{U}, Remove a counter from this creature: Counter target noncreature spell. Its controller draws a card.",U,U,rare,ECL,Lorwyn Eclipsed,305,3,4,,Flying;Flash
+Glen Elendra Guardian,{2}{U},3.0,Creature — Faerie Wizard,"Flash
+Flying
+This creature enters with a -1/-1 counter on it.
+{1}{U}, Remove a counter from this creature: Counter target noncreature spell. Its controller draws a card.",U,U,mythic,ECL,Lorwyn Eclipsed,383,3,4,,Flying;Flash
+Glen Elendra Guardian,{2}{U},3.0,Creature — Faerie Wizard,"Flash
+Flying
+This creature enters with a -1/-1 counter on it.
+{1}{U}, Remove a counter from this creature: Counter target noncreature spell. Its controller draws a card.",U,U,mythic,ECL,Lorwyn Eclipsed,393,3,4,,Flying;Flash
+Glen Elendra Guardian,{2}{U},3.0,Creature — Faerie Wizard,"Flash
+Flying
+This creature enters with a -1/-1 counter on it.
+{1}{U}, Remove a counter from this creature: Counter target noncreature spell. Its controller draws a card.",U,U,rare,PECL,Lorwyn Eclipsed Promos,51p,3,4,,Flying;Flash
+Glidedive Duo,{4}{B},5.0,Creature — Bat Lizard,"Flying
+When this creature enters, each opponent loses 2 life and you gain 2 life.",B,B,common,BLB,Bloomburrow,96,3,3,,Flying
+Glider Kids,{2}{W},3.0,Creature — Human Pilot Ally,"Flying
+When this creature enters, scry 1. (Look at the top card of your library. You may put it on the bottom.)",W,W,common,TLA,Avatar: The Last Airbender,21,2,3,,Scry;Flying
+Glimmer Seeker,{2}{W},3.0,Creature — Human Survivor,"Survival — At the beginning of your second main phase, if this creature is tapped, draw a card if you control a Glimmer creature. If you don't control a Glimmer creature, create a 1/1 white Glimmer enchantment creature token.",W,W,uncommon,DSK,Duskmourn: House of Horror,14,3,3,,Survival
+Glint Weaver,{5}{G}{G},7.0,Creature — Spider,"Reach
+When this creature enters, distribute three +1/+1 counters among one, two, or three target creatures, then you gain life equal to the greatest toughness among creatures you control.",G,G,uncommon,MKM,Murders at Karlov Manor,162,3,3,,Reach
+Glister Bairn,{2}{G/U}{G/U}{G/U},5.0,Creature — Ouphe,"Vivid — At the beginning of combat on your turn, another target creature you control gets +X/+X until end of turn, where X is the number of colors among permanents you control.","G,U","G,U",uncommon,ECL,Lorwyn Eclipsed,227,1,4,,Vivid
+Glitch Ghost Surveyor,{2}{U},3.0,Creature — Spirit Scout,"Flying
+Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+Max speed — {3}, Exile this card from your graveyard: Draw a card.",U,U,common,DFT,Aetherdrift,44,2,2,,Flying;Max speed;Start your engines!
+Gloom Ripper,{3}{B}{B},5.0,Creature — Elf Assassin,"When this creature enters, target creature you control gets +X/+0 until end of turn and up to one target creature an opponent controls gets -0/-X until end of turn, where X is the number of Elves you control plus the number of Elf cards in your graveyard.",B,B,rare,PECL,Lorwyn Eclipsed Promos,102p,4,4,,
+Gloom Ripper,{3}{B}{B},5.0,Creature — Elf Assassin,"When this creature enters, target creature you control gets +X/+0 until end of turn and up to one target creature an opponent controls gets -0/-X until end of turn, where X is the number of Elves you control plus the number of Elf cards in your graveyard.",B,B,rare,ECL,Lorwyn Eclipsed,312,4,4,,
+Gloom Ripper,{3}{B}{B},5.0,Creature — Elf Assassin,"When this creature enters, target creature you control gets +X/+0 until end of turn and up to one target creature an opponent controls gets -0/-X until end of turn, where X is the number of Elves you control plus the number of Elf cards in your graveyard.",B,B,rare,ECL,Lorwyn Eclipsed,102,4,4,,
+Glorifier of Suffering,{2}{W},3.0,Creature — Vampire Soldier,"When this creature enters, you may sacrifice another creature or artifact. When you do, put a +1/+1 counter on each of up to two target creatures.",W,W,common,LCI,The Lost Caverns of Ixalan,15,3,2,,
+Gloryheath Lynx,{1}{W},2.0,Creature — Cat Mount,"Lifelink
+Whenever this creature attacks while saddled, search your library for a basic Plains card, reveal it, put it into your hand, then shuffle.
+Saddle 2 (Tap any number of other creatures you control with total power 2 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",W,W,uncommon,DFT,Aetherdrift,14,2,3,,Lifelink;Saddle
+Gnarlback Rhino,{2}{G}{G},4.0,Creature — Rhino,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Whenever you cast a spell that targets this creature, draw a card.",G,G,uncommon,M20,Core Set 2020,300,4,4,,Trample
+Gnarlback Rhino,{2}{G}{G},4.0,Creature — Rhino,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Whenever you cast a spell that targets this creature, draw a card.",G,G,common,PIO,Pioneer Masters,176,4,4,,Trample
+Gnarlback Rhino,{2}{G}{G},4.0,Creature — Rhino,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Whenever you cast a spell that targets this creature, draw a card.",G,G,uncommon,FDN,Foundations,638,4,4,,Trample
+Gnarlback Rhino,{2}{G}{G},4.0,Creature — Rhino,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Whenever you cast a spell that targets this creature, draw a card.",G,G,common,2X2,Double Masters 2022,148,4,4,,Trample
+Gnarlbark Elm,{2}{B},3.0,Creature — Treefolk Warlock,"This creature enters with two -1/-1 counters on it.
+{2}{B}, Remove two counters from this creature: Target creature gets -2/-2 until end of turn. Activate only as a sorcery.",B,B,uncommon,ECL,Lorwyn Eclipsed,103,3,4,,
+Gnarlid Colony,{1}{G},2.0,Creature — Beast,"Kicker {2}{G} (You may pay an additional {2}{G} as you cast this spell.)
+If this creature was kicked, it enters with two +1/+1 counters on it.
+Each creature you control with a +1/+1 counter on it has trample. (It can deal excess combat damage to the player or planeswalker it's attacking.)",G,G,common,FDN,Foundations,224,2,2,,Kicker
+Gnarlid Colony,{1}{G},2.0,Creature — Beast,"Kicker {2}{G} (You may pay an additional {2}{G} as you cast this spell.)
+If this creature was kicked, it enters with two +1/+1 counters on it.
+Each creature you control with a +1/+1 counter on it has trample. (It can deal excess combat damage to the player or planeswalker it's attacking.)",G,G,common,J25,Foundations Jumpstart,664,2,2,,Kicker
+Gnarlid Colony,{1}{G},2.0,Creature — Beast,"Kicker {2}{G} (You may pay an additional {2}{G} as you cast this spell.)
+If this creature was kicked, it enters with two +1/+1 counters on it.
+Each creature you control with a +1/+1 counter on it has trample. (It can deal excess combat damage to the player or planeswalker it's attacking.)",G,G,common,ZNR,Zendikar Rising,185,2,2,,Kicker
+Goblin Boarders,{2}{R},3.0,Creature — Goblin Pirate,Raid — This creature enters with a +1/+1 counter on it if you attacked this turn.,R,R,common,FDN,Foundations,87,3,2,,Raid
+Goblin Maskmaker,{R},1.0,Creature — Goblin Citizen,"Whenever this creature attacks, face-down spells you cast this turn cost {1} less to cast.",R,R,common,MKM,Murders at Karlov Manor,130,1,2,,
+Goblin Smuggler,{2}{R},3.0,Creature — Goblin Rogue,"Haste (This creature can attack and {T} as soon as it comes under your control.)
+{T}: Another target creature with power 2 or less can't be blocked this turn.",R,R,common,FDN,Foundations,540,2,2,,Haste
+Goblin Smuggler,{2}{R},3.0,Creature — Goblin Rogue,"Haste (This creature can attack and {T} as soon as it comes under your control.)
+{T}: Another target creature with power 2 or less can't be blocked this turn.",R,R,common,J25,Foundations Jumpstart,137,2,2,,Haste
+Goblin Smuggler,{2}{R},3.0,Creature — Goblin Rogue,"Haste (This creature can attack and {T} as soon as it comes under your control.)
+{T}: Another target creature with power 2 or less can't be blocked this turn.",R,R,common,M20,Core Set 2020,144,2,2,,Haste
+Goblin Surveyor,{2}{R},3.0,Creature — Goblin Scout,"Trample
+Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+Max speed — {3}, Exile this card from your graveyard: Draw a card.",R,R,common,DFT,Aetherdrift,131,3,2,,Max speed;Trample;Start your engines!
+Goblin Tomb Raider,{R},1.0,Creature — Goblin Pirate,"As long as you control an artifact, this creature gets +1/+0 and has haste.",R,R,common,LCI,The Lost Caverns of Ixalan,151,1,2,,
+"Goddric, Cloaked Reveler",{1}{R}{R},3.0,Legendary Creature — Human Noble,"Haste
+Celebration — As long as two or more nonland permanents entered the battlefield under your control this turn, Goddric is a Dragon with base power and toughness 4/4, flying, and ""{R}: Dragons you control get +1/+0 until end of turn."" (It loses all other creature types.)",R,R,rare,SCH,Store Championships,38,3,3,,Flying;Celebration;Haste
+"Goddric, Cloaked Reveler",{1}{R}{R},3.0,Legendary Creature — Human Noble,"Haste
+Celebration — As long as two or more nonland permanents entered the battlefield under your control this turn, Goddric is a Dragon with base power and toughness 4/4, flying, and ""{R}: Dragons you control get +1/+0 until end of turn."" (It loses all other creature types.)",R,R,rare,PWOE,Wilds of Eldraine Promos,132p,3,3,,Flying;Celebration;Haste
+"Goddric, Cloaked Reveler",{1}{R}{R},3.0,Legendary Creature — Human Noble,"Haste
+Celebration — As long as two or more nonland permanents entered the battlefield under your control this turn, Goddric is a Dragon with base power and toughness 4/4, flying, and ""{R}: Dragons you control get +1/+0 until end of turn."" (It loses all other creature types.)",R,R,rare,PWOE,Wilds of Eldraine Promos,132s,3,3,,Flying;Celebration;Haste
+"Goddric, Cloaked Reveler",{1}{R}{R},3.0,Legendary Creature — Human Noble,"Haste
+Celebration — As long as two or more nonland permanents entered the battlefield under your control this turn, Goddric is a Dragon with base power and toughness 4/4, flying, and ""{R}: Dragons you control get +1/+0 until end of turn."" (It loses all other creature types.)",R,R,rare,WOE,Wilds of Eldraine,347,3,3,,Flying;Celebration;Haste
+"Goddric, Cloaked Reveler",{1}{R}{R},3.0,Legendary Creature — Human Noble,"Haste
+Celebration — As long as two or more nonland permanents entered the battlefield under your control this turn, Goddric is a Dragon with base power and toughness 4/4, flying, and ""{R}: Dragons you control get +1/+0 until end of turn."" (It loses all other creature types.)",R,R,rare,WOE,Wilds of Eldraine,132,3,3,,Flying;Celebration;Haste
+"Gogo, Master of Mimicry",{2}{U},3.0,Legendary Creature — Wizard,"{X}{X}, {T}: Copy target activated or triggered ability you control X times. You may choose new targets for the copies. This ability can't be copied and X can't be 0. (Mana abilities can't be targeted.)",U,U,mythic,FIN,Final Fantasy,377,2,4,,
+"Gogo, Master of Mimicry",{2}{U},3.0,Legendary Creature — Wizard,"{X}{X}, {T}: Copy target activated or triggered ability you control X times. You may choose new targets for the copies. This ability can't be copied and X can't be 0. (Mana abilities can't be targeted.)",U,U,mythic,PFIN,Final Fantasy Promos,54s,2,4,,
+"Gogo, Master of Mimicry",{2}{U},3.0,Legendary Creature — Wizard,"{X}{X}, {T}: Copy target activated or triggered ability you control X times. You may choose new targets for the copies. This ability can't be copied and X can't be 0. (Mana abilities can't be targeted.)",U,U,mythic,FIN,Final Fantasy,437,2,4,,
+"Gogo, Master of Mimicry",{2}{U},3.0,Legendary Creature — Wizard,"{X}{X}, {T}: Copy target activated or triggered ability you control X times. You may choose new targets for the copies. This ability can't be copied and X can't be 0. (Mana abilities can't be targeted.)",U,U,mythic,FIN,Final Fantasy,522,2,4,,
+"Gogo, Master of Mimicry",{2}{U},3.0,Legendary Creature — Wizard,"{X}{X}, {T}: Copy target activated or triggered ability you control X times. You may choose new targets for the copies. This ability can't be copied and X can't be 0. (Mana abilities can't be targeted.)",U,U,mythic,FIN,Final Fantasy,54,2,4,,
+"Golbez, Crystal Collector",{U}{B},2.0,Legendary Creature — Human Wizard,"Whenever an artifact you control enters, surveil 1.
+At the beginning of your end step, if you control four or more artifacts, return target creature card from your graveyard to your hand. Then if you control eight or more artifacts, each opponent loses life equal to that card's power.","B,U","B,U",rare,FIN,Final Fantasy,225,1,4,,Surveil
+"Golbez, Crystal Collector",{U}{B},2.0,Legendary Creature — Human Wizard,"Whenever an artifact you control enters, surveil 1.
+At the beginning of your end step, if you control four or more artifacts, return target creature card from your graveyard to your hand. Then if you control eight or more artifacts, each opponent loses life equal to that card's power.","B,U","B,U",rare,FIN,Final Fantasy,395,1,4,,Surveil
+"Golbez, Crystal Collector",{U}{B},2.0,Legendary Creature — Human Wizard,"Whenever an artifact you control enters, surveil 1.
+At the beginning of your end step, if you control four or more artifacts, return target creature card from your graveyard to your hand. Then if you control eight or more artifacts, each opponent loses life equal to that card's power.","B,U","B,U",rare,FIN,Final Fantasy,490,1,4,,Surveil
+"Golbez, Crystal Collector",{U}{B},2.0,Legendary Creature — Human Wizard,"Whenever an artifact you control enters, surveil 1.
+At the beginning of your end step, if you control four or more artifacts, return target creature card from your graveyard to your hand. Then if you control eight or more artifacts, each opponent loses life equal to that card's power.","B,U","B,U",rare,FIN,Final Fantasy,540,1,4,,Surveil
+"Golbez, Crystal Collector",{U}{B},2.0,Legendary Creature — Human Wizard,"Whenever an artifact you control enters, surveil 1.
+At the beginning of your end step, if you control four or more artifacts, return target creature card from your graveyard to your hand. Then if you control eight or more artifacts, each opponent loses life equal to that card's power.","B,U","B,U",rare,PFIN,Final Fantasy Promos,225s,1,4,,Surveil
+Goldfury Strider,{4}{R},5.0,Artifact Creature — Golem,"Trample
+Tap two untapped artifacts and/or creatures you control: Target creature gets +2/+0 until end of turn. Activate only as a sorcery.",R,R,uncommon,LCI,The Lost Caverns of Ixalan,152,3,5,,Trample
+Goldmeadow Nomad,{W},1.0,Creature — Kithkin Scout,"{W}, Exile this card from your graveyard: Create a 1/1 green and white Kithkin creature token. Activate only as a sorcery.",W,W,common,ECL,Lorwyn Eclipsed,18,1,2,,
+Goldvein Hydra,{X}{G},1.0,Creature — Hydra,"Vigilance, trample, haste
+This creature enters with X +1/+1 counters on it.
+When this creature dies, create a number of tapped Treasure tokens equal to its power.",G,G,mythic,POTJ,Outlaws of Thunder Junction Promos,167p,0,0,,Vigilance;Treasure;Haste;Trample
+Goldvein Hydra,{X}{G},1.0,Creature — Hydra,"Vigilance, trample, haste
+This creature enters with X +1/+1 counters on it.
+When this creature dies, create a number of tapped Treasure tokens equal to its power.",G,G,mythic,OTJ,Outlaws of Thunder Junction,341,0,0,,Vigilance;Treasure;Haste;Trample
+Goldvein Hydra,{X}{G},1.0,Creature — Hydra,"Vigilance, trample, haste
+This creature enters with X +1/+1 counters on it.
+When this creature dies, create a number of tapped Treasure tokens equal to its power.",G,G,mythic,OTJ,Outlaws of Thunder Junction,167,0,0,,Vigilance;Treasure;Haste;Trample
+Goldvein Hydra,{X}{G},1.0,Creature — Hydra,"Vigilance, trample, haste
+This creature enters with X +1/+1 counters on it.
+When this creature dies, create a number of tapped Treasure tokens equal to its power.",G,G,mythic,POTJ,Outlaws of Thunder Junction Promos,167s,0,0,,Vigilance;Treasure;Haste;Trample
+Goliath Daydreamer,{2}{R}{R},4.0,Creature — Giant Wizard,"Whenever you cast an instant or sorcery spell from your hand, exile that card with a dream counter on it instead of putting it into your graveyard as it resolves.
+Whenever this creature attacks, you may cast a spell from among cards you own in exile with dream counters on them without paying its mana cost.",R,R,rare,ECL,Lorwyn Eclipsed,143,4,4,,
+Goliath Daydreamer,{2}{R}{R},4.0,Creature — Giant Wizard,"Whenever you cast an instant or sorcery spell from your hand, exile that card with a dream counter on it instead of putting it into your graveyard as it resolves.
+Whenever this creature attacks, you may cast a spell from among cards you own in exile with dream counters on them without paying its mana cost.",R,R,rare,PECL,Lorwyn Eclipsed Promos,143p,4,4,,
+Goliath Daydreamer,{2}{R}{R},4.0,Creature — Giant Wizard,"Whenever you cast an instant or sorcery spell from your hand, exile that card with a dream counter on it instead of putting it into your graveyard as it resolves.
+Whenever this creature attacks, you may cast a spell from among cards you own in exile with dream counters on them without paying its mana cost.",R,R,rare,ECL,Lorwyn Eclipsed,316,4,4,,
+"Gonti, Night Minister",{2}{B}{B},4.0,Legendary Creature — Aetherborn Rogue,"Whenever a player casts a spell they don't own, that player creates a Treasure token.
+Whenever a creature deals combat damage to one of your opponents, its controller looks at the top card of that opponent's library and exiles it face down. They may play that card for as long as it remains exiled. Mana of any type can be spent to cast a spell this way.",B,B,rare,DFT,Aetherdrift,450,3,4,,Treasure
+"Gonti, Night Minister",{2}{B}{B},4.0,Legendary Creature — Aetherborn Rogue,"Whenever a player casts a spell they don't own, that player creates a Treasure token.
+Whenever a creature deals combat damage to one of your opponents, its controller looks at the top card of that opponent's library and exiles it face down. They may play that card for as long as it remains exiled. Mana of any type can be spent to cast a spell this way.",B,B,rare,DFT,Aetherdrift,357,3,4,,Treasure
+"Gonti, Night Minister",{2}{B}{B},4.0,Legendary Creature — Aetherborn Rogue,"Whenever a player casts a spell they don't own, that player creates a Treasure token.
+Whenever a creature deals combat damage to one of your opponents, its controller looks at the top card of that opponent's library and exiles it face down. They may play that card for as long as it remains exiled. Mana of any type can be spent to cast a spell this way.",B,B,rare,PDFT,Aetherdrift Promos,87p,3,4,,Treasure
+"Gonti, Night Minister",{2}{B}{B},4.0,Legendary Creature — Aetherborn Rogue,"Whenever a player casts a spell they don't own, that player creates a Treasure token.
+Whenever a creature deals combat damage to one of your opponents, its controller looks at the top card of that opponent's library and exiles it face down. They may play that card for as long as it remains exiled. Mana of any type can be spent to cast a spell this way.",B,B,rare,PDFT,Aetherdrift Promos,87s,3,4,,Treasure
+"Gonti, Night Minister",{2}{B}{B},4.0,Legendary Creature — Aetherborn Rogue,"Whenever a player casts a spell they don't own, that player creates a Treasure token.
+Whenever a creature deals combat damage to one of your opponents, its controller looks at the top card of that opponent's library and exiles it face down. They may play that card for as long as it remains exiled. Mana of any type can be spent to cast a spell this way.",B,B,rare,DFT,Aetherdrift,87,3,4,,Treasure
+Goobbue Gardener,{1}{G},2.0,Creature — Plant Beast,{T}: Add {G}.,G,G,common,FIN,Final Fantasy,188,1,3,,
+Good-Fortune Unicorn,{1}{G}{W},3.0,Creature — Unicorn,"Whenever another creature you control enters, put a +1/+1 counter on that creature.","G,W","G,W",uncommon,MH1,Modern Horizons,201,2,2,,
+Good-Fortune Unicorn,{1}{G}{W},3.0,Creature — Unicorn,"Whenever another creature you control enters, put a +1/+1 counter on that creature.","G,W","G,W",rare,SLD,Secret Lair Drop,1711,2,2,,
+Good-Fortune Unicorn,{1}{G}{W},3.0,Creature — Unicorn,"Whenever another creature you control enters, put a +1/+1 counter on that creature.","G,W","G,W",uncommon,MOC,March of the Machine Commander,326,2,2,,
+Good-Fortune Unicorn,{1}{G}{W},3.0,Creature — Unicorn,"Whenever another creature you control enters, put a +1/+1 counter on that creature.","G,W","G,W",uncommon,J21,Jumpstart: Historic Horizons,694,2,2,,
+Good-Fortune Unicorn,{1}{G}{W},3.0,Creature — Unicorn,"Whenever another creature you control enters, put a +1/+1 counter on that creature.","G,W","G,W",uncommon,FDN,Foundations,240,2,2,,
+Gorehorn Raider,{4}{R},5.0,Creature — Minotaur Pirate,"Raid — When this creature enters, if you attacked this turn, this creature deals 2 damage to any target.",R,R,common,FDN,Foundations,89,4,4,,Raid
+Grabby Giant // That's Mine,{3}{R} // {1}{R},4.0,Creature — Giant // Instant — Adventure,,R,R,common,WOE,Wilds of Eldraine,133,4,3,,Reach;Treasure
+Gran Pulse Ochu,{G},1.0,Creature — Plant Beast,"Deathtouch
+{8}: Until end of turn, this creature gets +1/+1 for each permanent card in your graveyard.",G,G,common,FIN,Final Fantasy,189,1,1,,Deathtouch
+Gran-Gran,{U},1.0,Legendary Creature — Human Peasant Ally,"Whenever Gran-Gran becomes tapped, draw a card, then discard a card.
+Noncreature spells you cast cost {1} less to cast as long as there are three or more Lesson cards in your graveyard.",U,U,rare,PW25,Wizards Play Network 2025,14,1,2,,
+Gran-Gran,{U},1.0,Legendary Creature — Human Peasant Ally,"Whenever Gran-Gran becomes tapped, draw a card, then discard a card.
+Noncreature spells you cast cost {1} less to cast as long as there are three or more Lesson cards in your graveyard.",U,U,uncommon,TLA,Avatar: The Last Airbender,54,1,2,,
+Grand Abolisher,{W}{W},2.0,Creature — Human Cleric,"During your turn, your opponents can't cast spells or activate abilities of artifacts, creatures, or enchantments.",W,W,mythic,BIG,The Big Score,32,2,2,,
+Grand Abolisher,{W}{W},2.0,Creature — Human Cleric,"During your turn, your opponents can't cast spells or activate abilities of artifacts, creatures, or enchantments.",W,W,rare,SLD,Secret Lair Drop,1285,2,2,,
+Grand Abolisher,{W}{W},2.0,Creature — Human Cleric,"During your turn, your opponents can't cast spells or activate abilities of artifacts, creatures, or enchantments.",W,W,mythic,BIG,The Big Score,67,2,2,,
+Grand Abolisher,{W}{W},2.0,Creature — Human Cleric,"During your turn, your opponents can't cast spells or activate abilities of artifacts, creatures, or enchantments.",W,W,rare,CMM,Commander Masters,460,2,2,,
+Grand Abolisher,{W}{W},2.0,Creature — Human Cleric,"During your turn, your opponents can't cast spells or activate abilities of artifacts, creatures, or enchantments.",W,W,rare,SLD,Secret Lair Drop,2241,2,2,,
+Grand Abolisher,{W}{W},2.0,Creature — Human Cleric,"During your turn, your opponents can't cast spells or activate abilities of artifacts, creatures, or enchantments.",W,W,rare,M12,Magic 2012,19,2,2,,
+Grand Abolisher,{W}{W},2.0,Creature — Human Cleric,"During your turn, your opponents can't cast spells or activate abilities of artifacts, creatures, or enchantments.",W,W,mythic,PBIG,The Big Score Promos,2p,2,2,,
+Grand Abolisher,{W}{W},2.0,Creature — Human Cleric,"During your turn, your opponents can't cast spells or activate abilities of artifacts, creatures, or enchantments.",W,W,rare,CMM,Commander Masters,27,2,2,,
+Grand Abolisher,{W}{W},2.0,Creature — Human Cleric,"During your turn, your opponents can't cast spells or activate abilities of artifacts, creatures, or enchantments.",W,W,rare,C14,Commander 2014,74,2,2,,
+Grand Abolisher,{W}{W},2.0,Creature — Human Cleric,"During your turn, your opponents can't cast spells or activate abilities of artifacts, creatures, or enchantments.",W,W,rare,CMM,Commander Masters,625,2,2,,
+Grand Abolisher,{W}{W},2.0,Creature — Human Cleric,"During your turn, your opponents can't cast spells or activate abilities of artifacts, creatures, or enchantments.",W,W,rare,E01,Archenemy: Nicol Bolas,12,2,2,,
+Grand Abolisher,{W}{W},2.0,Creature — Human Cleric,"During your turn, your opponents can't cast spells or activate abilities of artifacts, creatures, or enchantments.",W,W,mythic,BIG,The Big Score,2,2,2,,
+Grand Ball Guest,{1}{R},2.0,Creature — Human Peasant,Celebration — This creature gets +1/+1 and has trample as long as two or more nonland permanents entered the battlefield under your control this turn.,R,R,common,WOE,Wilds of Eldraine,134,2,2,,Celebration
+Granite Witness,{2}{W}{U},4.0,Artifact Creature — Gargoyle Detective,"Flying, vigilance
+Disguise {W/U}{W/U} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)
+When this creature is turned face up, you may tap or untap target creature.","U,W","U,W",common,MKM,Murders at Karlov Manor,206,3,2,,Flying;Vigilance;Disguise
+Grappling Kraken,{4}{U}{U},6.0,Creature — Kraken,"Landfall — Whenever a land you control enters, tap target creature an opponent controls and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)",U,U,uncommon,FDN,Foundations,39,5,6,,Landfall
+Grasping Longneck,{2}{G},3.0,Enchantment Creature — Horror,"Reach
+When this creature dies, you gain 2 life.",G,G,common,DSK,Duskmourn: House of Horror,180,4,2,,Reach
+Gravblade Heavy,{3}{B},4.0,Creature — Human Soldier,"As long as you control an artifact, this creature gets +1/+0 and has deathtouch.",B,B,common,EOE,Edge of Eternities,102,3,4,,
+Gravelgill Scoundrel,{1}{U},2.0,Creature — Merfolk Rogue,"Vigilance
+Whenever this creature attacks, you may tap another untapped creature you control. If you do, this creature can't be blocked this turn.",U,U,common,ECL,Lorwyn Eclipsed,53,1,3,,Vigilance
+Graveshifter,{3}{B},4.0,Creature — Shapeshifter,"Changeling (This card is every creature type.)
+When this creature enters, you may return target creature card from your graveyard to your hand.",B,B,uncommon,PLST,The List,MH1-94,2,2,,Changeling
+Graveshifter,{3}{B},4.0,Creature — Shapeshifter,"Changeling (This card is every creature type.)
+When this creature enters, you may return target creature card from your graveyard to your hand.",B,B,uncommon,MH1,Modern Horizons,94,2,2,,Changeling
+Graveshifter,{3}{B},4.0,Creature — Shapeshifter,"Changeling (This card is every creature type.)
+When this creature enters, you may return target creature card from your graveyard to your hand.",B,B,uncommon,M3C,Modern Horizons 3 Commander,198,2,2,,Changeling
+Graveshifter,{3}{B},4.0,Creature — Shapeshifter,"Changeling (This card is every creature type.)
+When this creature enters, you may return target creature card from your graveyard to your hand.",B,B,uncommon,J21,Jumpstart: Historic Horizons,334,2,2,,Changeling
+Graveshifter,{3}{B},4.0,Creature — Shapeshifter,"Changeling (This card is every creature type.)
+When this creature enters, you may return target creature card from your graveyard to your hand.",B,B,uncommon,MOC,March of the Machine Commander,251,2,2,,Changeling
+Graveshifter,{3}{B},4.0,Creature — Shapeshifter,"Changeling (This card is every creature type.)
+When this creature enters, you may return target creature card from your graveyard to your hand.",B,B,uncommon,PLST,The List,MOC-251,2,2,,Changeling
+Graveshifter,{3}{B},4.0,Creature — Shapeshifter,"Changeling (This card is every creature type.)
+When this creature enters, you may return target creature card from your graveyard to your hand.",B,B,uncommon,ECL,Lorwyn Eclipsed,104,2,2,,Changeling
+Gravestone Strider,{2},2.0,Artifact Creature — Golem,"{1}: Add one mana of any color. Activate only once each turn.
+{2}, Exile this card from your graveyard: Exile target card from a graveyard.",,,common,MKM,Murders at Karlov Manor,252,1,3,,
+Gravpack Monoist,{2}{B},3.0,Creature — Human Scout,"Flying
+When this creature dies, create a tapped 2/2 colorless Robot artifact creature token.",B,B,common,EOE,Edge of Eternities,104,2,1,,Flying
+Greasewrench Goblin,{R},1.0,Creature — Goblin Artificer,"Exhaust — {2}{R}: Discard up to two cards, then draw that many cards. Put a +1/+1 counter on this creature. (Activate each exhaust ability only once.)",R,R,uncommon,DFT,Aetherdrift,132,2,1,,Exhaust
+Great Divide Guide,{1}{G},2.0,Creature — Human Scout Ally,"Each land and Ally you control has ""{T}: Add one mana of any color.""",G,G,rare,PTLA,Avatar: The Last Airbender Promos,181s,2,3,,
+Great Divide Guide,{1}{G},2.0,Creature — Human Scout Ally,"Each land and Ally you control has ""{T}: Add one mana of any color.""",G,G,rare,TLA,Avatar: The Last Airbender,345,2,3,,
+Great Divide Guide,{1}{G},2.0,Creature — Human Scout Ally,"Each land and Ally you control has ""{T}: Add one mana of any color.""",G,G,rare,TLA,Avatar: The Last Airbender,181,2,3,,
+Great Forest Druid,{1}{G},2.0,Creature — Treefolk Druid,{T}: Add one mana of any color.,G,G,common,ECL,Lorwyn Eclipsed,178,0,4,,
+Greedy Freebooter,{B},1.0,Creature — Human Pirate,"When this creature dies, scry 1 and create a Treasure token. (To scry 1, look at the top card of your library. You may put that card on the bottom. A Treasure token is an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")",B,B,common,LCI,The Lost Caverns of Ixalan,109,1,1,,Treasure;Scry
+"Green Goblin, Revenant",{3}{B}{R},5.0,Legendary Creature — Goblin Human Villain,"Flying, deathtouch
+Whenever Green Goblin attacks, discard a card. Then draw a card for each card you've discarded this turn.","B,R","B,R",uncommon,SPM,Marvel's Spider-Man,130,3,3,,Deathtouch;Flying
+"Green Goblin, Revenant",{3}{B}{R},5.0,Legendary Creature — Goblin Human Villain,"Flying, deathtouch
+Whenever Green Goblin attacks, discard a card. Then draw a card for each card you've discarded this turn.","B,R","B,R",uncommon,OM1,Through the Omenpaths,149,3,3,,Deathtouch;Flying
+Greenbelt Guardian,{1}{G},2.0,Creature — Elf Ranger,"{G}: Target creature gains trample until end of turn.
+Exhaust — {3}{G}: Put three +1/+1 counters on this creature. (Activate each exhaust ability only once.)",G,G,uncommon,DFT,Aetherdrift,164,2,2,,Exhaust
+Greenbelt Radical,{3}{G},4.0,Creature — Centaur Citizen,"Disguise {5}{G}{G} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)
+When this creature is turned face up, put a +1/+1 counter on each creature you control. Creatures you control gain trample until end of turn.",G,G,uncommon,MKM,Murders at Karlov Manor,163,4,4,,Disguise
+Gremlin Tamer,{W}{U},2.0,Creature — Human Scout,"Eerie — Whenever an enchantment you control enters and whenever you fully unlock a Room, create a 1/1 red Gremlin creature token.","U,W","U,W",uncommon,DSK,Duskmourn: House of Horror,215,2,2,,Eerie
+"Greta, Sweettooth Scourge",{1}{B}{G},3.0,Legendary Creature — Human Warrior,"When Greta enters, create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this token: You gain 3 life."")
+{G}, Sacrifice a Food: Put a +1/+1 counter on target creature. Activate only as a sorcery.
+{1}{B}, Sacrifice a Food: You draw a card and you lose 1 life.","B,G","B,G",uncommon,WOE,Wilds of Eldraine,205,3,3,,Food
+Griffnaut Tracker,{3}{W},4.0,Creature — Human Detective,"Flying
+When this creature enters, exile up to two target cards from a single graveyard.",W,W,common,MKM,Murders at Karlov Manor,17,3,2,,Flying
+Grim Javelineer,{2}{B},3.0,Creature — Human Warrior,"Whenever you attack, target attacking creature gets +1/+0 until end of turn. When that creature dies this turn, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)",B,B,common,DFT,Aetherdrift,89,3,2,,Surveil
+Gristle Glutton,{1}{R},2.0,Creature — Goblin Scout,"{T}, Blight 1: Discard a card. If you do, draw a card. (To blight 1, put a -1/-1 counter on a creature you control.)",R,R,common,ECL,Lorwyn Eclipsed,144,1,3,,Blight
+Groundchuck & Dirtbag,{4}{G}{G},6.0,Legendary Creature — Ox Mole Mutant,"Trample
+Whenever you tap a land for mana, add {G}.",G,G,rare,TMT,Teenage Mutant Ninja Turtles,115,8,8,,Trample
+Groundchuck & Dirtbag,{4}{G}{G},6.0,Legendary Creature — Ox Mole Mutant,"Trample
+Whenever you tap a land for mana, add {G}.",G,G,rare,TMT,Teenage Mutant Ninja Turtles,238,8,8,,Trample
+"Grub, Storied Matriarch // Grub, Notorious Auntie",,3.0,Legendary Creature — Goblin Warlock // Legendary Creature — Goblin Warrior,,,"B,R",rare,ECL,Lorwyn Eclipsed,289,,,,Blight;Transform;Menace
+"Grub, Storied Matriarch // Grub, Notorious Auntie",,3.0,Legendary Creature — Goblin Warlock // Legendary Creature — Goblin Warrior,,,"B,R",rare,PECL,Lorwyn Eclipsed Promos,105p,,,,Blight;Transform;Menace
+"Grub, Storied Matriarch // Grub, Notorious Auntie",,3.0,Legendary Creature — Goblin Warlock // Legendary Creature — Goblin Warrior,,,"B,R",rare,ECL,Lorwyn Eclipsed,105,,,,Blight;Transform;Menace
+Gruff Triplets,{3}{G}{G}{G},6.0,Creature — Satyr Warrior,"Trample
+When this creature enters, if it isn't a token, create two tokens that are copies of it.
+When this creature dies, put a number of +1/+1 counters equal to its power on each creature you control named Gruff Triplets.",G,G,rare,PWOE,Wilds of Eldraine Promos,172s,3,3,,Trample
+Gruff Triplets,{3}{G}{G}{G},6.0,Creature — Satyr Warrior,"Trample
+When this creature enters, if it isn't a token, create two tokens that are copies of it.
+When this creature dies, put a number of +1/+1 counters equal to its power on each creature you control named Gruff Triplets.",G,G,rare,PWOE,Wilds of Eldraine Promos,172p,3,3,,Trample
+Gruff Triplets,{3}{G}{G}{G},6.0,Creature — Satyr Warrior,"Trample
+When this creature enters, if it isn't a token, create two tokens that are copies of it.
+When this creature dies, put a number of +1/+1 counters equal to its power on each creature you control named Gruff Triplets.",G,G,rare,WOE,Wilds of Eldraine,357,3,3,,Trample
+Gruff Triplets,{3}{G}{G}{G},6.0,Creature — Satyr Warrior,"Trample
+When this creature enters, if it isn't a token, create two tokens that are copies of it.
+When this creature dies, put a number of +1/+1 counters equal to its power on each creature you control named Gruff Triplets.",G,G,rare,WOE,Wilds of Eldraine,172,3,3,,Trample
+Guarded Heir,{5}{W},6.0,Creature — Human Noble,"Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+When this creature enters, create two 3/3 white Knight creature tokens.",W,W,uncommon,FDN,Foundations,14,1,1,,Lifelink
+Guardian of the Great Door,{W}{W},2.0,Creature — Angel,"As an additional cost to cast this spell, tap four untapped artifacts, creatures, and/or lands you control.
+Flying",W,W,uncommon,LCI,The Lost Caverns of Ixalan,16,4,4,,Flying
+Guardian Sunmare,{3}{W}{W},5.0,Creature — Horse Mount,"Ward {2}
+Whenever this creature attacks while saddled, search your library for a nonland permanent card with mana value 3 or less, put it onto the battlefield, then shuffle.
+Saddle 4",W,W,rare,DFT,Aetherdrift,334,5,5,,Saddle;Ward
+Guardian Sunmare,{3}{W}{W},5.0,Creature — Horse Mount,"Ward {2}
+Whenever this creature attacks while saddled, search your library for a nonland permanent card with mana value 3 or less, put it onto the battlefield, then shuffle.
+Saddle 4",W,W,rare,PDFT,Aetherdrift Promos,15p,5,5,,Saddle;Ward
+Guardian Sunmare,{3}{W}{W},5.0,Creature — Horse Mount,"Ward {2}
+Whenever this creature attacks while saddled, search your library for a nonland permanent card with mana value 3 or less, put it onto the battlefield, then shuffle.
+Saddle 4",W,W,rare,DFT,Aetherdrift,533,5,5,,Saddle;Ward
+Guardian Sunmare,{3}{W}{W},5.0,Creature — Horse Mount,"Ward {2}
+Whenever this creature attacks while saddled, search your library for a nonland permanent card with mana value 3 or less, put it onto the battlefield, then shuffle.
+Saddle 4",W,W,rare,DFT,Aetherdrift,15,5,5,,Saddle;Ward
+Guardian Sunmare,{3}{W}{W},5.0,Creature — Horse Mount,"Ward {2}
+Whenever this creature attacks while saddled, search your library for a nonland permanent card with mana value 3 or less, put it onto the battlefield, then shuffle.
+Saddle 4",W,W,rare,PDFT,Aetherdrift Promos,15s,5,5,,Saddle;Ward
+Guardian Sunmare,{3}{W}{W},5.0,Creature — Horse Mount,"Ward {2}
+Whenever this creature attacks while saddled, search your library for a nonland permanent card with mana value 3 or less, put it onto the battlefield, then shuffle.
+Saddle 4",W,W,rare,DFT,Aetherdrift,429,5,5,,Saddle;Ward
+Guidelight Optimizer,{1}{U},2.0,Artifact Creature — Robot,{T}: Add {U}. Spend this mana only to cast an artifact spell or activate an ability.,U,U,common,DFT,Aetherdrift,45,2,1,,
+Guidelight Synergist,{3}{W},4.0,Artifact Creature — Robot Artificer,"Flying
+This creature gets +1/+0 for each artifact you control.",W,W,uncommon,DFT,Aetherdrift,16,0,4,,Flying
+Gumdrop Poisoner // Tempt with Treats,{2}{B} // {B},3.0,Creature — Human Warlock // Instant — Adventure,,B,B,rare,WOE,Wilds of Eldraine,93,3,2,,Lifelink;Food
+Gumdrop Poisoner // Tempt with Treats,{2}{B} // {B},3.0,Creature — Human Warlock // Instant — Adventure,,B,B,rare,PWOE,Wilds of Eldraine Promos,93s,3,2,,Lifelink;Food
+Gumdrop Poisoner // Tempt with Treats,{2}{B} // {B},3.0,Creature — Human Warlock // Instant — Adventure,,B,B,rare,PWOE,Wilds of Eldraine Promos,93p,3,2,,Lifelink;Food
+Gumdrop Poisoner // Tempt with Treats,{2}{B} // {B},3.0,Creature — Human Warlock // Instant — Adventure,,B,B,rare,WOE,Wilds of Eldraine,280,3,2,,Lifelink;Food
+Gurmag Nightwatch,{2/B}{2/G}{2/U},6.0,Creature — Human Ranger,"When this creature enters, look at the top three cards of your library. You may put one of those cards back on top of your library. Put the rest into your graveyard.","B,G,U","B,G,U",common,TDM,Tarkir: Dragonstorm,190,3,3,,
+Gurmag Rakshasa,{4}{B}{B},6.0,Creature — Demon,"Menace (This creature can't be blocked except by two or more creatures.)
+When this creature enters, target creature an opponent controls gets -2/-2 until end of turn and target creature you control gets +2/+2 until end of turn.",B,B,uncommon,TDM,Tarkir: Dragonstorm,81,5,5,,Menace
+Guru Pathik,{2}{G/U}{G/U},4.0,Legendary Creature — Human Monk Ally,"When Guru Pathik enters, look at the top five cards of your library. You may reveal a Lesson, Saga, or Shrine card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+Whenever you cast a Lesson, Saga, or Shrine spell, put a +1/+1 counter on another target creature you control.","G,U","G,U",uncommon,TLA,Avatar: The Last Airbender,223,2,4,,
+Gutless Plunderer,{2}{B},3.0,Creature — Skeleton Pirate,"Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+Raid — When this creature enters, if you attacked this turn, look at the top three cards of your library. You may put one of those cards back on top of your library. Put the rest into your graveyard.",B,B,common,FDN,Foundations,60,2,2,,Raid;Deathtouch
+Gutsplitter Gang,{3}{B},4.0,Creature — Goblin Berserker,"At the beginning of your first main phase, you may blight 2. If you don't, you lose 3 life. (To blight 2, put two -1/-1 counters on a creature you control.)",B,B,uncommon,ECL,Lorwyn Eclipsed,106,6,6,,Blight
+Guttersnipe,{2}{R},3.0,Creature — Goblin Shaman,"Whenever you cast an instant or sorcery spell, this creature deals 2 damage to each opponent.",R,R,uncommon,SCD,Starter Commander Decks,145,2,2,,
+Guttersnipe,{2}{R},3.0,Creature — Goblin Shaman,"Whenever you cast an instant or sorcery spell, this creature deals 2 damage to each opponent.",R,R,uncommon,PM19,Core Set 2019 Promos,145,2,2,,
+Guttersnipe,{2}{R},3.0,Creature — Goblin Shaman,"Whenever you cast an instant or sorcery spell, this creature deals 2 damage to each opponent.",R,R,uncommon,PRM,Magic Online Promos,69248,2,2,,
+Guttersnipe,{2}{R},3.0,Creature — Goblin Shaman,"Whenever you cast an instant or sorcery spell, this creature deals 2 damage to each opponent.",R,R,uncommon,RVR,Ravnica Remastered,110,2,2,,
+Guttersnipe,{2}{R},3.0,Creature — Goblin Shaman,"Whenever you cast an instant or sorcery spell, this creature deals 2 damage to each opponent.",R,R,uncommon,CN2,Conspiracy: Take the Crown,162,2,2,,
+Guttersnipe,{2}{R},3.0,Creature — Goblin Shaman,"Whenever you cast an instant or sorcery spell, this creature deals 2 damage to each opponent.",R,R,rare,SLD,Secret Lair Drop,2361,2,2,,
+Guttersnipe,{2}{R},3.0,Creature — Goblin Shaman,"Whenever you cast an instant or sorcery spell, this creature deals 2 damage to each opponent.",R,R,uncommon,PLST,The List,IMA-131,2,2,,
+Guttersnipe,{2}{R},3.0,Creature — Goblin Shaman,"Whenever you cast an instant or sorcery spell, this creature deals 2 damage to each opponent.",R,R,uncommon,C19,Commander 2019,145,2,2,,
+Guttersnipe,{2}{R},3.0,Creature — Goblin Shaman,"Whenever you cast an instant or sorcery spell, this creature deals 2 damage to each opponent.",R,R,uncommon,OTC,Outlaws of Thunder Junction Commander,169,2,2,,
+Guttersnipe,{2}{R},3.0,Creature — Goblin Shaman,"Whenever you cast an instant or sorcery spell, this creature deals 2 damage to each opponent.",R,R,uncommon,RVR,Ravnica Remastered,332,2,2,,
+Guttersnipe,{2}{R},3.0,Creature — Goblin Shaman,"Whenever you cast an instant or sorcery spell, this creature deals 2 damage to each opponent.",R,R,uncommon,GK1,GRN Guild Kit,31,2,2,,
+Guttersnipe,{2}{R},3.0,Creature — Goblin Shaman,"Whenever you cast an instant or sorcery spell, this creature deals 2 damage to each opponent.",R,R,uncommon,RTR,Return to Ravnica,98,2,2,,
+Guttersnipe,{2}{R},3.0,Creature — Goblin Shaman,"Whenever you cast an instant or sorcery spell, this creature deals 2 damage to each opponent.",R,R,common,CMM,Commander Masters,229,2,2,,
+Guttersnipe,{2}{R},3.0,Creature — Goblin Shaman,"Whenever you cast an instant or sorcery spell, this creature deals 2 damage to each opponent.",R,R,uncommon,C13,Commander 2013,112,2,2,,
+Guttersnipe,{2}{R},3.0,Creature — Goblin Shaman,"Whenever you cast an instant or sorcery spell, this creature deals 2 damage to each opponent.",R,R,uncommon,M19,Core Set 2019,145,2,2,,
+Guttersnipe,{2}{R},3.0,Creature — Goblin Shaman,"Whenever you cast an instant or sorcery spell, this creature deals 2 damage to each opponent.",R,R,uncommon,J25,Foundations Jumpstart,138,2,2,,
+Guttersnipe,{2}{R},3.0,Creature — Goblin Shaman,"Whenever you cast an instant or sorcery spell, this creature deals 2 damage to each opponent.",R,R,uncommon,IMA,Iconic Masters,131,2,2,,
+Guttersnipe,{2}{R},3.0,Creature — Goblin Shaman,"Whenever you cast an instant or sorcery spell, this creature deals 2 damage to each opponent.",R,R,uncommon,LTC,Tales of Middle-earth Commander,220,2,2,,
+Guttersnipe,{2}{R},3.0,Creature — Goblin Shaman,"Whenever you cast an instant or sorcery spell, this creature deals 2 damage to each opponent.",R,R,uncommon,FDN,Foundations,716,2,2,,
+Guttersnipe,{2}{R},3.0,Creature — Goblin Shaman,"Whenever you cast an instant or sorcery spell, this creature deals 2 damage to each opponent.",R,R,uncommon,PLST,The List,E01-51,2,2,,
+Guttersnipe,{2}{R},3.0,Creature — Goblin Shaman,"Whenever you cast an instant or sorcery spell, this creature deals 2 damage to each opponent.",R,R,rare,SLD,Secret Lair Drop,2357,2,2,,
+Guttersnipe,{2}{R},3.0,Creature — Goblin Shaman,"Whenever you cast an instant or sorcery spell, this creature deals 2 damage to each opponent.",R,R,uncommon,TDC,Tarkir: Dragonstorm Commander,217,2,2,,
+Guttersnipe,{2}{R},3.0,Creature — Goblin Shaman,"Whenever you cast an instant or sorcery spell, this creature deals 2 damage to each opponent.",R,R,uncommon,E01,Archenemy: Nicol Bolas,51,2,2,,
+Guy in the Chair,{2}{G},3.0,Creature — Human Advisor,"{T}: Add one mana of any color.
+Web Support — {2}{G}, {T}: Put a +1/+1 counter on target Spider. Activate only as a sorcery.",G,G,common,SPM,Marvel's Spider-Man,102,2,3,,
+Guy in the Chair,{2}{G},3.0,Creature — Human Advisor,"{T}: Add one mana of any color.
+Web Support — {2}{G}, {T}: Put a +1/+1 counter on target Spider. Activate only as a sorcery.",G,G,common,OM1,Through the Omenpaths,104,2,3,,
+Gwen Stacy // Ghost-Spider,,2.0,Legendary Creature — Human Performer Hero // Legendary Creature — Spider Human Hero,,,"R,U,W",mythic,SPM,Marvel's Spider-Man,209,,,,Flying;Vigilance;Transform;Haste
+Gwen Stacy // Ghost-Spider,,2.0,Legendary Creature — Human Performer Hero // Legendary Creature — Spider Human Hero,,,"R,U,W",mythic,SPM,Marvel's Spider-Man,202,,,,Flying;Vigilance;Transform;Haste
+Gwen Stacy // Ghost-Spider,,2.0,Legendary Creature — Human Performer Hero // Legendary Creature — Spider Human Hero,,,"R,U,W",mythic,OM1,Through the Omenpaths,89,,,,Flying;Vigilance;Transform;Haste
+Gwen Stacy // Ghost-Spider,,2.0,Legendary Creature — Human Performer Hero // Legendary Creature — Spider Human Hero,,,"R,U,W",mythic,SPM,Marvel's Spider-Man,78,,,,Flying;Vigilance;Transform;Haste
+Gwen Stacy // Ghost-Spider,,2.0,Legendary Creature — Human Performer Hero // Legendary Creature — Spider Human Hero,,,"R,U,W",mythic,PSPM,Marvel's Spider-Man Promos,78s,,,,Flying;Vigilance;Transform;Haste
+"Gwenom, Remorseless",{3}{B}{B},5.0,Legendary Creature — Symbiote Spider Hero,"Deathtouch, lifelink
+Whenever Gwenom attacks, until end of turn, you may look at the top card of your library any time and you may play cards from the top of your library. If you cast a spell this way, pay life equal to its mana value rather than pay its mana cost.",B,B,mythic,PSPM,Marvel's Spider-Man Promos,56s,4,4,,Lifelink;Deathtouch
+"Gwenom, Remorseless",{3}{B}{B},5.0,Legendary Creature — Symbiote Spider Hero,"Deathtouch, lifelink
+Whenever Gwenom attacks, until end of turn, you may look at the top card of your library any time and you may play cards from the top of your library. If you cast a spell this way, pay life equal to its mana value rather than pay its mana cost.",B,B,mythic,SPM,Marvel's Spider-Man,256,4,4,,Lifelink;Deathtouch
+"Gwenom, Remorseless",{3}{B}{B},5.0,Legendary Creature — Symbiote Spider Hero,"Deathtouch, lifelink
+Whenever Gwenom attacks, until end of turn, you may look at the top card of your library any time and you may play cards from the top of your library. If you cast a spell this way, pay life equal to its mana value rather than pay its mana cost.",B,B,mythic,SPM,Marvel's Spider-Man,56,4,4,,Lifelink;Deathtouch
+"Gwenom, Remorseless",{3}{B}{B},5.0,Legendary Creature — Symbiote Spider Hero,"Deathtouch, lifelink
+Whenever Gwenom attacks, until end of turn, you may look at the top card of your library any time and you may play cards from the top of your library. If you cast a spell this way, pay life equal to its mana value rather than pay its mana cost.",B,B,mythic,SPM,Marvel's Spider-Man,286,4,4,,Lifelink;Deathtouch
+"Gwenom, Remorseless",{3}{B}{B},5.0,Legendary Creature — Symbiote Spider Hero,"Deathtouch, lifelink
+Whenever Gwenom attacks, until end of turn, you may look at the top card of your library any time and you may play cards from the top of your library. If you cast a spell this way, pay life equal to its mana value rather than pay its mana cost.",B,B,mythic,OM1,Through the Omenpaths,56,4,4,,Lifelink;Deathtouch

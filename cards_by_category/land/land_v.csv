@@ -1,0 +1,10 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+"Vector, Imperial Capital",,0.0,Land — Town,"This land enters tapped.
+{T}: Add {B} or {R}.",,"B,R",common,FIN,Final Fantasy,291,,,,
+Vibrant Cityscape,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,OM1,Through the Omenpaths,188,,,,
+Vibrant Cityscape,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,SPM,Marvel's Spider-Man,188,,,,
+Vibrant Cityscape,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,TMC,Teenage Mutant Ninja Turtles Eternal,82,,,,
+Volatile Fault,,0.0,Land — Cave,"{T}: Add {C}.
+{1}, {T}, Sacrifice this land: Destroy target nonbasic land an opponent controls. That player may search their library for a basic land card, put it onto the battlefield, then shuffle. You create a Treasure token.",,,uncommon,LCI,The Lost Caverns of Ixalan,286,,,,Treasure
+Volatile Fault,,0.0,Land — Cave,"{T}: Add {C}.
+{1}, {T}, Sacrifice this land: Destroy target nonbasic land an opponent controls. That player may search their library for a basic land card, put it onto the battlefield, then shuffle. You create a Treasure token.",,,uncommon,M3C,Modern Horizons 3 Commander,407,,,,Treasure

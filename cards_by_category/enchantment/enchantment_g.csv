@@ -1,0 +1,108 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Gadwick's First Duel,{1}{U},2.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Create a Cursed Role token attached to up to one target creature. (If you control another Role on it, put that one into the graveyard. Enchanted creature is 1/1.)
+II — Scry 2.
+III — When you next cast an instant or sorcery spell with mana value 3 or less this turn, copy that spell. You may choose new targets for the copy.",U,U,uncommon,WOE,Wilds of Eldraine,51,,,,Role token;Scry
+Garruk's Uprising,{2}{G},3.0,Enchantment,"When this enchantment enters, if you control a creature with power 4 or greater, draw a card.
+Creatures you control have trample. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.)
+Whenever a creature you control with power 4 or greater enters, draw a card.",G,G,uncommon,BLC,Bloomburrow Commander,219,,,,
+Garruk's Uprising,{2}{G},3.0,Enchantment,"When this enchantment enters, if you control a creature with power 4 or greater, draw a card.
+Creatures you control have trample. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.)
+Whenever a creature you control with power 4 or greater enters, draw a card.",G,G,uncommon,SCD,Starter Commander Decks,185,,,,
+Garruk's Uprising,{2}{G},3.0,Enchantment,"When this enchantment enters, if you control a creature with power 4 or greater, draw a card.
+Creatures you control have trample. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.)
+Whenever a creature you control with power 4 or greater enters, draw a card.",G,G,uncommon,FDN,Foundations,220,,,,
+Garruk's Uprising,{2}{G},3.0,Enchantment,"When this enchantment enters, if you control a creature with power 4 or greater, draw a card.
+Creatures you control have trample. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.)
+Whenever a creature you control with power 4 or greater enters, draw a card.",G,G,uncommon,M21,Core Set 2021,186,,,,
+Garruk's Uprising,{2}{G},3.0,Enchantment,"When this enchantment enters, if you control a creature with power 4 or greater, draw a card.
+Creatures you control have trample. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.)
+Whenever a creature you control with power 4 or greater enters, draw a card.",G,G,uncommon,WOT,Wilds of Eldraine: Enchanting Tales,53,,,,
+Garruk's Uprising,{2}{G},3.0,Enchantment,"When this enchantment enters, if you control a creature with power 4 or greater, draw a card.
+Creatures you control have trample. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.)
+Whenever a creature you control with power 4 or greater enters, draw a card.",G,G,uncommon,AFC,Forgotten Realms Commander,159,,,,
+Garruk's Uprising,{2}{G},3.0,Enchantment,"When this enchantment enters, if you control a creature with power 4 or greater, draw a card.
+Creatures you control have trample. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.)
+Whenever a creature you control with power 4 or greater enters, draw a card.",G,G,uncommon,PLST,The List,M21-186,,,,
+Garruk's Uprising,{2}{G},3.0,Enchantment,"When this enchantment enters, if you control a creature with power 4 or greater, draw a card.
+Creatures you control have trample. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.)
+Whenever a creature you control with power 4 or greater enters, draw a card.",G,G,uncommon,M21,Core Set 2021,308,,,,
+Garruk's Uprising,{2}{G},3.0,Enchantment,"When this enchantment enters, if you control a creature with power 4 or greater, draw a card.
+Creatures you control have trample. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.)
+Whenever a creature you control with power 4 or greater enters, draw a card.",G,G,uncommon,NCC,New Capenna Commander,292,,,,
+Garruk's Uprising,{2}{G},3.0,Enchantment,"When this enchantment enters, if you control a creature with power 4 or greater, draw a card.
+Creatures you control have trample. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.)
+Whenever a creature you control with power 4 or greater enters, draw a card.",G,G,uncommon,ECC,Lorwyn Eclipsed Commander,109,,,,
+Garruk's Uprising,{2}{G},3.0,Enchantment,"When this enchantment enters, if you control a creature with power 4 or greater, draw a card.
+Creatures you control have trample. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.)
+Whenever a creature you control with power 4 or greater enters, draw a card.",G,G,uncommon,M3C,Modern Horizons 3 Commander,229,,,,
+Gilt-Leaf's Embrace,{2}{G},3.0,Enchantment — Aura,"Flash
+Enchant creature
+When this Aura enters, enchanted creature gains trample and indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it. If its toughness is 0 or less, it still dies.)
+Enchanted creature gets +2/+0.",G,G,common,ECL,Lorwyn Eclipsed,177,,,,Enchant;Flash
+Glacierwood Siege,{1}{G}{U},3.0,Enchantment,"As this enchantment enters, choose Temur or Sultai.
+• Temur — Whenever you cast an instant or sorcery spell, target player mills four cards.
+• Sultai — You may play lands from your graveyard.","G,U","G,U",rare,TDM,Tarkir: Dragonstorm,189,,,,Mill
+Glacierwood Siege,{1}{G}{U},3.0,Enchantment,"As this enchantment enters, choose Temur or Sultai.
+• Temur — Whenever you cast an instant or sorcery spell, target player mills four cards.
+• Sultai — You may play lands from your graveyard.","G,U","G,U",rare,TDM,Tarkir: Dragonstorm,386,,,,Mill
+Glacierwood Siege,{1}{G}{U},3.0,Enchantment,"As this enchantment enters, choose Temur or Sultai.
+• Temur — Whenever you cast an instant or sorcery spell, target player mills four cards.
+• Sultai — You may play lands from your graveyard.","G,U","G,U",rare,PTDM,Tarkir: Dragonstorm Promos,189p,,,,Mill
+Glacierwood Siege,{1}{G}{U},3.0,Enchantment,"As this enchantment enters, choose Temur or Sultai.
+• Temur — Whenever you cast an instant or sorcery spell, target player mills four cards.
+• Sultai — You may play lands from your graveyard.","G,U","G,U",rare,PTDM,Tarkir: Dragonstorm Promos,189s,,,,Mill
+Glassworks // Shattered Yard,{2}{R} // {4}{R},8.0,Enchantment — Room // Enchantment — Room,,R,R,common,DSK,Duskmourn: House of Horror,137,,,,
+Goblin Oriflamme,{1}{R},2.0,Enchantment,Attacking creatures you control get +1/+0.,R,R,uncommon,FDN,Foundations,539,,,,
+Goblin Oriflamme,{1}{R},2.0,Enchantment,Attacking creatures you control get +1/+0.,R,R,uncommon,AJMP,Jumpstart Arena Exclusives,130,,,,
+Goblin Oriflamme,{1}{R},2.0,Enchantment,Attacking creatures you control get +1/+0.,R,R,uncommon,J22,Jumpstart 2022,543,,,,
+Goblin Oriflamme,{1}{R},2.0,Enchantment,Attacking creatures you control get +1/+0.,R,R,uncommon,MH1,Modern Horizons,130,,,,
+Goblin Oriflamme,{1}{R},2.0,Enchantment,Attacking creatures you control get +1/+0.,R,R,uncommon,PLST,The List,MH1-130,,,,
+Gossip's Talent,{1}{U},2.0,Enchantment — Class,"(Gain the next level as a sorcery to add its ability.)
+Whenever a creature you control enters, surveil 1.
+{1}{U}: Level 2
+Whenever you attack, target attacking creature with power 3 or less can't be blocked this turn.
+{3}{U}: Level 3
+Whenever a creature you control deals combat damage to a player, you may exile it, then return it to the battlefield under its owner's control.",U,U,uncommon,BLB,Bloomburrow,51,,,,Surveil
+Grand Entryway // Elegant Rotunda,{1}{W} // {2}{W},5.0,Enchantment — Room // Enchantment — Room,,W,W,common,DSK,Duskmourn: House of Horror,287,,,,
+Grand Entryway // Elegant Rotunda,{1}{W} // {2}{W},5.0,Enchantment — Room // Enchantment — Room,,W,W,common,DSK,Duskmourn: House of Horror,15,,,,
+Grasping Shadows // Shadows' Lair,,4.0,Enchantment // Land — Cave,,,B,uncommon,LCI,The Lost Caverns of Ixalan,108,,,,Transform
+Gratuitous Violence,{2}{R}{R}{R},5.0,Enchantment,"If a creature you control would deal damage to a permanent or player, it deals double that damage instead.",R,R,rare,CN2,Conspiracy: Take the Crown,161,,,,
+Gratuitous Violence,{2}{R}{R}{R},5.0,Enchantment,"If a creature you control would deal damage to a permanent or player, it deals double that damage instead.",R,R,rare,ONS,Onslaught,212,,,,
+Gratuitous Violence,{2}{R}{R}{R},5.0,Enchantment,"If a creature you control would deal damage to a permanent or player, it deals double that damage instead.",R,R,rare,AFC,Forgotten Realms Commander,127,,,,
+Gratuitous Violence,{2}{R}{R}{R},5.0,Enchantment,"If a creature you control would deal damage to a permanent or player, it deals double that damage instead.",R,R,rare,BLC,Bloomburrow Commander,197,,,,
+Gratuitous Violence,{2}{R}{R}{R},5.0,Enchantment,"If a creature you control would deal damage to a permanent or player, it deals double that damage instead.",R,R,rare,FDN,Foundations,715,,,,
+Greed's Gambit,{3}{B},4.0,Enchantment,"When this enchantment enters, you draw three cards, gain 6 life, and create three 2/1 black Bat creature tokens with flying.
+At the beginning of your end step, you discard a card, lose 2 life, and sacrifice a creature.
+When this enchantment leaves the battlefield, you discard three cards, lose 6 life, and sacrifice three creatures.",B,B,mythic,BIG,The Big Score,38,,,,
+Greed's Gambit,{3}{B},4.0,Enchantment,"When this enchantment enters, you draw three cards, gain 6 life, and create three 2/1 black Bat creature tokens with flying.
+At the beginning of your end step, you discard a card, lose 2 life, and sacrifice a creature.
+When this enchantment leaves the battlefield, you discard three cards, lose 6 life, and sacrifice three creatures.",B,B,mythic,BIG,The Big Score,73,,,,
+Greed's Gambit,{3}{B},4.0,Enchantment,"When this enchantment enters, you draw three cards, gain 6 life, and create three 2/1 black Bat creature tokens with flying.
+At the beginning of your end step, you discard a card, lose 2 life, and sacrifice a creature.
+When this enchantment leaves the battlefield, you discard three cards, lose 6 life, and sacrifice three creatures.",B,B,mythic,BIG,The Big Score,8,,,,
+Greenhouse // Rickety Gazebo,{2}{G} // {3}{G},7.0,Enchantment — Room // Enchantment — Room,,G,G,uncommon,DSK,Duskmourn: House of Horror,181,,,,Mill
+Grievous Wound,{3}{B}{B},5.0,Enchantment — Aura,"Enchant player
+Enchanted player can't gain life.
+Whenever enchanted player is dealt damage, they lose half their life, rounded up.",B,B,rare,PDSK,Duskmourn: House of Horror Promos,102p,,,,Enchant
+Grievous Wound,{3}{B}{B},5.0,Enchantment — Aura,"Enchant player
+Enchanted player can't gain life.
+Whenever enchanted player is dealt damage, they lose half their life, rounded up.",B,B,rare,DSK,Duskmourn: House of Horror,102,,,,Enchant
+Grievous Wound,{3}{B}{B},5.0,Enchantment — Aura,"Enchant player
+Enchanted player can't gain life.
+Whenever enchanted player is dealt damage, they lose half their life, rounded up.",B,B,rare,DSK,Duskmourn: House of Horror,375,,,,Enchant
+Grievous Wound,{3}{B}{B},5.0,Enchantment — Aura,"Enchant player
+Enchanted player can't gain life.
+Whenever enchanted player is dealt damage, they lose half their life, rounded up.",B,B,rare,DSK,Duskmourn: House of Horror,416,,,,Enchant
+Grievous Wound,{3}{B}{B},5.0,Enchantment — Aura,"Enchant player
+Enchanted player can't gain life.
+Whenever enchanted player is dealt damage, they lose half their life, rounded up.",B,B,rare,PDSK,Duskmourn: House of Horror Promos,102s,,,,Enchant
+Growing Dread,{G}{U},2.0,Enchantment,"Flash
+When this enchantment enters, manifest dread. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)
+Whenever you turn a permanent face up, put a +1/+1 counter on it.","G,U","G,U",uncommon,DSK,Duskmourn: House of Horror,216,,,,Manifest;Manifest dread;Flash
+"Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun",,3.0,Legendary Enchantment // Legendary Land,,,G,rare,LCI,The Lost Caverns of Ixalan,188,,,,Transform
+"Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun",,3.0,Legendary Enchantment // Legendary Land,,,G,rare,LCI,The Lost Caverns of Ixalan,380,,,,Transform
+"Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun",,3.0,Legendary Enchantment // Legendary Land,,,G,rare,P22,Judge Gift Cards 2022,10,,,,Transform
+"Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun",,3.0,Legendary Enchantment // Legendary Land,,,G,rare,PXTC,XLN Treasure Chest,191,,,,Transform
+"Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun",,3.0,Legendary Enchantment // Legendary Land,,,G,rare,PXLN,Ixalan Promos,191s,,,,Transform
+"Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun",,3.0,Legendary Enchantment // Legendary Land,,,G,rare,XLN,Ixalan,191,,,,Transform

@@ -1,0 +1,141 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Dazzling Theater // Prop Room,{3}{W} // {2}{W},7.0,Enchantment — Room // Enchantment — Room,,W,W,rare,PDSK,Duskmourn: House of Horror Promos,3s,,,,
+Dazzling Theater // Prop Room,{3}{W} // {2}{W},7.0,Enchantment — Room // Enchantment — Room,,W,W,rare,DSK,Duskmourn: House of Horror,3,,,,
+Dazzling Theater // Prop Room,{3}{W} // {2}{W},7.0,Enchantment — Room // Enchantment — Room,,W,W,rare,DSK,Duskmourn: House of Horror,334,,,,
+Dazzling Theater // Prop Room,{3}{W} // {2}{W},7.0,Enchantment — Room // Enchantment — Room,,W,W,rare,PDSK,Duskmourn: House of Horror Promos,3p,,,,
+Dead Weight,{B},1.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets -2/-2.",B,B,common,PLST,The List,GRN-67,,,,Enchant
+Dead Weight,{B},1.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets -2/-2.",B,B,common,J22,Jumpstart 2022,393,,,,Enchant
+Dead Weight,{B},1.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets -2/-2.",B,B,common,ISD,Innistrad,96,,,,Enchant
+Dead Weight,{B},1.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets -2/-2.",B,B,common,LCI,The Lost Caverns of Ixalan,99,,,,Enchant
+Dead Weight,{B},1.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets -2/-2.",B,B,common,GRN,Guilds of Ravnica,67,,,,Enchant
+Dead Weight,{B},1.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets -2/-2.",B,B,common,SIR,Shadows over Innistrad Remastered,106,,,,Enchant
+Dead Weight,{B},1.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets -2/-2.",B,B,common,IKO,Ikoria: Lair of Behemoths,83,,,,Enchant
+Dead Weight,{B},1.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets -2/-2.",B,B,common,SOI,Shadows over Innistrad,106,,,,Enchant
+Deeproot Pilgrimage,{1}{U},2.0,Enchantment,"Whenever one or more nontoken Merfolk you control become tapped, create a 1/1 blue Merfolk creature token with hexproof.",U,U,rare,PLCI,The Lost Caverns of Ixalan Promos,52p,,,,
+Deeproot Pilgrimage,{1}{U},2.0,Enchantment,"Whenever one or more nontoken Merfolk you control become tapped, create a 1/1 blue Merfolk creature token with hexproof.",U,U,rare,LCI,The Lost Caverns of Ixalan,361,,,,
+Deeproot Pilgrimage,{1}{U},2.0,Enchantment,"Whenever one or more nontoken Merfolk you control become tapped, create a 1/1 blue Merfolk creature token with hexproof.",U,U,rare,PLCI,The Lost Caverns of Ixalan Promos,52s,,,,
+Deeproot Pilgrimage,{1}{U},2.0,Enchantment,"Whenever one or more nontoken Merfolk you control become tapped, create a 1/1 blue Merfolk creature token with hexproof.",U,U,rare,LCI,The Lost Caverns of Ixalan,52,,,,
+Defiled Crypt // Cadaver Lab,{3}{B} // {B},5.0,Enchantment — Room // Enchantment — Room,,B,B,uncommon,DSK,Duskmourn: House of Horror,91,,,,
+Demonic Pact,{2}{B}{B},4.0,Enchantment,"At the beginning of your upkeep, choose one that hasn't been chosen —
+• This enchantment deals 4 damage to any target and you gain 4 life.
+• Target opponent discards two cards.
+• Draw two cards.
+• You lose the game.",B,B,mythic,FDN,Foundations,602,,,,
+Demonic Pact,{2}{B}{B},4.0,Enchantment,"At the beginning of your upkeep, choose one that hasn't been chosen —
+• This enchantment deals 4 damage to any target and you gain 4 life.
+• Target opponent discards two cards.
+• Draw two cards.
+• You lose the game.",B,B,mythic,ORI,Magic Origins,92,,,,
+Demonic Pact,{2}{B}{B},4.0,Enchantment,"At the beginning of your upkeep, choose one that hasn't been chosen —
+• This enchantment deals 4 damage to any target and you gain 4 life.
+• Target opponent discards two cards.
+• Draw two cards.
+• You lose the game.",B,B,mythic,AKR,Amonkhet Remastered,99,,,,
+Demonic Ruckus,{1}{R},2.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets +1/+1 and has menace and trample.
+When this Aura is put into a graveyard from the battlefield, draw a card.
+Plot {R} (You may pay {R} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",R,R,uncommon,OTJ,Outlaws of Thunder Junction,120,,,,Plot;Enchant
+Derelict Attic // Widow's Walk,{2}{B} // {3}{B},7.0,Enchantment — Room // Enchantment — Room,,B,B,common,DSK,Duskmourn: House of Horror,93,,,,
+Dictate of Kruphix,{1}{U}{U},3.0,Enchantment,"Flash (You may cast this spell any time you could cast an instant.)
+At the beginning of each player's draw step, that player draws an additional card.",U,U,rare,PRM,Magic Online Promos,52326,,,,Flash
+Dictate of Kruphix,{1}{U}{U},3.0,Enchantment,"Flash (You may cast this spell any time you could cast an instant.)
+At the beginning of each player's draw step, that player draws an additional card.",U,U,rare,C18,Commander 2018,86,,,,Flash
+Dictate of Kruphix,{1}{U}{U},3.0,Enchantment,"Flash (You may cast this spell any time you could cast an instant.)
+At the beginning of each player's draw step, that player draws an additional card.",U,U,rare,FDN,Foundations,587,,,,Flash
+Dictate of Kruphix,{1}{U}{U},3.0,Enchantment,"Flash (You may cast this spell any time you could cast an instant.)
+At the beginning of each player's draw step, that player draws an additional card.",U,U,rare,PJOU,Journey into Nyx Promos,37,,,,Flash
+Dictate of Kruphix,{1}{U}{U},3.0,Enchantment,"Flash (You may cast this spell any time you could cast an instant.)
+At the beginning of each player's draw step, that player draws an additional card.",U,U,rare,JOU,Journey into Nyx,37,,,,Flash
+Dimensional Exile,{1}{W},2.0,Enchantment — Aura,"Enchant basic land you control
+When this Aura enters, exile target creature an opponent controls until this Aura leaves the battlefield.",W,W,uncommon,TMT,Teenage Mutant Ninja Turtles,4,,,,Enchant
+Disturbing Mirth,{B}{R},2.0,Enchantment,"When this enchantment enters, you may sacrifice another enchantment or creature. If you do, draw two cards.
+When you sacrifice this enchantment, manifest dread. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)","B,R","B,R",uncommon,DSK,Duskmourn: House of Horror,212,,,,Manifest;Manifest dread
+Does Machines,{1}{U},2.0,Enchantment — Class,"(Gain the next level as a sorcery to add its ability.)
+When this Class enters, mill two cards, draw two cards, then discard two cards.
+{1}{U}: Level 2
+When this Class becomes level 2, return up to two target artifact cards from your graveyard to your hand.
+{4}{U}: Level 3
+At the beginning of combat on your turn, put three +1/+1 counters on target artifact you control. If it isn't a creature, it becomes a 0/0 Robot creature in addition to its other types.",U,U,rare,TMT,Teenage Mutant Ninja Turtles,34,,,,Mill
+Dollmaker's Shop // Porcelain Gallery,{1}{W} // {4}{W}{W},8.0,Enchantment — Room // Enchantment — Room,,W,W,mythic,DSK,Duskmourn: House of Horror,335,,,,
+Dollmaker's Shop // Porcelain Gallery,{1}{W} // {4}{W}{W},8.0,Enchantment — Room // Enchantment — Room,,W,W,mythic,PDSK,Duskmourn: House of Horror Promos,4s,,,,
+Dollmaker's Shop // Porcelain Gallery,{1}{W} // {4}{W}{W},8.0,Enchantment — Room // Enchantment — Room,,W,W,mythic,PDSK,Duskmourn: House of Horror Promos,4p,,,,
+Dollmaker's Shop // Porcelain Gallery,{1}{W} // {4}{W}{W},8.0,Enchantment — Room // Enchantment — Room,,W,W,mythic,DSK,Duskmourn: House of Horror,4,,,,
+Double Down,{3}{U},4.0,Enchantment,"Whenever you cast an outlaw spell, copy that spell. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws. Copies of permanent spells become tokens.)",U,U,mythic,PLST,The List,OTJ-44,,,,
+Double Down,{3}{U},4.0,Enchantment,"Whenever you cast an outlaw spell, copy that spell. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws. Copies of permanent spells become tokens.)",U,U,mythic,OTJ,Outlaws of Thunder Junction,44,,,,
+Double Down,{3}{U},4.0,Enchantment,"Whenever you cast an outlaw spell, copy that spell. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws. Copies of permanent spells become tokens.)",U,U,mythic,POTJ,Outlaws of Thunder Junction Promos,44s,,,,
+Double Down,{3}{U},4.0,Enchantment,"Whenever you cast an outlaw spell, copy that spell. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws. Copies of permanent spells become tokens.)",U,U,mythic,OTJ,Outlaws of Thunder Junction,317,,,,
+Double Down,{3}{U},4.0,Enchantment,"Whenever you cast an outlaw spell, copy that spell. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws. Copies of permanent spells become tokens.)",U,U,mythic,POTJ,Outlaws of Thunder Junction Promos,44p,,,,
+Doubling Season,{4}{G},5.0,Enchantment,"If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.
+If an effect would put one or more counters on a permanent you control, it puts twice that many of those counters on that permanent instead.",G,G,mythic,FDN,Foundations,438,,,,
+Doubling Season,{4}{G},5.0,Enchantment,"If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.
+If an effect would put one or more counters on a permanent you control, it puts twice that many of those counters on that permanent instead.",G,G,mythic,PFDN,Foundations Promos,216p,,,,
+Doubling Season,{4}{G},5.0,Enchantment,"If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.
+If an effect would put one or more counters on a permanent you control, it puts twice that many of those counters on that permanent instead.",G,G,mythic,PRM,Magic Online Promos,82868,,,,
+Doubling Season,{4}{G},5.0,Enchantment,"If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.
+If an effect would put one or more counters on a permanent you control, it puts twice that many of those counters on that permanent instead.",G,G,mythic,CMM,Commander Masters,283,,,,
+Doubling Season,{4}{G},5.0,Enchantment,"If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.
+If an effect would put one or more counters on a permanent you control, it puts twice that many of those counters on that permanent instead.",G,G,mythic,2XM,Double Masters,350,,,,
+Doubling Season,{4}{G},5.0,Enchantment,"If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.
+If an effect would put one or more counters on a permanent you control, it puts twice that many of those counters on that permanent instead.",G,G,mythic,BBD,Battlebond,195,,,,
+Doubling Season,{4}{G},5.0,Enchantment,"If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.
+If an effect would put one or more counters on a permanent you control, it puts twice that many of those counters on that permanent instead.",G,G,mythic,PFDN,Foundations Promos,216s,,,,
+Doubling Season,{4}{G},5.0,Enchantment,"If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.
+If an effect would put one or more counters on a permanent you control, it puts twice that many of those counters on that permanent instead.",G,G,mythic,FDN,Foundations,428,,,,
+Doubling Season,{4}{G},5.0,Enchantment,"If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.
+If an effect would put one or more counters on a permanent you control, it puts twice that many of those counters on that permanent instead.",G,G,mythic,WOT,Wilds of Eldraine: Enchanting Tales,81,,,,
+Doubling Season,{4}{G},5.0,Enchantment,"If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.
+If an effect would put one or more counters on a permanent you control, it puts twice that many of those counters on that permanent instead.",G,G,mythic,CMM,Commander Masters,557,,,,
+Doubling Season,{4}{G},5.0,Enchantment,"If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.
+If an effect would put one or more counters on a permanent you control, it puts twice that many of those counters on that permanent instead.",G,G,mythic,WOT,Wilds of Eldraine: Enchanting Tales,101,,,,
+Doubling Season,{4}{G},5.0,Enchantment,"If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.
+If an effect would put one or more counters on a permanent you control, it puts twice that many of those counters on that permanent instead.",G,G,rare,MMA,Modern Masters,141,,,,
+Doubling Season,{4}{G},5.0,Enchantment,"If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.
+If an effect would put one or more counters on a permanent you control, it puts twice that many of those counters on that permanent instead.",G,G,mythic,2XM,Double Masters,164,,,,
+Doubling Season,{4}{G},5.0,Enchantment,"If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.
+If an effect would put one or more counters on a permanent you control, it puts twice that many of those counters on that permanent instead.",G,G,mythic,PZA,Teenage Mutant Ninja Turtles Source Material,11,,,,
+Doubling Season,{4}{G},5.0,Enchantment,"If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.
+If an effect would put one or more counters on a permanent you control, it puts twice that many of those counters on that permanent instead.",G,G,mythic,WOT,Wilds of Eldraine: Enchanting Tales,52,,,,
+Doubling Season,{4}{G},5.0,Enchantment,"If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.
+If an effect would put one or more counters on a permanent you control, it puts twice that many of those counters on that permanent instead.",G,G,rare,RAV,Ravnica: City of Guilds,158,,,,
+Doubling Season,{4}{G},5.0,Enchantment,"If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.
+If an effect would put one or more counters on a permanent you control, it puts twice that many of those counters on that permanent instead.",G,G,rare,G11,Judge Gift Cards 2011,7,,,,
+Doubling Season,{4}{G},5.0,Enchantment,"If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.
+If an effect would put one or more counters on a permanent you control, it puts twice that many of those counters on that permanent instead.",G,G,mythic,FDN,Foundations,216,,,,
+Dracogenesis,{6}{R}{R},8.0,Enchantment,You may cast Dragon spells without paying their mana costs.,R,R,mythic,TDM,Tarkir: Dragonstorm,105,,,,
+Dracogenesis,{6}{R}{R},8.0,Enchantment,You may cast Dragon spells without paying their mana costs.,R,R,mythic,TDM,Tarkir: Dragonstorm,300,,,,
+Dracogenesis,{6}{R}{R},8.0,Enchantment,You may cast Dragon spells without paying their mana costs.,R,R,mythic,TDM,Tarkir: Dragonstorm,412,,,,
+Dracogenesis,{6}{R}{R},8.0,Enchantment,You may cast Dragon spells without paying their mana costs.,R,R,mythic,PTDM,Tarkir: Dragonstorm Promos,105p,,,,
+Dracogenesis,{6}{R}{R},8.0,Enchantment,You may cast Dragon spells without paying their mana costs.,R,R,mythic,TDM,Tarkir: Dragonstorm,402,,,,
+Dracogenesis,{6}{R}{R},8.0,Enchantment,You may cast Dragon spells without paying their mana costs.,R,R,mythic,PTDM,Tarkir: Dragonstorm Promos,105s,,,,
+Dragonback Assault,{3}{G}{U}{R},6.0,Enchantment,"When this enchantment enters, it deals 3 damage to each creature and each planeswalker.
+Landfall — Whenever a land you control enters, create a 4/4 red Dragon creature token with flying.","G,R,U","G,R,U",mythic,PTDM,Tarkir: Dragonstorm Promos,179p,,,,Landfall
+Dragonback Assault,{3}{G}{U}{R},6.0,Enchantment,"When this enchantment enters, it deals 3 damage to each creature and each planeswalker.
+Landfall — Whenever a land you control enters, create a 4/4 red Dragon creature token with flying.","G,R,U","G,R,U",mythic,TDM,Tarkir: Dragonstorm,355,,,,Landfall
+Dragonback Assault,{3}{G}{U}{R},6.0,Enchantment,"When this enchantment enters, it deals 3 damage to each creature and each planeswalker.
+Landfall — Whenever a land you control enters, create a 4/4 red Dragon creature token with flying.","G,R,U","G,R,U",mythic,TDM,Tarkir: Dragonstorm,179,,,,Landfall
+Dragonback Assault,{3}{G}{U}{R},6.0,Enchantment,"When this enchantment enters, it deals 3 damage to each creature and each planeswalker.
+Landfall — Whenever a land you control enters, create a 4/4 red Dragon creature token with flying.","G,R,U","G,R,U",mythic,PTDM,Tarkir: Dragonstorm Promos,179s,,,,Landfall
+Dramatic Accusation,{2}{U},3.0,Enchantment — Aura,"Enchant creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.
+{U}{U}: Shuffle enchanted creature into its owner's library.",U,U,common,MKM,Murders at Karlov Manor,294,,,,Enchant
+Dramatic Accusation,{2}{U},3.0,Enchantment — Aura,"Enchant creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.
+{U}{U}: Shuffle enchanted creature into its owner's library.",U,U,common,MKM,Murders at Karlov Manor,53,,,,Enchant
+Dredger's Insight,{1}{G},2.0,Enchantment,"Whenever one or more artifact and/or creature cards leave your graveyard, you gain 1 life.
+When this enchantment enters, mill four cards. You may put an artifact, creature, or land card from among the milled cards into your hand. (To mill four cards, put the top four cards of your library into your graveyard.)",G,G,uncommon,DFT,Aetherdrift,159,,,,Mill
+Due Diligence,{2}{W},3.0,Enchantment — Aura,"Enchant creature
+When this Aura enters, target creature you control other than enchanted creature gets +2/+2 and gains vigilance until end of turn.
+Enchanted creature gets +2/+2 and has vigilance.",W,W,common,MKM,Murders at Karlov Manor,14,,,,Enchant
+Duskmourn's Domination,{4}{U}{U},6.0,Enchantment — Aura,"Enchant creature
+You control enchanted creature.
+Enchanted creature gets -3/-0 and loses all abilities.",U,U,uncommon,DSK,Duskmourn: House of Horror,50,,,,Enchant

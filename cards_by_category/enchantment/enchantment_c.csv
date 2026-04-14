@@ -1,0 +1,263 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Call the Spirit Dragons,{W}{U}{B}{R}{G},5.0,Enchantment,"Dragons you control have indestructible.
+At the beginning of your upkeep, for each color, put a +1/+1 counter on a Dragon you control of that color. If you put +1/+1 counters on five Dragons this way, you win the game.","B,G,R,U,W","B,G,R,U,W",mythic,PTDM,Tarkir: Dragonstorm Promos,174s,,,,
+Call the Spirit Dragons,{W}{U}{B}{R}{G},5.0,Enchantment,"Dragons you control have indestructible.
+At the beginning of your upkeep, for each color, put a +1/+1 counter on a Dragon you control of that color. If you put +1/+1 counters on five Dragons this way, you win the game.","B,G,R,U,W","B,G,R,U,W",mythic,PTDM,Tarkir: Dragonstorm Promos,174p,,,,
+Call the Spirit Dragons,{W}{U}{B}{R}{G},5.0,Enchantment,"Dragons you control have indestructible.
+At the beginning of your upkeep, for each color, put a +1/+1 counter on a Dragon you control of that color. If you put +1/+1 counters on five Dragons this way, you win the game.","B,G,R,U,W","B,G,R,U,W",mythic,TDM,Tarkir: Dragonstorm,309,,,,
+Call the Spirit Dragons,{W}{U}{B}{R}{G},5.0,Enchantment,"Dragons you control have indestructible.
+At the beginning of your upkeep, for each color, put a +1/+1 counter on a Dragon you control of that color. If you put +1/+1 counters on five Dragons this way, you win the game.","B,G,R,U,W","B,G,R,U,W",mythic,TDM,Tarkir: Dragonstorm,174,,,,
+Canonized in Blood,{1}{B},2.0,Enchantment,"At the beginning of your end step, if you descended this turn, put a +1/+1 counter on target creature you control. (You descended if a permanent card was put into your graveyard from anywhere.)
+{5}{B}{B}, Sacrifice this enchantment: Create a 4/3 white and black Vampire Demon creature token with flying.",B,B,uncommon,LCI,The Lost Caverns of Ixalan,96,,,,
+Caretaker's Talent,{2}{W},3.0,Enchantment — Class,"(Gain the next level as a sorcery to add its ability.)
+Whenever one or more tokens you control enter, draw a card. This ability triggers only once each turn.
+{W}: Level 2
+When this Class becomes level 2, create a token that's a copy of target token you control.
+{3}{W}: Level 3
+Creature tokens you control get +2/+2.",W,W,rare,PBLB,Bloomburrow Promos,6p,,,,
+Caretaker's Talent,{2}{W},3.0,Enchantment — Class,"(Gain the next level as a sorcery to add its ability.)
+Whenever one or more tokens you control enter, draw a card. This ability triggers only once each turn.
+{W}: Level 2
+When this Class becomes level 2, create a token that's a copy of target token you control.
+{3}{W}: Level 3
+Creature tokens you control get +2/+2.",W,W,rare,PBLB,Bloomburrow Promos,6s,,,,
+Caretaker's Talent,{2}{W},3.0,Enchantment — Class,"(Gain the next level as a sorcery to add its ability.)
+Whenever one or more tokens you control enter, draw a card. This ability triggers only once each turn.
+{W}: Level 2
+When this Class becomes level 2, create a token that's a copy of target token you control.
+{3}{W}: Level 3
+Creature tokens you control get +2/+2.",W,W,rare,BLB,Bloomburrow,6,,,,
+Case of the Burning Masks,{1}{R}{R},3.0,Enchantment — Case,"When this Case enters, it deals 3 damage to target creature an opponent controls.
+To solve — Three or more sources you controlled dealt damage this turn. (If unsolved, solve at the beginning of your end step.)
+Solved — Sacrifice this Case: Exile the top three cards of your library. Choose one of them. You may play that card this turn.",R,R,uncommon,MKM,Murders at Karlov Manor,113,,,,Solved
+Case of the Crimson Pulse,{2}{R},3.0,Enchantment — Case,"When this Case enters, discard a card, then draw two cards.
+To solve — You have no cards in hand. (If unsolved, solve at the beginning of your end step.)
+Solved — At the beginning of your upkeep, discard your hand, then draw two cards.",R,R,rare,PMKM,Murders at Karlov Manor Promos,114p,,,,Solved
+Case of the Crimson Pulse,{2}{R},3.0,Enchantment — Case,"When this Case enters, discard a card, then draw two cards.
+To solve — You have no cards in hand. (If unsolved, solve at the beginning of your end step.)
+Solved — At the beginning of your upkeep, discard your hand, then draw two cards.",R,R,rare,PMKM,Murders at Karlov Manor Promos,114s,,,,Solved
+Case of the Crimson Pulse,{2}{R},3.0,Enchantment — Case,"When this Case enters, discard a card, then draw two cards.
+To solve — You have no cards in hand. (If unsolved, solve at the beginning of your end step.)
+Solved — At the beginning of your upkeep, discard your hand, then draw two cards.",R,R,rare,MKM,Murders at Karlov Manor,114,,,,Solved
+Case of the Filched Falcon,{U},1.0,Enchantment — Case,"When this Case enters, investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")
+To solve — You control three or more artifacts. (If unsolved, solve at the beginning of your end step.)
+Solved — {2}{U}, Sacrifice this Case: Put four +1/+1 counters on target noncreature artifact. It becomes a 0/0 Bird creature with flying in addition to its other types.",U,U,uncommon,MKM,Murders at Karlov Manor,44,,,,Investigate;Solved
+Case of the Gateway Express,{1}{W},2.0,Enchantment — Case,"When this Case enters, choose target creature you don't control. Each creature you control deals 1 damage to that creature.
+To solve — Three or more creatures attacked this turn. (If unsolved, solve at the beginning of your end step.)
+Solved — Creatures you control get +1/+0.",W,W,uncommon,MKM,Murders at Karlov Manor,8,,,,Solved
+Case of the Gorgon's Kiss,{B},1.0,Enchantment — Case,"When this Case enters, destroy up to one target creature that was dealt damage this turn.
+To solve — Three or more creature cards were put into graveyards from anywhere this turn. (If unsolved, solve at the beginning of your end step.)
+Solved — This Case is a 4/4 Gorgon creature with deathtouch and lifelink in addition to its other types.",B,B,uncommon,MKM,Murders at Karlov Manor,79†,,,,Solved
+Case of the Gorgon's Kiss,{B},1.0,Enchantment — Case,"When this Case enters, destroy up to one target creature that was dealt damage this turn.
+To solve — Three or more creature cards were put into graveyards from anywhere this turn. (If unsolved, solve at the beginning of your end step.)
+Solved — This Case is a 4/4 Gorgon creature with deathtouch and lifelink in addition to its other types.",B,B,uncommon,MKM,Murders at Karlov Manor,79,,,,Solved
+Case of the Locked Hothouse,{3}{G},4.0,Enchantment — Case,"You may play an additional land on each of your turns.
+To solve — You control seven or more lands. (If unsolved, solve at the beginning of your end step.)
+Solved — You may look at the top card of your library any time, and you may play lands and cast creature and enchantment spells from the top of your library.",G,G,rare,MKM,Murders at Karlov Manor,155,,,,Solved
+Case of the Locked Hothouse,{3}{G},4.0,Enchantment — Case,"You may play an additional land on each of your turns.
+To solve — You control seven or more lands. (If unsolved, solve at the beginning of your end step.)
+Solved — You may look at the top card of your library any time, and you may play lands and cast creature and enchantment spells from the top of your library.",G,G,rare,PMKM,Murders at Karlov Manor Promos,155p,,,,Solved
+Case of the Locked Hothouse,{3}{G},4.0,Enchantment — Case,"You may play an additional land on each of your turns.
+To solve — You control seven or more lands. (If unsolved, solve at the beginning of your end step.)
+Solved — You may look at the top card of your library any time, and you may play lands and cast creature and enchantment spells from the top of your library.",G,G,rare,PMKM,Murders at Karlov Manor Promos,155s,,,,Solved
+Case of the Pilfered Proof,{1}{W},2.0,Enchantment — Case,"Whenever a Detective you control enters or is turned face up, put a +1/+1 counter on it.
+To solve — You control three or more Detectives. (If unsolved, solve at the beginning of your end step.)
+Solved — If one or more tokens would be created under your control, those tokens plus a Clue token are created instead. (It's an artifact with ""{2}, Sacrifice this token: Draw a card."")",W,W,uncommon,MKM,Murders at Karlov Manor,9,,,,Solved
+Case of the Ransacked Lab,{2}{U},3.0,Enchantment — Case,"Instant and sorcery spells you cast cost {1} less to cast.
+To solve — You've cast four or more instant and sorcery spells this turn. (If unsolved, solve at the beginning of your end step.)
+Solved — Whenever you cast an instant or sorcery spell, draw a card.",U,U,rare,MKM,Murders at Karlov Manor,45,,,,Solved
+Case of the Ransacked Lab,{2}{U},3.0,Enchantment — Case,"Instant and sorcery spells you cast cost {1} less to cast.
+To solve — You've cast four or more instant and sorcery spells this turn. (If unsolved, solve at the beginning of your end step.)
+Solved — Whenever you cast an instant or sorcery spell, draw a card.",U,U,rare,PMKM,Murders at Karlov Manor Promos,45p,,,,Solved
+Case of the Ransacked Lab,{2}{U},3.0,Enchantment — Case,"Instant and sorcery spells you cast cost {1} less to cast.
+To solve — You've cast four or more instant and sorcery spells this turn. (If unsolved, solve at the beginning of your end step.)
+Solved — Whenever you cast an instant or sorcery spell, draw a card.",U,U,rare,PMKM,Murders at Karlov Manor Promos,45s,,,,Solved
+Case of the Shattered Pact,{2},2.0,Enchantment — Case,"When this Case enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+To solve — There are five colors among permanents you control. (If unsolved, solve at the beginning of your end step.)
+Solved — At the beginning of combat on your turn, target creature you control gains flying, double strike, and vigilance until end of turn.",,,uncommon,MKM,Murders at Karlov Manor,1,,,,Solved;Double strike
+Case of the Stashed Skeleton,{1}{B},2.0,Enchantment — Case,"When this Case enters, create a 2/1 black Skeleton creature token and suspect it. (It has menace and can't block.)
+To solve — You control no suspected Skeletons. (If unsolved, solve at the beginning of your end step.)
+Solved — {1}{B}, Sacrifice this Case: Search your library for a card, put it into your hand, then shuffle. Activate only as a sorcery.",B,B,rare,PMKM,Murders at Karlov Manor Promos,80p,,,,Solved;Suspect
+Case of the Stashed Skeleton,{1}{B},2.0,Enchantment — Case,"When this Case enters, create a 2/1 black Skeleton creature token and suspect it. (It has menace and can't block.)
+To solve — You control no suspected Skeletons. (If unsolved, solve at the beginning of your end step.)
+Solved — {1}{B}, Sacrifice this Case: Search your library for a card, put it into your hand, then shuffle. Activate only as a sorcery.",B,B,rare,MKM,Murders at Karlov Manor,80,,,,Solved;Suspect
+Case of the Stashed Skeleton,{1}{B},2.0,Enchantment — Case,"When this Case enters, create a 2/1 black Skeleton creature token and suspect it. (It has menace and can't block.)
+To solve — You control no suspected Skeletons. (If unsolved, solve at the beginning of your end step.)
+Solved — {1}{B}, Sacrifice this Case: Search your library for a card, put it into your hand, then shuffle. Activate only as a sorcery.",B,B,rare,PMKM,Murders at Karlov Manor Promos,80s,,,,Solved;Suspect
+Case of the Trampled Garden,{2}{G},3.0,Enchantment — Case,"When this Case enters, distribute two +1/+1 counters among one or two target creatures you control.
+To solve — Creatures you control have total power 8 or greater. (If unsolved, solve at the beginning of your end step.)
+Solved — Whenever you attack, put a +1/+1 counter on target attacking creature. It gains trample until end of turn.",G,G,uncommon,MKM,Murders at Karlov Manor,156,,,,Solved
+Case of the Uneaten Feast,{W},1.0,Enchantment — Case,"Whenever a creature you control enters, you gain 1 life.
+To solve — You've gained 5 or more life this turn. (If unsolved, solve at the beginning of your end step.)
+Solved — Sacrifice this Case: Creature cards in your graveyard gain ""You may cast this card from your graveyard"" until end of turn.",W,W,rare,PMKM,Murders at Karlov Manor Promos,10s,,,,Solved
+Case of the Uneaten Feast,{W},1.0,Enchantment — Case,"Whenever a creature you control enters, you gain 1 life.
+To solve — You've gained 5 or more life this turn. (If unsolved, solve at the beginning of your end step.)
+Solved — Sacrifice this Case: Creature cards in your graveyard gain ""You may cast this card from your graveyard"" until end of turn.",W,W,rare,MKM,Murders at Karlov Manor,10,,,,Solved
+Case of the Uneaten Feast,{W},1.0,Enchantment — Case,"Whenever a creature you control enters, you gain 1 life.
+To solve — You've gained 5 or more life this turn. (If unsolved, solve at the beginning of your end step.)
+Solved — Sacrifice this Case: Creature cards in your graveyard gain ""You may cast this card from your graveyard"" until end of turn.",W,W,rare,PMKM,Murders at Karlov Manor Promos,10p,,,,Solved
+Central Elevator // Promising Stairs,{3}{U} // {2}{U},7.0,Enchantment — Room // Enchantment — Room,,U,U,rare,PDSK,Duskmourn: House of Horror Promos,44s,,,,Surveil
+Central Elevator // Promising Stairs,{3}{U} // {2}{U},7.0,Enchantment — Room // Enchantment — Room,,U,U,rare,PDSK,Duskmourn: House of Horror Promos,44p,,,,Surveil
+Central Elevator // Promising Stairs,{3}{U} // {2}{U},7.0,Enchantment — Room // Enchantment — Room,,U,U,rare,DSK,Duskmourn: House of Horror,336,,,,Surveil
+Central Elevator // Promising Stairs,{3}{U} // {2}{U},7.0,Enchantment — Room // Enchantment — Room,,U,U,rare,DSK,Duskmourn: House of Horror,44,,,,Surveil
+Chalk Outline,{3}{G},4.0,Enchantment,"Whenever one or more creature cards leave your graveyard, create a 2/2 white and blue Detective creature token, then investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")",G,G,uncommon,MKM,Murders at Karlov Manor,157,,,,Investigate
+Charmed Sleep,{1}{U}{U},3.0,Enchantment — Aura,"Enchant creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.",U,U,common,HBG,Alchemy Horizons: Baldur's Gate,112,,,,Enchant
+Charmed Sleep,{1}{U}{U},3.0,Enchantment — Aura,"Enchant creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.",U,U,common,AFR,Adventures in the Forgotten Realms,50,,,,Enchant
+Charmed Sleep,{1}{U}{U},3.0,Enchantment — Aura,"Enchant creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.",U,U,common,BLB,Bloomburrow,388,,,,Enchant
+Charmed Sleep,{1}{U}{U},3.0,Enchantment — Aura,"Enchant creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.",U,U,common,PLST,The List,ELD-40,,,,Enchant
+Charmed Sleep,{1}{U}{U},3.0,Enchantment — Aura,"Enchant creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.",U,U,common,ELD,Throne of Eldraine,40,,,,Enchant
+Charred Foyer // Warped Space,{3}{R} // {4}{R}{R},10.0,Enchantment — Room // Enchantment — Room,,R,R,mythic,PDSK,Duskmourn: House of Horror Promos,129s,,,,
+Charred Foyer // Warped Space,{3}{R} // {4}{R}{R},10.0,Enchantment — Room // Enchantment — Room,,R,R,mythic,PDSK,Duskmourn: House of Horror Promos,129p,,,,
+Charred Foyer // Warped Space,{3}{R} // {4}{R}{R},10.0,Enchantment — Room // Enchantment — Room,,R,R,mythic,DSK,Duskmourn: House of Horror,129,,,,
+Charred Foyer // Warped Space,{3}{R} // {4}{R}{R},10.0,Enchantment — Room // Enchantment — Room,,R,R,mythic,DSK,Duskmourn: House of Horror,340,,,,
+Chorale of the Void,{3}{B},4.0,Enchantment — Aura,"Enchant creature you control
+Whenever enchanted creature attacks, put target creature card from defending player's graveyard onto the battlefield under your control tapped and attacking.
+Void — At the beginning of your end step, sacrifice this Aura unless a nonland permanent left the battlefield this turn or a spell was warped this turn.",B,B,rare,PEOE,Edge of Eternities Promos,91p,,,,Enchant;Void
+Chorale of the Void,{3}{B},4.0,Enchantment — Aura,"Enchant creature you control
+Whenever enchanted creature attacks, put target creature card from defending player's graveyard onto the battlefield under your control tapped and attacking.
+Void — At the beginning of your end step, sacrifice this Aura unless a nonland permanent left the battlefield this turn or a spell was warped this turn.",B,B,rare,EOE,Edge of Eternities,331,,,,Enchant;Void
+Chorale of the Void,{3}{B},4.0,Enchantment — Aura,"Enchant creature you control
+Whenever enchanted creature attacks, put target creature card from defending player's graveyard onto the battlefield under your control tapped and attacking.
+Void — At the beginning of your end step, sacrifice this Aura unless a nonland permanent left the battlefield this turn or a spell was warped this turn.",B,B,rare,EOE,Edge of Eternities,91,,,,Enchant;Void
+Chorale of the Void,{3}{B},4.0,Enchantment — Aura,"Enchant creature you control
+Whenever enchanted creature attacks, put target creature card from defending player's graveyard onto the battlefield under your control tapped and attacking.
+Void — At the beginning of your end step, sacrifice this Aura unless a nonland permanent left the battlefield this turn or a spell was warped this turn.",B,B,rare,PEOE,Edge of Eternities Promos,91s,,,,Enchant;Void
+Clachan Festival,{2}{W},3.0,Kindred Enchantment — Kithkin,"When this enchantment enters, create two 1/1 green and white Kithkin creature tokens.
+{4}{W}: Create a 1/1 green and white Kithkin creature token.",W,W,uncommon,ECL,Lorwyn Eclipsed,10,,,,
+Coerced to Kill,{3}{U}{B},5.0,Enchantment — Aura,"Enchant creature
+You control enchanted creature.
+Enchanted creature has base power and toughness 1/1, has deathtouch, and is an Assassin in addition to its other types.","B,U","B,U",uncommon,MKM,Murders at Karlov Manor,192,,,,Enchant
+Coerced to Kill,{3}{U}{B},5.0,Enchantment — Aura,"Enchant creature
+You control enchanted creature.
+Enchanted creature has base power and toughness 1/1, has deathtouch, and is an Assassin in addition to its other types.","B,U","B,U",uncommon,MKM,Murders at Karlov Manor,311,,,,Enchant
+Collective Inferno,{3}{R}{R},5.0,Enchantment,"Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+As this enchantment enters, choose a creature type.
+Double all damage that sources you control of the chosen type would deal.",R,R,rare,ECL,Lorwyn Eclipsed,132,,,,Convoke
+Collective Inferno,{3}{R}{R},5.0,Enchantment,"Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+As this enchantment enters, choose a creature type.
+Double all damage that sources you control of the chosen type would deal.",R,R,mythic,ECL,Lorwyn Eclipsed,397,,,,Convoke
+Collective Inferno,{3}{R}{R},5.0,Enchantment,"Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+As this enchantment enters, choose a creature type.
+Double all damage that sources you control of the chosen type would deal.",R,R,rare,ECL,Lorwyn Eclipsed,363,,,,Convoke
+Collective Inferno,{3}{R}{R},5.0,Enchantment,"Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+As this enchantment enters, choose a creature type.
+Double all damage that sources you control of the chosen type would deal.",R,R,mythic,ECL,Lorwyn Eclipsed,387,,,,Convoke
+Collective Inferno,{3}{R}{R},5.0,Enchantment,"Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+As this enchantment enters, choose a creature type.
+Double all damage that sources you control of the chosen type would deal.",R,R,rare,PECL,Lorwyn Eclipsed Promos,132p,,,,Convoke
+Colossification,{5}{G}{G},7.0,Enchantment — Aura,"Enchant creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature gets +20/+20.",G,G,rare,PIKO,Ikoria: Lair of Behemoths Promos,148s,,,,Enchant
+Colossification,{5}{G}{G},7.0,Enchantment — Aura,"Enchant creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature gets +20/+20.",G,G,rare,PIKO,Ikoria: Lair of Behemoths Promos,148p,,,,Enchant
+Colossification,{5}{G}{G},7.0,Enchantment — Aura,"Enchant creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature gets +20/+20.",G,G,rare,PRM,Magic Online Promos,80879,,,,Enchant
+Colossification,{5}{G}{G},7.0,Enchantment — Aura,"Enchant creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature gets +20/+20.",G,G,rare,PRM,Magic Online Promos,80941,,,,Enchant
+Colossification,{5}{G}{G},7.0,Enchantment — Aura,"Enchant creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature gets +20/+20.",G,G,rare,IKO,Ikoria: Lair of Behemoths,364,,,,Enchant
+Colossification,{5}{G}{G},7.0,Enchantment — Aura,"Enchant creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature gets +20/+20.",G,G,rare,IKO,Ikoria: Lair of Behemoths,148,,,,Enchant
+Colossification,{5}{G}{G},7.0,Enchantment — Aura,"Enchant creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature gets +20/+20.",G,G,rare,IKO,Ikoria: Lair of Behemoths,327,,,,Enchant
+Colossification,{5}{G}{G},7.0,Enchantment — Aura,"Enchant creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature gets +20/+20.",G,G,rare,BLB,Bloomburrow,392,,,,Enchant
+Confiscate,{4}{U}{U},6.0,Enchantment — Aura,"Enchant permanent
+You control enchanted permanent.",U,U,uncommon,TD0,Magic Online Theme Decks,A20,,,,Enchant
+Confiscate,{4}{U}{U},6.0,Enchantment — Aura,"Enchant permanent
+You control enchanted permanent.",U,U,uncommon,9ED,Ninth Edition,68,,,,Enchant
+Confiscate,{4}{U}{U},6.0,Enchantment — Aura,"Enchant permanent
+You control enchanted permanent.",U,U,uncommon,CMR,Commander Legends,62,,,,Enchant
+Confiscate,{4}{U}{U},6.0,Enchantment — Aura,"Enchant permanent
+You control enchanted permanent.",U,U,uncommon,PSAL,Salvat 2005,G39,,,,Enchant
+Confiscate,{4}{U}{U},6.0,Enchantment — Aura,"Enchant permanent
+You control enchanted permanent.",U,U,uncommon,8ED,Eighth Edition,69,,,,Enchant
+Confiscate,{4}{U}{U},6.0,Enchantment — Aura,"Enchant permanent
+You control enchanted permanent.",U,U,uncommon,DMR,Dominaria Remastered,44,,,,Enchant
+Confiscate,{4}{U}{U},6.0,Enchantment — Aura,"Enchant permanent
+You control enchanted permanent.",U,U,uncommon,USG,Urza's Saga,66,,,,Enchant
+Confiscate,{4}{U}{U},6.0,Enchantment — Aura,"Enchant permanent
+You control enchanted permanent.",U,U,uncommon,7ED,Seventh Edition,65★,,,,Enchant
+Confiscate,{4}{U}{U},6.0,Enchantment — Aura,"Enchant permanent
+You control enchanted permanent.",U,U,uncommon,9ED,Ninth Edition,68★,,,,Enchant
+Confiscate,{4}{U}{U},6.0,Enchantment — Aura,"Enchant permanent
+You control enchanted permanent.",U,U,uncommon,8ED,Eighth Edition,69★,,,,Enchant
+Confiscate,{4}{U}{U},6.0,Enchantment — Aura,"Enchant permanent
+You control enchanted permanent.",U,U,uncommon,FDN,Foundations,709,,,,Enchant
+Confiscate,{4}{U}{U},6.0,Enchantment — Aura,"Enchant permanent
+You control enchanted permanent.",U,U,uncommon,WC00,World Championship Decks 2000,nl66,,,,Enchant
+Confiscate,{4}{U}{U},6.0,Enchantment — Aura,"Enchant permanent
+You control enchanted permanent.",U,U,uncommon,7ED,Seventh Edition,65,,,,Enchant
+Connecting the Dots,{1}{R},2.0,Enchantment,"Whenever a creature you control attacks, exile the top card of your library face down. (You can't look at it.)
+{1}{R}, Discard your hand, Sacrifice this enchantment: Put all cards exiled with this enchantment into their owners' hands.",R,R,rare,PMKM,Murders at Karlov Manor Promos,118p,,,,
+Connecting the Dots,{1}{R},2.0,Enchantment,"Whenever a creature you control attacks, exile the top card of your library face down. (You can't look at it.)
+{1}{R}, Discard your hand, Sacrifice this enchantment: Put all cards exiled with this enchantment into their owners' hands.",R,R,rare,MKM,Murders at Karlov Manor,403,,,,
+Connecting the Dots,{1}{R},2.0,Enchantment,"Whenever a creature you control attacks, exile the top card of your library face down. (You can't look at it.)
+{1}{R}, Discard your hand, Sacrifice this enchantment: Put all cards exiled with this enchantment into their owners' hands.",R,R,rare,MKM,Murders at Karlov Manor,118,,,,
+Connecting the Dots,{1}{R},2.0,Enchantment,"Whenever a creature you control attacks, exile the top card of your library face down. (You can't look at it.)
+{1}{R}, Discard your hand, Sacrifice this enchantment: Put all cards exiled with this enchantment into their owners' hands.",R,R,rare,PMKM,Murders at Karlov Manor Promos,118s,,,,
+Convenient Target,{R},1.0,Enchantment — Aura,"Enchant creature
+When this Aura enters, suspect enchanted creature. (It has menace and can't block.)
+Enchanted creature gets +1/+1.
+{2}{R}: Return this card from your graveyard to your hand.",R,R,uncommon,MKM,Murders at Karlov Manor,119,,,,Enchant
+Convenient Target,{R},1.0,Enchantment — Aura,"Enchant creature
+When this Aura enters, suspect enchanted creature. (It has menace and can't block.)
+Enchanted creature gets +1/+1.
+{2}{R}: Return this card from your graveyard to your hand.",R,R,uncommon,MKM,Murders at Karlov Manor,305,,,,Enchant
+Cool but Rude,{1}{R},2.0,Enchantment — Class,"(Gain the next level as a sorcery to add its ability.)
+Whenever you attack, you may discard a card. If you do, draw a card.
+{1}{R}: Level 2
+Whenever you discard a card, this Class deals 2 damage to each opponent.
+{1}{R}: Level 3
+When this Class becomes level 3, search your library for a card, put it into your hand, shuffle, then discard a card at random.",R,R,rare,TMT,Teenage Mutant Ninja Turtles,89,,,,
+Cooped Up,{1}{W},2.0,Enchantment — Aura,"Enchant creature
+Enchanted creature can't attack or block.
+{2}{W}: Exile enchanted creature.",W,W,common,WOE,Wilds of Eldraine,8,,,,Enchant
+Corpses of the Lost,{2}{B},3.0,Enchantment,"Skeletons you control get +1/+0 and have haste.
+When this enchantment enters, create a 2/2 black Skeleton Pirate creature token.
+At the beginning of your end step, if you descended this turn, you may pay 1 life. If you do, return this enchantment to its owner's hand. (You descended if a permanent card was put into your graveyard from anywhere.)",B,B,rare,PLCI,The Lost Caverns of Ixalan Promos,98p,,,,
+Corpses of the Lost,{2}{B},3.0,Enchantment,"Skeletons you control get +1/+0 and have haste.
+When this enchantment enters, create a 2/2 black Skeleton Pirate creature token.
+At the beginning of your end step, if you descended this turn, you may pay 1 life. If you do, return this enchantment to its owner's hand. (You descended if a permanent card was put into your graveyard from anywhere.)",B,B,rare,PLCI,The Lost Caverns of Ixalan Promos,98s,,,,
+Corpses of the Lost,{2}{B},3.0,Enchantment,"Skeletons you control get +1/+0 and have haste.
+When this enchantment enters, create a 2/2 black Skeleton Pirate creature token.
+At the beginning of your end step, if you descended this turn, you may pay 1 life. If you do, return this enchantment to its owner's hand. (You descended if a permanent card was put into your graveyard from anywhere.)",B,B,rare,LCI,The Lost Caverns of Ixalan,98,,,,
+Corpses of the Lost,{2}{B},3.0,Enchantment,"Skeletons you control get +1/+0 and have haste.
+When this enchantment enters, create a 2/2 black Skeleton Pirate creature token.
+At the beginning of your end step, if you descended this turn, you may pay 1 life. If you do, return this enchantment to its owner's hand. (You descended if a permanent card was put into your graveyard from anywhere.)",B,B,rare,LCI,The Lost Caverns of Ixalan,366,,,,
+Corroding Dragonstorm,{1}{B},2.0,Enchantment,"When this enchantment enters, each opponent loses 2 life and you gain 2 life. Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+When a Dragon you control enters, return this enchantment to its owner's hand.",B,B,uncommon,TDM,Tarkir: Dragonstorm,297,,,,Surveil
+Corroding Dragonstorm,{1}{B},2.0,Enchantment,"When this enchantment enters, each opponent loses 2 life and you gain 2 life. Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+When a Dragon you control enters, return this enchantment to its owner's hand.",B,B,uncommon,TDM,Tarkir: Dragonstorm,75,,,,Surveil
+Count on Luck,{R}{R}{R},3.0,Enchantment,"At the beginning of your upkeep, exile the top card of your library. You may play that card this turn.",R,R,rare,PDFT,Aetherdrift Promos,118p,,,,
+Count on Luck,{R}{R}{R},3.0,Enchantment,"At the beginning of your upkeep, exile the top card of your library. You may play that card this turn.",R,R,rare,DFT,Aetherdrift,385,,,,
+Count on Luck,{R}{R}{R},3.0,Enchantment,"At the beginning of your upkeep, exile the top card of your library. You may play that card this turn.",R,R,rare,PDFT,Aetherdrift Promos,118s,,,,
+Count on Luck,{R}{R}{R},3.0,Enchantment,"At the beginning of your upkeep, exile the top card of your library. You may play that card this turn.",R,R,rare,DFT,Aetherdrift,118,,,,
+Count on Luck,{R}{R}{R},3.0,Enchantment,"At the beginning of your upkeep, exile the top card of your library. You may play that card this turn.",R,R,rare,DFT,Aetherdrift,457,,,,
+Cracked Skull,{2}{B},3.0,Enchantment — Aura,"Enchant creature
+When this Aura enters, look at target player's hand. You may choose a nonland card from it. That player discards that card.
+When enchanted creature is dealt damage, destroy it.",B,B,common,DSK,Duskmourn: House of Horror,88,,,,Enchant
+Crescent Island Temple,{3}{R},4.0,Legendary Enchantment — Shrine,"When Crescent Island Temple enters, for each Shrine you control, create a 1/1 red Monk creature token with prowess. (Whenever you cast a noncreature spell, it gets +1/+1 until end of turn.)
+Whenever another Shrine you control enters, create a 1/1 red Monk creature token with prowess.",R,R,uncommon,TLA,Avatar: The Last Airbender,129,,,,
+Cryoshatter,{U},1.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets -5/-0.
+When enchanted creature becomes tapped or is dealt damage, destroy it.",U,U,common,EOE,Edge of Eternities,53,,,,Enchant
+Curious Inquiry,{U},1.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets +1/+1 and has ""Whenever this creature deals combat damage to a player, investigate."" (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")",U,U,uncommon,MKM,Murders at Karlov Manor,51,,,,Investigate;Enchant

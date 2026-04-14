@@ -1,0 +1,120 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Gallant Strike,{1}{W},2.0,Instant,"Destroy target creature with toughness 4 or greater.
+Cycling {2} ({2}, Discard this card: Draw a card.)",W,W,uncommon,DFT,Aetherdrift,13,,,,Cycling
+Galuf's Final Act,{1}{G},2.0,Instant,"Until end of turn, target creature gets +1/+0 and gains ""When this creature dies, put a number of +1/+1 counters equal to its power on up to one target creature.""",G,G,uncommon,FIN,Final Fantasy,186,,,,
+Galvanize,{1}{R},2.0,Instant,"Galvanize deals 3 damage to target creature. If you've drawn two or more cards this turn, Galvanize deals 5 damage to that creature instead.",R,R,common,MKM,Murders at Karlov Manor,128,,,,
+Get a Leg Up,{G},1.0,Instant,"Until end of turn, target creature gets +1/+1 for each creature you control and gains reach.",G,G,uncommon,MKM,Murders at Karlov Manor,161,,,,
+Get Lost,{1}{W},2.0,Instant,"Destroy target creature, enchantment, or planeswalker. Its controller creates two Map tokens. (They're artifacts with ""{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery."")",W,W,rare,PLCI,The Lost Caverns of Ixalan Promos,14p,,,,Explore
+Get Lost,{1}{W},2.0,Instant,"Destroy target creature, enchantment, or planeswalker. Its controller creates two Map tokens. (They're artifacts with ""{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery."")",W,W,rare,PSPL,Spotlight Series,5,,,,Explore
+Get Lost,{1}{W},2.0,Instant,"Destroy target creature, enchantment, or planeswalker. Its controller creates two Map tokens. (They're artifacts with ""{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery."")",W,W,rare,LCI,The Lost Caverns of Ixalan,14,,,,Explore
+Get Lost,{1}{W},2.0,Instant,"Destroy target creature, enchantment, or planeswalker. Its controller creates two Map tokens. (They're artifacts with ""{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery."")",W,W,rare,LCI,The Lost Caverns of Ixalan,333,,,,Explore
+Get Lost,{1}{W},2.0,Instant,"Destroy target creature, enchantment, or planeswalker. Its controller creates two Map tokens. (They're artifacts with ""{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery."")",W,W,rare,PWCS,Planeswalker Championship Promos,2025-1,,,,Explore
+Get Lost,{1}{W},2.0,Instant,"Destroy target creature, enchantment, or planeswalker. Its controller creates two Map tokens. (They're artifacts with ""{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery."")",W,W,rare,PLCI,The Lost Caverns of Ixalan Promos,14s,,,,Explore
+Get Out,{U}{U},2.0,Instant,"Choose one —
+• Counter target creature or enchantment spell.
+• Return one or two target creatures and/or enchantments you own to your hand.",U,U,uncommon,DSK,Duskmourn: House of Horror,60,,,,
+Getaway Glamer,{W},1.0,Instant,"Spree (Choose one or more additional costs.)
++ {1} — Exile target nontoken creature. Return it to the battlefield under its owner's control at the beginning of the next end step.
++ {2} — Destroy target creature if no other creature has greater power.",W,W,uncommon,OTJ,Outlaws of Thunder Junction,14,,,,Spree
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,WAR,War of the Spark,162,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,5ED,Fifth Edition,299,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,PRM,Magic Online Promos,32557,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,CEI,Intl. Collectors' Edition,198,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,8ED,Eighth Edition,254,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,rare,PJJT,Japan Junior Tournament,1N04,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,WC97,World Championship Decks 1997,sg299,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,PRM,Magic Online Promos,35824,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,2ED,Unlimited Edition,198,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,PLST,The List,WAR-162,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,ATH,Anthologies,55,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,M11,Magic 2011,178,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,LEA,Limited Edition Alpha,197,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,4BB,Fourth Edition Foreign Black Border,248,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,M10,Magic 2010,184,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,ICE,Ice Age,246,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,GVL,Duel Decks Anthology: Garruk vs. Liliana,14,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,DDD,Duel Decks: Garruk vs. Liliana,14,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,rare,FNM,Friday Night Magic 2000,8,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,7ED,Seventh Edition,248★,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,rare,SLD,Secret Lair Drop,717,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,A25,Masters 25,172,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,BRB,Battle Royale Box Set,29,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,LEB,Limited Edition Beta,198,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,DPA,Duels of the Planeswalkers,66,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,RTR,Return to Ravnica,125,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,8ED,Eighth Edition,254★,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,rare,PSUS,Junior Super Series,8,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,J21,Jumpstart: Historic Horizons,790,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,DD1,Duel Decks: Elves vs. Goblins,21,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,SUM,Summer Magic / Edgar,199,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,PRM,Magic Online Promos,35930,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,9ED,Ninth Edition,243,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,CED,Collectors' Edition,198,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,EVG,Duel Decks Anthology: Elves vs. Goblins,21,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,BBD,Battlebond,200,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,7ED,Seventh Edition,248,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,30A,30th Anniversary Edition,490,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,DKM,Deckmasters,27,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,BRO,The Brothers' War,183,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,ME3,Masters Edition III,121,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,30A,30th Anniversary Edition,193,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,9ED,Ninth Edition,243★,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,FDN,Foundations,223,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,4ED,Fourth Edition,248,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,6ED,Classic Sixth Edition,233,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,WC99,World Championship Decks 1999,ml233,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,3ED,Revised Edition,199,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,10E,Tenth Edition,266,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,ME2,Masters Edition II,167,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,rare,P06,Magic Player Rewards 2006,4,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,PS11,Salvat 2011,138,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,M14,Magic 2014,174,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,BLB,Bloomburrow,393,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,E02,Explorers of Ixalan,32,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,ME4,Masters Edition IV,156,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,PLST,The List,BBD-200,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,FBB,Foreign Black Border,199,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,BTD,Beatdown Box Set,57,,,,
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,J25,Foundations Jumpstart,662,,,,
+Giantfall,{1}{R},2.0,Instant,"Choose one —
+• Target creature you control deals damage equal to its power to target creature an opponent controls.
+• Destroy target artifact.",R,R,uncommon,ECL,Lorwyn Eclipsed,141,,,,
+Give In to Violence,{1}{B},2.0,Instant,Target creature gets +2/+2 and gains lifelink until end of turn.,B,B,common,DSK,Duskmourn: House of Horror,101,,,,
+Glen Elendra's Answer,{2}{U}{U},4.0,Instant,"This spell can't be countered.
+Counter all spells your opponents control and all abilities your opponents control. Create a 1/1 blue and black Faerie creature token with flying for each spell and ability countered this way.",U,U,mythic,ECL,Lorwyn Eclipsed,306,,,,
+Glen Elendra's Answer,{2}{U}{U},4.0,Instant,"This spell can't be countered.
+Counter all spells your opponents control and all abilities your opponents control. Create a 1/1 blue and black Faerie creature token with flying for each spell and ability countered this way.",U,U,mythic,PECL,Lorwyn Eclipsed Promos,52p,,,,
+Glen Elendra's Answer,{2}{U}{U},4.0,Instant,"This spell can't be countered.
+Counter all spells your opponents control and all abilities your opponents control. Create a 1/1 blue and black Faerie creature token with flying for each spell and ability countered this way.",U,U,mythic,ECL,Lorwyn Eclipsed,52,,,,
+Glimmerburst,{3}{U},4.0,Instant,Draw two cards. Create a 1/1 white Glimmer enchantment creature token.,U,U,common,DSK,Duskmourn: House of Horror,62,,,,
+Gnawing Crescendo,{2}{R},3.0,Instant,"Creatures you control get +2/+0 until end of turn. Whenever a nontoken creature you control dies this turn, create a 1/1 black Rat creature token with ""This token can't block.""",R,R,common,WOE,Wilds of Eldraine,131,,,,
+Goblin Surprise,{2}{R},3.0,Instant,"Choose one —
+• Creatures you control get +2/+0 until end of turn.
+• Create two 1/1 red Goblin creature tokens.",R,R,common,FDN,Foundations,200,,,,
+Goblin Surprise,{2}{R},3.0,Instant,"Choose one —
+• Creatures you control get +2/+0 until end of turn.
+• Create two 1/1 red Goblin creature tokens.",R,R,uncommon,J25,Foundations Jumpstart,16,,,,
+Gold Rush,{1}{G},2.0,Instant,"Create a Treasure token. Until end of turn, up to one target creature gets +2/+2 for each Treasure you control.",G,G,uncommon,OTJ,Outlaws of Thunder Junction,166,,,,Treasure
+Gravkill,{3}{B},4.0,Instant,Exile target creature or Spacecraft.,B,B,common,EOE,Edge of Eternities,103,,,,
+Great Train Heist,{R},1.0,Instant,"Spree (Choose one or more additional costs.)
++ {2}{R} — Untap all creatures you control. If it's your combat phase, there is an additional combat phase after this phase.
++ {2} — Creatures you control get +1/+0 and gain first strike until end of turn.
++ {R} — Choose target opponent. Whenever a creature you control deals combat damage to that player this turn, create a tapped Treasure token.",R,R,rare,OTJ,Outlaws of Thunder Junction,125,,,,Treasure;Spree
+Great Train Heist,{R},1.0,Instant,"Spree (Choose one or more additional costs.)
++ {2}{R} — Untap all creatures you control. If it's your combat phase, there is an additional combat phase after this phase.
++ {2} — Creatures you control get +1/+0 and gain first strike until end of turn.
++ {R} — Choose target opponent. Whenever a creature you control deals combat damage to that player this turn, create a tapped Treasure token.",R,R,rare,POTJ,Outlaws of Thunder Junction Promos,125s,,,,Treasure;Spree
+Great Train Heist,{R},1.0,Instant,"Spree (Choose one or more additional costs.)
++ {2}{R} — Untap all creatures you control. If it's your combat phase, there is an additional combat phase after this phase.
++ {2} — Creatures you control get +1/+0 and gain first strike until end of turn.
++ {R} — Choose target opponent. Whenever a creature you control deals combat damage to that player this turn, create a tapped Treasure token.",R,R,rare,POTJ,Outlaws of Thunder Junction Promos,125p,,,,Treasure;Spree
+Great Train Heist,{R},1.0,Instant,"Spree (Choose one or more additional costs.)
++ {2}{R} — Untap all creatures you control. If it's your combat phase, there is an additional combat phase after this phase.
++ {2} — Creatures you control get +1/+0 and gain first strike until end of turn.
++ {R} — Choose target opponent. Whenever a creature you control deals combat damage to that player this turn, create a tapped Treasure token.",R,R,rare,OTJ,Outlaws of Thunder Junction,331,,,,Treasure;Spree
+Grounded for Life,{4}{W},5.0,Instant,"This spell costs {3} less to cast if it targets a tapped creature.
+Destroy target creature.",W,W,common,TMT,Teenage Mutant Ninja Turtles,7,,,,
+Grow Extra Arms,{1}{G},2.0,Instant,"This spell costs {1} less to cast if it targets a Spider.
+Target creature gets +4/+4 until end of turn.",G,G,common,OM1,Through the Omenpaths,107,,,,
+Grow Extra Arms,{1}{G},2.0,Instant,"This spell costs {1} less to cast if it targets a Spider.
+Target creature gets +4/+4 until end of turn.",G,G,common,SPM,Marvel's Spider-Man,101,,,,

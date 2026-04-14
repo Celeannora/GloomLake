@@ -1,0 +1,110 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Mabel's Mettle,{1}{W},2.0,Instant,Target creature gets +2/+2 until end of turn. Up to one other target creature gets +1/+1 until end of turn.,W,W,uncommon,BLB,Bloomburrow,21,,,,
+Magic Damper,{U},1.0,Instant,Target creature you control gets +1/+1 and gains hexproof until end of turn. Untap it.,U,U,common,FIN,Final Fantasy,61,,,,
+Make a Stand,{2}{W},3.0,Instant,"Creatures you control get +1/+0 and gain indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy them.)",W,W,uncommon,OGW,Oath of the Gatewatch,26,,,,
+Make a Stand,{2}{W},3.0,Instant,"Creatures you control get +1/+0 and gain indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy them.)",W,W,uncommon,J22,Jumpstart 2022,211,,,,
+Make a Stand,{2}{W},3.0,Instant,"Creatures you control get +1/+0 and gain indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy them.)",W,W,uncommon,CMR,Commander Legends,32,,,,
+Make a Stand,{2}{W},3.0,Instant,"Creatures you control get +1/+0 and gain indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy them.)",W,W,uncommon,M19,Core Set 2019,26,,,,
+Make a Stand,{2}{W},3.0,Instant,"Creatures you control get +1/+0 and gain indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy them.)",W,W,uncommon,PLST,The List,OGW-26,,,,
+Make a Stand,{2}{W},3.0,Instant,"Creatures you control get +1/+0 and gain indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy them.)",W,W,uncommon,FDN,Foundations,708,,,,
+Make a Stand,{2}{W},3.0,Instant,"Creatures you control get +1/+0 and gain indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy them.)",W,W,uncommon,J25,Foundations Jumpstart,222,,,,
+Make Your Move,{2}{W},3.0,Instant,"Destroy target artifact, enchantment, or creature with power 4 or greater.",W,W,common,MKM,Murders at Karlov Manor,22,,,,
+Make Your Move,{2}{W},3.0,Instant,"Destroy target artifact, enchantment, or creature with power 4 or greater.",W,W,common,FDN,Foundations,143,,,,
+Make Your Move,{2}{W},3.0,Instant,"Destroy target artifact, enchantment, or creature with power 4 or greater.",W,W,common,TMT,Teenage Mutant Ninja Turtles,20,,,,
+Manhole Missile,{1}{R},2.0,Instant,"Manhole Missile deals 3 damage to target creature. You may put a card from your hand on the bottom of your library. If you do, draw a card.",R,R,common,TMT,Teenage Mutant Ninja Turtles,94,,,,
+Maximum Overdrive,{1}{B},2.0,Instant,Put a +1/+1 counter on target creature. It gains deathtouch and indestructible until end of turn.,B,B,common,DFT,Aetherdrift,96,,,,
+Mental Modulation,{1}{U},2.0,Instant,"This spell costs {1} less to cast during your turn.
+Tap target artifact or creature.
+Draw a card.",U,U,common,EOE,Edge of Eternities,67,,,,
+Metamorphic Blast,{U},1.0,Instant,"Spree (Choose one or more additional costs.)
++ {1} — Until end of turn, target creature becomes a white Rabbit with base power and toughness 0/1.
++ {3} — Target player draws two cards.",U,U,uncommon,OTJ,Outlaws of Thunder Junction,57,,,,Spree
+Midnight Tilling,{1}{G},2.0,Instant,"Mill four cards, then you may return a permanent card from among them to your hand. (To mill four cards, put the top four cards of your library into your graveyard.)",G,G,common,ECL,Lorwyn Eclipsed,182,,,,Mill
+Might of the Meek,{R},1.0,Instant,"Target creature gains trample until end of turn. It also gets +1/+0 until end of turn if you control a Mouse.
+Draw a card.",R,R,common,BLB,Bloomburrow,144,,,,
+Mind Transfer Protocol,{2}{U},3.0,Instant,"Until end of turn, target artifact or creature becomes an artifact creature with base power and toughness 4/5.
+Draw a card.",U,U,common,TMT,Teenage Mutant Ninja Turtles,45,,,,
+Mirrorform,{4}{U}{U},6.0,Instant,Each nonland permanent you control becomes a copy of target non-Aura permanent.,U,U,mythic,ECL,Lorwyn Eclipsed,308,,,,
+Mirrorform,{4}{U}{U},6.0,Instant,Each nonland permanent you control becomes a copy of target non-Aura permanent.,U,U,mythic,ECL,Lorwyn Eclipsed,59,,,,
+Mirrorform,{4}{U}{U},6.0,Instant,Each nonland permanent you control becomes a copy of target non-Aura permanent.,U,U,mythic,PECL,Lorwyn Eclipsed Promos,59p,,,,
+Misleading Motes,{3}{U},4.0,Instant,Target creature's owner puts it on their choice of the top or bottom of their library.,U,U,common,WOE,Wilds of Eldraine,61,,,,
+Moment of Craving,{1}{B},2.0,Instant,Target creature gets -2/-2 until end of turn. You gain 2 life.,B,B,common,PLST,The List,RIX-79,,,,
+Moment of Craving,{1}{B},2.0,Instant,Target creature gets -2/-2 until end of turn. You gain 2 life.,B,B,common,FDN,Foundations,524,,,,
+Moment of Craving,{1}{B},2.0,Instant,Target creature gets -2/-2 until end of turn. You gain 2 life.,B,B,common,J25,Foundations Jumpstart,462,,,,
+Moment of Craving,{1}{B},2.0,Instant,Target creature gets -2/-2 until end of turn. You gain 2 life.,B,B,common,J22,Jumpstart 2022,444,,,,
+Moment of Craving,{1}{B},2.0,Instant,Target creature gets -2/-2 until end of turn. You gain 2 life.,B,B,common,RIX,Rivals of Ixalan,79,,,,
+Moment of Triumph,{W},1.0,Instant,Target creature gets +2/+2 until end of turn. You gain 2 life.,W,W,common,RIX,Rivals of Ixalan,15,,,,
+Moment of Triumph,{W},1.0,Instant,Target creature gets +2/+2 until end of turn. You gain 2 life.,W,W,common,J22,Jumpstart 2022,218,,,,
+Moment of Triumph,{W},1.0,Instant,Target creature gets +2/+2 until end of turn. You gain 2 life.,W,W,common,FDN,Foundations,500,,,,
+Moment of Triumph,{W},1.0,Instant,Target creature gets +2/+2 until end of turn. You gain 2 life.,W,W,common,J25,Foundations Jumpstart,229,,,,
+Moment of Triumph,{W},1.0,Instant,Target creature gets +2/+2 until end of turn. You gain 2 life.,W,W,common,PLST,The List,RIX-15,,,,
+Moment of Valor,{2}{W},3.0,Instant,"Choose one —
+• Untap target creature. It gets +1/+0 and gains indestructible until end of turn.
+• Destroy target creature with power 4 or greater.",W,W,common,WOE,Wilds of Eldraine,20,,,,
+Moogles' Valor,{3}{W}{W},5.0,Instant,"For each creature you control, create a 1/2 white Moogle creature token with lifelink. Then creatures you control gain indestructible until end of turn.",W,W,rare,FIN,Final Fantasy,326,,,,
+Moogles' Valor,{3}{W}{W},5.0,Instant,"For each creature you control, create a 1/2 white Moogle creature token with lifelink. Then creatures you control gain indestructible until end of turn.",W,W,rare,PFIN,Final Fantasy Promos,27s,,,,
+Moogles' Valor,{3}{W}{W},5.0,Instant,"For each creature you control, create a 1/2 white Moogle creature token with lifelink. Then creatures you control gain indestructible until end of turn.",W,W,rare,FIN,Final Fantasy,27,,,,
+Mortify,{1}{W}{B},3.0,Instant,Destroy target creature or enchantment.,"B,W","B,W",uncommon,LTC,Tales of Middle-earth Commander,269,,,,
+Mortify,{1}{W}{B},3.0,Instant,Destroy target creature or enchantment.,"B,W","B,W",uncommon,40K,"Warhammer 40,000 Commander",225,,,,
+Mortify,{1}{W}{B},3.0,Instant,Destroy target creature or enchantment.,"B,W","B,W",uncommon,ACR,Assassin's Creed,96,,,,
+Mortify,{1}{W}{B},3.0,Instant,Destroy target creature or enchantment.,"B,W","B,W",rare,SCH,Store Championships,21,,,,
+Mortify,{1}{W}{B},3.0,Instant,Destroy target creature or enchantment.,"B,W","B,W",uncommon,PRM,Magic Online Promos,35046,,,,
+Mortify,{1}{W}{B},3.0,Instant,Destroy target creature or enchantment.,"B,W","B,W",uncommon,DDK,Duel Decks: Sorin vs. Tibalt,25,,,,
+Mortify,{1}{W}{B},3.0,Instant,Destroy target creature or enchantment.,"B,W","B,W",uncommon,GPT,Guildpact,122,,,,
+Mortify,{1}{W}{B},3.0,Instant,Destroy target creature or enchantment.,"B,W","B,W",uncommon,CNS,Conspiracy,190,,,,
+Mortify,{1}{W}{B},3.0,Instant,Destroy target creature or enchantment.,"B,W","B,W",uncommon,C18,Commander 2018,186,,,,
+Mortify,{1}{W}{B},3.0,Instant,Destroy target creature or enchantment.,"B,W","B,W",uncommon,CMA,Commander Anthology,187,,,,
+Mortify,{1}{W}{B},3.0,Instant,Destroy target creature or enchantment.,"B,W","B,W",uncommon,FIC,Final Fantasy Commander,327,,,,
+Mortify,{1}{W}{B},3.0,Instant,Destroy target creature or enchantment.,"B,W","B,W",uncommon,PRNA,Ravnica Allegiance Promos,192,,,,
+Mortify,{1}{W}{B},3.0,Instant,Destroy target creature or enchantment.,"B,W","B,W",uncommon,CM2,Commander Anthology Volume II,163,,,,
+Mortify,{1}{W}{B},3.0,Instant,Destroy target creature or enchantment.,"B,W","B,W",special,TSR,Time Spiral Remastered,381,,,,
+Mortify,{1}{W}{B},3.0,Instant,Destroy target creature or enchantment.,"B,W","B,W",uncommon,E02,Explorers of Ixalan,40,,,,
+Mortify,{1}{W}{B},3.0,Instant,Destroy target creature or enchantment.,"B,W","B,W",uncommon,FDN,Foundations,662,,,,
+Mortify,{1}{W}{B},3.0,Instant,Destroy target creature or enchantment.,"B,W","B,W",uncommon,PLST,The List,C18-186,,,,
+Mortify,{1}{W}{B},3.0,Instant,Destroy target creature or enchantment.,"B,W","B,W",uncommon,C16,Commander 2016,212,,,,
+Mortify,{1}{W}{B},3.0,Instant,Destroy target creature or enchantment.,"B,W","B,W",uncommon,MOC,March of the Machine Commander,337,,,,
+Mortify,{1}{W}{B},3.0,Instant,Destroy target creature or enchantment.,"B,W","B,W",rare,P07,Magic Player Rewards 2007,3,,,,
+Mortify,{1}{W}{B},3.0,Instant,Destroy target creature or enchantment.,"B,W","B,W",uncommon,40K,"Warhammer 40,000 Commander",225★,,,,
+Mortify,{1}{W}{B},3.0,Instant,Destroy target creature or enchantment.,"B,W","B,W",rare,SLD,Secret Lair Drop,1801,,,,
+Mortify,{1}{W}{B},3.0,Instant,Destroy target creature or enchantment.,"B,W","B,W",uncommon,ONC,Phyrexia: All Will Be One Commander,122,,,,
+Mortify,{1}{W}{B},3.0,Instant,Destroy target creature or enchantment.,"B,W","B,W",uncommon,CMD,Commander 2011,211,,,,
+Mortify,{1}{W}{B},3.0,Instant,Destroy target creature or enchantment.,"B,W","B,W",uncommon,ACR,Assassin's Creed,243,,,,
+Mortify,{1}{W}{B},3.0,Instant,Destroy target creature or enchantment.,"B,W","B,W",rare,PLST,The List,P07-3,,,,
+Mortify,{1}{W}{B},3.0,Instant,Destroy target creature or enchantment.,"B,W","B,W",uncommon,RNA,Ravnica Allegiance,192,,,,
+Mortify,{1}{W}{B},3.0,Instant,Destroy target creature or enchantment.,"B,W","B,W",uncommon,C17,Commander 2017,182,,,,
+Mortify,{1}{W}{B},3.0,Instant,Destroy target creature or enchantment.,"B,W","B,W",uncommon,DMC,Dominaria United Commander,161,,,,
+Mouser Attack!,{1}{R},2.0,Instant,"Choose one —
+• Create a 1/1 colorless Robot artifact creature token.
+• Target creature gets +3/+0 and gains first strike until end of turn.",R,R,common,TMT,Teenage Mutant Ninja Turtles,95,,,,
+Murder,{1}{B}{B},3.0,Instant,Destroy target creature.,B,B,common,ZNC,Zendikar Rising Commander,47,,,,
+Murder,{1}{B}{B},3.0,Instant,Destroy target creature.,B,B,uncommon,EMN,Eldritch Moon,97,,,,
+Murder,{1}{B}{B},3.0,Instant,Destroy target creature.,B,B,uncommon,ANB,Arena Beginner Set,53,,,,
+Murder,{1}{B}{B},3.0,Instant,Destroy target creature.,B,B,common,SNC,Streets of New Capenna,88,,,,
+Murder,{1}{B}{B},3.0,Instant,Destroy target creature.,B,B,common,CN2,Conspiracy: Take the Crown,143,,,,
+Murder,{1}{B}{B},3.0,Instant,Destroy target creature.,B,B,common,MKM,Murders at Karlov Manor,95,,,,
+Murder,{1}{B}{B},3.0,Instant,Destroy target creature.,B,B,common,J25,Foundations Jumpstart,467,,,,
+Murder,{1}{B}{B},3.0,Instant,Destroy target creature.,B,B,common,DSK,Duskmourn: House of Horror,110,,,,
+Murder,{1}{B}{B},3.0,Instant,Destroy target creature.,B,B,uncommon,PRM,Magic Online Promos,69256,,,,
+Murder,{1}{B}{B},3.0,Instant,Destroy target creature.,B,B,common,PLST,The List,M20-109,,,,
+Murder,{1}{B}{B},3.0,Instant,Destroy target creature.,B,B,common,CMR,Commander Legends,134,,,,
+Murder,{1}{B}{B},3.0,Instant,Destroy target creature.,B,B,uncommon,M19,Core Set 2019,110,,,,
+Murder,{1}{B}{B},3.0,Instant,Destroy target creature.,B,B,common,MKM,Murders at Karlov Manor,300,,,,
+Murder,{1}{B}{B},3.0,Instant,Destroy target creature.,B,B,common,A25,Masters 25,98,,,,
+Murder,{1}{B}{B},3.0,Instant,Destroy target creature.,B,B,common,M20,Core Set 2020,109,,,,
+Murder,{1}{B}{B},3.0,Instant,Destroy target creature.,B,B,uncommon,OTP,Breaking News,16,,,,
+Murder,{1}{B}{B},3.0,Instant,Destroy target creature.,B,B,uncommon,ACR,Assassin's Creed,92,,,,
+Murder,{1}{B}{B},3.0,Instant,Destroy target creature.,B,B,uncommon,PM19,Core Set 2019 Promos,110,,,,
+Murder,{1}{B}{B},3.0,Instant,Destroy target creature.,B,B,uncommon,ACR,Assassin's Creed,208,,,,
+Murder,{1}{B}{B},3.0,Instant,Destroy target creature.,B,B,common,CLB,Commander Legends: Battle for Baldur's Gate,134,,,,
+Murder,{1}{B}{B},3.0,Instant,Destroy target creature.,B,B,common,M13,Magic 2013,101,,,,
+Murder,{1}{B}{B},3.0,Instant,Destroy target creature.,B,B,common,SCD,Starter Commander Decks,93,,,,
+Mystical Teachings,{3}{U},4.0,Instant,"Search your library for an instant card or a card with flash, reveal it, put it into your hand, then shuffle.
+Flashback {5}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",U,"B,U",uncommon,FDN,Foundations,594,,,,Flashback
+Mystical Teachings,{3}{U},4.0,Instant,"Search your library for an instant card or a card with flash, reveal it, put it into your hand, then shuffle.
+Flashback {5}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",U,"B,U",common,TSP,Time Spiral,69,,,,Flashback
+Mystical Teachings,{3}{U},4.0,Instant,"Search your library for an instant card or a card with flash, reveal it, put it into your hand, then shuffle.
+Flashback {5}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",U,"B,U",common,MM3,Modern Masters 2017,44,,,,Flashback
+Mystical Teachings,{3}{U},4.0,Instant,"Search your library for an instant card or a card with flash, reveal it, put it into your hand, then shuffle.
+Flashback {5}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",U,"B,U",common,PLST,The List,MM3-44,,,,Flashback
+Mystical Teachings,{3}{U},4.0,Instant,"Search your library for an instant card or a card with flash, reveal it, put it into your hand, then shuffle.
+Flashback {5}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",U,"B,U",uncommon,TSR,Time Spiral Remastered,76,,,,Flashback

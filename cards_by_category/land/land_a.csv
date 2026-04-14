@@ -1,0 +1,94 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Abandoned Air Temple,,0.0,Land,"This land enters tapped unless you control a basic land.
+{T}: Add {W}.
+{3}{W}, {T}: Put a +1/+1 counter on each creature you control.",,W,rare,PTLA,Avatar: The Last Airbender Promos,263s,,,,
+Abandoned Air Temple,,0.0,Land,"This land enters tapped unless you control a basic land.
+{T}: Add {W}.
+{3}{W}, {T}: Put a +1/+1 counter on each creature you control.",,W,rare,TLA,Avatar: The Last Airbender,386,,,,
+Abandoned Air Temple,,0.0,Land,"This land enters tapped unless you control a basic land.
+{T}: Add {W}.
+{3}{W}, {T}: Put a +1/+1 counter on each creature you control.",,W,rare,TLA,Avatar: The Last Airbender,263,,,,
+Abandoned Campground,,0.0,Land,"This land enters tapped unless a player has 13 or less life.
+{T}: Add {W} or {U}.",,"U,W",common,DSK,Duskmourn: House of Horror,255,,,,
+Abraded Bluffs,,0.0,Land — Desert,"This land enters tapped.
+When this land enters, it deals 1 damage to target opponent.
+{T}: Add {R} or {W}.",,"R,W",common,OTJ,Outlaws of Thunder Junction,251,,,,
+"Adagia, Windswept Bastion",,0.0,Land — Planet,"This land enters tapped.
+{T}: Add {W}.
+Station (Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)
+12+ | {3}{W}, {T}: Create a token that's a copy of target artifact or enchantment you control, except it's legendary. Activate only as a sorcery.",,W,mythic,EOE,Edge of Eternities,277,,,,Station
+"Adagia, Windswept Bastion",,0.0,Land — Planet,"This land enters tapped.
+{T}: Add {W}.
+Station (Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)
+12+ | {3}{W}, {T}: Create a token that's a copy of target artifact or enchantment you control, except it's legendary. Activate only as a sorcery.",,W,mythic,PEOE,Edge of Eternities Promos,250p,,,,Station
+"Adagia, Windswept Bastion",,0.0,Land — Planet,"This land enters tapped.
+{T}: Add {W}.
+Station (Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)
+12+ | {3}{W}, {T}: Create a token that's a copy of target artifact or enchantment you control, except it's legendary. Activate only as a sorcery.",,W,mythic,PEOE,Edge of Eternities Promos,250s,,,,Station
+"Adagia, Windswept Bastion",,0.0,Land — Planet,"This land enters tapped.
+{T}: Add {W}.
+Station (Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)
+12+ | {3}{W}, {T}: Create a token that's a copy of target artifact or enchantment you control, except it's legendary. Activate only as a sorcery.",,W,mythic,EOE,Edge of Eternities,372,,,,Station
+"Adagia, Windswept Bastion",,0.0,Land — Planet,"This land enters tapped.
+{T}: Add {W}.
+Station (Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)
+12+ | {3}{W}, {T}: Create a token that's a copy of target artifact or enchantment you control, except it's legendary. Activate only as a sorcery.",,W,mythic,EOE,Edge of Eternities,250,,,,Station
+Adventurer's Inn,,0.0,Land — Town,"When this land enters, you gain 2 life.
+{T}: Add {C}.",,,common,FIN,Final Fantasy,271,,,,
+Agna Qel'a,,0.0,Land,"This land enters tapped unless you control a basic land.
+{T}: Add {U}.
+{2}{U}, {T}: Draw a card, then discard a card.",,U,rare,TLA,Avatar: The Last Airbender,387,,,,
+Agna Qel'a,,0.0,Land,"This land enters tapped unless you control a basic land.
+{T}: Add {U}.
+{2}{U}, {T}: Draw a card, then discard a card.",,U,rare,TLA,Avatar: The Last Airbender,264,,,,
+Agna Qel'a,,0.0,Land,"This land enters tapped unless you control a basic land.
+{T}: Add {U}.
+{2}{U}, {T}: Draw a card, then discard a card.",,U,rare,PTLA,Avatar: The Last Airbender Promos,264s,,,,
+Airship Engine Room,,0.0,Land,"This land enters tapped.
+{T}: Add {U} or {R}.
+{4}, {T}, Sacrifice this land: Draw a card.",,"R,U",common,TLA,Avatar: The Last Airbender,265,,,,
+Amonkhet Raceway,,0.0,Land,"Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+{T}: Add {C}.
+Max speed — {T}: Target creature gains haste until end of turn.",,,uncommon,DFT,Aetherdrift,248,,,,Max speed;Start your engines!
+Amonkhet Raceway,,0.0,Land,"Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+{T}: Add {C}.
+Max speed — {T}: Target creature gains haste until end of turn.",,,uncommon,DFT,Aetherdrift,424,,,,Max speed;Start your engines!
+Arid Archway,,0.0,Land — Desert,"This land enters tapped.
+When this land enters, return a land you control to its owner's hand. If another Desert was returned this way, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+{T}: Add {C}{C}.",,,uncommon,OTJ,Outlaws of Thunder Junction,252,,,,Surveil
+Avishkar Raceway,,0.0,Land,"Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+{T}: Add {C}.
+Max speed — {3}, {T}, Discard a card: Draw a card.",,,common,DFT,Aetherdrift,249,,,,Max speed;Start your engines!
+Avishkar Raceway,,0.0,Land,"Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+{T}: Add {C}.
+Max speed — {3}, {T}, Discard a card: Draw a card.",,,common,DFT,Aetherdrift,425,,,,Max speed;Start your engines!
+Azorius Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {W} or {U}.",,"U,W",common,C13,Commander 2013,275,,,,
+Azorius Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {W} or {U}.",,"U,W",common,PIO,Pioneer Masters,258,,,,
+Azorius Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {W} or {U}.",,"U,W",common,MM3,Modern Masters 2017,230,,,,
+Azorius Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {W} or {U}.",,"U,W",common,RVR,Ravnica Remastered,272,,,,
+Azorius Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {W} or {U}.",,"U,W",common,CMA,Commander Anthology,240,,,,
+Azorius Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {W} or {U}.",,"U,W",common,KHC,Kaldheim Commander,107,,,,
+Azorius Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {W} or {U}.",,"U,W",common,DGM,Dragon's Maze,146,,,,
+Azorius Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {W} or {U}.",,"U,W",common,CLU,Ravnica: Clue Edition,230,,,,
+Azorius Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {W} or {U}.",,"U,W",common,RNA,Ravnica Allegiance,243,,,,
+Azorius Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {W} or {U}.",,"U,W",common,RTR,Return to Ravnica,237,,,,
+Azorius Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {W} or {U}.",,"U,W",common,C18,Commander 2018,234,,,,
+Azorius Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {W} or {U}.",,"U,W",common,PLST,The List,RNA-243,,,,
+Azorius Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {W} or {U}.",,"U,W",common,RVR,Ravnica Remastered,396,,,,
+Azorius Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {W} or {U}.",,"U,W",common,RNA,Ravnica Allegiance,244,,,,
+Azorius Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {W} or {U}.",,"U,W",common,FDN,Foundations,683,,,,

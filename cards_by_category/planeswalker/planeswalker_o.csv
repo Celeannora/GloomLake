@@ -1,0 +1,24 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+"Oko, Lorwyn Liege // Oko, Shadowmoor Scion",,3.0,Legendary Planeswalker — Oko // Legendary Planeswalker — Oko,,,"G,U",mythic,ECL,Lorwyn Eclipsed,61,,,,Transform;Mill
+"Oko, Lorwyn Liege // Oko, Shadowmoor Scion",,3.0,Legendary Planeswalker — Oko // Legendary Planeswalker — Oko,,,"G,U",mythic,ECL,Lorwyn Eclipsed,287,,,,Transform;Mill
+"Oko, Lorwyn Liege // Oko, Shadowmoor Scion",,3.0,Legendary Planeswalker — Oko // Legendary Planeswalker — Oko,,,"G,U",mythic,PECL,Lorwyn Eclipsed Promos,61p,,,,Transform;Mill
+"Oko, the Ringleader",{2}{G}{U},4.0,Legendary Planeswalker — Oko,"At the beginning of combat on your turn, Oko becomes a copy of up to one target creature you control until end of turn, except he has hexproof.
++1: Draw two cards. If you've committed a crime this turn, discard a card. Otherwise, discard two cards.
+−1: Create a 3/3 green Elk creature token.
+−5: For each other nonland permanent you control, create a token that's a copy of that permanent.","G,U","G,U",mythic,OTJ,Outlaws of Thunder Junction,305,,,3,
+"Oko, the Ringleader",{2}{G}{U},4.0,Legendary Planeswalker — Oko,"At the beginning of combat on your turn, Oko becomes a copy of up to one target creature you control until end of turn, except he has hexproof.
++1: Draw two cards. If you've committed a crime this turn, discard a card. Otherwise, discard two cards.
+−1: Create a 3/3 green Elk creature token.
+−5: For each other nonland permanent you control, create a token that's a copy of that permanent.","G,U","G,U",mythic,OTJ,Outlaws of Thunder Junction,223,,,3,
+"Oko, the Ringleader",{2}{G}{U},4.0,Legendary Planeswalker — Oko,"At the beginning of combat on your turn, Oko becomes a copy of up to one target creature you control until end of turn, except he has hexproof.
++1: Draw two cards. If you've committed a crime this turn, discard a card. Otherwise, discard two cards.
+−1: Create a 3/3 green Elk creature token.
+−5: For each other nonland permanent you control, create a token that's a copy of that permanent.","G,U","G,U",mythic,POTJ,Outlaws of Thunder Junction Promos,223p,,,3,
+"Oko, the Ringleader",{2}{G}{U},4.0,Legendary Planeswalker — Oko,"At the beginning of combat on your turn, Oko becomes a copy of up to one target creature you control until end of turn, except he has hexproof.
++1: Draw two cards. If you've committed a crime this turn, discard a card. Otherwise, discard two cards.
+−1: Create a 3/3 green Elk creature token.
+−5: For each other nonland permanent you control, create a token that's a copy of that permanent.","G,U","G,U",mythic,POTJ,Outlaws of Thunder Junction Promos,223s,,,3,
+"Oko, the Ringleader",{2}{G}{U},4.0,Legendary Planeswalker — Oko,"At the beginning of combat on your turn, Oko becomes a copy of up to one target creature you control until end of turn, except he has hexproof.
++1: Draw two cards. If you've committed a crime this turn, discard a card. Otherwise, discard two cards.
+−1: Create a 3/3 green Elk creature token.
+−5: For each other nonland permanent you control, create a token that's a copy of that permanent.","G,U","G,U",mythic,OTJ,Outlaws of Thunder Junction,296,,,3,

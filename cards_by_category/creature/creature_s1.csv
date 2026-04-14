@@ -1,0 +1,459 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+"Sab-Sunen, Luxa Embodied",{3}{G}{U},5.0,Legendary Creature — God,"Reach, trample, indestructible
+Sab-Sunen can't attack or block unless it has an even number of counters on it. (Zero is even.)
+At the beginning of your first main phase, put a +1/+1 counter on Sab-Sunen. Then if it has an odd number of counters on it, draw two cards.","G,U","G,U",mythic,DFT,Aetherdrift,221,6,6,,Reach;Indestructible;Trample
+"Sab-Sunen, Luxa Embodied",{3}{G}{U},5.0,Legendary Creature — God,"Reach, trample, indestructible
+Sab-Sunen can't attack or block unless it has an even number of counters on it. (Zero is even.)
+At the beginning of your first main phase, put a +1/+1 counter on Sab-Sunen. Then if it has an odd number of counters on it, draw two cards.","G,U","G,U",mythic,DFT,Aetherdrift,491,6,6,,Reach;Indestructible;Trample
+"Sab-Sunen, Luxa Embodied",{3}{G}{U},5.0,Legendary Creature — God,"Reach, trample, indestructible
+Sab-Sunen can't attack or block unless it has an even number of counters on it. (Zero is even.)
+At the beginning of your first main phase, put a +1/+1 counter on Sab-Sunen. Then if it has an odd number of counters on it, draw two cards.","G,U","G,U",mythic,PDFT,Aetherdrift Promos,221p,6,6,,Reach;Indestructible;Trample
+"Sab-Sunen, Luxa Embodied",{3}{G}{U},5.0,Legendary Creature — God,"Reach, trample, indestructible
+Sab-Sunen can't attack or block unless it has an even number of counters on it. (Zero is even.)
+At the beginning of your first main phase, put a +1/+1 counter on Sab-Sunen. Then if it has an odd number of counters on it, draw two cards.","G,U","G,U",mythic,DFT,Aetherdrift,354,6,6,,Reach;Indestructible;Trample
+"Sab-Sunen, Luxa Embodied",{3}{G}{U},5.0,Legendary Creature — God,"Reach, trample, indestructible
+Sab-Sunen can't attack or block unless it has an even number of counters on it. (Zero is even.)
+At the beginning of your first main phase, put a +1/+1 counter on Sab-Sunen. Then if it has an odd number of counters on it, draw two cards.","G,U","G,U",mythic,PDFT,Aetherdrift Promos,221s,6,6,,Reach;Indestructible;Trample
+"Sab-Sunen, Luxa Embodied",{3}{G}{U},5.0,Legendary Creature — God,"Reach, trample, indestructible
+Sab-Sunen can't attack or block unless it has an even number of counters on it. (Zero is even.)
+At the beginning of your first main phase, put a +1/+1 counter on Sab-Sunen. Then if it has an odd number of counters on it, draw two cards.","G,U","G,U",mythic,DFT,Aetherdrift,553,6,6,,Reach;Indestructible;Trample
+Saber-Tooth Moose-Lion,{4}{G}{G},6.0,Creature — Elk Cat,"Reach
+Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)",G,G,common,TLA,Avatar: The Last Airbender,194,7,7,,Reach;Landcycling;Forestcycling;Typecycling;Cycling
+Sabotage Strategist,{2}{U}{U},4.0,Creature — Vedalken Ranger,"Flying, vigilance
+Whenever one or more creatures attack you, those creatures get -1/-0 until end of turn.
+Exhaust — {5}{U}{U}: Put three +1/+1 counters on this creature. (Activate each exhaust ability only once.)",U,U,uncommon,DFT,Aetherdrift,59,2,2,,Flying;Vigilance;Exhaust
+Sabotender,{1}{R},2.0,Creature — Plant,"Reach
+Landfall — Whenever a land you control enters, this creature deals 1 damage to each opponent.",R,R,common,FIN,Final Fantasy,153,2,1,,Reach;Landfall
+Safewright Cavalry,{3}{G},4.0,Creature — Elf Warrior,"This creature can't be blocked by more than one creature.
+{5}: Target Elf you control gets +2/+2 until end of turn.",G,G,common,ECL,Lorwyn Eclipsed,191,4,4,,
+Sage of Days,{2}{U},3.0,Creature — Human Wizard,"When this creature enters, look at the top three cards of your library. You may put one of those cards back on top of your library. Put the rest into your graveyard.",U,U,common,LCI,The Lost Caverns of Ixalan,73,3,2,,
+Sage of the Fang,{2}{G},3.0,Creature — Human Druid,"When this creature enters, put a +1/+1 counter on target creature.
+Renew — {3}{G}, Exile this card from your graveyard: Put a +1/+1 counter on target creature, then double the number of +1/+1 counters on that creature. Activate only as a sorcery.",G,G,uncommon,TDM,Tarkir: Dragonstorm,155,2,2,,Renew
+Sage of the Skies,{2}{W},3.0,Creature — Human Monk,"When you cast this spell, if you've cast another spell this turn, copy this spell. (The copy becomes a token.)
+Flying, lifelink",W,W,rare,TDM,Tarkir: Dragonstorm,328,2,3,,Flying;Lifelink
+Sage of the Skies,{2}{W},3.0,Creature — Human Monk,"When you cast this spell, if you've cast another spell this turn, copy this spell. (The copy becomes a token.)
+Flying, lifelink",W,W,rare,TDM,Tarkir: Dragonstorm,22,2,3,,Flying;Lifelink
+Sage of the Skies,{2}{W},3.0,Creature — Human Monk,"When you cast this spell, if you've cast another spell this turn, copy this spell. (The copy becomes a token.)
+Flying, lifelink",W,W,rare,PTDM,Tarkir: Dragonstorm Promos,22s,2,3,,Flying;Lifelink
+Sage of the Skies,{2}{W},3.0,Creature — Human Monk,"When you cast this spell, if you've cast another spell this turn, copy this spell. (The copy becomes a token.)
+Flying, lifelink",W,W,rare,PTDM,Tarkir: Dragonstorm Promos,22p,2,3,,Flying;Lifelink
+Sagu Pummeler,{3}{G},4.0,Creature — Beast,"Reach
+Renew — {4}{G}, Exile this card from your graveyard: Put two +1/+1 counters and a reach counter on target creature. Activate only as a sorcery.",G,G,common,TDM,Tarkir: Dragonstorm,156,4,4,,Reach;Renew
+Sagu Wildling // Roost Seek,{4}{G} // {G},5.0,Creature — Dragon // Sorcery — Omen,,G,G,common,TDM,Tarkir: Dragonstorm,306,3,3,,Flying
+Sagu Wildling // Roost Seek,{4}{G} // {G},5.0,Creature — Dragon // Sorcery — Omen,,G,G,common,TDM,Tarkir: Dragonstorm,157,3,3,,Flying
+Sahagin,{1}{U},2.0,Creature — Merfolk Warrior,"Whenever you cast a noncreature spell, if at least four mana was spent to cast it, put a +1/+1 counter on this creature and it can't be blocked this turn.",U,U,common,FIN,Final Fantasy,71,1,3,,
+Saheeli's Lattice // Mastercraft Raptor,,2.0,Artifact // Artifact Creature — Dinosaur,,,R,uncommon,LCI,The Lost Caverns of Ixalan,164,,,,Craft;Transform
+"Saheeli, the Sun's Brilliance",{U}{R},2.0,Legendary Creature — Human Artificer,"{U}{R}, {T}: Create a token that's a copy of another target creature or artifact you control, except it's an artifact in addition to its other types. It gains haste. Sacrifice it at the beginning of the next end step.","R,U","R,U",mythic,PLCI,The Lost Caverns of Ixalan Promos,239p,2,2,,
+"Saheeli, the Sun's Brilliance",{U}{R},2.0,Legendary Creature — Human Artificer,"{U}{R}, {T}: Create a token that's a copy of another target creature or artifact you control, except it's an artifact in addition to its other types. It gains haste. Sacrifice it at the beginning of the next end step.","R,U","R,U",mythic,LCI,The Lost Caverns of Ixalan,239,2,2,,
+"Saheeli, the Sun's Brilliance",{U}{R},2.0,Legendary Creature — Human Artificer,"{U}{R}, {T}: Create a token that's a copy of another target creature or artifact you control, except it's an artifact in addition to its other types. It gains haste. Sacrifice it at the beginning of the next end step.","R,U","R,U",mythic,LCI,The Lost Caverns of Ixalan,308,2,2,,
+"Saheeli, the Sun's Brilliance",{U}{R},2.0,Legendary Creature — Human Artificer,"{U}{R}, {T}: Create a token that's a copy of another target creature or artifact you control, except it's an artifact in addition to its other types. It gains haste. Sacrifice it at the beginning of the next end step.","R,U","R,U",mythic,PWCS,Planeswalker Championship Promos,2024-05,2,2,,
+"Saheeli, the Sun's Brilliance",{U}{R},2.0,Legendary Creature — Human Artificer,"{U}{R}, {T}: Create a token that's a copy of another target creature or artifact you control, except it's an artifact in addition to its other types. It gains haste. Sacrifice it at the beginning of the next end step.","R,U","R,U",mythic,PLCI,The Lost Caverns of Ixalan Promos,239s,2,2,,
+"Sally Pride, Lioness Leader",{3}{W}{W},5.0,Legendary Creature — Cat Mutant Rebel,"When Sally Pride enters, create X 2/2 red Mutant creature tokens, where X is the number of nontoken creatures you control.
+Whenever Sally Pride attacks, put a +1/+1 counter on each creature you control.",W,W,rare,TMT,Teenage Mutant Ninja Turtles,24,2,4,,
+"Sally Pride, Lioness Leader",{3}{W}{W},5.0,Legendary Creature — Cat Mutant Rebel,"When Sally Pride enters, create X 2/2 red Mutant creature tokens, where X is the number of nontoken creatures you control.
+Whenever Sally Pride attacks, put a +1/+1 counter on each creature you control.",W,W,rare,TMT,Teenage Mutant Ninja Turtles,225,2,4,,
+Salt Road Packbeast,{5}{W},6.0,Creature — Beast,"Affinity for creatures (This spell costs {1} less to cast for each creature you control.)
+When this creature enters, draw a card.",W,W,common,TDM,Tarkir: Dragonstorm,23,4,3,,Affinity
+Salvation Swan,{3}{W},4.0,Creature — Bird Cleric,"Flash
+Flying
+Whenever this creature or another Bird you control enters, exile up to one target creature you control without flying. Return it to the battlefield under its owner's control with a flying counter on it at the beginning of the next end step.",W,W,rare,PBLB,Bloomburrow Promos,28s,3,3,,Flying;Flash
+Salvation Swan,{3}{W},4.0,Creature — Bird Cleric,"Flash
+Flying
+Whenever this creature or another Bird you control enters, exile up to one target creature you control without flying. Return it to the battlefield under its owner's control with a flying counter on it at the beginning of the next end step.",W,W,rare,BLB,Bloomburrow,28,3,3,,Flying;Flash
+Salvation Swan,{3}{W},4.0,Creature — Bird Cleric,"Flash
+Flying
+Whenever this creature or another Bird you control enters, exile up to one target creature you control without flying. Return it to the battlefield under its owner's control with a flying counter on it at the beginning of the next end step.",W,W,rare,PBLB,Bloomburrow Promos,28p,3,3,,Flying;Flash
+Salvation Swan,{3}{W},4.0,Creature — Bird Cleric,"Flash
+Flying
+Whenever this creature or another Bird you control enters, exile up to one target creature you control without flying. Return it to the battlefield under its owner's control with a flying counter on it at the beginning of the next end step.",W,W,rare,BLB,Bloomburrow,297,3,3,,Flying;Flash
+"Sami, Ship's Engineer",{2}{R}{W},4.0,Legendary Creature — Human Artificer,"At the beginning of your end step, if you control two or more tapped creatures, create a tapped 2/2 colorless Robot artifact creature token.","R,W","R,W",uncommon,EOE,Edge of Eternities,225,2,4,,
+"Sami, Wildcat Captain",{4}{R}{W},6.0,Legendary Creature — Human Artificer Rogue,"Double strike, vigilance
+Spells you cast have affinity for artifacts. (They cost {1} less to cast for each artifact you control.)","R,W","R,W",mythic,PEOE,Edge of Eternities Promos,226p,4,4,,Vigilance;Double strike
+"Sami, Wildcat Captain",{4}{R}{W},6.0,Legendary Creature — Human Artificer Rogue,"Double strike, vigilance
+Spells you cast have affinity for artifacts. (They cost {1} less to cast for each artifact you control.)","R,W","R,W",mythic,EOE,Edge of Eternities,301,4,4,,Vigilance;Double strike
+"Sami, Wildcat Captain",{4}{R}{W},6.0,Legendary Creature — Human Artificer Rogue,"Double strike, vigilance
+Spells you cast have affinity for artifacts. (They cost {1} less to cast for each artifact you control.)","R,W","R,W",mythic,EOE,Edge of Eternities,226,4,4,,Vigilance;Double strike
+"Sami, Wildcat Captain",{4}{R}{W},6.0,Legendary Creature — Human Artificer Rogue,"Double strike, vigilance
+Spells you cast have affinity for artifacts. (They cost {1} less to cast for each artifact you control.)","R,W","R,W",mythic,PEOE,Edge of Eternities Promos,226s,4,4,,Vigilance;Double strike
+Sample Collector,{2}{G},3.0,Creature — Troll Detective,"Whenever this creature attacks, you may collect evidence 3. When you do, put a +1/+1 counter on target creature you control. (To collect evidence 3, exile cards with total mana value 3 or greater from your graveyard.)",G,G,uncommon,MKM,Murders at Karlov Manor,175,2,3,,Collect evidence
+"Samut, the Driving Force",{3}{R}{G}{W},6.0,Legendary Creature — Human Warrior Cleric,"First strike, vigilance, haste
+Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+Other creatures you control get +X/+0, where X is your speed.
+Noncreature spells you cast cost {X} less to cast, where X is your speed.","G,R,W","G,R,W",rare,DFT,Aetherdrift,367,4,5,,Vigilance;First strike;Haste;Start your engines!
+"Samut, the Driving Force",{3}{R}{G}{W},6.0,Legendary Creature — Human Warrior Cleric,"First strike, vigilance, haste
+Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+Other creatures you control get +X/+0, where X is your speed.
+Noncreature spells you cast cost {X} less to cast, where X is your speed.","G,R,W","G,R,W",rare,DFT,Aetherdrift,222,4,5,,Vigilance;First strike;Haste;Start your engines!
+"Samut, the Driving Force",{3}{R}{G}{W},6.0,Legendary Creature — Human Warrior Cleric,"First strike, vigilance, haste
+Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+Other creatures you control get +X/+0, where X is your speed.
+Noncreature spells you cast cost {X} less to cast, where X is your speed.","G,R,W","G,R,W",rare,PDFT,Aetherdrift Promos,222p,4,5,,Vigilance;First strike;Haste;Start your engines!
+"Samut, the Driving Force",{3}{R}{G}{W},6.0,Legendary Creature — Human Warrior Cleric,"First strike, vigilance, haste
+Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+Other creatures you control get +X/+0, where X is your speed.
+Noncreature spells you cast cost {X} less to cast, where X is your speed.","G,R,W","G,R,W",rare,DFT,Aetherdrift,492,4,5,,Vigilance;First strike;Haste;Start your engines!
+"Samut, the Driving Force",{3}{R}{G}{W},6.0,Legendary Creature — Human Warrior Cleric,"First strike, vigilance, haste
+Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+Other creatures you control get +X/+0, where X is your speed.
+Noncreature spells you cast cost {X} less to cast, where X is your speed.","G,R,W","G,R,W",rare,PDFT,Aetherdrift Promos,222s,4,5,,Vigilance;First strike;Haste;Start your engines!
+"Sanar, Innovative First-Year",{2}{U/R}{U/R},4.0,Legendary Creature — Goblin Sorcerer,"Vivid — At the beginning of your first main phase, reveal cards from the top of your library until you reveal X nonland cards, where X is the number of colors among permanents you control. For each of those colors, you may exile a card of that color from among the revealed cards. Then shuffle. You may cast the exiled cards this turn.","R,U","R,U",rare,ECL,Lorwyn Eclipsed,241,2,4,,Vivid
+"Sanar, Innovative First-Year",{2}{U/R}{U/R},4.0,Legendary Creature — Goblin Sorcerer,"Vivid — At the beginning of your first main phase, reveal cards from the top of your library until you reveal X nonland cards, where X is the number of colors among permanents you control. For each of those colors, you may exile a card of that color from among the revealed cards. Then shuffle. You may cast the exiled cards this turn.","R,U","R,U",rare,ECL,Lorwyn Eclipsed,378,2,4,,Vivid
+"Sanar, Innovative First-Year",{2}{U/R}{U/R},4.0,Legendary Creature — Goblin Sorcerer,"Vivid — At the beginning of your first main phase, reveal cards from the top of your library until you reveal X nonland cards, where X is the number of colors among permanents you control. For each of those colors, you may exile a card of that color from among the revealed cards. Then shuffle. You may cast the exiled cards this turn.","R,U","R,U",rare,PECL,Lorwyn Eclipsed Promos,241p,2,4,,Vivid
+Sanctuary Wall,{1}{W},2.0,Artifact Creature — Wall,"Defender
+{2}{W}, {T}: Tap target creature. You may put a stun counter on it. If you do, put a stun counter on this creature. (If a permanent with a stun counter would become untapped, remove one from it instead.)",W,W,uncommon,MKM,Murders at Karlov Manor,32,0,4,,Defender
+Sandbender Scavengers,{W}{B},2.0,Creature — Human Rogue,"Whenever you sacrifice another permanent, put a +1/+1 counter on this creature.
+When this creature dies, you may exile it. When you do, return target creature card with mana value less than or equal to this creature's power from your graveyard to the battlefield.","B,W","B,W",rare,TLA,Avatar: The Last Airbender,239,1,1,,
+Sandbender Scavengers,{W}{B},2.0,Creature — Human Rogue,"Whenever you sacrifice another permanent, put a +1/+1 counter on this creature.
+When this creature dies, you may exile it. When you do, return target creature card with mana value less than or equal to this creature's power from your graveyard to the battlefield.","B,W","B,W",rare,TLA,Avatar: The Last Airbender,382,1,1,,
+Sandbender Scavengers,{W}{B},2.0,Creature — Human Rogue,"Whenever you sacrifice another permanent, put a +1/+1 counter on this creature.
+When this creature dies, you may exile it. When you do, return target creature card with mana value less than or equal to this creature's power from your graveyard to the battlefield.","B,W","B,W",rare,PTLA,Avatar: The Last Airbender Promos,239s,1,1,,
+"Sandman, Shifting Scoundrel",{1}{G}{G},3.0,Legendary Creature — Sand Elemental Villain,"Sandman's power and toughness are each equal to the number of lands you control.
+Sandman can't be blocked by creatures with power 2 or less.
+{3}{G}{G}: Return this card and target land card from your graveyard to the battlefield tapped.",G,G,rare,PSPM,Marvel's Spider-Man Promos,112s,*,*,,
+"Sandman, Shifting Scoundrel",{1}{G}{G},3.0,Legendary Creature — Sand Elemental Villain,"Sandman's power and toughness are each equal to the number of lands you control.
+Sandman can't be blocked by creatures with power 2 or less.
+{3}{G}{G}: Return this card and target land card from your graveyard to the battlefield tapped.",G,G,rare,SPM,Marvel's Spider-Man,266,*,*,,
+"Sandman, Shifting Scoundrel",{1}{G}{G},3.0,Legendary Creature — Sand Elemental Villain,"Sandman's power and toughness are each equal to the number of lands you control.
+Sandman can't be blocked by creatures with power 2 or less.
+{3}{G}{G}: Return this card and target land card from your graveyard to the battlefield tapped.",G,G,rare,SPM,Marvel's Spider-Man,112,*,*,,
+"Sandman, Shifting Scoundrel",{1}{G}{G},3.0,Legendary Creature — Sand Elemental Villain,"Sandman's power and toughness are each equal to the number of lands you control.
+Sandman can't be blocked by creatures with power 2 or less.
+{3}{G}{G}: Return this card and target land card from your graveyard to the battlefield tapped.",G,G,rare,OM1,Through the Omenpaths,113,*,*,,
+Sandskitter Outrider,{3}{B},4.0,Creature — Goblin Soldier,"Menace (This creature can't be blocked except by two or more creatures.)
+When this creature enters, it endures 2. (Put two +1/+1 counters on it or create a 2/2 white Spirit creature token.)",B,B,common,TDM,Tarkir: Dragonstorm,89,2,1,,Menace;Endure
+Sandstorm Salvager,{2}{G},3.0,Creature — Human Artificer,"When this creature enters, create a 3/3 colorless Golem artifact creature token.
+{2}, {T}: Put a +1/+1 counter on each creature token you control. They gain trample until end of turn.",G,G,mythic,BIG,The Big Score,19,1,1,,
+Sandstorm Salvager,{2}{G},3.0,Creature — Human Artificer,"When this creature enters, create a 3/3 colorless Golem artifact creature token.
+{2}, {T}: Put a +1/+1 counter on each creature token you control. They gain trample until end of turn.",G,G,mythic,BIG,The Big Score,49,1,1,,
+Sandstorm Salvager,{2}{G},3.0,Creature — Human Artificer,"When this creature enters, create a 3/3 colorless Golem artifact creature token.
+{2}, {T}: Put a +1/+1 counter on each creature token you control. They gain trample until end of turn.",G,G,mythic,BIG,The Big Score,84,1,1,,
+Sandworm,{4}{R},5.0,Creature — Worm,"Haste
+When this creature enters, destroy target land. Its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.",R,R,uncommon,FIN,Final Fantasy,155,5,4,,Haste
+Sanguine Evangelist,{2}{W},3.0,Creature — Vampire Cleric,"Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)
+When this creature enters or dies, create a 1/1 black Bat creature token with flying.",W,W,rare,LCI,The Lost Caverns of Ixalan,34,2,1,,Battle Cry
+Sanguine Evangelist,{2}{W},3.0,Creature — Vampire Cleric,"Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)
+When this creature enters or dies, create a 1/1 black Bat creature token with flying.",W,W,rare,PLCI,The Lost Caverns of Ixalan Promos,34s,2,1,,Battle Cry
+Sanguine Evangelist,{2}{W},3.0,Creature — Vampire Cleric,"Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)
+When this creature enters or dies, create a 1/1 black Bat creature token with flying.",W,W,rare,LCI,The Lost Caverns of Ixalan,356,2,1,,Battle Cry
+Sanguine Evangelist,{2}{W},3.0,Creature — Vampire Cleric,"Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)
+When this creature enters or dies, create a 1/1 black Bat creature token with flying.",W,W,rare,PLCI,The Lost Caverns of Ixalan Promos,34p,2,1,,Battle Cry
+Sanguine Savior,{1}{W}{B},3.0,Creature — Vampire Cleric,"Flying, lifelink
+Disguise {W/B}{W/B} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)
+When this creature is turned face up, another target creature you control gains lifelink until end of turn.","B,W","B,W",common,MKM,Murders at Karlov Manor,230,2,1,,Flying;Lifelink;Disguise
+Sanguine Syphoner,{1}{B},2.0,Creature — Vampire Warlock,"Whenever this creature attacks, each opponent loses 1 life and you gain 1 life.",B,B,common,FDN,Foundations,68,1,3,,
+Sanitation Automaton,{2},2.0,Artifact Creature — Construct,"When this creature enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,,common,MKM,Murders at Karlov Manor,256,2,1,,Surveil
+"Sarkhan, Dragon Ascendant",{1}{R},2.0,Legendary Creature — Human Druid,"When Sarkhan enters, you may behold a Dragon. If you do, create a Treasure token. (To behold a Dragon, choose a Dragon you control or reveal a Dragon card from your hand.)
+Whenever a Dragon you control enters, put a +1/+1 counter on Sarkhan. Until end of turn, Sarkhan becomes a Dragon in addition to its other types and gains flying.",R,R,rare,PTDM,Tarkir: Dragonstorm Promos,118s,2,2,,Behold;Treasure
+"Sarkhan, Dragon Ascendant",{1}{R},2.0,Legendary Creature — Human Druid,"When Sarkhan enters, you may behold a Dragon. If you do, create a Treasure token. (To behold a Dragon, choose a Dragon you control or reveal a Dragon card from your hand.)
+Whenever a Dragon you control enters, put a +1/+1 counter on Sarkhan. Until end of turn, Sarkhan becomes a Dragon in addition to its other types and gains flying.",R,R,rare,TDM,Tarkir: Dragonstorm,302,2,2,,Behold;Treasure
+"Sarkhan, Dragon Ascendant",{1}{R},2.0,Legendary Creature — Human Druid,"When Sarkhan enters, you may behold a Dragon. If you do, create a Treasure token. (To behold a Dragon, choose a Dragon you control or reveal a Dragon card from your hand.)
+Whenever a Dragon you control enters, put a +1/+1 counter on Sarkhan. Until end of turn, Sarkhan becomes a Dragon in addition to its other types and gains flying.",R,R,mythic,TDM,Tarkir: Dragonstorm,413,2,2,,Behold;Treasure
+"Sarkhan, Dragon Ascendant",{1}{R},2.0,Legendary Creature — Human Druid,"When Sarkhan enters, you may behold a Dragon. If you do, create a Treasure token. (To behold a Dragon, choose a Dragon you control or reveal a Dragon card from your hand.)
+Whenever a Dragon you control enters, put a +1/+1 counter on Sarkhan. Until end of turn, Sarkhan becomes a Dragon in addition to its other types and gains flying.",R,R,rare,TDM,Tarkir: Dragonstorm,118,2,2,,Behold;Treasure
+"Sarkhan, Dragon Ascendant",{1}{R},2.0,Legendary Creature — Human Druid,"When Sarkhan enters, you may behold a Dragon. If you do, create a Treasure token. (To behold a Dragon, choose a Dragon you control or reveal a Dragon card from your hand.)
+Whenever a Dragon you control enters, put a +1/+1 counter on Sarkhan. Until end of turn, Sarkhan becomes a Dragon in addition to its other types and gains flying.",R,R,mythic,TDM,Tarkir: Dragonstorm,403,2,2,,Behold;Treasure
+"Sarkhan, Dragon Ascendant",{1}{R},2.0,Legendary Creature — Human Druid,"When Sarkhan enters, you may behold a Dragon. If you do, create a Treasure token. (To behold a Dragon, choose a Dragon you control or reveal a Dragon card from your hand.)
+Whenever a Dragon you control enters, put a +1/+1 counter on Sarkhan. Until end of turn, Sarkhan becomes a Dragon in addition to its other types and gains flying.",R,R,rare,PTDM,Tarkir: Dragonstorm Promos,118p,2,2,,Behold;Treasure
+"Satoru, the Infiltrator",{U}{B},2.0,Legendary Creature — Human Ninja Rogue,"Menace
+Whenever Satoru and/or one or more other nontoken creatures you control enter, if none of them were cast or no mana was spent to cast them, draw a card.","B,U","B,U",rare,POTJ,Outlaws of Thunder Junction Promos,230p,2,3,,Menace
+"Satoru, the Infiltrator",{U}{B},2.0,Legendary Creature — Human Ninja Rogue,"Menace
+Whenever Satoru and/or one or more other nontoken creatures you control enter, if none of them were cast or no mana was spent to cast them, draw a card.","B,U","B,U",rare,OTJ,Outlaws of Thunder Junction,298,2,3,,Menace
+"Satoru, the Infiltrator",{U}{B},2.0,Legendary Creature — Human Ninja Rogue,"Menace
+Whenever Satoru and/or one or more other nontoken creatures you control enter, if none of them were cast or no mana was spent to cast them, draw a card.","B,U","B,U",rare,OTJ,Outlaws of Thunder Junction,230,2,3,,Menace
+"Satoru, the Infiltrator",{U}{B},2.0,Legendary Creature — Human Ninja Rogue,"Menace
+Whenever Satoru and/or one or more other nontoken creatures you control enter, if none of them were cast or no mana was spent to cast them, draw a card.","B,U","B,U",rare,POTJ,Outlaws of Thunder Junction Promos,230s,2,3,,Menace
+Savage Ventmaw,{4}{R}{G},6.0,Creature — Dragon,"Flying
+Whenever this creature attacks, add {R}{R}{R}{G}{G}{G}. Until end of turn, you don't lose this mana as steps and phases end.","G,R","G,R",uncommon,AFC,Forgotten Realms Commander,191,4,4,,Flying
+Savage Ventmaw,{4}{R}{G},6.0,Creature — Dragon,"Flying
+Whenever this creature attacks, add {R}{R}{R}{G}{G}{G}. Until end of turn, you don't lose this mana as steps and phases end.","G,R","G,R",uncommon,BBD,Battlebond,229,4,4,,Flying
+Savage Ventmaw,{4}{R}{G},6.0,Creature — Dragon,"Flying
+Whenever this creature attacks, add {R}{R}{R}{G}{G}{G}. Until end of turn, you don't lose this mana as steps and phases end.","G,R","G,R",uncommon,SCD,Starter Commander Decks,240,4,4,,Flying
+Savage Ventmaw,{4}{R}{G},6.0,Creature — Dragon,"Flying
+Whenever this creature attacks, add {R}{R}{R}{G}{G}{G}. Until end of turn, you don't lose this mana as steps and phases end.","G,R","G,R",uncommon,FDN,Foundations,665,4,4,,Flying
+Savage Ventmaw,{4}{R}{G},6.0,Creature — Dragon,"Flying
+Whenever this creature attacks, add {R}{R}{R}{G}{G}{G}. Until end of turn, you don't lose this mana as steps and phases end.","G,R","G,R",uncommon,DTK,Dragons of Tarkir,231,4,4,,Flying
+Savage Ventmaw,{4}{R}{G},6.0,Creature — Dragon,"Flying
+Whenever this creature attacks, add {R}{R}{R}{G}{G}{G}. Until end of turn, you don't lose this mana as steps and phases end.","G,R","G,R",uncommon,C17,Commander 2017,191,4,4,,Flying
+Savannah Lions,{W},1.0,Creature — Cat,,W,W,rare,CEI,Intl. Collectors' Edition,39,2,1,,
+Savannah Lions,{W},1.0,Creature — Cat,,W,W,rare,9ED,Ninth Edition,41★,2,1,,
+Savannah Lions,{W},1.0,Creature — Cat,,W,W,common,J25,Foundations Jumpstart,249,2,1,,
+Savannah Lions,{W},1.0,Creature — Cat,,W,W,rare,2ED,Unlimited Edition,39,2,1,,
+Savannah Lions,{W},1.0,Creature — Cat,,W,W,rare,SUM,Summer Magic / Edgar,39,2,1,,
+Savannah Lions,{W},1.0,Creature — Cat,,W,W,rare,4BB,Fourth Edition Foreign Black Border,48,2,1,,
+Savannah Lions,{W},1.0,Creature — Cat,,W,W,rare,LEB,Limited Edition Beta,39,2,1,,
+Savannah Lions,{W},1.0,Creature — Cat,,W,W,common,PLST,The List,A25-33,2,1,,
+Savannah Lions,{W},1.0,Creature — Cat,,W,W,rare,FBB,Foreign Black Border,39,2,1,,
+Savannah Lions,{W},1.0,Creature — Cat,,W,W,uncommon,ME4,Masters Edition IV,24,2,1,,
+Savannah Lions,{W},1.0,Creature — Cat,,W,W,uncommon,J22,Jumpstart 2022,237,2,1,,
+Savannah Lions,{W},1.0,Creature — Cat,,W,W,uncommon,FDN,Foundations,146,2,1,,
+Savannah Lions,{W},1.0,Creature — Cat,,W,W,rare,4ED,Fourth Edition,48,2,1,,
+Savannah Lions,{W},1.0,Creature — Cat,,W,W,common,A25,Masters 25,33,2,1,,
+Savannah Lions,{W},1.0,Creature — Cat,,W,W,rare,3ED,Revised Edition,39,2,1,,
+Savannah Lions,{W},1.0,Creature — Cat,,W,W,common,PLST,The List,DMR-24,2,1,,
+Savannah Lions,{W},1.0,Creature — Cat,,W,W,rare,8ED,Eighth Edition,43★,2,1,,
+Savannah Lions,{W},1.0,Creature — Cat,,W,W,rare,CED,Collectors' Edition,39,2,1,,
+Savannah Lions,{W},1.0,Creature — Cat,,W,W,rare,8ED,Eighth Edition,43,2,1,,
+Savannah Lions,{W},1.0,Creature — Cat,,W,W,rare,LEA,Limited Edition Alpha,38,2,1,,
+Savannah Lions,{W},1.0,Creature — Cat,,W,W,rare,30A,30th Anniversary Edition,38,2,1,,
+Savannah Lions,{W},1.0,Creature — Cat,,W,W,rare,9ED,Ninth Edition,41,2,1,,
+Savannah Lions,{W},1.0,Creature — Cat,,W,W,common,DMR,Dominaria Remastered,24,2,1,,
+Savannah Lions,{W},1.0,Creature — Cat,,W,W,common,DMR,Dominaria Remastered,270,2,1,,
+Savannah Lions,{W},1.0,Creature — Cat,,W,W,rare,30A,30th Anniversary Edition,335,2,1,,
+"Savanti Romero, Time's Exile",{3}{B}{B},5.0,Legendary Creature — Demon Wizard,"Trample
+At the beginning of combat on your turn, put a +1/+1 counter on Savanti Romero. Then you draw X cards and lose X life, where X is the number of counters on Savanti Romero.",B,B,rare,TMT,Teenage Mutant Ninja Turtles,72,4,4,,Trample
+"Savanti Romero, Time's Exile",{3}{B}{B},5.0,Legendary Creature — Demon Wizard,"Trample
+At the beginning of combat on your turn, put a +1/+1 counter on Savanti Romero. Then you draw X cards and lose X life, where X is the number of counters on Savanti Romero.",B,B,rare,TMT,Teenage Mutant Ninja Turtles,267,4,4,,Trample
+Savior of the Sleeping,{2}{W},3.0,Creature — Human Knight,"Vigilance
+Whenever an enchantment you control is put into a graveyard from the battlefield, put a +1/+1 counter on this creature.",W,W,common,WOE,Wilds of Eldraine,28,2,3,,Vigilance
+Savior of the Small,{3}{W},4.0,Creature — Kor Survivor,"Survival — At the beginning of your second main phase, if this creature is tapped, return target creature card with mana value 3 or less from your graveyard to your hand.",W,W,uncommon,DSK,Duskmourn: House of Horror,27,3,4,,Survival
+Sawblade Skinripper,{1}{B}{R},3.0,Creature — Human Assassin,"Menace
+{2}, Sacrifice another creature or enchantment: Put a +1/+1 counter on this creature.
+At the beginning of your end step, if you sacrificed one or more permanents this turn, this creature deals that much damage to any target.","B,R","B,R",uncommon,DSK,Duskmourn: House of Horror,231,3,2,,Menace
+Sazh Katzroy,{3}{G},4.0,Legendary Creature — Human Pilot,"When Sazh Katzroy enters, you may search your library for a Bird or basic land card, reveal it, put it into your hand, then shuffle.
+Whenever Sazh Katzroy attacks, put a +1/+1 counter on target creature, then double the number of +1/+1 counters on that creature.",G,G,rare,FIN,Final Fantasy,199,3,3,,
+Sazh Katzroy,{3}{G},4.0,Legendary Creature — Human Pilot,"When Sazh Katzroy enters, you may search your library for a Bird or basic land card, reveal it, put it into your hand, then shuffle.
+Whenever Sazh Katzroy attacks, put a +1/+1 counter on target creature, then double the number of +1/+1 counters on that creature.",G,G,rare,FIN,Final Fantasy,472,3,3,,
+Sazh Katzroy,{3}{G},4.0,Legendary Creature — Human Pilot,"When Sazh Katzroy enters, you may search your library for a Bird or basic land card, reveal it, put it into your hand, then shuffle.
+Whenever Sazh Katzroy attacks, put a +1/+1 counter on target creature, then double the number of +1/+1 counters on that creature.",G,G,rare,PFIN,Final Fantasy Promos,199s,3,3,,
+Sazh's Chocobo,{G},1.0,Creature — Bird,"Landfall — Whenever a land you control enters, put a +1/+1 counter on this creature.",G,G,uncommon,FIN,Final Fantasy,200,0,1,,Landfall
+Scalding Viper // Steam Clean,{1}{R} // {1}{U},2.0,Creature — Elemental Snake // Sorcery — Adventure,,R,"R,U",rare,WOE,Wilds of Eldraine,295,2,1,,
+Scalding Viper // Steam Clean,{1}{R} // {1}{U},2.0,Creature — Elemental Snake // Sorcery — Adventure,,R,"R,U",rare,WOE,Wilds of Eldraine,235,2,1,,
+Scalding Viper // Steam Clean,{1}{R} // {1}{U},2.0,Creature — Elemental Snake // Sorcery — Adventure,,R,"R,U",rare,PWOE,Wilds of Eldraine Promos,235p,2,1,,
+Scalding Viper // Steam Clean,{1}{R} // {1}{U},2.0,Creature — Elemental Snake // Sorcery — Adventure,,R,"R,U",rare,PWOE,Wilds of Eldraine Promos,235s,2,1,,
+Scalestorm Summoner,{2}{R},3.0,Creature — Human Warlock,"Whenever this creature attacks, create a 3/1 red Dinosaur creature token if you control a creature with power 4 or greater.",R,R,uncommon,OTJ,Outlaws of Thunder Junction,144,3,3,,
+Scampering Surveyor,{4},4.0,Artifact Creature — Gnome,"When this creature enters, search your library for a basic land card or Cave card, put it onto the battlefield tapped, then shuffle.",,,uncommon,LCI,The Lost Caverns of Ixalan,260,3,2,,
+Scarblade Scout,{1}{B},2.0,Creature — Elf Scout,"Lifelink
+When this creature enters, mill two cards. (Put the top two cards of your library into your graveyard.)",B,B,common,ECL,Lorwyn Eclipsed,118,2,2,,Lifelink;Mill
+Scarecrow Guide,{2},2.0,Artifact Creature — Scarecrow,"Reach
+{1}: Add one mana of any color. Activate only once each turn.",,,common,WOE,Wilds of Eldraine,250,2,1,,Reach
+"Scarlet Spider, Ben Reilly",{1}{R}{G},3.0,Legendary Creature — Spider Human Hero,"Web-slinging {R}{G} (You may cast this spell for {R}{G} if you also return a tapped creature you control to its owner's hand.)
+Trample
+Sensational Save — If Scarlet Spider was cast using web-slinging, he enters with X +1/+1 counters on him, where X is the mana value of the returned creature.","G,R","G,R",rare,PSPM,Marvel's Spider-Man Promos,142s,4,3,,Trample;Web-slinging
+"Scarlet Spider, Ben Reilly",{1}{R}{G},3.0,Legendary Creature — Spider Human Hero,"Web-slinging {R}{G} (You may cast this spell for {R}{G} if you also return a tapped creature you control to its owner's hand.)
+Trample
+Sensational Save — If Scarlet Spider was cast using web-slinging, he enters with X +1/+1 counters on him, where X is the mana value of the returned creature.","G,R","G,R",rare,SPM,Marvel's Spider-Man,214,4,3,,Trample;Web-slinging
+"Scarlet Spider, Ben Reilly",{1}{R}{G},3.0,Legendary Creature — Spider Human Hero,"Web-slinging {R}{G} (You may cast this spell for {R}{G} if you also return a tapped creature you control to its owner's hand.)
+Trample
+Sensational Save — If Scarlet Spider was cast using web-slinging, he enters with X +1/+1 counters on him, where X is the mana value of the returned creature.","G,R","G,R",rare,OM1,Through the Omenpaths,126,4,3,,Trample;Web-slinging
+"Scarlet Spider, Ben Reilly",{1}{R}{G},3.0,Legendary Creature — Spider Human Hero,"Web-slinging {R}{G} (You may cast this spell for {R}{G} if you also return a tapped creature you control to its owner's hand.)
+Trample
+Sensational Save — If Scarlet Spider was cast using web-slinging, he enters with X +1/+1 counters on him, where X is the mana value of the returned creature.","G,R","G,R",rare,SPM,Marvel's Spider-Man,142,4,3,,Trample;Web-slinging
+"Scarlet Spider, Kaine",{B}{R},2.0,Legendary Creature — Spider Human Hero,"Menace (This creature can't be blocked except by two or more creatures.)
+When Scarlet Spider enters, you may discard a card. If you do, put a +1/+1 counter on him.
+Mayhem {B/R} (You may cast this card from your graveyard for {B/R} if you discarded it this turn. Timing rules still apply.)","B,R","B,R",uncommon,SPM,Marvel's Spider-Man,143,2,1,,Mayhem;Menace
+"Scarlet Spider, Kaine",{B}{R},2.0,Legendary Creature — Spider Human Hero,"Menace (This creature can't be blocked except by two or more creatures.)
+When Scarlet Spider enters, you may discard a card. If you do, put a +1/+1 counter on him.
+Mayhem {B/R} (You may cast this card from your graveyard for {B/R} if you discarded it this turn. Timing rules still apply.)","B,R","B,R",uncommon,OM1,Through the Omenpaths,141,2,1,,Mayhem;Menace
+Scavenger Regent // Exude Toxin,{3}{B} // {X}{B}{B},4.0,Creature — Dragon // Sorcery — Omen,,B,B,rare,TDM,Tarkir: Dragonstorm,90,4,4,,Flying;Ward
+Scavenger Regent // Exude Toxin,{3}{B} // {X}{B}{B},4.0,Creature — Dragon // Sorcery — Omen,,B,B,rare,PTDM,Tarkir: Dragonstorm Promos,90p,4,4,,Flying;Ward
+Scavenger Regent // Exude Toxin,{3}{B} // {X}{B}{B},4.0,Creature — Dragon // Sorcery — Omen,,B,B,rare,PTDM,Tarkir: Dragonstorm Promos,90s,4,4,,Flying;Ward
+Scavenging Ooze,{1}{G},2.0,Creature — Ooze,"{G}: Exile target card from a graveyard. If it was a creature card, put a +1/+1 counter on this creature and you gain 1 life.",G,G,rare,M21,Core Set 2021,318,2,2,,
+Scavenging Ooze,{1}{G},2.0,Creature — Ooze,"{G}: Exile target card from a graveyard. If it was a creature card, put a +1/+1 counter on this creature and you gain 1 life.",G,G,rare,PM21,Core Set 2021 Promos,204s,2,2,,
+Scavenging Ooze,{1}{G},2.0,Creature — Ooze,"{G}: Exile target card from a graveyard. If it was a creature card, put a +1/+1 counter on this creature and you gain 1 life.",G,G,rare,ONC,Phyrexia: All Will Be One Commander,112,2,2,,
+Scavenging Ooze,{1}{G},2.0,Creature — Ooze,"{G}: Exile target card from a graveyard. If it was a creature card, put a +1/+1 counter on this creature and you gain 1 life.",G,G,rare,CMD,Commander 2011,170,2,2,,
+Scavenging Ooze,{1}{G},2.0,Creature — Ooze,"{G}: Exile target card from a graveyard. If it was a creature card, put a +1/+1 counter on this creature and you gain 1 life.",G,G,rare,PDP14,Duels of the Planeswalkers 2014 Promos,3,2,2,,
+Scavenging Ooze,{1}{G},2.0,Creature — Ooze,"{G}: Exile target card from a graveyard. If it was a creature card, put a +1/+1 counter on this creature and you gain 1 life.",G,G,rare,DSC,Duskmourn: House of Horror Commander,196,2,2,,
+Scavenging Ooze,{1}{G},2.0,Creature — Ooze,"{G}: Exile target card from a graveyard. If it was a creature card, put a +1/+1 counter on this creature and you gain 1 life.",G,G,rare,M21,Core Set 2021,204,2,2,,
+Scavenging Ooze,{1}{G},2.0,Creature — Ooze,"{G}: Exile target card from a graveyard. If it was a creature card, put a +1/+1 counter on this creature and you gain 1 life.",G,G,rare,C16,Commander 2016,166,2,2,,
+Scavenging Ooze,{1}{G},2.0,Creature — Ooze,"{G}: Exile target card from a graveyard. If it was a creature card, put a +1/+1 counter on this creature and you gain 1 life.",G,G,rare,PLG21,Love Your LGS 2021,5,2,2,,
+Scavenging Ooze,{1}{G},2.0,Creature — Ooze,"{G}: Exile target card from a graveyard. If it was a creature card, put a +1/+1 counter on this creature and you gain 1 life.",G,G,rare,MM3,Modern Masters 2017,134,2,2,,
+Scavenging Ooze,{1}{G},2.0,Creature — Ooze,"{G}: Exile target card from a graveyard. If it was a creature card, put a +1/+1 counter on this creature and you gain 1 life.",G,G,rare,NCC,New Capenna Commander,309,2,2,,
+Scavenging Ooze,{1}{G},2.0,Creature — Ooze,"{G}: Exile target card from a graveyard. If it was a creature card, put a +1/+1 counter on this creature and you gain 1 life.",G,G,rare,PRM,Magic Online Promos,62451,2,2,,
+Scavenging Ooze,{1}{G},2.0,Creature — Ooze,"{G}: Exile target card from a graveyard. If it was a creature card, put a +1/+1 counter on this creature and you gain 1 life.",G,G,rare,FDN,Foundations,232,2,2,,
+Scavenging Ooze,{1}{G},2.0,Creature — Ooze,"{G}: Exile target card from a graveyard. If it was a creature card, put a +1/+1 counter on this creature and you gain 1 life.",G,G,rare,PFDN,Foundations Promos,232s,2,2,,
+Scavenging Ooze,{1}{G},2.0,Creature — Ooze,"{G}: Exile target card from a graveyard. If it was a creature card, put a +1/+1 counter on this creature and you gain 1 life.",G,G,rare,PRM,Magic Online Promos,81912,2,2,,
+Scavenging Ooze,{1}{G},2.0,Creature — Ooze,"{G}: Exile target card from a graveyard. If it was a creature card, put a +1/+1 counter on this creature and you gain 1 life.",G,G,rare,SLD,Secret Lair Drop,135,2,2,,
+Scavenging Ooze,{1}{G},2.0,Creature — Ooze,"{G}: Exile target card from a graveyard. If it was a creature card, put a +1/+1 counter on this creature and you gain 1 life.",G,G,rare,PM21,Core Set 2021 Promos,204p,2,2,,
+Scavenging Ooze,{1}{G},2.0,Creature — Ooze,"{G}: Exile target card from a graveyard. If it was a creature card, put a +1/+1 counter on this creature and you gain 1 life.",G,G,rare,PRM,Magic Online Promos,99979,2,2,,
+Scavenging Ooze,{1}{G},2.0,Creature — Ooze,"{G}: Exile target card from a graveyard. If it was a creature card, put a +1/+1 counter on this creature and you gain 1 life.",G,G,rare,CM2,Commander Anthology Volume II,143,2,2,,
+Scavenging Ooze,{1}{G},2.0,Creature — Ooze,"{G}: Exile target card from a graveyard. If it was a creature card, put a +1/+1 counter on this creature and you gain 1 life.",G,G,rare,SCD,Starter Commander Decks,210,2,2,,
+Scavenging Ooze,{1}{G},2.0,Creature — Ooze,"{G}: Exile target card from a graveyard. If it was a creature card, put a +1/+1 counter on this creature and you gain 1 life.",G,G,rare,PLST,The List,CMD-170,2,2,,
+Scavenging Ooze,{1}{G},2.0,Creature — Ooze,"{G}: Exile target card from a graveyard. If it was a creature card, put a +1/+1 counter on this creature and you gain 1 life.",G,G,rare,M14,Magic 2014,195,2,2,,
+Scorpion Sentinel,{1}{U},2.0,Artifact Creature — Robot Scorpion,"As long as you control seven or more lands, this creature gets +3/+0.",U,U,common,FIN,Final Fantasy,72,1,4,,
+"Scorpion, Seething Striker",{3}{B},4.0,Legendary Creature — Scorpion Human Villain,"Deathtouch
+At the beginning of your end step, if a creature died this turn, target creature you control connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)",B,B,uncommon,OM1,Through the Omenpaths,68,3,3,,Connive;Deathtouch
+"Scorpion, Seething Striker",{3}{B},4.0,Legendary Creature — Scorpion Human Villain,"Deathtouch
+At the beginning of your end step, if a creature died this turn, target creature you control connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)",B,B,uncommon,SPM,Marvel's Spider-Man,64,3,3,,Connive;Deathtouch
+Scrabbling Skullcrab,{U},1.0,Creature — Crab Skeleton,"Eerie — Whenever an enchantment you control enters and whenever you fully unlock a Room, target player mills two cards. (They put the top two cards of their library into their graveyard.)",U,U,uncommon,DSK,Duskmourn: House of Horror,71,0,3,,Mill;Eerie
+Scrapshooter,{1}{G}{G},3.0,Creature — Raccoon Archer,"Gift a card (You may promise an opponent a gift as you cast this spell. If you do, when it enters, they draw a card.)
+Reach
+When this creature enters, if the gift was promised, destroy target artifact or enchantment an opponent controls.",G,G,rare,PBLB,Bloomburrow Promos,191s,4,4,,Reach;Gift
+Scrapshooter,{1}{G}{G},3.0,Creature — Raccoon Archer,"Gift a card (You may promise an opponent a gift as you cast this spell. If you do, when it enters, they draw a card.)
+Reach
+When this creature enters, if the gift was promised, destroy target artifact or enchantment an opponent controls.",G,G,rare,BLB,Bloomburrow,324,4,4,,Reach;Gift
+Scrapshooter,{1}{G}{G},3.0,Creature — Raccoon Archer,"Gift a card (You may promise an opponent a gift as you cast this spell. If you do, when it enters, they draw a card.)
+Reach
+When this creature enters, if the gift was promised, destroy target artifact or enchantment an opponent controls.",G,G,rare,BLB,Bloomburrow,191,4,4,,Reach;Gift
+Scrapshooter,{1}{G}{G},3.0,Creature — Raccoon Archer,"Gift a card (You may promise an opponent a gift as you cast this spell. If you do, when it enters, they draw a card.)
+Reach
+When this creature enters, if the gift was promised, destroy target artifact or enchantment an opponent controls.",G,G,rare,PBLB,Bloomburrow Promos,191p,4,4,,Reach;Gift
+Scrawling Crawler,{3},3.0,Artifact Creature — Phyrexian Construct,"At the beginning of your upkeep, each player draws a card.
+Whenever an opponent draws a card, that player loses 1 life.",,,rare,FDN,Foundations,354,3,2,,
+Scrawling Crawler,{3},3.0,Artifact Creature — Phyrexian Construct,"At the beginning of your upkeep, each player draws a card.
+Whenever an opponent draws a card, that player loses 1 life.",,,rare,PFDN,Foundations Promos,132s,3,2,,
+Scrawling Crawler,{3},3.0,Artifact Creature — Phyrexian Construct,"At the beginning of your upkeep, each player draws a card.
+Whenever an opponent draws a card, that player loses 1 life.",,,rare,FDN,Foundations,415,3,2,,
+Scrawling Crawler,{3},3.0,Artifact Creature — Phyrexian Construct,"At the beginning of your upkeep, each player draws a card.
+Whenever an opponent draws a card, that player loses 1 life.",,,rare,FDN,Foundations,132,3,2,,
+Scrawling Crawler,{3},3.0,Artifact Creature — Phyrexian Construct,"At the beginning of your upkeep, each player draws a card.
+Whenever an opponent draws a card, that player loses 1 life.",,,rare,FDN,Foundations,486,3,2,,
+Scrawling Crawler,{3},3.0,Artifact Creature — Phyrexian Construct,"At the beginning of your upkeep, each player draws a card.
+Whenever an opponent draws a card, that player loses 1 life.",,,rare,PFDN,Foundations Promos,132p,3,2,,
+Scream Puff,{4}{B},5.0,Creature — Horror,"Deathtouch
+Whenever this creature deals combat damage to a player, create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this token: You gain 3 life."")",B,B,common,WOE,Wilds of Eldraine,105,4,5,,Food;Deathtouch
+Screaming Phantom,{2}{B},3.0,Creature — Spirit,"Flying
+Whenever this creature attacks, mill a card. (Put the top card of your library into your graveyard.)",B,B,common,LCI,The Lost Caverns of Ixalan,118,2,2,,Flying;Mill
+Scrounging Skyray,{1}{U},2.0,Creature — Fish Pirate,"Flying
+Whenever you discard one or more cards, put that many +1/+1 counters on this creature.
+Cycling {2} ({2}, Discard this card: Draw a card.)",U,U,uncommon,DFT,Aetherdrift,60,1,2,,Flying;Cycling
+Scuzzback Scrounger,{1}{R},2.0,Creature — Goblin Warrior,"At the beginning of your first main phase, you may blight 1. If you do, create a Treasure token. (To blight 1, put a -1/-1 counter on a creature you control. A Treasure token is an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")",R,R,rare,ECL,Lorwyn Eclipsed,153,3,2,,Blight;Treasure
+Scuzzback Scrounger,{1}{R},2.0,Creature — Goblin Warrior,"At the beginning of your first main phase, you may blight 1. If you do, create a Treasure token. (To blight 1, put a -1/-1 counter on a creature you control. A Treasure token is an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")",R,R,rare,ECL,Lorwyn Eclipsed,320,3,2,,Blight;Treasure
+Scuzzback Scrounger,{1}{R},2.0,Creature — Goblin Warrior,"At the beginning of your first main phase, you may blight 1. If you do, create a Treasure token. (To blight 1, put a -1/-1 counter on a creature you control. A Treasure token is an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")",R,R,rare,PECL,Lorwyn Eclipsed Promos,153p,3,2,,Blight;Treasure
+Scytheclaw Raptor,{2}{R},3.0,Creature — Dinosaur,"Whenever a player casts a spell, if it's not their turn, this creature deals 4 damage to them.",R,R,uncommon,LCI,The Lost Caverns of Ixalan,323,4,3,,
+Scytheclaw Raptor,{2}{R},3.0,Creature — Dinosaur,"Whenever a player casts a spell, if it's not their turn, this creature deals 4 damage to them.",R,R,uncommon,PIO,Pioneer Masters,156,4,3,,
+Scytheclaw Raptor,{2}{R},3.0,Creature — Dinosaur,"Whenever a player casts a spell, if it's not their turn, this creature deals 4 damage to them.",R,R,uncommon,LCI,The Lost Caverns of Ixalan,165,4,3,,
+Searslicer Goblin,{1}{R},2.0,Creature — Goblin Warrior,"Raid — At the beginning of your end step, if you attacked this turn, create a 1/1 red Goblin creature token.",R,R,rare,FDN,Foundations,394,2,1,,Raid
+Searslicer Goblin,{1}{R},2.0,Creature — Goblin Warrior,"Raid — At the beginning of your end step, if you attacked this turn, create a 1/1 red Goblin creature token.",R,R,rare,FDN,Foundations,332,2,1,,Raid
+Searslicer Goblin,{1}{R},2.0,Creature — Goblin Warrior,"Raid — At the beginning of your end step, if you attacked this turn, create a 1/1 red Goblin creature token.",R,R,rare,PFDN,Foundations Promos,93s,2,1,,Raid
+Searslicer Goblin,{1}{R},2.0,Creature — Goblin Warrior,"Raid — At the beginning of your end step, if you attacked this turn, create a 1/1 red Goblin creature token.",R,R,rare,FDN,Foundations,93,2,1,,Raid
+Searslicer Goblin,{1}{R},2.0,Creature — Goblin Warrior,"Raid — At the beginning of your end step, if you attacked this turn, create a 1/1 red Goblin creature token.",R,R,rare,FDN,Foundations,468,2,1,,Raid
+Seasoned Consultant,{1}{W},2.0,Creature — Human Detective,"Whenever you attack with three or more creatures, this creature gets +2/+0 until end of turn.",W,W,common,MKM,Murders at Karlov Manor,33,1,3,,
+Seasoned Warrenguard,{W},1.0,Creature — Rabbit Warrior,"Whenever this creature attacks while you control a token, this creature gets +2/+0 until end of turn.",W,W,uncommon,BLB,Bloomburrow,30,1,2,,
+Seedglaive Mentor,{1}{R}{W},3.0,Creature — Mouse Soldier,"Vigilance, haste
+Valiant — Whenever this creature becomes the target of a spell or ability you control for the first time each turn, put a +1/+1 counter on it.","R,W","R,W",uncommon,BLB,Bloomburrow,231,3,2,,Vigilance;Valiant;Haste
+Seedpod Squire,{3}{W/U},4.0,Creature — Bird Scout,"Flying
+Whenever this creature attacks, target creature you control without flying gets +1/+1 until end of turn.","U,W","U,W",common,BLB,Bloomburrow,232,3,3,,Flying
+Seedship Agrarian,{3}{G},4.0,Creature — Insect Scientist,"Whenever this creature becomes tapped, create a Lander token. (It's an artifact with ""{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."")
+Landfall — Whenever a land you control enters, put a +1/+1 counter on this creature.",G,G,uncommon,EOE,Edge of Eternities,204,3,3,,Landfall
+Seedship Broodtender,{B}{G},2.0,Creature — Insect Citizen,"When this creature enters, mill three cards. (Put the top three cards of your library into your graveyard.)
+{3}{B}{G}, Sacrifice this creature: Return target creature or Spacecraft card from your graveyard to the battlefield. Activate only as a sorcery.","B,G","B,G",uncommon,EOE,Edge of Eternities,227,2,3,,Mill
+Seeker of Sunlight,{G},1.0,Creature — Merfolk Scout,"{2}{G}: This creature explores. Activate only as a sorcery. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)",G,G,common,LCI,The Lost Caverns of Ixalan,210,1,1,,Explore
+Seifer Almasy,{3}{R},4.0,Legendary Creature — Human Knight,"Whenever a creature you control attacks alone, it gains double strike until end of turn.
+Fire Cross — Whenever Seifer Almasy deals combat damage to a player, you may cast target instant or sorcery card with mana value 3 or less from your graveyard without paying its mana cost. If that spell would be put into your graveyard, exile it instead.",R,R,rare,FIN,Final Fantasy,534,3,4,,Fire Cross
+Seifer Almasy,{3}{R},4.0,Legendary Creature — Human Knight,"Whenever a creature you control attacks alone, it gains double strike until end of turn.
+Fire Cross — Whenever Seifer Almasy deals combat damage to a player, you may cast target instant or sorcery card with mana value 3 or less from your graveyard without paying its mana cost. If that spell would be put into your graveyard, exile it instead.",R,R,rare,FIN,Final Fantasy,466,3,4,,Fire Cross
+Seifer Almasy,{3}{R},4.0,Legendary Creature — Human Knight,"Whenever a creature you control attacks alone, it gains double strike until end of turn.
+Fire Cross — Whenever Seifer Almasy deals combat damage to a player, you may cast target instant or sorcery card with mana value 3 or less from your graveyard without paying its mana cost. If that spell would be put into your graveyard, exile it instead.",R,R,rare,PFIN,Final Fantasy Promos,156s,3,4,,Fire Cross
+Seifer Almasy,{3}{R},4.0,Legendary Creature — Human Knight,"Whenever a creature you control attacks alone, it gains double strike until end of turn.
+Fire Cross — Whenever Seifer Almasy deals combat damage to a player, you may cast target instant or sorcery card with mana value 3 or less from your graveyard without paying its mana cost. If that spell would be put into your graveyard, exile it instead.",R,R,rare,FIN,Final Fantasy,156,3,4,,Fire Cross
+Seifer Almasy,{3}{R},4.0,Legendary Creature — Human Knight,"Whenever a creature you control attacks alone, it gains double strike until end of turn.
+Fire Cross — Whenever Seifer Almasy deals combat damage to a player, you may cast target instant or sorcery card with mana value 3 or less from your graveyard without paying its mana cost. If that spell would be put into your graveyard, exile it instead.",R,R,rare,FIN,Final Fantasy,389,3,4,,Fire Cross
+Seismic Monstrosaur,{4}{R}{R},6.0,Creature — Dinosaur,"Trample
+{2}{R}, Sacrifice a land: Draw a card.
+Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)",R,R,common,LCI,The Lost Caverns of Ixalan,166,6,5,,Mountaincycling;Landcycling;Trample;Typecycling;Cycling
+Selfcraft Mechan,{3}{U},4.0,Artifact Creature — Robot Artificer,"When this creature enters, you may sacrifice an artifact. When you do, put a +1/+1 counter on target creature and draw a card.",U,U,common,EOE,Edge of Eternities,74,3,4,,
+Selfless Police Captain,{1}{W},2.0,Creature — Human Detective,"This creature enters with a +1/+1 counter on it.
+When this creature leaves the battlefield, put its +1/+1 counters on target creature you control.",W,W,common,OM1,Through the Omenpaths,8,1,1,,
+Selfless Police Captain,{1}{W},2.0,Creature — Human Detective,"This creature enters with a +1/+1 counter on it.
+When this creature leaves the battlefield, put its +1/+1 counters on target creature you control.",W,W,common,SPM,Marvel's Spider-Man,12,1,1,,
+Selfless Safewright,{3}{G}{G},5.0,Creature — Elf Warrior,"Flash
+Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+When this creature enters, choose a creature type. Other permanents you control of that type gain hexproof and indestructible until end of turn.",G,G,mythic,ECL,Lorwyn Eclipsed,391,4,2,,Flash;Convoke
+Selfless Safewright,{3}{G}{G},5.0,Creature — Elf Warrior,"Flash
+Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+When this creature enters, choose a creature type. Other permanents you control of that type gain hexproof and indestructible until end of turn.",G,G,rare,PECL,Lorwyn Eclipsed Promos,193p,4,2,,Flash;Convoke
+Selfless Safewright,{3}{G}{G},5.0,Creature — Elf Warrior,"Flash
+Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+When this creature enters, choose a creature type. Other permanents you control of that type gain hexproof and indestructible until end of turn.",G,G,mythic,ECL,Lorwyn Eclipsed,401,4,2,,Flash;Convoke
+Selfless Safewright,{3}{G}{G},5.0,Creature — Elf Warrior,"Flash
+Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+When this creature enters, choose a creature type. Other permanents you control of that type gain hexproof and indestructible until end of turn.",G,G,rare,ECL,Lorwyn Eclipsed,193,4,2,,Flash;Convoke
+Selfless Safewright,{3}{G}{G},5.0,Creature — Elf Warrior,"Flash
+Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+When this creature enters, choose a creature type. Other permanents you control of that type gain hexproof and indestructible until end of turn.",G,G,rare,ECL,Lorwyn Eclipsed,367,4,2,,Flash;Convoke
+"Selvala, Eager Trailblazer",{2}{G}{W},4.0,Legendary Creature — Elf Scout,"Vigilance
+Whenever you cast a creature spell, create a 1/1 red Mercenary creature token with ""{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.""
+{T}: Choose a color. Add one mana of that color for each different power among creatures you control.","G,W","G,W",mythic,POTJ,Outlaws of Thunder Junction Promos,231s,4,5,,Vigilance
+"Selvala, Eager Trailblazer",{2}{G}{W},4.0,Legendary Creature — Elf Scout,"Vigilance
+Whenever you cast a creature spell, create a 1/1 red Mercenary creature token with ""{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.""
+{T}: Choose a color. Add one mana of that color for each different power among creatures you control.","G,W","G,W",mythic,OTJ,Outlaws of Thunder Junction,231,4,5,,Vigilance
+"Selvala, Eager Trailblazer",{2}{G}{W},4.0,Legendary Creature — Elf Scout,"Vigilance
+Whenever you cast a creature spell, create a 1/1 red Mercenary creature token with ""{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.""
+{T}: Choose a color. Add one mana of that color for each different power among creatures you control.","G,W","G,W",mythic,POTJ,Outlaws of Thunder Junction Promos,231p,4,5,,Vigilance
+"Selvala, Eager Trailblazer",{2}{G}{W},4.0,Legendary Creature — Elf Scout,"Vigilance
+Whenever you cast a creature spell, create a 1/1 red Mercenary creature token with ""{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.""
+{T}: Choose a color. Add one mana of that color for each different power among creatures you control.","G,W","G,W",mythic,OTJ,Outlaws of Thunder Junction,363,4,5,,Vigilance
+Sentinel of Lost Lore,{1}{G}{G},3.0,Creature — Elf Knight,"When this creature enters, choose one or more —
+• Return target card you own in exile that has an Adventure to your hand.
+• Put target card you don't own in exile that has an Adventure on the bottom of its owner's library.
+• Exile target player's graveyard.",G,G,rare,PWOE,Wilds of Eldraine Promos,184p,3,4,,
+Sentinel of Lost Lore,{1}{G}{G},3.0,Creature — Elf Knight,"When this creature enters, choose one or more —
+• Return target card you own in exile that has an Adventure to your hand.
+• Put target card you don't own in exile that has an Adventure on the bottom of its owner's library.
+• Exile target player's graveyard.",G,G,rare,WOE,Wilds of Eldraine,358,3,4,,
+Sentinel of Lost Lore,{1}{G}{G},3.0,Creature — Elf Knight,"When this creature enters, choose one or more —
+• Return target card you own in exile that has an Adventure to your hand.
+• Put target card you don't own in exile that has an Adventure on the bottom of its owner's library.
+• Exile target player's graveyard.",G,G,rare,PWOE,Wilds of Eldraine Promos,184s,3,4,,
+Sentinel of Lost Lore,{1}{G}{G},3.0,Creature — Elf Knight,"When this creature enters, choose one or more —
+• Return target card you own in exile that has an Adventure to your hand.
+• Put target card you don't own in exile that has an Adventure on the bottom of its owner's library.
+• Exile target player's graveyard.",G,G,rare,WOE,Wilds of Eldraine,184,3,4,,
+Sentinel of the Nameless City,{2}{G},3.0,Creature — Merfolk Warrior Scout,"Vigilance
+Whenever this creature enters or attacks, create a Map token. (It's an artifact with ""{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery."")",G,G,rare,PLCI,The Lost Caverns of Ixalan Promos,211s,3,4,,Vigilance;Explore
+Sentinel of the Nameless City,{2}{G},3.0,Creature — Merfolk Warrior Scout,"Vigilance
+Whenever this creature enters or attacks, create a Map token. (It's an artifact with ""{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery."")",G,G,rare,PLCI,The Lost Caverns of Ixalan Promos,211p,3,4,,Vigilance;Explore
+Sentinel of the Nameless City,{2}{G},3.0,Creature — Merfolk Warrior Scout,"Vigilance
+Whenever this creature enters or attacks, create a Map token. (It's an artifact with ""{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery."")",G,G,rare,LCI,The Lost Caverns of Ixalan,211,3,4,,Vigilance;Explore
+Sentinel of the Nameless City,{2}{G},3.0,Creature — Merfolk Warrior Scout,"Vigilance
+Whenever this creature enters or attacks, create a Map token. (It's an artifact with ""{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery."")",G,G,rare,LCI,The Lost Caverns of Ixalan,383,3,4,,Vigilance;Explore
+"Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel",,3.0,Legendary Creature — Human Avatar Soldier // Legendary Creature — Angel Nightmare Avatar,,,B,mythic,FIN,Final Fantasy,451,,,,Flying;Transform;Super Nova
+"Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel",,3.0,Legendary Creature — Human Avatar Soldier // Legendary Creature — Angel Nightmare Avatar,,,B,mythic,PFIN,Final Fantasy Promos,115s,,,,Flying;Transform;Super Nova
+"Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel",,3.0,Legendary Creature — Human Avatar Soldier // Legendary Creature — Angel Nightmare Avatar,,,B,mythic,FIN,Final Fantasy,317,,,,Flying;Transform;Super Nova
+"Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel",,3.0,Legendary Creature — Human Avatar Soldier // Legendary Creature — Angel Nightmare Avatar,,,B,mythic,FIN,Final Fantasy,115,,,,Flying;Transform;Super Nova
+"Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel",,3.0,Legendary Creature — Human Avatar Soldier // Legendary Creature — Angel Nightmare Avatar,,,B,mythic,FIN,Final Fantasy,527,,,,Flying;Transform;Super Nova
+"Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel",,3.0,Legendary Creature — Human Avatar Soldier // Legendary Creature — Angel Nightmare Avatar,,,B,mythic,FIN,Final Fantasy,382,,,,Flying;Transform;Super Nova
+"Sephiroth, Planet's Heir",{4}{U}{B},6.0,Legendary Creature — Human Avatar Soldier,"Vigilance (Attacking doesn't cause this creature to tap.)
+When Sephiroth enters, creatures your opponents control get -2/-2 until end of turn.
+Whenever a creature an opponent controls dies, put a +1/+1 counter on Sephiroth.","B,U","B,U",mythic,PMEI,Media and Collaboration Promos,2025-14,4,4,,Vigilance
+"Sephiroth, Planet's Heir",{4}{U}{B},6.0,Legendary Creature — Human Avatar Soldier,"Vigilance (Attacking doesn't cause this creature to tap.)
+When Sephiroth enters, creatures your opponents control get -2/-2 until end of turn.
+Whenever a creature an opponent controls dies, put a +1/+1 counter on Sephiroth.","B,U","B,U",mythic,FIN,Final Fantasy,553,4,4,,Vigilance
+"Sephiroth, Planet's Heir",{4}{U}{B},6.0,Legendary Creature — Human Avatar Soldier,"Vigilance (Attacking doesn't cause this creature to tap.)
+When Sephiroth enters, creatures your opponents control get -2/-2 until end of turn.
+Whenever a creature an opponent controls dies, put a +1/+1 counter on Sephiroth.","B,U","B,U",mythic,FIN,Final Fantasy,505,4,4,,Vigilance
+Serah Farron // Crystallized Serah,,3.0,Legendary Creature — Human Citizen // Legendary Artifact,,,"G,W",rare,PFIN,Final Fantasy Promos,240s,,,,Transform
+Serah Farron // Crystallized Serah,,3.0,Legendary Creature — Human Citizen // Legendary Artifact,,,"G,W",rare,FIN,Final Fantasy,240,,,,Transform
+Serah Farron // Crystallized Serah,,3.0,Legendary Creature — Human Citizen // Legendary Artifact,,,"G,W",rare,FIN,Final Fantasy,506,,,,Transform
+Seraphic Steed,{G}{W},2.0,Creature — Unicorn Mount,"First strike, lifelink
+Whenever this creature attacks while saddled, create a 3/3 white Angel creature token with flying.
+Saddle 4 (Tap any number of other creatures you control with total power 4 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)","G,W","G,W",rare,POTJ,Outlaws of Thunder Junction Promos,232p,2,2,,Lifelink;Saddle;First strike
+Seraphic Steed,{G}{W},2.0,Creature — Unicorn Mount,"First strike, lifelink
+Whenever this creature attacks while saddled, create a 3/3 white Angel creature token with flying.
+Saddle 4 (Tap any number of other creatures you control with total power 4 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)","G,W","G,W",rare,OTJ,Outlaws of Thunder Junction,364,2,2,,Lifelink;Saddle;First strike
+Seraphic Steed,{G}{W},2.0,Creature — Unicorn Mount,"First strike, lifelink
+Whenever this creature attacks while saddled, create a 3/3 white Angel creature token with flying.
+Saddle 4 (Tap any number of other creatures you control with total power 4 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)","G,W","G,W",rare,POTJ,Outlaws of Thunder Junction Promos,232s,2,2,,Lifelink;Saddle;First strike
+Seraphic Steed,{G}{W},2.0,Creature — Unicorn Mount,"First strike, lifelink
+Whenever this creature attacks while saddled, create a 3/3 white Angel creature token with flying.
+Saddle 4 (Tap any number of other creatures you control with total power 4 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)","G,W","G,W",rare,OTJ,Outlaws of Thunder Junction,232,2,2,,Lifelink;Saddle;First strike
+Serpent of the Pass,{5}{U}{U},7.0,Creature — Serpent,"If there are three or more Lesson cards in your graveyard, you may cast this spell as though it had flash.
+This spell costs {1} less to cast for each noncreature, nonland card in your graveyard.",U,U,uncommon,TLA,Avatar: The Last Airbender,70,6,5,,
+Serra Angel,{3}{W}{W},5.0,Creature — Angel,"Flying
+Vigilance (Attacking doesn't cause this creature to tap.)",W,W,rare,O90P,Oversized 90's Promos,8,4,4,,Flying;Vigilance
+Serra Angel,{3}{W}{W},5.0,Creature — Angel,"Flying
+Vigilance (Attacking doesn't cause this creature to tap.)",W,W,uncommon,30A,30th Anniversary Edition,39,4,4,,Flying;Vigilance
+Serra Angel,{3}{W}{W},5.0,Creature — Angel,"Flying
+Vigilance (Attacking doesn't cause this creature to tap.)",W,W,uncommon,2ED,Unlimited Edition,40,4,4,,Flying;Vigilance
+Serra Angel,{3}{W}{W},5.0,Creature — Angel,"Flying
+Vigilance (Attacking doesn't cause this creature to tap.)",W,W,uncommon,IMA,Iconic Masters,30,4,4,,Flying;Vigilance
+Serra Angel,{3}{W}{W},5.0,Creature — Angel,"Flying
+Vigilance (Attacking doesn't cause this creature to tap.)",W,W,uncommon,FBB,Foreign Black Border,40,4,4,,Flying;Vigilance
+Serra Angel,{3}{W}{W},5.0,Creature — Angel,"Flying
+Vigilance (Attacking doesn't cause this creature to tap.)",W,W,rare,DDC,Duel Decks: Divine vs. Demonic,10,4,4,,Flying;Vigilance
+Serra Angel,{3}{W}{W},5.0,Creature — Angel,"Flying
+Vigilance (Attacking doesn't cause this creature to tap.)",W,W,uncommon,W17,Welcome Deck 2017,3,4,4,,Flying;Vigilance
+Serra Angel,{3}{W}{W},5.0,Creature — Angel,"Flying
+Vigilance (Attacking doesn't cause this creature to tap.)",W,W,rare,10E,Tenth Edition,39★,4,4,,Flying;Vigilance
+Serra Angel,{3}{W}{W},5.0,Creature — Angel,"Flying
+Vigilance (Attacking doesn't cause this creature to tap.)",W,W,rare,7ED,Seventh Edition,42★,4,4,,Flying;Vigilance
+Serra Angel,{3}{W}{W},5.0,Creature — Angel,"Flying
+Vigilance (Attacking doesn't cause this creature to tap.)",W,W,uncommon,GN3,Game Night: Free-for-All,17,4,4,,Flying;Vigilance
+Serra Angel,{3}{W}{W},5.0,Creature — Angel,"Flying
+Vigilance (Attacking doesn't cause this creature to tap.)",W,W,uncommon,M12,Magic 2012,33,4,4,,Flying;Vigilance
+Serra Angel,{3}{W}{W},5.0,Creature — Angel,"Flying
+Vigilance (Attacking doesn't cause this creature to tap.)",W,W,uncommon,M11,Magic 2011,27,4,4,,Flying;Vigilance
+Serra Angel,{3}{W}{W},5.0,Creature — Angel,"Flying
+Vigilance (Attacking doesn't cause this creature to tap.)",W,W,uncommon,FDN,Foundations,147,4,4,,Flying;Vigilance
+Serra Angel,{3}{W}{W},5.0,Creature — Angel,"Flying
+Vigilance (Attacking doesn't cause this creature to tap.)",W,W,uncommon,PTC,Pro Tour Collector Set,bl50,4,4,,Flying;Vigilance

@@ -1,0 +1,628 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Sacred Foundry,,0.0,Land — Mountain Plains,"({T}: Add {R} or {W}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"R,W",rare,RVR,Ravnica Remastered,409z,,,,
+Sacred Foundry,,0.0,Land — Mountain Plains,"({T}: Add {R} or {W}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"R,W",rare,GTC,Gatecrash,245,,,,
+Sacred Foundry,,0.0,Land — Mountain Plains,"({T}: Add {R} or {W}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"R,W",rare,RVR,Ravnica Remastered,297,,,,
+Sacred Foundry,,0.0,Land — Mountain Plains,"({T}: Add {R} or {W}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"R,W",rare,EOE,Edge of Eternities,377,,,,
+Sacred Foundry,,0.0,Land — Mountain Plains,"({T}: Add {R} or {W}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"R,W",rare,RAV,Ravnica: City of Guilds,280,,,,
+Sacred Foundry,,0.0,Land — Mountain Plains,"({T}: Add {R} or {W}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"R,W",mythic,EXP,Zendikar Expeditions,14,,,,
+Sacred Foundry,,0.0,Land — Mountain Plains,"({T}: Add {R} or {W}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"R,W",rare,SLD,Secret Lair Drop,131,,,,
+Sacred Foundry,,0.0,Land — Mountain Plains,"({T}: Add {R} or {W}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"R,W",rare,PGRN,Guilds of Ravnica Promos,254p,,,,
+Sacred Foundry,,0.0,Land — Mountain Plains,"({T}: Add {R} or {W}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"R,W",rare,UNF,Unfinity,536,,,,
+Sacred Foundry,,0.0,Land — Mountain Plains,"({T}: Add {R} or {W}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"R,W",rare,RVR,Ravnica Remastered,285,,,,
+Sacred Foundry,,0.0,Land — Mountain Plains,"({T}: Add {R} or {W}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"R,W",rare,CLU,Ravnica: Clue Edition,279,,,,
+Sacred Foundry,,0.0,Land — Mountain Plains,"({T}: Add {R} or {W}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"R,W",rare,EOE,Edge of Eternities,256,,,,
+Sacred Foundry,,0.0,Land — Mountain Plains,"({T}: Add {R} or {W}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"R,W",rare,EOE,Edge of Eternities,282,,,,
+Sacred Foundry,,0.0,Land — Mountain Plains,"({T}: Add {R} or {W}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"R,W",rare,RVR,Ravnica Remastered,409,,,,
+Sacred Foundry,,0.0,Land — Mountain Plains,"({T}: Add {R} or {W}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"R,W",rare,PEOE,Edge of Eternities Promos,256p,,,,
+Sacred Foundry,,0.0,Land — Mountain Plains,"({T}: Add {R} or {W}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"R,W",rare,PEOE,Edge of Eternities Promos,256s,,,,
+Sacred Foundry,,0.0,Land — Mountain Plains,"({T}: Add {R} or {W}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"R,W",rare,GRN,Guilds of Ravnica,254,,,,
+Sacred Foundry,,0.0,Land — Mountain Plains,"({T}: Add {R} or {W}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"R,W",rare,UNF,Unfinity,285,,,,
+Sacred Foundry,,0.0,Land — Mountain Plains,"({T}: Add {R} or {W}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"R,W",rare,PRM,Magic Online Promos,72309,,,,
+Sandsteppe Citadel,,0.0,Land,"This land enters tapped.
+{T}: Add {W}, {B}, or {G}.",,"B,G,W",uncommon,PLST,The List,KTK-241,,,,
+Sandsteppe Citadel,,0.0,Land,"This land enters tapped.
+{T}: Add {W}, {B}, or {G}.",,"B,G,W",uncommon,PRM,Magic Online Promos,57606,,,,
+Sandsteppe Citadel,,0.0,Land,"This land enters tapped.
+{T}: Add {W}, {B}, or {G}.",,"B,G,W",uncommon,LTC,Tales of Middle-earth Commander,327,,,,
+Sandsteppe Citadel,,0.0,Land,"This land enters tapped.
+{T}: Add {W}, {B}, or {G}.",,"B,G,W",uncommon,KTK,Khans of Tarkir,241,,,,
+Sandsteppe Citadel,,0.0,Land,"This land enters tapped.
+{T}: Add {W}, {B}, or {G}.",,"B,G,W",uncommon,CMM,Commander Masters,1024,,,,
+Sandsteppe Citadel,,0.0,Land,"This land enters tapped.
+{T}: Add {W}, {B}, or {G}.",,"B,G,W",uncommon,TDM,Tarkir: Dragonstorm,266,,,,
+Sandsteppe Citadel,,0.0,Land,"This land enters tapped.
+{T}: Add {W}, {B}, or {G}.",,"B,G,W",uncommon,C20,Commander 2020,305,,,,
+Sandsteppe Citadel,,0.0,Land,"This land enters tapped.
+{T}: Add {W}, {B}, or {G}.",,"B,G,W",uncommon,CM2,Commander Anthology Volume II,264,,,,
+Sandsteppe Citadel,,0.0,Land,"This land enters tapped.
+{T}: Add {W}, {B}, or {G}.",,"B,G,W",uncommon,CP3,Magic Origins Clash Pack,6,,,,
+Sandsteppe Citadel,,0.0,Land,"This land enters tapped.
+{T}: Add {W}, {B}, or {G}.",,"B,G,W",uncommon,C16,Commander 2016,320,,,,
+Sandsteppe Citadel,,0.0,Land,"This land enters tapped.
+{T}: Add {W}, {B}, or {G}.",,"B,G,W",uncommon,C17,Commander 2017,274,,,,
+Sandsteppe Citadel,,0.0,Land,"This land enters tapped.
+{T}: Add {W}, {B}, or {G}.",,"B,G,W",uncommon,DMC,Dominaria United Commander,229,,,,
+Sandsteppe Citadel,,0.0,Land,"This land enters tapped.
+{T}: Add {W}, {B}, or {G}.",,"B,G,W",uncommon,PLST,The List,CM2-264,,,,
+Sandsteppe Citadel,,0.0,Land,"This land enters tapped.
+{T}: Add {W}, {B}, or {G}.",,"B,G,W",uncommon,ECC,Lorwyn Eclipsed Commander,164,,,,
+Sandsteppe Citadel,,0.0,Land,"This land enters tapped.
+{T}: Add {W}, {B}, or {G}.",,"B,G,W",uncommon,ONC,Phyrexia: All Will Be One Commander,162,,,,
+Sandstorm Verge,,0.0,Land — Desert,"{T}: Add {C}.
+{3}, {T}: Target creature can't block this turn. Activate only as a sorcery.",,,uncommon,OTJ,Outlaws of Thunder Junction,263,,,,
+Savage Mansion,,0.0,Land,"This land enters tapped.
+{T}: Add {R} or {G}.
+{4}, {T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,"G,R",common,SPM,Marvel's Spider-Man,183,,,,Surveil
+Savage Mansion,,0.0,Land,"This land enters tapped.
+{T}: Add {R} or {G}.
+{4}, {T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,"G,R",common,OM1,Through the Omenpaths,183,,,,Surveil
+Scoured Barrens,,0.0,Land,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {W} or {B}.",,"B,W",common,NEO,Kamigawa: Neon Dynasty,274,,,,
+Scoured Barrens,,0.0,Land,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {W} or {B}.",,"B,W",common,KTK,Khans of Tarkir,242,,,,
+Scoured Barrens,,0.0,Land,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {W} or {B}.",,"B,W",common,C17,Commander 2017,276,,,,
+Scoured Barrens,,0.0,Land,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {W} or {B}.",,"B,W",common,40K,"Warhammer 40,000 Commander",293★,,,,
+Scoured Barrens,,0.0,Land,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {W} or {B}.",,"B,W",common,IKO,Ikoria: Lair of Behemoths,254,,,,
+Scoured Barrens,,0.0,Land,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {W} or {B}.",,"B,W",common,FDN,Foundations,266,,,,
+Scoured Barrens,,0.0,Land,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {W} or {B}.",,"B,W",common,40K,"Warhammer 40,000 Commander",293,,,,
+Scoured Barrens,,0.0,Land,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {W} or {B}.",,"B,W",common,C15,Commander 2015,303,,,,
+Scoured Barrens,,0.0,Land,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {W} or {B}.",,"B,W",common,M20,Core Set 2020,251,,,,
+Scoured Barrens,,0.0,Land,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {W} or {B}.",,"B,W",common,LTC,Tales of Middle-earth Commander,329,,,,
+Scoured Barrens,,0.0,Land,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {W} or {B}.",,"B,W",common,EMA,Eternal Masters,244,,,,
+Scoured Barrens,,0.0,Land,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {W} or {B}.",,"B,W",common,MOM,March of the Machine,272,,,,
+Scoured Barrens,,0.0,Land,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {W} or {B}.",,"B,W",common,PLST,The List,C18-276,,,,
+Scoured Barrens,,0.0,Land,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {W} or {B}.",,"B,W",common,FRF,Fate Reforged,171,,,,
+Scoured Barrens,,0.0,Land,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {W} or {B}.",,"B,W",common,C18,Commander 2018,276,,,,
+Scoured Barrens,,0.0,Land,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {W} or {B}.",,"B,W",common,DFT,Aetherdrift,263,,,,
+Scoured Barrens,,0.0,Land,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {W} or {B}.",,"B,W",common,TDM,Tarkir: Dragonstorm,267,,,,
+Scoured Barrens,,0.0,Land,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {W} or {B}.",,"B,W",common,M21,Core Set 2021,250,,,,
+Secluded Courtyard,,0.0,Land,"As this land enters, choose a creature type.
+{T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type or activate an ability of a creature source of the chosen type.",,,uncommon,NEO,Kamigawa: Neon Dynasty,275,,,,
+Secluded Courtyard,,0.0,Land,"As this land enters, choose a creature type.
+{T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type or activate an ability of a creature source of the chosen type.",,,uncommon,LCC,The Lost Caverns of Ixalan Commander,350,,,,
+Secluded Courtyard,,0.0,Land,"As this land enters, choose a creature type.
+{T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type or activate an ability of a creature source of the chosen type.",,,uncommon,ECC,Lorwyn Eclipsed Commander,62,,,,
+Secluded Courtyard,,0.0,Land,"As this land enters, choose a creature type.
+{T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type or activate an ability of a creature source of the chosen type.",,,mythic,SPG,Special Guests,63,,,,
+Secluded Courtyard,,0.0,Land,"As this land enters, choose a creature type.
+{T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type or activate an ability of a creature source of the chosen type.",,,uncommon,LTC,Tales of Middle-earth Commander,330,,,,
+Secluded Courtyard,,0.0,Land,"As this land enters, choose a creature type.
+{T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type or activate an ability of a creature source of the chosen type.",,,uncommon,NEO,Kamigawa: Neon Dynasty,512,,,,
+Secluded Courtyard,,0.0,Land,"As this land enters, choose a creature type.
+{T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type or activate an ability of a creature source of the chosen type.",,,uncommon,CMM,Commander Masters,1030,,,,
+Secluded Courtyard,,0.0,Land,"As this land enters, choose a creature type.
+{T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type or activate an ability of a creature source of the chosen type.",,,uncommon,FDN,Foundations,267,,,,
+Secluded Courtyard,,0.0,Land,"As this land enters, choose a creature type.
+{T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type or activate an ability of a creature source of the chosen type.",,,uncommon,M3C,Modern Horizons 3 Commander,372,,,,
+Secluded Starforge,,0.0,Land,"{T}: Add {C}.
+{2}, {T}, Tap X untapped artifacts you control: Target creature gets +X/+0 until end of turn. Activate only as a sorcery.
+{5}, {T}: Create a 2/2 colorless Robot artifact creature token.",,,mythic,EOE,Edge of Eternities,392,,,,
+Secluded Starforge,,0.0,Land,"{T}: Add {C}.
+{2}, {T}, Tap X untapped artifacts you control: Target creature gets +X/+0 until end of turn. Activate only as a sorcery.
+{5}, {T}: Create a 2/2 colorless Robot artifact creature token.",,,rare,PEOE,Edge of Eternities Promos,257s,,,,
+Secluded Starforge,,0.0,Land,"{T}: Add {C}.
+{2}, {T}, Tap X untapped artifacts you control: Target creature gets +X/+0 until end of turn. Activate only as a sorcery.
+{5}, {T}: Create a 2/2 colorless Robot artifact creature token.",,,rare,EOE,Edge of Eternities,316,,,,
+Secluded Starforge,,0.0,Land,"{T}: Add {C}.
+{2}, {T}, Tap X untapped artifacts you control: Target creature gets +X/+0 until end of turn. Activate only as a sorcery.
+{5}, {T}: Create a 2/2 colorless Robot artifact creature token.",,,rare,EOE,Edge of Eternities,257,,,,
+Secluded Starforge,,0.0,Land,"{T}: Add {C}.
+{2}, {T}, Tap X untapped artifacts you control: Target creature gets +X/+0 until end of turn. Activate only as a sorcery.
+{5}, {T}: Create a 2/2 colorless Robot artifact creature token.",,,rare,PEOE,Edge of Eternities Promos,257p,,,,
+Secluded Starforge,,0.0,Land,"{T}: Add {C}.
+{2}, {T}, Tap X untapped artifacts you control: Target creature gets +X/+0 until end of turn. Activate only as a sorcery.
+{5}, {T}: Create a 2/2 colorless Robot artifact creature token.",,,mythic,EOE,Edge of Eternities,366,,,,
+Secret Tunnel,,0.0,Land — Cave,"This land can't be blocked.
+{T}: Add {C}.
+{4}, {T}: Two target creatures you control that share a creature type can't be blocked this turn.",,,rare,TLA,Avatar: The Last Airbender,278,,,,
+Secret Tunnel,,0.0,Land — Cave,"This land can't be blocked.
+{T}: Add {C}.
+{4}, {T}: Two target creatures you control that share a creature type can't be blocked this turn.",,,rare,TLA,Avatar: The Last Airbender,392,,,,
+Secret Tunnel,,0.0,Land — Cave,"This land can't be blocked.
+{T}: Add {C}.
+{4}, {T}: Two target creatures you control that share a creature type can't be blocked this turn.",,,rare,PTLA,Avatar: The Last Airbender Promos,278s,,,,
+Selesnya Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {G} or {W}.",,"G,W",common,C13,Commander 2013,321,,,,
+Selesnya Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {G} or {W}.",,"G,W",common,C17,Commander 2017,279,,,,
+Selesnya Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {G} or {W}.",,"G,W",common,FDN,Foundations,694,,,,
+Selesnya Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {G} or {W}.",,"G,W",common,PLST,The List,GRN-255,,,,
+Selesnya Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {G} or {W}.",,"G,W",common,GRN,Guilds of Ravnica,255,,,,
+Selesnya Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {G} or {W}.",,"G,W",common,PIO,Pioneer Masters,274,,,,
+Selesnya Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {G} or {W}.",,"G,W",common,DGM,Dragon's Maze,155,,,,
+Selesnya Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {G} or {W}.",,"G,W",common,CLU,Ravnica: Clue Edition,245,,,,
+Selesnya Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {G} or {W}.",,"G,W",common,CMA,Commander Anthology,272,,,,
+Selesnya Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {G} or {W}.",,"G,W",common,MM3,Modern Masters 2017,246,,,,
+Selesnya Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {G} or {W}.",,"G,W",common,RVR,Ravnica Remastered,410,,,,
+Selesnya Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {G} or {W}.",,"G,W",common,ZNC,Zendikar Rising Commander,139,,,,
+Selesnya Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {G} or {W}.",,"G,W",common,RVR,Ravnica Remastered,286,,,,
+Selesnya Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {G} or {W}.",,"G,W",common,GRN,Guilds of Ravnica,256,,,,
+Selesnya Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {G} or {W}.",,"G,W",common,RTR,Return to Ravnica,246,,,,
+Serpent's Pass,,0.0,Land,"This land enters tapped.
+{T}: Add {U} or {B}.
+{4}, {T}, Sacrifice this land: Draw a card.",,"B,U",common,TLA,Avatar: The Last Airbender,279,,,,
+Shadowy Backstreet,,0.0,Land — Plains Swamp,"({T}: Add {W} or {B}.)
+This land enters tapped.
+When this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,"B,W",rare,MKM,Murders at Karlov Manor,330,,,,Surveil
+Shadowy Backstreet,,0.0,Land — Plains Swamp,"({T}: Add {W} or {B}.)
+This land enters tapped.
+When this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,"B,W",rare,PMKM,Murders at Karlov Manor Promos,268s,,,,Surveil
+Shadowy Backstreet,,0.0,Land — Plains Swamp,"({T}: Add {W} or {B}.)
+This land enters tapped.
+When this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,"B,W",rare,PMKM,Murders at Karlov Manor Promos,268p,,,,Surveil
+Shadowy Backstreet,,0.0,Land — Plains Swamp,"({T}: Add {W} or {B}.)
+This land enters tapped.
+When this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,"B,W",rare,MKM,Murders at Karlov Manor,268,,,,Surveil
+"Sharlayan, Nation of Scholars",,0.0,Land — Town,"This land enters tapped.
+{T}: Add {W} or {U}.",,"U,W",common,FIN,Final Fantasy,288,,,,
+Simic Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {G} or {U}.",,"G,U",common,C15,Commander 2015,306,,,,
+Simic Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {G} or {U}.",,"G,U",common,GTC,Gatecrash,246,,,,
+Simic Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {G} or {U}.",,"G,U",common,PLST,The List,RNA-257,,,,
+Simic Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {G} or {U}.",,"G,U",common,CMA,Commander Anthology,274,,,,
+Simic Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {G} or {U}.",,"G,U",common,RNA,Ravnica Allegiance,258,,,,
+Simic Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {G} or {U}.",,"G,U",common,MM3,Modern Masters 2017,248,,,,
+Simic Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {G} or {U}.",,"G,U",common,C13,Commander 2013,323,,,,
+Simic Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {G} or {U}.",,"G,U",common,RNA,Ravnica Allegiance,257,,,,
+Simic Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {G} or {U}.",,"G,U",common,CLU,Ravnica: Clue Edition,248,,,,
+Simic Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {G} or {U}.",,"G,U",common,M3C,Modern Horizons 3 Commander,378,,,,
+Simic Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {G} or {U}.",,"G,U",common,FDN,Foundations,695,,,,
+Simic Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {G} or {U}.",,"G,U",common,WAR,War of the Spark,274,,,,
+Simic Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {G} or {U}.",,"G,U",common,RVR,Ravnica Remastered,287,,,,
+Simic Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {G} or {U}.",,"G,U",common,C19,Commander 2019,275,,,,
+Simic Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {G} or {U}.",,"G,U",common,CMR,Commander Legends,493,,,,
+Simic Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {G} or {U}.",,"G,U",common,RVR,Ravnica Remastered,411,,,,
+Simic Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {G} or {U}.",,"G,U",common,PIO,Pioneer Masters,276,,,,
+Simic Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {G} or {U}.",,"G,U",common,DGM,Dragon's Maze,156,,,,
+Sinister Hideout,,0.0,Land,"This land enters tapped.
+{T}: Add {U} or {B}.
+{4}, {T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,"B,U",common,SPM,Marvel's Spider-Man,184,,,,Surveil
+Sinister Hideout,,0.0,Land,"This land enters tapped.
+{T}: Add {U} or {B}.
+{4}, {T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,"B,U",common,OM1,Through the Omenpaths,184,,,,Surveil
+Soulstone Sanctuary,,0.0,Land,"{T}: Add {C}.
+{4}: This land becomes a 3/3 creature with vigilance and all creature types. It's still a land.",,,rare,FDN,Foundations,487,,,,
+Soulstone Sanctuary,,0.0,Land,"{T}: Add {C}.
+{4}: This land becomes a 3/3 creature with vigilance and all creature types. It's still a land.",,,rare,FDN,Foundations,133,,,,
+Soulstone Sanctuary,,0.0,Land,"{T}: Add {C}.
+{4}: This land becomes a 3/3 creature with vigilance and all creature types. It's still a land.",,,rare,FDN,Foundations,356,,,,
+Soulstone Sanctuary,,0.0,Land,"{T}: Add {C}.
+{4}: This land becomes a 3/3 creature with vigilance and all creature types. It's still a land.",,,rare,FDN,Foundations,416,,,,
+Soulstone Sanctuary,,0.0,Land,"{T}: Add {C}.
+{4}: This land becomes a 3/3 creature with vigilance and all creature types. It's still a land.",,,rare,PFDN,Foundations Promos,133s,,,,
+Soured Springs,,0.0,Land — Desert,"This land enters tapped.
+When this land enters, it deals 1 damage to target opponent.
+{T}: Add {U} or {B}.",,"B,U",common,OTJ,Outlaws of Thunder Junction,264,,,,
+Spirebluff Canal,,0.0,Land,"This land enters tapped unless you control two or fewer other lands.
+{T}: Add {U} or {R}.",,"R,U",rare,PKLD,Kaladesh Promos,249s,,,,
+Spirebluff Canal,,0.0,Land,"This land enters tapped unless you control two or fewer other lands.
+{T}: Add {U} or {R}.",,"R,U",rare,POTJ,Outlaws of Thunder Junction Promos,270p,,,,
+Spirebluff Canal,,0.0,Land,"This land enters tapped unless you control two or fewer other lands.
+{T}: Add {U} or {R}.",,"R,U",rare,KLD,Kaladesh,249,,,,
+Spirebluff Canal,,0.0,Land,"This land enters tapped unless you control two or fewer other lands.
+{T}: Add {U} or {R}.",,"R,U",rare,OTJ,Outlaws of Thunder Junction,270,,,,
+Spirebluff Canal,,0.0,Land,"This land enters tapped unless you control two or fewer other lands.
+{T}: Add {U} or {R}.",,"R,U",rare,OTJ,Outlaws of Thunder Junction,304,,,,
+Spirebluff Canal,,0.0,Land,"This land enters tapped unless you control two or fewer other lands.
+{T}: Add {U} or {R}.",,"R,U",rare,POTJ,Outlaws of Thunder Junction Promos,270s,,,,
+Spirebluff Canal,,0.0,Land,"This land enters tapped unless you control two or fewer other lands.
+{T}: Add {U} or {R}.",,"R,U",rare,SLD,Secret Lair Drop,1373,,,,
+Spirebluff Canal,,0.0,Land,"This land enters tapped unless you control two or fewer other lands.
+{T}: Add {U} or {R}.",,"R,U",rare,KLR,Kaladesh Remastered,286,,,,
+Starting Town,,0.0,Land — Town,"This land enters tapped unless it's your first, second, or third turn of the game.
+{T}: Add {C}.
+{T}, Pay 1 life: Add one mana of any color.",,,rare,PFIN,Final Fantasy Promos,289s,,,,
+Starting Town,,0.0,Land — Town,"This land enters tapped unless it's your first, second, or third turn of the game.
+{T}: Add {C}.
+{T}, Pay 1 life: Add one mana of any color.",,,rare,FIN,Final Fantasy,289,,,,
+Steam Vents,,0.0,Land — Island Mountain,"({T}: Add {U} or {R}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"R,U",rare,GPT,Guildpact,164,,,,
+Steam Vents,,0.0,Land — Island Mountain,"({T}: Add {U} or {R}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"R,U",rare,PGRN,Guilds of Ravnica Promos,257p,,,,
+Steam Vents,,0.0,Land — Island Mountain,"({T}: Add {U} or {R}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"R,U",rare,PRM,Magic Online Promos,72307,,,,
+Steam Vents,,0.0,Land — Island Mountain,"({T}: Add {U} or {R}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"R,U",mythic,EXP,Zendikar Expeditions,12,,,,
+Steam Vents,,0.0,Land — Island Mountain,"({T}: Add {U} or {R}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"R,U",rare,PECL,Lorwyn Eclipsed Promos,267p,,,,
+Steam Vents,,0.0,Land — Island Mountain,"({T}: Add {U} or {R}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"R,U",rare,RVR,Ravnica Remastered,298,,,,
+Steam Vents,,0.0,Land — Island Mountain,"({T}: Add {U} or {R}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"R,U",rare,RVR,Ravnica Remastered,412,,,,
+Steam Vents,,0.0,Land — Island Mountain,"({T}: Add {U} or {R}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"R,U",rare,RVR,Ravnica Remastered,288,,,,
+Steam Vents,,0.0,Land — Island Mountain,"({T}: Add {U} or {R}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"R,U",rare,CLU,Ravnica: Clue Edition,280,,,,
+Steam Vents,,0.0,Land — Island Mountain,"({T}: Add {U} or {R}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"R,U",rare,UNF,Unfinity,283,,,,
+Steam Vents,,0.0,Land — Island Mountain,"({T}: Add {U} or {R}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"R,U",rare,ECL,Lorwyn Eclipsed,267,,,,
+Steam Vents,,0.0,Land — Island Mountain,"({T}: Add {U} or {R}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"R,U",rare,GRN,Guilds of Ravnica,257,,,,
+Steam Vents,,0.0,Land — Island Mountain,"({T}: Add {U} or {R}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"R,U",rare,UNF,Unfinity,534,,,,
+Steam Vents,,0.0,Land — Island Mountain,"({T}: Add {U} or {R}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"R,U",rare,SLD,Secret Lair Drop,129,,,,
+Steam Vents,,0.0,Land — Island Mountain,"({T}: Add {U} or {R}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"R,U",rare,RTR,Return to Ravnica,247,,,,
+Steam Vents,,0.0,Land — Island Mountain,"({T}: Add {U} or {R}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"R,U",rare,RVR,Ravnica Remastered,412z,,,,
+Stomping Ground,,0.0,Land — Mountain Forest,"({T}: Add {R} or {G}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"G,R",rare,EOE,Edge of Eternities,378,,,,
+Stomping Ground,,0.0,Land — Mountain Forest,"({T}: Add {R} or {G}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"G,R",rare,CLU,Ravnica: Clue Edition,281,,,,
+Stomping Ground,,0.0,Land — Mountain Forest,"({T}: Add {R} or {G}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"G,R",rare,SLD,Secret Lair Drop,126,,,,
+Stomping Ground,,0.0,Land — Mountain Forest,"({T}: Add {R} or {G}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"G,R",mythic,EXP,Zendikar Expeditions,9,,,,
+Stomping Ground,,0.0,Land — Mountain Forest,"({T}: Add {R} or {G}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"G,R",rare,PEOE,Edge of Eternities Promos,258p,,,,
+Stomping Ground,,0.0,Land — Mountain Forest,"({T}: Add {R} or {G}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"G,R",rare,EOE,Edge of Eternities,258,,,,
+Stomping Ground,,0.0,Land — Mountain Forest,"({T}: Add {R} or {G}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"G,R",rare,RVR,Ravnica Remastered,289,,,,
+Stomping Ground,,0.0,Land — Mountain Forest,"({T}: Add {R} or {G}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"G,R",rare,PRNA,Ravnica Allegiance Promos,259p,,,,
+Stomping Ground,,0.0,Land — Mountain Forest,"({T}: Add {R} or {G}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"G,R",rare,UNF,Unfinity,531,,,,
+Stomping Ground,,0.0,Land — Mountain Forest,"({T}: Add {R} or {G}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"G,R",rare,GPT,Guildpact,165,,,,
+Stomping Ground,,0.0,Land — Mountain Forest,"({T}: Add {R} or {G}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"G,R",rare,RVR,Ravnica Remastered,413,,,,
+Stomping Ground,,0.0,Land — Mountain Forest,"({T}: Add {R} or {G}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"G,R",rare,PEOE,Edge of Eternities Promos,258s,,,,
+Stomping Ground,,0.0,Land — Mountain Forest,"({T}: Add {R} or {G}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"G,R",rare,RVR,Ravnica Remastered,299,,,,
+Stomping Ground,,0.0,Land — Mountain Forest,"({T}: Add {R} or {G}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"G,R",rare,RNA,Ravnica Allegiance,259,,,,
+Stomping Ground,,0.0,Land — Mountain Forest,"({T}: Add {R} or {G}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"G,R",rare,PRM,Magic Online Promos,72313,,,,
+Stomping Ground,,0.0,Land — Mountain Forest,"({T}: Add {R} or {G}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"G,R",rare,UNF,Unfinity,280,,,,
+Stomping Ground,,0.0,Land — Mountain Forest,"({T}: Add {R} or {G}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"G,R",rare,RVR,Ravnica Remastered,413z,,,,
+Stomping Ground,,0.0,Land — Mountain Forest,"({T}: Add {R} or {G}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"G,R",rare,GTC,Gatecrash,247,,,,
+Stomping Ground,,0.0,Land — Mountain Forest,"({T}: Add {R} or {G}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"G,R",rare,EOE,Edge of Eternities,283,,,,
+Strangled Cemetery,,0.0,Land,"This land enters tapped unless a player has 13 or less life.
+{T}: Add {B} or {G}.",,"B,G",common,DSK,Duskmourn: House of Horror,268,,,,
+Suburban Sanctuary,,0.0,Land,"This land enters tapped.
+{T}: Add {G} or {W}.
+{4}, {T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,"G,W",common,SPM,Marvel's Spider-Man,185,,,,Surveil
+Suburban Sanctuary,,0.0,Land,"This land enters tapped.
+{T}: Add {G} or {W}.
+{4}, {T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,"G,W",common,OM1,Through the Omenpaths,185,,,,Surveil
+Sun-Blessed Peak,,0.0,Land,"This land enters tapped.
+{T}: Add {R} or {W}.
+{4}, {T}, Sacrifice this land: Draw a card.",,"R,W",common,TLA,Avatar: The Last Airbender,280,,,,
+Sunbillow Verge,,0.0,Land,"{T}: Add {W}.
+{T}: Add {R}. Activate only if you control a Mountain or a Plains.",,"R,W",rare,DFT,Aetherdrift,264,,,,
+Sunbillow Verge,,0.0,Land,"{T}: Add {W}.
+{T}: Add {R}. Activate only if you control a Mountain or a Plains.",,"R,W",rare,PDFT,Aetherdrift Promos,264s,,,,
+Sunbillow Verge,,0.0,Land,"{T}: Add {W}.
+{T}: Add {R}. Activate only if you control a Mountain or a Plains.",,"R,W",rare,DFT,Aetherdrift,373,,,,
+Sunbillow Verge,,0.0,Land,"{T}: Add {W}.
+{T}: Add {R}. Activate only if you control a Mountain or a Plains.",,"R,W",rare,DFT,Aetherdrift,504,,,,
+Sunbillow Verge,,0.0,Land,"{T}: Add {W}.
+{T}: Add {R}. Activate only if you control a Mountain or a Plains.",,"R,W",rare,PDFT,Aetherdrift Promos,264p,,,,
+Sunken Citadel,,0.0,Land — Cave,"This land enters tapped. As it enters, choose a color.
+{T}: Add one mana of the chosen color.
+{T}: Add two mana of the chosen color. Spend this mana only to activate abilities of land sources.",,,rare,EOS,Edge of Eternities: Stellar Sights,131,,,,
+Sunken Citadel,,0.0,Land — Cave,"This land enters tapped. As it enters, choose a color.
+{T}: Add one mana of the chosen color.
+{T}: Add two mana of the chosen color. Spend this mana only to activate abilities of land sources.",,,rare,LCI,The Lost Caverns of Ixalan,285,,,,
+Sunken Citadel,,0.0,Land — Cave,"This land enters tapped. As it enters, choose a color.
+{T}: Add one mana of the chosen color.
+{T}: Add two mana of the chosen color. Spend this mana only to activate abilities of land sources.",,,rare,EOS,Edge of Eternities: Stellar Sights,176,,,,
+Sunken Citadel,,0.0,Land — Cave,"This land enters tapped. As it enters, choose a color.
+{T}: Add one mana of the chosen color.
+{T}: Add two mana of the chosen color. Spend this mana only to activate abilities of land sources.",,,rare,PLCI,The Lost Caverns of Ixalan Promos,285p,,,,
+Sunken Citadel,,0.0,Land — Cave,"This land enters tapped. As it enters, choose a color.
+{T}: Add one mana of the chosen color.
+{T}: Add two mana of the chosen color. Spend this mana only to activate abilities of land sources.",,,rare,LCI,The Lost Caverns of Ixalan,392,,,,
+Sunken Citadel,,0.0,Land — Cave,"This land enters tapped. As it enters, choose a color.
+{T}: Add one mana of the chosen color.
+{T}: Add two mana of the chosen color. Spend this mana only to activate abilities of land sources.",,,rare,EOS,Edge of Eternities: Stellar Sights,86,,,,
+Sunken Citadel,,0.0,Land — Cave,"This land enters tapped. As it enters, choose a color.
+{T}: Add one mana of the chosen color.
+{T}: Add two mana of the chosen color. Spend this mana only to activate abilities of land sources.",,,rare,PLCI,The Lost Caverns of Ixalan Promos,285s,,,,
+Sunken Citadel,,0.0,Land — Cave,"This land enters tapped. As it enters, choose a color.
+{T}: Add one mana of the chosen color.
+{T}: Add two mana of the chosen color. Spend this mana only to activate abilities of land sources.",,,rare,EOS,Edge of Eternities: Stellar Sights,41,,,,
+"Susur Secundi, Void Altar",,0.0,Land — Planet,"This land enters tapped.
+{T}: Add {B}.
+Station (Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)
+12+ | {1}{B}, {T}, Pay 2 life, Sacrifice a creature: Draw cards equal to the sacrificed creature's power. Activate only as a sorcery.",,B,mythic,PEOE,Edge of Eternities Promos,259s,,,,Station
+"Susur Secundi, Void Altar",,0.0,Land — Planet,"This land enters tapped.
+{T}: Add {B}.
+Station (Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)
+12+ | {1}{B}, {T}, Pay 2 life, Sacrifice a creature: Draw cards equal to the sacrificed creature's power. Activate only as a sorcery.",,B,mythic,PEOE,Edge of Eternities Promos,259p,,,,Station
+"Susur Secundi, Void Altar",,0.0,Land — Planet,"This land enters tapped.
+{T}: Add {B}.
+Station (Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)
+12+ | {1}{B}, {T}, Pay 2 life, Sacrifice a creature: Draw cards equal to the sacrificed creature's power. Activate only as a sorcery.",,B,mythic,EOE,Edge of Eternities,259,,,,Station
+"Susur Secundi, Void Altar",,0.0,Land — Planet,"This land enters tapped.
+{T}: Add {B}.
+Station (Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)
+12+ | {1}{B}, {T}, Pay 2 life, Sacrifice a creature: Draw cards equal to the sacrificed creature's power. Activate only as a sorcery.",,B,mythic,EOE,Edge of Eternities,379,,,,Station
+"Susur Secundi, Void Altar",,0.0,Land — Planet,"This land enters tapped.
+{T}: Add {B}.
+Station (Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)
+12+ | {1}{B}, {T}, Pay 2 life, Sacrifice a creature: Draw cards equal to the sacrificed creature's power. Activate only as a sorcery.",,B,mythic,EOE,Edge of Eternities,284,,,,Station
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,JMP,Jumpstart,59,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,TMP,Tempest,340,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,30A,30th Anniversary Edition,289,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,DMU,Dominaria United,269,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,MOM,March of the Machine,287,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,DMR,Dominaria Remastered,407,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,PRM,Magic Online Promos,73632,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,BLB,Bloomburrow,272,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,ITP,Introductory Two-Player Set,61,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,THB,Theros Beyond Death,252,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,DOM,Dominaria,260,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,J25,Foundations Jumpstart,89,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,DMU,Dominaria United,270,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,ONS,Onslaught,339,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,DDR,Duel Decks: Nissa vs. Ob Nixilis,67,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,DFT,Aetherdrift,283,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,PRWK,GRN Ravnica Weekend,A05,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,WAR,War of the Spark,258,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,S99,Starter 1999,165,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,rare,SLD,Secret Lair Drop,450,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,rare,PF19,MagicFest 2019,4,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,DOM,Dominaria,261,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,ANA,Arena New Player Experience,28,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,CMA,Commander Anthology,303,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,DDM,Duel Decks: Jace vs. Vraska,80,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,HBG,Alchemy Horizons: Baldur's Gate,299,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,8ED,Eighth Edition,339,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,HBG,Alchemy Horizons: Baldur's Gate,298,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,AVR,Avacyn Restored,238,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,JMP,Jumpstart,54,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,M14,Magic 2014,241,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,ACR,Assassin's Creed,106,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,EOE,Edge of Eternities,272,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,SLD,Secret Lair Drop,560,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,rare,SLD,Secret Lair Drop,417,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,M21,Core Set 2021,268,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,DDQ,Duel Decks: Blessed vs. Cursed,76,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,FIN,Final Fantasy,302,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,DDJ,Duel Decks: Izzet vs. Golgari,84,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,CST,Coldsnap Theme Decks,377,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,PIP,Fallout,322,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,KTK,Khans of Tarkir,258,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,CEI,Intl. Collectors' Edition,295,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,HOP,Planechase,151,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,DOM,Dominaria,258,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,PANA,MTG Arena Promos,203,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,KLR,Kaladesh Remastered,293,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,SUM,Summer Magic / Edgar,299,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,CMM,Commander Masters,791,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,SNC,Streets of New Capenna,267,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,E01,Archenemy: Nicol Bolas,104,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,rare,SLD,Secret Lair Drop,1649,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,PRM,Magic Online Promos,275,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,DKM,Deckmasters,42,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,ECL,Lorwyn Eclipsed,276,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,RAV,Ravnica: City of Guilds,298,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,DTK,Dragons of Tarkir,258,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,5ED,Fifth Edition,439,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,C13,Commander 2013,345,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,6ED,Classic Sixth Edition,339,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,HOU,Hour of Devastation,195,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,10E,Tenth Edition,375,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,PC2,Planechase 2012,143,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,PMPS08,Magic Premiere Shop 2008,3,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,MMQ,Mercadian Masques,341,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,PTC,Pro Tour Collector Set,gb370,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,STX,Strixhaven: School of Mages,371,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,PSAL,Salvat 2005,A60,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,rare,PAL01,Arena League 2001,9,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,PD3,Premium Deck Series: Graveborn,28,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,FIN,Final Fantasy,574,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,ME1,Masters Edition,189,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,DDM,Duel Decks: Jace vs. Vraska,79,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,PELP,European Land Program,5,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,WC97,World Championship Decks 1997,js438,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,BFZ,Battle for Zendikar,260,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,FDN,Foundations,277,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,CMD,Commander 2011,308,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,SLD,Secret Lair Drop,562,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,STX,Strixhaven: School of Mages,370,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,AKR,Amonkhet Remastered,336,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,PSAL,Salvat 2005,A58,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,SCD,Starter Commander Decks,343,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,ROE,Rise of the Eldrazi,240,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,AFR,Adventures in the Forgotten Realms,273,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,PHUK,Hachette UK,47,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,PTK,Portal Three Kingdoms,172,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,ANA,Arena New Player Experience,12,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,DDK,Duel Decks: Sorin vs. Tibalt,80,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,M20,Core Set 2020,269,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,PANA,MTG Arena Promos,233,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,ONE,Phyrexia: All Will Be One,269,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,CED,Collectors' Edition,296,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,ZNR,Zendikar Rising,382,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,ANA,Arena New Player Experience,5a,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,CLB,Commander Legends: Battle for Baldur's Gate,462,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,SOI,Shadows over Innistrad,289,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,XANA,Arena New Player Experience Extras,53,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,BRB,Battle Royale Box Set,136,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,PRM,Magic Online Promos,31977,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,DPA,Duels of the Planeswalkers,103,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,XLN,Ixalan,270,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,UND,Unsanctioned,92,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,BFZ,Battle for Zendikar,264,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,WHO,Doctor Who,201,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,BRO,The Brothers' War,272,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,rare,SLD,Secret Lair Drop,256,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,30A,30th Anniversary Edition,588,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,PANA,MTG Arena Promos,208,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,C13,Commander 2013,348,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,ECL,Lorwyn Eclipsed,271,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,LRW,Lorwyn,292,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,SHM,Shadowmoor,292,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,KTK,Khans of Tarkir,261,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,PRM,Magic Online Promos,257,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,PANA,MTG Arena Promos,250,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,ANA,Arena New Player Experience,6a,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,PSAL,Salvat 2005,F33,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,DDN,Duel Decks: Speed vs. Cunning,40,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,DDM,Duel Decks: Jace vs. Vraska,82,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,TMT,Teenage Mutant Ninja Turtles,255,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,WAR,War of the Spark,257,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,FRF,Fate Reforged,180,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,DDK,Duel Decks: Sorin vs. Tibalt,37,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,8ED,Eighth Edition,340,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,PTC,Pro Tour Collector Set,gb371,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,M10,Magic 2010,241,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,DDD,Duel Decks: Garruk vs. Liliana,60,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,PIP,Fallout,321,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,CM2,Commander Anthology Volume II,299,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,SOM,Scars of Mirrodin,240,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,PCA,Planechase Anthology,144,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,5ED,Fifth Edition,441,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,MH3,Modern Horizons 3,502,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,PANA,MTG Arena Promos,251,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,WAR,War of the Spark,256,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,ANB,Arena Beginner Set,116,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,S99,Starter 1999,164,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,PRM,Magic Online Promos,81888,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,LEB,Limited Edition Beta,295,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,BRO,The Brothers' War,273,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,ZNR,Zendikar Rising,273,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,DDJ,Duel Decks: Izzet vs. Golgari,86,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,NPH,New Phyrexia,170,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,AVR,Avacyn Restored,237,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,RAV,Ravnica: City of Guilds,295,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,ODY,Odyssey,339,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,PSAL,Salvat 2005,F47,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,PTC,Pro Tour Collector Set,ll370,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,BBD,Battlebond,252,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,LTR,The Lord of the Rings: Tales of Middle-earth,266,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,PMPS,Magic Premiere Shop 2005,298,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,INV,Invasion,339,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,BTD,Beatdown Box Set,84,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,PALP,Asia Pacific Land Program,10,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,PHUK,Hachette UK,36,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,M19,Core Set 2019,269,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,POR,Portal,206,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,MIR,Mirage,340,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,M14,Magic 2014,239,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,PSAL,Salvat 2005,A57,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,WC01,World Championship Decks 2001,tvdl341,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,DDD,Duel Decks: Garruk vs. Liliana,62,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,UNF,Unfinity,493,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,ITP,Introductory Two-Player Set,59,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,PD3,Premium Deck Series: Graveborn,29,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,DDM,Duel Decks: Jace vs. Vraska,81,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,RTR,Return to Ravnica,260,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,PRM,Magic Online Promos,299,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,ATH,Anthologies,80,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,ANA,Arena New Player Experience,14,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,VOW,Innistrad: Crimson Vow,273,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,DDR,Duel Decks: Nissa vs. Ob Nixilis,66,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,MID,Innistrad: Midnight Hunt,382,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,ELD,Throne of Eldraine,261,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,DDP,Duel Decks: Zendikar vs. Eldrazi,72,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,PSAL,Salvat 2005,A9,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,ME3,Masters Edition III,224,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,RNA,Ravnica Allegiance,262,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,M21,Core Set 2021,266,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,ROE,Rise of the Eldrazi,238,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,5ED,Fifth Edition,440,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,BRC,The Brothers' War Commander,34,,,,
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,8ED,Eighth Edition,342,,,,

@@ -1,0 +1,115 @@
+name: Validate Decklists
+
+on:
+  push:
+    paths:
+      - 'cards_by_category/**'   # re-validate if card database changes
+      - 'scripts/validate_decklist.py'
+      - 'scripts/mtg_utils.py'
+      - 'Decks/**/decklist.txt'
+      - 'Decks/**/analysis.md'
+      - 'scripts/synergy_analysis.py'
+      - 'scripts/search_cards.py'
+  pull_request:
+    paths:
+      - 'cards_by_category/**'
+      - 'scripts/validate_decklist.py'
+      - 'scripts/mtg_utils.py'
+      - 'Decks/**/decklist.txt'
+      - 'Decks/**/analysis.md'
+      - 'scripts/synergy_analysis.py'
+      - 'scripts/search_cards.py'
+  workflow_dispatch:              # allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    name: Validate all decklists
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Find and validate all decklists
+        run: |
+          set -e
+          FOUND=$(find Decks -name 'decklist.txt' 2>/dev/null || true)
+          if [ -z "$FOUND" ]; then
+            echo "No decklists found in Decks/ — nothing to validate."
+            exit 0
+          fi
+          FAIL=0
+          for f in $FOUND; do
+            echo "--- Validating $f ---"
+            python scripts/validate_decklist.py --quiet "$f" || FAIL=1
+          done
+          if [ $FAIL -ne 0 ]; then
+            echo "One or more decklists failed validation."
+            exit 1
+          fi
+          echo "All decklists passed validation."
+
+      - name: Regenerate deck index
+        run: python scripts/index_decks.py
+
+      - name: Commit updated deck index (if changed)
+        if: github.event_name == 'push'
+        run: |
+          if [ -d "Decks" ] && [ -f "Decks/_INDEX.md" ]; then
+            git config user.name  "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add Decks/_INDEX.md
+            git diff --cached --quiet || git commit -m "chore: regenerate Decks/_INDEX.md [skip ci]"
+            git push
+          else
+            echo "No Decks/_INDEX.md to commit — skipping."
+          fi
+
+  synergy-gate:
+    runs-on: ubuntu-latest
+    name: Gate 2.5 synergy check (completed decks)
+    needs: validate
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run synergy gate on completed decklists
+        run: |
+          set -e
+          FAIL=0
+          for f in $(find Decks -name 'decklist.txt' 2>/dev/null || true); do
+            DIR=$(dirname "$f")
+            # Only run synergy check if analysis.md exists (deck is "complete")
+            if [ ! -f "$DIR/analysis.md" ]; then
+              echo "Skipping $f (no analysis.md — deck in progress)"
+              continue
+            fi
+            echo "--- Synergy gate: $f ---"
+            python scripts/synergy_analysis.py "$f" --mode deck --format decklist || FAIL=1
+          done
+          if [ $FAIL -ne 0 ]; then
+            echo "One or more decks failed Gate 2.5 synergy thresholds."
+            echo "Run: python scripts/synergy_analysis.py <decklist.txt> --mode deck"
+            exit 1
+          fi
+          echo "All completed decks passed Gate 2.5 synergy check."

@@ -1,0 +1,392 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Tangle Tumbler,{3},3.0,Artifact — Vehicle,"Vigilance
+{3}, {T}: Put a +1/+1 counter on target creature.
+Tap two untapped tokens you control: This Vehicle becomes an artifact creature until end of turn.",,,uncommon,BLB,Bloomburrow,250,6,6,,Vigilance
+Tarrian's Journal // The Tomb of Aclazotz,,2.0,Legendary Artifact // Legendary Land — Cave,,,B,rare,LCI,The Lost Caverns of Ixalan,371,,,,Transform
+Tarrian's Journal // The Tomb of Aclazotz,,2.0,Legendary Artifact // Legendary Land — Cave,,,B,rare,LCI,The Lost Caverns of Ixalan,126,,,,Transform
+Tarrian's Soulcleaver,{1},1.0,Legendary Artifact — Equipment,"Equipped creature has vigilance.
+Whenever another artifact or creature is put into a graveyard from the battlefield, put a +1/+1 counter on equipped creature.
+Equip {2}",,,rare,SLD,Secret Lair Drop,2224,,,,Equip
+Tarrian's Soulcleaver,{1},1.0,Legendary Artifact — Equipment,"Equipped creature has vigilance.
+Whenever another artifact or creature is put into a graveyard from the battlefield, put a +1/+1 counter on equipped creature.
+Equip {2}",,,rare,LCI,The Lost Caverns of Ixalan,264,,,,Equip
+Tarrian's Soulcleaver,{1},1.0,Legendary Artifact — Equipment,"Equipped creature has vigilance.
+Whenever another artifact or creature is put into a graveyard from the battlefield, put a +1/+1 counter on equipped creature.
+Equip {2}",,,rare,LCI,The Lost Caverns of Ixalan,389,,,,Equip
+Tarrian's Soulcleaver,{1},1.0,Legendary Artifact — Equipment,"Equipped creature has vigilance.
+Whenever another artifact or creature is put into a graveyard from the battlefield, put a +1/+1 counter on equipped creature.
+Equip {2}",,,rare,PLCI,The Lost Caverns of Ixalan Promos,264p,,,,Equip
+Tarrian's Soulcleaver,{1},1.0,Legendary Artifact — Equipment,"Equipped creature has vigilance.
+Whenever another artifact or creature is put into a graveyard from the battlefield, put a +1/+1 counter on equipped creature.
+Equip {2}",,,rare,PLCI,The Lost Caverns of Ixalan Promos,264s,,,,Equip
+Temur Monument,{2},2.0,Artifact,"When this artifact enters, search your library for a basic Forest, Island, or Mountain card, reveal it, put it into your hand, then shuffle.
+{3}{G}{U}{R}, {T}, Sacrifice this artifact: Create a 5/5 green Elephant creature token. Activate only as a sorcery.",,"G,R,U",uncommon,TDM,Tarkir: Dragonstorm,248,,,,
+Territory Forge,{4}{R},5.0,Artifact,"When this artifact enters, if you cast it, exile target artifact or land.
+This artifact has all activated abilities of the exiled card.",R,R,mythic,BIG,The Big Score,45,,,,
+Territory Forge,{4}{R},5.0,Artifact,"When this artifact enters, if you cast it, exile target artifact or land.
+This artifact has all activated abilities of the exiled card.",R,R,mythic,BIG,The Big Score,80,,,,
+Territory Forge,{4}{R},5.0,Artifact,"When this artifact enters, if you cast it, exile target artifact or land.
+This artifact has all activated abilities of the exiled card.",R,R,mythic,BIG,The Big Score,15,,,,
+Thaumaton Torpedo,{1},1.0,Artifact,"{6}, {T}, Sacrifice this artifact: Destroy target nonland permanent. This ability costs {3} less to activate if you attacked with a Spacecraft this turn.",,,common,EOE,Edge of Eternities,246,,,,
+The Aetherspark,{4},4.0,Legendary Artifact Planeswalker — Equipment,"As long as The Aetherspark is attached to a creature, The Aetherspark can't be attacked and has ""Whenever equipped creature deals combat damage during your turn, put that many loyalty counters on The Aetherspark.""
++1: Attach The Aetherspark to up to one target creature you control. Put a +1/+1 counter on that creature.
+−5: Draw two cards.
+−10: Add ten mana of any one color.",,,mythic,DFT,Aetherdrift,231,,,4,
+The Aetherspark,{4},4.0,Legendary Artifact Planeswalker — Equipment,"As long as The Aetherspark is attached to a creature, The Aetherspark can't be attacked and has ""Whenever equipped creature deals combat damage during your turn, put that many loyalty counters on The Aetherspark.""
++1: Attach The Aetherspark to up to one target creature you control. Put a +1/+1 counter on that creature.
+−5: Draw two cards.
+−10: Add ten mana of any one color.",,,mythic,PDFT,Aetherdrift Promos,231p,,,4,
+The Aetherspark,{4},4.0,Legendary Artifact Planeswalker — Equipment,"As long as The Aetherspark is attached to a creature, The Aetherspark can't be attacked and has ""Whenever equipped creature deals combat damage during your turn, put that many loyalty counters on The Aetherspark.""
++1: Attach The Aetherspark to up to one target creature you control. Put a +1/+1 counter on that creature.
+−5: Draw two cards.
+−10: Add ten mana of any one color.",,,mythic,PDFT,Aetherdrift Promos,231s,,,4,
+The Aetherspark,{4},4.0,Legendary Artifact Planeswalker — Equipment,"As long as The Aetherspark is attached to a creature, The Aetherspark can't be attacked and has ""Whenever equipped creature deals combat damage during your turn, put that many loyalty counters on The Aetherspark.""
++1: Attach The Aetherspark to up to one target creature you control. Put a +1/+1 counter on that creature.
+−5: Draw two cards.
+−10: Add ten mana of any one color.",,,mythic,DFT,Aetherdrift,376,,,4,
+The Aetherspark,{4},4.0,Legendary Artifact Planeswalker — Equipment,"As long as The Aetherspark is attached to a creature, The Aetherspark can't be attacked and has ""Whenever equipped creature deals combat damage during your turn, put that many loyalty counters on The Aetherspark.""
++1: Attach The Aetherspark to up to one target creature you control. Put a +1/+1 counter on that creature.
+−5: Draw two cards.
+−10: Add ten mana of any one color.",,,mythic,DFT,Aetherdrift,496,,,4,
+The Belligerent,{2}{U}{R},4.0,Legendary Artifact — Vehicle,"Whenever The Belligerent attacks, create a Treasure token. Until end of turn, you may look at the top card of your library any time, and you may play lands and cast spells from the top of your library.
+Crew 3","R,U","R,U",rare,LCI,The Lost Caverns of Ixalan,225,5,5,,Treasure;Crew
+The Belligerent,{2}{U}{R},4.0,Legendary Artifact — Vehicle,"Whenever The Belligerent attacks, create a Treasure token. Until end of turn, you may look at the top card of your library any time, and you may play lands and cast spells from the top of your library.
+Crew 3","R,U","R,U",rare,PLCI,The Lost Caverns of Ixalan Promos,225s,5,5,,Treasure;Crew
+The Belligerent,{2}{U}{R},4.0,Legendary Artifact — Vehicle,"Whenever The Belligerent attacks, create a Treasure token. Until end of turn, you may look at the top card of your library any time, and you may play lands and cast spells from the top of your library.
+Crew 3","R,U","R,U",rare,LCI,The Lost Caverns of Ixalan,384,5,5,,Treasure;Crew
+The Belligerent,{2}{U}{R},4.0,Legendary Artifact — Vehicle,"Whenever The Belligerent attacks, create a Treasure token. Until end of turn, you may look at the top card of your library any time, and you may play lands and cast spells from the top of your library.
+Crew 3","R,U","R,U",rare,PLCI,The Lost Caverns of Ixalan Promos,225p,5,5,,Treasure;Crew
+The Darkness Crystal,{2}{B}{B},4.0,Legendary Artifact,"Black spells you cast cost {1} less to cast.
+If a nontoken creature an opponent controls would die, instead exile it and you gain 2 life.
+{4}{B}{B}, {T}: Put target creature card exiled with The Darkness Crystal onto the battlefield tapped under your control with two additional +1/+1 counters on it.",B,B,rare,FIN,Final Fantasy,96,,,,
+The Darkness Crystal,{2}{B}{B},4.0,Legendary Artifact,"Black spells you cast cost {1} less to cast.
+If a nontoken creature an opponent controls would die, instead exile it and you gain 2 life.
+{4}{B}{B}, {T}: Put target creature card exiled with The Darkness Crystal onto the battlefield tapped under your control with two additional +1/+1 counters on it.",B,B,rare,FIN,Final Fantasy,335,,,,
+The Darkness Crystal,{2}{B}{B},4.0,Legendary Artifact,"Black spells you cast cost {1} less to cast.
+If a nontoken creature an opponent controls would die, instead exile it and you gain 2 life.
+{4}{B}{B}, {T}: Put target creature card exiled with The Darkness Crystal onto the battlefield tapped under your control with two additional +1/+1 counters on it.",B,B,rare,PFIN,Final Fantasy Promos,96s,,,,
+The Dominion Bracelet,{2},2.0,Legendary Artifact — Equipment,"Equipped creature gets +1/+1 and has ""{15}, Exile The Dominion Bracelet: You control target opponent during their next turn. This ability costs {X} less to activate, where X is this creature's power. Activate only as a sorcery."" (You see all cards that player could see and make all decisions for them.)
+Equip {1}",,,mythic,PEOE,Edge of Eternities Promos,239p,,,,Equip
+The Dominion Bracelet,{2},2.0,Legendary Artifact — Equipment,"Equipped creature gets +1/+1 and has ""{15}, Exile The Dominion Bracelet: You control target opponent during their next turn. This ability costs {X} less to activate, where X is this creature's power. Activate only as a sorcery."" (You see all cards that player could see and make all decisions for them.)
+Equip {1}",,,mythic,EOE,Edge of Eternities,364,,,,Equip
+The Dominion Bracelet,{2},2.0,Legendary Artifact — Equipment,"Equipped creature gets +1/+1 and has ""{15}, Exile The Dominion Bracelet: You control target opponent during their next turn. This ability costs {X} less to activate, where X is this creature's power. Activate only as a sorcery."" (You see all cards that player could see and make all decisions for them.)
+Equip {1}",,,mythic,PEOE,Edge of Eternities Promos,239s,,,,Equip
+The Dominion Bracelet,{2},2.0,Legendary Artifact — Equipment,"Equipped creature gets +1/+1 and has ""{15}, Exile The Dominion Bracelet: You control target opponent during their next turn. This ability costs {X} less to activate, where X is this creature's power. Activate only as a sorcery."" (You see all cards that player could see and make all decisions for them.)
+Equip {1}",,,mythic,EOE,Edge of Eternities,352,,,,Equip
+The Dominion Bracelet,{2},2.0,Legendary Artifact — Equipment,"Equipped creature gets +1/+1 and has ""{15}, Exile The Dominion Bracelet: You control target opponent during their next turn. This ability costs {X} less to activate, where X is this creature's power. Activate only as a sorcery."" (You see all cards that player could see and make all decisions for them.)
+Equip {1}",,,mythic,EOE,Edge of Eternities,390,,,,Equip
+The Dominion Bracelet,{2},2.0,Legendary Artifact — Equipment,"Equipped creature gets +1/+1 and has ""{15}, Exile The Dominion Bracelet: You control target opponent during their next turn. This ability costs {X} less to activate, where X is this creature's power. Activate only as a sorcery."" (You see all cards that player could see and make all decisions for them.)
+Equip {1}",,,mythic,EOE,Edge of Eternities,239,,,,Equip
+The Earth Crystal,{2}{G}{G},4.0,Legendary Artifact,"Green spells you cast cost {1} less to cast.
+If one or more +1/+1 counters would be put on a creature you control, twice that many +1/+1 counters are put on that creature instead.
+{4}{G}{G}, {T}: Distribute two +1/+1 counters among one or two target creatures you control.",G,G,rare,PFIN,Final Fantasy Promos,184s,,,,
+The Earth Crystal,{2}{G}{G},4.0,Legendary Artifact,"Green spells you cast cost {1} less to cast.
+If one or more +1/+1 counters would be put on a creature you control, twice that many +1/+1 counters are put on that creature instead.
+{4}{G}{G}, {T}: Distribute two +1/+1 counters among one or two target creatures you control.",G,G,rare,FIN,Final Fantasy,342,,,,
+The Earth Crystal,{2}{G}{G},4.0,Legendary Artifact,"Green spells you cast cost {1} less to cast.
+If one or more +1/+1 counters would be put on a creature you control, twice that many +1/+1 counters are put on that creature instead.
+{4}{G}{G}, {T}: Distribute two +1/+1 counters among one or two target creatures you control.",G,G,rare,FIN,Final Fantasy,184,,,,
+The Endstone,{7},7.0,Legendary Artifact,"Whenever you play a land or cast a spell, draw a card.
+At the beginning of your end step, your life total becomes half your starting life total, rounded up.",,,mythic,EOE,Edge of Eternities,391,,,,
+The Endstone,{7},7.0,Legendary Artifact,"Whenever you play a land or cast a spell, draw a card.
+At the beginning of your end step, your life total becomes half your starting life total, rounded up.",,,mythic,PEOE,Edge of Eternities Promos,240p,,,,
+The Endstone,{7},7.0,Legendary Artifact,"Whenever you play a land or cast a spell, draw a card.
+At the beginning of your end step, your life total becomes half your starting life total, rounded up.",,,mythic,PEOE,Edge of Eternities Promos,240s,,,,
+The Endstone,{7},7.0,Legendary Artifact,"Whenever you play a land or cast a spell, draw a card.
+At the beginning of your end step, your life total becomes half your starting life total, rounded up.",,,mythic,EOE,Edge of Eternities,353,,,,
+The Endstone,{7},7.0,Legendary Artifact,"Whenever you play a land or cast a spell, draw a card.
+At the beginning of your end step, your life total becomes half your starting life total, rounded up.",,,mythic,EOE,Edge of Eternities,240,,,,
+The Endstone,{7},7.0,Legendary Artifact,"Whenever you play a land or cast a spell, draw a card.
+At the beginning of your end step, your life total becomes half your starting life total, rounded up.",,,mythic,EOE,Edge of Eternities,365,,,,
+The Enigma Jewel // Locus of Enlightenment,,1.0,Legendary Artifact // Legendary Artifact,,,U,mythic,LCI,The Lost Caverns of Ixalan,55,,,,Craft;Transform
+The Enigma Jewel // Locus of Enlightenment,,1.0,Legendary Artifact // Legendary Artifact,,,U,mythic,LCI,The Lost Caverns of Ixalan,362,,,,Craft;Transform
+The Eternity Elevator,{5},5.0,Legendary Artifact — Spacecraft,"{T}: Add {C}{C}{C}.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)
+20+ | {T}: Add X mana of any one color, where X is the number of charge counters on The Eternity Elevator.",,,rare,EOE,Edge of Eternities,241,,,,Station
+The Eternity Elevator,{5},5.0,Legendary Artifact — Spacecraft,"{T}: Add {C}{C}{C}.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)
+20+ | {T}: Add X mana of any one color, where X is the number of charge counters on The Eternity Elevator.",,,rare,EOE,Edge of Eternities,354,,,,Station
+The Eternity Elevator,{5},5.0,Legendary Artifact — Spacecraft,"{T}: Add {C}{C}{C}.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)
+20+ | {T}: Add X mana of any one color, where X is the number of charge counters on The Eternity Elevator.",,,rare,PEOE,Edge of Eternities Promos,241s,,,,Station
+The Eternity Elevator,{5},5.0,Legendary Artifact — Spacecraft,"{T}: Add {C}{C}{C}.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)
+20+ | {T}: Add X mana of any one color, where X is the number of charge counters on The Eternity Elevator.",,,rare,PEOE,Edge of Eternities Promos,241p,,,,Station
+The Everflowing Well // The Myriad Pools,,3.0,Legendary Artifact // Legendary Artifact Land,,,U,rare,LCI,The Lost Caverns of Ixalan,363,,,,Transform;Descend;Mill
+The Everflowing Well // The Myriad Pools,,3.0,Legendary Artifact // Legendary Artifact Land,,,U,rare,LCI,The Lost Caverns of Ixalan,56,,,,Transform;Descend;Mill
+The Fire Crystal,{2}{R}{R},4.0,Legendary Artifact,"Red spells you cast cost {1} less to cast.
+Creatures you control have haste.
+{4}{R}{R}, {T}: Create a token that's a copy of target creature you control. Sacrifice it at the beginning of the next end step.",R,R,rare,FIN,Final Fantasy,337,,,,
+The Fire Crystal,{2}{R}{R},4.0,Legendary Artifact,"Red spells you cast cost {1} less to cast.
+Creatures you control have haste.
+{4}{R}{R}, {T}: Create a token that's a copy of target creature you control. Sacrifice it at the beginning of the next end step.",R,R,rare,PFIN,Final Fantasy Promos,135s,,,,
+The Fire Crystal,{2}{R}{R},4.0,Legendary Artifact,"Red spells you cast cost {1} less to cast.
+Creatures you control have haste.
+{4}{R}{R}, {T}: Create a token that's a copy of target creature you control. Sacrifice it at the beginning of the next end step.",R,R,rare,FIN,Final Fantasy,135,,,,
+The Fire Nation Drill,{2}{B}{B},4.0,Legendary Artifact — Vehicle,"Trample
+When The Fire Nation Drill enters, you may tap it. When you do, destroy target creature with power 4 or less.
+{1}: Permanents your opponents control lose hexproof and indestructible until end of turn.
+Crew 2",B,B,rare,TLA,Avatar: The Last Airbender,98,6,3,,Crew;Trample
+The Fire Nation Drill,{2}{B}{B},4.0,Legendary Artifact — Vehicle,"Trample
+When The Fire Nation Drill enters, you may tap it. When you do, destroy target creature with power 4 or less.
+{1}: Permanents your opponents control lose hexproof and indestructible until end of turn.
+Crew 2",B,B,rare,PTLA,Avatar: The Last Airbender Promos,98s,6,3,,Crew;Trample
+The Fire Nation Drill,{2}{B}{B},4.0,Legendary Artifact — Vehicle,"Trample
+When The Fire Nation Drill enters, you may tap it. When you do, destroy target creature with power 4 or less.
+{1}: Permanents your opponents control lose hexproof and indestructible until end of turn.
+Crew 2",B,B,rare,TLA,Avatar: The Last Airbender,321,6,3,,Crew;Trample
+The Irencrag,{2},2.0,Legendary Artifact,"{T}: Add {C}.
+Whenever a legendary creature you control enters, you may have The Irencrag become a legendary Equipment artifact named Everflame, Heroes' Legacy. If you do, it gains equip {3} and ""Equipped creature gets +3/+3"" and loses all other abilities.",,,rare,PWOE,Wilds of Eldraine Promos,248p,,,,
+The Irencrag,{2},2.0,Legendary Artifact,"{T}: Add {C}.
+Whenever a legendary creature you control enters, you may have The Irencrag become a legendary Equipment artifact named Everflame, Heroes' Legacy. If you do, it gains equip {3} and ""Equipped creature gets +3/+3"" and loses all other abilities.",,,rare,WOE,Wilds of Eldraine,248,,,,
+The Irencrag,{2},2.0,Legendary Artifact,"{T}: Add {C}.
+Whenever a legendary creature you control enters, you may have The Irencrag become a legendary Equipment artifact named Everflame, Heroes' Legacy. If you do, it gains equip {3} and ""Equipped creature gets +3/+3"" and loses all other abilities.",,,rare,WOE,Wilds of Eldraine,368,,,,
+The Irencrag,{2},2.0,Legendary Artifact,"{T}: Add {C}.
+Whenever a legendary creature you control enters, you may have The Irencrag become a legendary Equipment artifact named Everflame, Heroes' Legacy. If you do, it gains equip {3} and ""Equipped creature gets +3/+3"" and loses all other abilities.",,,rare,PWOE,Wilds of Eldraine Promos,248s,,,,
+The Key to the Vault,{1}{U},2.0,Legendary Artifact — Equipment,"Whenever equipped creature deals combat damage to a player, look at that many cards from the top of your library. You may exile a nonland card from among them. Put the rest on the bottom of your library in a random order. You may cast the exiled card without paying its mana cost.
+Equip {2}{U}",U,U,rare,OTJ,Outlaws of Thunder Junction,54,,,,Equip
+The Key to the Vault,{1}{U},2.0,Legendary Artifact — Equipment,"Whenever equipped creature deals combat damage to a player, look at that many cards from the top of your library. You may exile a nonland card from among them. Put the rest on the bottom of your library in a random order. You may cast the exiled card without paying its mana cost.
+Equip {2}{U}",U,U,rare,OTJ,Outlaws of Thunder Junction,320,,,,Equip
+The Key to the Vault,{1}{U},2.0,Legendary Artifact — Equipment,"Whenever equipped creature deals combat damage to a player, look at that many cards from the top of your library. You may exile a nonland card from among them. Put the rest on the bottom of your library in a random order. You may cast the exiled card without paying its mana cost.
+Equip {2}{U}",U,U,rare,POTJ,Outlaws of Thunder Junction Promos,54s,,,,Equip
+The Key to the Vault,{1}{U},2.0,Legendary Artifact — Equipment,"Whenever equipped creature deals combat damage to a player, look at that many cards from the top of your library. You may exile a nonland card from among them. Put the rest on the bottom of your library in a random order. You may cast the exiled card without paying its mana cost.
+Equip {2}{U}",U,U,rare,OTJ,Outlaws of Thunder Junction,373,,,,Equip
+The Key to the Vault,{1}{U},2.0,Legendary Artifact — Equipment,"Whenever equipped creature deals combat damage to a player, look at that many cards from the top of your library. You may exile a nonland card from among them. Put the rest on the bottom of your library in a random order. You may cast the exiled card without paying its mana cost.
+Equip {2}{U}",U,U,rare,POTJ,Outlaws of Thunder Junction Promos,54p,,,,Equip
+The Last Ride,{B},1.0,Legendary Artifact — Vehicle,"The Last Ride gets -X/-X, where X is your life total.
+{2}{B}, Pay 2 life: Draw a card.
+Crew 2",B,B,mythic,PDFT,Aetherdrift Promos,94s,13,13,,Crew
+The Last Ride,{B},1.0,Legendary Artifact — Vehicle,"The Last Ride gets -X/-X, where X is your life total.
+{2}{B}, Pay 2 life: Draw a card.
+Crew 2",B,B,mythic,PDFT,Aetherdrift Promos,94p,13,13,,Crew
+The Last Ride,{B},1.0,Legendary Artifact — Vehicle,"The Last Ride gets -X/-X, where X is your life total.
+{2}{B}, Pay 2 life: Draw a card.
+Crew 2",B,B,mythic,DFT,Aetherdrift,94,13,13,,Crew
+The Last Ride,{B},1.0,Legendary Artifact — Vehicle,"The Last Ride gets -X/-X, where X is your life total.
+{2}{B}, Pay 2 life: Draw a card.
+Crew 2",B,B,mythic,DFT,Aetherdrift,451,13,13,,Crew
+The Last Ride,{B},1.0,Legendary Artifact — Vehicle,"The Last Ride gets -X/-X, where X is your life total.
+{2}{B}, Pay 2 life: Draw a card.
+Crew 2",B,B,mythic,DFT,Aetherdrift,308,13,13,,Crew
+The Last Ride,{B},1.0,Legendary Artifact — Vehicle,"The Last Ride gets -X/-X, where X is your life total.
+{2}{B}, Pay 2 life: Draw a card.
+Crew 2",B,B,mythic,DFT,Aetherdrift,525,13,13,,Crew
+The Lunar Whale,{3}{U},4.0,Legendary Artifact — Vehicle,"Flying
+You may look at the top card of your library any time.
+As long as The Lunar Whale attacked this turn, you may play the top card of your library.
+Crew 1",U,U,rare,PFIN,Final Fantasy Promos,60s,3,5,,Flying;Crew
+The Lunar Whale,{3}{U},4.0,Legendary Artifact — Vehicle,"Flying
+You may look at the top card of your library any time.
+As long as The Lunar Whale attacked this turn, you may play the top card of your library.
+Crew 1",U,U,rare,FIN,Final Fantasy,60,3,5,,Flying;Crew
+The Masamune,{3},3.0,Legendary Artifact — Equipment,"As long as equipped creature is attacking, it has first strike and must be blocked if able.
+Equipped creature has ""If a creature dying causes a triggered ability of this creature or an emblem you own to trigger, that ability triggers an additional time.""
+Equip {2}",,,rare,PFIN,Final Fantasy Promos,264s,,,,Equip
+The Masamune,{3},3.0,Legendary Artifact — Equipment,"As long as equipped creature is attacking, it has first strike and must be blocked if able.
+Equipped creature has ""If a creature dying causes a triggered ability of this creature or an emblem you own to trigger, that ability triggers an additional time.""
+Equip {2}",,,rare,FIN,Final Fantasy,353,,,,Equip
+The Masamune,{3},3.0,Legendary Artifact — Equipment,"As long as equipped creature is attacking, it has first strike and must be blocked if able.
+Equipped creature has ""If a creature dying causes a triggered ability of this creature or an emblem you own to trigger, that ability triggers an additional time.""
+Equip {2}",,,rare,FIN,Final Fantasy,264,,,,Equip
+The Millennium Calendar,{1},1.0,Legendary Artifact,"Whenever you untap one or more permanents during your untap step, put that many time counters on The Millennium Calendar.
+{2}, {T}: Double the number of time counters on The Millennium Calendar.
+When there are 1,000 or more time counters on The Millennium Calendar, sacrifice it and each opponent loses 1,000 life.",,,mythic,PLCI,The Lost Caverns of Ixalan Promos,257p,,,,
+The Millennium Calendar,{1},1.0,Legendary Artifact,"Whenever you untap one or more permanents during your untap step, put that many time counters on The Millennium Calendar.
+{2}, {T}: Double the number of time counters on The Millennium Calendar.
+When there are 1,000 or more time counters on The Millennium Calendar, sacrifice it and each opponent loses 1,000 life.",,,mythic,LCI,The Lost Caverns of Ixalan,388,,,,
+The Millennium Calendar,{1},1.0,Legendary Artifact,"Whenever you untap one or more permanents during your untap step, put that many time counters on The Millennium Calendar.
+{2}, {T}: Double the number of time counters on The Millennium Calendar.
+When there are 1,000 or more time counters on The Millennium Calendar, sacrifice it and each opponent loses 1,000 life.",,,mythic,PLCI,The Lost Caverns of Ixalan Promos,257s,,,,
+The Millennium Calendar,{1},1.0,Legendary Artifact,"Whenever you untap one or more permanents during your untap step, put that many time counters on The Millennium Calendar.
+{2}, {T}: Double the number of time counters on The Millennium Calendar.
+When there are 1,000 or more time counters on The Millennium Calendar, sacrifice it and each opponent loses 1,000 life.",,,mythic,LCI,The Lost Caverns of Ixalan,257,,,,
+The Ooze,{2},2.0,Legendary Artifact,"Whenever a creature you control with a +1/+1 counter on it leaves the battlefield, create a Mutagen token for each +1/+1 counter on it. (A Mutagen token is an artifact with ""{1}, {T}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery."")
+{T}: Exile target card from a graveyard. Create a Mutagen token.",,,rare,TMT,Teenage Mutant Ninja Turtles,177,,,,
+The Ooze,{2},2.0,Legendary Artifact,"Whenever a creature you control with a +1/+1 counter on it leaves the battlefield, create a Mutagen token for each +1/+1 counter on it. (A Mutagen token is an artifact with ""{1}, {T}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery."")
+{T}: Exile target card from a graveyard. Create a Mutagen token.",,,rare,TMT,Teenage Mutant Ninja Turtles,277,,,,
+The Prima Vista,{4}{U},5.0,Legendary Artifact — Vehicle,"Flying
+Whenever you cast a noncreature spell, if at least four mana was spent to cast it, The Prima Vista becomes an artifact creature until end of turn.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)",U,U,uncommon,FIN,Final Fantasy,64,5,3,,Flying;Crew
+The Regalia,{4},4.0,Legendary Artifact — Vehicle,"Haste
+Whenever The Regalia attacks, reveal cards from the top of your library until you reveal a land card. Put that card onto the battlefield tapped and the rest on the bottom of your library in a random order.
+Crew 1",,,rare,PFIN,Final Fantasy Promos,267s,4,4,,Haste;Crew
+The Regalia,{4},4.0,Legendary Artifact — Vehicle,"Haste
+Whenever The Regalia attacks, reveal cards from the top of your library until you reveal a land card. Put that card onto the battlefield tapped and the rest on the bottom of your library in a random order.
+Crew 1",,,rare,FIN,Final Fantasy,267,4,4,,Haste;Crew
+The Seriema,{1}{W}{W},3.0,Legendary Artifact — Spacecraft,"When The Seriema enters, search your library for a legendary creature card, reveal it, put it into your hand, then shuffle.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 7+.)
+7+ | Flying
+Other tapped legendary creatures you control have indestructible.",W,W,rare,PEOE,Edge of Eternities Promos,35p,5,5,,Station
+The Seriema,{1}{W}{W},3.0,Legendary Artifact — Spacecraft,"When The Seriema enters, search your library for a legendary creature card, reveal it, put it into your hand, then shuffle.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 7+.)
+7+ | Flying
+Other tapped legendary creatures you control have indestructible.",W,W,rare,EOE,Edge of Eternities,323,5,5,,Station
+The Seriema,{1}{W}{W},3.0,Legendary Artifact — Spacecraft,"When The Seriema enters, search your library for a legendary creature card, reveal it, put it into your hand, then shuffle.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 7+.)
+7+ | Flying
+Other tapped legendary creatures you control have indestructible.",W,W,rare,PEOE,Edge of Eternities Promos,35s,5,5,,Station
+The Seriema,{1}{W}{W},3.0,Legendary Artifact — Spacecraft,"When The Seriema enters, search your library for a legendary creature card, reveal it, put it into your hand, then shuffle.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 7+.)
+7+ | Flying
+Other tapped legendary creatures you control have indestructible.",W,W,rare,EOE,Edge of Eternities,35,5,5,,Station
+The Skullspore Nexus,{6}{G}{G},8.0,Legendary Artifact,"This spell costs {X} less to cast, where X is the greatest power among creatures you control.
+Whenever one or more nontoken creatures you control die, create a green Fungus Dinosaur creature token with base power and toughness each equal to the total power of those creatures.
+{2}, {T}: Double target creature's power until end of turn.",G,G,mythic,LCI,The Lost Caverns of Ixalan,340,,,,
+The Skullspore Nexus,{6}{G}{G},8.0,Legendary Artifact,"This spell costs {X} less to cast, where X is the greatest power among creatures you control.
+Whenever one or more nontoken creatures you control die, create a green Fungus Dinosaur creature token with base power and toughness each equal to the total power of those creatures.
+{2}, {T}: Double target creature's power until end of turn.",G,G,mythic,PLCI,The Lost Caverns of Ixalan Promos,212s,,,,
+The Skullspore Nexus,{6}{G}{G},8.0,Legendary Artifact,"This spell costs {X} less to cast, where X is the greatest power among creatures you control.
+Whenever one or more nontoken creatures you control die, create a green Fungus Dinosaur creature token with base power and toughness each equal to the total power of those creatures.
+{2}, {T}: Double target creature's power until end of turn.",G,G,mythic,LCI,The Lost Caverns of Ixalan,212,,,,
+The Skullspore Nexus,{6}{G}{G},8.0,Legendary Artifact,"This spell costs {X} less to cast, where X is the greatest power among creatures you control.
+Whenever one or more nontoken creatures you control die, create a green Fungus Dinosaur creature token with base power and toughness each equal to the total power of those creatures.
+{2}, {T}: Double target creature's power until end of turn.",G,G,mythic,PLCI,The Lost Caverns of Ixalan Promos,212p,,,,
+The Soul Stone,{1}{B},2.0,Legendary Artifact — Infinity Stone,"Indestructible
+{T}: Add {B}.
+{6}{B}, {T}, Exile a creature you control: Harness The Soul Stone. (Once harnessed, its ∞ ability is active.)
+∞ — At the beginning of your upkeep, return target creature card from your graveyard to the battlefield.",B,B,mythic,SPM,Marvel's Spider-Man,66,,,,Indestructible
+The Soul Stone,{1}{B},2.0,Legendary Artifact — Infinity Stone,"Indestructible
+{T}: Add {B}.
+{6}{B}, {T}, Exile a creature you control: Harness The Soul Stone. (Once harnessed, its ∞ ability is active.)
+∞ — At the beginning of your upkeep, return target creature card from your graveyard to the battlefield.",B,B,mythic,SPM,Marvel's Spider-Man,242,,,,Indestructible
+The Soul Stone,{1}{B},2.0,Legendary Artifact — Infinity Stone,"Indestructible
+{T}: Add {B}.
+{6}{B}, {T}, Exile a creature you control: Harness The Soul Stone. (Once harnessed, its ∞ ability is active.)
+∞ — At the beginning of your upkeep, return target creature card from your graveyard to the battlefield.",B,B,mythic,PSPM,Marvel's Spider-Man Promos,66s,,,,Indestructible
+The Soul Stone,{1}{B},2.0,Legendary Artifact — Infinity Stone,"Indestructible
+{T}: Add {B}.
+{6}{B}, {T}, Exile a creature you control: Harness The Soul Stone. (Once harnessed, its ∞ ability is active.)
+∞ — At the beginning of your upkeep, return target creature card from your graveyard to the battlefield.",B,B,mythic,OM1,Through the Omenpaths,69,,,,Indestructible
+The Soul Stone,{1}{B},2.0,Legendary Artifact — Infinity Stone,"Indestructible
+{T}: Add {B}.
+{6}{B}, {T}, Exile a creature you control: Harness The Soul Stone. (Once harnessed, its ∞ ability is active.)
+∞ — At the beginning of your upkeep, return target creature card from your graveyard to the battlefield.",B,B,mythic,SPM,Marvel's Spider-Man,243,,,,Indestructible
+The Water Crystal,{2}{U}{U},4.0,Legendary Artifact,"Blue spells you cast cost {1} less to cast.
+If an opponent would mill one or more cards, they mill that many cards plus four instead.
+{4}{U}{U}, {T}: Each opponent mills cards equal to the number of cards in your hand.",U,U,rare,PFIN,Final Fantasy Promos,85s,,,,Mill
+The Water Crystal,{2}{U}{U},4.0,Legendary Artifact,"Blue spells you cast cost {1} less to cast.
+If an opponent would mill one or more cards, they mill that many cards plus four instead.
+{4}{U}{U}, {T}: Each opponent mills cards equal to the number of cards in your hand.",U,U,rare,FIN,Final Fantasy,333,,,,Mill
+The Water Crystal,{2}{U}{U},4.0,Legendary Artifact,"Blue spells you cast cost {1} less to cast.
+If an opponent would mill one or more cards, they mill that many cards plus four instead.
+{4}{U}{U}, {T}: Each opponent mills cards equal to the number of cards in your hand.",U,U,rare,FIN,Final Fantasy,85,,,,Mill
+The Wind Crystal,{2}{W}{W},4.0,Legendary Artifact,"White spells you cast cost {1} less to cast.
+If you would gain life, you gain twice that much life instead.
+{4}{W}{W}, {T}: Creatures you control gain flying and lifelink until end of turn.",W,W,rare,FIN,Final Fantasy,43,,,,
+The Wind Crystal,{2}{W}{W},4.0,Legendary Artifact,"White spells you cast cost {1} less to cast.
+If you would gain life, you gain twice that much life instead.
+{4}{W}{W}, {T}: Creatures you control gain flying and lifelink until end of turn.",W,W,rare,FIN,Final Fantasy,330,,,,
+The Wind Crystal,{2}{W}{W},4.0,Legendary Artifact,"White spells you cast cost {1} less to cast.
+If you would gain life, you gain twice that much life instead.
+{4}{W}{W}, {T}: Creatures you control gain flying and lifelink until end of turn.",W,W,rare,PFIN,Final Fantasy Promos,43s,,,,
+Thief's Knife,{2}{U},3.0,Artifact — Equipment,"Job select (When this Equipment enters, create a 1/1 colorless Hero creature token, then attach this to it.)
+Equipped creature gets +1/+1, has ""Whenever this creature deals combat damage to a player, draw a card,"" and is a Rogue in addition to its other types.
+Equip {4}",U,U,uncommon,FIN,Final Fantasy,81,,,,Job select;Equip
+Thinking Cap,{1},1.0,Artifact — Equipment,"Equipped creature gets +1/+2.
+Equip Detective {1}
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",,,common,MKM,Murders at Karlov Manor,257,,,,Equip
+Thopter Fabricator,{2}{U},3.0,Artifact — Vehicle,"Flying
+Whenever you draw your second card each turn, create a 1/1 colorless Thopter artifact creature token with flying.
+Crew 2",U,U,rare,DFT,Aetherdrift,304,4,4,,Flying;Crew
+Thopter Fabricator,{2}{U},3.0,Artifact — Vehicle,"Flying
+Whenever you draw your second card each turn, create a 1/1 colorless Thopter artifact creature token with flying.
+Crew 2",U,U,rare,DFT,Aetherdrift,522,4,4,,Flying;Crew
+Thopter Fabricator,{2}{U},3.0,Artifact — Vehicle,"Flying
+Whenever you draw your second card each turn, create a 1/1 colorless Thopter artifact creature token with flying.
+Crew 2",U,U,rare,DFT,Aetherdrift,68,4,4,,Flying;Crew
+Thopter Fabricator,{2}{U},3.0,Artifact — Vehicle,"Flying
+Whenever you draw your second card each turn, create a 1/1 colorless Thopter artifact creature token with flying.
+Crew 2",U,U,rare,DFT,Aetherdrift,441,4,4,,Flying;Crew
+Thopter Fabricator,{2}{U},3.0,Artifact — Vehicle,"Flying
+Whenever you draw your second card each turn, create a 1/1 colorless Thopter artifact creature token with flying.
+Crew 2",U,U,rare,PDFT,Aetherdrift Promos,68s,4,4,,Flying;Crew
+Thopter Fabricator,{2}{U},3.0,Artifact — Vehicle,"Flying
+Whenever you draw your second card each turn, create a 1/1 colorless Thopter artifact creature token with flying.
+Crew 2",U,U,rare,PDFT,Aetherdrift Promos,68p,4,4,,Flying;Crew
+Thousand Moons Smithy // Barracks of the Thousand,,4.0,Legendary Artifact // Legendary Artifact Land,,,W,rare,LCI,The Lost Caverns of Ixalan,39,,,,Transform
+Thousand Moons Smithy // Barracks of the Thousand,,4.0,Legendary Artifact // Legendary Artifact Land,,,W,rare,LCI,The Lost Caverns of Ixalan,357,,,,Transform
+Three Bowls of Porridge,{2},2.0,Artifact — Food,"{2}, {T}: Choose one that hasn't been chosen —
+• This artifact deals 2 damage to target creature.
+• Tap target creature.
+• Sacrifice this artifact. You gain 3 life.",,,uncommon,WOE,Wilds of Eldraine,253,,,,
+Thrumming Hivepool,{6},6.0,Artifact,"Affinity for Slivers (This spell costs {1} less to cast for each Sliver you control.)
+Slivers you control have double strike and haste.
+At the beginning of your upkeep, create two 1/1 colorless Sliver creature tokens.",,,rare,PEOE,Edge of Eternities Promos,247s,,,,Affinity
+Thrumming Hivepool,{6},6.0,Artifact,"Affinity for Slivers (This spell costs {1} less to cast for each Sliver you control.)
+Slivers you control have double strike and haste.
+At the beginning of your upkeep, create two 1/1 colorless Sliver creature tokens.",,,rare,EOE,Edge of Eternities,247,,,,Affinity
+Thrumming Hivepool,{6},6.0,Artifact,"Affinity for Slivers (This spell costs {1} less to cast for each Sliver you control.)
+Slivers you control have double strike and haste.
+At the beginning of your upkeep, create two 1/1 colorless Sliver creature tokens.",,,rare,PEOE,Edge of Eternities Promos,247p,,,,Affinity
+Thrumming Hivepool,{6},6.0,Artifact,"Affinity for Slivers (This spell costs {1} less to cast for each Sliver you control.)
+Slivers you control have double strike and haste.
+At the beginning of your upkeep, create two 1/1 colorless Sliver creature tokens.",,,rare,EOE,Edge of Eternities,356,,,,Affinity
+Thunder Lasso,{2}{W},3.0,Artifact — Equipment,"When this Equipment enters, attach it to target creature you control.
+Equipped creature gets +1/+1.
+Whenever equipped creature attacks, tap target creature defending player controls.
+Equip {2}",W,W,uncommon,OTJ,Outlaws of Thunder Junction,35,,,,Equip
+Thundering Broodwagon,{2}{B}{B}{G}{G},6.0,Artifact — Vehicle,"Menace, reach
+When this Vehicle enters, destroy target nonland permanent an opponent controls with mana value 4 or less.
+Crew 3
+Cycling {2} ({2}, Discard this card: Draw a card.)","B,G","B,G",uncommon,DFT,Aetherdrift,225,6,5,,Reach;Crew;Menace;Cycling
+Thundering Broodwagon,{2}{B}{B}{G}{G},6.0,Artifact — Vehicle,"Menace, reach
+When this Vehicle enters, destroy target nonland permanent an opponent controls with mana value 4 or less.
+Crew 3
+Cycling {2} ({2}, Discard this card: Draw a card.)","B,G","B,G",uncommon,DFT,Aetherdrift,328,6,5,,Reach;Crew;Menace;Cycling
+Thunderous Velocipede,{1}{G}{G},3.0,Artifact — Vehicle,"Trample
+Each other Vehicle and creature you control enters with an additional +1/+1 counter on it if its mana value is 4 or less. Otherwise, it enters with three additional +1/+1 counters on it.
+Crew 3",G,G,mythic,PDFT,Aetherdrift Promos,183p,5,5,,Crew;Trample
+Thunderous Velocipede,{1}{G}{G},3.0,Artifact — Vehicle,"Trample
+Each other Vehicle and creature you control enters with an additional +1/+1 counter on it if its mana value is 4 or less. Otherwise, it enters with three additional +1/+1 counters on it.
+Crew 3",G,G,mythic,DFT,Aetherdrift,317,5,5,,Crew;Trample
+Thunderous Velocipede,{1}{G}{G},3.0,Artifact — Vehicle,"Trample
+Each other Vehicle and creature you control enters with an additional +1/+1 counter on it if its mana value is 4 or less. Otherwise, it enters with three additional +1/+1 counters on it.
+Crew 3",G,G,mythic,DFT,Aetherdrift,183,5,5,,Crew;Trample
+Thunderous Velocipede,{1}{G}{G},3.0,Artifact — Vehicle,"Trample
+Each other Vehicle and creature you control enters with an additional +1/+1 counter on it if its mana value is 4 or less. Otherwise, it enters with three additional +1/+1 counters on it.
+Crew 3",G,G,mythic,DFT,Aetherdrift,529,5,5,,Crew;Trample
+Thunderous Velocipede,{1}{G}{G},3.0,Artifact — Vehicle,"Trample
+Each other Vehicle and creature you control enters with an additional +1/+1 counter on it if its mana value is 4 or less. Otherwise, it enters with three additional +1/+1 counters on it.
+Crew 3",G,G,mythic,PDFT,Aetherdrift Promos,183s,5,5,,Crew;Trample
+Thunderous Velocipede,{1}{G}{G},3.0,Artifact — Vehicle,"Trample
+Each other Vehicle and creature you control enters with an additional +1/+1 counter on it if its mana value is 4 or less. Otherwise, it enters with three additional +1/+1 counters on it.
+Crew 3",G,G,mythic,DFT,Aetherdrift,471,5,5,,Crew;Trample
+Tinker's Tote,{2}{W},3.0,Artifact,"When this artifact enters, create two 1/1 colorless Gnome artifact creature tokens.
+{W}, Sacrifice this artifact: You gain 3 life.",W,W,common,LCI,The Lost Caverns of Ixalan,40,,,,
+Tithing Blade // Consuming Sepulcher,,2.0,Artifact // Artifact,,,B,common,LCI,The Lost Caverns of Ixalan,128,,,,Craft;Transform
+Torpor Orb,{2},2.0,Artifact,Creatures entering don't cause abilities to trigger.,,,mythic,BIG,The Big Score,57,,,,
+Torpor Orb,{2},2.0,Artifact,Creatures entering don't cause abilities to trigger.,,,rare,MB2,Mystery Booster 2,236,,,,
+Torpor Orb,{2},2.0,Artifact,Creatures entering don't cause abilities to trigger.,,,mythic,PBIG,The Big Score Promos,27p,,,,
+Torpor Orb,{2},2.0,Artifact,Creatures entering don't cause abilities to trigger.,,,rare,NPH,New Phyrexia,162,,,,
+Torpor Orb,{2},2.0,Artifact,Creatures entering don't cause abilities to trigger.,,,mythic,BIG,The Big Score,92,,,,
+Torpor Orb,{2},2.0,Artifact,Creatures entering don't cause abilities to trigger.,,,mythic,BIG,The Big Score,27,,,,
+Transmutation Font,{5},5.0,Artifact,"{T}: Create your choice of a Blood token, a Clue token, or a Food token.
+{3}, {T}, Sacrifice three artifact tokens with different names: Search your library for an artifact card, put it onto the battlefield, then shuffle. Activate only as a sorcery.",,,mythic,BIG,The Big Score,93,,,,Food
+Transmutation Font,{5},5.0,Artifact,"{T}: Create your choice of a Blood token, a Clue token, or a Food token.
+{3}, {T}, Sacrifice three artifact tokens with different names: Search your library for an artifact card, put it onto the battlefield, then shuffle. Activate only as a sorcery.",,,mythic,BIG,The Big Score,58,,,,Food
+Transmutation Font,{5},5.0,Artifact,"{T}: Create your choice of a Blood token, a Clue token, or a Food token.
+{3}, {T}, Sacrifice three artifact tokens with different names: Search your library for an artifact card, put it onto the battlefield, then shuffle. Activate only as a sorcery.",,,mythic,PW24,Wizards Play Network 2024,11,,,,Food
+Transmutation Font,{5},5.0,Artifact,"{T}: Create your choice of a Blood token, a Clue token, or a Food token.
+{3}, {T}, Sacrifice three artifact tokens with different names: Search your library for an artifact card, put it onto the battlefield, then shuffle. Activate only as a sorcery.",,,mythic,BIG,The Big Score,28,,,,Food
+Treasure Map // Treasure Cove,,2.0,Artifact // Land,,,,rare,PXLN,Ixalan Promos,250s,,,,Transform;Treasure;Scry
+Treasure Map // Treasure Cove,,2.0,Artifact // Land,,,,rare,PXTC,XLN Treasure Chest,250,,,,Transform;Treasure;Scry
+Treasure Map // Treasure Cove,,2.0,Artifact // Land,,,,rare,LCI,The Lost Caverns of Ixalan,391,,,,Transform;Treasure;Scry
+Treasure Map // Treasure Cove,,2.0,Artifact // Land,,,,rare,PLST,The List,XLN-250,,,,Transform;Treasure;Scry
+Treasure Map // Treasure Cove,,2.0,Artifact // Land,,,,rare,LCI,The Lost Caverns of Ixalan,267,,,,Transform;Treasure;Scry
+Treasure Map // Treasure Cove,,2.0,Artifact // Land,,,,rare,XLN,Ixalan,250,,,,Transform;Treasure;Scry
+Trusty Boomerang,{1},1.0,Artifact — Equipment,"Equipped creature has ""{1}, {T}: Tap target creature. Return Trusty Boomerang to its owner's hand.""
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",,,uncommon,TLA,Avatar: The Last Airbender,260,,,,Equip
+Tundra Tank,{2}{B},3.0,Artifact — Vehicle,"Firebending 1 (Whenever this creature attacks, add {R}. This mana lasts until end of combat.)
+When this Vehicle enters, target creature you control gains indestructible until end of turn.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)",B,B,uncommon,TLA,Avatar: The Last Airbender,121,4,4,,Crew;Firebending
+Turtle Blimp,{5},5.0,Artifact — Vehicle,"Flying
+When this Vehicle enters, create a 2/2 red Mutant creature token.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)",,,uncommon,TMT,Teenage Mutant Ninja Turtles,180,3,4,,Flying;Crew
+Turtle Van,{3},3.0,Artifact — Vehicle,"Whenever this Vehicle attacks, put a +1/+1 counter on target creature that crewed it this turn. Then if that creature is a Mutant, Ninja, or Turtle, double the number of +1/+1 counters on it.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)",,,rare,TMT,Teenage Mutant Ninja Turtles,278,4,4,,Crew
+Turtle Van,{3},3.0,Artifact — Vehicle,"Whenever this Vehicle attacks, put a +1/+1 counter on target creature that crewed it this turn. Then if that creature is a Mutant, Ninja, or Turtle, double the number of +1/+1 counters on it.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)",,,rare,TMT,Teenage Mutant Ninja Turtles,181,4,4,,Crew
+Twin Blades,{2}{R},3.0,Artifact — Equipment,"Flash
+When this Equipment enters, attach it to target creature you control. That creature gains double strike until end of turn.
+Equipped creature gets +1/+1.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",R,R,uncommon,TLA,Avatar: The Last Airbender,157,,,,Equip;Flash

@@ -1,0 +1,376 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+"Michelangelo, Improviser",{3}{G},4.0,Legendary Creature — Mutant Ninja Turtle,"Sneak {2}{G}{G} (You may cast this spell for {2}{G}{G} if you also return an unblocked attacker you control to hand during the declare blockers step. He enters tapped and attacking.)
+Whenever Michelangelo deals combat damage to a player, you may put a creature card and/or a land card from your hand onto the battlefield.",G,G,mythic,TMT,Teenage Mutant Ninja Turtles,119,4,4,,Sneak
+"Michelangelo, Improviser",{3}{G},4.0,Legendary Creature — Mutant Ninja Turtle,"Sneak {2}{G}{G} (You may cast this spell for {2}{G}{G} if you also return an unblocked attacker you control to hand during the declare blockers step. He enters tapped and attacking.)
+Whenever Michelangelo deals combat damage to a player, you may put a creature card and/or a land card from your hand onto the battlefield.",G,G,mythic,TMT,Teenage Mutant Ninja Turtles,304,4,4,,Sneak
+"Michelangelo, Improviser",{3}{G},4.0,Legendary Creature — Mutant Ninja Turtle,"Sneak {2}{G}{G} (You may cast this spell for {2}{G}{G} if you also return an unblocked attacker you control to hand during the declare blockers step. He enters tapped and attacking.)
+Whenever Michelangelo deals combat damage to a player, you may put a creature card and/or a land card from your hand onto the battlefield.",G,G,mythic,TMT,Teenage Mutant Ninja Turtles,219,4,4,,Sneak
+"Michelangelo, Mutant BFF",{2}{G}{G},4.0,Legendary Creature — Mutant Ninja Turtle,"Each creature you control with a counter on it can't be blocked by more than one creature.
+Whenever Michelangelo enters or attacks, create a Mutagen token. (It's an artifact with ""{1}, {T}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery."")",G,G,uncommon,TMT,Teenage Mutant Ninja Turtles,120,4,4,,
+"Michelangelo, Mutant BFF",{2}{G}{G},4.0,Legendary Creature — Mutant Ninja Turtle,"Each creature you control with a counter on it can't be blocked by more than one creature.
+Whenever Michelangelo enters or attacks, create a Mutagen token. (It's an artifact with ""{1}, {T}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery."")",G,G,uncommon,TMT,Teenage Mutant Ninja Turtles,198,4,4,,
+"Michelangelo, Weirdness to 11",{1}{G},2.0,Legendary Creature — Mutant Ninja Turtle,"When Michelangelo enters, create a Mutagen token. (It's an artifact with ""{1}, {T}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery."")
+If one or more +1/+1 counters would be put on a creature you control, that many plus one +1/+1 counters are put on it instead.",G,G,rare,TMT,Teenage Mutant Ninja Turtles,121,1,1,,
+"Michelangelo, Weirdness to 11",{1}{G},2.0,Legendary Creature — Mutant Ninja Turtle,"When Michelangelo enters, create a Mutagen token. (It's an artifact with ""{1}, {T}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery."")
+If one or more +1/+1 counters would be put on a creature you control, that many plus one +1/+1 counters are put on it instead.",G,G,rare,TMT,Teenage Mutant Ninja Turtles,214,1,1,,
+"Michelangelo, Weirdness to 11",{1}{G},2.0,Legendary Creature — Mutant Ninja Turtle,"When Michelangelo enters, create a Mutagen token. (It's an artifact with ""{1}, {T}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery."")
+If one or more +1/+1 counters would be put on a creature you control, that many plus one +1/+1 counters are put on it instead.",G,G,mythic,TMT,Teenage Mutant Ninja Turtles,288,1,1,,
+"Michelangelo, Weirdness to 11",{1}{G},2.0,Legendary Creature — Mutant Ninja Turtle,"When Michelangelo enters, create a Mutagen token. (It's an artifact with ""{1}, {T}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery."")
+If one or more +1/+1 counters would be put on a creature you control, that many plus one +1/+1 counters are put on it instead.",G,G,mythic,TMT,Teenage Mutant Ninja Turtles,298,1,1,,
+Micromancer,{3}{U},4.0,Creature — Human Wizard,"When this creature enters, you may search your library for an instant or sorcery card with mana value 1, reveal it, put it into your hand, then shuffle.",U,U,uncommon,DMU,Dominaria United,431,3,3,,
+Micromancer,{3}{U},4.0,Creature — Human Wizard,"When this creature enters, you may search your library for an instant or sorcery card with mana value 1, reveal it, put it into your hand, then shuffle.",U,U,uncommon,DMU,Dominaria United,57,3,3,,
+Micromancer,{3}{U},4.0,Creature — Human Wizard,"When this creature enters, you may search your library for an instant or sorcery card with mana value 1, reveal it, put it into your hand, then shuffle.",U,U,uncommon,FDN,Foundations,158,3,3,,
+Midnight Reaper,{2}{B},3.0,Creature — Zombie Knight,"Whenever a nontoken creature you control dies, this creature deals 1 damage to you and you draw a card.",B,B,rare,SCD,Starter Commander Decks,91,3,2,,
+Midnight Reaper,{2}{B},3.0,Creature — Zombie Knight,"Whenever a nontoken creature you control dies, this creature deals 1 damage to you and you draw a card.",B,B,rare,PGRN,Guilds of Ravnica Promos,77p,3,2,,
+Midnight Reaper,{2}{B},3.0,Creature — Zombie Knight,"Whenever a nontoken creature you control dies, this creature deals 1 damage to you and you draw a card.",B,B,rare,DRC,Aetherdrift Commander,44,3,2,,
+Midnight Reaper,{2}{B},3.0,Creature — Zombie Knight,"Whenever a nontoken creature you control dies, this creature deals 1 damage to you and you draw a card.",B,B,rare,RVR,Ravnica Remastered,86,3,2,,
+Midnight Reaper,{2}{B},3.0,Creature — Zombie Knight,"Whenever a nontoken creature you control dies, this creature deals 1 damage to you and you draw a card.",B,B,rare,GRN,Guilds of Ravnica,77,3,2,,
+Midnight Reaper,{2}{B},3.0,Creature — Zombie Knight,"Whenever a nontoken creature you control dies, this creature deals 1 damage to you and you draw a card.",B,B,rare,SLD,Secret Lair Drop,1171,3,2,,
+Midnight Reaper,{2}{B},3.0,Creature — Zombie Knight,"Whenever a nontoken creature you control dies, this creature deals 1 damage to you and you draw a card.",B,B,rare,MIC,Midnight Hunt Commander,125,3,2,,
+Midnight Reaper,{2}{B},3.0,Creature — Zombie Knight,"Whenever a nontoken creature you control dies, this creature deals 1 damage to you and you draw a card.",B,B,rare,FDN,Foundations,609,3,2,,
+Midnight Reaper,{2}{B},3.0,Creature — Zombie Knight,"Whenever a nontoken creature you control dies, this creature deals 1 damage to you and you draw a card.",B,B,rare,MOC,March of the Machine Commander,257,3,2,,
+Mightform Harmonizer,{2}{G}{G},4.0,Creature — Insect Druid,"Landfall — Whenever a land you control enters, double the power of target creature you control until end of turn.
+Warp {2}{G} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",G,G,rare,EOE,Edge of Eternities,297,4,4,,Warp;Landfall
+Mightform Harmonizer,{2}{G}{G},4.0,Creature — Insect Druid,"Landfall — Whenever a land you control enters, double the power of target creature you control until end of turn.
+Warp {2}{G} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",G,G,rare,PEOE,Edge of Eternities Promos,200p,4,4,,Warp;Landfall
+Mightform Harmonizer,{2}{G}{G},4.0,Creature — Insect Druid,"Landfall — Whenever a land you control enters, double the power of target creature you control until end of turn.
+Warp {2}{G} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",G,G,rare,PEOE,Edge of Eternities Promos,200s,4,4,,Warp;Landfall
+Mightform Harmonizer,{2}{G}{G},4.0,Creature — Insect Druid,"Landfall — Whenever a land you control enters, double the power of target creature you control until end of turn.
+Warp {2}{G} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",G,G,rare,EOE,Edge of Eternities,200,4,4,,Warp;Landfall
+Mighty Mutanimals,{2}{W}{W},4.0,Creature — Mutant Rebel,"When this creature enters, create a 2/2 red Mutant creature token.
+Alliance — Whenever another creature you control enters, put a +1/+1 counter on target creature you control.",W,W,uncommon,TMT,Teenage Mutant Ninja Turtles,21,2,1,,Alliance
+Migrating Ketradon,{4}{G}{G},6.0,Creature — Dinosaur,"Reach
+When this creature enters, you gain 4 life.
+Cycling {2} ({2}, Discard this card: Draw a card.)",G,G,common,DFT,Aetherdrift,170,6,6,,Reach;Cycling
+"Mikey & Don, Party Planners",{2}{G/U}{G/U},4.0,Legendary Creature — Mutant Ninja Turtle,"Ward {2}
+You may look at the top card of your library any time.
+You may play lands and cast Mutant, Ninja, or Turtle spells from the top of your library. If you cast a creature spell this way, that creature enters with an additional +1/+1 counter on it.","G,U","G,U",rare,TMT,Teenage Mutant Ninja Turtles,157,3,3,,Ward
+"Mikey & Don, Party Planners",{2}{G/U}{G/U},4.0,Legendary Creature — Mutant Ninja Turtle,"Ward {2}
+You may look at the top card of your library any time.
+You may play lands and cast Mutant, Ninja, or Turtle spells from the top of your library. If you cast a creature spell this way, that creature enters with an additional +1/+1 counter on it.","G,U","G,U",rare,TMT,Teenage Mutant Ninja Turtles,246,3,3,,Ward
+"Mikey & Leo, Chaos & Order",{G/W}{G/W},2.0,Legendary Creature — Mutant Ninja Turtle,"Whenever you put a counter on a creature you control, draw a card. This ability triggers only once each turn.","G,W","G,W",rare,TMT,Teenage Mutant Ninja Turtles,247,2,2,,
+"Mikey & Leo, Chaos & Order",{G/W}{G/W},2.0,Legendary Creature — Mutant Ninja Turtle,"Whenever you put a counter on a creature you control, draw a card. This ability triggers only once each turn.","G,W","G,W",rare,TMT,Teenage Mutant Ninja Turtles,200,2,2,,
+"Mikey & Leo, Chaos & Order",{G/W}{G/W},2.0,Legendary Creature — Mutant Ninja Turtle,"Whenever you put a counter on a creature you control, draw a card. This ability triggers only once each turn.","G,W","G,W",rare,TMT,Teenage Mutant Ninja Turtles,158,2,2,,
+Mild-Mannered Librarian,{G},1.0,Creature — Human,{3}{G}: This creature becomes a Werewolf. Put two +1/+1 counters on it and you draw a card. Activate only once.,G,G,uncommon,J22,Jumpstart 2022,41,1,1,,
+Mild-Mannered Librarian,{G},1.0,Creature — Human,{3}{G}: This creature becomes a Werewolf. Put two +1/+1 counters on it and you draw a card. Activate only once.,G,G,uncommon,FDN,Foundations,228,1,1,,
+Miles Morales // Ultimate Spider-Man,,2.0,Legendary Creature — Human Citizen Hero // Legendary Creature — Spider Human Hero,,,"G,R,W",mythic,PSPM,Marvel's Spider-Man Promos,108s,,,,Transform;First strike;Haste
+Miles Morales // Ultimate Spider-Man,,2.0,Legendary Creature — Human Citizen Hero // Legendary Creature — Spider Human Hero,,,"G,R,W",mythic,OM1,Through the Omenpaths,102,,,,Transform;First strike;Haste
+Miles Morales // Ultimate Spider-Man,,2.0,Legendary Creature — Human Citizen Hero // Legendary Creature — Spider Human Hero,,,"G,R,W",mythic,SPM,Marvel's Spider-Man,108,,,,Transform;First strike;Haste
+Miles Morales // Ultimate Spider-Man,,2.0,Legendary Creature — Human Citizen Hero // Legendary Creature — Spider Human Hero,,,"G,R,W",mythic,SPM,Marvel's Spider-Man,200,,,,Transform;First strike;Haste
+Miles Morales // Ultimate Spider-Man,,2.0,Legendary Creature — Human Citizen Hero // Legendary Creature — Spider Human Hero,,,"G,R,W",mythic,SPM,Marvel's Spider-Man,211,,,,Transform;First strike;Haste
+Miles Morales // Ultimate Spider-Man,,2.0,Legendary Creature — Human Citizen Hero // Legendary Creature — Spider Human Hero,,,"G,R,W",mythic,SPM,Marvel's Spider-Man,234,,,,Transform;First strike;Haste
+"Mimeoplasm, Revered One",{X}{B}{G}{U},3.0,Legendary Creature — Ooze,"As Mimeoplasm enters, exile up to X creature cards from your graveyard. It enters with three +1/+1 counters on it for each creature card exiled this way.
+{2}: Mimeoplasm becomes a copy of target creature card exiled with it, except it's 0/0 and has this ability.","B,G,U","B,G,U",mythic,DFT,Aetherdrift,392,0,0,,
+"Mimeoplasm, Revered One",{X}{B}{G}{U},3.0,Legendary Creature — Ooze,"As Mimeoplasm enters, exile up to X creature cards from your graveyard. It enters with three +1/+1 counters on it for each creature card exiled this way.
+{2}: Mimeoplasm becomes a copy of target creature card exiled with it, except it's 0/0 and has this ability.","B,G,U","B,G,U",mythic,DFT,Aetherdrift,486,0,0,,
+"Mimeoplasm, Revered One",{X}{B}{G}{U},3.0,Legendary Creature — Ooze,"As Mimeoplasm enters, exile up to X creature cards from your graveyard. It enters with three +1/+1 counters on it for each creature card exiled this way.
+{2}: Mimeoplasm becomes a copy of target creature card exiled with it, except it's 0/0 and has this ability.","B,G,U","B,G,U",mythic,DFT,Aetherdrift,214,0,0,,
+"Mimeoplasm, Revered One",{X}{B}{G}{U},3.0,Legendary Creature — Ooze,"As Mimeoplasm enters, exile up to X creature cards from your graveyard. It enters with three +1/+1 counters on it for each creature card exiled this way.
+{2}: Mimeoplasm becomes a copy of target creature card exiled with it, except it's 0/0 and has this ability.","B,G,U","B,G,U",mythic,PDFT,Aetherdrift Promos,214s,0,0,,
+"Mimeoplasm, Revered One",{X}{B}{G}{U},3.0,Legendary Creature — Ooze,"As Mimeoplasm enters, exile up to X creature cards from your graveyard. It enters with three +1/+1 counters on it for each creature card exiled this way.
+{2}: Mimeoplasm becomes a copy of target creature card exiled with it, except it's 0/0 and has this ability.","B,G,U","B,G,U",mythic,DFT,Aetherdrift,415,0,0,,
+"Mimeoplasm, Revered One",{X}{B}{G}{U},3.0,Legendary Creature — Ooze,"As Mimeoplasm enters, exile up to X creature cards from your graveyard. It enters with three +1/+1 counters on it for each creature card exiled this way.
+{2}: Mimeoplasm becomes a copy of target creature card exiled with it, except it's 0/0 and has this ability.","B,G,U","B,G,U",mythic,PDFT,Aetherdrift Promos,214p,0,0,,
+"Mimeoplasm, Revered One",{X}{B}{G}{U},3.0,Legendary Creature — Ooze,"As Mimeoplasm enters, exile up to X creature cards from your graveyard. It enters with three +1/+1 counters on it for each creature card exiled this way.
+{2}: Mimeoplasm becomes a copy of target creature card exiled with it, except it's 0/0 and has this ability.","B,G,U","B,G,U",mythic,DFT,Aetherdrift,405,0,0,,
+Mind Drill Assailant,{2}{U/B}{U/B},4.0,Creature — Rat Warlock,"Threshold — As long as there are seven or more cards in your graveyard, this creature gets +3/+0.
+{2}{U/B}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)","B,U","B,U",common,BLB,Bloomburrow,225,2,5,,Surveil;Threshold
+Mindsparker,{1}{R}{R},3.0,Creature — Elemental,"First strike (This creature deals combat damage before creatures without first strike.)
+Whenever an opponent casts a white or blue instant or sorcery spell, this creature deals 2 damage to that player.",R,R,uncommon,FDN,Foundations,628,3,2,,First strike
+Mindsparker,{1}{R}{R},3.0,Creature — Elemental,"First strike (This creature deals combat damage before creatures without first strike.)
+Whenever an opponent casts a white or blue instant or sorcery spell, this creature deals 2 damage to that player.",R,R,rare,M14,Magic 2014,146,3,2,,First strike
+Mindspring Merfolk,{U},1.0,Creature — Merfolk Wizard,"Exhaust — {X}{U}{U}, {T}: Draw X cards. Put a +1/+1 counter on each Merfolk creature you control. (Activate each exhaust ability only once.)",U,U,rare,DFT,Aetherdrift,436,1,1,,Exhaust
+Mindspring Merfolk,{U},1.0,Creature — Merfolk Wizard,"Exhaust — {X}{U}{U}, {T}: Draw X cards. Put a +1/+1 counter on each Merfolk creature you control. (Activate each exhaust ability only once.)",U,U,rare,PDFT,Aetherdrift Promos,51s,1,1,,Exhaust
+Mindspring Merfolk,{U},1.0,Creature — Merfolk Wizard,"Exhaust — {X}{U}{U}, {T}: Draw X cards. Put a +1/+1 counter on each Merfolk creature you control. (Activate each exhaust ability only once.)",U,U,rare,PDFT,Aetherdrift Promos,51p,1,1,,Exhaust
+Mindspring Merfolk,{U},1.0,Creature — Merfolk Wizard,"Exhaust — {X}{U}{U}, {T}: Draw X cards. Put a +1/+1 counter on each Merfolk creature you control. (Activate each exhaust ability only once.)",U,U,rare,DFT,Aetherdrift,51,1,1,,Exhaust
+Mindspring Merfolk,{U},1.0,Creature — Merfolk Wizard,"Exhaust — {X}{U}{U}, {T}: Draw X cards. Put a +1/+1 counter on each Merfolk creature you control. (Activate each exhaust ability only once.)",U,U,rare,DFT,Aetherdrift,335,1,1,,Exhaust
+Mindspring Merfolk,{U},1.0,Creature — Merfolk Wizard,"Exhaust — {X}{U}{U}, {T}: Draw X cards. Put a +1/+1 counter on each Merfolk creature you control. (Activate each exhaust ability only once.)",U,U,rare,DFT,Aetherdrift,534,1,1,,Exhaust
+Mindwhisker,{2}{U},3.0,Creature — Rat Wizard,"At the beginning of your upkeep, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+Threshold — As long as there are seven or more cards in your graveyard, creatures your opponents control get -1/-0.",U,U,uncommon,BLB,Bloomburrow,60,3,2,,Surveil;Threshold
+Mine Raider,{2}{R},3.0,Creature — Human Rogue,"Trample
+When this creature enters, if you control another outlaw, create a Treasure token. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws. A Treasure token is an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")",R,R,common,OTJ,Outlaws of Thunder Junction,135,3,2,,Treasure;Trample
+Minecart Daredevil // Ride the Rails,{2}{R} // {1}{R},3.0,Creature — Dwarf Knight // Instant — Adventure,,R,R,common,WOE,Wilds of Eldraine,141,4,2,,
+Miner's Guidewing,{W},1.0,Creature — Bird,"Flying, vigilance
+When this creature dies, target creature you control explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)",W,W,common,LCI,The Lost Caverns of Ixalan,24,1,1,,Flying;Vigilance;Explore
+Mineshaft Spider,{3}{G},4.0,Creature — Spider,"Reach
+When this creature enters, you may mill two cards. (You may put the top two cards of your library into your graveyard.)",G,G,common,LCI,The Lost Caverns of Ixalan,202,3,4,,Reach;Mill
+Mintstrosity,{1}{B},2.0,Creature — Horror,"When this creature dies, create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this token: You gain 3 life."")",B,B,common,WOE,Wilds of Eldraine,100,3,1,,Food
+"Minwu, White Mage",{3}{W}{W},5.0,Legendary Creature — Human Cleric,"Vigilance, lifelink
+Whenever you gain life, put a +1/+1 counter on each Cleric you control.",W,W,rare,FIN,Final Fantasy,26,3,3,,Lifelink;Vigilance
+"Minwu, White Mage",{3}{W}{W},5.0,Legendary Creature — Human Cleric,"Vigilance, lifelink
+Whenever you gain life, put a +1/+1 counter on each Cleric you control.",W,W,rare,PFIN,Final Fantasy Promos,26s,3,3,,Lifelink;Vigilance
+"Minwu, White Mage",{3}{W}{W},5.0,Legendary Creature — Human Cleric,"Vigilance, lifelink
+Whenever you gain life, put a +1/+1 counter on each Cleric you control.",W,W,rare,FIN,Final Fantasy,430,3,3,,Lifelink;Vigilance
+"Miriam, Herd Whisperer",{G}{W},2.0,Legendary Creature — Human Druid,"During your turn, Mounts and Vehicles you control have hexproof.
+Whenever a Mount or Vehicle you control attacks, put a +1/+1 counter on it.","G,W","G,W",uncommon,OTJ,Outlaws of Thunder Junction,221,3,2,,
+Mischievous Mystic,{1}{U},2.0,Creature — Human Wizard,"Flying
+Whenever you draw your second card each turn, create a 1/1 blue Faerie creature token with flying.",U,U,uncommon,FDN,Foundations,47,2,1,,Flying
+Mischievous Pup,{2}{W},3.0,Creature — Dog,"Flash (You may cast this spell any time you could cast an instant.)
+When this creature enters, return up to one other target permanent you control to its owner's hand.",W,W,uncommon,FDN,Foundations,144,3,1,,Flash
+Mischievous Pup,{2}{W},3.0,Creature — Dog,"Flash (You may cast this spell any time you could cast an instant.)
+When this creature enters, return up to one other target permanent you control to its owner's hand.",W,W,uncommon,LCI,The Lost Caverns of Ixalan,25,3,1,,Flash
+Mischievous Sneakling,{1}{U/B},2.0,Creature — Shapeshifter,"Changeling (This card is every creature type.)
+Flash","B,U","B,U",common,ECL,Lorwyn Eclipsed,235,2,2,,Flash;Changeling
+Mistbreath Elder,{G},1.0,Creature — Frog Warrior,"At the beginning of your upkeep, return another creature you control to its owner's hand. If you do, put a +1/+1 counter on this creature. Otherwise, you may return this creature to its owner's hand.",G,G,rare,PBLB,Bloomburrow Promos,184p,2,2,,
+Mistbreath Elder,{G},1.0,Creature — Frog Warrior,"At the beginning of your upkeep, return another creature you control to its owner's hand. If you do, put a +1/+1 counter on this creature. Otherwise, you may return this creature to its owner's hand.",G,G,rare,BLB,Bloomburrow,184,2,2,,
+Mistbreath Elder,{G},1.0,Creature — Frog Warrior,"At the beginning of your upkeep, return another creature you control to its owner's hand. If you do, put a +1/+1 counter on this creature. Otherwise, you may return this creature to its owner's hand.",G,G,rare,PBLB,Bloomburrow Promos,184s,2,2,,
+Mistbreath Elder,{G},1.0,Creature — Frog Warrior,"At the beginning of your upkeep, return another creature you control to its owner's hand. If you do, put a +1/+1 counter on this creature. Otherwise, you may return this creature to its owner's hand.",G,G,rare,BLB,Bloomburrow,323,2,2,,
+Mister Negative,{5}{W}{B},7.0,Legendary Creature — Human Villain,"Vigilance, lifelink
+Darkforce Inversion — When Mister Negative enters, you may exchange life totals with target opponent. If you lost life this way, draw that many cards.","B,W","B,W",mythic,OM1,Through the Omenpaths,158,5,5,,Lifelink;Vigilance
+Mister Negative,{5}{W}{B},7.0,Legendary Creature — Human Villain,"Vigilance, lifelink
+Darkforce Inversion — When Mister Negative enters, you may exchange life totals with target opponent. If you lost life this way, draw that many cards.","B,W","B,W",mythic,SPM,Marvel's Spider-Man,135,5,5,,Lifelink;Vigilance
+Mister Negative,{5}{W}{B},7.0,Legendary Creature — Human Villain,"Vigilance, lifelink
+Darkforce Inversion — When Mister Negative enters, you may exchange life totals with target opponent. If you lost life this way, draw that many cards.","B,W","B,W",mythic,PSPM,Marvel's Spider-Man Promos,135s,5,5,,Lifelink;Vigilance
+Mister Negative,{5}{W}{B},7.0,Legendary Creature — Human Villain,"Vigilance, lifelink
+Darkforce Inversion — When Mister Negative enters, you may exchange life totals with target opponent. If you lost life this way, draw that many cards.","B,W","B,W",mythic,SPM,Marvel's Spider-Man,274,5,5,,Lifelink;Vigilance
+Mistmeadow Council,{4}{G},5.0,Creature — Kithkin Advisor,"This spell costs {1} less to cast if you control a Kithkin.
+When this creature enters, draw a card.",G,G,common,ECL,Lorwyn Eclipsed,183,4,3,,
+Mistway Spy,{U},1.0,Creature — Merfolk Detective,"Flying
+Disguise {1}{U} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)
+When this creature is turned face up, until end of turn, whenever a creature you control deals combat damage to a player, investigate.",U,U,uncommon,MKM,Murders at Karlov Manor,65,1,1,,Flying;Investigate;Disguise
+"Mm'menon, the Right Hand",{3}{U}{U},5.0,Legendary Creature — Jellyfish Advisor,"Flying
+You may look at the top card of your library any time.
+You may cast artifact spells from the top of your library.
+Artifacts you control have ""{T}: Add {U}. Spend this mana only to cast a spell from anywhere other than your hand.""",U,U,rare,PEOE,Edge of Eternities Promos,68s,3,4,,Flying
+"Mm'menon, the Right Hand",{3}{U}{U},5.0,Legendary Creature — Jellyfish Advisor,"Flying
+You may look at the top card of your library any time.
+You may cast artifact spells from the top of your library.
+Artifacts you control have ""{T}: Add {U}. Spend this mana only to cast a spell from anywhere other than your hand.""",U,U,rare,EOE,Edge of Eternities,290,3,4,,Flying
+"Mm'menon, the Right Hand",{3}{U}{U},5.0,Legendary Creature — Jellyfish Advisor,"Flying
+You may look at the top card of your library any time.
+You may cast artifact spells from the top of your library.
+Artifacts you control have ""{T}: Add {U}. Spend this mana only to cast a spell from anywhere other than your hand.""",U,U,rare,PEOE,Edge of Eternities Promos,68p,3,4,,Flying
+"Mm'menon, the Right Hand",{3}{U}{U},5.0,Legendary Creature — Jellyfish Advisor,"Flying
+You may look at the top card of your library any time.
+You may cast artifact spells from the top of your library.
+Artifacts you control have ""{T}: Add {U}. Spend this mana only to cast a spell from anywhere other than your hand.""",U,U,rare,EOE,Edge of Eternities,68,3,4,,Flying
+"Mm'menon, Uthros Exile",{1}{U}{R},3.0,Legendary Creature — Jellyfish Advisor,"Flying
+Whenever an artifact you control enters, put a +1/+1 counter on target creature.","R,U","R,U",uncommon,EOE,Edge of Eternities,221,1,3,,Flying
+Mob Lookout,{1}{U/B},2.0,Creature — Human Rogue Villain,"When this creature enters, target creature you control connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)","B,U","B,U",common,OM1,Through the Omenpaths,147,0,3,,Connive
+Mob Lookout,{1}{U/B},2.0,Creature — Human Rogue Villain,"When this creature enters, target creature you control connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)","B,U","B,U",common,SPM,Marvel's Spider-Man,136,0,3,,Connive
+Mocking Sprite,{2}{U},3.0,Creature — Faerie Rogue,"Flying
+Instant and sorcery spells you cast cost {1} less to cast.",U,U,common,WOE,Wilds of Eldraine,62,2,1,,Flying
+Mocking Sprite,{2}{U},3.0,Creature — Faerie Rogue,"Flying
+Instant and sorcery spells you cast cost {1} less to cast.",U,U,common,FDN,Foundations,159,2,1,,Flying
+Mockingbird,{X}{U},1.0,Creature — Bird Bard,"Flying
+You may have this creature enter as a copy of any creature on the battlefield with mana value less than or equal to the amount of mana spent to cast this creature, except it's a Bird in addition to its other types and it has flying.",U,U,rare,PBLB,Bloomburrow Promos,61p,1,1,,Flying
+Mockingbird,{X}{U},1.0,Creature — Bird Bard,"Flying
+You may have this creature enter as a copy of any creature on the battlefield with mana value less than or equal to the amount of mana spent to cast this creature, except it's a Bird in addition to its other types and it has flying.",U,U,rare,BLB,Bloomburrow,305,1,1,,Flying
+Mockingbird,{X}{U},1.0,Creature — Bird Bard,"Flying
+You may have this creature enter as a copy of any creature on the battlefield with mana value less than or equal to the amount of mana spent to cast this creature, except it's a Bird in addition to its other types and it has flying.",U,U,rare,BLB,Bloomburrow,61,1,1,,Flying
+Mockingbird,{X}{U},1.0,Creature — Bird Bard,"Flying
+You may have this creature enter as a copy of any creature on the battlefield with mana value less than or equal to the amount of mana spent to cast this creature, except it's a Bird in addition to its other types and it has flying.",U,U,rare,PBLB,Bloomburrow Promos,61s,1,1,,Flying
+Mold Adder,{G},1.0,Creature — Fungus Snake,"Whenever an opponent casts a blue or black spell, you may put a +1/+1 counter on this creature.",G,G,uncommon,FDN,Foundations,640,1,1,,
+Mold Adder,{G},1.0,Creature — Fungus Snake,"Whenever an opponent casts a blue or black spell, you may put a +1/+1 counter on this creature.",G,G,uncommon,M10,Magic 2010,194,1,1,,
+Molecular Modifier,{2}{R},3.0,Creature — Kavu Artificer,"At the beginning of combat on your turn, target creature you control gets +1/+0 and gains first strike until end of turn.",R,R,uncommon,EOE,Edge of Eternities,146,2,2,,
+Molt Tender,{G},1.0,Creature — Insect Druid,"{T}: Mill a card. (Put the top card of your library into your graveyard.)
+{T}, Exile a card from your graveyard: Add one mana of any color.",G,G,uncommon,DFT,Aetherdrift,171,1,1,,Mill
+"Molten Man, Inferno Incarnate",{2}{R},3.0,Legendary Creature — Elemental Villain,"When Molten Man enters, search your library for a basic Mountain card, put it onto the battlefield tapped, then shuffle.
+Molten Man gets +1/+1 for each Mountain you control.
+When Molten Man leaves the battlefield, sacrifice a land.",R,R,uncommon,OM1,Through the Omenpaths,82,0,0,,
+"Molten Man, Inferno Incarnate",{2}{R},3.0,Legendary Creature — Elemental Villain,"When Molten Man enters, search your library for a basic Mountain card, put it onto the battlefield tapped, then shuffle.
+Molten Man gets +1/+1 for each Mountain you control.
+When Molten Man leaves the battlefield, sacrifice a land.",R,R,uncommon,SPM,Marvel's Spider-Man,84,0,0,,
+"Momo, Friendly Flier",{W},1.0,Legendary Creature — Lemur Bat Ally,"Flying
+The first non-Lemur creature spell with flying you cast during each of your turns costs {1} less to cast.
+Whenever another creature you control with flying enters, Momo gets +1/+1 until end of turn.",W,W,rare,PTLA,Avatar: The Last Airbender Promos,29s,1,1,,Flying
+"Momo, Friendly Flier",{W},1.0,Legendary Creature — Lemur Bat Ally,"Flying
+The first non-Lemur creature spell with flying you cast during each of your turns costs {1} less to cast.
+Whenever another creature you control with flying enters, Momo gets +1/+1 until end of turn.",W,W,rare,TLA,Avatar: The Last Airbender,394,1,1,,Flying
+"Momo, Friendly Flier",{W},1.0,Legendary Creature — Lemur Bat Ally,"Flying
+The first non-Lemur creature spell with flying you cast during each of your turns costs {1} less to cast.
+Whenever another creature you control with flying enters, Momo gets +1/+1 until end of turn.",W,W,rare,TLA,Avatar: The Last Airbender,317,1,1,,Flying
+"Momo, Friendly Flier",{W},1.0,Legendary Creature — Lemur Bat Ally,"Flying
+The first non-Lemur creature spell with flying you cast during each of your turns costs {1} less to cast.
+Whenever another creature you control with flying enters, Momo gets +1/+1 until end of turn.",W,W,rare,TLA,Avatar: The Last Airbender,29,1,1,,Flying
+"Momo, Playful Pet",{W},1.0,Legendary Creature — Lemur Bat Ally,"Flying, vigilance
+When Momo leaves the battlefield, choose one —
+• Create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this token: You gain 3 life."")
+• Put a +1/+1 counter on target creature you control.
+• Scry 2.",W,W,uncommon,TLA,Avatar: The Last Airbender,30,1,1,,Scry;Flying;Vigilance;Food
+"Mona Lisa, Science Geek",{2}{G},3.0,Legendary Creature — Lizard Mutant,"Reach
+{T}: Add X mana of any one color, where X is Mona Lisa's power.",G,G,uncommon,TMT,Teenage Mutant Ninja Turtles,123,1,3,,Reach
+Monastery Messenger,{2/U}{2/R}{2/W},6.0,Creature — Bird Scout,"Flying, vigilance
+When this creature enters, put up to one target noncreature, nonland card from your graveyard on top of your library.","R,U,W","R,U,W",common,TDM,Tarkir: Dragonstorm,208,2,3,,Flying;Vigilance
+Mondo Gecko,{1}{U}{U},3.0,Legendary Creature — Lizard Mutant,"{1}, Discard a card: Until end of turn, Mondo Gecko becomes the color of your choice and gains hexproof from that color.
+Whenever Mondo Gecko deals combat damage to a player, draw a card for each color among permanents you control.",U,U,mythic,TMT,Teenage Mutant Ninja Turtles,231,2,3,,
+Mondo Gecko,{1}{U}{U},3.0,Legendary Creature — Lizard Mutant,"{1}, Discard a card: Until end of turn, Mondo Gecko becomes the color of your choice and gains hexproof from that color.
+Whenever Mondo Gecko deals combat damage to a player, draw a card for each color among permanents you control.",U,U,mythic,TMT,Teenage Mutant Ninja Turtles,46,2,3,,
+Mongoose Lizard,{4}{R}{R},6.0,Creature — Mongoose Lizard,"Menace (This creature can't be blocked except by two or more creatures.)
+When this creature enters, it deals 1 damage to any target.
+Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)",R,R,common,TLA,Avatar: The Last Airbender,148,5,6,,Mountaincycling;Landcycling;Menace;Typecycling;Cycling
+Monoist Circuit-Feeder,{4}{B}{B},6.0,Artifact Creature — Nautilus,"Flying
+When this creature enters, until end of turn, target creature you control gets +X/+0 and target creature an opponent controls gets -0/-X, where X is the number of artifacts you control.",B,B,uncommon,EOE,Edge of Eternities,110,4,4,,Flying
+Monoist Sentry,{B},1.0,Artifact Creature — Robot,Defender,B,B,uncommon,EOE,Edge of Eternities,111,4,1,,Defender
+Moon-Vigil Adherents,{2}{G}{G},4.0,Creature — Elf Druid,"Trample
+This creature gets +1/+1 for each creature you control and each creature card in your graveyard.",G,G,uncommon,ECL,Lorwyn Eclipsed,184,0,0,,Trample
+Moonglove Extractor,{2}{B},3.0,Creature — Elf Warlock,"Whenever this creature attacks, you draw a card and lose 1 life.",B,B,common,ECL,Lorwyn Eclipsed,109,2,1,,
+Moonlit Lamenter,{2}{W},3.0,Creature — Treefolk Cleric,"This creature enters with a -1/-1 counter on it.
+{1}{W}, Remove a counter from this creature: Draw a card. Activate only as a sorcery.",W,W,uncommon,ECL,Lorwyn Eclipsed,26,2,5,,
+Moonrise Cleric,{1}{W/B}{W/B},3.0,Creature — Bat Cleric,"Flying
+Whenever this creature attacks, you gain 1 life.","B,W","B,W",common,BLB,Bloomburrow,226,2,3,,Flying
+Moonshadow,{B},1.0,Creature — Elemental,"Menace
+This creature enters with six -1/-1 counters on it.
+Whenever one or more permanent cards are put into your graveyard from anywhere while this creature has a -1/-1 counter on it, remove a -1/-1 counter from this creature.",B,B,mythic,ECL,Lorwyn Eclipsed,110,7,7,,Menace
+Moonshadow,{B},1.0,Creature — Elemental,"Menace
+This creature enters with six -1/-1 counters on it.
+Whenever one or more permanent cards are put into your graveyard from anywhere while this creature has a -1/-1 counter on it, remove a -1/-1 counter from this creature.",B,B,mythic,ECL,Lorwyn Eclipsed,313,7,7,,Menace
+Moonshadow,{B},1.0,Creature — Elemental,"Menace
+This creature enters with six -1/-1 counters on it.
+Whenever one or more permanent cards are put into your graveyard from anywhere while this creature has a -1/-1 counter on it, remove a -1/-1 counter from this creature.",B,B,mythic,ECL,Lorwyn Eclipsed,386,7,7,,Menace
+Moonshadow,{B},1.0,Creature — Elemental,"Menace
+This creature enters with six -1/-1 counters on it.
+Whenever one or more permanent cards are put into your graveyard from anywhere while this creature has a -1/-1 counter on it, remove a -1/-1 counter from this creature.",B,B,mythic,PECL,Lorwyn Eclipsed Promos,110p,7,7,,Menace
+Moonshadow,{B},1.0,Creature — Elemental,"Menace
+This creature enters with six -1/-1 counters on it.
+Whenever one or more permanent cards are put into your graveyard from anywhere while this creature has a -1/-1 counter on it, remove a -1/-1 counter from this creature.",B,B,mythic,ECL,Lorwyn Eclipsed,396,7,7,,Menace
+Moonshaker Cavalry,{5}{W}{W}{W},8.0,Creature — Spirit Knight,"Flying
+When this creature enters, creatures you control gain flying and get +X/+X until end of turn, where X is the number of creatures you control.",W,W,mythic,WOE,Wilds of Eldraine,325,6,6,,Flying
+Moonshaker Cavalry,{5}{W}{W}{W},8.0,Creature — Spirit Knight,"Flying
+When this creature enters, creatures you control gain flying and get +X/+X until end of turn, where X is the number of creatures you control.",W,W,mythic,WOE,Wilds of Eldraine,21,6,6,,Flying
+Moonshaker Cavalry,{5}{W}{W}{W},8.0,Creature — Spirit Knight,"Flying
+When this creature enters, creatures you control gain flying and get +X/+X until end of turn, where X is the number of creatures you control.",W,W,mythic,PWOE,Wilds of Eldraine Promos,21p,6,6,,Flying
+Moonshaker Cavalry,{5}{W}{W}{W},8.0,Creature — Spirit Knight,"Flying
+When this creature enters, creatures you control gain flying and get +X/+X until end of turn, where X is the number of creatures you control.",W,W,mythic,SCH,Store Championships,17,6,6,,Flying
+Moonshaker Cavalry,{5}{W}{W}{W},8.0,Creature — Spirit Knight,"Flying
+When this creature enters, creatures you control gain flying and get +X/+X until end of turn, where X is the number of creatures you control.",W,W,mythic,PWOE,Wilds of Eldraine Promos,21s,6,6,,Flying
+Moonstone Harbinger,{2}{B},3.0,Creature — Bat Warrior,"Flying, deathtouch
+Whenever you gain or lose life during your turn, Bats you control get +1/+0 and gain deathtouch until end of turn. This ability triggers only once each turn.",B,B,uncommon,BLB,Bloomburrow,101,1,3,,Deathtouch;Flying
+Morbius the Living Vampire,{2}{U}{B},4.0,Legendary Creature — Vampire Scientist Villain,"Flying, vigilance, lifelink
+{U}{B}, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.","B,U","B,U",uncommon,OM1,Through the Omenpaths,156,3,1,,Flying;Lifelink;Vigilance
+Morbius the Living Vampire,{2}{U}{B},4.0,Legendary Creature — Vampire Scientist Villain,"Flying, vigilance, lifelink
+{U}{B}, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.","B,U","B,U",uncommon,SPM,Marvel's Spider-Man,137,3,1,,Flying;Lifelink;Vigilance
+Morcant's Loyalist,{1}{B}{G},3.0,Creature — Elf Warrior,"Other Elves you control get +1/+1.
+When this creature dies, return another target Elf card from your graveyard to your hand.","B,G","B,G",uncommon,ECL,Lorwyn Eclipsed,236,3,2,,
+Morcant's Loyalist,{1}{B}{G},3.0,Creature — Elf Warrior,"Other Elves you control get +1/+1.
+When this creature dies, return another target Elf card from your graveyard to your hand.","B,G","B,G",uncommon,ECL,Lorwyn Eclipsed,341,3,2,,
+"Morlun, Devourer of Spiders",{X}{B}{B},2.0,Legendary Creature — Vampire Villain,"Lifelink
+Morlun enters with X +1/+1 counters on him.
+When Morlun enters, he deals X damage to target opponent.",B,B,rare,OM1,Through the Omenpaths,60,2,1,,Lifelink
+"Morlun, Devourer of Spiders",{X}{B}{B},2.0,Legendary Creature — Vampire Villain,"Lifelink
+Morlun enters with X +1/+1 counters on him.
+When Morlun enters, he deals X damage to target opponent.",B,B,rare,SPM,Marvel's Spider-Man,59,2,1,,Lifelink
+"Morlun, Devourer of Spiders",{X}{B}{B},2.0,Legendary Creature — Vampire Villain,"Lifelink
+Morlun enters with X +1/+1 counters on him.
+When Morlun enters, he deals X damage to target opponent.",B,B,rare,SPM,Marvel's Spider-Man,257,2,1,,Lifelink
+"Morlun, Devourer of Spiders",{X}{B}{B},2.0,Legendary Creature — Vampire Villain,"Lifelink
+Morlun enters with X +1/+1 counters on him.
+When Morlun enters, he deals X damage to target opponent.",B,B,rare,PSPM,Marvel's Spider-Man Promos,59s,2,1,,Lifelink
+Mossborn Hydra,{2}{G},3.0,Creature — Elemental Hydra,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+This creature enters with a +1/+1 counter on it.
+Landfall — Whenever a land you control enters, double the number of +1/+1 counters on this creature.",G,G,rare,FDN,Foundations,337,0,0,,Trample;Landfall
+Mossborn Hydra,{2}{G},3.0,Creature — Elemental Hydra,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+This creature enters with a +1/+1 counter on it.
+Landfall — Whenever a land you control enters, double the number of +1/+1 counters on this creature.",G,G,rare,PFDN,Foundations Promos,107s,0,0,,Trample;Landfall
+Mossborn Hydra,{2}{G},3.0,Creature — Elemental Hydra,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+This creature enters with a +1/+1 counter on it.
+Landfall — Whenever a land you control enters, double the number of +1/+1 counters on this creature.",G,G,rare,FDN,Foundations,107,0,0,,Trample;Landfall
+Mossborn Hydra,{2}{G},3.0,Creature — Elemental Hydra,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+This creature enters with a +1/+1 counter on it.
+Landfall — Whenever a land you control enters, double the number of +1/+1 counters on this creature.",G,G,rare,FDN,Foundations,471,0,0,,Trample;Landfall
+Mossborn Hydra,{2}{G},3.0,Creature — Elemental Hydra,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+This creature enters with a +1/+1 counter on it.
+Landfall — Whenever a land you control enters, double the number of +1/+1 counters on this creature.",G,G,rare,FDN,Foundations,399,0,0,,Trample;Landfall
+Mossborn Hydra,{2}{G},3.0,Creature — Elemental Hydra,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+This creature enters with a +1/+1 counter on it.
+Landfall — Whenever a land you control enters, double the number of +1/+1 counters on this creature.",G,G,rare,PFDN,Foundations Promos,107p,0,0,,Trample;Landfall
+Mosswood Dreadknight // Dread Whispers,{1}{G} // {1}{B},2.0,Creature — Human Knight // Sorcery — Adventure,,G,"B,G",rare,WOE,Wilds of Eldraine,292,3,2,,Trample
+Mosswood Dreadknight // Dread Whispers,{1}{G} // {1}{B},2.0,Creature — Human Knight // Sorcery — Adventure,,G,"B,G",rare,WOE,Wilds of Eldraine,231,3,2,,Trample
+Mosswood Dreadknight // Dread Whispers,{1}{G} // {1}{B},2.0,Creature — Human Knight // Sorcery — Adventure,,G,"B,G",rare,PWOE,Wilds of Eldraine Promos,231s,3,2,,Trample
+Mosswood Dreadknight // Dread Whispers,{1}{G} // {1}{B},2.0,Creature — Human Knight // Sorcery — Adventure,,G,"B,G",rare,PWOE,Wilds of Eldraine Promos,231p,3,2,,Trample
+Most Valuable Slayer,{3}{R},4.0,Creature — Human Warrior,"Whenever you attack, target attacking creature gets +1/+0 and gains first strike until end of turn.",R,R,common,DSK,Duskmourn: House of Horror,144,2,4,,
+Mouse Trapper,{2}{W},3.0,Creature — Mouse Soldier,"Flash
+Valiant — Whenever this creature becomes the target of a spell or ability you control for the first time each turn, tap target creature an opponent controls.",W,W,uncommon,BLB,Bloomburrow,22,3,2,,Valiant;Flash
+Mouser Mark III,{1}{U/R},2.0,Artifact Creature — Robot,This creature can't attack unless you control another artifact.,"R,U","R,U",common,TMT,Teenage Mutant Ninja Turtles,159,2,3,,
+Mouth of the Storm,{6}{U},7.0,Creature — Elemental,"Flying
+Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+When this creature enters, creatures your opponents control get -3/-0 until your next turn.",U,U,uncommon,EOE,Edge of Eternities,70,6,6,,Flying;Ward
+"Mu Yanling, Wind Rider",{2}{U}{U},4.0,Legendary Creature — Human Wizard Pilot,"When Mu Yanling enters, create a 3/2 colorless Vehicle artifact token with crew 1.
+Vehicles you control have flying.
+Whenever one or more creatures you control with flying deal combat damage to a player, draw a card.",U,U,mythic,PDFT,Aetherdrift Promos,52p,2,4,,
+"Mu Yanling, Wind Rider",{2}{U}{U},4.0,Legendary Creature — Human Wizard Pilot,"When Mu Yanling enters, create a 3/2 colorless Vehicle artifact token with crew 1.
+Vehicles you control have flying.
+Whenever one or more creatures you control with flying deal combat damage to a player, draw a card.",U,U,mythic,DFT,Aetherdrift,437,2,4,,
+"Mu Yanling, Wind Rider",{2}{U}{U},4.0,Legendary Creature — Human Wizard Pilot,"When Mu Yanling enters, create a 3/2 colorless Vehicle artifact token with crew 1.
+Vehicles you control have flying.
+Whenever one or more creatures you control with flying deal combat damage to a player, draw a card.",U,U,mythic,PDFT,Aetherdrift Promos,52s,2,4,,
+"Mu Yanling, Wind Rider",{2}{U}{U},4.0,Legendary Creature — Human Wizard Pilot,"When Mu Yanling enters, create a 3/2 colorless Vehicle artifact token with crew 1.
+Vehicles you control have flying.
+Whenever one or more creatures you control with flying deal combat damage to a player, draw a card.",U,U,mythic,DFT,Aetherdrift,52,2,4,,
+"Mu Yanling, Wind Rider",{2}{U}{U},4.0,Legendary Creature — Human Wizard Pilot,"When Mu Yanling enters, create a 3/2 colorless Vehicle artifact token with crew 1.
+Vehicles you control have flying.
+Whenever one or more creatures you control with flying deal combat damage to a player, draw a card.",U,U,mythic,DFT,Aetherdrift,399,2,4,,
+"Mu Yanling, Wind Rider",{2}{U}{U},4.0,Legendary Creature — Human Wizard Pilot,"When Mu Yanling enters, create a 3/2 colorless Vehicle artifact token with crew 1.
+Vehicles you control have flying.
+Whenever one or more creatures you control with flying deal combat damage to a player, draw a card.",U,U,mythic,DFT,Aetherdrift,409,2,4,,
+"Mu Yanling, Wind Rider",{2}{U}{U},4.0,Legendary Creature — Human Wizard Pilot,"When Mu Yanling enters, create a 3/2 colorless Vehicle artifact token with crew 1.
+Vehicles you control have flying.
+Whenever one or more creatures you control with flying deal combat damage to a player, draw a card.",U,U,mythic,DFT,Aetherdrift,379,2,4,,
+Mudbutton Cursetosser,{B},1.0,Creature — Goblin Warlock,"As an additional cost to cast this spell, behold a Goblin or pay {2}. (To behold a Goblin, choose a Goblin you control or reveal a Goblin card from your hand.)
+This creature can't block.
+When this creature dies, destroy target creature an opponent controls with power 2 or less.",B,B,uncommon,ECL,Lorwyn Eclipsed,112,2,1,,Behold
+"Muerra, Trash Tactician",{1}{R}{G},3.0,Legendary Creature — Raccoon Warrior,"At the beginning of your first main phase, add {R} or {G} for each Raccoon you control.
+Whenever you expend 4, you gain 3 life. (You expend 4 as you spend your fourth total mana to cast spells during a turn.)
+Whenever you expend 8, exile the top two cards of your library. Until the end of your next turn, you may play those cards.","G,R","G,R",rare,BLB,Bloomburrow,352,2,4,,
+"Muerra, Trash Tactician",{1}{R}{G},3.0,Legendary Creature — Raccoon Warrior,"At the beginning of your first main phase, add {R} or {G} for each Raccoon you control.
+Whenever you expend 4, you gain 3 life. (You expend 4 as you spend your fourth total mana to cast spells during a turn.)
+Whenever you expend 8, exile the top two cards of your library. Until the end of your next turn, you may play those cards.","G,R","G,R",rare,PBLB,Bloomburrow Promos,227p,2,4,,
+"Muerra, Trash Tactician",{1}{R}{G},3.0,Legendary Creature — Raccoon Warrior,"At the beginning of your first main phase, add {R} or {G} for each Raccoon you control.
+Whenever you expend 4, you gain 3 life. (You expend 4 as you spend your fourth total mana to cast spells during a turn.)
+Whenever you expend 8, exile the top two cards of your library. Until the end of your next turn, you may play those cards.","G,R","G,R",rare,PBLB,Bloomburrow Promos,227s,2,4,,
+"Muerra, Trash Tactician",{1}{R}{G},3.0,Legendary Creature — Raccoon Warrior,"At the beginning of your first main phase, add {R} or {G} for each Raccoon you control.
+Whenever you expend 4, you gain 3 life. (You expend 4 as you spend your fourth total mana to cast spells during a turn.)
+Whenever you expend 8, exile the top two cards of your library. Until the end of your next turn, you may play those cards.","G,R","G,R",rare,BLB,Bloomburrow,227,2,4,,
+"Muldrotha, the Gravetide",{3}{B}{G}{U},6.0,Legendary Creature — Elemental Avatar,"During each of your turns, you may play a land and cast a permanent spell of each permanent type from your graveyard. (If a card has multiple permanent types, choose one as you play it.)","B,G,U","B,G,U",mythic,PFDN,Foundations Promos,243s,6,6,,
+"Muldrotha, the Gravetide",{3}{B}{G}{U},6.0,Legendary Creature — Elemental Avatar,"During each of your turns, you may play a land and cast a permanent spell of each permanent type from your graveyard. (If a card has multiple permanent types, choose one as you play it.)","B,G,U","B,G,U",mythic,FDN,Foundations,243,6,6,,
+"Muldrotha, the Gravetide",{3}{B}{G}{U},6.0,Legendary Creature — Elemental Avatar,"During each of your turns, you may play a land and cast a permanent spell of each permanent type from your graveyard. (If a card has multiple permanent types, choose one as you play it.)","B,G,U","B,G,U",mythic,PRM,Magic Online Promos,102325,6,6,,
+"Muldrotha, the Gravetide",{3}{B}{G}{U},6.0,Legendary Creature — Elemental Avatar,"During each of your turns, you may play a land and cast a permanent spell of each permanent type from your graveyard. (If a card has multiple permanent types, choose one as you play it.)","B,G,U","B,G,U",mythic,ECC,Lorwyn Eclipsed Commander,128,6,6,,
+"Muldrotha, the Gravetide",{3}{B}{G}{U},6.0,Legendary Creature — Elemental Avatar,"During each of your turns, you may play a land and cast a permanent spell of each permanent type from your graveyard. (If a card has multiple permanent types, choose one as you play it.)","B,G,U","B,G,U",rare,FCA,Final Fantasy: Through the Ages,57,6,6,,
+"Muldrotha, the Gravetide",{3}{B}{G}{U},6.0,Legendary Creature — Elemental Avatar,"During each of your turns, you may play a land and cast a permanent spell of each permanent type from your graveyard. (If a card has multiple permanent types, choose one as you play it.)","B,G,U","B,G,U",mythic,2X2,Double Masters 2022,384,6,6,,
+"Muldrotha, the Gravetide",{3}{B}{G}{U},6.0,Legendary Creature — Elemental Avatar,"During each of your turns, you may play a land and cast a permanent spell of each permanent type from your graveyard. (If a card has multiple permanent types, choose one as you play it.)","B,G,U","B,G,U",mythic,PDOM,Dominaria Promos,199s,6,6,,
+"Muldrotha, the Gravetide",{3}{B}{G}{U},6.0,Legendary Creature — Elemental Avatar,"During each of your turns, you may play a land and cast a permanent spell of each permanent type from your graveyard. (If a card has multiple permanent types, choose one as you play it.)","B,G,U","B,G,U",mythic,PRM,Magic Online Promos,86216,6,6,,
+"Muldrotha, the Gravetide",{3}{B}{G}{U},6.0,Legendary Creature — Elemental Avatar,"During each of your turns, you may play a land and cast a permanent spell of each permanent type from your graveyard. (If a card has multiple permanent types, choose one as you play it.)","B,G,U","B,G,U",mythic,FDN,Foundations,440,6,6,,
+"Muldrotha, the Gravetide",{3}{B}{G}{U},6.0,Legendary Creature — Elemental Avatar,"During each of your turns, you may play a land and cast a permanent spell of each permanent type from your graveyard. (If a card has multiple permanent types, choose one as you play it.)","B,G,U","B,G,U",mythic,2X2,Double Masters 2022,258,6,6,,
+"Muldrotha, the Gravetide",{3}{B}{G}{U},6.0,Legendary Creature — Elemental Avatar,"During each of your turns, you may play a land and cast a permanent spell of each permanent type from your graveyard. (If a card has multiple permanent types, choose one as you play it.)","B,G,U","B,G,U",mythic,DOM,Dominaria,199,6,6,,
+"Muldrotha, the Gravetide",{3}{B}{G}{U},6.0,Legendary Creature — Elemental Avatar,"During each of your turns, you may play a land and cast a permanent spell of each permanent type from your graveyard. (If a card has multiple permanent types, choose one as you play it.)","B,G,U","B,G,U",mythic,PLST,The List,DOM-199,6,6,,
+"Muldrotha, the Gravetide",{3}{B}{G}{U},6.0,Legendary Creature — Elemental Avatar,"During each of your turns, you may play a land and cast a permanent spell of each permanent type from your graveyard. (If a card has multiple permanent types, choose one as you play it.)","B,G,U","B,G,U",mythic,2X2,Double Masters 2022,528,6,6,,
+"Muldrotha, the Gravetide",{3}{B}{G}{U},6.0,Legendary Creature — Elemental Avatar,"During each of your turns, you may play a land and cast a permanent spell of each permanent type from your graveyard. (If a card has multiple permanent types, choose one as you play it.)","B,G,U","B,G,U",mythic,CMR,Commander Legends,528,6,6,,
+"Muldrotha, the Gravetide",{3}{B}{G}{U},6.0,Legendary Creature — Elemental Avatar,"During each of your turns, you may play a land and cast a permanent spell of each permanent type from your graveyard. (If a card has multiple permanent types, choose one as you play it.)","B,G,U","B,G,U",mythic,FDN,Foundations,430,6,6,,
+Museum Nightwatch,{3}{W},4.0,Creature — Centaur Soldier,"When this creature dies, create a 2/2 white and blue Detective creature token.
+Disguise {1}{W} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)",W,W,common,MKM,Murders at Karlov Manor,25,3,2,,Disguise
+Mutable Explorer,{2}{G},3.0,Creature — Shapeshifter,"Changeling (This card is every creature type.)
+When this creature enters, create a tapped Mutavault token. (It's a land with ""{T}: Add {C}"" and ""{1}: This token becomes a 2/2 creature with all creature types until end of turn. It's still a land."")",G,G,rare,PECL,Lorwyn Eclipsed Promos,186p,1,1,,Changeling
+Mutable Explorer,{2}{G},3.0,Creature — Shapeshifter,"Changeling (This card is every creature type.)
+When this creature enters, create a tapped Mutavault token. (It's a land with ""{T}: Add {C}"" and ""{1}: This token becomes a 2/2 creature with all creature types until end of turn. It's still a land."")",G,G,rare,ECL,Lorwyn Eclipsed,327,1,1,,Changeling
+Mutable Explorer,{2}{G},3.0,Creature — Shapeshifter,"Changeling (This card is every creature type.)
+When this creature enters, create a tapped Mutavault token. (It's a land with ""{T}: Add {C}"" and ""{1}: This token becomes a 2/2 creature with all creature types until end of turn. It's still a land."")",G,G,rare,ECL,Lorwyn Eclipsed,186,1,1,,Changeling
+"Mutagen Man, Living Ooze",{X}{G}{G},2.0,Legendary Creature — Ooze Mutant,"Trample
+Activated abilities of artifact tokens you control cost {1} less to activate.
+When Mutagen Man enters, create X Mutagen tokens. (They're artifacts with ""{1}, {T}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery."")",G,G,rare,TMT,Teenage Mutant Ninja Turtles,273,2,3,,Trample
+"Mutagen Man, Living Ooze",{X}{G}{G},2.0,Legendary Creature — Ooze Mutant,"Trample
+Activated abilities of artifact tokens you control cost {1} less to activate.
+When Mutagen Man enters, create X Mutagen tokens. (They're artifacts with ""{1}, {T}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery."")",G,G,rare,TMT,Teenage Mutant Ninja Turtles,124,2,3,,Trample
+Mutant Surveyor,{2}{B},3.0,Creature — Mutant Scout,"Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+{2}: This creature gets +1/+1 until end of turn.
+Max speed — {3}, Exile this card from your graveyard: Draw a card.",B,B,common,DFT,Aetherdrift,98,2,3,,Max speed;Start your engines!
+Mutant Town Musicians,{2}{R},3.0,Creature — Mutant Bard Performer,"Trample
+Alliance — Whenever another creature you control enters, this creature gets +1/+0 until end of turn.",R,R,common,TMT,Teenage Mutant Ninja Turtles,97,2,4,,Alliance;Trample
+Myojin of Night's Reach,{5}{B}{B}{B},8.0,Legendary Creature — Spirit,"Myojin of Night's Reach enters with a divinity counter on it if you cast it from your hand.
+Myojin of Night's Reach has indestructible as long as it has a divinity counter on it.
+Remove a divinity counter from Myojin of Night's Reach: Each opponent discards their hand.",B,B,rare,CHK,Champions of Kamigawa,126,5,2,,
+Myojin of Night's Reach,{5}{B}{B}{B},8.0,Legendary Creature — Spirit,"Myojin of Night's Reach enters with a divinity counter on it if you cast it from your hand.
+Myojin of Night's Reach has indestructible as long as it has a divinity counter on it.
+Remove a divinity counter from Myojin of Night's Reach: Each opponent discards their hand.",B,B,rare,FDN,Foundations,610,5,2,,
+Mysidian Elder,{2}{R},3.0,Creature — Human Wizard,"When this creature enters, create a 0/1 black Wizard creature token with ""Whenever you cast a noncreature spell, this token deals 1 damage to each opponent.""",R,R,common,FIN,Final Fantasy,145,1,3,,
+Mysterio's Phantasm,{1}{U},2.0,Creature — Illusion Villain,"Flying, vigilance
+Whenever this creature attacks, mill a card. (Put the top card of your library into your graveyard.)",U,U,common,OM1,Through the Omenpaths,39,1,3,,Flying;Vigilance;Mill
+Mysterio's Phantasm,{1}{U},2.0,Creature — Illusion Villain,"Flying, vigilance
+Whenever this creature attacks, mill a card. (Put the top card of your library into your graveyard.)",U,U,common,SPM,Marvel's Spider-Man,38,1,3,,Flying;Vigilance;Mill
+"Mysterio, Master of Illusion",{3}{U},4.0,Legendary Creature — Human Villain,"When Mysterio enters, create a 3/3 blue Illusion Villain creature token for each nontoken Villain you control. Exile those tokens when Mysterio leaves the battlefield.",U,U,rare,PSPM,Marvel's Spider-Man Promos,37s,3,3,,
+"Mysterio, Master of Illusion",{3}{U},4.0,Legendary Creature — Human Villain,"When Mysterio enters, create a 3/3 blue Illusion Villain creature token for each nontoken Villain you control. Exile those tokens when Mysterio leaves the battlefield.",U,U,rare,SPM,Marvel's Spider-Man,253,3,3,,
+"Mysterio, Master of Illusion",{3}{U},4.0,Legendary Creature — Human Villain,"When Mysterio enters, create a 3/3 blue Illusion Villain creature token for each nontoken Villain you control. Exile those tokens when Mysterio leaves the battlefield.",U,U,rare,SPM,Marvel's Spider-Man,37,3,3,,
+"Mysterio, Master of Illusion",{3}{U},4.0,Legendary Creature — Human Villain,"When Mysterio enters, create a 3/3 blue Illusion Villain creature token for each nontoken Villain you control. Exile those tokens when Mysterio leaves the battlefield.",U,U,rare,OM1,Through the Omenpaths,48,3,3,,
+Mystic Archaeologist,{1}{U},2.0,Creature — Human Wizard,{3}{U}{U}: Draw two cards.,U,U,rare,M19,Core Set 2019,63,2,1,,
+Mystic Archaeologist,{1}{U},2.0,Creature — Human Wizard,{3}{U}{U}: Draw two cards.,U,U,rare,FDN,Foundations,511,2,1,,
+Mystic Archaeologist,{1}{U},2.0,Creature — Human Wizard,{3}{U}{U}: Draw two cards.,U,U,rare,PM19,Core Set 2019 Promos,63s,2,1,,
+Mystic Archaeologist,{1}{U},2.0,Creature — Human Wizard,{3}{U}{U}: Draw two cards.,U,U,rare,JMP,Jumpstart,158,2,1,,

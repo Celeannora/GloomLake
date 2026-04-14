@@ -1,0 +1,150 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Paladin's Arms,{2}{W},3.0,Artifact — Equipment,"Job select (When this Equipment enters, create a 1/1 colorless Hero creature token, then attach this to it.)
+Equipped creature gets +2/+1, has ward {1}, and is a Knight in addition to its other types.
+Lightbringer and Hero's Shield — Equip {4} ({4}: Attach to target creature you control. Equip only as a sorcery.)",W,W,common,FIN,Final Fantasy,28,,,,Job select;Equip
+Passenger Ferry,{3},3.0,Artifact — Vehicle,"Whenever this Vehicle attacks, you may pay {U}. When you do, another target attacking creature can't be blocked this turn.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)",,U,common,SPM,Marvel's Spider-Man,170,4,3,,Crew
+Passenger Ferry,{3},3.0,Artifact — Vehicle,"Whenever this Vehicle attacks, you may pay {U}. When you do, another target attacking creature can't be blocked this turn.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)",,U,common,OM1,Through the Omenpaths,162,4,3,,Crew
+Patchwork Banner,{3},3.0,Artifact,"As this artifact enters, choose a creature type.
+Creatures you control of the chosen type get +1/+1.
+{T}: Add one mana of any color.",,,rare,PMEI,Media and Collaboration Promos,2024-7,,,,
+Patchwork Banner,{3},3.0,Artifact,"As this artifact enters, choose a creature type.
+Creatures you control of the chosen type get +1/+1.
+{T}: Add one mana of any color.",,,rare,SLD,Secret Lair Drop,2466,,,,
+Patchwork Banner,{3},3.0,Artifact,"As this artifact enters, choose a creature type.
+Creatures you control of the chosen type get +1/+1.
+{T}: Add one mana of any color.",,,uncommon,BLB,Bloomburrow,247,,,,
+Perilous Snare,{2}{W},3.0,Artifact,"Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+When this artifact enters, exile target nonland permanent an opponent controls until this artifact leaves the battlefield.
+Max speed — {T}: Put a +1/+1 counter on target creature or Vehicle you control. Activate only as a sorcery.",W,W,rare,DFT,Aetherdrift,23,,,,Max speed;Start your engines!
+Perilous Snare,{2}{W},3.0,Artifact,"Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+When this artifact enters, exile target nonland permanent an opponent controls until this artifact leaves the battlefield.
+Max speed — {T}: Put a +1/+1 counter on target creature or Vehicle you control. Activate only as a sorcery.",W,W,rare,PDFT,Aetherdrift Promos,23s,,,,Max speed;Start your engines!
+Perilous Snare,{2}{W},3.0,Artifact,"Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+When this artifact enters, exile target nonland permanent an opponent controls until this artifact leaves the battlefield.
+Max speed — {T}: Put a +1/+1 counter on target creature or Vehicle you control. Activate only as a sorcery.",W,W,rare,PDFT,Aetherdrift Promos,23p,,,,Max speed;Start your engines!
+Perilous Snare,{2}{W},3.0,Artifact,"Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+When this artifact enters, exile target nonland permanent an opponent controls until this artifact leaves the battlefield.
+Max speed — {T}: Put a +1/+1 counter on target creature or Vehicle you control. Activate only as a sorcery.",W,W,rare,DFT,Aetherdrift,430,,,,Max speed;Start your engines!
+Perilous Snare,{2}{W},3.0,Artifact,"Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+When this artifact enters, exile target nonland permanent an opponent controls until this artifact leaves the battlefield.
+Max speed — {T}: Put a +1/+1 counter on target creature or Vehicle you control. Activate only as a sorcery.",W,W,rare,DFT,Aetherdrift,377,,,,Max speed;Start your engines!
+Peter Parker's Camera,{1},1.0,Artifact,"This artifact enters with three film counters on it.
+{2}, {T}, Remove a film counter from this artifact: Copy target activated or triggered ability you control. You may choose new targets for the copy.",,,rare,SPM,Marvel's Spider-Man,171,,,,
+Peter Parker's Camera,{1},1.0,Artifact,"This artifact enters with three film counters on it.
+{2}, {T}, Remove a film counter from this artifact: Copy target activated or triggered ability you control. You may choose new targets for the copy.",,,rare,SPM,Marvel's Spider-Man,280,,,,
+Peter Parker's Camera,{1},1.0,Artifact,"This artifact enters with three film counters on it.
+{2}, {T}, Remove a film counter from this artifact: Copy target activated or triggered ability you control. You may choose new targets for the copy.",,,rare,PSPM,Marvel's Spider-Man Promos,171s,,,,
+Peter Parker's Camera,{1},1.0,Artifact,"This artifact enters with three film counters on it.
+{2}, {T}, Remove a film counter from this artifact: Copy target activated or triggered ability you control. You may choose new targets for the copy.",,,rare,OM1,Through the Omenpaths,171,,,,
+Phantom Train,{3}{B},4.0,Artifact — Vehicle,"Trample
+Sacrifice another artifact or creature: Put a +1/+1 counter on this Vehicle. It becomes a Spirit artifact creature in addition to its other types until end of turn.",B,B,uncommon,FIN,Final Fantasy,110,4,4,,Trample
+Phoenix Down,{W},1.0,Artifact,"{1}{W}, {T}, Exile this artifact: Choose one —
+• Return target creature card with mana value 4 or less from your graveyard to the battlefield tapped.
+• Exile target Skeleton, Spirit, or Zombie.",W,W,uncommon,FIN,Final Fantasy,29,,,,
+Phoenix Down,{W},1.0,Artifact,"{1}{W}, {T}, Exile this artifact: Choose one —
+• Return target creature card with mana value 4 or less from your graveyard to the battlefield tapped.
+• Exile target Skeleton, Spirit, or Zombie.",W,W,uncommon,FIN,Final Fantasy,578,,,,
+Phoenix Fleet Airship,{2}{B}{B},4.0,Artifact — Vehicle,"Flying
+At the beginning of your end step, if you sacrificed a permanent this turn, create a token that's a copy of this Vehicle.
+As long as you control eight or more permanents named Phoenix Fleet Airship, this Vehicle is an artifact creature.
+Crew 1",B,B,mythic,PTLA,Avatar: The Last Airbender Promos,114s,4,4,,Flying;Crew
+Phoenix Fleet Airship,{2}{B}{B},4.0,Artifact — Vehicle,"Flying
+At the beginning of your end step, if you sacrificed a permanent this turn, create a token that's a copy of this Vehicle.
+As long as you control eight or more permanents named Phoenix Fleet Airship, this Vehicle is an artifact creature.
+Crew 1",B,B,mythic,TLA,Avatar: The Last Airbender,114,4,4,,Flying;Crew
+Phoenix Fleet Airship,{2}{B}{B},4.0,Artifact — Vehicle,"Flying
+At the beginning of your end step, if you sacrificed a permanent this turn, create a token that's a copy of this Vehicle.
+As long as you control eight or more permanents named Phoenix Fleet Airship, this Vehicle is an artifact creature.
+Crew 1",B,B,mythic,TLA,Avatar: The Last Airbender,323,4,4,,Flying;Crew
+Pictures of Spider-Man,{2}{G},3.0,Artifact,"When this artifact enters, look at the top five cards of your library. You may reveal up to two creature cards from among them and put them into your hand. Put the rest on the bottom of your library in a random order.
+{1}, {T}, Sacrifice this artifact: Create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")",G,G,uncommon,OM1,Through the Omenpaths,99,,,,Treasure
+Pictures of Spider-Man,{2}{G},3.0,Artifact,"When this artifact enters, look at the top five cards of your library. You may reveal up to two creature cards from among them and put them into your hand. Put the rest on the bottom of your library in a random order.
+{1}, {T}, Sacrifice this artifact: Create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")",G,G,uncommon,SPM,Marvel's Spider-Man,109,,,,Treasure
+Pinnacle Kill-Ship,{7},7.0,Artifact — Spacecraft,"When this Spacecraft enters, it deals 10 damage to up to one target creature.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 7+.)
+7+ | Flying",,,common,EOE,Edge of Eternities,244,7,7,,Station
+Pinnacle Starcage,{1}{W}{W},3.0,Artifact,"When this artifact enters, exile all artifacts and creatures with mana value 2 or less until this artifact leaves the battlefield.
+{6}{W}{W}: Put each card exiled with this artifact into its owner's graveyard, then create a 2/2 colorless Robot artifact creature token for each card put into a graveyard this way. Sacrifice this artifact.",W,W,rare,EOE,Edge of Eternities,322,,,,
+Pinnacle Starcage,{1}{W}{W},3.0,Artifact,"When this artifact enters, exile all artifacts and creatures with mana value 2 or less until this artifact leaves the battlefield.
+{6}{W}{W}: Put each card exiled with this artifact into its owner's graveyard, then create a 2/2 colorless Robot artifact creature token for each card put into a graveyard this way. Sacrifice this artifact.",W,W,rare,PEOE,Edge of Eternities Promos,27s,,,,
+Pinnacle Starcage,{1}{W}{W},3.0,Artifact,"When this artifact enters, exile all artifacts and creatures with mana value 2 or less until this artifact leaves the battlefield.
+{6}{W}{W}: Put each card exiled with this artifact into its owner's graveyard, then create a 2/2 colorless Robot artifact creature token for each card put into a graveyard this way. Sacrifice this artifact.",W,W,rare,EOE,Edge of Eternities,27,,,,
+Pinnacle Starcage,{1}{W}{W},3.0,Artifact,"When this artifact enters, exile all artifacts and creatures with mana value 2 or less until this artifact leaves the battlefield.
+{6}{W}{W}: Put each card exiled with this artifact into its owner's graveyard, then create a 2/2 colorless Robot artifact creature token for each card put into a graveyard this way. Sacrifice this artifact.",W,W,rare,PEOE,Edge of Eternities Promos,27p,,,,
+Pirate Hat,{1}{U},2.0,Artifact — Equipment,"Equipped creature gets +1/+1 and has ""Whenever this creature attacks, draw a card, then discard a card.""
+Equip Pirate {1}
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",U,U,common,LCI,The Lost Caverns of Ixalan,70,,,,Equip
+Pirate's Cutlass,{3},3.0,Artifact — Equipment,"When this Equipment enters, attach it to target Pirate you control.
+Equipped creature gets +2/+1.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",,,common,JMP,Jumpstart,477,,,,Equip
+Pirate's Cutlass,{3},3.0,Artifact — Equipment,"When this Equipment enters, attach it to target Pirate you control.
+Equipped creature gets +2/+1.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",,,common,XLN,Ixalan,242,,,,Equip
+Pirate's Cutlass,{3},3.0,Artifact — Equipment,"When this Equipment enters, attach it to target Pirate you control.
+Equipped creature gets +2/+1.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",,,common,CMR,Commander Legends,333,,,,Equip
+Pirate's Cutlass,{3},3.0,Artifact — Equipment,"When this Equipment enters, attach it to target Pirate you control.
+Equipped creature gets +2/+1.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",,,common,FDN,Foundations,563,,,,Equip
+Planetarium of Wan Shi Tong,{6},6.0,Legendary Artifact,"{1}, {T}: Scry 2.
+Whenever you scry or surveil, look at the top card of your library. You may cast that card without paying its mana cost. Do this only once each turn. (Look at the card after you scry or surveil.)",,,mythic,PTLA,Avatar: The Last Airbender Promos,259s,,,,Scry
+Planetarium of Wan Shi Tong,{6},6.0,Legendary Artifact,"{1}, {T}: Scry 2.
+Whenever you scry or surveil, look at the top card of your library. You may cast that card without paying its mana cost. Do this only once each turn. (Look at the card after you scry or surveil.)",,,mythic,TLA,Avatar: The Last Airbender,259,,,,Scry
+Planetarium of Wan Shi Tong,{6},6.0,Legendary Artifact,"{1}, {T}: Scry 2.
+Whenever you scry or surveil, look at the top card of your library. You may cast that card without paying its mana cost. Do this only once each turn. (Look at the card after you scry or surveil.)",,,mythic,TLA,Avatar: The Last Airbender,385,,,,Scry
+Polygraph Orb,{4}{B},5.0,Artifact,"When this artifact enters, look at the top four cards of your library. Put two of them into your hand and the rest into your graveyard. You lose 2 life.
+{2}, {T}, Collect evidence 3: Each opponent loses 3 life unless they discard a card or sacrifice a creature. (To collect evidence 3, exile cards with total mana value 3 or greater from your graveyard.)",B,B,uncommon,MKM,Murders at Karlov Manor,99,,,,Collect evidence
+Possession Engine,{3}{U}{U},5.0,Artifact — Vehicle,"When this Vehicle enters, gain control of target creature an opponent controls for as long as you control this Vehicle. That creature can't attack or block for as long as you control this Vehicle.
+Crew 3",U,U,rare,PDFT,Aetherdrift Promos,54s,5,5,,Crew
+Possession Engine,{3}{U}{U},5.0,Artifact — Vehicle,"When this Vehicle enters, gain control of target creature an opponent controls for as long as you control this Vehicle. That creature can't attack or block for as long as you control this Vehicle.
+Crew 3",U,U,rare,DFT,Aetherdrift,302,5,5,,Crew
+Possession Engine,{3}{U}{U},5.0,Artifact — Vehicle,"When this Vehicle enters, gain control of target creature an opponent controls for as long as you control this Vehicle. That creature can't attack or block for as long as you control this Vehicle.
+Crew 3",U,U,rare,DFT,Aetherdrift,438,5,5,,Crew
+Possession Engine,{3}{U}{U},5.0,Artifact — Vehicle,"When this Vehicle enters, gain control of target creature an opponent controls for as long as you control this Vehicle. That creature can't attack or block for as long as you control this Vehicle.
+Crew 3",U,U,rare,DFT,Aetherdrift,521,5,5,,Crew
+Possession Engine,{3}{U}{U},5.0,Artifact — Vehicle,"When this Vehicle enters, gain control of target creature an opponent controls for as long as you control this Vehicle. That creature can't attack or block for as long as you control this Vehicle.
+Crew 3",U,U,rare,DFT,Aetherdrift,54,5,5,,Crew
+Possession Engine,{3}{U}{U},5.0,Artifact — Vehicle,"When this Vehicle enters, gain control of target creature an opponent controls for as long as you control this Vehicle. That creature can't attack or block for as long as you control this Vehicle.
+Crew 3",U,U,rare,PDFT,Aetherdrift Promos,54p,5,5,,Crew
+Prophetic Prism,{2},2.0,Artifact,"When this artifact enters, draw a card.
+{1}, {T}: Add one mana of any color.",,,common,KLD,Kaladesh,229,,,,
+Prophetic Prism,{2},2.0,Artifact,"When this artifact enters, draw a card.
+{1}, {T}: Add one mana of any color.",,,common,HBG,Alchemy Horizons: Baldur's Gate,264,,,,
+Prophetic Prism,{2},2.0,Artifact,"When this artifact enters, draw a card.
+{1}, {T}: Add one mana of any color.",,,common,CMR,Commander Legends,334,,,,
+Prophetic Prism,{2},2.0,Artifact,"When this artifact enters, draw a card.
+{1}, {T}: Add one mana of any color.",,,common,PLST,The List,A25-229,,,,
+Prophetic Prism,{2},2.0,Artifact,"When this artifact enters, draw a card.
+{1}, {T}: Add one mana of any color.",,,common,CLB,Commander Legends: Battle for Baldur's Gate,335,,,,
+Prophetic Prism,{2},2.0,Artifact,"When this artifact enters, draw a card.
+{1}, {T}: Add one mana of any color.",,,common,WOE,Wilds of Eldraine,249,,,,
+Prophetic Prism,{2},2.0,Artifact,"When this artifact enters, draw a card.
+{1}, {T}: Add one mana of any color.",,,common,J25,Foundations Jumpstart,758,,,,
+Prophetic Prism,{2},2.0,Artifact,"When this artifact enters, draw a card.
+{1}, {T}: Add one mana of any color.",,,common,ONE,Phyrexia: All Will Be One,238,,,,
+Prophetic Prism,{2},2.0,Artifact,"When this artifact enters, draw a card.
+{1}, {T}: Add one mana of any color.",,,common,CMM,Commander Masters,404,,,,
+Prophetic Prism,{2},2.0,Artifact,"When this artifact enters, draw a card.
+{1}, {T}: Add one mana of any color.",,,common,KLR,Kaladesh Remastered,264,,,,
+Prophetic Prism,{2},2.0,Artifact,"When this artifact enters, draw a card.
+{1}, {T}: Add one mana of any color.",,,common,BRC,The Brothers' War Commander,155,,,,
+Prophetic Prism,{2},2.0,Artifact,"When this artifact enters, draw a card.
+{1}, {T}: Add one mana of any color.",,,common,DMC,Dominaria United Commander,189,,,,
+Prophetic Prism,{2},2.0,Artifact,"When this artifact enters, draw a card.
+{1}, {T}: Add one mana of any color.",,,common,JMP,Jumpstart,478,,,,
+Prophetic Prism,{2},2.0,Artifact,"When this artifact enters, draw a card.
+{1}, {T}: Add one mana of any color.",,,common,A25,Masters 25,229,,,,
+Prophetic Prism,{2},2.0,Artifact,"When this artifact enters, draw a card.
+{1}, {T}: Add one mana of any color.",,,common,GTC,Gatecrash,234,,,,
+Prophetic Prism,{2},2.0,Artifact,"When this artifact enters, draw a card.
+{1}, {T}: Add one mana of any color.",,,common,CMD,Commander 2011,256,,,,
+Prophetic Prism,{2},2.0,Artifact,"When this artifact enters, draw a card.
+{1}, {T}: Add one mana of any color.",,,common,ROE,Rise of the Eldrazi,222,,,,
+Puca's Eye,{2},2.0,Artifact,"When this artifact enters, draw a card, then choose a color. This artifact becomes the chosen color.
+{3}, {T}: Draw a card. Activate only if there are five colors among permanents you control.",,,uncommon,ECL,Lorwyn Eclipsed,259,,,,
+Pyromancer's Goggles,{5},5.0,Legendary Artifact,"{T}: Add {R}. When that mana is spent to cast a red instant or sorcery spell, copy that spell and you may choose new targets for the copy.",,R,mythic,C21,Commander 2021,259,,,,
+Pyromancer's Goggles,{5},5.0,Legendary Artifact,"{T}: Add {R}. When that mana is spent to cast a red instant or sorcery spell, copy that spell and you may choose new targets for the copy.",,R,mythic,ORI,Magic Origins,236,,,,
+Pyromancer's Goggles,{5},5.0,Legendary Artifact,"{T}: Add {R}. When that mana is spent to cast a red instant or sorcery spell, copy that spell and you may choose new targets for the copy.",,R,mythic,SLD,Secret Lair Drop,1066,,,,
+Pyromancer's Goggles,{5},5.0,Legendary Artifact,"{T}: Add {R}. When that mana is spent to cast a red instant or sorcery spell, copy that spell and you may choose new targets for the copy.",,R,mythic,FDN,Foundations,677,,,,
