@@ -3,6 +3,8 @@ requests>=2.28.0
 
 # Optional: GUI scaffold (scaffold_gui.py)
 # customtkinter>=5.2.0
+# Pillow>=10.0.0          (mana icons — PIL fallback circles)
+# cairosvg>=2.7.0         (mana icons — full SVG rendering)
 
 # Optional: for development / linting
 # ruff>=0.4.0

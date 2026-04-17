@@ -39,6 +39,7 @@ Exit codes:
 
 import argparse
 import io
+import json
 import sys
 from pathlib import Path
 from typing import Any, Dict, List, Set
@@ -64,6 +65,7 @@ from synergy_engine import (
 )
 from synergy_thresholds import check_thresholds
 from synergy_report import build_markdown_report, build_json_report, build_top_n_csv
+from synergy_types import CompositeWeights
 
 
 # ═════════════════════════════════════════════════════════════════════════════
@@ -205,6 +207,19 @@ def _parse_args() -> argparse.Namespace:
                    help="Output format: markdown (default) or json")
     p.add_argument("--verbose", action="store_true",
                    help="Show per-pair interaction details in stderr")
+    # Weight customization flags
+    p.add_argument("--weight-engine-density", type=float, default=40.0,
+                   help="Weight for engine density (default: 40.0)")
+    p.add_argument("--weight-synergy-density", type=float, default=25.0,
+                   help="Weight for synergy density (default: 25.0)")
+    p.add_argument("--weight-raw-interactions-cap", type=float, default=20.0,
+                   help="Cap for raw interactions weight (default: 20.0)")
+    p.add_argument("--weight-role-breadth", type=float, default=3.0,
+                   help="Weight for role breadth (default: 3.0)")
+    p.add_argument("--weight-oracle-confirmed", type=float, default=2.0,
+                   help="Weight for oracle confirmed interactions (default: 2.0)")
+    p.add_argument("--weights-config", type=str, default="",
+                   help="JSON config file overriding weight defaults")
     # Legacy flags (kept for backward compat, ignored)
     p.add_argument("--min-synergy", type=float, default=3.0,
                    help=argparse.SUPPRESS)

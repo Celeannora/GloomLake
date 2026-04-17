@@ -92,7 +92,8 @@ INTERACTION_WEIGHTS: Dict[InteractionType, float] = {
     InteractionType.ENABLES: 2.0,
     InteractionType.AMPLIFIES: 1.5,
     InteractionType.PROTECTS: 1.0,
-    InteractionType.REDUNDANT: 0.0,
+    # Redundant interactions still matter for density calculations; give them a small weight
+    InteractionType.REDUNDANT: 0.5,
 }
 
 

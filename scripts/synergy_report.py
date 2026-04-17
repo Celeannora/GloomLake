@@ -14,6 +14,7 @@ from __future__ import annotations
 import csv
 import io
 import json
+import random
 from collections import defaultdict, deque
 from datetime import datetime, timezone
 from typing import Any, Dict, List, Optional, Set, Tuple
@@ -21,10 +22,11 @@ from typing import Any, Dict, List, Optional, Set, Tuple
 from synergy_types import (
     InteractionType, CardRole, CardScore, ThresholdResult, ThresholdStatus,
     ThresholdConfig, ROLE_TAGS, Interaction, DECK_THRESHOLDS, POOL_THRESHOLDS,
+    CompositeWeights,
 )
 from synergy_thresholds import get_thresholds
 
-__all__ = ["build_markdown_report", "build_json_report", "build_top_n_csv"]
+__all__ = ["build_markdown_report", "build_json_report", "build_top_n_csv", "stochastic_ranking"]
 
 # ── Constants ────────────────────────────────────────────────────────────────
 _ENGINE_ROLES = frozenset({CardRole.ENGINE, CardRole.ENABLER, CardRole.PAYOFF})
@@ -43,6 +45,58 @@ _TOP_COLS = [
     "raw_synergy", "synergy_density", "role_breadth",
     "oracle_interactions", "dependency", "top_partners",
 ]
+
+
+def stochastic_ranking(
+    scores: Dict[str, CardScore],
+    temperature: float = 0.0,
+    seed: Optional[int] = None,
+    weights: Optional[CompositeWeights] = None,
+) -> List[Tuple[str, CardScore]]:
+    """
+    Apply temperature-based stochastic ranking to CardScore dict.
+
+    Parameters
+    ----------
+    scores : Dict[str, CardScore]
+        Mapping of card name to CardScore instances
+    temperature : float
+        Variation factor (0.0 = deterministic, 0.1 = high variation)
+    seed : Optional[int]
+        Random seed for reproducibility
+    weights : Optional[CompositeWeights]
+        Custom weights for composite score; if None, uses default weights.
+
+    Returns
+    -------
+    List[Tuple[str, CardScore]]
+        Ranked (name, score) pairs
+    """
+    if seed is not None:
+        random.seed(seed)
+
+    if temperature <= 0.0:
+        # Fast path: deterministic sorting
+        if weights is None:
+            return sorted(scores.items(), key=lambda x: -x[1].composite_score)
+        else:
+            return sorted(scores.items(), key=lambda x: -x[1].composite_score_with(weights))
+
+    ranked = []
+    for name, score in scores.items():
+        base = score.composite_score_with(weights) if weights else score.composite_score
+        if base <= 0:
+            noise = 0.0
+        else:
+            # Gaussian noise with stddev proportional to score and temperature
+            stddev = temperature * base
+            noise = random.gauss(0.0, stddev)
+        adjusted = base + noise
+        ranked.append((name, score, adjusted))
+
+    # Sort by adjusted score (descending)
+    ranked.sort(key=lambda x: -x[2])
+    return [(name, score) for name, score, _ in ranked]
 
 
 # ═════════════════════════════════════════════════════════════════════════════
