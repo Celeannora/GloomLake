@@ -3,8 +3,8 @@
 Low-Memory MTG Card Fetcher — Streaming version safe for Android/Termux.
 
 Streams the Scryfall bulk JSON one card at a time using ijson so the full
-100 MB payload is NEVER loaded into RAM. Each card is written to disk as
-it arrives. Peak RAM usage is under 50 MB regardless of device.
+100 MB payload is NEVER loaded into RAM. Handles gzip-compressed responses.
+Peak RAM usage is under 50 MB regardless of device.
 
 Produces identical output to fetch_and_categorize_cards.py:
     cards_by_category/{type}/{type}_{letter}.csv
@@ -22,13 +22,11 @@ import io
 import math
 import os
 import sys
+import zlib
 from collections import defaultdict
 from pathlib import Path
 from typing import Dict, List
 
-# ---------------------------------------------------------------------------
-# Auto-install ijson if missing (Termux-friendly)
-# ---------------------------------------------------------------------------
 try:
     import ijson
 except ImportError:
@@ -43,7 +41,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from mtg_utils import RepoPaths
 
 # ---------------------------------------------------------------------------
-# Constants (mirrors fetch_and_categorize_cards.py)
+# Constants
 # ---------------------------------------------------------------------------
 CARD_TYPES = [
     "artifact", "battle", "creature", "enchantment", "instant",
@@ -57,8 +55,9 @@ CSV_FIELDNAMES = [
     "produced_mana", "keywords", "tags", "legal_formats",
 ]
 
-MAX_FILE_BYTES = 80 * 1024  # 80 KB per CSV shard
+MAX_FILE_BYTES = 80 * 1024
 REQUEST_TIMEOUT = 90
+CHUNK_SIZE = 256 * 1024  # 256 KB chunks
 
 _TAG_RULES = [
     ("lifegain",    ["you gain", "lifelink", "gain life"]),
@@ -123,6 +122,55 @@ def _primary_type(type_line: str) -> str:
 
 
 # ---------------------------------------------------------------------------
+# Gzip-transparent stream wrapper
+# ---------------------------------------------------------------------------
+
+class GzipStreamWrapper(io.RawIOBase):
+    """
+    Wraps a requests raw stream and transparently decompresses gzip on the fly.
+    Passes plain bytes through unchanged if not gzip-encoded.
+    """
+    def __init__(self, raw_stream, chunk_size: int = CHUNK_SIZE):
+        self._raw = raw_stream
+        self._chunk_size = chunk_size
+        self._buf = b""
+        self._done = False
+        # Peek first two bytes to detect gzip magic number 0x1f 0x8b
+        peek = raw_stream.read(2)
+        if peek[:2] == b"\x1f\x8b":
+            # wbits=47 => zlib auto-detects gzip or zlib wrapper
+            self._decomp = zlib.decompressobj(wbits=47)
+            self._buf = self._decomp.decompress(peek)
+        else:
+            self._decomp = None
+            self._buf = peek
+
+    def readable(self):
+        return True
+
+    def readinto(self, b):
+        while not self._buf and not self._done:
+            chunk = self._raw.read(self._chunk_size)
+            if not chunk:
+                if self._decomp:
+                    self._buf = self._decomp.flush()
+                self._done = True
+                break
+            if self._decomp:
+                self._buf = self._decomp.decompress(chunk)
+            else:
+                self._buf = chunk
+
+        if not self._buf:
+            return 0
+
+        n = min(len(b), len(self._buf))
+        b[:n] = self._buf[:n]
+        self._buf = self._buf[n:]
+        return n
+
+
+# ---------------------------------------------------------------------------
 # Streaming fetch
 # ---------------------------------------------------------------------------
 
@@ -140,20 +188,20 @@ def _get_bulk_url() -> str:
 
 def stream_standard_cards(url: str):
     """Generator: yields one processed card dict at a time, Standard-legal only."""
-    print("Streaming card data (this takes 2-5 min on mobile)...", flush=True)
+    print("Streaming card data (2-5 min on mobile)...", flush=True)
     seen: set[str] = set()
     count = total = 0
 
     with requests.get(url, stream=True, timeout=REQUEST_TIMEOUT) as resp:
         resp.raise_for_status()
-        # ijson parses the JSON array incrementally from the HTTP stream
-        for card in ijson.items(resp.raw, "item"):
+        # Wrap raw stream with gzip decompressor
+        stream = io.BufferedReader(GzipStreamWrapper(resp.raw))
+        for card in ijson.items(stream, "item"):
             total += 1
             if total % 5000 == 0:
-                print(f"  Scanned {total:,} cards, kept {count:,} Standard-legal...",
+                print(f"  Scanned {total:,} | kept {count:,} Standard...",
                       end="\r", flush=True)
 
-            # Skip non-Standard and tokens
             if card.get("legalities", {}).get("standard") != "legal":
                 continue
             if card.get("layout") in ("token", "emblem", "art_series"):
@@ -194,14 +242,14 @@ def stream_standard_cards(url: str):
                 ),
             }
 
-    print(f"\n  Done streaming: {total:,} total, {count:,} Standard-legal kept.", flush=True)
+    print(f"\n  Done: {total:,} scanned, {count:,} Standard-legal kept.", flush=True)
 
 
 # ---------------------------------------------------------------------------
 # Write CSV shards
 # ---------------------------------------------------------------------------
 
-def _estimate_row_bytes(rows: list[dict]) -> int:
+def _estimate_row_bytes(rows: list) -> int:
     if not rows:
         return 0
     buf = io.StringIO()
@@ -212,15 +260,14 @@ def _estimate_row_bytes(rows: list[dict]) -> int:
     return int(avg * len(rows))
 
 
-def write_shards(categorized: dict[str, list[dict]], output_dir: Path) -> None:
+def write_shards(categorized: dict, output_dir: Path) -> None:
     print("\nWriting CSV shards...", flush=True)
     for type_name in sorted(categorized):
         cards = sorted(categorized[type_name], key=lambda c: c["name"].lower())
         if not cards:
             continue
 
-        # Group by first letter
-        by_letter: dict[str, list[dict]] = defaultdict(list)
+        by_letter: dict = defaultdict(list)
         for c in cards:
             letter = c["name"][0].upper() if c["name"] else "0"
             by_letter[letter if letter.isalpha() else "0"].append(c)
@@ -252,7 +299,7 @@ def write_shards(categorized: dict[str, list[dict]], output_dir: Path) -> None:
                 print(f"  {type_name}/{fname}.csv  ({len(rows)} cards, {kb:.1f} KB)")
                 file_count += 1
 
-        print(f"  [{type_name}] {len(cards)} cards -> {file_count} files")
+        print(f"  [{type_name}] {len(cards)} cards -> {file_count} files", flush=True)
 
 
 # ---------------------------------------------------------------------------
@@ -264,17 +311,16 @@ def main() -> None:
     output_dir = paths.cards_dir
 
     print("=" * 60)
-    print("  MTG LOW-MEMORY CARD FETCHER")
-    print(f"  Output: {output_dir}/")
-    print("  Peak RAM: < 50 MB (streaming mode)")
+    print("  MTG LOW-MEMORY STREAMING CARD FETCHER")
+    print(f"  Output : {output_dir}/")
+    print("  RAM    : < 50 MB (gzip stream, no full JSON load)")
     print("=" * 60 + "\n")
 
     url = _get_bulk_url()
 
-    categorized: dict[str, list[dict]] = defaultdict(list)
+    categorized: dict = defaultdict(list)
     for card in stream_standard_cards(url):
-        ptype = _primary_type(card["type_line"])
-        categorized[ptype].append(card)
+        categorized[_primary_type(card["type_line"])].append(card)
 
     total = sum(len(v) for v in categorized.values())
     print(f"\n  Categorized {total} unique Standard cards.", flush=True)
@@ -283,7 +329,7 @@ def main() -> None:
 
     print("\n" + "=" * 60)
     print("  DONE — cards_by_category/ is ready.")
-    print("  Run the pipeline:")
+    print("  Now run:")
     print("  python scripts/goldfish_autoresearch_cli.py \\")
     print("    --name \"Esper Control\" --colors WUB \\")
     print("    --archetype control lifegain \\")
