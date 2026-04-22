@@ -1,0 +1,39 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,produced_mana,keywords,tags,legal_formats
+Fabled Passage,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Then if you control four or more lands, untap that land.",,,rare,SLD,Secret Lair Drop,727,,,,,,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Festering Gulch,,0.0,Land — Desert,"This land enters tapped.
+When this land enters, it deals 1 damage to target opponent.
+{T}: Add {B} or {G}.",,"B,G",common,OTJ,Outlaws of Thunder Junction,257,,,,"B,G",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,paupercommander,duel"
+Fields of Strife,,0.0,Land,"This land enters tapped.
+{T}: Add {R} or {W}.
+{2}{R}{W}, {T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,"R,W",common,SOS,Secrets of Strixhaven,255,,,,"R,W",Surveil,ramp;surveil,"standard,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Fire Nation Palace,,0.0,Land,"This land enters tapped unless you control a basic land.
+{T}: Add {R}.
+{1}{R}, {T}: Target creature you control gains firebending 4 until end of turn. (Whenever it attacks, add {R}{R}{R}{R}. This mana lasts until end of combat.)",,R,rare,PTLA,Avatar: The Last Airbender Promos,268s,,,,R,,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Floodfarm Verge,,0.0,Land,"{T}: Add {W}.
+{T}: Add {U}. Activate only if you control a Plains or an Island.",,"U,W",rare,DSK,Duskmourn: House of Horror,330,,,,"U,W",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Foggy Bottom Swamp,,0.0,Land,"This land enters tapped.
+{T}: Add {B} or {G}.
+{4}, {T}, Sacrifice this land: Draw a card.",,"B,G",common,TLA,Avatar: The Last Airbender,269,,,,"B,G",,draw;ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Fomori Vault,,0.0,Land,"{T}: Add {C}.
+{3}, {T}, Discard a card: Look at the top X cards of your library, where X is the number of artifacts you control. Put one of those cards into your hand and the rest on the bottom of your library in a random order.",,,mythic,BIG,The Big Score,94,,,,C,,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+Foot Headquarters,,0.0,Land,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {W} or {B}.",,"B,W",common,TMT,Teenage Mutant Ninja Turtles,185,,,,"B,W",,lifegain;ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Forest,,0.0,Basic Land — Forest,({T}: Add {G}.),,G,common,BLB,Bloomburrow,280,,,,G,,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel,premodern,predh"
+Forgotten Monument,,0.0,Land — Cave,"{T}: Add {C}.
+Other Caves you control have ""{T}, Pay 1 life: Add one mana of any color.""",,,uncommon,LCI,The Lost Caverns of Ixalan,272,,,,"B,C,G,R,U,W",,ramp;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"
+Forlorn Flats,,0.0,Land — Desert,"This land enters tapped.
+When this land enters, it deals 1 damage to target opponent.
+{T}: Add {W} or {B}.",,"B,W",common,OTJ,Outlaws of Thunder Junction,258,,,,"B,W",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,paupercommander,duel"
+Forum of Amity,,0.0,Land,"This land enters tapped.
+{T}: Add {W} or {B}.
+{2}{W}{B}, {T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,"B,W",common,SOS,Secrets of Strixhaven,256,,,,"B,W",Surveil,ramp;surveil,"standard,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Foul Roads,,0.0,Land,"This land enters tapped unless you control a Mount or Vehicle.
+{T}: Add {B}.
+{1}{B}, {T}, Sacrifice this land: Create a 1/1 colorless Pilot creature token with ""This token saddles Mounts and crews Vehicles as though its power were 2 greater."" Activate only as a sorcery.",,B,uncommon,DFT,Aetherdrift,255,,,,B,,ramp;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Fountainport,,0.0,Land,"{T}: Add {C}.
+{2}, {T}, Sacrifice a token: Draw a card.
+{3}, {T}, Pay 1 life: Create a 1/1 blue Fish creature token.
+{4}, {T}: Create a Treasure token.",,,rare,PBLB,Bloomburrow Promos,253p,,,,C,Treasure,draw;ramp;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Frontier Bivouac,,0.0,Land,"This land enters tapped.
+{T}: Add {G}, {U}, or {R}.",,"G,R,U",uncommon,40K,"Warhammer 40,000 Commander",281,,,,"G,R,U",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"

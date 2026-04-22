@@ -1,0 +1,618 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Tarnation Vista,,0.0,Land,"This land enters tapped. As it enters, choose a color.
+{T}: Add one mana of the chosen color.
+{1}, {T}: For each color among monocolored permanents you control, add one mana of that color.",,,mythic,BIG,The Big Score,95,,,,
+Tarnation Vista,,0.0,Land,"This land enters tapped. As it enters, choose a color.
+{T}: Add one mana of the chosen color.
+{1}, {T}: For each color among monocolored permanents you control, add one mana of that color.",,,mythic,BIG,The Big Score,30,,,,
+Tarnation Vista,,0.0,Land,"This land enters tapped. As it enters, choose a color.
+{T}: Add one mana of the chosen color.
+{1}, {T}: For each color among monocolored permanents you control, add one mana of that color.",,,mythic,BIG,The Big Score,60,,,,
+Tarnation Vista,,0.0,Land,"This land enters tapped. As it enters, choose a color.
+{T}: Add one mana of the chosen color.
+{1}, {T}: For each color among monocolored permanents you control, add one mana of that color.",,,mythic,BIG,The Big Score,65,,,,
+Tarnation Vista,,0.0,Land,"This land enters tapped. As it enters, choose a color.
+{T}: Add one mana of the chosen color.
+{1}, {T}: For each color among monocolored permanents you control, add one mana of that color.",,,mythic,PBIG,The Big Score Promos,30p,,,,
+TCRI Building,,0.0,Land,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {U} or {R}.",,"R,U",common,TMT,Teenage Mutant Ninja Turtles,189,,,,
+Temple Garden,,0.0,Land — Forest Plains,"({T}: Add {G} or {W}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"G,W",rare,CLU,Ravnica: Clue Edition,282,,,,
+Temple Garden,,0.0,Land — Forest Plains,"({T}: Add {G} or {W}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"G,W",rare,RVR,Ravnica Remastered,290,,,,
+Temple Garden,,0.0,Land — Forest Plains,"({T}: Add {G} or {W}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"G,W",rare,PGRN,Guilds of Ravnica Promos,258p,,,,
+Temple Garden,,0.0,Land — Forest Plains,"({T}: Add {G} or {W}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"G,W",rare,RVR,Ravnica Remastered,300,,,,
+Temple Garden,,0.0,Land — Forest Plains,"({T}: Add {G} or {W}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"G,W",rare,RVR,Ravnica Remastered,414,,,,
+Temple Garden,,0.0,Land — Forest Plains,"({T}: Add {G} or {W}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"G,W",rare,GRN,Guilds of Ravnica,258,,,,
+Temple Garden,,0.0,Land — Forest Plains,"({T}: Add {G} or {W}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"G,W",rare,SLD,Secret Lair Drop,127,,,,
+Temple Garden,,0.0,Land — Forest Plains,"({T}: Add {G} or {W}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"G,W",rare,UNF,Unfinity,281,,,,
+Temple Garden,,0.0,Land — Forest Plains,"({T}: Add {G} or {W}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"G,W",rare,ECL,Lorwyn Eclipsed,268,,,,
+Temple Garden,,0.0,Land — Forest Plains,"({T}: Add {G} or {W}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"G,W",rare,RVR,Ravnica Remastered,414z,,,,
+Temple Garden,,0.0,Land — Forest Plains,"({T}: Add {G} or {W}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"G,W",rare,PECL,Lorwyn Eclipsed Promos,268p,,,,
+Temple Garden,,0.0,Land — Forest Plains,"({T}: Add {G} or {W}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"G,W",rare,RAV,Ravnica: City of Guilds,284,,,,
+Temple Garden,,0.0,Land — Forest Plains,"({T}: Add {G} or {W}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"G,W",mythic,EXP,Zendikar Expeditions,10,,,,
+Temple Garden,,0.0,Land — Forest Plains,"({T}: Add {G} or {W}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"G,W",rare,PRM,Magic Online Promos,72303,,,,
+Temple Garden,,0.0,Land — Forest Plains,"({T}: Add {G} or {W}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"G,W",rare,RTR,Return to Ravnica,248,,,,
+Temple Garden,,0.0,Land — Forest Plains,"({T}: Add {G} or {W}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"G,W",rare,UNF,Unfinity,532,,,,
+Temple of Abandon,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {R} or {G}.",,"G,R",rare,MOC,March of the Machine Commander,430,,,,Scry
+Temple of Abandon,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {R} or {G}.",,"G,R",rare,WHO,Doctor Who,904,,,,Scry
+Temple of Abandon,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {R} or {G}.",,"G,R",rare,NEC,Neon Dynasty Commander,179,,,,Scry
+Temple of Abandon,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {R} or {G}.",,"G,R",rare,THB,Theros Beyond Death,347,,,,Scry
+Temple of Abandon,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {R} or {G}.",,"G,R",rare,MKC,Murders at Karlov Manor Commander,301,,,,Scry
+Temple of Abandon,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {R} or {G}.",,"G,R",rare,PTHB,Theros Beyond Death Promos,244s,,,,Scry
+Temple of Abandon,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {R} or {G}.",,"G,R",rare,PIP,Fallout,516,,,,Scry
+Temple of Abandon,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {R} or {G}.",,"G,R",rare,WHO,Doctor Who,1114,,,,Scry
+Temple of Abandon,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {R} or {G}.",,"G,R",rare,THS,Theros,224,,,,Scry
+Temple of Abandon,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {R} or {G}.",,"G,R",rare,SCD,Starter Commander Decks,323,,,,Scry
+Temple of Abandon,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {R} or {G}.",,"G,R",rare,M3C,Modern Horizons 3 Commander,385,,,,Scry
+Temple of Abandon,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {R} or {G}.",,"G,R",rare,BLC,Bloomburrow Commander,338,,,,Scry
+Temple of Abandon,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {R} or {G}.",,"G,R",rare,PRM,Magic Online Promos,79877,,,,Scry
+Temple of Abandon,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {R} or {G}.",,"G,R",rare,PIP,Fallout,302,,,,Scry
+Temple of Abandon,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {R} or {G}.",,"G,R",rare,THB,Theros Beyond Death,244,,,,Scry
+Temple of Abandon,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {R} or {G}.",,"G,R",rare,FDN,Foundations,696,,,,Scry
+Temple of Abandon,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {R} or {G}.",,"G,R",rare,PIP,Fallout,830,,,,Scry
+Temple of Abandon,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {R} or {G}.",,"G,R",rare,WHO,Doctor Who,523,,,,Scry
+Temple of Abandon,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {R} or {G}.",,"G,R",rare,WHO,Doctor Who,313,,,,Scry
+Temple of Abandon,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {R} or {G}.",,"G,R",rare,THB,Theros Beyond Death,347★,,,,Scry
+Temple of Abandon,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {R} or {G}.",,"G,R",rare,40K,"Warhammer 40,000 Commander",297,,,,Scry
+Temple of Abandon,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {R} or {G}.",,"G,R",rare,TDC,Tarkir: Dragonstorm Commander,400,,,,Scry
+Temple of Abandon,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {R} or {G}.",,"G,R",rare,PIP,Fallout,1044,,,,Scry
+Temple of Abandon,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {R} or {G}.",,"G,R",rare,PTHB,Theros Beyond Death Promos,244p,,,,Scry
+Temple of Abandon,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {R} or {G}.",,"G,R",rare,CLB,Commander Legends: Battle for Baldur's Gate,921,,,,Scry
+Temple of Abandon,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {R} or {G}.",,"G,R",rare,40K,"Warhammer 40,000 Commander",297★,,,,Scry
+Temple of Deceit,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {B}.",,"B,U",rare,WHO,Doctor Who,524,,,,Scry
+Temple of Deceit,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {B}.",,"B,U",rare,OTC,Outlaws of Thunder Junction Commander,328,,,,Scry
+Temple of Deceit,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {B}.",,"B,U",rare,PIP,Fallout,1045,,,,Scry
+Temple of Deceit,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {B}.",,"B,U",rare,BRC,The Brothers' War Commander,205,,,,Scry
+Temple of Deceit,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {B}.",,"B,U",rare,PRM,Magic Online Promos,79873,,,,Scry
+Temple of Deceit,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {B}.",,"B,U",rare,PTHB,Theros Beyond Death Promos,245p,,,,Scry
+Temple of Deceit,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {B}.",,"B,U",rare,PIP,Fallout,303,,,,Scry
+Temple of Deceit,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {B}.",,"B,U",rare,SCD,Starter Commander Decks,324,,,,Scry
+Temple of Deceit,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {B}.",,"B,U",rare,THS,Theros,225,,,,Scry
+Temple of Deceit,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {B}.",,"B,U",rare,PIP,Fallout,517,,,,Scry
+Temple of Deceit,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {B}.",,"B,U",rare,PTHB,Theros Beyond Death Promos,245s,,,,Scry
+Temple of Deceit,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {B}.",,"B,U",rare,WHO,Doctor Who,1115,,,,Scry
+Temple of Deceit,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {B}.",,"B,U",rare,PIP,Fallout,831,,,,Scry
+Temple of Deceit,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {B}.",,"B,U",rare,THB,Theros Beyond Death,348,,,,Scry
+Temple of Deceit,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {B}.",,"B,U",rare,WHO,Doctor Who,905,,,,Scry
+Temple of Deceit,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {B}.",,"B,U",rare,MOC,March of the Machine Commander,431,,,,Scry
+Temple of Deceit,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {B}.",,"B,U",rare,DRC,Aetherdrift Commander,176,,,,Scry
+Temple of Deceit,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {B}.",,"B,U",rare,WHO,Doctor Who,314,,,,Scry
+Temple of Deceit,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {B}.",,"B,U",rare,FDN,Foundations,697,,,,Scry
+Temple of Deceit,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {B}.",,"B,U",rare,THB,Theros Beyond Death,245,,,,Scry
+Temple of Deceit,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {B}.",,"B,U",rare,WOC,Wilds of Eldraine Commander,170,,,,Scry
+Temple of Deceit,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {B}.",,"B,U",rare,DSC,Duskmourn: House of Horror Commander,307,,,,Scry
+Temple of Deceit,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {B}.",,"B,U",rare,MIC,Midnight Hunt Commander,184,,,,Scry
+Temple of Deceit,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {B}.",,"B,U",rare,CLB,Commander Legends: Battle for Baldur's Gate,922,,,,Scry
+Temple of Enlightenment,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {W} or {U}.",,"U,W",rare,FDN,Foundations,698,,,,Scry
+Temple of Enlightenment,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {W} or {U}.",,"U,W",rare,BRC,The Brothers' War Commander,206,,,,Scry
+Temple of Enlightenment,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {W} or {U}.",,"U,W",rare,WHO,Doctor Who,1116,,,,Scry
+Temple of Enlightenment,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {W} or {U}.",,"U,W",rare,TDC,Tarkir: Dragonstorm Commander,401,,,,Scry
+Temple of Enlightenment,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {W} or {U}.",,"U,W",rare,PTHB,Theros Beyond Death Promos,246p,,,,Scry
+Temple of Enlightenment,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {W} or {U}.",,"U,W",rare,M3C,Modern Horizons 3 Commander,386,,,,Scry
+Temple of Enlightenment,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {W} or {U}.",,"U,W",rare,PIP,Fallout,1046,,,,Scry
+Temple of Enlightenment,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {W} or {U}.",,"U,W",rare,WHO,Doctor Who,525,,,,Scry
+Temple of Enlightenment,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {W} or {U}.",,"U,W",rare,DSC,Duskmourn: House of Horror Commander,308,,,,Scry
+Temple of Enlightenment,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {W} or {U}.",,"U,W",rare,PRM,Magic Online Promos,79871,,,,Scry
+Temple of Enlightenment,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {W} or {U}.",,"U,W",rare,PIP,Fallout,304,,,,Scry
+Temple of Enlightenment,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {W} or {U}.",,"U,W",rare,PTHB,Theros Beyond Death Promos,246s,,,,Scry
+Temple of Enlightenment,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {W} or {U}.",,"U,W",rare,CMM,Commander Masters,1041,,,,Scry
+Temple of Enlightenment,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {W} or {U}.",,"U,W",rare,BLC,Bloomburrow Commander,339,,,,Scry
+Temple of Enlightenment,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {W} or {U}.",,"U,W",rare,THB,Theros Beyond Death,349,,,,Scry
+Temple of Enlightenment,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {W} or {U}.",,"U,W",rare,PIP,Fallout,518,,,,Scry
+Temple of Enlightenment,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {W} or {U}.",,"U,W",rare,NEC,Neon Dynasty Commander,180,,,,Scry
+Temple of Enlightenment,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {W} or {U}.",,"U,W",rare,MOC,March of the Machine Commander,432,,,,Scry
+Temple of Enlightenment,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {W} or {U}.",,"U,W",rare,THB,Theros Beyond Death,246,,,,Scry
+Temple of Enlightenment,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {W} or {U}.",,"U,W",rare,PIP,Fallout,832,,,,Scry
+Temple of Enlightenment,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {W} or {U}.",,"U,W",rare,WHO,Doctor Who,315,,,,Scry
+Temple of Enlightenment,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {W} or {U}.",,"U,W",rare,BNG,Born of the Gods,163,,,,Scry
+Temple of Enlightenment,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {W} or {U}.",,"U,W",rare,SCD,Starter Commander Decks,325,,,,Scry
+Temple of Enlightenment,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {W} or {U}.",,"U,W",rare,EOC,Edge of Eternities Commander,186,,,,Scry
+Temple of Enlightenment,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {W} or {U}.",,"U,W",rare,MKC,Murders at Karlov Manor Commander,302,,,,Scry
+Temple of Enlightenment,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {W} or {U}.",,"U,W",rare,WHO,Doctor Who,906,,,,Scry
+Temple of Enlightenment,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {W} or {U}.",,"U,W",rare,VOC,Crimson Vow Commander,185,,,,Scry
+Temple of Enlightenment,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {W} or {U}.",,"U,W",rare,FIC,Final Fantasy Commander,435,,,,Scry
+Temple of Epiphany,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {R}.",,"R,U",rare,M20,Core Set 2020,253,,,,Scry
+Temple of Epiphany,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {R}.",,"R,U",rare,MOC,March of the Machine Commander,433,,,,Scry
+Temple of Epiphany,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {R}.",,"R,U",rare,PRM,Magic Online Promos,81950,,,,Scry
+Temple of Epiphany,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {R}.",,"R,U",rare,M21,Core Set 2021,252,,,,Scry
+Temple of Epiphany,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {R}.",,"R,U",rare,FDN,Foundations,699,,,,Scry
+Temple of Epiphany,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {R}.",,"R,U",rare,PM21,Core Set 2021 Promos,252p,,,,Scry
+Temple of Epiphany,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {R}.",,"R,U",rare,PM20,Core Set 2020 Promos,253p,,,,Scry
+Temple of Epiphany,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {R}.",,"R,U",rare,PIP,Fallout,305,,,,Scry
+Temple of Epiphany,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {R}.",,"R,U",rare,PM21,Core Set 2021 Promos,252s,,,,Scry
+Temple of Epiphany,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {R}.",,"R,U",rare,PLST,The List,M21-252,,,,Scry
+Temple of Epiphany,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {R}.",,"R,U",rare,DDU,Duel Decks: Elves vs. Inventors,72,,,,Scry
+Temple of Epiphany,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {R}.",,"R,U",rare,PM20,Core Set 2020 Promos,253s,,,,Scry
+Temple of Epiphany,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {R}.",,"R,U",rare,BLC,Bloomburrow Commander,340,,,,Scry
+Temple of Epiphany,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {R}.",,"R,U",rare,40K,"Warhammer 40,000 Commander",298,,,,Scry
+Temple of Epiphany,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {R}.",,"R,U",rare,DRC,Aetherdrift Commander,177,,,,Scry
+Temple of Epiphany,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {R}.",,"R,U",rare,WHO,Doctor Who,1117,,,,Scry
+Temple of Epiphany,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {R}.",,"R,U",rare,CLB,Commander Legends: Battle for Baldur's Gate,923,,,,Scry
+Temple of Epiphany,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {R}.",,"R,U",rare,TDC,Tarkir: Dragonstorm Commander,402,,,,Scry
+Temple of Epiphany,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {R}.",,"R,U",rare,WHO,Doctor Who,907,,,,Scry
+Temple of Epiphany,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {R}.",,"R,U",rare,EOC,Edge of Eternities Commander,187,,,,Scry
+Temple of Epiphany,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {R}.",,"R,U",rare,NCC,New Capenna Commander,432,,,,Scry
+Temple of Epiphany,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {R}.",,"R,U",rare,WHO,Doctor Who,316,,,,Scry
+Temple of Epiphany,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {R}.",,"R,U",rare,M21,Core Set 2021,387,,,,Scry
+Temple of Epiphany,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {R}.",,"R,U",rare,M3C,Modern Horizons 3 Commander,387,,,,Scry
+Temple of Epiphany,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {R}.",,"R,U",rare,JOU,Journey into Nyx,164,,,,Scry
+Temple of Epiphany,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {R}.",,"R,U",rare,PIP,Fallout,519,,,,Scry
+Temple of Epiphany,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {R}.",,"R,U",rare,PIP,Fallout,833,,,,Scry
+Temple of Epiphany,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {R}.",,"R,U",rare,BRC,The Brothers' War Commander,207,,,,Scry
+Temple of Epiphany,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {R}.",,"R,U",rare,WHO,Doctor Who,526,,,,Scry
+Temple of Epiphany,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {R}.",,"R,U",rare,PIP,Fallout,1047,,,,Scry
+Temple of Epiphany,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {R}.",,"R,U",rare,40K,"Warhammer 40,000 Commander",298★,,,,Scry
+Temple of Epiphany,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {R}.",,"R,U",rare,CMM,Commander Masters,1042,,,,Scry
+Temple of Epiphany,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {R}.",,"R,U",rare,C21,Commander 2021,322,,,,Scry
+Temple of Epiphany,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {R}.",,"R,U",rare,OTC,Outlaws of Thunder Junction Commander,329,,,,Scry
+Temple of Malady,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {B} or {G}.",,"B,G",rare,CMM,Commander Masters,1043,,,,Scry
+Temple of Malady,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {B} or {G}.",,"B,G",rare,FDN,Foundations,700,,,,Scry
+Temple of Malady,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {B} or {G}.",,"B,G",rare,PIP,Fallout,306,,,,Scry
+Temple of Malady,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {B} or {G}.",,"B,G",rare,PIP,Fallout,834,,,,Scry
+Temple of Malady,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {B} or {G}.",,"B,G",rare,C21,Commander 2021,323,,,,Scry
+Temple of Malady,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {B} or {G}.",,"B,G",rare,BLC,Bloomburrow Commander,341,,,,Scry
+Temple of Malady,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {B} or {G}.",,"B,G",rare,OTC,Outlaws of Thunder Junction Commander,330,,,,Scry
+Temple of Malady,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {B} or {G}.",,"B,G",rare,PM21,Core Set 2021 Promos,253p,,,,Scry
+Temple of Malady,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {B} or {G}.",,"B,G",rare,PM20,Core Set 2020 Promos,254p,,,,Scry
+Temple of Malady,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {B} or {G}.",,"B,G",rare,PM20,Core Set 2020 Promos,254s,,,,Scry
+Temple of Malady,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {B} or {G}.",,"B,G",rare,ONC,Phyrexia: All Will Be One Commander,169,,,,Scry
+Temple of Malady,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {B} or {G}.",,"B,G",rare,M20,Core Set 2020,254,,,,Scry
+Temple of Malady,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {B} or {G}.",,"B,G",rare,M3C,Modern Horizons 3 Commander,388,,,,Scry
+Temple of Malady,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {B} or {G}.",,"B,G",rare,PIP,Fallout,520,,,,Scry
+Temple of Malady,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {B} or {G}.",,"B,G",rare,DSC,Duskmourn: House of Horror Commander,309,,,,Scry
+Temple of Malady,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {B} or {G}.",,"B,G",rare,PM21,Core Set 2021 Promos,253s,,,,Scry
+Temple of Malady,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {B} or {G}.",,"B,G",rare,NCC,New Capenna Commander,433,,,,Scry
+Temple of Malady,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {B} or {G}.",,"B,G",rare,M21,Core Set 2021,253,,,,Scry
+Temple of Malady,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {B} or {G}.",,"B,G",rare,PIP,Fallout,1048,,,,Scry
+Temple of Malady,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {B} or {G}.",,"B,G",rare,M21,Core Set 2021,388,,,,Scry
+Temple of Malady,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {B} or {G}.",,"B,G",rare,TDC,Tarkir: Dragonstorm Commander,403,,,,Scry
+Temple of Malady,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {B} or {G}.",,"B,G",rare,JOU,Journey into Nyx,165,,,,Scry
+Temple of Malady,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {B} or {G}.",,"B,G",rare,PRM,Magic Online Promos,81964,,,,Scry
+Temple of Malice,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {B} or {R}.",,"B,R",rare,DSC,Duskmourn: House of Horror Commander,310,,,,Scry
+Temple of Malice,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {B} or {R}.",,"B,R",rare,DMC,Dominaria United Commander,236,,,,Scry
+Temple of Malice,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {B} or {R}.",,"B,R",rare,BNG,Born of the Gods,164,,,,Scry
+Temple of Malice,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {B} or {R}.",,"B,R",rare,VOC,Crimson Vow Commander,186,,,,Scry
+Temple of Malice,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {B} or {R}.",,"B,R",rare,WHO,Doctor Who,1118,,,,Scry
+Temple of Malice,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {B} or {R}.",,"B,R",rare,PIP,Fallout,307,,,,Scry
+Temple of Malice,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {B} or {R}.",,"B,R",rare,BRC,The Brothers' War Commander,208,,,,Scry
+Temple of Malice,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {B} or {R}.",,"B,R",rare,M3C,Modern Horizons 3 Commander,389,,,,Scry
+Temple of Malice,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {B} or {R}.",,"B,R",rare,WHO,Doctor Who,527,,,,Scry
+Temple of Malice,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {B} or {R}.",,"B,R",rare,PTHB,Theros Beyond Death Promos,247p,,,,Scry
+Temple of Malice,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {B} or {R}.",,"B,R",rare,THB,Theros Beyond Death,247,,,,Scry
+Temple of Malice,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {B} or {R}.",,"B,R",rare,WHO,Doctor Who,908,,,,Scry
+Temple of Malice,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {B} or {R}.",,"B,R",rare,PTHB,Theros Beyond Death Promos,247s,,,,Scry
+Temple of Malice,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {B} or {R}.",,"B,R",rare,THB,Theros Beyond Death,350,,,,Scry
+Temple of Malice,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {B} or {R}.",,"B,R",rare,PIP,Fallout,521,,,,Scry
+Temple of Malice,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {B} or {R}.",,"B,R",rare,FDN,Foundations,701,,,,Scry
+Temple of Malice,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {B} or {R}.",,"B,R",rare,PIP,Fallout,835,,,,Scry
+Temple of Malice,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {B} or {R}.",,"B,R",rare,SCD,Starter Commander Decks,326,,,,Scry
+Temple of Malice,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {B} or {R}.",,"B,R",rare,PRM,Magic Online Promos,79875,,,,Scry
+Temple of Malice,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {B} or {R}.",,"B,R",rare,OTC,Outlaws of Thunder Junction Commander,331,,,,Scry
+Temple of Malice,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {B} or {R}.",,"B,R",rare,WHO,Doctor Who,317,,,,Scry
+Temple of Malice,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {B} or {R}.",,"B,R",rare,PIP,Fallout,1049,,,,Scry
+Temple of Mystery,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {G} or {U}.",,"G,U",rare,PM21,Core Set 2021 Promos,254s,,,,Scry
+Temple of Mystery,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {G} or {U}.",,"G,U",rare,M21,Core Set 2021,389,,,,Scry
+Temple of Mystery,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {G} or {U}.",,"G,U",rare,M20,Core Set 2020,255,,,,Scry
+Temple of Mystery,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {G} or {U}.",,"G,U",rare,C21,Commander 2021,324,,,,Scry
+Temple of Mystery,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {G} or {U}.",,"G,U",rare,WHO,Doctor Who,318,,,,Scry
+Temple of Mystery,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {G} or {U}.",,"G,U",rare,CP1,Magic 2015 Clash Pack,6,,,,Scry
+Temple of Mystery,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {G} or {U}.",,"G,U",rare,DSC,Duskmourn: House of Horror Commander,311,,,,Scry
+Temple of Mystery,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {G} or {U}.",,"G,U",rare,PIP,Fallout,522,,,,Scry
+Temple of Mystery,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {G} or {U}.",,"G,U",rare,THS,Theros,226,,,,Scry
+Temple of Mystery,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {G} or {U}.",,"G,U",rare,M3C,Modern Horizons 3 Commander,390,,,,Scry
+Temple of Mystery,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {G} or {U}.",,"G,U",rare,PRM,Magic Online Promos,81992,,,,Scry
+Temple of Mystery,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {G} or {U}.",,"G,U",rare,FIC,Final Fantasy Commander,436,,,,Scry
+Temple of Mystery,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {G} or {U}.",,"G,U",rare,PM20,Core Set 2020 Promos,255s,,,,Scry
+Temple of Mystery,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {G} or {U}.",,"G,U",rare,WHO,Doctor Who,1119,,,,Scry
+Temple of Mystery,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {G} or {U}.",,"G,U",rare,BLC,Bloomburrow Commander,342,,,,Scry
+Temple of Mystery,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {G} or {U}.",,"G,U",rare,40K,"Warhammer 40,000 Commander",299,,,,Scry
+Temple of Mystery,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {G} or {U}.",,"G,U",rare,WHO,Doctor Who,528,,,,Scry
+Temple of Mystery,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {G} or {U}.",,"G,U",rare,LCC,The Lost Caverns of Ixalan Commander,357,,,,Scry
+Temple of Mystery,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {G} or {U}.",,"G,U",rare,M21,Core Set 2021,254,,,,Scry
+Temple of Mystery,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {G} or {U}.",,"G,U",rare,PM20,Core Set 2020 Promos,255p,,,,Scry
+Temple of Mystery,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {G} or {U}.",,"G,U",rare,MKC,Murders at Karlov Manor Commander,303,,,,Scry
+Temple of Mystery,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {G} or {U}.",,"G,U",rare,OTC,Outlaws of Thunder Junction Commander,332,,,,Scry
+Temple of Mystery,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {G} or {U}.",,"G,U",rare,TDC,Tarkir: Dragonstorm Commander,404,,,,Scry
+Temple of Mystery,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {G} or {U}.",,"G,U",rare,PRM,Magic Online Promos,53846,,,,Scry
+Temple of Mystery,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {G} or {U}.",,"G,U",rare,FDN,Foundations,702,,,,Scry
+Temple of Mystery,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {G} or {U}.",,"G,U",rare,40K,"Warhammer 40,000 Commander",299★,,,,Scry
+Temple of Mystery,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {G} or {U}.",,"G,U",rare,MOC,March of the Machine Commander,434,,,,Scry
+Temple of Mystery,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {G} or {U}.",,"G,U",rare,NCC,New Capenna Commander,434,,,,Scry
+Temple of Mystery,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {G} or {U}.",,"G,U",rare,PIP,Fallout,308,,,,Scry
+Temple of Mystery,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {G} or {U}.",,"G,U",rare,PIP,Fallout,1050,,,,Scry
+Temple of Mystery,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {G} or {U}.",,"G,U",rare,PM21,Core Set 2021 Promos,254p,,,,Scry
+Temple of Mystery,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {G} or {U}.",,"G,U",rare,PIP,Fallout,836,,,,Scry

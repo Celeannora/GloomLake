@@ -1,0 +1,44 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,produced_mana,keywords,tags,legal_formats
+Capital City,,0.0,Land — Town,"{T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+Cycling {2} ({2}, Discard this card: Draw a card.)",,,uncommon,FIN,Final Fantasy,274,,,,"B,C,G,R,U,W",Cycling,draw;ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Captivating Cave,,0.0,Land — Cave,"{T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+{4}, {T}, Sacrifice this land: Put two +1/+1 counters on target creature. Activate only as a sorcery.",,,common,LCI,The Lost Caverns of Ixalan,268,,,,"B,C,G,R,U,W",,pump;ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,paupercommander,duel"
+Cavern of Souls,,0.0,Land,"As this land enters, choose a creature type.
+{T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type, and that spell can't be countered.",,,mythic,LCI,The Lost Caverns of Ixalan,410c,,,,"B,C,G,R,U,W",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl"
+Cavernous Maw,,0.0,Land — Cave,"{T}: Add {C}.
+{2}: This land becomes a 3/3 Elemental creature until end of turn. It's still a Cave land. Activate only if the number of other Caves you control plus the number of Cave cards in your graveyard is three or greater.",,,uncommon,LCI,The Lost Caverns of Ixalan,270,,,,C,,ramp;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"
+Clive's Hideaway,,0.0,Land — Town,"Hideaway 4 (When this land enters, look at the top four cards of your library, exile one face down, then put the rest on the bottom in a random order.)
+{T}: Add {C}.
+{2}, {T}: You may play the exiled card without paying its mana cost if you control four or more legendary creatures.",,,rare,PFIN,Final Fantasy Promos,275s,,,,C,Hideaway,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Command Bridge,,0.0,Land,"This land enters tapped.
+When this land enters, sacrifice it unless you tap an untapped permanent you control.
+{T}: Add one mana of any color.",,,common,EOE,Edge of Eternities,252,,,,"B,G,R,U,W",,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Commercial District,,0.0,Land — Mountain Forest,"({T}: Add {R} or {G}.)
+This land enters tapped.
+When this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,"G,R",rare,MKM,Murders at Karlov Manor,324,,,,"G,R",Surveil,ramp;surveil,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"
+Concealed Courtyard,,0.0,Land,"This land enters tapped unless you control two or fewer other lands.
+{T}: Add {W} or {B}.",,"B,W",rare,POTJ,Outlaws of Thunder Junction Promos,268p,,,,"B,W",,ramp;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+Conduit Pylons,,0.0,Land — Desert,"When this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+{T}: Add {C}.
+{1}, {T}: Add one mana of any color.",,,common,OTJ,Outlaws of Thunder Junction,254,,,,"B,C,G,R,U,W",Surveil,ramp;surveil,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,paupercommander,duel"
+Cori Mountain Monastery,,0.0,Land,"This land enters tapped unless you control a Plains or an Island.
+{T}: Add {R}.
+{3}{R}, {T}: Exile the top card of your library. Until the end of your next turn, you may play that card.",,R,rare,PTDM,Tarkir: Dragonstorm Promos,252s,,,,R,,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Country Roads,,0.0,Land,"This land enters tapped unless you control a Mount or Vehicle.
+{T}: Add {W}.
+{1}{W}, {T}, Sacrifice this land: Create a 1/1 colorless Pilot creature token with ""This token saddles Mounts and crews Vehicles as though its power were 2 greater."" Activate only as a sorcery.",,W,uncommon,DFT,Aetherdrift,253,,,,W,,ramp;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Crawling Barrens,,0.0,Land,"{T}: Add {C}.
+{4}: Put two +1/+1 counters on this land. Then you may have it become a 0/0 Elemental creature until end of turn. It's still a land.",,,rare,PRM,Magic Online Promos,83732,,,,C,,pump;ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Creosote Heath,,0.0,Land — Desert,"This land enters tapped.
+When this land enters, it deals 1 damage to target opponent.
+{T}: Add {G} or {W}.",,"G,W",common,OTJ,Outlaws of Thunder Junction,255,,,,"G,W",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,paupercommander,duel"
+Crossroads Village,,0.0,Land — Town,"This land enters tapped. As it enters, choose a color.
+{T}: Add one mana of the chosen color.",,,common,FIN,Final Fantasy,276,,,,"B,G,R,U,W",,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Cryptic Caves,,0.0,Land,"{T}: Add {C}.
+{1}, {T}, Sacrifice this land: Draw a card. Activate only if you control five or more lands.",,,uncommon,KHC,Kaldheim Commander,109,,,,C,,draw;ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Crystal Grotto,,0.0,Land,"When this land enters, scry 1.
+{T}: Add {C}.
+{1}, {T}: Add one mana of any color.",,,common,PLST,The List,DMU-246,,,,"B,C,G,R,U,W",Scry,ramp;scry,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,paupercommander,duel"

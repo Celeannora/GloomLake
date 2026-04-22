@@ -1,0 +1,15 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,produced_mana,keywords,tags,legal_formats
+Unable to Scream,{U},1.0,Enchantment — Aura,"Enchant creature
+Enchanted creature loses all abilities and is a Toy artifact creature with base power and toughness 0/2 in addition to its other types.
+As long as enchanted creature is face down, it can't be turned face up.",U,U,common,DSK,Duskmourn: House of Horror,78,,,,,Enchant,tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Undergrowth Recon,{1}{G}{G},3.0,Enchantment,"At the beginning of your upkeep, return target land card from your graveyard to the battlefield tapped.",G,G,mythic,PMKM,Murders at Karlov Manor Promos,181s,,,,,,bounce,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+Underwater Tunnel // Slimy Aquarium,{U} // {3}{U},5.0,Enchantment — Room // Enchantment — Room,,U,U,common,DSK,Duskmourn: House of Horror,79,,,,,Surveil;Manifest;Manifest dread,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Uneasy Alliance,{1}{W},2.0,Enchantment — Aura,"Enchant creature
+Enchanted creature can't attack or block.
+{5}, Sacrifice this Aura: Exile enchanted creature. You create a 1/1 black Ninja creature token. Activate only as a sorcery.",W,W,common,TMT,Teenage Mutant Ninja Turtles,28,,,,,Enchant,token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Unflinching Courage,{1}{G}{W},3.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets +2/+2 and has trample and lifelink. (Damage dealt by the creature also causes its controller to gain that much life.)","G,W","G,W",uncommon,PIO,Pioneer Masters,250,,,,,Enchant,lifegain;pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Unholy Annex // Ritual Chamber,{2}{B} // {3}{B}{B},8.0,Enchantment — Room // Enchantment — Room,,B,B,rare,DSK,Duskmourn: House of Horror,118,,,,,,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Unstoppable Plan,{2}{U},3.0,Enchantment,"At the beginning of your end step, untap all nonland permanents you control.",U,U,rare,DFT,Aetherdrift,442,,,,,,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Untamed Hunger,{2}{B},3.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets +2/+1 and has menace. (It can't be blocked except by two or more creatures.)",B,B,common,PLST,The List,OGW-91,,,,,Enchant,pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"

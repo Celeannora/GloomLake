@@ -1,0 +1,20 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,produced_mana,keywords,tags,legal_formats
+Paradox Gardens,,0.0,Land,"This land enters tapped.
+{T}: Add {G} or {U}.
+{2}{G}{U}, {T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,"G,U",common,SOS,Secrets of Strixhaven,258,,,,"G,U",Surveil,ramp;surveil,"standard,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Peculiar Lighthouse,,0.0,Land,"This land enters tapped unless a player has 13 or less life.
+{T}: Add {U} or {R}.",,"R,U",common,DSK,Duskmourn: House of Horror,265,,,,"R,U",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Petrified Hamlet,,0.0,Land,"When this land enters, choose a land card name.
+Activated abilities of sources with the chosen name can't be activated unless they're mana abilities.
+Lands with the chosen name have ""{T}: Add {C}.""
+{T}: Add {C}.",,,rare,SOS,Secrets of Strixhaven,259,,,,C,,ramp,"standard,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Pit of Offerings,,0.0,Land — Cave,"This land enters tapped.
+When this land enters, exile up to three target cards from graveyards.
+{T}: Add {C}.
+{T}: Add one mana of any of the exiled cards' colors.",,,uncommon,LCI,The Lost Caverns of Ixalan,278,,,,"B,C,G,R,U,W",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"
+Plains,,0.0,Basic Land — Plains,({T}: Add {W}.),,W,common,CMA,Commander Anthology,292,,,,W,,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel,premodern,predh"
+Promising Vein,,0.0,Land — Cave,"{T}: Add {C}.
+{1}, {T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,LCI,The Lost Caverns of Ixalan,279,,,,C,,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,paupercommander,duel"
+Public Thoroughfare,,0.0,Land,"This land enters tapped.
+When this land enters, sacrifice it unless you tap an untapped artifact or land you control.
+{T}: Add one mana of any color.",,,common,MKM,Murders at Karlov Manor,265,,,,"B,G,R,U,W",,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,paupercommander,duel"

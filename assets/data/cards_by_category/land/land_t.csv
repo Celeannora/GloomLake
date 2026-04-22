@@ -1,0 +1,65 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,produced_mana,keywords,tags,legal_formats
+Tarnation Vista,,0.0,Land,"This land enters tapped. As it enters, choose a color.
+{T}: Add one mana of the chosen color.
+{1}, {T}: For each color among monocolored permanents you control, add one mana of that color.",,,mythic,BIG,The Big Score,95,,,,"B,G,R,U,W",,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+TCRI Building,,0.0,Land,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {U} or {R}.",,"R,U",common,TMT,Teenage Mutant Ninja Turtles,189,,,,"R,U",,lifegain;ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Temple Garden,,0.0,Land — Forest Plains,"({T}: Add {G} or {W}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"G,W",rare,CLU,Ravnica: Clue Edition,282,,,,"G,W",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel,predh"
+Temple of Abandon,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {R} or {G}.",,"G,R",rare,MOC,March of the Machine Commander,430,,,,"G,R",Scry,ramp;scry,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Temple of Deceit,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {B}.",,"B,U",rare,WHO,Doctor Who,524,,,,"B,U",Scry,ramp;scry,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Temple of Enlightenment,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {W} or {U}.",,"U,W",rare,FDN,Foundations,698,,,,"U,W",Scry,ramp;scry,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Temple of Epiphany,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {R}.",,"R,U",rare,M20,Core Set 2020,253,,,,"R,U",Scry,ramp;scry,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Temple of Malady,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {B} or {G}.",,"B,G",rare,CMM,Commander Masters,1043,,,,"B,G",Scry,ramp;scry,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Temple of Malice,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {B} or {R}.",,"B,R",rare,DSC,Duskmourn: House of Horror Commander,310,,,,"B,R",Scry,ramp;scry,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Temple of Mystery,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {G} or {U}.",,"G,U",rare,PM21,Core Set 2021 Promos,254s,,,,"G,U",Scry,ramp;scry,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Temple of Plenty,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {G} or {W}.",,"G,W",rare,FIC,Final Fantasy Commander,437,,,,"G,W",Scry,ramp;scry,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Temple of Silence,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {W} or {B}.",,"B,W",rare,PM21,Core Set 2021 Promos,255p,,,,"B,W",Scry,ramp;scry,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Temple of Triumph,,0.0,Land,"This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {R} or {W}.",,"R,W",rare,OTC,Outlaws of Thunder Junction Commander,335,,,,"R,W",Scry,ramp;scry,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Terramorphic Expanse,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,AFC,Forgotten Realms Commander,267,,,,,,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel,predh"
+The Gold Saucer,,0.0,Land — Town,"{T}: Add {C}.
+{2}, {T}: Flip a coin. If you win the flip, create a Treasure token.
+{3}, {T}, Sacrifice two artifacts: Draw a card.",,,uncommon,FIN,Final Fantasy,279,,,,C,Treasure,draw;ramp;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Thornspire Verge,,0.0,Land,"{T}: Add {R}.
+{T}: Add {G}. Activate only if you control a Mountain or a Forest.",,"G,R",rare,DSK,Duskmourn: House of Horror,270,,,,"G,R",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Thornwood Falls,,0.0,Land,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {G} or {U}.",,"G,U",common,EMA,Eternal Masters,246,,,,"G,U",,lifegain;ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Three Tree City,,0.0,Legendary Land,"As Three Tree City enters, choose a creature type.
+{T}: Add {C}.
+{2}, {T}: Choose a color. Add an amount of mana of that color equal to the number of creatures you control of the chosen type.",,,rare,BLB,Bloomburrow,338,,,,"B,C,G,R,U,W",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Thundering Falls,,0.0,Land — Island Mountain,"({T}: Add {U} or {R}.)
+This land enters tapped.
+When this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,"R,U",rare,MKM,Murders at Karlov Manor,269,,,,"R,U",Surveil,ramp;surveil,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"
+Titan's Grave,,0.0,Land,"This land enters tapped.
+{T}: Add {B} or {G}.
+{2}{B}{G}, {T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,"B,G",common,SOS,Secrets of Strixhaven,266,,,,"B,G",Surveil,ramp;surveil,"standard,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Tranquil Cove,,0.0,Land,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {W} or {U}.",,"U,W",common,SCD,Starter Commander Decks,329,,,,"U,W",,lifegain;ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+"Treno, Dark City",,0.0,Land — Town,"This land enters tapped.
+{T}: Add {U} or {B}.",,"B,U",common,FIN,Final Fantasy,290,,,,"B,U",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Turtle Lair,,0.0,Land,"{T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast a Ninja or Turtle spell.
+{3}, {T}: Target Ninja or Turtle can't be blocked this turn.",,,uncommon,TMT,Teenage Mutant Ninja Turtles,190,,,,"B,C,G,R,U,W",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"

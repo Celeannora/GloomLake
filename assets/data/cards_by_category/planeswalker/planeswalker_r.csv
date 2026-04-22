@@ -1,0 +1,9 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,produced_mana,keywords,tags,legal_formats
+"Ral Zarek, Guest Lecturer",{1}{B}{B},3.0,Legendary Planeswalker — Ral,"+1: Surveil 2.
+−1: Any number of target players each discard a card.
+−2: Return target creature card with mana value 3 or less from your graveyard to the battlefield.
+−7: Flip five coins. Target opponent skips their next X turns, where X is the number of coins that came up heads.",B,B,mythic,SOS,Secrets of Strixhaven,282,,,3,,Surveil,bounce;surveil,"standard,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+"Ral, Crackling Wit",{2}{U}{R},4.0,Legendary Planeswalker — Ral,"Whenever you cast a noncreature spell, put a loyalty counter on Ral.
++1: Create a 1/1 blue and red Otter creature token with prowess.
+−3: Draw three cards, then discard two cards.
+−10: Draw three cards. You get an emblem with ""Instant and sorcery spells you cast have storm."" (Whenever you cast an instant or sorcery spell, copy it for each spell cast before it this turn.)","R,U","R,U",mythic,BLB,Bloomburrow,341,,,4,,,draw;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"

@@ -1,0 +1,333 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+"Don & Leo, Problem Solvers",{3}{W/U}{W/U},5.0,Legendary Creature — Mutant Ninja Turtle,"Vigilance
+At the beginning of your end step, exile up to one target artifact you control and up to one target creature you control. Then return them to the battlefield under their owners' control.","U,W","U,W",rare,TMT,Teenage Mutant Ninja Turtles,143,4,6,,Vigilance
+"Don & Raph, Hard Science",{1}{U/R}{U/R},3.0,Legendary Creature — Mutant Ninja Turtle,"Menace
+Whenever Don & Raph attack, the next noncreature spell you cast this turn has affinity for artifacts. (It costs {1} less to cast for each artifact you control.)","R,U","R,U",rare,TMT,Teenage Mutant Ninja Turtles,243,2,4,,Menace
+"Don & Raph, Hard Science",{1}{U/R}{U/R},3.0,Legendary Creature — Mutant Ninja Turtle,"Menace
+Whenever Don & Raph attack, the next noncreature spell you cast this turn has affinity for artifacts. (It costs {1} less to cast for each artifact you control.)","R,U","R,U",rare,TMT,Teenage Mutant Ninja Turtles,144,2,4,,Menace
+"Don & Raph, Hard Science",{1}{U/R}{U/R},3.0,Legendary Creature — Mutant Ninja Turtle,"Menace
+Whenever Don & Raph attack, the next noncreature spell you cast this turn has affinity for artifacts. (It costs {1} less to cast for each artifact you control.)","R,U","R,U",rare,TMT,Teenage Mutant Ninja Turtles,205,2,4,,Menace
+"Donatello, Gadget Master",{2}{U},3.0,Legendary Creature — Mutant Ninja Turtle,"Sneak {1}{U} (You may cast this spell for {1}{U} if you also return an unblocked attacker you control to hand during the declare blockers step. He enters tapped and attacking.)
+Whenever Donatello deals combat damage to a player, create a token that's a copy of target artifact you control.",U,U,rare,TMT,Teenage Mutant Ninja Turtles,212,3,2,,Sneak
+"Donatello, Gadget Master",{2}{U},3.0,Legendary Creature — Mutant Ninja Turtle,"Sneak {1}{U} (You may cast this spell for {1}{U} if you also return an unblocked attacker you control to hand during the declare blockers step. He enters tapped and attacking.)
+Whenever Donatello deals combat damage to a player, create a token that's a copy of target artifact you control.",U,U,mythic,TMT,Teenage Mutant Ninja Turtles,283,3,2,,Sneak
+"Donatello, Gadget Master",{2}{U},3.0,Legendary Creature — Mutant Ninja Turtle,"Sneak {1}{U} (You may cast this spell for {1}{U} if you also return an unblocked attacker you control to hand during the declare blockers step. He enters tapped and attacking.)
+Whenever Donatello deals combat damage to a player, create a token that's a copy of target artifact you control.",U,U,mythic,TMT,Teenage Mutant Ninja Turtles,293,3,2,,Sneak
+"Donatello, Gadget Master",{2}{U},3.0,Legendary Creature — Mutant Ninja Turtle,"Sneak {1}{U} (You may cast this spell for {1}{U} if you also return an unblocked attacker you control to hand during the declare blockers step. He enters tapped and attacking.)
+Whenever Donatello deals combat damage to a player, create a token that's a copy of target artifact you control.",U,U,rare,TMT,Teenage Mutant Ninja Turtles,35,3,2,,Sneak
+"Donatello, Mutant Mechanic",{3}{U},4.0,Legendary Creature — Mutant Ninja Turtle,"{T}: Put three +1/+1 counters on target artifact you control. If it isn't a creature, it becomes a 0/0 Robot creature in addition to its other types. Activate only as a sorcery.
+Whenever an artifact you control is put into a graveyard from the battlefield, if it had counters on it, put those counters on up to one target artifact or creature you control.",U,U,mythic,TMT,Teenage Mutant Ninja Turtles,36,3,5,,
+"Donatello, Mutant Mechanic",{3}{U},4.0,Legendary Creature — Mutant Ninja Turtle,"{T}: Put three +1/+1 counters on target artifact you control. If it isn't a creature, it becomes a 0/0 Robot creature in addition to its other types. Activate only as a sorcery.
+Whenever an artifact you control is put into a graveyard from the battlefield, if it had counters on it, put those counters on up to one target artifact or creature you control.",U,U,mythic,TMT,Teenage Mutant Ninja Turtles,216,3,5,,
+"Donatello, Mutant Mechanic",{3}{U},4.0,Legendary Creature — Mutant Ninja Turtle,"{T}: Put three +1/+1 counters on target artifact you control. If it isn't a creature, it becomes a 0/0 Robot creature in addition to its other types. Activate only as a sorcery.
+Whenever an artifact you control is put into a graveyard from the battlefield, if it had counters on it, put those counters on up to one target artifact or creature you control.",U,U,mythic,TMT,Teenage Mutant Ninja Turtles,302,3,5,,
+"Donatello, Turtle Techie",{3}{U},4.0,Legendary Creature — Mutant Ninja Turtle,"When Donatello enters, if you control an artifact, draw a card.",U,U,common,TMT,Teenage Mutant Ninja Turtles,37,3,4,,
+"Donatello, Way with Machines",{2}{U},3.0,Legendary Creature — Mutant Ninja Turtle,"Flying
+Whenever an artifact you control enters, put a +1/+1 counter on Donatello.",U,U,uncommon,TMT,Teenage Mutant Ninja Turtles,197,1,2,,Flying
+"Donatello, Way with Machines",{2}{U},3.0,Legendary Creature — Mutant Ninja Turtle,"Flying
+Whenever an artifact you control enters, put a +1/+1 counter on Donatello.",U,U,uncommon,TMT,Teenage Mutant Ninja Turtles,38,1,2,,Flying
+Doomsday Excruciator,{B}{B}{B}{B}{B}{B},6.0,Creature — Demon,"Flying
+When this creature enters, if it was cast, each player exiles all but the bottom six cards of their library face down.
+At the beginning of your upkeep, draw a card.",B,B,rare,PDSK,Duskmourn: House of Horror Promos,94s,6,6,,Flying
+Doomsday Excruciator,{B}{B}{B}{B}{B}{B},6.0,Creature — Demon,"Flying
+When this creature enters, if it was cast, each player exiles all but the bottom six cards of their library face down.
+At the beginning of your upkeep, draw a card.",B,B,rare,DSK,Duskmourn: House of Horror,346,6,6,,Flying
+Doomsday Excruciator,{B}{B}{B}{B}{B}{B},6.0,Creature — Demon,"Flying
+When this creature enters, if it was cast, each player exiles all but the bottom six cards of their library face down.
+At the beginning of your upkeep, draw a card.",B,B,rare,DSK,Duskmourn: House of Horror,94,6,6,,Flying
+Doomsday Excruciator,{B}{B}{B}{B}{B}{B},6.0,Creature — Demon,"Flying
+When this creature enters, if it was cast, each player exiles all but the bottom six cards of their library face down.
+At the beginning of your upkeep, draw a card.",B,B,rare,PDSK,Duskmourn: House of Horror Promos,94p,6,6,,Flying
+Doorkeeper Thrull,{1}{W},2.0,Creature — Thrull,"Flash
+Flying
+Artifacts and creatures entering don't cause abilities to trigger.",W,W,rare,MKM,Murders at Karlov Manor,338,1,2,,Flying;Flash
+Doorkeeper Thrull,{1}{W},2.0,Creature — Thrull,"Flash
+Flying
+Artifacts and creatures entering don't cause abilities to trigger.",W,W,rare,MKM,Murders at Karlov Manor,13,1,2,,Flying;Flash
+Doorkeeper Thrull,{1}{W},2.0,Creature — Thrull,"Flash
+Flying
+Artifacts and creatures entering don't cause abilities to trigger.",W,W,rare,PMKM,Murders at Karlov Manor Promos,13p,1,2,,Flying;Flash
+Doorkeeper Thrull,{1}{W},2.0,Creature — Thrull,"Flash
+Flying
+Artifacts and creatures entering don't cause abilities to trigger.",W,W,rare,PMKM,Murders at Karlov Manor Promos,13s,1,2,,Flying;Flash
+"Doran, Besieged by Time",{1}{W}{B}{G},4.0,Legendary Creature — Treefolk Druid,"Each creature spell you cast with toughness greater than its power costs {1} less to cast.
+Whenever a creature you control attacks or blocks, it gets +X/+X until end of turn, where X is the difference between its power and toughness.","B,G,W","B,G,W",rare,PECL,Lorwyn Eclipsed Promos,215p,0,5,,
+"Doran, Besieged by Time",{1}{W}{B}{G},4.0,Legendary Creature — Treefolk Druid,"Each creature spell you cast with toughness greater than its power costs {1} less to cast.
+Whenever a creature you control attacks or blocks, it gets +X/+X until end of turn, where X is the difference between its power and toughness.","B,G,W","B,G,W",rare,ECL,Lorwyn Eclipsed,215,0,5,,
+"Doran, Besieged by Time",{1}{W}{B}{G},4.0,Legendary Creature — Treefolk Druid,"Each creature spell you cast with toughness greater than its power costs {1} less to cast.
+Whenever a creature you control attacks or blocks, it gets +X/+X until end of turn, where X is the difference between its power and toughness.","B,G,W","B,G,W",rare,ECL,Lorwyn Eclipsed,334,0,5,,
+Dour Port-Mage,{1}{U},2.0,Creature — Frog Wizard,"Whenever one or more other creatures you control leave the battlefield without dying, draw a card.
+{1}{U}, {T}: Return another target creature you control to its owner's hand.",U,U,rare,PBLB,Bloomburrow Promos,47s,1,3,,
+Dour Port-Mage,{1}{U},2.0,Creature — Frog Wizard,"Whenever one or more other creatures you control leave the battlefield without dying, draw a card.
+{1}{U}, {T}: Return another target creature you control to its owner's hand.",U,U,rare,PBLB,Bloomburrow Promos,47p,1,3,,
+Dour Port-Mage,{1}{U},2.0,Creature — Frog Wizard,"Whenever one or more other creatures you control leave the battlefield without dying, draw a card.
+{1}{U}, {T}: Return another target creature you control to its owner's hand.",U,U,rare,BLB,Bloomburrow,47,1,3,,
+Dour Port-Mage,{1}{U},2.0,Creature — Frog Wizard,"Whenever one or more other creatures you control leave the battlefield without dying, draw a card.
+{1}{U}, {T}: Return another target creature you control to its owner's hand.",U,U,rare,BLB,Bloomburrow,303,1,3,,
+Downwind Ambusher,{3}{B},4.0,Creature — Skunk Assassin,"Flash
+When this creature enters, choose one —
+• Target creature an opponent controls gets -1/-1 until end of turn.
+• Destroy target creature an opponent controls that was dealt damage this turn.",B,B,uncommon,BLB,Bloomburrow,92,4,2,,Flash
+Draconautics Engineer,{1}{R},2.0,Creature — Goblin Artificer,"Exhaust — {R}: Other creatures you control gain haste until end of turn. Put a +1/+1 counter on this creature. (Activate each exhaust ability only once.)
+Exhaust — {3}{R}: Create a 4/4 red Dinosaur Dragon creature token with flying.",R,R,rare,DFT,Aetherdrift,341,2,2,,Exhaust
+Draconautics Engineer,{1}{R},2.0,Creature — Goblin Artificer,"Exhaust — {R}: Other creatures you control gain haste until end of turn. Put a +1/+1 counter on this creature. (Activate each exhaust ability only once.)
+Exhaust — {3}{R}: Create a 4/4 red Dinosaur Dragon creature token with flying.",R,R,rare,PDFT,Aetherdrift Promos,121s,2,2,,Exhaust
+Draconautics Engineer,{1}{R},2.0,Creature — Goblin Artificer,"Exhaust — {R}: Other creatures you control gain haste until end of turn. Put a +1/+1 counter on this creature. (Activate each exhaust ability only once.)
+Exhaust — {3}{R}: Create a 4/4 red Dinosaur Dragon creature token with flying.",R,R,rare,DFT,Aetherdrift,459,2,2,,Exhaust
+Draconautics Engineer,{1}{R},2.0,Creature — Goblin Artificer,"Exhaust — {R}: Other creatures you control gain haste until end of turn. Put a +1/+1 counter on this creature. (Activate each exhaust ability only once.)
+Exhaust — {3}{R}: Create a 4/4 red Dinosaur Dragon creature token with flying.",R,R,rare,DFT,Aetherdrift,540,2,2,,Exhaust
+Draconautics Engineer,{1}{R},2.0,Creature — Goblin Artificer,"Exhaust — {R}: Other creatures you control gain haste until end of turn. Put a +1/+1 counter on this creature. (Activate each exhaust ability only once.)
+Exhaust — {3}{R}: Create a 4/4 red Dinosaur Dragon creature token with flying.",R,R,rare,PDFT,Aetherdrift Promos,121p,2,2,,Exhaust
+Draconautics Engineer,{1}{R},2.0,Creature — Goblin Artificer,"Exhaust — {R}: Other creatures you control gain haste until end of turn. Put a +1/+1 counter on this creature. (Activate each exhaust ability only once.)
+Exhaust — {3}{R}: Create a 4/4 red Dinosaur Dragon creature token with flying.",R,R,rare,DFT,Aetherdrift,121,2,2,,Exhaust
+Dracosaur Auxiliary,{4}{R}{R},6.0,Creature — Dinosaur Dragon Mount,"Flying, haste
+Whenever this creature attacks while saddled, it deals 2 damage to any target.
+Saddle 3 (Tap any number of other creatures you control with total power 3 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",R,R,uncommon,DFT,Aetherdrift,122,4,4,,Flying;Saddle;Haste
+Dragon Mage,{5}{R}{R},7.0,Creature — Dragon Wizard,"Flying
+Whenever this creature deals combat damage to a player, each player discards their hand, then draws seven cards.",R,R,uncommon,SCD,Starter Commander Decks,132,5,5,,Flying
+Dragon Mage,{5}{R}{R},7.0,Creature — Dragon Wizard,"Flying
+Whenever this creature deals combat damage to a player, each player discards their hand, then draws seven cards.",R,R,rare,C16,Commander 2016,124,5,5,,Flying
+Dragon Mage,{5}{R}{R},7.0,Creature — Dragon Wizard,"Flying
+Whenever this creature deals combat damage to a player, each player discards their hand, then draws seven cards.",R,R,uncommon,J22,Jumpstart 2022,77,5,5,,Flying
+Dragon Mage,{5}{R}{R},7.0,Creature — Dragon Wizard,"Flying
+Whenever this creature deals combat damage to a player, each player discards their hand, then draws seven cards.",R,R,uncommon,GN3,Game Night: Free-for-All,73,5,5,,Flying
+Dragon Mage,{5}{R}{R},7.0,Creature — Dragon Wizard,"Flying
+Whenever this creature deals combat damage to a player, each player discards their hand, then draws seven cards.",R,R,uncommon,M20,Core Set 2020,135,5,5,,Flying
+Dragon Mage,{5}{R}{R},7.0,Creature — Dragon Wizard,"Flying
+Whenever this creature deals combat damage to a player, each player discards their hand, then draws seven cards.",R,R,uncommon,FDN,Foundations,621,5,5,,Flying
+Dragon Mage,{5}{R}{R},7.0,Creature — Dragon Wizard,"Flying
+Whenever this creature deals combat damage to a player, each player discards their hand, then draws seven cards.",R,R,rare,SCG,Scourge,87,5,5,,Flying
+Dragon Mage,{5}{R}{R},7.0,Creature — Dragon Wizard,"Flying
+Whenever this creature deals combat damage to a player, each player discards their hand, then draws seven cards.",R,R,uncommon,PLST,The List,M20-135,5,5,,Flying
+Dragon Mage,{5}{R}{R},7.0,Creature — Dragon Wizard,"Flying
+Whenever this creature deals combat damage to a player, each player discards their hand, then draws seven cards.",R,R,rare,C15,Commander 2015,151,5,5,,Flying
+Dragon Sniper,{G},1.0,Creature — Human Archer,"Vigilance, reach, deathtouch",G,G,uncommon,TDM,Tarkir: Dragonstorm,139,1,1,,Reach;Vigilance;Deathtouch
+Dragon Trainer,{3}{R}{R},5.0,Creature — Human,"When this creature enters, create a 4/4 red Dragon creature token with flying.",R,R,uncommon,FDN,Foundations,84,1,1,,
+Dragonback Lancer,{3}{W},4.0,Creature — Human Soldier,"Flying
+Mobilize 1 (Whenever this creature attacks, create a tapped and attacking 1/1 red Warrior creature token. Sacrifice it at the beginning of the next end step.)",W,W,common,TDM,Tarkir: Dragonstorm,9,3,3,,Flying;Mobilize
+Dragonfly Swarm,{1}{U}{R},3.0,Creature — Dragon Insect,"Flying, ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
+This creature's power is equal to the number of noncreature, nonland cards in your graveyard.
+When this creature dies, if there's a Lesson card in your graveyard, draw a card.","R,U","R,U",uncommon,TLA,Avatar: The Last Airbender,215,*,3,,Flying;Ward
+"Dragonhawk, Fate's Tempest",{3}{R}{R},5.0,Legendary Creature — Bird Dragon,"Flying
+Whenever Dragonhawk enters or attacks, exile the top X cards of your library, where X is the number of creatures you control with power 4 or greater. You may play those cards until your next end step. At the beginning of your next end step, Dragonhawk deals 2 damage to each opponent for each of those cards that are still exiled.",R,R,mythic,BLB,Bloomburrow,132,5,5,,Flying
+"Dragonhawk, Fate's Tempest",{3}{R}{R},5.0,Legendary Creature — Bird Dragon,"Flying
+Whenever Dragonhawk enters or attacks, exile the top X cards of your library, where X is the number of creatures you control with power 4 or greater. You may play those cards until your next end step. At the beginning of your next end step, Dragonhawk deals 2 damage to each opponent for each of those cards that are still exiled.",R,R,mythic,PBLB,Bloomburrow Promos,132s,5,5,,Flying
+"Dragonhawk, Fate's Tempest",{3}{R}{R},5.0,Legendary Creature — Bird Dragon,"Flying
+Whenever Dragonhawk enters or attacks, exile the top X cards of your library, where X is the number of creatures you control with power 4 or greater. You may play those cards until your next end step. At the beginning of your next end step, Dragonhawk deals 2 damage to each opponent for each of those cards that are still exiled.",R,R,mythic,BLB,Bloomburrow,291,5,5,,Flying
+"Dragonhawk, Fate's Tempest",{3}{R}{R},5.0,Legendary Creature — Bird Dragon,"Flying
+Whenever Dragonhawk enters or attacks, exile the top X cards of your library, where X is the number of creatures you control with power 4 or greater. You may play those cards until your next end step. At the beginning of your next end step, Dragonhawk deals 2 damage to each opponent for each of those cards that are still exiled.",R,R,mythic,PBLB,Bloomburrow Promos,132p,5,5,,Flying
+Dragonlord's Servant,{1}{R},2.0,Creature — Goblin Shaman,Dragon spells you cast cost {1} less to cast.,R,R,uncommon,AFC,Forgotten Realms Commander,123,1,3,,
+Dragonlord's Servant,{1}{R},2.0,Creature — Goblin Shaman,Dragon spells you cast cost {1} less to cast.,R,R,uncommon,DTK,Dragons of Tarkir,138,1,3,,
+Dragonlord's Servant,{1}{R},2.0,Creature — Goblin Shaman,Dragon spells you cast cost {1} less to cast.,R,R,rare,PL24,Year of the Dragon 2024,1,1,3,,
+Dragonlord's Servant,{1}{R},2.0,Creature — Goblin Shaman,Dragon spells you cast cost {1} less to cast.,R,R,uncommon,FDN,Foundations,536,1,3,,
+Dragonlord's Servant,{1}{R},2.0,Creature — Goblin Shaman,Dragon spells you cast cost {1} less to cast.,R,R,uncommon,C17,Commander 2017,135,1,3,,
+Dragonlord's Servant,{1}{R},2.0,Creature — Goblin Shaman,Dragon spells you cast cost {1} less to cast.,R,R,uncommon,J22,Jumpstart 2022,524,1,3,,
+Dragonlord's Servant,{1}{R},2.0,Creature — Goblin Shaman,Dragon spells you cast cost {1} less to cast.,R,R,uncommon,J25,Foundations Jumpstart,538,1,3,,
+Dragonlord's Servant,{1}{R},2.0,Creature — Goblin Shaman,Dragon spells you cast cost {1} less to cast.,R,R,uncommon,PRM,Magic Online Promos,55884,1,3,,
+Dragonlord's Servant,{1}{R},2.0,Creature — Goblin Shaman,Dragon spells you cast cost {1} less to cast.,R,R,common,IMA,Iconic Masters,126,1,3,,
+Dragonlord's Servant,{1}{R},2.0,Creature — Goblin Shaman,Dragon spells you cast cost {1} less to cast.,R,R,uncommon,TDC,Tarkir: Dragonstorm Commander,210,1,3,,
+Dragonlord's Servant,{1}{R},2.0,Creature — Goblin Shaman,Dragon spells you cast cost {1} less to cast.,R,R,uncommon,PTKDF,Tarkir Dragonfury,138,1,3,,
+Dragonlord's Servant,{1}{R},2.0,Creature — Goblin Shaman,Dragon spells you cast cost {1} less to cast.,R,R,uncommon,SCD,Starter Commander Decks,135,1,3,,
+Dragonlord's Servant,{1}{R},2.0,Creature — Goblin Shaman,Dragon spells you cast cost {1} less to cast.,R,R,uncommon,JMP,Jumpstart,311,1,3,,
+Dragonmaster Outcast,{R},1.0,Creature — Human Shaman,"At the beginning of your upkeep, if you control six or more lands, create a 5/5 red Dragon creature token with flying.",R,R,mythic,AFC,Forgotten Realms Commander,124,1,1,,
+Dragonmaster Outcast,{R},1.0,Creature — Human Shaman,"At the beginning of your upkeep, if you control six or more lands, create a 5/5 red Dragon creature token with flying.",R,R,mythic,BFZ,Battle for Zendikar,144,1,1,,
+Dragonmaster Outcast,{R},1.0,Creature — Human Shaman,"At the beginning of your upkeep, if you control six or more lands, create a 5/5 red Dragon creature token with flying.",R,R,mythic,HA2,Historic Anthology 2,11,1,1,,
+Dragonmaster Outcast,{R},1.0,Creature — Human Shaman,"At the beginning of your upkeep, if you control six or more lands, create a 5/5 red Dragon creature token with flying.",R,R,mythic,ONC,Phyrexia: All Will Be One Commander,98,1,1,,
+Dragonmaster Outcast,{R},1.0,Creature — Human Shaman,"At the beginning of your upkeep, if you control six or more lands, create a 5/5 red Dragon creature token with flying.",R,R,mythic,PBFZ,Battle for Zendikar Promos,144p,1,1,,
+Dragonmaster Outcast,{R},1.0,Creature — Human Shaman,"At the beginning of your upkeep, if you control six or more lands, create a 5/5 red Dragon creature token with flying.",R,R,mythic,TDC,Tarkir: Dragonstorm Commander,211,1,1,,
+Dragonmaster Outcast,{R},1.0,Creature — Human Shaman,"At the beginning of your upkeep, if you control six or more lands, create a 5/5 red Dragon creature token with flying.",R,R,mythic,FDN,Foundations,622,1,1,,
+Dragonmaster Outcast,{R},1.0,Creature — Human Shaman,"At the beginning of your upkeep, if you control six or more lands, create a 5/5 red Dragon creature token with flying.",R,R,mythic,C19,Commander 2019,139,1,1,,
+Dragonmaster Outcast,{R},1.0,Creature — Human Shaman,"At the beginning of your upkeep, if you control six or more lands, create a 5/5 red Dragon creature token with flying.",R,R,mythic,WWK,Worldwake,81,1,1,,
+Dragonmaster Outcast,{R},1.0,Creature — Human Shaman,"At the beginning of your upkeep, if you control six or more lands, create a 5/5 red Dragon creature token with flying.",R,R,mythic,PBFZ,Battle for Zendikar Promos,144s,1,1,,
+Dragonmaster Outcast,{R},1.0,Creature — Human Shaman,"At the beginning of your upkeep, if you control six or more lands, create a 5/5 red Dragon creature token with flying.",R,R,mythic,SCD,Starter Commander Decks,136,1,1,,
+Dragonologist,{2}{U},3.0,Creature — Human Wizard,"When this creature enters, look at the top six cards of your library. You may reveal an instant, sorcery, or Dragon card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+Untapped Dragons you control have hexproof.",U,U,rare,PTDM,Tarkir: Dragonstorm Promos,42p,1,3,,
+Dragonologist,{2}{U},3.0,Creature — Human Wizard,"When this creature enters, look at the top six cards of your library. You may reveal an instant, sorcery, or Dragon card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+Untapped Dragons you control have hexproof.",U,U,rare,TDM,Tarkir: Dragonstorm,42,1,3,,
+Dragonologist,{2}{U},3.0,Creature — Human Wizard,"When this creature enters, look at the top six cards of your library. You may reveal an instant, sorcery, or Dragon card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+Untapped Dragons you control have hexproof.",U,U,rare,TDM,Tarkir: Dragonstorm,295,1,3,,
+Dragonologist,{2}{U},3.0,Creature — Human Wizard,"When this creature enters, look at the top six cards of your library. You may reveal an instant, sorcery, or Dragon card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+Untapped Dragons you control have hexproof.",U,U,rare,PTDM,Tarkir: Dragonstorm Promos,42s,1,3,,
+Dragonstorm Forecaster,{U},1.0,Creature — Human Scout,"{2}, {T}: Search your library for a card named Dragonstorm Globe or Boulderborn Dragon, reveal it, put it into your hand, then shuffle.",U,U,uncommon,TDM,Tarkir: Dragonstorm,43,0,3,,
+Dragoon's Wyvern,{2}{U},3.0,Creature — Drake,"Flying
+When this creature enters, create a 1/1 colorless Hero creature token.",U,U,common,FIN,Final Fantasy,49,2,1,,Flying
+Drake Hatcher,{1}{U},2.0,Creature — Human Wizard,"Vigilance, prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever this creature deals combat damage to a player, put that many incubation counters on it.
+Remove three incubation counters from this creature: Create a 2/2 blue Drake creature token with flying.",U,U,rare,FDN,Foundations,374,1,3,,Prowess;Vigilance
+Drake Hatcher,{1}{U},2.0,Creature — Human Wizard,"Vigilance, prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever this creature deals combat damage to a player, put that many incubation counters on it.
+Remove three incubation counters from this creature: Create a 2/2 blue Drake creature token with flying.",U,U,rare,PFDN,Foundations Promos,35s,1,3,,Prowess;Vigilance
+Drake Hatcher,{1}{U},2.0,Creature — Human Wizard,"Vigilance, prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever this creature deals combat damage to a player, put that many incubation counters on it.
+Remove three incubation counters from this creature: Create a 2/2 blue Drake creature token with flying.",U,U,rare,FDN,Foundations,306,1,3,,Prowess;Vigilance
+Drake Hatcher,{1}{U},2.0,Creature — Human Wizard,"Vigilance, prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever this creature deals combat damage to a player, put that many incubation counters on it.
+Remove three incubation counters from this creature: Create a 2/2 blue Drake creature token with flying.",U,U,rare,FDN,Foundations,35,1,3,,Prowess;Vigilance
+Drake Hatcher,{1}{U},2.0,Creature — Human Wizard,"Vigilance, prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever this creature deals combat damage to a player, put that many incubation counters on it.
+Remove three incubation counters from this creature: Create a 2/2 blue Drake creature token with flying.",U,U,rare,FDN,Foundations,452,1,3,,Prowess;Vigilance
+"Drakuseth, Maw of Flames",{4}{R}{R}{R},7.0,Legendary Creature — Dragon,"Flying
+Whenever Drakuseth attacks, it deals 4 damage to any target and 3 damage to each of up to two other targets.",R,R,rare,FDN,Foundations,193,7,7,,Flying
+"Drakuseth, Maw of Flames",{4}{R}{R}{R},7.0,Legendary Creature — Dragon,"Flying
+Whenever Drakuseth attacks, it deals 4 damage to any target and 3 damage to each of up to two other targets.",R,R,rare,GN3,Game Night: Free-for-All,76,7,7,,Flying
+"Drakuseth, Maw of Flames",{4}{R}{R}{R},7.0,Legendary Creature — Dragon,"Flying
+Whenever Drakuseth attacks, it deals 4 damage to any target and 3 damage to each of up to two other targets.",R,R,rare,CLB,Commander Legends: Battle for Baldur's Gate,790,7,7,,Flying
+"Drakuseth, Maw of Flames",{4}{R}{R}{R},7.0,Legendary Creature — Dragon,"Flying
+Whenever Drakuseth attacks, it deals 4 damage to any target and 3 damage to each of up to two other targets.",R,R,rare,PM20,Core Set 2020 Promos,136p,7,7,,Flying
+"Drakuseth, Maw of Flames",{4}{R}{R}{R},7.0,Legendary Creature — Dragon,"Flying
+Whenever Drakuseth attacks, it deals 4 damage to any target and 3 damage to each of up to two other targets.",R,R,rare,PFDN,Foundations Promos,193s,7,7,,Flying
+"Drakuseth, Maw of Flames",{4}{R}{R}{R},7.0,Legendary Creature — Dragon,"Flying
+Whenever Drakuseth attacks, it deals 4 damage to any target and 3 damage to each of up to two other targets.",R,R,rare,SLD,Secret Lair Drop,2237,7,7,,Flying
+"Drakuseth, Maw of Flames",{4}{R}{R}{R},7.0,Legendary Creature — Dragon,"Flying
+Whenever Drakuseth attacks, it deals 4 damage to any target and 3 damage to each of up to two other targets.",R,R,rare,PM20,Core Set 2020 Promos,136s,7,7,,Flying
+"Drakuseth, Maw of Flames",{4}{R}{R}{R},7.0,Legendary Creature — Dragon,"Flying
+Whenever Drakuseth attacks, it deals 4 damage to any target and 3 damage to each of up to two other targets.",R,R,rare,CMM,Commander Masters,535,7,7,,Flying
+"Drakuseth, Maw of Flames",{4}{R}{R}{R},7.0,Legendary Creature — Dragon,"Flying
+Whenever Drakuseth attacks, it deals 4 damage to any target and 3 damage to each of up to two other targets.",R,R,rare,SCD,Starter Commander Decks,138,7,7,,Flying
+"Drakuseth, Maw of Flames",{4}{R}{R}{R},7.0,Legendary Creature — Dragon,"Flying
+Whenever Drakuseth attacks, it deals 4 damage to any target and 3 damage to each of up to two other targets.",R,R,rare,CMM,Commander Masters,218,7,7,,Flying
+"Drakuseth, Maw of Flames",{4}{R}{R}{R},7.0,Legendary Creature — Dragon,"Flying
+Whenever Drakuseth attacks, it deals 4 damage to any target and 3 damage to each of up to two other targets.",R,R,rare,M20,Core Set 2020,136,7,7,,Flying
+Dreadwing Scavenger,{1}{U}{B},3.0,Creature — Nightmare Bird,"Flying
+Whenever this creature enters or attacks, draw a card, then discard a card.
+Threshold — This creature gets +1/+1 and has deathtouch as long as there are seven or more cards in your graveyard.","B,U","B,U",uncommon,FDN,Foundations,118,2,2,,Flying;Threshold
+Dream Beavers,{B},1.0,Creature — Beaver Nightmare,"Flying
+When this creature enters, each opponent loses 1 life and you gain 1 life. Scry 1. (Look at the top card of your library. You may put that card on the bottom.)",B,B,uncommon,TMT,Teenage Mutant Ninja Turtles,62,1,1,,Scry;Flying
+Dream Seizer,{3}{B},4.0,Creature — Faerie Rogue,"Flying
+When this creature enters, you may blight 1. If you do, each opponent discards a card. (To blight 1, put a -1/-1 counter on a creature you control.)",B,B,common,ECL,Lorwyn Eclipsed,101,3,2,,Blight;Flying
+Dream Spoilers,{3}{B},4.0,Creature — Faerie Warlock,"Flying
+Whenever you cast a spell during an opponent's turn, up to one target creature an opponent controls gets -1/-1 until end of turn.",B,B,uncommon,WOE,Wilds of Eldraine,85,2,2,,Flying
+Dreamdew Entrancer,{2}{G}{U},4.0,Creature — Frog Wizard,"Reach
+When this creature enters, tap up to one target creature and put three stun counters on it. If you control that creature, draw two cards.","G,U","G,U",rare,BLB,Bloomburrow,365,3,4,,Reach
+Dreamdew Entrancer,{2}{G}{U},4.0,Creature — Frog Wizard,"Reach
+When this creature enters, tap up to one target creature and put three stun counters on it. If you control that creature, draw two cards.","G,U","G,U",rare,BLB,Bloomburrow,211,3,4,,Reach
+Dreamdew Entrancer,{2}{G}{U},4.0,Creature — Frog Wizard,"Reach
+When this creature enters, tap up to one target creature and put three stun counters on it. If you control that creature, draw two cards.","G,U","G,U",rare,PBLB,Bloomburrow Promos,211p,3,4,,Reach
+Dreamdew Entrancer,{2}{G}{U},4.0,Creature — Frog Wizard,"Reach
+When this creature enters, tap up to one target creature and put three stun counters on it. If you control that creature, draw two cards.","G,U","G,U",rare,PBLB,Bloomburrow Promos,211s,3,4,,Reach
+Driftgloom Coyote,{3}{W}{W},5.0,Creature — Elemental Coyote,"When this creature enters, exile target creature an opponent controls until this creature leaves the battlefield. If that creature had power 2 or less, put a +1/+1 counter on this creature.",W,W,uncommon,BLB,Bloomburrow,11,3,4,,
+Driver of the Dead,{3}{B},4.0,Creature — Vampire,"When this creature dies, return target creature card with mana value 2 or less from your graveyard to the battlefield.",B,B,common,FDN,Foundations,605,3,2,,
+Driver of the Dead,{3}{B},4.0,Creature — Vampire,"When this creature dies, return target creature card with mana value 2 or less from your graveyard to the battlefield.",B,B,common,AVR,Avacyn Restored,99,3,2,,
+Driver of the Dead,{3}{B},4.0,Creature — Vampire,"When this creature dies, return target creature card with mana value 2 or less from your graveyard to the battlefield.",B,B,common,PLST,The List,CN2-133,3,2,,
+Driver of the Dead,{3}{B},4.0,Creature — Vampire,"When this creature dies, return target creature card with mana value 2 or less from your graveyard to the battlefield.",B,B,common,CN2,Conspiracy: Take the Crown,133,3,2,,
+Driver of the Dead,{3}{B},4.0,Creature — Vampire,"When this creature dies, return target creature card with mana value 2 or less from your graveyard to the battlefield.",B,B,common,2XM,Double Masters,90,3,2,,
+Driver of the Dead,{3}{B},4.0,Creature — Vampire,"When this creature dies, return target creature card with mana value 2 or less from your graveyard to the battlefield.",B,B,common,DDQ,Duel Decks: Blessed vs. Cursed,56,3,2,,
+Drix Fatemaker,{3}{G},4.0,Creature — Drix Wizard,"When this creature enters, put a +1/+1 counter on target creature.
+Each creature you control with a +1/+1 counter on it has trample.
+Warp {1}{G} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",G,G,common,EOE,Edge of Eternities,178,3,2,,Warp
+Drogskol Reaver,{5}{W}{U},7.0,Creature — Spirit,"Flying
+Double strike (This creature deals both first-strike and regular combat damage.)
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+Whenever you gain life, draw a card.","U,W","U,W",rare,2X2,Double Masters 2022,205,3,5,,Flying;Lifelink;Double strike
+Drogskol Reaver,{5}{W}{U},7.0,Creature — Spirit,"Flying
+Double strike (This creature deals both first-strike and regular combat damage.)
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+Whenever you gain life, draw a card.","U,W","U,W",rare,2X2,Double Masters 2022,489,3,5,,Flying;Lifelink;Double strike
+Drogskol Reaver,{5}{W}{U},7.0,Creature — Spirit,"Flying
+Double strike (This creature deals both first-strike and regular combat damage.)
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+Whenever you gain life, draw a card.","U,W","U,W",mythic,DKA,Dark Ascension,137,3,5,,Flying;Lifelink;Double strike
+Drogskol Reaver,{5}{W}{U},7.0,Creature — Spirit,"Flying
+Double strike (This creature deals both first-strike and regular combat damage.)
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+Whenever you gain life, draw a card.","U,W","U,W",rare,FDN,Foundations,655,3,5,,Flying;Lifelink;Double strike
+Dropkick Bomber,{2}{R},3.0,Creature — Goblin Warrior,"Other Goblins you control get +1/+1.
+{R}: Until end of turn, another target Goblin you control gains flying and ""When this creature deals combat damage, sacrifice it.""",R,R,rare,J25,Foundations Jumpstart,13,2,3,,
+Dropkick Bomber,{2}{R},3.0,Creature — Goblin Warrior,"Other Goblins you control get +1/+1.
+{R}: Until end of turn, another target Goblin you control gains flying and ""When this creature deals combat damage, sacrifice it.""",R,R,rare,FDN,Foundations,537,2,3,,
+Drover Grizzly,{2}{G},3.0,Creature — Bear Mount,"Whenever this creature attacks while saddled, creatures you control gain trample until end of turn.
+Saddle 1 (Tap any number of other creatures you control with total power 1 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",G,G,common,OTJ,Outlaws of Thunder Junction,161,4,2,,Saddle
+Druid of the Cowl,{1}{G},2.0,Creature — Elf Druid,{T}: Add {G}.,G,G,common,PLST,The List,M19-177,1,3,,
+Druid of the Cowl,{1}{G},2.0,Creature — Elf Druid,{T}: Add {G}.,G,G,common,M19,Core Set 2019,177,1,3,,
+Druid of the Cowl,{1}{G},2.0,Creature — Elf Druid,{T}: Add {G}.,G,G,common,KLR,Kaladesh Remastered,159,1,3,,
+Druid of the Cowl,{1}{G},2.0,Creature — Elf Druid,{T}: Add {G}.,G,G,common,AER,Aether Revolt,106,1,3,,
+Druid of the Cowl,{1}{G},2.0,Creature — Elf Druid,{T}: Add {G}.,G,G,common,FDN,Foundations,554,1,3,,
+Druid of the Spade,{2}{G},3.0,Creature — Rabbit Druid,"As long as you control a token, this creature gets +2/+0 and has trample.",G,G,common,BLB,Bloomburrow,170,2,3,,
+Dryad Militant,{G/W},1.0,Creature — Dryad Soldier,"({G/W} can be paid with either {G} or {W}.)
+If an instant or sorcery card would be put into a graveyard from anywhere, exile it instead.","G,W","G,W",uncommon,PLST,The List,PRTR-214,2,1,,
+Dryad Militant,{G/W},1.0,Creature — Dryad Soldier,"({G/W} can be paid with either {G} or {W}.)
+If an instant or sorcery card would be put into a graveyard from anywhere, exile it instead.","G,W","G,W",uncommon,RTR,Return to Ravnica,214,2,1,,
+Dryad Militant,{G/W},1.0,Creature — Dryad Soldier,"({G/W} can be paid with either {G} or {W}.)
+If an instant or sorcery card would be put into a graveyard from anywhere, exile it instead.","G,W","G,W",uncommon,GK1,GRN Guild Kit,111,2,1,,
+Dryad Militant,{G/W},1.0,Creature — Dryad Soldier,"({G/W} can be paid with either {G} or {W}.)
+If an instant or sorcery card would be put into a graveyard from anywhere, exile it instead.","G,W","G,W",uncommon,PRM,Magic Online Promos,46267,2,1,,
+Dryad Militant,{G/W},1.0,Creature — Dryad Soldier,"({G/W} can be paid with either {G} or {W}.)
+If an instant or sorcery card would be put into a graveyard from anywhere, exile it instead.","G,W","G,W",uncommon,PRM,Magic Online Promos,46873,2,1,,
+Dryad Militant,{G/W},1.0,Creature — Dryad Soldier,"({G/W} can be paid with either {G} or {W}.)
+If an instant or sorcery card would be put into a graveyard from anywhere, exile it instead.","G,W","G,W",uncommon,FDN,Foundations,656,2,1,,
+Dryad Militant,{G/W},1.0,Creature — Dryad Soldier,"({G/W} can be paid with either {G} or {W}.)
+If an instant or sorcery card would be put into a graveyard from anywhere, exile it instead.","G,W","G,W",uncommon,PRTR,Return to Ravnica Promos,214,2,1,,
+Dual-Sun Adepts,{2}{W},3.0,Creature — Human Soldier,"Double strike
+{5}: Creatures you control get +1/+1 until end of turn.",W,W,uncommon,EOE,Edge of Eternities,12,2,2,,Double strike
+Duelist of the Mind,{1}{U},2.0,Creature — Human Advisor,"Flying, vigilance
+Duelist of the Mind's power is equal to the number of cards you've drawn this turn.
+Whenever you commit a crime, you may draw a card. If you do, discard a card. This ability triggers only once each turn.",U,U,rare,OTJ,Outlaws of Thunder Junction,45,*,3,,Flying;Vigilance
+Duelist of the Mind,{1}{U},2.0,Creature — Human Advisor,"Flying, vigilance
+Duelist of the Mind's power is equal to the number of cards you've drawn this turn.
+Whenever you commit a crime, you may draw a card. If you do, discard a card. This ability triggers only once each turn.",U,U,rare,OTJ,Outlaws of Thunder Junction,318,*,3,,Flying;Vigilance
+Duelist of the Mind,{1}{U},2.0,Creature — Human Advisor,"Flying, vigilance
+Duelist of the Mind's power is equal to the number of cards you've drawn this turn.
+Whenever you commit a crime, you may draw a card. If you do, discard a card. This ability triggers only once each turn.",U,U,rare,POTJ,Outlaws of Thunder Junction Promos,45p,*,3,,Flying;Vigilance
+Duelist of the Mind,{1}{U},2.0,Creature — Human Advisor,"Flying, vigilance
+Duelist of the Mind's power is equal to the number of cards you've drawn this turn.
+Whenever you commit a crime, you may draw a card. If you do, discard a card. This ability triggers only once each turn.",U,U,rare,POTJ,Outlaws of Thunder Junction Promos,45s,*,3,,Flying;Vigilance
+Dundoolin Weaver,{1}{G},2.0,Creature — Kithkin Druid,"When this creature enters, if you control three or more creatures, return target permanent card from your graveyard to your hand.",G,G,uncommon,ECL,Lorwyn Eclipsed,175,2,1,,
+Dust Animus,{1}{W},2.0,Creature — Spirit,"Flying
+If you control five or more untapped lands, this creature enters with two +1/+1 counters and a lifelink counter on it.
+Plot {1}{W} (You may pay {1}{W} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",W,W,rare,OTJ,Outlaws of Thunder Junction,9,2,3,,Flying;Plot
+Dust Animus,{1}{W},2.0,Creature — Spirit,"Flying
+If you control five or more untapped lands, this creature enters with two +1/+1 counters and a lifelink counter on it.
+Plot {1}{W} (You may pay {1}{W} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",W,W,rare,POTJ,Outlaws of Thunder Junction Promos,9p,2,3,,Flying;Plot
+Dust Animus,{1}{W},2.0,Creature — Spirit,"Flying
+If you control five or more untapped lands, this creature enters with two +1/+1 counters and a lifelink counter on it.
+Plot {1}{W} (You may pay {1}{W} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",W,W,rare,OTJ,Outlaws of Thunder Junction,311,2,3,,Flying;Plot
+Dust Animus,{1}{W},2.0,Creature — Spirit,"Flying
+If you control five or more untapped lands, this creature enters with two +1/+1 counters and a lifelink counter on it.
+Plot {1}{W} (You may pay {1}{W} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",W,W,rare,POTJ,Outlaws of Thunder Junction Promos,9s,2,3,,Flying;Plot
+Dusyut Earthcarver,{5}{G},6.0,Creature — Elephant Druid,"Reach
+When this creature enters, it endures 3. (Put three +1/+1 counters on it or create a 3/3 white Spirit creature token.)",G,G,common,TDM,Tarkir: Dragonstorm,141,4,4,,Reach;Endure
+Dutiful Griffin,{3}{W}{W},5.0,Creature — Griffin,"Flying
+{2}{W}, Sacrifice two enchantments: Return this card from your graveyard to your hand.",W,W,uncommon,WOE,Wilds of Eldraine,11,4,4,,Flying
+Dwarven Castle Guard,{1}{W},2.0,Creature — Dwarf Soldier,"When this creature dies, create a 1/1 colorless Hero creature token.",W,W,common,FIN,Final Fantasy,18,2,1,,
+Dwynen's Elite,{1}{G},2.0,Creature — Elf Warrior,"When this creature enters, if you control another Elf, create a 1/1 green Elf Warrior creature token.",G,G,uncommon,J25,Foundations Jumpstart,654,2,2,,
+Dwynen's Elite,{1}{G},2.0,Creature — Elf Warrior,"When this creature enters, if you control another Elf, create a 1/1 green Elf Warrior creature token.",G,G,uncommon,J22,Jumpstart 2022,651,2,2,,
+Dwynen's Elite,{1}{G},2.0,Creature — Elf Warrior,"When this creature enters, if you control another Elf, create a 1/1 green Elf Warrior creature token.",G,G,uncommon,GN3,Game Night: Free-for-All,91,2,2,,
+Dwynen's Elite,{1}{G},2.0,Creature — Elf Warrior,"When this creature enters, if you control another Elf, create a 1/1 green Elf Warrior creature token.",G,G,common,FDN,Foundations,218,2,2,,
+Dwynen's Elite,{1}{G},2.0,Creature — Elf Warrior,"When this creature enters, if you control another Elf, create a 1/1 green Elf Warrior creature token.",G,G,uncommon,DDU,Duel Decks: Elves vs. Inventors,3,2,2,,
+Dwynen's Elite,{1}{G},2.0,Creature — Elf Warrior,"When this creature enters, if you control another Elf, create a 1/1 green Elf Warrior creature token.",G,G,uncommon,ORI,Magic Origins,173,2,2,,
+Dwynen's Elite,{1}{G},2.0,Creature — Elf Warrior,"When this creature enters, if you control another Elf, create a 1/1 green Elf Warrior creature token.",G,G,uncommon,JMP,Jumpstart,389,2,2,,
+"Dwynen, Gilt-Leaf Daen",{2}{G}{G},4.0,Legendary Creature — Elf Warrior,"Reach (This creature can block creatures with flying.)
+Other Elf creatures you control get +1/+1.
+Whenever Dwynen attacks, you gain 1 life for each attacking Elf you control.",G,G,uncommon,FDN,Foundations,217,3,4,,Reach
+"Dwynen, Gilt-Leaf Daen",{2}{G}{G},4.0,Legendary Creature — Elf Warrior,"Reach (This creature can block creatures with flying.)
+Other Elf creatures you control get +1/+1.
+Whenever Dwynen attacks, you gain 1 life for each attacking Elf you control.",G,G,rare,KHC,Kaldheim Commander,56,3,4,,Reach
+"Dwynen, Gilt-Leaf Daen",{2}{G}{G},4.0,Legendary Creature — Elf Warrior,"Reach (This creature can block creatures with flying.)
+Other Elf creatures you control get +1/+1.
+Whenever Dwynen attacks, you gain 1 life for each attacking Elf you control.",G,G,rare,DDU,Duel Decks: Elves vs. Inventors,2,3,4,,Reach
+"Dwynen, Gilt-Leaf Daen",{2}{G}{G},4.0,Legendary Creature — Elf Warrior,"Reach (This creature can block creatures with flying.)
+Other Elf creatures you control get +1/+1.
+Whenever Dwynen attacks, you gain 1 life for each attacking Elf you control.",G,G,rare,ORI,Magic Origins,172,3,4,,Reach
+"Dwynen, Gilt-Leaf Daen",{2}{G}{G},4.0,Legendary Creature — Elf Warrior,"Reach (This creature can block creatures with flying.)
+Other Elf creatures you control get +1/+1.
+Whenever Dwynen attacks, you gain 1 life for each attacking Elf you control.",G,G,rare,PRM,Magic Online Promos,57600,3,4,,Reach
+"Dwynen, Gilt-Leaf Daen",{2}{G}{G},4.0,Legendary Creature — Elf Warrior,"Reach (This creature can block creatures with flying.)
+Other Elf creatures you control get +1/+1.
+Whenever Dwynen attacks, you gain 1 life for each attacking Elf you control.",G,G,rare,PORI,Magic Origins Promos,172s,3,4,,Reach
+"Dwynen, Gilt-Leaf Daen",{2}{G}{G},4.0,Legendary Creature — Elf Warrior,"Reach (This creature can block creatures with flying.)
+Other Elf creatures you control get +1/+1.
+Whenever Dwynen attacks, you gain 1 life for each attacking Elf you control.",G,G,rare,PORI,Magic Origins Promos,172,3,4,,Reach
+"Dyadrine, Synthesis Amalgam",{X}{G}{W},2.0,Legendary Artifact Creature — Construct,"Trample
+Dyadrine enters with a number of +1/+1 counters on it equal to the amount of mana spent to cast it.
+Whenever you attack, you may remove a +1/+1 counter from each of two creatures you control. If you do, draw a card and create a 2/2 colorless Robot artifact creature token.","G,W","G,W",rare,EOE,Edge of Eternities,298,0,1,,Trample
+"Dyadrine, Synthesis Amalgam",{X}{G}{W},2.0,Legendary Artifact Creature — Construct,"Trample
+Dyadrine enters with a number of +1/+1 counters on it equal to the amount of mana spent to cast it.
+Whenever you attack, you may remove a +1/+1 counter from each of two creatures you control. If you do, draw a card and create a 2/2 colorless Robot artifact creature token.","G,W","G,W",rare,EOE,Edge of Eternities,216,0,1,,Trample
+"Dyadrine, Synthesis Amalgam",{X}{G}{W},2.0,Legendary Artifact Creature — Construct,"Trample
+Dyadrine enters with a number of +1/+1 counters on it equal to the amount of mana spent to cast it.
+Whenever you attack, you may remove a +1/+1 counter from each of two creatures you control. If you do, draw a card and create a 2/2 colorless Robot artifact creature token.","G,W","G,W",rare,PEOE,Edge of Eternities Promos,216p,0,1,,Trample
+"Dyadrine, Synthesis Amalgam",{X}{G}{W},2.0,Legendary Artifact Creature — Construct,"Trample
+Dyadrine enters with a number of +1/+1 counters on it equal to the amount of mana spent to cast it.
+Whenever you attack, you may remove a +1/+1 counter from each of two creatures you control. If you do, draw a card and create a 2/2 colorless Robot artifact creature token.","G,W","G,W",rare,PEOE,Edge of Eternities Promos,216s,0,1,,Trample
+Dynamite Diver,{R},1.0,Creature — Goblin Pilot,"This creature saddles Mounts and crews Vehicles as though its power were 2 greater.
+When this creature dies, it deals 1 damage to any target.",R,R,common,DFT,Aetherdrift,123,1,1,,

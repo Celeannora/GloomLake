@@ -1,0 +1,10 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,produced_mana,keywords,tags,legal_formats
+Jagged Barrens,,0.0,Land — Desert,"This land enters tapped.
+When this land enters, it deals 1 damage to target opponent.
+{T}: Add {B} or {R}.",,"B,R",common,OTJ,Outlaws of Thunder Junction,259,,,,"B,R",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,paupercommander,duel"
+Jasmine Dragon Tea Shop,,0.0,Land,"{T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast an Ally spell or activate an ability of an Ally source.
+{5}, {T}: Create a 1/1 white Ally creature token.",,,rare,TLA,Avatar: The Last Airbender,390,,,,"B,C,G,R,U,W",,ramp;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Jungle Hollow,,0.0,Land,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {B} or {G}.",,"B,G",common,IKO,Ikoria: Lair of Behemoths,249,,,,"B,G",,lifegain;ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"

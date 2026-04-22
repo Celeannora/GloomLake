@@ -1,0 +1,22 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,produced_mana,keywords,tags,legal_formats
+Fabrication Foundry,{1}{W},2.0,Artifact,"{T}: Add {W}. Spend this mana only to cast an artifact spell or activate an ability of an artifact source.
+{2}{W}, {T}, Exile one or more other artifacts you control with total mana value X: Return target artifact card with mana value X or less from your graveyard to the battlefield. Activate only as a sorcery.",W,W,rare,LCI,The Lost Caverns of Ixalan,12,,,,W,,bounce;ramp;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+Feldon's Cane,{1},1.0,Artifact,"{T}, Exile this artifact: Shuffle your graveyard into your library.",,,uncommon,FDN,Foundations,673,,,,,,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel,premodern,predh"
+Fell Gravship,{2}{B},3.0,Artifact — Spacecraft,"When this Spacecraft enters, mill three cards, then return a creature or Spacecraft card from your graveyard to your hand.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 8+.)
+8+ | Flying, lifelink",B,B,uncommon,EOE,Edge of Eternities,101,3,2,,,Station;Mill,lifegain;mill;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Firdoch Core,{3},3.0,Kindred Artifact — Shapeshifter,"Changeling (This card is every creature type.)
+{T}: Add one mana of any color.
+{4}: This artifact becomes a 4/4 artifact creature until end of turn.",,,common,ECL,Lorwyn Eclipsed,255,,,,"B,G,R,U,W",Changeling,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Fire Nation Warship,{3},3.0,Artifact — Vehicle,"Reach
+When this Vehicle dies, create a Clue token. (It's an artifact with ""{2}, Sacrifice this token: Draw a card."")
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)",,,uncommon,TLA,Avatar: The Last Airbender,256,4,4,,,Reach;Crew,draw;reach;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Fireshrieker,{3},3.0,Artifact — Equipment,"Equipped creature has double strike. (It deals both first-strike and regular combat damage.)
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",,,uncommon,CMR,Commander Legends,462,,,,,Equip,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel,predh"
+Fishing Pole,{1},1.0,Artifact — Equipment,"Equipped creature has ""{1}, {T}, Tap Fishing Pole: Put a bait counter on Fishing Pole.""
+Whenever equipped creature becomes untapped, remove a bait counter from this Equipment. If you do, create a 1/1 blue Fish creature token.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",,,uncommon,FDN,Foundations,128,,,,,Equip,token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Found Footage,{1},1.0,Artifact — Clue,"You may look at face-down creatures your opponents control any time.
+{2}, Sacrifice this artifact: Surveil 2, then draw a card. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)",,,common,DSK,Duskmourn: House of Horror,246,,,,,Surveil,draw;surveil,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Fountainport Bell,{1},1.0,Artifact,"When this artifact enters, you may search your library for a basic land card, reveal it, then shuffle and put that card on top.
+{1}, Sacrifice this artifact: Draw a card.",,,common,BLB,Bloomburrow,245,,,,,,draw;ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"

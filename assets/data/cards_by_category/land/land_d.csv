@@ -1,0 +1,21 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,produced_mana,keywords,tags,legal_formats
+Daily Bugle Building,,0.0,Land,"{T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+Smear Campaign — {1}, {T}: Target legendary creature gains menace until end of turn. Activate only as a sorcery.",,,uncommon,SPM,Marvel's Spider-Man,179,,,,"B,C,G,R,U,W",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Dalkovan Encampment,,0.0,Land,"This land enters tapped unless you control a Swamp or a Mountain.
+{T}: Add {W}.
+{2}{W}, {T}: Whenever you attack this turn, create two 1/1 red Warrior creature tokens that are tapped and attacking. Sacrifice them at the beginning of the next end step.",,W,rare,PTDM,Tarkir: Dragonstorm Promos,253s,,,,W,,ramp;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Deathcap Glade,,0.0,Land,"This land enters tapped unless you control two or more other lands.
+{T}: Add {B} or {G}.",,"B,G",rare,PVOW,Innistrad: Crimson Vow Promos,261s,,,,"B,G",,ramp;tribal,"standard,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Demolition Field,,0.0,Land,"{T}: Add {C}.
+{2}, {T}, Sacrifice this land: Destroy target nonbasic land an opponent controls. That land's controller may search their library for a basic land card, put it onto the battlefield, then shuffle. You may search your library for a basic land card, put it onto the battlefield, then shuffle.",,,uncommon,FDN,Foundations,687,,,,C,,ramp;removal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Dimension X,,0.0,Land,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {R} or {W}.",,"R,W",common,TMT,Teenage Mutant Ninja Turtles,183,,,,"R,W",,lifegain;ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Dimir Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {U} or {B}.",,"B,U",common,RVR,Ravnica Remastered,400,,,,"B,U",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Dismal Backwater,,0.0,Land,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {U} or {B}.",,"B,U",common,TDM,Tarkir: Dragonstorm,254,,,,"B,U",,lifegain;ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Dreamroot Cascade,,0.0,Land,"This land enters tapped unless you control two or more other lands.
+{T}: Add {G} or {U}.",,"G,U",rare,DBL,Innistrad: Double Feature,529,,,,"G,U",,ramp;tribal,"standard,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"

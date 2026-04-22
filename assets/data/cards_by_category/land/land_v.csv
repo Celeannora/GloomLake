@@ -1,0 +1,6 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,produced_mana,keywords,tags,legal_formats
+"Vector, Imperial Capital",,0.0,Land — Town,"This land enters tapped.
+{T}: Add {B} or {R}.",,"B,R",common,FIN,Final Fantasy,291,,,,"B,R",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Vibrant Cityscape,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,OM1,Through the Omenpaths,188,,,,,,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Volatile Fault,,0.0,Land — Cave,"{T}: Add {C}.
+{1}, {T}, Sacrifice this land: Destroy target nonbasic land an opponent controls. That player may search their library for a basic land card, put it onto the battlefield, then shuffle. You create a Treasure token.",,,uncommon,LCI,The Lost Caverns of Ixalan,286,,,,C,Treasure,ramp;removal;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"

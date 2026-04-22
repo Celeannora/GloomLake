@@ -1,0 +1,20 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,produced_mana,keywords,tags,legal_formats
+Illicit Masquerade,{3}{B},4.0,Enchantment,"Flash
+When this enchantment enters, put an impostor counter on each creature you control.
+Whenever a creature you control with an impostor counter on it dies, exile it. Return up to one other target creature card from your graveyard to the battlefield.",B,B,rare,MKM,Murders at Karlov Manor,88,,,,,Flash,bounce;flash;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+Impact Tremors,{1}{R},2.0,Enchantment,"Whenever a creature you control enters, this enchantment deals 1 damage to each opponent.",R,R,common,MOC,March of the Machine Commander,285,,,,,,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Impostor Syndrome,{4}{U}{U},6.0,Enchantment,"Whenever a nontoken creature you control deals combat damage to a player, create a token that's a copy of it, except it isn't legendary.",U,U,mythic,SPM,Marvel's Spider-Man,34,,,,,,token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Imprisoned in the Moon,{2}{U},3.0,Enchantment — Aura,"Enchant creature, land, or planeswalker
+Enchanted permanent is a colorless land with ""{T}: Add {C}"" and loses all other card types and abilities.",U,U,common,INR,Innistrad Remastered,69,,,,C,Enchant,ramp;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Innkeeper's Talent,{1}{G},2.0,Enchantment — Class,"(Gain the next level as a sorcery to add its ability.)
+At the beginning of combat on your turn, put a +1/+1 counter on target creature you control.
+{G}: Level 2
+Permanents you control with counters on them have ward {1}.
+{3}{G}: Level 3
+If you would put one or more counters on a permanent or player, put twice that many of each of those kinds of counters on that permanent or player instead.",G,G,rare,SLP,Secret Lair Promo,45,,,,,,protection;pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Insidious Roots,{B}{G},2.0,Enchantment,"Creature tokens you control have ""{T}: Add one mana of any color.""
+Whenever one or more creature cards leave your graveyard, create a 0/1 green Plant creature token, then put a +1/+1 counter on each Plant you control.","B,G","B,G",uncommon,MKM,Murders at Karlov Manor,208,,,,"B,G,R,U,W",,pump;token;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"
+Intimidation Campaign,{1}{U}{B},3.0,Enchantment,"When this enchantment enters, each opponent loses 1 life, you gain 1 life, and you draw a card.
+Whenever you commit a crime, you may return this enchantment to its owner's hand. (It returns only from the battlefield. Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)","B,U","B,U",uncommon,OTJ,Outlaws of Thunder Junction,208,,,,,,draw;lifegain,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"
+Invasion Tactics,{4}{G},5.0,Enchantment,"When this enchantment enters, creatures you control get +2/+2 until end of turn.
+Whenever one or more Allies you control deal combat damage to a player, draw a card.",G,G,uncommon,TLA,Avatar: The Last Airbender,183,,,,,,draw;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"

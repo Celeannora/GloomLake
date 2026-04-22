@@ -1,0 +1,42 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,produced_mana,keywords,tags,legal_formats
+Larval Scoutlander,{2}{G},3.0,Artifact — Spacecraft,"When this Spacecraft enters, you may sacrifice a land or Lander. If you do, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 7+.)
+7+ | Flying",G,G,uncommon,EOE,Edge of Eternities,194,3,3,,,Station,tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Lavaspur Boots,{1},1.0,Artifact — Equipment,"Equipped creature gets +1/+0 and has haste and ward {1}. (Whenever it becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
+Equip {1}",,,uncommon,OTJ,Outlaws of Thunder Junction,243,,,,,Equip,protection;pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"
+Lead Pipe,{B},1.0,Artifact — Clue Equipment,"Equipped creature gets +2/+0.
+Whenever equipped creature dies, each opponent loses 1 life.
+{2}, Sacrifice this Equipment: Draw a card.
+Equip {2}",B,B,uncommon,MKM,Murders at Karlov Manor,90,,,,,Equip,draw;pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+Legion Extruder,{1}{R},2.0,Artifact,"When this artifact enters, it deals 2 damage to any target.
+{2}, {T}, Sacrifice another artifact: Create a 3/3 colorless Golem artifact creature token.",R,R,mythic,BIG,The Big Score,77,,,,,,token;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"
+Leyline Axe,{4},4.0,Artifact — Equipment,"If this card is in your opening hand, you may begin the game with it on the battlefield.
+Equipped creature gets +1/+1 and has double strike and trample.
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",,,rare,FDN,Foundations,414,,,,,Equip,pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Lifecraft Engine,{3},3.0,Artifact — Vehicle,"As this Vehicle enters, choose a creature type.
+Vehicle creatures you control are the chosen creature type in addition to their other types.
+Each creature you control of the chosen type other than this Vehicle gets +1/+1.
+Crew 3",,,rare,DFT,Aetherdrift,329,4,4,,,Crew,pump;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Lion Heart,{4},4.0,Artifact — Equipment,"When this Equipment enters, it deals 2 damage to any target.
+Equipped creature gets +2/+1.
+Equip {2}",,,uncommon,FIN,Final Fantasy,261,,,,,Equip,pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Lodestone Needle // Guidestone Compass,,2.0,Artifact // Artifact,,,U,uncommon,LCI,The Lost Caverns of Ixalan,62,,,,,Craft;Transform;Explore;Flash,flash,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"
+Lost Jitte,{1},1.0,Legendary Artifact — Equipment,"Whenever equipped creature deals combat damage, put a charge counter on Lost Jitte.
+Remove a charge counter from Lost Jitte: Choose one —
+• Untap target land.
+• Target creature can't block this turn.
+• Put a +1/+1 counter on equipped creature.
+Equip {1}",,,mythic,BIG,The Big Score,88,,,,,Equip,pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+Lotus Ring,{3},3.0,Artifact — Equipment,"Indestructible
+Equipped creature gets +3/+3 and has vigilance and ""{T}, Sacrifice this creature: Add three mana of any one color.""
+Equip {3}",,,mythic,BIG,The Big Score,24,,,,"B,G,R,U,W",Indestructible;Equip,protection;pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+Lumbering Worldwagon,{2}{G},3.0,Artifact — Vehicle,"This Vehicle's power is equal to the number of lands you control.
+Whenever this Vehicle enters or attacks, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+Crew 4",G,G,rare,DFT,Aetherdrift,422,*,4,,,Crew,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Lumen-Class Frigate,{1}{W},2.0,Artifact — Spacecraft,"Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 12+.)
+2+ | Other creatures you control get +1/+1.
+12+ | Flying, lifelink",W,W,rare,EOE,Edge of Eternities,25,3,5,,,Station,lifegain;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Lunatic Pandora,{1},1.0,Legendary Artifact,"{2}, {T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+{6}, {T}, Sacrifice Lunatic Pandora: Destroy target nonland permanent.",,,common,FIN,Final Fantasy,262,,,,,Surveil,removal;surveil,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Luxurious Locomotive,{5},5.0,Artifact — Vehicle,"Whenever this Vehicle attacks, create a Treasure token for each creature that crewed it this turn. (They're artifacts with ""{T}, Sacrifice this token: Add one mana of any color."")
+Crew 1. Activate only once each turn. (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)",,,uncommon,OTJ,Outlaws of Thunder Junction,244,6,5,,"B,G,R,U,W",Treasure;Crew,token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"

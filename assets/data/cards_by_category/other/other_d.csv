@@ -1,0 +1,3 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,produced_mana,keywords,tags,legal_formats
+Darksteel Colossus // Darksteel Colossus,,0,,,,,mythic,SLD,Secret Lair Drop,1081,,,,,Indestructible;Trample,trample,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel,predh"
+Death Baron // Death Baron,,0,,,,B,rare,SLD,Secret Lair Drop,1458,,,,,,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel,predh"

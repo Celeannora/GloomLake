@@ -1,0 +1,22 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,produced_mana,keywords,tags,legal_formats
+New Horizons,{2}{G},3.0,Enchantment — Aura,"Enchant land
+When this Aura enters, put a +1/+1 counter on target creature you control.
+Enchanted land has ""{T}: Add two mana of any one color.""",G,G,common,WAR,War of the Spark,168,,,,"B,G,R,U,W",Enchant,pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Night of the Sweets' Revenge,{3}{G},4.0,Enchantment,"When this enchantment enters, create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this token: You gain 3 life."")
+Foods you control have ""{T}: Add {G}.""
+{5}{G}{G}, Sacrifice this enchantment: Creatures you control get +X/+X until end of turn, where X is the number of Foods you control. Activate only as a sorcery.",G,G,uncommon,WOE,Wilds of Eldraine,178,,,,G,Food,lifegain;pump;ramp;token;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"
+Ninja Teen,{2}{B},3.0,Enchantment — Class,"(Gain the next level as a sorcery to add its ability.)
+Whenever a creature you control leaves the battlefield, each opponent loses 1 life.
+{1}{B}: Level 2
+Creatures you control get +1/+0 and have menace.
+{B}: Level 3
+Creature cards in your graveyard have sneak {3}{B}.
+You may cast creature spells from your graveyard using their sneak abilities.",B,B,rare,TMT,Teenage Mutant Ninja Turtles,67,,,,,,tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Noggle the Mind,{1}{U},2.0,Enchantment — Aura,"Flash
+Enchant creature
+Enchanted creature loses all abilities and is a colorless Noggle with base power and toughness 1/1. (It loses all colors and all other creature types.)",U,U,uncommon,ECL,Lorwyn Eclipsed,60,,,,,Enchant;Flash,flash;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Northern Air Temple,{B},1.0,Legendary Enchantment — Shrine,"When Northern Air Temple enters, each opponent loses X life and you gain X life, where X is the number of Shrines you control.
+Whenever another Shrine you control enters, each opponent loses 1 life and you gain 1 life.",B,B,uncommon,TLA,Avatar: The Last Airbender,111,,,,,,lifegain;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Nowhere to Run,{1}{B},2.0,Enchantment,"Flash
+When this enchantment enters, target creature an opponent controls gets -3/-3 until end of turn.
+Creatures your opponents control can be the targets of spells and abilities as though they didn't have hexproof. Ward abilities of those creatures don't trigger.",B,B,rare,PW26,Wizards Play Network 2026,1,,,,,Flash,flash;protection,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"

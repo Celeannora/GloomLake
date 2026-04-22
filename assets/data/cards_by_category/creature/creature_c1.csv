@@ -1,0 +1,406 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Cackling Prowler,{3}{G},4.0,Creature — Hyena Rogue,"Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+Morbid — At the beginning of your end step, if a creature died this turn, put a +1/+1 counter on this creature.",G,G,common,FDN,Foundations,101,4,3,,Ward;Morbid
+Cackling Slasher,{3}{B},4.0,Creature — Human Assassin,"Deathtouch
+This creature enters with a +1/+1 counter on it if a creature died this turn.",B,B,common,DSK,Duskmourn: House of Horror,85,3,3,,Deathtouch
+Cactarantula,{4}{G}{G},6.0,Creature — Plant Spider,"This spell costs {1} less to cast if you control a Desert.
+Reach
+Whenever this creature becomes the target of a spell or ability an opponent controls, you may draw a card.",G,G,common,OTJ,Outlaws of Thunder Junction,158,6,5,,Reach
+Cactuar,{G},1.0,Creature — Plant,"Trample
+At the beginning of your end step, if this creature didn't enter the battlefield this turn, return it to its owner's hand.",G,G,uncommon,FIN,Final Fantasy,177,3,3,,Trample
+Cactusfolk Sureshot,{2}{R}{G},4.0,Creature — Plant Mercenary,"Reach
+Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+At the beginning of combat on your turn, other creatures you control with power 4 or greater gain trample and haste until end of turn.","G,R","G,R",uncommon,OTJ,Outlaws of Thunder Junction,199,4,4,,Reach;Ward
+"Caelorna, Coral Tyrant",{1}{U},2.0,Legendary Creature — Octopus,,U,U,uncommon,DFT,Aetherdrift,40,0,8,,
+"Calamity, Galloping Inferno",{4}{R}{R},6.0,Legendary Creature — Horse Mount,"Haste
+Whenever Calamity attacks while saddled, choose a nonlegendary creature that saddled it this turn and create a tapped and attacking token that's a copy of it. Sacrifice that token at the beginning of the next end step. Repeat this process once.
+Saddle 1",R,R,rare,OTJ,Outlaws of Thunder Junction,330,4,6,,Saddle;Haste
+"Calamity, Galloping Inferno",{4}{R}{R},6.0,Legendary Creature — Horse Mount,"Haste
+Whenever Calamity attacks while saddled, choose a nonlegendary creature that saddled it this turn and create a tapped and attacking token that's a copy of it. Sacrifice that token at the beginning of the next end step. Repeat this process once.
+Saddle 1",R,R,rare,PL26,Year of the Horse 2026,4,4,6,,Saddle;Haste
+"Calamity, Galloping Inferno",{4}{R}{R},6.0,Legendary Creature — Horse Mount,"Haste
+Whenever Calamity attacks while saddled, choose a nonlegendary creature that saddled it this turn and create a tapped and attacking token that's a copy of it. Sacrifice that token at the beginning of the next end step. Repeat this process once.
+Saddle 1",R,R,rare,POTJ,Outlaws of Thunder Junction Promos,116s,4,6,,Saddle;Haste
+"Calamity, Galloping Inferno",{4}{R}{R},6.0,Legendary Creature — Horse Mount,"Haste
+Whenever Calamity attacks while saddled, choose a nonlegendary creature that saddled it this turn and create a tapped and attacking token that's a copy of it. Sacrifice that token at the beginning of the next end step. Repeat this process once.
+Saddle 1",R,R,rare,POTJ,Outlaws of Thunder Junction Promos,116p,4,6,,Saddle;Haste
+"Calamity, Galloping Inferno",{4}{R}{R},6.0,Legendary Creature — Horse Mount,"Haste
+Whenever Calamity attacks while saddled, choose a nonlegendary creature that saddled it this turn and create a tapped and attacking token that's a copy of it. Sacrifice that token at the beginning of the next end step. Repeat this process once.
+Saddle 1",R,R,rare,OTJ,Outlaws of Thunder Junction,116,4,6,,Saddle;Haste
+Callous Inspector,{B},1.0,Creature — Human Soldier,"Menace (This creature can't be blocked except by two or more creatures.)
+When this creature dies, it deals 1 damage to you. Create a Clue token. (It's an artifact with ""{2}, Sacrifice this token: Draw a card."")",B,B,common,TLA,Avatar: The Last Airbender,89,1,1,,Menace
+Callous Sell-Sword // Burn Together,{1}{B} // {R},2.0,Creature — Human Soldier // Sorcery — Adventure,,B,"B,R",uncommon,WOE,Wilds of Eldraine,221,2,2,,
+"Camellia, the Seedmiser",{1}{B}{G},3.0,Legendary Creature — Squirrel Warlock,"Menace
+Other Squirrels you control have menace.
+Whenever you sacrifice one or more Foods, create a 1/1 green Squirrel creature token.
+{2}, Forage: Put a +1/+1 counter on each other Squirrel you control. (To forage, exile three cards from your graveyard or sacrifice a Food.)","B,G","B,G",rare,BLB,Bloomburrow,207,3,3,,Forage;Menace
+"Camellia, the Seedmiser",{1}{B}{G},3.0,Legendary Creature — Squirrel Warlock,"Menace
+Other Squirrels you control have menace.
+Whenever you sacrifice one or more Foods, create a 1/1 green Squirrel creature token.
+{2}, Forage: Put a +1/+1 counter on each other Squirrel you control. (To forage, exile three cards from your graveyard or sacrifice a Food.)","B,G","B,G",rare,BLB,Bloomburrow,346,3,3,,Forage;Menace
+"Camellia, the Seedmiser",{1}{B}{G},3.0,Legendary Creature — Squirrel Warlock,"Menace
+Other Squirrels you control have menace.
+Whenever you sacrifice one or more Foods, create a 1/1 green Squirrel creature token.
+{2}, Forage: Put a +1/+1 counter on each other Squirrel you control. (To forage, exile three cards from your graveyard or sacrifice a Food.)","B,G","B,G",rare,BLB,Bloomburrow,328,3,3,,Forage;Menace
+"Camellia, the Seedmiser",{1}{B}{G},3.0,Legendary Creature — Squirrel Warlock,"Menace
+Other Squirrels you control have menace.
+Whenever you sacrifice one or more Foods, create a 1/1 green Squirrel creature token.
+{2}, Forage: Put a +1/+1 counter on each other Squirrel you control. (To forage, exile three cards from your graveyard or sacrifice a Food.)","B,G","B,G",rare,PBLB,Bloomburrow Promos,207p,3,3,,Forage;Menace
+"Camellia, the Seedmiser",{1}{B}{G},3.0,Legendary Creature — Squirrel Warlock,"Menace
+Other Squirrels you control have menace.
+Whenever you sacrifice one or more Foods, create a 1/1 green Squirrel creature token.
+{2}, Forage: Put a +1/+1 counter on each other Squirrel you control. (To forage, exile three cards from your graveyard or sacrifice a Food.)","B,G","B,G",rare,PBLB,Bloomburrow Promos,207s,3,3,,Forage;Menace
+Camera Launcher,{3},3.0,Artifact Creature — Construct,Exhaust — {3}: Put a +1/+1 counter on this creature. Create a 1/1 colorless Thopter artifact creature token with flying. (Activate each exhaust ability only once.),,,common,DFT,Aetherdrift,232,2,2,,Exhaust
+Campus Guide,{2},2.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, reveal it, then shuffle and put that card on top.",,,common,FDN,Foundations,251,2,1,,
+Campus Guide,{2},2.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, reveal it, then shuffle and put that card on top.",,,common,STX,Strixhaven: School of Mages,252,2,1,,
+Campus Guide,{2},2.0,Artifact Creature — Golem,"When this creature enters, you may search your library for a basic land card, reveal it, then shuffle and put that card on top.",,,common,J22,Jumpstart 2022,758,2,1,,
+Canyon Crab,{1}{U},2.0,Creature — Crab,"{1}{U}: This creature gets +2/-2 until end of turn.
+At the beginning of your end step, if you haven't cast a spell from your hand this turn, draw a card, then discard a card.",U,U,uncommon,OTJ,Outlaws of Thunder Junction,40,0,5,,
+Canyon Crawler,{4}{B}{B},6.0,Creature — Spider Beast,"Deathtouch
+When this creature enters, create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this token: You gain 3 life."")
+Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)",B,B,common,TLA,Avatar: The Last Airbender,90,6,6,,Landcycling;Food;Typecycling;Cycling;Swampcycling;Deathtouch
+Canyon Vaulter,{1}{W},2.0,Creature — Kor Pilot,"Whenever this creature saddles a Mount or crews a Vehicle during your main phase, that Mount or Vehicle gains flying until end of turn.",W,W,uncommon,DFT,Aetherdrift,8,3,1,,
+Caparocti Sunborn,{2}{R}{W},4.0,Legendary Creature — Human Soldier,"Whenever Caparocti Sunborn attacks, you may tap two untapped artifacts and/or creatures you control. If you do, discover 3. (Exile cards from the top of your library until you exile a nonland card with mana value 3 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)","R,W","R,W",uncommon,LCI,The Lost Caverns of Ixalan,302,4,4,,Discover
+Caparocti Sunborn,{2}{R}{W},4.0,Legendary Creature — Human Soldier,"Whenever Caparocti Sunborn attacks, you may tap two untapped artifacts and/or creatures you control. If you do, discover 3. (Exile cards from the top of your library until you exile a nonland card with mana value 3 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)","R,W","R,W",uncommon,LCI,The Lost Caverns of Ixalan,226,4,4,,Discover
+"Captain Howler, Sea Scourge",{2}{U}{R},4.0,Legendary Creature — Shark Pirate,"Ward—{2}, Pay 2 life.
+Whenever you discard one or more cards, target creature gets +2/+0 until end of turn for each card discarded this way. Whenever that creature deals combat damage to a player this turn, you draw a card.","R,U","R,U",rare,DFT,Aetherdrift,194,5,4,,Ward
+"Captain Howler, Sea Scourge",{2}{U}{R},4.0,Legendary Creature — Shark Pirate,"Ward—{2}, Pay 2 life.
+Whenever you discard one or more cards, target creature gets +2/+0 until end of turn for each card discarded this way. Whenever that creature deals combat damage to a player this turn, you draw a card.","R,U","R,U",rare,PDFT,Aetherdrift Promos,194p,5,4,,Ward
+"Captain Howler, Sea Scourge",{2}{U}{R},4.0,Legendary Creature — Shark Pirate,"Ward—{2}, Pay 2 life.
+Whenever you discard one or more cards, target creature gets +2/+0 until end of turn for each card discarded this way. Whenever that creature deals combat damage to a player this turn, you draw a card.","R,U","R,U",rare,DFT,Aetherdrift,361,5,4,,Ward
+"Captain Howler, Sea Scourge",{2}{U}{R},4.0,Legendary Creature — Shark Pirate,"Ward—{2}, Pay 2 life.
+Whenever you discard one or more cards, target creature gets +2/+0 until end of turn for each card discarded this way. Whenever that creature deals combat damage to a player this turn, you draw a card.","R,U","R,U",rare,DFT,Aetherdrift,475,5,4,,Ward
+"Captain Howler, Sea Scourge",{2}{U}{R},4.0,Legendary Creature — Shark Pirate,"Ward—{2}, Pay 2 life.
+Whenever you discard one or more cards, target creature gets +2/+0 until end of turn for each card discarded this way. Whenever that creature deals combat damage to a player this turn, you draw a card.","R,U","R,U",rare,PDFT,Aetherdrift Promos,194s,5,4,,Ward
+"Captain Storm, Cosmium Raider",{U}{R},2.0,Legendary Creature — Human Pirate,"Whenever an artifact you control enters, put a +1/+1 counter on target Pirate you control.","R,U","R,U",uncommon,LCI,The Lost Caverns of Ixalan,227,2,2,,
+"Captain Storm, Cosmium Raider",{U}{R},2.0,Legendary Creature — Human Pirate,"Whenever an artifact you control enters, put a +1/+1 counter on target Pirate you control.","R,U","R,U",uncommon,LCI,The Lost Caverns of Ixalan,303,2,2,,
+"Caradora, Heart of Alacria",{2}{G}{W},4.0,Legendary Creature — Human Knight,"When Caradora enters, you may search your library for a Mount or Vehicle card, reveal it, put it into your hand, then shuffle.
+If one or more +1/+1 counters would be put on a creature or Vehicle you control, that many plus one +1/+1 counters are put on it instead.","G,W","G,W",rare,PDFT,Aetherdrift Promos,195p,4,2,,
+"Caradora, Heart of Alacria",{2}{G}{W},4.0,Legendary Creature — Human Knight,"When Caradora enters, you may search your library for a Mount or Vehicle card, reveal it, put it into your hand, then shuffle.
+If one or more +1/+1 counters would be put on a creature or Vehicle you control, that many plus one +1/+1 counters are put on it instead.","G,W","G,W",rare,DFT,Aetherdrift,195,4,2,,
+"Caradora, Heart of Alacria",{2}{G}{W},4.0,Legendary Creature — Human Knight,"When Caradora enters, you may search your library for a Mount or Vehicle card, reveal it, put it into your hand, then shuffle.
+If one or more +1/+1 counters would be put on a creature or Vehicle you control, that many plus one +1/+1 counters are put on it instead.","G,W","G,W",rare,PDFT,Aetherdrift Promos,195s,4,2,,
+"Caradora, Heart of Alacria",{2}{G}{W},4.0,Legendary Creature — Human Knight,"When Caradora enters, you may search your library for a Mount or Vehicle card, reveal it, put it into your hand, then shuffle.
+If one or more +1/+1 counters would be put on a creature or Vehicle you control, that many plus one +1/+1 counters are put on it instead.","G,W","G,W",rare,DFT,Aetherdrift,476,4,2,,
+"Caradora, Heart of Alacria",{2}{G}{W},4.0,Legendary Creature — Human Knight,"When Caradora enters, you may search your library for a Mount or Vehicle card, reveal it, put it into your hand, then shuffle.
+If one or more +1/+1 counters would be put on a creature or Vehicle you control, that many plus one +1/+1 counters are put on it instead.","G,W","G,W",rare,DFT,Aetherdrift,362,4,2,,
+"Carnage, Crimson Chaos",{2}{B}{R},4.0,Legendary Creature — Symbiote Villain,"Trample
+When Carnage enters, return target creature card with mana value 3 or less from your graveyard to the battlefield. It gains ""This creature attacks each combat if able"" and ""When this creature deals combat damage to a player, sacrifice it.""
+Mayhem {B}{R}","B,R","B,R",rare,PW25,Wizards Play Network 2025,13,4,3,,Mayhem;Trample
+"Carnage, Crimson Chaos",{2}{B}{R},4.0,Legendary Creature — Symbiote Villain,"Trample
+When Carnage enters, return target creature card with mana value 3 or less from your graveyard to the battlefield. It gains ""This creature attacks each combat if able"" and ""When this creature deals combat damage to a player, sacrifice it.""
+Mayhem {B}{R}","B,R","B,R",rare,SPM,Marvel's Spider-Man,227,4,3,,Mayhem;Trample
+"Carnage, Crimson Chaos",{2}{B}{R},4.0,Legendary Creature — Symbiote Villain,"Trample
+When Carnage enters, return target creature card with mana value 3 or less from your graveyard to the battlefield. It gains ""This creature attacks each combat if able"" and ""When this creature deals combat damage to a player, sacrifice it.""
+Mayhem {B}{R}","B,R","B,R",rare,SPM,Marvel's Spider-Man,125,4,3,,Mayhem;Trample
+"Carnage, Crimson Chaos",{2}{B}{R},4.0,Legendary Creature — Symbiote Villain,"Trample
+When Carnage enters, return target creature card with mana value 3 or less from your graveyard to the battlefield. It gains ""This creature attacks each combat if able"" and ""When this creature deals combat damage to a player, sacrifice it.""
+Mayhem {B}{R}","B,R","B,R",rare,PSPM,Marvel's Spider-Man Promos,125s,4,3,,Mayhem;Trample
+"Carnage, Crimson Chaos",{2}{B}{R},4.0,Legendary Creature — Symbiote Villain,"Trample
+When Carnage enters, return target creature card with mana value 3 or less from your graveyard to the battlefield. It gains ""This creature attacks each combat if able"" and ""When this creature deals combat damage to a player, sacrifice it.""
+Mayhem {B}{R}","B,R","B,R",rare,OM1,Through the Omenpaths,133,4,3,,Mayhem;Trample
+Cartographer's Companion,{3},3.0,Artifact Creature — Gnome,"When this creature enters, create a Map token. (It's an artifact with ""{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery."")",,,common,LCI,The Lost Caverns of Ixalan,248,2,1,,Explore
+Case File Auditor,{2}{W},3.0,Creature — Human Detective,"When this creature enters and whenever you solve a Case, look at the top six cards of your library. You may reveal an enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+You may spend mana as though it were mana of any color to cast Case spells.",W,W,uncommon,MKM,Murders at Karlov Manor,7†,1,4,,
+Case File Auditor,{2}{W},3.0,Creature — Human Detective,"When this creature enters and whenever you solve a Case, look at the top six cards of your library. You may reveal an enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+You may spend mana as though it were mana of any color to cast Case spells.",W,W,uncommon,MKM,Murders at Karlov Manor,7,1,4,,
+"Casey Jones, Jury-Rig Justiciar",{1}{R},2.0,Legendary Creature — Human Berserker,"Haste
+When Casey Jones enters, look at the top four cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",R,R,uncommon,TMT,Teenage Mutant Ninja Turtles,87,2,1,,Haste
+"Casey Jones, Jury-Rig Justiciar",{1}{R},2.0,Legendary Creature — Human Berserker,"Haste
+When Casey Jones enters, look at the top four cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",R,R,uncommon,TMT,Teenage Mutant Ninja Turtles,207,2,1,,Haste
+"Casey Jones, Vigilante",{1}{R}{R},3.0,Legendary Creature — Human Berserker,"When Casey Jones enters, draw three cards. At the beginning of your next upkeep, discard three cards at random.",R,R,mythic,TMT,Teenage Mutant Ninja Turtles,286,4,3,,
+"Casey Jones, Vigilante",{1}{R}{R},3.0,Legendary Creature — Human Berserker,"When Casey Jones enters, draw three cards. At the beginning of your next upkeep, discard three cards at random.",R,R,rare,TMT,Teenage Mutant Ninja Turtles,235,4,3,,
+"Casey Jones, Vigilante",{1}{R}{R},3.0,Legendary Creature — Human Berserker,"When Casey Jones enters, draw three cards. At the beginning of your next upkeep, discard three cards at random.",R,R,mythic,TMT,Teenage Mutant Ninja Turtles,296,4,3,,
+"Casey Jones, Vigilante",{1}{R}{R},3.0,Legendary Creature — Human Berserker,"When Casey Jones enters, draw three cards. At the beginning of your next upkeep, discard three cards at random.",R,R,rare,TMT,Teenage Mutant Ninja Turtles,88,4,3,,
+Cat Collector,{2}{W},3.0,Creature — Human Citizen,"When this creature enters, create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this token: You gain 3 life."")
+Whenever you gain life for the first time during each of your turns, create a 1/1 white Cat creature token.",W,W,uncommon,FDN,Foundations,4,3,2,,Food
+Cat-Gator,{6}{B},7.0,Creature — Fish Crocodile,"Lifelink
+When this creature enters, it deals damage equal to the number of Swamps you control to any target.",B,B,uncommon,TLA,Avatar: The Last Airbender,91,3,2,,Lifelink
+Cat-Owl,{3}{W/U},4.0,Creature — Cat Bird,"Flying
+Whenever this creature attacks, untap target artifact or creature.","U,W","U,W",common,TLA,Avatar: The Last Airbender,212,3,3,,Flying
+Cathar Commando,{1}{W},2.0,Creature — Human Soldier,"Flash
+{1}, Sacrifice this creature: Destroy target artifact or enchantment.",W,W,common,MB2,Mystery Booster 2,5,3,1,,Flash
+Cathar Commando,{1}{W},2.0,Creature — Human Soldier,"Flash
+{1}, Sacrifice this creature: Destroy target artifact or enchantment.",W,W,common,FDN,Foundations,139,3,1,,Flash
+Cathar Commando,{1}{W},2.0,Creature — Human Soldier,"Flash
+{1}, Sacrifice this creature: Destroy target artifact or enchantment.",W,W,common,INR,Innistrad Remastered,15,3,1,,Flash
+Cathar Commando,{1}{W},2.0,Creature — Human Soldier,"Flash
+{1}, Sacrifice this creature: Destroy target artifact or enchantment.",W,W,common,MID,Innistrad: Midnight Hunt,10,3,1,,Flash
+Cathar Commando,{1}{W},2.0,Creature — Human Soldier,"Flash
+{1}, Sacrifice this creature: Destroy target artifact or enchantment.",W,W,common,DBL,Innistrad: Double Feature,10,3,1,,Flash
+Cathar Commando,{1}{W},2.0,Creature — Human Soldier,"Flash
+{1}, Sacrifice this creature: Destroy target artifact or enchantment.",W,W,common,INR,Innistrad Remastered,336,3,1,,Flash
+Catharsis,{4}{R/W}{R/W},6.0,Creature — Elemental Incarnation,"When this creature enters, if {W}{W} was spent to cast it, create two 1/1 green and white Kithkin creature tokens.
+When this creature enters, if {R}{R} was spent to cast it, creatures you control get +1/+1 and gain haste until end of turn.
+Evoke {R/W}{R/W} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)","R,W","R,W",mythic,PECL,Lorwyn Eclipsed Promos,209p,3,4,,Evoke
+Catharsis,{4}{R/W}{R/W},6.0,Creature — Elemental Incarnation,"When this creature enters, if {W}{W} was spent to cast it, create two 1/1 green and white Kithkin creature tokens.
+When this creature enters, if {R}{R} was spent to cast it, creatures you control get +1/+1 and gain haste until end of turn.
+Evoke {R/W}{R/W} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)","R,W","R,W",mythic,ECL,Lorwyn Eclipsed,209,3,4,,Evoke
+Catharsis,{4}{R/W}{R/W},6.0,Creature — Elemental Incarnation,"When this creature enters, if {W}{W} was spent to cast it, create two 1/1 green and white Kithkin creature tokens.
+When this creature enters, if {R}{R} was spent to cast it, creatures you control get +1/+1 and gain haste until end of turn.
+Evoke {R/W}{R/W} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)","R,W","R,W",mythic,ECL,Lorwyn Eclipsed,292,3,4,,Evoke
+Caustic Bronco,{1}{B},2.0,Creature — Snake Horse Mount,"Whenever this creature attacks, reveal the top card of your library and put it into your hand. You lose life equal to that card's mana value if this creature isn't saddled. Otherwise, each opponent loses that much life.
+Saddle 3 (Tap any number of other creatures you control with total power 3 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",B,B,rare,POTJ,Outlaws of Thunder Junction Promos,82s,2,2,,Saddle
+Caustic Bronco,{1}{B},2.0,Creature — Snake Horse Mount,"Whenever this creature attacks, reveal the top card of your library and put it into your hand. You lose life equal to that card's mana value if this creature isn't saddled. Otherwise, each opponent loses that much life.
+Saddle 3 (Tap any number of other creatures you control with total power 3 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",B,B,rare,OTJ,Outlaws of Thunder Junction,324,2,2,,Saddle
+Caustic Bronco,{1}{B},2.0,Creature — Snake Horse Mount,"Whenever this creature attacks, reveal the top card of your library and put it into your hand. You lose life equal to that card's mana value if this creature isn't saddled. Otherwise, each opponent loses that much life.
+Saddle 3 (Tap any number of other creatures you control with total power 3 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",B,B,rare,POTJ,Outlaws of Thunder Junction Promos,82p,2,2,,Saddle
+Caustic Bronco,{1}{B},2.0,Creature — Snake Horse Mount,"Whenever this creature attacks, reveal the top card of your library and put it into your hand. You lose life equal to that card's mana value if this creature isn't saddled. Otherwise, each opponent loses that much life.
+Saddle 3 (Tap any number of other creatures you control with total power 3 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",B,B,rare,PL26,Year of the Horse 2026,1,2,2,,Saddle
+Caustic Bronco,{1}{B},2.0,Creature — Snake Horse Mount,"Whenever this creature attacks, reveal the top card of your library and put it into your hand. You lose life equal to that card's mana value if this creature isn't saddled. Otherwise, each opponent loses that much life.
+Saddle 3 (Tap any number of other creatures you control with total power 3 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",B,B,rare,OTJ,Outlaws of Thunder Junction,82,2,2,,Saddle
+Cautious Survivor,{3}{G},4.0,Creature — Elf Survivor,"Survival — At the beginning of your second main phase, if this creature is tapped, you gain 2 life.",G,G,common,DSK,Duskmourn: House of Horror,172,4,4,,Survival
+Cavern Stomper,{4}{G}{G},6.0,Creature — Dinosaur,"When this creature enters, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)
+{3}{G}: This creature can't be blocked by creatures with power 2 or less this turn.",G,G,common,LCI,The Lost Caverns of Ixalan,177,7,7,,Scry
+"Cecil, Dark Knight // Cecil, Redeemed Paladin",,1.0,Legendary Creature — Human Knight // Legendary Creature — Human Knight,,,"B,W",rare,FIN,Final Fantasy,91,,,,Lifelink;Protect;Transform;Darkness;Deathtouch
+"Cecil, Dark Knight // Cecil, Redeemed Paladin",,1.0,Legendary Creature — Human Knight // Legendary Creature — Human Knight,,,"B,W",rare,PFIN,Final Fantasy Promos,91s,,,,Lifelink;Protect;Transform;Darkness;Deathtouch
+"Cecil, Dark Knight // Cecil, Redeemed Paladin",,1.0,Legendary Creature — Human Knight // Legendary Creature — Human Knight,,,"B,W",rare,FIN,Final Fantasy,525,,,,Lifelink;Protect;Transform;Darkness;Deathtouch
+"Cecil, Dark Knight // Cecil, Redeemed Paladin",,1.0,Legendary Creature — Human Knight // Legendary Creature — Human Knight,,,"B,W",rare,FIN,Final Fantasy,445,,,,Lifelink;Protect;Transform;Darkness;Deathtouch
+"Cecil, Dark Knight // Cecil, Redeemed Paladin",,1.0,Legendary Creature — Human Knight // Legendary Creature — Human Knight,,,"B,W",rare,FIN,Final Fantasy,380,,,,Lifelink;Protect;Transform;Darkness;Deathtouch
+Cenote Scout,{G},1.0,Creature — Merfolk Scout,"When this creature enters, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)",G,G,uncommon,LCI,The Lost Caverns of Ixalan,178,1,1,,Explore
+Cenote Scout,{G},1.0,Creature — Merfolk Scout,"When this creature enters, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)",G,G,uncommon,LCI,The Lost Caverns of Ixalan,408,1,1,,Explore
+Cephalid Inkmage,{2}{U},3.0,Creature — Octopus Wizard,"When this creature enters, surveil 3. (Look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+Threshold — This creature can't be blocked as long as there are seven or more cards in your graveyard.",U,U,uncommon,FDN,Foundations,32,2,2,,Surveil;Threshold
+"Chameleon, Master of Disguise",{3}{U},4.0,Legendary Creature — Human Shapeshifter Villain,"You may have Chameleon enter as a copy of a creature you control, except his name is Chameleon, Master of Disguise.
+Mayhem {2}{U} (You may cast this card from your graveyard for {2}{U} if you discarded it this turn. Timing rules still apply.)",U,U,uncommon,OM1,Through the Omenpaths,46,2,3,,Mayhem
+"Chameleon, Master of Disguise",{3}{U},4.0,Legendary Creature — Human Shapeshifter Villain,"You may have Chameleon enter as a copy of a creature you control, except his name is Chameleon, Master of Disguise.
+Mayhem {2}{U} (You may cast this card from your graveyard for {2}{U} if you discarded it this turn. Timing rules still apply.)",U,U,uncommon,SPM,Marvel's Spider-Man,27,2,3,,Mayhem
+Champion of Dusan,{2}{G},3.0,Creature — Human Warrior,"Trample
+Renew — {1}{G}, Exile this card from your graveyard: Put a +1/+1 counter and a trample counter on target creature. Activate only as a sorcery.",G,G,common,TDM,Tarkir: Dragonstorm,137,4,2,,Renew;Trample
+Champion of the Clachan,{3}{W},4.0,Creature — Kithkin Knight,"Flash
+As an additional cost to cast this spell, behold a Kithkin and exile it. (Exile a Kithkin you control or a Kithkin card from your hand.)
+Other Kithkin you control get +1/+1.
+When this creature leaves the battlefield, return the exiled card to its owner's hand.",W,W,rare,ECL,Lorwyn Eclipsed,9,4,5,,Behold;Flash
+Champion of the Clachan,{3}{W},4.0,Creature — Kithkin Knight,"Flash
+As an additional cost to cast this spell, behold a Kithkin and exile it. (Exile a Kithkin you control or a Kithkin card from your hand.)
+Other Kithkin you control get +1/+1.
+When this creature leaves the battlefield, return the exiled card to its owner's hand.",W,W,rare,ECL,Lorwyn Eclipsed,353,4,5,,Behold;Flash
+Champion of the Clachan,{3}{W},4.0,Creature — Kithkin Knight,"Flash
+As an additional cost to cast this spell, behold a Kithkin and exile it. (Exile a Kithkin you control or a Kithkin card from your hand.)
+Other Kithkin you control get +1/+1.
+When this creature leaves the battlefield, return the exiled card to its owner's hand.",W,W,rare,PECL,Lorwyn Eclipsed Promos,9p,4,5,,Behold;Flash
+Champion of the Path,{3}{R},4.0,Creature — Elemental Sorcerer,"As an additional cost to cast this spell, behold an Elemental and exile it. (Exile an Elemental you control or an Elemental card from your hand.)
+Whenever another Elemental you control enters, it deals damage equal to its power to each opponent.
+When this creature leaves the battlefield, return the exiled card to its owner's hand.",R,R,rare,PECL,Lorwyn Eclipsed Promos,130p,7,3,,Behold
+Champion of the Path,{3}{R},4.0,Creature — Elemental Sorcerer,"As an additional cost to cast this spell, behold an Elemental and exile it. (Exile an Elemental you control or an Elemental card from your hand.)
+Whenever another Elemental you control enters, it deals damage equal to its power to each opponent.
+When this creature leaves the battlefield, return the exiled card to its owner's hand.",R,R,rare,ECL,Lorwyn Eclipsed,362,7,3,,Behold
+Champion of the Path,{3}{R},4.0,Creature — Elemental Sorcerer,"As an additional cost to cast this spell, behold an Elemental and exile it. (Exile an Elemental you control or an Elemental card from your hand.)
+Whenever another Elemental you control enters, it deals damage equal to its power to each opponent.
+When this creature leaves the battlefield, return the exiled card to its owner's hand.",R,R,rare,ECL,Lorwyn Eclipsed,130,7,3,,Behold
+Champion of the Weird,{3}{B},4.0,Creature — Goblin Berserker,"As an additional cost to cast this spell, behold a Goblin and exile it. (Exile a Goblin you control or a Goblin card from your hand.)
+Pay 1 life, Blight 2: Target opponent blights 2. Activate only as a sorcery.
+When this creature leaves the battlefield, return the exiled card to its owner's hand.",B,B,rare,ECL,Lorwyn Eclipsed,360,5,5,,Blight;Behold
+Champion of the Weird,{3}{B},4.0,Creature — Goblin Berserker,"As an additional cost to cast this spell, behold a Goblin and exile it. (Exile a Goblin you control or a Goblin card from your hand.)
+Pay 1 life, Blight 2: Target opponent blights 2. Activate only as a sorcery.
+When this creature leaves the battlefield, return the exiled card to its owner's hand.",B,B,rare,PECL,Lorwyn Eclipsed Promos,95p,5,5,,Blight;Behold
+Champion of the Weird,{3}{B},4.0,Creature — Goblin Berserker,"As an additional cost to cast this spell, behold a Goblin and exile it. (Exile a Goblin you control or a Goblin card from your hand.)
+Pay 1 life, Blight 2: Target opponent blights 2. Activate only as a sorcery.
+When this creature leaves the battlefield, return the exiled card to its owner's hand.",B,B,rare,ECL,Lorwyn Eclipsed,95,5,5,,Blight;Behold
+Champions of the Perfect,{3}{G},4.0,Creature — Elf Warrior,"As an additional cost to cast this spell, behold an Elf and exile it. (Exile an Elf you control or an Elf card from your hand.)
+Whenever you cast a creature spell, draw a card.
+When this creature leaves the battlefield, return the exiled card to its owner's hand.",G,G,rare,ECL,Lorwyn Eclipsed,365,6,6,,Behold
+Champions of the Perfect,{3}{G},4.0,Creature — Elf Warrior,"As an additional cost to cast this spell, behold an Elf and exile it. (Exile an Elf you control or an Elf card from your hand.)
+Whenever you cast a creature spell, draw a card.
+When this creature leaves the battlefield, return the exiled card to its owner's hand.",G,G,rare,ECL,Lorwyn Eclipsed,171,6,6,,Behold
+Champions of the Perfect,{3}{G},4.0,Creature — Elf Warrior,"As an additional cost to cast this spell, behold an Elf and exile it. (Exile an Elf you control or an Elf card from your hand.)
+Whenever you cast a creature spell, draw a card.
+When this creature leaves the battlefield, return the exiled card to its owner's hand.",G,G,rare,PECL,Lorwyn Eclipsed Promos,171p,6,6,,Behold
+Champions of the Shoal,{3}{U},4.0,Creature — Merfolk Soldier,"As an additional cost to cast this spell, behold a Merfolk and exile it. (Exile a Merfolk you control or a Merfolk card from your hand.)
+Whenever this creature enters or becomes tapped, tap up to one target creature and put a stun counter on it.
+When this creature leaves the battlefield, return the exiled card to its owner's hand.",U,U,rare,PECL,Lorwyn Eclipsed Promos,46p,4,6,,Behold
+Champions of the Shoal,{3}{U},4.0,Creature — Merfolk Soldier,"As an additional cost to cast this spell, behold a Merfolk and exile it. (Exile a Merfolk you control or a Merfolk card from your hand.)
+Whenever this creature enters or becomes tapped, tap up to one target creature and put a stun counter on it.
+When this creature leaves the battlefield, return the exiled card to its owner's hand.",U,U,rare,ECL,Lorwyn Eclipsed,356,4,6,,Behold
+Champions of the Shoal,{3}{U},4.0,Creature — Merfolk Soldier,"As an additional cost to cast this spell, behold a Merfolk and exile it. (Exile a Merfolk you control or a Merfolk card from your hand.)
+Whenever this creature enters or becomes tapped, tap up to one target creature and put a stun counter on it.
+When this creature leaves the battlefield, return the exiled card to its owner's hand.",U,U,rare,ECL,Lorwyn Eclipsed,46,4,6,,Behold
+Chancellor of Tales,{3}{U},4.0,Creature — Faerie Advisor,"Flying
+Whenever you cast an Adventure spell, you may copy it. You may choose new targets for the copy.",U,U,uncommon,WOE,Wilds of Eldraine,45,2,3,,Flying
+Changeling Wayfinder,{3},3.0,Creature — Shapeshifter,"Changeling (This card is every creature type.)
+When this creature enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.",,,common,ECL,Lorwyn Eclipsed,1,1,2,,Changeling
+Chaos Spewer,{2}{B/R},3.0,Creature — Goblin Warlock,"When this creature enters, you may pay {2}. If you don't, blight 2. (To blight 2, put two -1/-1 counters on a creature you control.)","B,R","B,R",common,ECL,Lorwyn Eclipsed,210,5,4,,Blight
+Charging Hooligan,{3}{R},4.0,Creature — Human Peasant,"Whenever this creature attacks, it gets +1/+0 until end of turn for each attacking creature. If a Rat is attacking, this creature gains trample until end of turn.",R,R,uncommon,WOE,Wilds of Eldraine,318,3,3,,
+Charmed Clothier,{4}{W},5.0,Creature — Faerie Advisor,"Flying
+When this creature enters, create a Royal Role token attached to another target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1 and has ward {1}.)",W,W,common,WOE,Wilds of Eldraine,6,3,3,,Flying;Role token
+Charming Prince,{1}{W},2.0,Creature — Human Noble,"When this creature enters, choose one —
+• Scry 2.
+• You gain 3 life.
+• Exile another target creature you own. Return it to the battlefield under your control at the beginning of the next end step.",W,W,rare,PELD,Throne of Eldraine Promos,8p,2,2,,Scry
+Charming Prince,{1}{W},2.0,Creature — Human Noble,"When this creature enters, choose one —
+• Scry 2.
+• You gain 3 life.
+• Exile another target creature you own. Return it to the battlefield under your control at the beginning of the next end step.",W,W,rare,PLST,The List,ELD-8,2,2,,Scry
+Charming Prince,{1}{W},2.0,Creature — Human Noble,"When this creature enters, choose one —
+• Scry 2.
+• You gain 3 life.
+• Exile another target creature you own. Return it to the battlefield under your control at the beginning of the next end step.",W,W,rare,PELD,Throne of Eldraine Promos,8s,2,2,,Scry
+Charming Prince,{1}{W},2.0,Creature — Human Noble,"When this creature enters, choose one —
+• Scry 2.
+• You gain 3 life.
+• Exile another target creature you own. Return it to the battlefield under your control at the beginning of the next end step.",W,W,rare,FDN,Foundations,568,2,2,,Scry
+Charming Prince,{1}{W},2.0,Creature — Human Noble,"When this creature enters, choose one —
+• Scry 2.
+• You gain 3 life.
+• Exile another target creature you own. Return it to the battlefield under your control at the beginning of the next end step.",W,W,rare,ELD,Throne of Eldraine,8,2,2,,Scry
+Charming Prince,{1}{W},2.0,Creature — Human Noble,"When this creature enters, choose one —
+• Scry 2.
+• You gain 3 life.
+• Exile another target creature you own. Return it to the battlefield under your control at the beginning of the next end step.",W,W,rare,ELD,Throne of Eldraine,335,2,2,,Scry
+Charming Scoundrel,{1}{R},2.0,Creature — Human Rogue,"Haste
+When this creature enters, choose one —
+• Discard a card, then draw a card.
+• Create a Treasure token.
+• Create a Wicked Role token attached to target creature you control.",R,R,rare,WOE,Wilds of Eldraine,345,1,1,,Role token;Treasure;Haste
+Charming Scoundrel,{1}{R},2.0,Creature — Human Rogue,"Haste
+When this creature enters, choose one —
+• Discard a card, then draw a card.
+• Create a Treasure token.
+• Create a Wicked Role token attached to target creature you control.",R,R,rare,PWOE,Wilds of Eldraine Promos,124p,1,1,,Role token;Treasure;Haste
+Charming Scoundrel,{1}{R},2.0,Creature — Human Rogue,"Haste
+When this creature enters, choose one —
+• Discard a card, then draw a card.
+• Create a Treasure token.
+• Create a Wicked Role token attached to target creature you control.",R,R,rare,SCH,Store Championships,37,1,1,,Role token;Treasure;Haste
+Charming Scoundrel,{1}{R},2.0,Creature — Human Rogue,"Haste
+When this creature enters, choose one —
+• Discard a card, then draw a card.
+• Create a Treasure token.
+• Create a Wicked Role token attached to target creature you control.",R,R,rare,WOE,Wilds of Eldraine,124,1,1,,Role token;Treasure;Haste
+Charming Scoundrel,{1}{R},2.0,Creature — Human Rogue,"Haste
+When this creature enters, choose one —
+• Discard a card, then draw a card.
+• Create a Treasure token.
+• Create a Wicked Role token attached to target creature you control.",R,R,rare,PWOE,Wilds of Eldraine Promos,124s,1,1,,Role token;Treasure;Haste
+Cheeky House-Mouse // Squeak By,{W} // {W},1.0,Creature — Mouse // Sorcery — Adventure,,W,W,uncommon,WOE,Wilds of Eldraine,7,2,1,,
+Cheering Crowd,{1}{R/G},2.0,Creature — Human Citizen,"At the beginning of each player's first main phase, that player may put a +1/+1 counter on this creature. If they do, they add {C} for each counter on it.","G,R","G,R",rare,SPM,Marvel's Spider-Man,270,2,2,,
+Cheering Crowd,{1}{R/G},2.0,Creature — Human Citizen,"At the beginning of each player's first main phase, that player may put a +1/+1 counter on this creature. If they do, they add {C} for each counter on it.","G,R","G,R",rare,SPM,Marvel's Spider-Man,126,2,2,,
+Cheering Crowd,{1}{R/G},2.0,Creature — Human Citizen,"At the beginning of each player's first main phase, that player may put a +1/+1 counter on this creature. If they do, they add {C} for each counter on it.","G,R","G,R",rare,OM1,Through the Omenpaths,129,2,2,,
+Cheering Crowd,{1}{R/G},2.0,Creature — Human Citizen,"At the beginning of each player's first main phase, that player may put a +1/+1 counter on this creature. If they do, they add {C} for each counter on it.","G,R","G,R",rare,PSPM,Marvel's Spider-Man Promos,126s,2,2,,
+Child of the Volcano,{3}{R},4.0,Creature — Elemental,"Trample
+At the beginning of your end step, if you descended this turn, put a +1/+1 counter on this creature. (You descended if a permanent card was put into your graveyard from anywhere.)",R,R,common,LCI,The Lost Caverns of Ixalan,140,3,3,,Trample
+Chitin Gravestalker,{5}{B},6.0,Creature — Insect Warrior,"This spell costs {1} less to cast for each artifact and/or creature card in your graveyard.
+Cycling {2} ({2}, Discard this card: Draw a card.)",B,B,common,DFT,Aetherdrift,79,5,4,,Cycling
+Chitinous Graspling,{3}{G/U},4.0,Creature — Shapeshifter,"Changeling (This card is every creature type.)
+Reach","G,U","G,U",common,ECL,Lorwyn Eclipsed,211,3,4,,Reach;Changeling
+"Choco, Seeker of Paradise",{1}{G}{W}{U},4.0,Legendary Creature — Bird,"Whenever one or more Birds you control attack, look at that many cards from the top of your library. You may put one of them into your hand. Then put any number of land cards from among them onto the battlefield tapped and the rest into your graveyard.
+Landfall — Whenever a land you control enters, Choco gets +1/+0 until end of turn.","G,U,W","G,U,W",rare,FIN,Final Fantasy,569,3,5,,Landfall
+"Choco, Seeker of Paradise",{1}{G}{W}{U},4.0,Legendary Creature — Bird,"Whenever one or more Birds you control attack, look at that many cards from the top of your library. You may put one of them into your hand. Then put any number of land cards from among them onto the battlefield tapped and the rest into your graveyard.
+Landfall — Whenever a land you control enters, Choco gets +1/+0 until end of turn.","G,U,W","G,U,W",rare,FIN,Final Fantasy,215,3,5,,Landfall
+"Choco, Seeker of Paradise",{1}{G}{W}{U},4.0,Legendary Creature — Bird,"Whenever one or more Birds you control attack, look at that many cards from the top of your library. You may put one of them into your hand. Then put any number of land cards from among them onto the battlefield tapped and the rest into your graveyard.
+Landfall — Whenever a land you control enters, Choco gets +1/+0 until end of turn.","G,U,W","G,U,W",rare,FIN,Final Fantasy,479,3,5,,Landfall
+"Choco, Seeker of Paradise",{1}{G}{W}{U},4.0,Legendary Creature — Bird,"Whenever one or more Birds you control attack, look at that many cards from the top of your library. You may put one of them into your hand. Then put any number of land cards from among them onto the battlefield tapped and the rest into your graveyard.
+Landfall — Whenever a land you control enters, Choco gets +1/+0 until end of turn.","G,U,W","G,U,W",rare,PFIN,Final Fantasy Promos,215s,3,5,,Landfall
+Chomping Changeling,{2}{G},3.0,Creature — Shapeshifter,"Changeling (This card is every creature type.)
+When this creature enters, destroy up to one target artifact or enchantment.",G,G,uncommon,ECL,Lorwyn Eclipsed,172,1,2,,Changeling
+Chrome Companion,{2},2.0,Artifact Creature — Dog,"Whenever this creature becomes tapped, you gain 1 life.
+{2}, {T}: Put target card from a graveyard on the bottom of its owner's library.",,,common,EOE,Edge of Eternities,236,2,1,,
+Chrome Dome,{2},2.0,Artifact Creature — Robot Ninja,"Other artifact creatures you control get +1/+0.
+{5}: Create a token that's a copy of another target artifact you control. That token gains haste. Sacrifice it at the beginning of the next end step.",,,rare,TMT,Teenage Mutant Ninja Turtles,276,1,3,,
+Chrome Dome,{2},2.0,Artifact Creature — Robot Ninja,"Other artifact creatures you control get +1/+0.
+{5}: Create a token that's a copy of another target artifact you control. That token gains haste. Sacrifice it at the beginning of the next end step.",,,rare,TMT,Teenage Mutant Ninja Turtles,172,1,3,,
+Chupacabra Echo,{2}{B}{B},4.0,Creature — Beast Horror Spirit,"Fathomless descent — When this creature enters, target creature an opponent controls gets -X/-X until end of turn, where X is the number of permanent cards in your graveyard.",B,B,uncommon,LCI,The Lost Caverns of Ixalan,97,3,2,,Fathomless descent
+"Cid, Timeless Artificer",{2}{W}{U},4.0,Legendary Creature — Human Artificer,"Artifact creatures and Heroes you control get +1/+1 for each Artificer you control and each Artificer card in your graveyard.
+A deck can have any number of cards named Cid, Timeless Artificer.
+Cycling {W}{U} ({W}{U}, Discard this card: Draw a card.)","U,W","U,W",uncommon,FIN,Final Fantasy,418,4,4,,Cycling
+"Cid, Timeless Artificer",{2}{W}{U},4.0,Legendary Creature — Human Artificer,"Artifact creatures and Heroes you control get +1/+1 for each Artificer you control and each Artificer card in your graveyard.
+A deck can have any number of cards named Cid, Timeless Artificer.
+Cycling {W}{U} ({W}{U}, Discard this card: Draw a card.)","U,W","U,W",uncommon,FIN,Final Fantasy,409,4,4,,Cycling
+"Cid, Timeless Artificer",{2}{W}{U},4.0,Legendary Creature — Human Artificer,"Artifact creatures and Heroes you control get +1/+1 for each Artificer you control and each Artificer card in your graveyard.
+A deck can have any number of cards named Cid, Timeless Artificer.
+Cycling {W}{U} ({W}{U}, Discard this card: Draw a card.)","U,W","U,W",uncommon,FIN,Final Fantasy,420,4,4,,Cycling
+"Cid, Timeless Artificer",{2}{W}{U},4.0,Legendary Creature — Human Artificer,"Artifact creatures and Heroes you control get +1/+1 for each Artificer you control and each Artificer card in your graveyard.
+A deck can have any number of cards named Cid, Timeless Artificer.
+Cycling {W}{U} ({W}{U}, Discard this card: Draw a card.)","U,W","U,W",uncommon,FIN,Final Fantasy,417,4,4,,Cycling
+"Cid, Timeless Artificer",{2}{W}{U},4.0,Legendary Creature — Human Artificer,"Artifact creatures and Heroes you control get +1/+1 for each Artificer you control and each Artificer card in your graveyard.
+A deck can have any number of cards named Cid, Timeless Artificer.
+Cycling {W}{U} ({W}{U}, Discard this card: Draw a card.)","U,W","U,W",uncommon,FIN,Final Fantasy,414,4,4,,Cycling
+"Cid, Timeless Artificer",{2}{W}{U},4.0,Legendary Creature — Human Artificer,"Artifact creatures and Heroes you control get +1/+1 for each Artificer you control and each Artificer card in your graveyard.
+A deck can have any number of cards named Cid, Timeless Artificer.
+Cycling {W}{U} ({W}{U}, Discard this card: Draw a card.)","U,W","U,W",uncommon,FIN,Final Fantasy,412,4,4,,Cycling
+"Cid, Timeless Artificer",{2}{W}{U},4.0,Legendary Creature — Human Artificer,"Artifact creatures and Heroes you control get +1/+1 for each Artificer you control and each Artificer card in your graveyard.
+A deck can have any number of cards named Cid, Timeless Artificer.
+Cycling {W}{U} ({W}{U}, Discard this card: Draw a card.)","U,W","U,W",uncommon,FIN,Final Fantasy,419,4,4,,Cycling
+"Cid, Timeless Artificer",{2}{W}{U},4.0,Legendary Creature — Human Artificer,"Artifact creatures and Heroes you control get +1/+1 for each Artificer you control and each Artificer card in your graveyard.
+A deck can have any number of cards named Cid, Timeless Artificer.
+Cycling {W}{U} ({W}{U}, Discard this card: Draw a card.)","U,W","U,W",uncommon,FIN,Final Fantasy,216,4,4,,Cycling
+"Cid, Timeless Artificer",{2}{W}{U},4.0,Legendary Creature — Human Artificer,"Artifact creatures and Heroes you control get +1/+1 for each Artificer you control and each Artificer card in your graveyard.
+A deck can have any number of cards named Cid, Timeless Artificer.
+Cycling {W}{U} ({W}{U}, Discard this card: Draw a card.)","U,W","U,W",uncommon,FIN,Final Fantasy,411,4,4,,Cycling
+"Cid, Timeless Artificer",{2}{W}{U},4.0,Legendary Creature — Human Artificer,"Artifact creatures and Heroes you control get +1/+1 for each Artificer you control and each Artificer card in your graveyard.
+A deck can have any number of cards named Cid, Timeless Artificer.
+Cycling {W}{U} ({W}{U}, Discard this card: Draw a card.)","U,W","U,W",uncommon,FIN,Final Fantasy,407,4,4,,Cycling
+"Cid, Timeless Artificer",{2}{W}{U},4.0,Legendary Creature — Human Artificer,"Artifact creatures and Heroes you control get +1/+1 for each Artificer you control and each Artificer card in your graveyard.
+A deck can have any number of cards named Cid, Timeless Artificer.
+Cycling {W}{U} ({W}{U}, Discard this card: Draw a card.)","U,W","U,W",uncommon,FIN,Final Fantasy,408,4,4,,Cycling
+"Cid, Timeless Artificer",{2}{W}{U},4.0,Legendary Creature — Human Artificer,"Artifact creatures and Heroes you control get +1/+1 for each Artificer you control and each Artificer card in your graveyard.
+A deck can have any number of cards named Cid, Timeless Artificer.
+Cycling {W}{U} ({W}{U}, Discard this card: Draw a card.)","U,W","U,W",uncommon,FIN,Final Fantasy,415,4,4,,Cycling
+"Cid, Timeless Artificer",{2}{W}{U},4.0,Legendary Creature — Human Artificer,"Artifact creatures and Heroes you control get +1/+1 for each Artificer you control and each Artificer card in your graveyard.
+A deck can have any number of cards named Cid, Timeless Artificer.
+Cycling {W}{U} ({W}{U}, Discard this card: Draw a card.)","U,W","U,W",uncommon,FIN,Final Fantasy,413,4,4,,Cycling
+"Cid, Timeless Artificer",{2}{W}{U},4.0,Legendary Creature — Human Artificer,"Artifact creatures and Heroes you control get +1/+1 for each Artificer you control and each Artificer card in your graveyard.
+A deck can have any number of cards named Cid, Timeless Artificer.
+Cycling {W}{U} ({W}{U}, Discard this card: Draw a card.)","U,W","U,W",uncommon,FIN,Final Fantasy,480,4,4,,Cycling
+"Cid, Timeless Artificer",{2}{W}{U},4.0,Legendary Creature — Human Artificer,"Artifact creatures and Heroes you control get +1/+1 for each Artificer you control and each Artificer card in your graveyard.
+A deck can have any number of cards named Cid, Timeless Artificer.
+Cycling {W}{U} ({W}{U}, Discard this card: Draw a card.)","U,W","U,W",uncommon,FIN,Final Fantasy,416,4,4,,Cycling
+"Cid, Timeless Artificer",{2}{W}{U},4.0,Legendary Creature — Human Artificer,"Artifact creatures and Heroes you control get +1/+1 for each Artificer you control and each Artificer card in your graveyard.
+A deck can have any number of cards named Cid, Timeless Artificer.
+Cycling {W}{U} ({W}{U}, Discard this card: Draw a card.)","U,W","U,W",uncommon,FIN,Final Fantasy,410,4,4,,Cycling
+Cindering Cutthroat,{2}{B/R},3.0,Creature — Lizard Assassin,"This creature enters with a +1/+1 counter on it if an opponent lost life this turn.
+{1}{B/R}: This creature gains menace until end of turn. (It can't be blocked except by two or more creatures.)","B,R","B,R",common,BLB,Bloomburrow,208,3,2,,
+City Pigeon,{W},1.0,Creature — Bird,"Flying
+When this creature leaves the battlefield, create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this token: You gain 3 life."")",W,W,common,OM1,Through the Omenpaths,5,1,1,,Flying;Food
+City Pigeon,{W},1.0,Creature — Bird,"Flying
+When this creature leaves the battlefield, create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this token: You gain 3 life."")",W,W,common,SPM,Marvel's Spider-Man,4,1,1,,Flying;Food
+Claim Jumper,{2}{W},3.0,Creature — Rabbit Mercenary,"Vigilance
+When this creature enters, if an opponent controls more lands than you, you may search your library for a Plains card and put it onto the battlefield tapped. Then if an opponent controls more lands than you, repeat this process once. If you search your library this way, shuffle.",W,W,rare,OTJ,Outlaws of Thunder Junction,8,3,3,,Vigilance
+Claim Jumper,{2}{W},3.0,Creature — Rabbit Mercenary,"Vigilance
+When this creature enters, if an opponent controls more lands than you, you may search your library for a Plains card and put it onto the battlefield tapped. Then if an opponent controls more lands than you, repeat this process once. If you search your library this way, shuffle.",W,W,rare,POTJ,Outlaws of Thunder Junction Promos,8p,3,3,,Vigilance
+Claim Jumper,{2}{W},3.0,Creature — Rabbit Mercenary,"Vigilance
+When this creature enters, if an opponent controls more lands than you, you may search your library for a Plains card and put it onto the battlefield tapped. Then if an opponent controls more lands than you, repeat this process once. If you search your library this way, shuffle.",W,W,rare,OTJ,Outlaws of Thunder Junction,310,3,3,,Vigilance
+Claim Jumper,{2}{W},3.0,Creature — Rabbit Mercenary,"Vigilance
+When this creature enters, if an opponent controls more lands than you, you may search your library for a Plains card and put it onto the battlefield tapped. Then if an opponent controls more lands than you, repeat this process once. If you search your library this way, shuffle.",W,W,rare,POTJ,Outlaws of Thunder Junction Promos,8s,3,3,,Vigilance
+Clammy Prowler,{3}{U},4.0,Enchantment Creature — Horror,"Whenever this creature attacks, another target attacking creature can't be blocked this turn.",U,U,common,DSK,Duskmourn: House of Horror,45,2,5,,
+Clandestine Meddler,{2}{B},3.0,Creature — Vampire Rogue,"When this creature enters, suspect up to one other target creature you control. (A suspected creature has menace and can't block.)
+Whenever one or more suspected creatures you control attack, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",B,B,uncommon,MKM,Murders at Karlov Manor,82,3,2,,Surveil
+Clandestine Meddler,{2}{B},3.0,Creature — Vampire Rogue,"When this creature enters, suspect up to one other target creature you control. (A suspected creature has menace and can't block.)
+Whenever one or more suspected creatures you control attack, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",B,B,uncommon,MKM,Murders at Karlov Manor,82†,3,2,,Surveil
+Clarion Conqueror,{2}{W},3.0,Creature — Dragon,"Flying
+Activated abilities of artifacts, creatures, and planeswalkers can't be activated.",W,W,mythic,TDM,Tarkir: Dragonstorm,400,3,3,,Flying
+Clarion Conqueror,{2}{W},3.0,Creature — Dragon,"Flying
+Activated abilities of artifacts, creatures, and planeswalkers can't be activated.",W,W,rare,PTDM,Tarkir: Dragonstorm Promos,5s,3,3,,Flying
+Clarion Conqueror,{2}{W},3.0,Creature — Dragon,"Flying
+Activated abilities of artifacts, creatures, and planeswalkers can't be activated.",W,W,mythic,TDM,Tarkir: Dragonstorm,410,3,3,,Flying
+Clarion Conqueror,{2}{W},3.0,Creature — Dragon,"Flying
+Activated abilities of artifacts, creatures, and planeswalkers can't be activated.",W,W,rare,PTDM,Tarkir: Dragonstorm Promos,5p,3,3,,Flying
+Clarion Conqueror,{2}{W},3.0,Creature — Dragon,"Flying
+Activated abilities of artifacts, creatures, and planeswalkers can't be activated.",W,W,rare,TDM,Tarkir: Dragonstorm,5,3,3,,Flying
+"Clement, the Worrywort",{1}{G}{U},3.0,Legendary Creature — Frog Druid,"Vigilance
+Whenever Clement or another creature you control enters, return up to one target creature you control with lesser mana value to its owner's hand.
+Frogs you control have ""{T}: Add {G} or {U}. Spend this mana only to cast a creature spell.""","G,U","G,U",rare,BLB,Bloomburrow,347,3,3,,Vigilance
+"Clement, the Worrywort",{1}{G}{U},3.0,Legendary Creature — Frog Druid,"Vigilance
+Whenever Clement or another creature you control enters, return up to one target creature you control with lesser mana value to its owner's hand.
+Frogs you control have ""{T}: Add {G} or {U}. Spend this mana only to cast a creature spell.""","G,U","G,U",rare,PBLB,Bloomburrow Promos,209s,3,3,,Vigilance
+"Clement, the Worrywort",{1}{G}{U},3.0,Legendary Creature — Frog Druid,"Vigilance
+Whenever Clement or another creature you control enters, return up to one target creature you control with lesser mana value to its owner's hand.
+Frogs you control have ""{T}: Add {G} or {U}. Spend this mana only to cast a creature spell.""","G,U","G,U",rare,BLB,Bloomburrow,209,3,3,,Vigilance
+"Clement, the Worrywort",{1}{G}{U},3.0,Legendary Creature — Frog Druid,"Vigilance
+Whenever Clement or another creature you control enters, return up to one target creature you control with lesser mana value to its owner's hand.
+Frogs you control have ""{T}: Add {G} or {U}. Spend this mana only to cast a creature spell.""","G,U","G,U",rare,BLB,Bloomburrow,329,3,3,,Vigilance
+"Clement, the Worrywort",{1}{G}{U},3.0,Legendary Creature — Frog Druid,"Vigilance
+Whenever Clement or another creature you control enters, return up to one target creature you control with lesser mana value to its owner's hand.
+Frogs you control have ""{T}: Add {G} or {U}. Spend this mana only to cast a creature spell.""","G,U","G,U",rare,PBLB,Bloomburrow Promos,209p,3,3,,Vigilance
+Clifftop Lookout,{2}{G},3.0,Creature — Frog Scout,"Reach
+When this creature enters, reveal cards from the top of your library until you reveal a land card. Put that card onto the battlefield tapped and the rest on the bottom of your library in a random order.",G,G,uncommon,BLB,Bloomburrow,168,1,2,,Reach
+Clinquant Skymage,{3}{U},4.0,Creature — Bird Wizard,"Flying
+Whenever you draw a card, put a +1/+1 counter on this creature.",U,U,uncommon,FDN,Foundations,33,1,1,,Flying
+"Clive, Ifrit's Dominant // Ifrit, Warden of Inferno",,6.0,Legendary Creature — Human Noble Warrior // Legendary Enchantment Creature — Saga Demon,,,R,mythic,PFIN,Final Fantasy Promos,133s,,,,Transform;Fight
+"Clive, Ifrit's Dominant // Ifrit, Warden of Inferno",,6.0,Legendary Creature — Human Noble Warrior // Legendary Enchantment Creature — Saga Demon,,,R,mythic,FIN,Final Fantasy,318,,,,Transform;Fight
+"Clive, Ifrit's Dominant // Ifrit, Warden of Inferno",,6.0,Legendary Creature — Human Noble Warrior // Legendary Enchantment Creature — Saga Demon,,,R,mythic,FIN,Final Fantasy,530,,,,Transform;Fight
+"Clive, Ifrit's Dominant // Ifrit, Warden of Inferno",,6.0,Legendary Creature — Human Noble Warrior // Legendary Enchantment Creature — Saga Demon,,,R,mythic,FIN,Final Fantasy,133,,,,Transform;Fight
+"Clive, Ifrit's Dominant // Ifrit, Warden of Inferno",,6.0,Legendary Creature — Human Noble Warrior // Legendary Enchantment Creature — Saga Demon,,,R,mythic,FIN,Final Fantasy,458,,,,Transform;Fight
+"Clive, Ifrit's Dominant // Ifrit, Warden of Inferno",,6.0,Legendary Creature — Human Noble Warrior // Legendary Enchantment Creature — Saga Demon,,,R,mythic,FIN,Final Fantasy,385,,,,Transform;Fight
+Clockwork Percussionist,{R},1.0,Artifact Creature — Monkey Toy,"Haste
+When this creature dies, exile the top card of your library. You may play it until the end of your next turn.",R,R,common,DSK,Duskmourn: House of Horror,130,1,1,,Haste

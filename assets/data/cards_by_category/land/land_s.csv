@@ -1,0 +1,83 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,produced_mana,keywords,tags,legal_formats
+Sacred Foundry,,0.0,Land — Mountain Plains,"({T}: Add {R} or {W}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"R,W",rare,RVR,Ravnica Remastered,409z,,,,"R,W",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel,predh"
+Sandsteppe Citadel,,0.0,Land,"This land enters tapped.
+{T}: Add {W}, {B}, or {G}.",,"B,G,W",uncommon,PLST,The List,KTK-241,,,,"B,G,W",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Sandstorm Verge,,0.0,Land — Desert,"{T}: Add {C}.
+{3}, {T}: Target creature can't block this turn. Activate only as a sorcery.",,,uncommon,OTJ,Outlaws of Thunder Junction,263,,,,C,,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"
+Savage Mansion,,0.0,Land,"This land enters tapped.
+{T}: Add {R} or {G}.
+{4}, {T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,"G,R",common,SPM,Marvel's Spider-Man,183,,,,"G,R",Surveil,ramp;surveil,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Scoured Barrens,,0.0,Land,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {W} or {B}.",,"B,W",common,NEO,Kamigawa: Neon Dynasty,274,,,,"B,W",,lifegain;ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Secluded Courtyard,,0.0,Land,"As this land enters, choose a creature type.
+{T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type or activate an ability of a creature source of the chosen type.",,,uncommon,NEO,Kamigawa: Neon Dynasty,275,,,,"B,C,G,R,U,W",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Secluded Starforge,,0.0,Land,"{T}: Add {C}.
+{2}, {T}, Tap X untapped artifacts you control: Target creature gets +X/+0 until end of turn. Activate only as a sorcery.
+{5}, {T}: Create a 2/2 colorless Robot artifact creature token.",,,mythic,EOE,Edge of Eternities,392,,,,C,,pump;ramp;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Secret Tunnel,,0.0,Land — Cave,"This land can't be blocked.
+{T}: Add {C}.
+{4}, {T}: Two target creatures you control that share a creature type can't be blocked this turn.",,,rare,TLA,Avatar: The Last Airbender,278,,,,C,,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Selesnya Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {G} or {W}.",,"G,W",common,C13,Commander 2013,321,,,,"G,W",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Serpent's Pass,,0.0,Land,"This land enters tapped.
+{T}: Add {U} or {B}.
+{4}, {T}, Sacrifice this land: Draw a card.",,"B,U",common,TLA,Avatar: The Last Airbender,279,,,,"B,U",,draw;ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Shadowy Backstreet,,0.0,Land — Plains Swamp,"({T}: Add {W} or {B}.)
+This land enters tapped.
+When this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,"B,W",rare,MKM,Murders at Karlov Manor,330,,,,"B,W",Surveil,ramp;surveil,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"
+"Sharlayan, Nation of Scholars",,0.0,Land — Town,"This land enters tapped.
+{T}: Add {W} or {U}.",,"U,W",common,FIN,Final Fantasy,288,,,,"U,W",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Shattered Sanctum,,0.0,Land,"This land enters tapped unless you control two or more other lands.
+{T}: Add {W} or {B}.",,"B,W",rare,TDC,Tarkir: Dragonstorm Commander,391,,,,"B,W",,ramp;tribal,"standard,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Simic Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {G} or {U}.",,"G,U",common,C15,Commander 2015,306,,,,"G,U",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Sinister Hideout,,0.0,Land,"This land enters tapped.
+{T}: Add {U} or {B}.
+{4}, {T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,"B,U",common,SPM,Marvel's Spider-Man,184,,,,"B,U",Surveil,ramp;surveil,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Skycoach Waypoint,,0.0,Land,"{T}: Add {C}.
+{3}, {T}: Target creature becomes prepared. (Only creatures with prepare spells can become prepared.)",,,uncommon,SOS,Secrets of Strixhaven,261,,,,C,Prepared,ramp,"standard,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Soulstone Sanctuary,,0.0,Land,"{T}: Add {C}.
+{4}: This land becomes a 3/3 creature with vigilance and all creature types. It's still a land.",,,rare,FDN,Foundations,487,,,,C,,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Soured Springs,,0.0,Land — Desert,"This land enters tapped.
+When this land enters, it deals 1 damage to target opponent.
+{T}: Add {U} or {B}.",,"B,U",common,OTJ,Outlaws of Thunder Junction,264,,,,"B,U",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,paupercommander,duel"
+Spectacle Summit,,0.0,Land,"This land enters tapped.
+{T}: Add {U} or {R}.
+{2}{U}{R}, {T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,"R,U",common,SOS,Secrets of Strixhaven,262,,,,"R,U",Surveil,ramp;surveil,"standard,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Spirebluff Canal,,0.0,Land,"This land enters tapped unless you control two or fewer other lands.
+{T}: Add {U} or {R}.",,"R,U",rare,PKLD,Kaladesh Promos,249s,,,,"R,U",,ramp;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"
+Starting Town,,0.0,Land — Town,"This land enters tapped unless it's your first, second, or third turn of the game.
+{T}: Add {C}.
+{T}, Pay 1 life: Add one mana of any color.",,,rare,PFIN,Final Fantasy Promos,289s,,,,"B,C,G,R,U,W",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Steam Vents,,0.0,Land — Island Mountain,"({T}: Add {U} or {R}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"R,U",rare,GPT,Guildpact,164,,,,"R,U",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel,predh"
+Stomping Ground,,0.0,Land — Mountain Forest,"({T}: Add {R} or {G}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"G,R",rare,EOE,Edge of Eternities,378,,,,"G,R",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel,predh"
+Stormcarved Coast,,0.0,Land,"This land enters tapped unless you control two or more other lands.
+{T}: Add {U} or {R}.",,"R,U",rare,DBL,Innistrad: Double Feature,532,,,,"R,U",,ramp;tribal,"standard,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Strangled Cemetery,,0.0,Land,"This land enters tapped unless a player has 13 or less life.
+{T}: Add {B} or {G}.",,"B,G",common,DSK,Duskmourn: House of Horror,268,,,,"B,G",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Suburban Sanctuary,,0.0,Land,"This land enters tapped.
+{T}: Add {G} or {W}.
+{4}, {T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,"G,W",common,SPM,Marvel's Spider-Man,185,,,,"G,W",Surveil,ramp;surveil,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Sun-Blessed Peak,,0.0,Land,"This land enters tapped.
+{T}: Add {R} or {W}.
+{4}, {T}, Sacrifice this land: Draw a card.",,"R,W",common,TLA,Avatar: The Last Airbender,280,,,,"R,W",,draw;ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Sunbillow Verge,,0.0,Land,"{T}: Add {W}.
+{T}: Add {R}. Activate only if you control a Mountain or a Plains.",,"R,W",rare,DFT,Aetherdrift,264,,,,"R,W",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Sundown Pass,,0.0,Land,"This land enters tapped unless you control two or more other lands.
+{T}: Add {R} or {W}.",,"R,W",rare,WHO,Doctor Who,901,,,,"R,W",,ramp;tribal,"standard,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Sunken Citadel,,0.0,Land — Cave,"This land enters tapped. As it enters, choose a color.
+{T}: Add one mana of the chosen color.
+{T}: Add two mana of the chosen color. Spend this mana only to activate abilities of land sources.",,,rare,EOS,Edge of Eternities: Stellar Sights,131,,,,"B,G,R,U,W",,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"
+"Susur Secundi, Void Altar",,0.0,Land — Planet,"This land enters tapped.
+{T}: Add {B}.
+Station (Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)
+12+ | {1}{B}, {T}, Pay 2 life, Sacrifice a creature: Draw cards equal to the sacrificed creature's power. Activate only as a sorcery.",,B,mythic,PEOE,Edge of Eternities Promos,259s,,,,B,Station,draw;ramp;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),,B,common,JMP,Jumpstart,59,,,,B,,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel,premodern,predh"
+Swiftwater Cliffs,,0.0,Land,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {U} or {R}.",,"R,U",common,FRF,Fate Reforged,172,,,,"R,U",,lifegain;ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"

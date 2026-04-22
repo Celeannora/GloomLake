@@ -1,0 +1,6 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,produced_mana,keywords,tags,legal_formats
+Quick-Draw Katana,{2},2.0,Artifact — Equipment,"During your turn, equipped creature gets +2/+0 and has first strike. (It deals combat damage before creatures without first strike.)
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",,,common,FDN,Foundations,130,,,,,Equip,pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Quintessential Katana,{W},1.0,Artifact — Equipment,"Equipped creature gets +1/+1 and has ""Whenever this creature deals combat damage, untap it and you gain 2 life.""
+Whenever a Ninja you control enters, you may attach this Equipment to it.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",W,W,uncommon,TMT,Teenage Mutant Ninja Turtles,23,,,,,Equip,lifegain;pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"

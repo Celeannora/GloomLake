@@ -1,0 +1,21 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,produced_mana,keywords,tags,legal_formats
+Gloomlake Verge,,0.0,Land,"{T}: Add {U}.
+{T}: Add {B}. Activate only if you control an Island or a Swamp.",,"B,U",rare,PDSK,Duskmourn: House of Horror Promos,260s,,,,"B,U",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Godless Shrine,,0.0,Land — Plains Swamp,"({T}: Add {W} or {B}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"B,W",rare,UNF,Unfinity,533,,,,"B,W",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel,predh"
+"Gohn, Town of Ruin",,0.0,Land — Town,"This land enters tapped.
+{T}: Add {B} or {G}.",,"B,G",common,FIN,Final Fantasy,278,,,,"B,G",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Golgari Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {B} or {G}.",,"B,G",common,DGM,Dragon's Maze,149,,,,"B,G",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+"Gongaga, Reactor Town",,0.0,Land — Town,"This land enters tapped.
+{T}: Add {R} or {G}.",,"G,R",common,FIN,Final Fantasy,280,,,,"G,R",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Great Arashin City,,0.0,Land,"This land enters tapped unless you control a Forest or a Plains.
+{T}: Add {B}.
+{1}{B}, {T}, Exile a creature card from your graveyard: Create a 1/1 white Spirit creature token.",,B,rare,PTDM,Tarkir: Dragonstorm Promos,257p,,,,B,,ramp;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Great Hall of the Biblioplex,,0.0,Land,"{T}: Add {C}.
+{T}, Pay 1 life: Add one mana of any color. Spend this mana only to cast an instant or sorcery spell.
+{5}: If this land isn't a creature, it becomes a 2/4 Wizard creature with ""Whenever you cast an instant or sorcery spell, this creature gets +1/+0 until end of turn."" It's still a land.",,,rare,SOS,Secrets of Strixhaven,257,,,,"B,C,G,R,U,W",,pump;ramp,"standard,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Gruul Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {R} or {G}.",,"G,R",common,RVR,Ravnica Remastered,279,,,,"G,R",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+"Guadosalam, Farplane Gateway",,0.0,Land — Town,"This land enters tapped.
+{T}: Add {G} or {U}.",,"G,U",common,FIN,Final Fantasy,281,,,,"G,U",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"

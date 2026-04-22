@@ -1,0 +1,38 @@
+﻿[project]
+name = "gloomlake"
+version = "0.2.0"
+description = "MTG Deck Building Analysis Platform with competitive meta integration"
+authors = [
+  { name = "GloomLake" }
+]
+license = { text = "MIT" }
+requires-python = ">=3.10"
+dependencies = [
+  "requests>=2.31.0",
+  "sqlalchemy>=2.0.0",
+  "pyyaml>=6.0.0",
+  "rich>=13.0.0",
+]
+
+[project.optional-dependencies]
+gui = [
+  "customtkinter>=5.2",
+]
+dev = [
+  "pytest>=7.0.0",
+  "ruff>=0.1.0",
+  "mypy>=1.0.0",
+]
+
+[project.scripts]
+gloomlake = "gloomlake.cli:main"
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.mypy]
+python_version = "3.10"
+warn_return_any = true
+warn_unused_configs = true
+disallow_untyped_defs = false

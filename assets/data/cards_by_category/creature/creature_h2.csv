@@ -1,0 +1,239 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+High Fae Trickster,{3}{U},4.0,Creature — Faerie Wizard,"Flash (You may cast this spell any time you could cast an instant.)
+Flying
+You may cast spells as though they had flash.",U,U,rare,FDN,Foundations,453,4,2,,Flying;Flash
+High Fae Trickster,{3}{U},4.0,Creature — Faerie Wizard,"Flash (You may cast this spell any time you could cast an instant.)
+Flying
+You may cast spells as though they had flash.",U,U,rare,FDN,Foundations,40,4,2,,Flying;Flash
+High Fae Trickster,{3}{U},4.0,Creature — Faerie Wizard,"Flash (You may cast this spell any time you could cast an instant.)
+Flying
+You may cast spells as though they had flash.",U,U,rare,FDN,Foundations,307,4,2,,Flying;Flash
+High Fae Trickster,{3}{U},4.0,Creature — Faerie Wizard,"Flash (You may cast this spell any time you could cast an instant.)
+Flying
+You may cast spells as though they had flash.",U,U,rare,PFDN,Foundations Promos,40s,4,2,,Flying;Flash
+High Perfect Morcant,{2}{B}{G},4.0,Legendary Creature — Elf Noble,"Whenever High Perfect Morcant or another Elf you control enters, each opponent blights 1. (They each put a -1/-1 counter on a creature they control.)
+Tap three untapped Elves you control: Proliferate. Activate only as a sorcery. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)","B,G","B,G",rare,PECL,Lorwyn Eclipsed Promos,229p,4,4,,Blight;Proliferate
+High Perfect Morcant,{2}{B}{G},4.0,Legendary Creature — Elf Noble,"Whenever High Perfect Morcant or another Elf you control enters, each opponent blights 1. (They each put a -1/-1 counter on a creature they control.)
+Tap three untapped Elves you control: Proliferate. Activate only as a sorcery. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)","B,G","B,G",rare,ECL,Lorwyn Eclipsed,229,4,4,,Blight;Proliferate
+High Perfect Morcant,{2}{B}{G},4.0,Legendary Creature — Elf Noble,"Whenever High Perfect Morcant or another Elf you control enters, each opponent blights 1. (They each put a -1/-1 counter on a creature they control.)
+Tap three untapped Elves you control: Proliferate. Activate only as a sorcery. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)","B,G","B,G",rare,ECL,Lorwyn Eclipsed,373,4,4,,Blight;Proliferate
+High-Flying Ace,{2}{W},3.0,Creature — Bird Mutant,"Flying
+{3}{W}: Target creature without flying gains flying until end of turn. Activate only as a sorcery.",W,W,common,TMT,Teenage Mutant Ninja Turtles,9,2,3,,Flying
+High-Society Hunter,{3}{B}{B},5.0,Creature — Vampire Noble,"Flying
+Whenever this creature attacks, you may sacrifice another creature. If you do, put a +1/+1 counter on this creature.
+Whenever another nontoken creature dies, draw a card.",B,B,rare,FDN,Foundations,61,5,3,,Flying
+High-Society Hunter,{3}{B}{B},5.0,Creature — Vampire Noble,"Flying
+Whenever this creature attacks, you may sacrifice another creature. If you do, put a +1/+1 counter on this creature.
+Whenever another nontoken creature dies, draw a card.",B,B,rare,PFDN,Foundations Promos,61s,5,3,,Flying
+High-Society Hunter,{3}{B}{B},5.0,Creature — Vampire Noble,"Flying
+Whenever this creature attacks, you may sacrifice another creature. If you do, put a +1/+1 counter on this creature.
+Whenever another nontoken creature dies, draw a card.",B,B,rare,FDN,Foundations,384,5,3,,Flying
+High-Society Hunter,{3}{B}{B},5.0,Creature — Vampire Noble,"Flying
+Whenever this creature attacks, you may sacrifice another creature. If you do, put a +1/+1 counter on this creature.
+Whenever another nontoken creature dies, draw a card.",B,B,rare,FDN,Foundations,320,5,3,,Flying
+High-Society Hunter,{3}{B}{B},5.0,Creature — Vampire Noble,"Flying
+Whenever this creature attacks, you may sacrifice another creature. If you do, put a +1/+1 counter on this creature.
+Whenever another nontoken creature dies, draw a card.",B,B,rare,FDN,Foundations,461,5,3,,Flying
+Highborn Vampire,{3}{B},4.0,Creature — Vampire Warrior,,B,B,common,ZNR,Zendikar Rising,107,4,3,,
+Highborn Vampire,{3}{B},4.0,Creature — Vampire Warrior,,B,B,common,FDN,Foundations,522,4,3,,
+Highspire Bell-Ringer,{2}{U},3.0,Creature — Djinn Monk,"Flying
+The second spell you cast each turn costs {1} less to cast.",U,U,common,TDM,Tarkir: Dragonstorm,47,1,4,,Flying
+Hill Gigas,{4}{R}{R},6.0,Creature — Giant,"Trample, haste
+Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)",R,R,common,FIN,Final Fantasy,141,5,4,,Mountaincycling;Landcycling;Haste;Trample;Typecycling;Cycling
+Hinterland Sanctifier,{W},1.0,Creature — Rabbit Cleric,"Whenever another creature you control enters, you gain 1 life.",W,W,common,FDN,Foundations,730,1,2,,
+Hinterland Sanctifier,{W},1.0,Creature — Rabbit Cleric,"Whenever another creature you control enters, you gain 1 life.",W,W,common,J25,Foundations Jumpstart,5,1,2,,
+Hired Claw,{R},1.0,Creature — Lizard Mercenary,"Whenever you attack with one or more Lizards, this creature deals 1 damage to target opponent.
+{1}{R}: Put a +1/+1 counter on this creature. Activate only if an opponent lost life this turn and only once each turn.",R,R,rare,BLB,Bloomburrow,140,1,2,,
+Hired Claw,{R},1.0,Creature — Lizard Mercenary,"Whenever you attack with one or more Lizards, this creature deals 1 damage to target opponent.
+{1}{R}: Put a +1/+1 counter on this creature. Activate only if an opponent lost life this turn and only once each turn.",R,R,rare,PBLB,Bloomburrow Promos,140p,1,2,,
+Hired Claw,{R},1.0,Creature — Lizard Mercenary,"Whenever you attack with one or more Lizards, this creature deals 1 damage to target opponent.
+{1}{R}: Put a +1/+1 counter on this creature. Activate only if an opponent lost life this turn and only once each turn.",R,R,rare,PBLB,Bloomburrow Promos,140s,1,2,,
+Hired Claw,{R},1.0,Creature — Lizard Mercenary,"Whenever you attack with one or more Lizards, this creature deals 1 damage to target opponent.
+{1}{R}: Put a +1/+1 counter on this creature. Activate only if an opponent lost life this turn and only once each turn.",R,R,rare,BLB,Bloomburrow,317,1,2,,
+Hivespine Wolverine,{3}{G}{G},5.0,Creature — Elemental Wolverine,"When this creature enters, choose one —
+• Put a +1/+1 counter on target creature you control.
+• This creature fights target creature token.
+• Destroy target artifact or enchantment.",G,G,uncommon,BLB,Bloomburrow,177,5,4,,Fight
+Hoarding Dragon,{3}{R}{R},5.0,Creature — Dragon,"Flying
+When this creature enters, you may search your library for an artifact card, exile it, then shuffle.
+When this creature dies, you may put the exiled card into its owner's hand.",R,R,uncommon,PLST,The List,IMA-134,4,4,,Flying
+Hoarding Dragon,{3}{R}{R},5.0,Creature — Dragon,"Flying
+When this creature enters, you may search your library for an artifact card, exile it, then shuffle.
+When this creature dies, you may put the exiled card into its owner's hand.",R,R,rare,M11,Magic 2011,144,4,4,,Flying
+Hoarding Dragon,{3}{R}{R},5.0,Creature — Dragon,"Flying
+When this creature enters, you may search your library for an artifact card, exile it, then shuffle.
+When this creature dies, you may put the exiled card into its owner's hand.",R,R,uncommon,CMM,Commander Masters,233,4,4,,Flying
+Hoarding Dragon,{3}{R}{R},5.0,Creature — Dragon,"Flying
+When this creature enters, you may search your library for an artifact card, exile it, then shuffle.
+When this creature dies, you may put the exiled card into its owner's hand.",R,R,uncommon,IMA,Iconic Masters,134,4,4,,Flying
+Hoarding Dragon,{3}{R}{R},5.0,Creature — Dragon,"Flying
+When this creature enters, you may search your library for an artifact card, exile it, then shuffle.
+When this creature dies, you may put the exiled card into its owner's hand.",R,R,rare,M15,Magic 2015,149,4,4,,Flying
+Hoarding Dragon,{3}{R}{R},5.0,Creature — Dragon,"Flying
+When this creature enters, you may search your library for an artifact card, exile it, then shuffle.
+When this creature dies, you may put the exiled card into its owner's hand.",R,R,uncommon,FDN,Foundations,626,4,4,,Flying
+"Hobgoblin, Mantled Marauder",{1}{R},2.0,Legendary Creature — Goblin Human Villain,"Flying, haste
+Whenever you discard a card, Hobgoblin gets +2/+0 until end of turn.",R,R,uncommon,SPM,Marvel's Spider-Man,80,1,2,,Flying;Haste
+"Hobgoblin, Mantled Marauder",{1}{R},2.0,Legendary Creature — Goblin Human Villain,"Flying, haste
+Whenever you discard a card, Hobgoblin gets +2/+0 until end of turn.",R,R,uncommon,OM1,Through the Omenpaths,77,1,2,,Flying;Haste
+Hog-Monkey,{2}{B},3.0,Creature — Boar Monkey,"At the beginning of combat on your turn, target creature you control with a +1/+1 counter on it gains menace until end of turn. (It can't be blocked except by two or more creatures.)
+Exhaust — {5}: Put two +1/+1 counters on this creature. (Activate each exhaust ability only once.)",B,B,common,TLA,Avatar: The Last Airbender,104,3,2,,Exhaust
+Hollow Marauder,{6}{B},7.0,Creature — Specter Rogue,"This spell costs {1} less to cast for each creature card in your graveyard.
+Flying
+When this creature enters, any number of target opponents each discard a card. For each of those opponents who didn't discard a card with mana value 4 or greater, draw a card.",B,B,uncommon,OTJ,Outlaws of Thunder Junction,90,4,2,,Flying
+Hollow Scavenger // Bakery Raid,{2}{G} // {G},3.0,Creature — Wolf // Sorcery — Adventure,,G,G,common,WOE,Wilds of Eldraine,174,3,2,,Food
+Holy Cow,{2}{W},3.0,Creature — Ox Angel,"Flash
+Flying
+When this creature enters, you gain 2 life and scry 1. (Look at the top card of your library. You may put that card on the bottom.)",W,W,common,OTJ,Outlaws of Thunder Junction,16,2,2,,Scry;Flying;Flash
+Homicide Investigator,{1}{B},2.0,Creature — Human Detective,"Whenever one or more nontoken creatures you control die, investigate. This ability triggers only once each turn. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")",B,B,rare,MKM,Murders at Karlov Manor,86,2,2,,Investigate
+Homicide Investigator,{1}{B},2.0,Creature — Human Detective,"Whenever one or more nontoken creatures you control die, investigate. This ability triggers only once each turn. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")",B,B,rare,MKM,Murders at Karlov Manor,343,2,2,,Investigate
+Homicide Investigator,{1}{B},2.0,Creature — Human Detective,"Whenever one or more nontoken creatures you control die, investigate. This ability triggers only once each turn. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")",B,B,rare,PMKM,Murders at Karlov Manor Promos,86s,2,2,,Investigate
+Homicide Investigator,{1}{B},2.0,Creature — Human Detective,"Whenever one or more nontoken creatures you control die, investigate. This ability triggers only once each turn. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")",B,B,rare,PMKM,Murders at Karlov Manor Promos,86p,2,2,,Investigate
+Homunculus Horde,{3}{U},4.0,Creature — Homunculus,"Whenever you draw your second card each turn, create a token that's a copy of this creature.",U,U,rare,FDN,Foundations,308,2,2,,
+Homunculus Horde,{3}{U},4.0,Creature — Homunculus,"Whenever you draw your second card each turn, create a token that's a copy of this creature.",U,U,rare,FDN,Foundations,41,2,2,,
+Homunculus Horde,{3}{U},4.0,Creature — Homunculus,"Whenever you draw your second card each turn, create a token that's a copy of this creature.",U,U,rare,FDN,Foundations,376,2,2,,
+Homunculus Horde,{3}{U},4.0,Creature — Homunculus,"Whenever you draw your second card each turn, create a token that's a copy of this creature.",U,U,rare,PFDN,Foundations Promos,41s,2,2,,
+Homunculus Horde,{3}{U},4.0,Creature — Homunculus,"Whenever you draw your second card each turn, create a token that's a copy of this creature.",U,U,rare,FDN,Foundations,454,2,2,,
+Honest Rutstein,{1}{B}{G},3.0,Legendary Creature — Human Warlock,"When Honest Rutstein enters, return target creature card from your graveyard to your hand.
+Creature spells you cast cost {1} less to cast.","B,G","B,G",uncommon,OTJ,Outlaws of Thunder Junction,207,3,2,,
+Honest Rutstein,{1}{B}{G},3.0,Legendary Creature — Human Warlock,"When Honest Rutstein enters, return target creature card from your graveyard to your hand.
+Creature spells you cast cost {1} less to cast.","B,G","B,G",uncommon,OTJ,Outlaws of Thunder Junction,370,3,2,,
+Honored Dreyleader,{2}{G},3.0,Creature — Squirrel Warrior,"Trample
+When this creature enters, put a +1/+1 counter on it for each other Squirrel and/or Food you control.
+Whenever another Squirrel or Food you control enters, put a +1/+1 counter on this creature.",G,G,uncommon,BLB,Bloomburrow,178,1,1,,Trample
+Honored Knight-Captain,{1}{W},2.0,Creature — Human Advisor Knight,"When this creature enters, create a 1/1 white Human Soldier creature token.
+{4}{W}{W}, Sacrifice this creature: Search your library for an Equipment card, put it onto the battlefield, then shuffle.",W,W,uncommon,EOE,Edge of Eternities,22,1,1,,
+Hope Estheim,{W}{U},2.0,Legendary Creature — Human Wizard,"Lifelink
+At the beginning of your end step, each opponent mills X cards, where X is the amount of life you gained this turn.","U,W","U,W",rare,FIN,Final Fantasy,541,2,2,,Lifelink;Mill
+Hope Estheim,{W}{U},2.0,Legendary Creature — Human Wizard,"Lifelink
+At the beginning of your end step, each opponent mills X cards, where X is the amount of life you gained this turn.","U,W","U,W",rare,FIN,Final Fantasy,396,2,2,,Lifelink;Mill
+Hope Estheim,{W}{U},2.0,Legendary Creature — Human Wizard,"Lifelink
+At the beginning of your end step, each opponent mills X cards, where X is the amount of life you gained this turn.","U,W","U,W",rare,PFIN,Final Fantasy Promos,226s,2,2,,Lifelink;Mill
+Hope Estheim,{W}{U},2.0,Legendary Creature — Human Wizard,"Lifelink
+At the beginning of your end step, each opponent mills X cards, where X is the amount of life you gained this turn.","U,W","U,W",rare,FIN,Final Fantasy,491,2,2,,Lifelink;Mill
+Hope Estheim,{W}{U},2.0,Legendary Creature — Human Wizard,"Lifelink
+At the beginning of your end step, each opponent mills X cards, where X is the amount of life you gained this turn.","U,W","U,W",rare,FIN,Final Fantasy,226,2,2,,Lifelink;Mill
+Horned Loch-Whale // Lagoon Breach,{4}{U}{U} // {1}{U},6.0,Creature — Whale // Instant — Adventure,,U,U,rare,WOE,Wilds of Eldraine,53,6,6,,Ward;Flash
+Horned Loch-Whale // Lagoon Breach,{4}{U}{U} // {1}{U},6.0,Creature — Whale // Instant — Adventure,,U,U,rare,PWOE,Wilds of Eldraine Promos,53p,6,6,,Ward;Flash
+Horned Loch-Whale // Lagoon Breach,{4}{U}{U} // {1}{U},6.0,Creature — Whale // Instant — Adventure,,U,U,rare,WOE,Wilds of Eldraine,278,6,6,,Ward;Flash
+Horned Loch-Whale // Lagoon Breach,{4}{U}{U} // {1}{U},6.0,Creature — Whale // Instant — Adventure,,U,U,rare,PWOE,Wilds of Eldraine Promos,53s,6,6,,Ward;Flash
+Host of the Hereafter,{2}{B}{G},4.0,Creature — Zombie Warlock,"This creature enters with two +1/+1 counters on it.
+Whenever this creature or another creature you control dies, if it had counters on it, put its counters on up to one target creature you control.","B,G","B,G",uncommon,TDM,Tarkir: Dragonstorm,193,2,2,,
+Hostile Investigator,{3}{B},4.0,Creature — Ogre Rogue Detective,"When this creature enters, target opponent discards a card.
+Whenever one or more players discard one or more cards, investigate. This ability triggers only once each turn. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")",B,B,mythic,BIG,The Big Score,75,4,3,,Investigate
+Hostile Investigator,{3}{B},4.0,Creature — Ogre Rogue Detective,"When this creature enters, target opponent discards a card.
+Whenever one or more players discard one or more cards, investigate. This ability triggers only once each turn. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")",B,B,mythic,BIG,The Big Score,10,4,3,,Investigate
+Hostile Investigator,{3}{B},4.0,Creature — Ogre Rogue Detective,"When this creature enters, target opponent discards a card.
+Whenever one or more players discard one or more cards, investigate. This ability triggers only once each turn. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")",B,B,mythic,BIG,The Big Score,40,4,3,,Investigate
+Hotfoot Gnome,{2}{R},3.0,Artifact Creature — Gnome,"Haste
+{T}: Another target creature gains haste until end of turn.",R,R,common,LCI,The Lost Caverns of Ixalan,154,3,1,,Haste
+Hotshot Investigators,{5}{U},6.0,Creature — Vedalken Detective,"When this creature enters, return up to one other target creature to its owner's hand. If you controlled it, investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")",U,U,common,MKM,Murders at Karlov Manor,60,4,4,,Investigate
+House Cartographer,{1}{G},2.0,Creature — Human Scout Survivor,"Survival — At the beginning of your second main phase, if this creature is tapped, reveal cards from the top of your library until you reveal a land card. Put that card into your hand and the rest on the bottom of your library in a random order.",G,G,uncommon,DSK,Duskmourn: House of Horror,185,2,2,,Survival
+Hovel Hurler,{3}{R/W}{R/W},5.0,Creature — Giant Warrior,"This creature enters with two -1/-1 counters on it.
+{R/W}{R/W}, Remove a counter from this creature: Another target creature you control gets +1/+0 and gains flying until end of turn. Activate only as a sorcery.","R,W","R,W",uncommon,ECL,Lorwyn Eclipsed,230,6,7,,
+Hoverstone Pilgrim,{5},5.0,Artifact Creature — Golem,"Flying
+Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+{2}: Put target card from a graveyard on the bottom of its owner's library.",,,uncommon,LCI,The Lost Caverns of Ixalan,254,2,5,,Flying;Ward
+Howler's Heavy,{3}{U},4.0,Creature — Seal Pirate,"Cycling {1}{U} ({1}{U}, Discard this card: Draw a card.)
+When you cycle this card, target creature or Vehicle an opponent controls gets -3/-0 until end of turn.",U,U,common,DFT,Aetherdrift,46,3,4,,Cycling
+Howling Galefang,{2}{G}{G},4.0,Creature — Beast,"Vigilance
+This creature has haste as long as you own a card in exile that has an Adventure.",G,G,uncommon,WOE,Wilds of Eldraine,175,4,4,,Vigilance
+Howlsquad Heavy,{2}{R},3.0,Creature — Goblin Mercenary,"Start your engines!
+Other Goblins you control have haste.
+At the beginning of combat on your turn, create a 1/1 red Goblin creature token. That token attacks this combat if able.
+Max speed — {T}: Add {R} for each Goblin you control.",R,R,rare,PDFT,Aetherdrift Promos,134s,2,3,,Max speed;Start your engines!
+Howlsquad Heavy,{2}{R},3.0,Creature — Goblin Mercenary,"Start your engines!
+Other Goblins you control have haste.
+At the beginning of combat on your turn, create a 1/1 red Goblin creature token. That token attacks this combat if able.
+Max speed — {T}: Add {R} for each Goblin you control.",R,R,rare,PDFT,Aetherdrift Promos,134p,2,3,,Max speed;Start your engines!
+Howlsquad Heavy,{2}{R},3.0,Creature — Goblin Mercenary,"Start your engines!
+Other Goblins you control have haste.
+At the beginning of combat on your turn, create a 1/1 red Goblin creature token. That token attacks this combat if able.
+Max speed — {T}: Add {R} for each Goblin you control.",R,R,rare,DFT,Aetherdrift,342,2,3,,Max speed;Start your engines!
+Howlsquad Heavy,{2}{R},3.0,Creature — Goblin Mercenary,"Start your engines!
+Other Goblins you control have haste.
+At the beginning of combat on your turn, create a 1/1 red Goblin creature token. That token attacks this combat if able.
+Max speed — {T}: Add {R} for each Goblin you control.",R,R,rare,DFT,Aetherdrift,463,2,3,,Max speed;Start your engines!
+Howlsquad Heavy,{2}{R},3.0,Creature — Goblin Mercenary,"Start your engines!
+Other Goblins you control have haste.
+At the beginning of combat on your turn, create a 1/1 red Goblin creature token. That token attacks this combat if able.
+Max speed — {T}: Add {R} for each Goblin you control.",R,R,rare,DFT,Aetherdrift,541,2,3,,Max speed;Start your engines!
+Howlsquad Heavy,{2}{R},3.0,Creature — Goblin Mercenary,"Start your engines!
+Other Goblins you control have haste.
+At the beginning of combat on your turn, create a 1/1 red Goblin creature token. That token attacks this combat if able.
+Max speed — {T}: Add {R} for each Goblin you control.",R,R,rare,DFT,Aetherdrift,134,2,3,,Max speed;Start your engines!
+"Huatli, Poet of Unity // Roar of the Fifth People",,3.0,Legendary Creature — Human Warrior Bard // Enchantment — Saga,,,"G,R,W",mythic,LCI,The Lost Caverns of Ixalan,339,,,,Transform
+"Huatli, Poet of Unity // Roar of the Fifth People",,3.0,Legendary Creature — Human Warrior Bard // Enchantment — Saga,,,"G,R,W",mythic,LCI,The Lost Caverns of Ixalan,189,,,,Transform
+"Huatli, Poet of Unity // Roar of the Fifth People",,3.0,Legendary Creature — Human Warrior Bard // Enchantment — Saga,,,"G,R,W",mythic,LCI,The Lost Caverns of Ixalan,296,,,,Transform
+"Hugs, Grisly Guardian",{X}{R}{R}{G}{G},4.0,Legendary Creature — Badger Warrior,"Trample
+When Hugs enters, exile the top X cards of your library. Until the end of your next turn, you may play those cards.
+You may play an additional land on each of your turns.","G,R","G,R",mythic,PBLB,Bloomburrow Promos,218s,5,5,,Trample
+"Hugs, Grisly Guardian",{X}{R}{R}{G}{G},4.0,Legendary Creature — Badger Warrior,"Trample
+When Hugs enters, exile the top X cards of your library. Until the end of your next turn, you may play those cards.
+You may play an additional land on each of your turns.","G,R","G,R",mythic,PBLB,Bloomburrow Promos,218p,5,5,,Trample
+"Hugs, Grisly Guardian",{X}{R}{R}{G}{G},4.0,Legendary Creature — Badger Warrior,"Trample
+When Hugs enters, exile the top X cards of your library. Until the end of your next turn, you may play those cards.
+You may play an additional land on each of your turns.","G,R","G,R",mythic,BLB,Bloomburrow,333,5,5,,Trample
+"Hugs, Grisly Guardian",{X}{R}{R}{G}{G},4.0,Legendary Creature — Badger Warrior,"Trample
+When Hugs enters, exile the top X cards of your library. Until the end of your next turn, you may play those cards.
+You may play an additional land on each of your turns.","G,R","G,R",mythic,BLB,Bloomburrow,218,5,5,,Trample
+Hulking Raptor,{2}{G}{G},4.0,Creature — Dinosaur,"Ward {2}
+At the beginning of your first main phase, add {G}{G}.",G,G,rare,PLCI,The Lost Caverns of Ixalan Promos,191p,5,3,,Ward
+Hulking Raptor,{2}{G}{G},4.0,Creature — Dinosaur,"Ward {2}
+At the beginning of your first main phase, add {G}{G}.",G,G,rare,LCI,The Lost Caverns of Ixalan,327,5,3,,Ward
+Hulking Raptor,{2}{G}{G},4.0,Creature — Dinosaur,"Ward {2}
+At the beginning of your first main phase, add {G}{G}.",G,G,rare,LCI,The Lost Caverns of Ixalan,191,5,3,,Ward
+Hulking Raptor,{2}{G}{G},4.0,Creature — Dinosaur,"Ward {2}
+At the beginning of your first main phase, add {G}{G}.",G,G,rare,PLCI,The Lost Caverns of Ixalan Promos,191s,5,3,,Ward
+Hullcarver,{B},1.0,Artifact Creature — Robot Assassin,Deathtouch,B,B,common,EOE,Edge of Eternities,105,1,1,,Deathtouch
+Humbling Elder,{U},1.0,Creature — Human Monk,"Flash
+When this creature enters, target creature an opponent controls gets -2/-0 until end of turn.",U,U,common,TDM,Tarkir: Dragonstorm,48,1,2,,Flash
+Hundred-Battle Veteran,{3}{B},4.0,Creature — Zombie Warrior,"As long as there are three or more different kinds of counters among creatures you control, this creature gets +2/+4.
+You may cast this card from your graveyard. If you do, it enters with a finality counter on it. (If a creature with a finality counter on it would die, exile it instead.)",B,B,uncommon,TDM,Tarkir: Dragonstorm,82,4,2,,
+Hungry Ghoul,{1}{B},2.0,Creature — Zombie,"{1}, Sacrifice another creature: Put a +1/+1 counter on this creature.",B,B,common,FDN,Foundations,62,2,2,,
+Hunted Bonebrute,{2}{B},3.0,Creature — Skeleton Beast,"Menace
+When this creature enters, target opponent creates two 1/1 white Dog creature tokens.
+When this creature dies, each opponent loses 3 life.
+Disguise {1}{B}",B,B,rare,MKM,Murders at Karlov Manor,400,6,2,,Menace;Disguise
+Hunted Bonebrute,{2}{B},3.0,Creature — Skeleton Beast,"Menace
+When this creature enters, target opponent creates two 1/1 white Dog creature tokens.
+When this creature dies, each opponent loses 3 life.
+Disguise {1}{B}",B,B,rare,PMKM,Murders at Karlov Manor Promos,87p,6,2,,Menace;Disguise
+Hunted Bonebrute,{2}{B},3.0,Creature — Skeleton Beast,"Menace
+When this creature enters, target opponent creates two 1/1 white Dog creature tokens.
+When this creature dies, each opponent loses 3 life.
+Disguise {1}{B}",B,B,rare,PMKM,Murders at Karlov Manor Promos,87s,6,2,,Menace;Disguise
+Hunted Bonebrute,{2}{B},3.0,Creature — Skeleton Beast,"Menace
+When this creature enters, target opponent creates two 1/1 white Dog creature tokens.
+When this creature dies, each opponent loses 3 life.
+Disguise {1}{B}",B,B,rare,MKM,Murders at Karlov Manor,87,6,2,,Menace;Disguise
+Huskburster Swarm,{7}{B},8.0,Creature — Elemental Insect,"This spell costs {1} less to cast for each creature card you own in exile and in your graveyard.
+Menace, deathtouch",B,B,uncommon,BLB,Bloomburrow,98,6,6,,Menace;Deathtouch
+"Hydro-Man, Fluid Felon",{U}{U},2.0,Legendary Creature — Elemental Villain,"Whenever you cast a blue spell, if Hydro-Man is a creature, he gets +1/+1 until end of turn.
+At the beginning of your end step, untap Hydro-Man. Until your next turn, he becomes a land and gains ""{T}: Add {U}."" (He's not a creature during that time.)",U,U,rare,SPM,Marvel's Spider-Man,250,2,2,,
+"Hydro-Man, Fluid Felon",{U}{U},2.0,Legendary Creature — Elemental Villain,"Whenever you cast a blue spell, if Hydro-Man is a creature, he gets +1/+1 until end of turn.
+At the beginning of your end step, untap Hydro-Man. Until your next turn, he becomes a land and gains ""{T}: Add {U}."" (He's not a creature during that time.)",U,U,rare,PSPM,Marvel's Spider-Man Promos,33s,2,2,,
+"Hydro-Man, Fluid Felon",{U}{U},2.0,Legendary Creature — Elemental Villain,"Whenever you cast a blue spell, if Hydro-Man is a creature, he gets +1/+1 until end of turn.
+At the beginning of your end step, untap Hydro-Man. Until your next turn, he becomes a land and gains ""{T}: Add {U}."" (He's not a creature during that time.)",U,U,rare,OM1,Through the Omenpaths,27,2,2,,
+"Hydro-Man, Fluid Felon",{U}{U},2.0,Legendary Creature — Elemental Villain,"Whenever you cast a blue spell, if Hydro-Man is a creature, he gets +1/+1 until end of turn.
+At the beginning of your end step, untap Hydro-Man. Until your next turn, he becomes a land and gains ""{T}: Add {U}."" (He's not a creature during that time.)",U,U,rare,SPM,Marvel's Spider-Man,33,2,2,,
+Hylda of the Icy Crown,{2}{W}{U},4.0,Legendary Creature — Human Warlock,"Whenever you tap an untapped creature an opponent controls, you may pay {1}. When you do, choose one —
+• Create a 4/4 white and blue Elemental creature token.
+• Put a +1/+1 counter on each creature you control.
+• Scry 2, then draw a card.","U,W","U,W",mythic,PWOE,Wilds of Eldraine Promos,206p,3,4,,Scry
+Hylda of the Icy Crown,{2}{W}{U},4.0,Legendary Creature — Human Warlock,"Whenever you tap an untapped creature an opponent controls, you may pay {1}. When you do, choose one —
+• Create a 4/4 white and blue Elemental creature token.
+• Put a +1/+1 counter on each creature you control.
+• Scry 2, then draw a card.","U,W","U,W",mythic,WOE,Wilds of Eldraine,363,3,4,,Scry
+Hylda of the Icy Crown,{2}{W}{U},4.0,Legendary Creature — Human Warlock,"Whenever you tap an untapped creature an opponent controls, you may pay {1}. When you do, choose one —
+• Create a 4/4 white and blue Elemental creature token.
+• Put a +1/+1 counter on each creature you control.
+• Scry 2, then draw a card.","U,W","U,W",mythic,PURL,URL/Convention Promos,2025-1,3,4,,Scry
+Hylda of the Icy Crown,{2}{W}{U},4.0,Legendary Creature — Human Warlock,"Whenever you tap an untapped creature an opponent controls, you may pay {1}. When you do, choose one —
+• Create a 4/4 white and blue Elemental creature token.
+• Put a +1/+1 counter on each creature you control.
+• Scry 2, then draw a card.","U,W","U,W",mythic,PWOE,Wilds of Eldraine Promos,206s,3,4,,Scry
+Hylda of the Icy Crown,{2}{W}{U},4.0,Legendary Creature — Human Warlock,"Whenever you tap an untapped creature an opponent controls, you may pay {1}. When you do, choose one —
+• Create a 4/4 white and blue Elemental creature token.
+• Put a +1/+1 counter on each creature you control.
+• Scry 2, then draw a card.","U,W","U,W",mythic,WOE,Wilds of Eldraine,206,3,4,,Scry

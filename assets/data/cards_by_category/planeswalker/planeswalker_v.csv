@@ -1,0 +1,4 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,produced_mana,keywords,tags,legal_formats
+Vivien Reid,{3}{G}{G},5.0,Legendary Planeswalker — Vivien,"+1: Look at the top four cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+−3: Destroy target artifact, enchantment, or creature with flying.
+−8: You get an emblem with ""Creatures you control get +2/+2 and have vigilance, trample, and indestructible.""",G,G,mythic,FDN,Foundations,421,,,5,,,protection;removal;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"

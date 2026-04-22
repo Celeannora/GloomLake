@@ -1,0 +1,37 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,produced_mana,keywords,tags,legal_formats
+Maelstrom of the Spirit Dragon,,0.0,Land,"{T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast a Dragon spell or an Omen spell.
+{4}, {T}, Sacrifice this land: Search your library for a Dragon card, reveal it, put it into your hand, then shuffle.",,,rare,TDM,Tarkir: Dragonstorm,326,,,,"B,C,G,R,U,W",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Maze's End,,0.0,Land,"This land enters tapped.
+{T}: Add {C}.
+{3}, {T}, Return this land to its owner's hand: Search your library for a Gate card, put it onto the battlefield, then shuffle. If you control ten or more Gates with different names, you win the game.",,,mythic,HA3,Historic Anthology 3,27,,,,C,,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Meditation Pools,,0.0,Land,"This land enters tapped.
+{T}: Add {G} or {U}.
+{4}, {T}, Sacrifice this land: Draw a card.",,"G,U",common,TLA,Avatar: The Last Airbender,272,,,,"G,U",,draw;ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Meticulous Archive,,0.0,Land — Plains Island,"({T}: Add {W} or {U}.)
+This land enters tapped.
+When this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,"U,W",rare,PMKM,Murders at Karlov Manor Promos,264p,,,,"U,W",Surveil,ramp;surveil,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"
+Mirage Mesa,,0.0,Land — Desert,"This land enters tapped. As it enters, choose a color.
+{T}: Add one mana of the chosen color.",,,common,OTJ,Outlaws of Thunder Junction,262,,,,"B,G,R,U,W",,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,paupercommander,duel"
+Mistrise Village,,0.0,Land,"This land enters tapped unless you control a Mountain or a Forest.
+{T}: Add {U}.
+{U}, {T}: The next spell you cast this turn can't be countered.",,U,rare,PTDM,Tarkir: Dragonstorm Promos,261p,,,,U,,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Misty Palms Oasis,,0.0,Land,"This land enters tapped.
+{T}: Add {W} or {B}.
+{4}, {T}, Sacrifice this land: Draw a card.",,"B,W",common,TLA,Avatar: The Last Airbender,273,,,,"B,W",,draw;ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Mountain,,0.0,Basic Land — Mountain,({T}: Add {R}.),,R,common,2ED,Unlimited Edition,298,,,,R,,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel,oldschool,premodern,predh"
+Mudflat Village,,0.0,Land,"{T}: Add {C}.
+{T}: Add {B}. Spend this mana only to cast a creature spell.
+{1}{B}, {T}, Sacrifice this land: Return target Bat, Lizard, Rat, or Squirrel card from your graveyard to your hand.",,B,uncommon,BLB,Bloomburrow,257,,,,"B,C",,bounce;ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Multiversal Passage,,0.0,Land,"As this land enters, choose a basic land type. Then you may pay 2 life. If you don't, it enters tapped.
+This land is the chosen type.",,,rare,OM1,Through the Omenpaths,181,,,,,,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Muraganda Raceway,,0.0,Land,"Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+{T}: Add {C}.
+Max speed — {T}: Add {C}{C}.",,,rare,PDFT,Aetherdrift Promos,257p,,,,C,Max speed;Start your engines!,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Murky Sewer,,0.0,Land,"This land enters tapped unless a player has 13 or less life.
+{T}: Add {U} or {B}.",,"B,U",common,DSK,Duskmourn: House of Horror,263,,,,"B,U",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Mutant Town,,0.0,Land,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {G} or {U}.",,"G,U",common,TMT,Teenage Mutant Ninja Turtles,187,,,,"G,U",,lifegain;ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Mystic Monastery,,0.0,Land,"This land enters tapped.
+{T}: Add {U}, {R}, or {W}.",,"R,U,W",uncommon,C17,Commander 2017,263,,,,"R,U,W",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"

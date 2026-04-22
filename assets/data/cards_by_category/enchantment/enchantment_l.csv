@@ -1,0 +1,50 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,produced_mana,keywords,tags,legal_formats
+Lassoed by the Law,{3}{W},4.0,Enchantment,"When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.
+When this enchantment enters, create a 1/1 red Mercenary creature token with ""{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.""",W,W,uncommon,OTJ,Outlaws of Thunder Junction,18,,,,,,pump;removal;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"
+Lasting Tarfire,{1}{R},2.0,Enchantment,"At the beginning of each end step, if you put a counter on a creature this turn, this enchantment deals 2 damage to each opponent.",R,R,uncommon,ECL,Lorwyn Eclipsed,149,,,,,,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Leader's Talent,{1}{W},2.0,Enchantment — Class,"(Gain the next level as a sorcery to add its ability.)
+Whenever you attack, put a +1/+1 counter on target attacking creature.
+{2}{W}: Level 2
+Whenever a creature you control leaves the battlefield, if it had a counter on it, you gain 2 life.
+{3}{W}: Level 3
+Whenever you cast a spell, put a +1/+1 counter on each creature you control.",W,W,rare,TMT,Teenage Mutant Ninja Turtles,13,,,,,,lifegain;pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Leaves from the Vine,{1}{G},2.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Mill three cards, then create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this token: You gain 3 life."")
+II — Put a +1/+1 counter on each of up to two target creatures you control.
+III — Draw a card if there's a creature or Lesson card in your graveyard.",G,G,uncommon,TLA,Avatar: The Last Airbender,185,,,,,Food;Mill,draw;lifegain;mill;pump;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Leyline of Hope,{2}{W}{W},4.0,Enchantment,"If this card is in your opening hand, you may begin the game with it on the battlefield.
+If you would gain life, you gain that much life plus 1 instead.
+As long as you have at least 7 life more than your starting life total, creatures you control get +2/+2.",W,W,rare,DSK,Duskmourn: House of Horror,18,,,,,,lifegain;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Leyline of Mutation,{2}{G}{G},4.0,Enchantment,"If this card is in your opening hand, you may begin the game with it on the battlefield.
+You may pay {W}{U}{B}{R}{G} rather than pay the mana cost for spells you cast.",G,"B,G,R,U,W",rare,DSK,Duskmourn: House of Horror,188,,,,,,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Leyline of Resonance,{2}{R}{R},4.0,Enchantment,"If this card is in your opening hand, you may begin the game with it on the battlefield.
+Whenever you cast an instant or sorcery spell that targets only a single creature you control, copy that spell. You may choose new targets for the copy.",R,R,rare,PDSK,Duskmourn: House of Horror Promos,143s,,,,,,,"standard,future,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,duel"
+Leyline of the Guildpact,{G/W}{G/U}{B/G}{R/G},4.0,Enchantment,"If this card is in your opening hand, you may begin the game with it on the battlefield.
+Each nonland permanent you control is all colors.
+Lands you control are every basic land type in addition to their other types.","B,G,R,U,W","B,G,R,U,W",rare,PMKM,Murders at Karlov Manor Promos,217s,,,,,,tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"
+Leyline of the Void,{2}{B}{B},4.0,Enchantment,"If this card is in your opening hand, you may begin the game with it on the battlefield.
+If a card would be put into an opponent's graveyard from anywhere, exile it instead.",B,B,rare,WOT,Wilds of Eldraine: Enchanting Tales,30,,,,,,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel,predh"
+Leyline of Transformation,{2}{U}{U},4.0,Enchantment,"If this card is in your opening hand, you may begin the game with it on the battlefield.
+As this enchantment enters, choose a creature type.
+Creatures you control are the chosen type in addition to their other types. The same is true for creature spells you control and creature cards you own that aren't on the battlefield.",U,U,rare,PDSK,Duskmourn: House of Horror Promos,63s,,,,,,tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Lightwheel Enhancements,{W},1.0,Enchantment — Aura,"Enchant creature or Vehicle
+Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+Enchanted permanent gets +1/+1 and has vigilance.
+Max speed — You may cast this card from your graveyard.",W,W,common,DFT,Aetherdrift,20,,,,,Max speed;Enchant;Start your engines!,pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Liminal Hold,{3}{W},4.0,Enchantment,"When this enchantment enters, exile up to one target nonland permanent an opponent controls until this enchantment leaves the battlefield. You gain 2 life.",W,W,common,ECL,Lorwyn Eclipsed,24,,,,,,lifegain,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Living History,{1}{R},2.0,Enchantment,"When this enchantment enters, create a 2/2 red and white Spirit creature token.
+Whenever you attack, if a card left your graveyard this turn, target attacking creature gets +2/+0 until end of turn.",R,R,uncommon,SOS,Secrets of Strixhaven,121,,,,,,pump;token,"standard,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Loading Zone,{3}{G},4.0,Enchantment,"If one or more counters would be put on a creature, Spacecraft, or Planet you control, twice that many of each of those kinds of counters are put on it instead.
+Warp {G} (You may cast this card from your hand for its warp cost. Exile this enchantment at the beginning of the next end step, then you may cast it from exile on a later turn.)",G,G,rare,EOE,Edge of Eternities,196,,,,,Warp,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Lofty Dreams,{3}{U}{U},5.0,Enchantment — Aura,"Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+Enchant creature
+When this Aura enters, draw a card.
+Enchanted creature gets +2/+2 and has flying.",U,U,uncommon,ECL,Lorwyn Eclipsed,58,,,,,Enchant;Convoke,draw;pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Lord Skitter's Blessing,{1}{B},2.0,Enchantment,"When this enchantment enters, create a Wicked Role token attached to target creature you control. (Enchanted creature gets +1/+1. When this token is put into a graveyard, each opponent loses 1 life.)
+At the beginning of your draw step, if you control an enchanted creature, you lose 1 life and you draw an additional card.",B,B,rare,PWOE,Wilds of Eldraine Promos,98s,,,,,Role token,pump;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+Lost in the Maze,{X}{U}{U},2.0,Enchantment,"Flash
+When this enchantment enters, tap X target creatures. Put a stun counter on each of those creatures you don't control. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+Tapped creatures you control have hexproof.",U,U,rare,PMKM,Murders at Karlov Manor Promos,64s,,,,,Flash,flash;protection;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+Lunar Convocation,{W}{B},2.0,Enchantment,"At the beginning of your end step, if you gained life this turn, each opponent loses 1 life.
+At the beginning of your end step, if you gained and lost life this turn, create a 1/1 black Bat creature token with flying.
+{1}{B}, Pay 2 life: Draw a card.","B,W","B,W",rare,BLB,Bloomburrow,366,,,,,,draw;lifegain;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"

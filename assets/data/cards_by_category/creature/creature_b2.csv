@@ -1,0 +1,357 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Bloodtithe Collector,{4}{B},5.0,Creature — Vampire Noble,"Flying
+When this creature enters, if an opponent lost life this turn, each opponent discards a card.",B,B,uncommon,DBL,Innistrad: Double Feature,90,3,4,,Flying
+Bloodtithe Collector,{4}{B},5.0,Creature — Vampire Noble,"Flying
+When this creature enters, if an opponent lost life this turn, each opponent discards a card.",B,B,uncommon,J25,Foundations Jumpstart,410,3,4,,Flying
+Bloodtithe Collector,{4}{B},5.0,Creature — Vampire Noble,"Flying
+When this creature enters, if an opponent lost life this turn, each opponent discards a card.",B,B,uncommon,FDN,Foundations,516,3,4,,Flying
+Bloom Tender,{1}{G},2.0,Creature — Elf Druid,"Vivid — {T}: For each color among permanents you control, add one mana of that color.",G,G,mythic,ECL,Lorwyn Eclipsed,390,1,1,,Vivid
+Bloom Tender,{1}{G},2.0,Creature — Elf Druid,"Vivid — {T}: For each color among permanents you control, add one mana of that color.",G,G,rare,2X2,Double Masters 2022,366,1,1,,Vivid
+Bloom Tender,{1}{G},2.0,Creature — Elf Druid,"Vivid — {T}: For each color among permanents you control, add one mana of that color.",G,G,rare,SLD,Secret Lair Drop,284,1,1,,Vivid
+Bloom Tender,{1}{G},2.0,Creature — Elf Druid,"Vivid — {T}: For each color among permanents you control, add one mana of that color.",G,G,mythic,ECL,Lorwyn Eclipsed,324,1,1,,Vivid
+Bloom Tender,{1}{G},2.0,Creature — Elf Druid,"Vivid — {T}: For each color among permanents you control, add one mana of that color.",G,G,mythic,ECL,Lorwyn Eclipsed,400,1,1,,Vivid
+Bloom Tender,{1}{G},2.0,Creature — Elf Druid,"Vivid — {T}: For each color among permanents you control, add one mana of that color.",G,G,rare,PLST,The List,EVE-66,1,1,,Vivid
+Bloom Tender,{1}{G},2.0,Creature — Elf Druid,"Vivid — {T}: For each color among permanents you control, add one mana of that color.",G,G,rare,2X2,Double Masters 2022,458,1,1,,Vivid
+Bloom Tender,{1}{G},2.0,Creature — Elf Druid,"Vivid — {T}: For each color among permanents you control, add one mana of that color.",G,G,rare,PRM,Magic Online Promos,102275,1,1,,Vivid
+Bloom Tender,{1}{G},2.0,Creature — Elf Druid,"Vivid — {T}: For each color among permanents you control, add one mana of that color.",G,G,mythic,ECL,Lorwyn Eclipsed,166,1,1,,Vivid
+Bloom Tender,{1}{G},2.0,Creature — Elf Druid,"Vivid — {T}: For each color among permanents you control, add one mana of that color.",G,G,rare,EVE,Eventide,66,1,1,,Vivid
+Bloom Tender,{1}{G},2.0,Creature — Elf Druid,"Vivid — {T}: For each color among permanents you control, add one mana of that color.",G,G,mythic,SPG,Special Guests,79,1,1,,Vivid
+Bloom Tender,{1}{G},2.0,Creature — Elf Druid,"Vivid — {T}: For each color among permanents you control, add one mana of that color.",G,G,mythic,PECL,Lorwyn Eclipsed Promos,166p,1,1,,Vivid
+Bloom Tender,{1}{G},2.0,Creature — Elf Druid,"Vivid — {T}: For each color among permanents you control, add one mana of that color.",G,G,rare,2X2,Double Masters 2022,138,1,1,,Vivid
+Blooming Stinger,{1}{G},2.0,Creature — Plant Scorpion,"Deathtouch
+When this creature enters, another target creature you control gains deathtouch until end of turn.",G,G,common,EOE,Edge of Eternities,174,2,2,,Deathtouch
+Bloomvine Regent // Claim Territory,{3}{G}{G} // {2}{G},5.0,Creature — Dragon // Sorcery — Omen,,G,G,rare,TDM,Tarkir: Dragonstorm,136,4,5,,Flying
+Bloomvine Regent // Claim Territory,{3}{G}{G} // {2}{G},5.0,Creature — Dragon // Sorcery — Omen,,G,G,rare,PTDM,Tarkir: Dragonstorm Promos,136p,4,5,,Flying
+Bloomvine Regent // Claim Territory,{3}{G}{G} // {2}{G},5.0,Creature — Dragon // Sorcery — Omen,,G,G,rare,PTDM,Tarkir: Dragonstorm Promos,136s,4,5,,Flying
+Blossoming Tortoise,{2}{G}{G},4.0,Creature — Turtle,"Whenever this creature enters or attacks, mill three cards, then return a land card from your graveyard to the battlefield tapped.
+Activated abilities of lands you control cost {1} less to activate.
+Land creatures you control get +1/+1.",G,G,mythic,WOE,Wilds of Eldraine,163,3,3,,Mill
+Blossoming Tortoise,{2}{G}{G},4.0,Creature — Turtle,"Whenever this creature enters or attacks, mill three cards, then return a land card from your graveyard to the battlefield tapped.
+Activated abilities of lands you control cost {1} less to activate.
+Land creatures you control get +1/+1.",G,G,mythic,WOE,Wilds of Eldraine,354,3,3,,Mill
+Blossoming Tortoise,{2}{G}{G},4.0,Creature — Turtle,"Whenever this creature enters or attacks, mill three cards, then return a land card from your graveyard to the battlefield tapped.
+Activated abilities of lands you control cost {1} less to activate.
+Land creatures you control get +1/+1.",G,G,mythic,PWOE,Wilds of Eldraine Promos,163p,3,3,,Mill
+Blossoming Tortoise,{2}{G}{G},4.0,Creature — Turtle,"Whenever this creature enters or attacks, mill three cards, then return a land card from your graveyard to the battlefield tapped.
+Activated abilities of lands you control cost {1} less to activate.
+Land creatures you control get +1/+1.",G,G,mythic,PWOE,Wilds of Eldraine Promos,163s,3,3,,Mill
+Boar-q-pine,{2}{R},3.0,Creature — Boar Porcupine,"Whenever you cast a noncreature spell, put a +1/+1 counter on this creature.",R,R,common,TLA,Avatar: The Last Airbender,124,2,2,,
+Boggart Cursecrafter,{B}{R},2.0,Creature — Goblin Warlock,"Deathtouch
+Whenever another Goblin you control dies, this creature deals 1 damage to each opponent.","B,R","B,R",uncommon,ECL,Lorwyn Eclipsed,331,2,3,,Deathtouch
+Boggart Cursecrafter,{B}{R},2.0,Creature — Goblin Warlock,"Deathtouch
+Whenever another Goblin you control dies, this creature deals 1 damage to each opponent.","B,R","B,R",uncommon,ECL,Lorwyn Eclipsed,206,2,3,,Deathtouch
+Boggart Prankster,{1}{B},2.0,Creature — Goblin Warrior,"Whenever you attack, target attacking Goblin you control gets +1/+0 until end of turn.",B,B,common,ECL,Lorwyn Eclipsed,93,1,3,,
+Boilerbilges Ripper,{4}{R},5.0,Creature — Human Assassin,"When this creature enters, you may sacrifice another creature or enchantment. When you do, this creature deals 2 damage to any target.",R,R,common,DSK,Duskmourn: House of Horror,127,4,4,,
+Boiling Rock Rioter,{2}{B},3.0,Creature — Human Rogue Ally,"Firebending 1 (Whenever this creature attacks, add {R}. This mana lasts until end of combat.)
+Tap an untapped Ally you control: Exile target card from a graveyard.
+Whenever this creature attacks, you may cast an Ally spell from among cards you own exiled with this creature.",B,B,rare,TLA,Avatar: The Last Airbender,87,3,3,,Firebending
+Boiling Rock Rioter,{2}{B},3.0,Creature — Human Rogue Ally,"Firebending 1 (Whenever this creature attacks, add {R}. This mana lasts until end of combat.)
+Tap an untapped Ally you control: Exile target card from a graveyard.
+Whenever this creature attacks, you may cast an Ally spell from among cards you own exiled with this creature.",B,B,rare,TLA,Avatar: The Last Airbender,372,3,3,,Firebending
+Boiling Rock Rioter,{2}{B},3.0,Creature — Human Rogue Ally,"Firebending 1 (Whenever this creature attacks, add {R}. This mana lasts until end of combat.)
+Tap an untapped Ally you control: Exile target card from a graveyard.
+Whenever this creature attacks, you may cast an Ally spell from among cards you own exiled with this creature.",B,B,rare,PTLA,Avatar: The Last Airbender Promos,87s,3,3,,Firebending
+Boldwyr Aggressor,{3}{R}{R},5.0,Creature — Giant Warrior,"Double strike
+Other Giants you control have double strike.",R,R,uncommon,ECL,Lorwyn Eclipsed,125,2,5,,Double strike
+Bolrac-Clan Basher,{4}{R}{R},6.0,Creature — Cyclops Warrior,"Double strike, trample
+Disguise {3}{R}{R} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)",R,R,uncommon,MKM,Murders at Karlov Manor,112,3,2,,Trample;Disguise;Double strike
+Bone-Cairn Butcher,{1}{R}{W}{B},4.0,Creature — Demon,"Mobilize 2 (Whenever this creature attacks, create two tapped and attacking 1/1 red Warrior creature tokens. Sacrifice them at the beginning of the next end step.)
+Attacking tokens you control have deathtouch.","B,R,W","B,R,W",uncommon,TDM,Tarkir: Dragonstorm,173,4,4,,Mobilize
+Bonebind Orator,{1}{B},2.0,Creature — Squirrel Warlock Bard,"{3}{B}, Exile this card from your graveyard: Return another target creature card from your graveyard to your hand.",B,B,common,BLB,Bloomburrow,84,2,2,,
+Bonecache Overseer,{B},1.0,Creature — Squirrel Warlock,"{T}, Pay 1 life: Draw a card. Activate only if three or more cards left your graveyard this turn or if you've sacrificed a Food this turn.",B,B,uncommon,BLB,Bloomburrow,85,1,1,,
+Boneclub Berserker,{3}{R},4.0,Creature — Goblin Berserker,This creature gets +2/+0 for each other Goblin you control.,R,R,common,ECL,Lorwyn Eclipsed,126,2,4,,
+Bonehoard Dracosaur,{3}{R}{R},5.0,Creature — Dinosaur Dragon,"Flying, first strike
+At the beginning of your upkeep, exile the top two cards of your library. You may play them this turn. If you exiled a land card this way, create a 3/1 red Dinosaur creature token. If you exiled a nonland card this way, create a Treasure token.",R,R,mythic,PLCI,The Lost Caverns of Ixalan Promos,134s,5,5,,Flying;First strike;Treasure
+Bonehoard Dracosaur,{3}{R}{R},5.0,Creature — Dinosaur Dragon,"Flying, first strike
+At the beginning of your upkeep, exile the top two cards of your library. You may play them this turn. If you exiled a land card this way, create a 3/1 red Dinosaur creature token. If you exiled a nonland card this way, create a Treasure token.",R,R,mythic,LCI,The Lost Caverns of Ixalan,134,5,5,,Flying;First strike;Treasure
+Bonehoard Dracosaur,{3}{R}{R},5.0,Creature — Dinosaur Dragon,"Flying, first strike
+At the beginning of your upkeep, exile the top two cards of your library. You may play them this turn. If you exiled a land card this way, create a 3/1 red Dinosaur creature token. If you exiled a nonland card this way, create a Treasure token.",R,R,mythic,LCI,The Lost Caverns of Ixalan,321,5,5,,Flying;First strike;Treasure
+Bonehoard Dracosaur,{3}{R}{R},5.0,Creature — Dinosaur Dragon,"Flying, first strike
+At the beginning of your upkeep, exile the top two cards of your library. You may play them this turn. If you exiled a land card this way, create a 3/1 red Dinosaur creature token. If you exiled a nonland card this way, create a Treasure token.",R,R,mythic,PLCI,The Lost Caverns of Ixalan Promos,134p,5,5,,Flying;First strike;Treasure
+Boneyard Desecrator,{3}{B},4.0,Creature — Zombie Mercenary,"Menace
+{1}{B}, Sacrifice another creature: Put a +1/+1 counter on this creature. If an outlaw was sacrificed this way, create a Treasure token. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)",B,B,common,OTJ,Outlaws of Thunder Junction,81,3,4,,Treasure;Menace
+"Bonny Pall, Clearcutter",{3}{G}{U}{U},6.0,Legendary Creature — Giant Scout,"Reach
+When Bonny Pall enters, create Beau, a legendary blue Ox creature token with ""Beau's power and toughness are each equal to the number of lands you control.""
+Whenever you attack, draw a card, then you may put a land card from your hand or graveyard onto the battlefield.","G,U","G,U",rare,POTJ,Outlaws of Thunder Junction Promos,196s,6,5,,Reach
+"Bonny Pall, Clearcutter",{3}{G}{U}{U},6.0,Legendary Creature — Giant Scout,"Reach
+When Bonny Pall enters, create Beau, a legendary blue Ox creature token with ""Beau's power and toughness are each equal to the number of lands you control.""
+Whenever you attack, draw a card, then you may put a land card from your hand or graveyard onto the battlefield.","G,U","G,U",rare,POTJ,Outlaws of Thunder Junction Promos,196p,6,5,,Reach
+"Bonny Pall, Clearcutter",{3}{G}{U}{U},6.0,Legendary Creature — Giant Scout,"Reach
+When Bonny Pall enters, create Beau, a legendary blue Ox creature token with ""Beau's power and toughness are each equal to the number of lands you control.""
+Whenever you attack, draw a card, then you may put a land card from your hand or graveyard onto the battlefield.","G,U","G,U",rare,OTJ,Outlaws of Thunder Junction,196,6,5,,Reach
+"Bonny Pall, Clearcutter",{3}{G}{U}{U},6.0,Legendary Creature — Giant Scout,"Reach
+When Bonny Pall enters, create Beau, a legendary blue Ox creature token with ""Beau's power and toughness are each equal to the number of lands you control.""
+Whenever you attack, draw a card, then you may put a land card from your hand or graveyard onto the battlefield.","G,U","G,U",rare,OTJ,Outlaws of Thunder Junction,349,6,5,,Reach
+Boom Scholar,{1}{R}{G},3.0,Creature — Goblin Advisor,"Exhaust abilities of other permanents you control cost {2} less to activate.
+Exhaust — {4}{R}{G}: Creatures and Vehicles you control gain trample until end of turn. Put two +1/+1 counters on this creature. (Activate each exhaust ability only once.)","G,R","G,R",uncommon,DFT,Aetherdrift,189,3,3,,Exhaust
+Boulderborn Dragon,{5},5.0,Artifact Creature — Dragon,"Flying, vigilance
+Whenever this creature attacks, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,,common,TDM,Tarkir: Dragonstorm,239,3,3,,Flying;Surveil;Vigilance
+Boulderborn Dragon,{5},5.0,Artifact Creature — Dragon,"Flying, vigilance
+Whenever this creature attacks, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,,common,TDM,Tarkir: Dragonstorm,323,3,3,,Flying;Surveil;Vigilance
+Boundary Lands Ranger,{1}{R},2.0,Creature — Human Ranger,"At the beginning of combat on your turn, if you control a creature with power 4 or greater, you may discard a card. If you do, draw a card.",R,R,common,PIO,Pioneer Masters,126,2,2,,
+Boundary Lands Ranger,{1}{R},2.0,Creature — Human Ranger,"At the beginning of combat on your turn, if you control a creature with power 4 or greater, you may discard a card. If you do, draw a card.",R,R,uncommon,WOE,Wilds of Eldraine,123,2,2,,
+Bounding Felidar,{5}{W},6.0,Creature — Cat Beast Mount,"Whenever this creature attacks while saddled, put a +1/+1 counter on each other creature you control. You gain 1 life for each of those creatures.
+Saddle 2 (Tap any number of other creatures you control with total power 2 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",W,W,uncommon,OTJ,Outlaws of Thunder Junction,5,4,7,,Saddle
+Bramble Familiar // Fetch Quest,{1}{G} // {5}{G}{G},2.0,Creature — Elemental Raccoon // Sorcery — Adventure,,G,G,rare,PWOE,Wilds of Eldraine Promos,164p,2,2,,Mill
+Bramble Familiar // Fetch Quest,{1}{G} // {5}{G}{G},2.0,Creature — Elemental Raccoon // Sorcery — Adventure,,G,G,rare,WOE,Wilds of Eldraine,283,2,2,,Mill
+Bramble Familiar // Fetch Quest,{1}{G} // {5}{G}{G},2.0,Creature — Elemental Raccoon // Sorcery — Adventure,,G,G,rare,WOE,Wilds of Eldraine,164,2,2,,Mill
+Bramble Familiar // Fetch Quest,{1}{G} // {5}{G}{G},2.0,Creature — Elemental Raccoon // Sorcery — Adventure,,G,G,rare,PWOE,Wilds of Eldraine Promos,164s,2,2,,Mill
+Brambleback Brute,{2}{R},3.0,Creature — Giant Warrior,"This creature enters with two -1/-1 counters on it.
+{1}{R}, Remove a counter from this creature: Target creature can't block this turn. Activate only as a sorcery.",R,R,common,ECL,Lorwyn Eclipsed,128,4,5,,
+Brambleguard Captain,{3}{R},4.0,Creature — Mouse Soldier,"At the beginning of combat on your turn, target creature you control gets +X/+0 until end of turn, where X is this creature's power.",R,R,uncommon,BLB,Bloomburrow,127,2,3,,
+Brambleguard Veteran,{1}{G}{G},3.0,Creature — Raccoon Warrior,"Whenever you expend 4, Raccoons you control get +1/+1 and gain vigilance until end of turn. (You expend 4 as you spend your fourth total mana to cast spells during a turn.)",G,G,uncommon,BLB,Bloomburrow,165,3,4,,
+Brave-Kin Duo,{W},1.0,Creature — Rabbit Mouse,"{1}, {T}: Target creature gets +1/+1 until end of turn. Activate only as a sorcery.",W,W,common,BLB,Bloomburrow,3,1,1,,
+Brazen Blademaster,{2}{R},3.0,Creature — Orc Pirate,"Whenever this creature attacks while you control two or more artifacts, it gets +2/+1 until end of turn.",R,R,common,LCI,The Lost Caverns of Ixalan,136,2,3,,
+Brazen Collector,{1}{R},2.0,Creature — Raccoon Rogue,"First strike
+Whenever this creature attacks, add {R}. Until end of turn, you don't lose this mana as steps and phases end.",R,R,uncommon,BLB,Bloomburrow,128,2,1,,First strike
+Brazen Scourge,{1}{R}{R},3.0,Creature — Gremlin,Haste (This creature can attack and {T} as soon as it comes under your control.),R,R,uncommon,KLD,Kaladesh,107†,3,3,,Haste
+Brazen Scourge,{1}{R}{R},3.0,Creature — Gremlin,Haste (This creature can attack and {T} as soon as it comes under your control.),R,R,uncommon,KLD,Kaladesh,107,3,3,,Haste
+Brazen Scourge,{1}{R}{R},3.0,Creature — Gremlin,Haste (This creature can attack and {T} as soon as it comes under your control.),R,R,uncommon,FDN,Foundations,191,3,3,,Haste
+Brazen Scourge,{1}{R}{R},3.0,Creature — Gremlin,Haste (This creature can attack and {T} as soon as it comes under your control.),R,R,uncommon,UMA,Ultimate Masters,125,3,3,,Haste
+Bre of Clan Stoutarm,{2}{R}{W},4.0,Legendary Creature — Giant Warrior,"{1}{W}, {T}: Another target creature you control gains flying and lifelink until end of turn.
+At the beginning of your end step, if you gained life this turn, exile cards from the top of your library until you exile a nonland card. You may cast that card without paying its mana cost if the spell's mana value is less than or equal to the amount of life you gained this turn. Otherwise, put it into your hand.","R,W","R,W",rare,ECL,Lorwyn Eclipsed,207,4,4,,
+Bre of Clan Stoutarm,{2}{R}{W},4.0,Legendary Creature — Giant Warrior,"{1}{W}, {T}: Another target creature you control gains flying and lifelink until end of turn.
+At the beginning of your end step, if you gained life this turn, exile cards from the top of your library until you exile a nonland card. You may cast that card without paying its mana cost if the spell's mana value is less than or equal to the amount of life you gained this turn. Otherwise, put it into your hand.","R,W","R,W",rare,PECL,Lorwyn Eclipsed Promos,207p,4,4,,
+Bre of Clan Stoutarm,{2}{R}{W},4.0,Legendary Creature — Giant Warrior,"{1}{W}, {T}: Another target creature you control gains flying and lifelink until end of turn.
+At the beginning of your end step, if you gained life this turn, exile cards from the top of your library until you exile a nonland card. You may cast that card without paying its mana cost if the spell's mana value is less than or equal to the amount of life you gained this turn. Otherwise, put it into your hand.","R,W","R,W",rare,ECL,Lorwyn Eclipsed,369,4,4,,
+"Breeches, Eager Pillager",{2}{R},3.0,Legendary Creature — Goblin Pirate,"First strike
+Whenever a Pirate you control attacks, choose one that hasn't been chosen this turn —
+• Create a Treasure token.
+• Target creature can't block this turn.
+• Exile the top card of your library. You may play it this turn.",R,R,rare,SLD,Secret Lair Drop,1551,3,3,,First strike;Treasure
+"Breeches, Eager Pillager",{2}{R},3.0,Legendary Creature — Goblin Pirate,"First strike
+Whenever a Pirate you control attacks, choose one that hasn't been chosen this turn —
+• Create a Treasure token.
+• Target creature can't block this turn.
+• Exile the top card of your library. You may play it this turn.",R,R,rare,LCI,The Lost Caverns of Ixalan,294,3,3,,First strike;Treasure
+"Breeches, Eager Pillager",{2}{R},3.0,Legendary Creature — Goblin Pirate,"First strike
+Whenever a Pirate you control attacks, choose one that hasn't been chosen this turn —
+• Create a Treasure token.
+• Target creature can't block this turn.
+• Exile the top card of your library. You may play it this turn.",R,R,rare,LCI,The Lost Caverns of Ixalan,137,3,3,,First strike;Treasure
+"Breeches, Eager Pillager",{2}{R},3.0,Legendary Creature — Goblin Pirate,"First strike
+Whenever a Pirate you control attacks, choose one that hasn't been chosen this turn —
+• Create a Treasure token.
+• Target creature can't block this turn.
+• Exile the top card of your library. You may play it this turn.",R,R,rare,PLCI,The Lost Caverns of Ixalan Promos,137s,3,3,,First strike;Treasure
+"Breeches, Eager Pillager",{2}{R},3.0,Legendary Creature — Goblin Pirate,"First strike
+Whenever a Pirate you control attacks, choose one that hasn't been chosen this turn —
+• Create a Treasure token.
+• Target creature can't block this turn.
+• Exile the top card of your library. You may play it this turn.",R,R,rare,PLCI,The Lost Caverns of Ixalan Promos,137p,3,3,,First strike;Treasure
+"Breeches, the Blastmaker",{1}{U}{R},3.0,Legendary Creature — Goblin Pirate,"Menace
+Whenever you cast your second spell each turn, you may sacrifice an artifact. If you do, flip a coin. When you win the flip, copy that spell. You may choose new targets for the copy. When you lose the flip, Breeches deals damage equal to that spell's mana value to any target.","R,U","R,U",rare,POTJ,Outlaws of Thunder Junction Promos,197p,3,3,,Menace
+"Breeches, the Blastmaker",{1}{U}{R},3.0,Legendary Creature — Goblin Pirate,"Menace
+Whenever you cast your second spell each turn, you may sacrifice an artifact. If you do, flip a coin. When you win the flip, copy that spell. You may choose new targets for the copy. When you lose the flip, Breeches deals damage equal to that spell's mana value to any target.","R,U","R,U",rare,POTJ,Outlaws of Thunder Junction Promos,197s,3,3,,Menace
+"Breeches, the Blastmaker",{1}{U}{R},3.0,Legendary Creature — Goblin Pirate,"Menace
+Whenever you cast your second spell each turn, you may sacrifice an artifact. If you do, flip a coin. When you win the flip, copy that spell. You may choose new targets for the copy. When you lose the flip, Breeches deals damage equal to that spell's mana value to any target.","R,U","R,U",rare,OTJ,Outlaws of Thunder Junction,197,3,3,,Menace
+"Breeches, the Blastmaker",{1}{U}{R},3.0,Legendary Creature — Goblin Pirate,"Menace
+Whenever you cast your second spell each turn, you may sacrifice an artifact. If you do, flip a coin. When you win the flip, copy that spell. You may choose new targets for the copy. When you lose the flip, Breeches deals damage equal to that spell's mana value to any target.","R,U","R,U",rare,OTJ,Outlaws of Thunder Junction,292,3,3,,Menace
+"Bria, Riptide Rogue",{2}{U}{R},4.0,Legendary Creature — Otter Rogue,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Other creatures you control have prowess. (If a creature has multiple instances of prowess, each triggers separately.)
+Whenever you cast a noncreature spell, target creature you control can't be blocked this turn.","R,U","R,U",mythic,BLB,Bloomburrow,379,3,3,,Prowess
+Bridled Bighorn,{3}{W},4.0,Creature — Sheep Mount,"Vigilance
+Whenever this creature attacks while saddled, create a 1/1 white Sheep creature token.
+Saddle 2 (Tap any number of other creatures you control with total power 2 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",W,W,common,OTJ,Outlaws of Thunder Junction,7,3,4,,Saddle;Vigilance
+Brightblade Stoat,{1}{W},2.0,Creature — Weasel Soldier,"First strike, lifelink",W,W,uncommon,BLB,Bloomburrow,4,2,2,,Lifelink;First strike
+Brightfield Glider,{W},1.0,Creature — Possum Mount,"Vigilance
+Whenever this creature attacks while saddled, it gets +1/+2 and gains flying until end of turn.
+Saddle 3 (Tap any number of other creatures you control with total power 3 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",W,W,common,DFT,Aetherdrift,4,1,1,,Saddle;Vigilance
+Brightfield Mustang,{3}{W},4.0,Creature — Horse Mount,"Whenever this creature attacks while saddled, untap it and put a +1/+1 counter on it.
+Saddle 1 (Tap any number of other creatures you control with total power 1 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",W,W,common,DFT,Aetherdrift,5,3,3,,Saddle
+Brightglass Gearhulk,{G}{G}{W}{W},4.0,Artifact Creature — Construct,"First strike, trample
+When this creature enters, you may search your library for up to two artifact, creature, and/or enchantment cards with mana value 1 or less, reveal them, put them into your hand, then shuffle.","G,W","G,W",mythic,DFT,Aetherdrift,547,4,4,,First strike;Trample
+Brightglass Gearhulk,{G}{G}{W}{W},4.0,Artifact Creature — Construct,"First strike, trample
+When this creature enters, you may search your library for up to two artifact, creature, and/or enchantment cards with mana value 1 or less, reveal them, put them into your hand, then shuffle.","G,W","G,W",mythic,DFT,Aetherdrift,191,4,4,,First strike;Trample
+Brightglass Gearhulk,{G}{G}{W}{W},4.0,Artifact Creature — Construct,"First strike, trample
+When this creature enters, you may search your library for up to two artifact, creature, and/or enchantment cards with mana value 1 or less, reveal them, put them into your hand, then shuffle.","G,W","G,W",mythic,PDFT,Aetherdrift Promos,191p,4,4,,First strike;Trample
+Brightglass Gearhulk,{G}{G}{W}{W},4.0,Artifact Creature — Construct,"First strike, trample
+When this creature enters, you may search your library for up to two artifact, creature, and/or enchantment cards with mana value 1 or less, reveal them, put them into your hand, then shuffle.","G,W","G,W",mythic,DFT,Aetherdrift,348,4,4,,First strike;Trample
+Brightglass Gearhulk,{G}{G}{W}{W},4.0,Artifact Creature — Construct,"First strike, trample
+When this creature enters, you may search your library for up to two artifact, creature, and/or enchantment cards with mana value 1 or less, reveal them, put them into your hand, then shuffle.","G,W","G,W",mythic,PDFT,Aetherdrift Promos,191s,4,4,,First strike;Trample
+Brightglass Gearhulk,{G}{G}{W}{W},4.0,Artifact Creature — Construct,"First strike, trample
+When this creature enters, you may search your library for up to two artifact, creature, and/or enchantment cards with mana value 1 or less, reveal them, put them into your hand, then shuffle.","G,W","G,W",mythic,DFT,Aetherdrift,474,4,4,,First strike;Trample
+Brightspear Zealot,{2}{W},3.0,Creature — Human Soldier,"Vigilance
+This creature gets +2/+0 as long as you've cast two or more spells this turn.",W,W,common,EOE,Edge of Eternities,8,2,4,,Vigilance
+"Brigid, Clachan's Heart // Brigid, Doun's Mind",,3.0,Legendary Creature — Kithkin Warrior // Legendary Creature — Kithkin Soldier,,,"G,W",rare,PECL,Lorwyn Eclipsed Promos,7p,,,,Transform
+"Brigid, Clachan's Heart // Brigid, Doun's Mind",,3.0,Legendary Creature — Kithkin Warrior // Legendary Creature — Kithkin Soldier,,,"G,W",rare,ECL,Lorwyn Eclipsed,285,,,,Transform
+"Brigid, Clachan's Heart // Brigid, Doun's Mind",,3.0,Legendary Creature — Kithkin Warrior // Legendary Creature — Kithkin Soldier,,,"G,W",rare,ECL,Lorwyn Eclipsed,7,,,,Transform
+Brineborn Cutthroat,{1}{U},2.0,Creature — Merfolk Pirate,"Flash (You may cast this spell any time you could cast an instant.)
+Whenever you cast a spell during an opponent's turn, put a +1/+1 counter on this creature.",U,U,uncommon,M20,Core Set 2020,50,2,1,,Flash
+Brineborn Cutthroat,{1}{U},2.0,Creature — Merfolk Pirate,"Flash (You may cast this spell any time you could cast an instant.)
+Whenever you cast a spell during an opponent's turn, put a +1/+1 counter on this creature.",U,U,uncommon,PIO,Pioneer Masters,48,2,1,,Flash
+Brineborn Cutthroat,{1}{U},2.0,Creature — Merfolk Pirate,"Flash (You may cast this spell any time you could cast an instant.)
+Whenever you cast a spell during an opponent's turn, put a +1/+1 counter on this creature.",U,U,uncommon,J25,Foundations Jumpstart,291,2,1,,Flash
+Brineborn Cutthroat,{1}{U},2.0,Creature — Merfolk Pirate,"Flash (You may cast this spell any time you could cast an instant.)
+Whenever you cast a spell during an opponent's turn, put a +1/+1 counter on this creature.",U,U,uncommon,J22,Jumpstart 2022,278,2,1,,Flash
+Brineborn Cutthroat,{1}{U},2.0,Creature — Merfolk Pirate,"Flash (You may cast this spell any time you could cast an instant.)
+Whenever you cast a spell during an opponent's turn, put a +1/+1 counter on this creature.",U,U,uncommon,FDN,Foundations,152,2,1,,Flash
+Brineborn Cutthroat,{1}{U},2.0,Creature — Merfolk Pirate,"Flash (You may cast this spell any time you could cast an instant.)
+Whenever you cast a spell during an opponent's turn, put a +1/+1 counter on this creature.",U,U,uncommon,GN3,Game Night: Free-for-All,24,2,1,,Flash
+Bringer of the Last Gift,{6}{B}{B},8.0,Creature — Vampire Demon,"Flying
+When this creature enters, if you cast it, each player sacrifices all other creatures they control. Then each player returns all creature cards from their graveyard that weren't put there this way to the battlefield.",B,B,rare,LCI,The Lost Caverns of Ixalan,337,6,6,,Flying
+Bringer of the Last Gift,{6}{B}{B},8.0,Creature — Vampire Demon,"Flying
+When this creature enters, if you cast it, each player sacrifices all other creatures they control. Then each player returns all creature cards from their graveyard that weren't put there this way to the battlefield.",B,B,rare,LCI,The Lost Caverns of Ixalan,94,6,6,,Flying
+Bringer of the Last Gift,{6}{B}{B},8.0,Creature — Vampire Demon,"Flying
+When this creature enters, if you cast it, each player sacrifices all other creatures they control. Then each player returns all creature cards from their graveyard that weren't put there this way to the battlefield.",B,B,rare,PLCI,The Lost Caverns of Ixalan Promos,94p,6,6,,Flying
+Bringer of the Last Gift,{6}{B}{B},8.0,Creature — Vampire Demon,"Flying
+When this creature enters, if you cast it, each player sacrifices all other creatures they control. Then each player returns all creature cards from their graveyard that weren't put there this way to the battlefield.",B,B,rare,PLCI,The Lost Caverns of Ixalan Promos,94s,6,6,,Flying
+Bristlebane Battler,{1}{G},2.0,Creature — Kithkin Soldier,"Trample, ward {2}
+This creature enters with five -1/-1 counters on it.
+Whenever another creature you control enters while this creature has a -1/-1 counter on it, remove a -1/-1 counter from this creature.",G,G,rare,ECL,Lorwyn Eclipsed,325,6,6,,Trample;Ward
+Bristlebane Battler,{1}{G},2.0,Creature — Kithkin Soldier,"Trample, ward {2}
+This creature enters with five -1/-1 counters on it.
+Whenever another creature you control enters while this creature has a -1/-1 counter on it, remove a -1/-1 counter from this creature.",G,G,rare,PECL,Lorwyn Eclipsed Promos,168p,6,6,,Trample;Ward
+Bristlebane Battler,{1}{G},2.0,Creature — Kithkin Soldier,"Trample, ward {2}
+This creature enters with five -1/-1 counters on it.
+Whenever another creature you control enters while this creature has a -1/-1 counter on it, remove a -1/-1 counter from this creature.",G,G,rare,ECL,Lorwyn Eclipsed,168,6,6,,Trample;Ward
+Bristlebane Outrider,{3}{G},4.0,Creature — Kithkin Knight,"This creature can't be blocked by creatures with power 2 or less.
+As long as another creature entered the battlefield under your control this turn, this creature gets +2/+0.",G,G,uncommon,ECL,Lorwyn Eclipsed,169,3,5,,
+Bristlebud Farmer,{2}{G}{G},4.0,Creature — Plant Druid,"Trample
+When this creature enters, create two Food tokens. (They're artifacts with ""{2}, {T}, Sacrifice this token: You gain 3 life."")
+Whenever this creature attacks, you may sacrifice a Food. If you do, mill three cards. You may put a permanent card from among them into your hand.",G,G,mythic,BIG,The Big Score,82,5,5,,Food;Trample;Mill
+Bristlebud Farmer,{2}{G}{G},4.0,Creature — Plant Druid,"Trample
+When this creature enters, create two Food tokens. (They're artifacts with ""{2}, {T}, Sacrifice this token: You gain 3 life."")
+Whenever this creature attacks, you may sacrifice a Food. If you do, mill three cards. You may put a permanent card from among them into your hand.",G,G,mythic,BIG,The Big Score,47,5,5,,Food;Trample;Mill
+Bristlebud Farmer,{2}{G}{G},4.0,Creature — Plant Druid,"Trample
+When this creature enters, create two Food tokens. (They're artifacts with ""{2}, {T}, Sacrifice this token: You gain 3 life."")
+Whenever this creature attacks, you may sacrifice a Food. If you do, mill three cards. You may put a permanent card from among them into your hand.",G,G,mythic,BIG,The Big Score,17,5,5,,Food;Trample;Mill
+Bristlepack Sentry,{1}{G},2.0,Creature — Plant Wolf,"Defender
+As long as you control a creature with power 4 or greater, this creature can attack as though it didn't have defender.",G,G,common,OTJ,Outlaws of Thunder Junction,156,3,3,,Defender
+"Bristly Bill, Spine Sower",{1}{G},2.0,Legendary Creature — Plant Druid,"Landfall — Whenever a land you control enters, put a +1/+1 counter on target creature.
+{3}{G}{G}: Double the number of +1/+1 counters on each creature you control.",G,G,mythic,POTJ,Outlaws of Thunder Junction Promos,157p,2,2,,Landfall
+"Bristly Bill, Spine Sower",{1}{G},2.0,Legendary Creature — Plant Druid,"Landfall — Whenever a land you control enters, put a +1/+1 counter on target creature.
+{3}{G}{G}: Double the number of +1/+1 counters on each creature you control.",G,G,mythic,POTJ,Outlaws of Thunder Junction Promos,157s,2,2,,Landfall
+"Bristly Bill, Spine Sower",{1}{G},2.0,Legendary Creature — Plant Druid,"Landfall — Whenever a land you control enters, put a +1/+1 counter on target creature.
+{3}{G}{G}: Double the number of +1/+1 counters on each creature you control.",G,G,mythic,OTJ,Outlaws of Thunder Junction,157,2,2,,Landfall
+"Bristly Bill, Spine Sower",{1}{G},2.0,Legendary Creature — Plant Druid,"Landfall — Whenever a land you control enters, put a +1/+1 counter on target creature.
+{3}{G}{G}: Double the number of +1/+1 counters on each creature you control.",G,G,mythic,OTJ,Outlaws of Thunder Junction,338,2,2,,Landfall
+Broodguard Elite,{X}{G}{G},2.0,Creature — Insect Knight,"This creature enters with X +1/+1 counters on it.
+When this creature leaves the battlefield, put its counters on target creature you control.
+Warp {X}{G} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",G,G,uncommon,EOE,Edge of Eternities,175,0,0,,Warp
+Broodrage Mycoid,{3}{B},4.0,Creature — Fungus,"At the beginning of your end step, if you descended this turn, create a 1/1 black Fungus creature token with ""This token can't block."" (You descended if a permanent card was put into your graveyard from anywhere.)",B,B,common,LCI,The Lost Caverns of Ixalan,95,4,3,,
+Broodspinner,{B}{G},2.0,Creature — Spider,"Reach
+When this creature enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+{4}{B}{G}, {T}, Sacrifice this creature: Create a number of 1/1 black and green Insect creature tokens with flying equal to the number of card types among cards in your graveyard.","B,G","B,G",uncommon,DSK,Duskmourn: House of Horror,211,2,3,,Surveil;Reach
+"Bruse Tarl, Roving Rancher",{2}{R}{W},4.0,Legendary Creature — Human Warrior,"Oxen you control have double strike.
+Whenever Bruse Tarl enters or attacks, exile the top card of your library. If it's a land card, create a 2/2 white Ox creature token. Otherwise, you may cast it until the end of your next turn.","R,W","R,W",rare,OTJ,Outlaws of Thunder Junction,350,4,3,,
+"Bruse Tarl, Roving Rancher",{2}{R}{W},4.0,Legendary Creature — Human Warrior,"Oxen you control have double strike.
+Whenever Bruse Tarl enters or attacks, exile the top card of your library. If it's a land card, create a 2/2 white Ox creature token. Otherwise, you may cast it until the end of your next turn.","R,W","R,W",rare,OTJ,Outlaws of Thunder Junction,198,4,3,,
+"Bruse Tarl, Roving Rancher",{2}{R}{W},4.0,Legendary Creature — Human Warrior,"Oxen you control have double strike.
+Whenever Bruse Tarl enters or attacks, exile the top card of your library. If it's a land card, create a 2/2 white Ox creature token. Otherwise, you may cast it until the end of your next turn.","R,W","R,W",rare,PLST,The List,OTJ-198,4,3,,
+"Bruse Tarl, Roving Rancher",{2}{R}{W},4.0,Legendary Creature — Human Warrior,"Oxen you control have double strike.
+Whenever Bruse Tarl enters or attacks, exile the top card of your library. If it's a land card, create a 2/2 white Ox creature token. Otherwise, you may cast it until the end of your next turn.","R,W","R,W",rare,POTJ,Outlaws of Thunder Junction Promos,198p,4,3,,
+"Bruse Tarl, Roving Rancher",{2}{R}{W},4.0,Legendary Creature — Human Warrior,"Oxen you control have double strike.
+Whenever Bruse Tarl enters or attacks, exile the top card of your library. If it's a land card, create a 2/2 white Ox creature token. Otherwise, you may cast it until the end of your next turn.","R,W","R,W",rare,POTJ,Outlaws of Thunder Junction Promos,198s,4,3,,
+Bubble Smuggler,{1}{U},2.0,Creature — Octopus Fish,"Disguise {5}{U} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)
+As this creature is turned face up, put four +1/+1 counters on it.",U,U,common,MKM,Murders at Karlov Manor,41,2,1,,Disguise
+Bulwark Ox,{1}{W},2.0,Creature — Ox Mount,"Whenever this creature attacks while saddled, put a +1/+1 counter on target creature.
+Sacrifice this creature: Creatures you control with counters on them gain hexproof and indestructible until end of turn.
+Saddle 1 (Tap any number of other creatures you control with total power 1 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",W,W,rare,DFT,Aetherdrift,7,2,2,,Saddle
+Bulwark Ox,{1}{W},2.0,Creature — Ox Mount,"Whenever this creature attacks while saddled, put a +1/+1 counter on target creature.
+Sacrifice this creature: Creatures you control with counters on them gain hexproof and indestructible until end of turn.
+Saddle 1 (Tap any number of other creatures you control with total power 1 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",W,W,rare,DFT,Aetherdrift,428,2,2,,Saddle
+Bulwark Ox,{1}{W},2.0,Creature — Ox Mount,"Whenever this creature attacks while saddled, put a +1/+1 counter on target creature.
+Sacrifice this creature: Creatures you control with counters on them gain hexproof and indestructible until end of turn.
+Saddle 1 (Tap any number of other creatures you control with total power 1 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",W,W,rare,PDFT,Aetherdrift Promos,7s,2,2,,Saddle
+Bulwark Ox,{1}{W},2.0,Creature — Ox Mount,"Whenever this creature attacks while saddled, put a +1/+1 counter on target creature.
+Sacrifice this creature: Creatures you control with counters on them gain hexproof and indestructible until end of turn.
+Saddle 1 (Tap any number of other creatures you control with total power 1 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",W,W,rare,DFT,Aetherdrift,333,2,2,,Saddle
+Bulwark Ox,{1}{W},2.0,Creature — Ox Mount,"Whenever this creature attacks while saddled, put a +1/+1 counter on target creature.
+Sacrifice this creature: Creatures you control with counters on them gain hexproof and indestructible until end of turn.
+Saddle 1 (Tap any number of other creatures you control with total power 1 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",W,W,rare,DFT,Aetherdrift,532,2,2,,Saddle
+Bulwark Ox,{1}{W},2.0,Creature — Ox Mount,"Whenever this creature attacks while saddled, put a +1/+1 counter on target creature.
+Sacrifice this creature: Creatures you control with counters on them gain hexproof and indestructible until end of turn.
+Saddle 1 (Tap any number of other creatures you control with total power 1 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",W,W,rare,PDFT,Aetherdrift Promos,7p,2,2,,Saddle
+"Bumi, King of Three Trials",{5}{G},6.0,Legendary Creature — Human Noble Ally,"When Bumi enters, choose up to X, where X is the number of Lesson cards in your graveyard —
+• Put three +1/+1 counters on Bumi.
+• Target player scries 3.
+• Earthbend 3. (Target land you control becomes a 0/0 creature with haste that's still a land. Put three +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)",G,G,uncommon,TLA,Avatar: The Last Airbender,169,4,4,,Earthbend
+"Bumi, Unleashed",{3}{R}{G},5.0,Legendary Creature — Human Noble Ally,"Trample
+When Bumi enters, earthbend 4.
+Whenever Bumi deals combat damage to a player, untap all lands you control. After this phase, there is an additional combat phase. Only land creatures can attack during that combat phase.","G,R","G,R",mythic,PTLA,Avatar: The Last Airbender Promos,211s,5,4,,Trample;Earthbend
+"Bumi, Unleashed",{3}{R}{G},5.0,Legendary Creature — Human Noble Ally,"Trample
+When Bumi enters, earthbend 4.
+Whenever Bumi deals combat damage to a player, untap all lands you control. After this phase, there is an additional combat phase. Only land creatures can attack during that combat phase.","G,R","G,R",mythic,TLA,Avatar: The Last Airbender,348,5,4,,Trample;Earthbend
+"Bumi, Unleashed",{3}{R}{G},5.0,Legendary Creature — Human Noble Ally,"Trample
+When Bumi enters, earthbend 4.
+Whenever Bumi deals combat damage to a player, untap all lands you control. After this phase, there is an additional combat phase. Only land creatures can attack during that combat phase.","G,R","G,R",mythic,TLA,Avatar: The Last Airbender,211,5,4,,Trample;Earthbend
+Burdened Stoneback,{1}{W},2.0,Creature — Giant Warrior,"This creature enters with two -1/-1 counters on it.
+{1}{W}, Remove a counter from this creature: Target creature gains indestructible until end of turn. Activate only as a sorcery. (Damage and effects that say ""destroy"" don't destroy it. If its toughness is 0 or less, it still dies.)",W,W,uncommon,ECL,Lorwyn Eclipsed,8,4,4,,
+Burglar Rat,{1}{B},2.0,Creature — Rat,"When this creature enters, each opponent discards a card.",B,B,common,J22,Jumpstart 2022,384,1,1,,
+Burglar Rat,{1}{B},2.0,Creature — Rat,"When this creature enters, each opponent discards a card.",B,B,common,RVR,Ravnica Remastered,69,1,1,,
+Burglar Rat,{1}{B},2.0,Creature — Rat,"When this creature enters, each opponent discards a card.",B,B,common,JMP,Jumpstart,214,1,1,,
+Burglar Rat,{1}{B},2.0,Creature — Rat,"When this creature enters, each opponent discards a card.",B,B,common,FDN,Foundations,170,1,1,,
+Burglar Rat,{1}{B},2.0,Creature — Rat,"When this creature enters, each opponent discards a card.",B,B,common,GRN,Guilds of Ravnica,64,1,1,,
+Burning Sun Cavalry,{1}{R},2.0,Creature — Human Knight,"Whenever this creature attacks or blocks while you control a Dinosaur, this creature gets +1/+1 until end of turn.",R,R,common,LCI,The Lost Caverns of Ixalan,138,2,2,,
+Burnished Hart,{3},3.0,Artifact Creature — Elk,"{3}, Sacrifice this creature: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",,,uncommon,AFC,Forgotten Realms Commander,200,2,2,,
+Burnished Hart,{3},3.0,Artifact Creature — Elk,"{3}, Sacrifice this creature: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",,,uncommon,DSC,Duskmourn: House of Horror Commander,243,2,2,,
+Burnished Hart,{3},3.0,Artifact Creature — Elk,"{3}, Sacrifice this creature: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",,,uncommon,M3C,Modern Horizons 3 Commander,284,2,2,,
+Burnished Hart,{3},3.0,Artifact Creature — Elk,"{3}, Sacrifice this creature: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",,,uncommon,BLC,Bloomburrow Commander,266,2,2,,
+Burnished Hart,{3},3.0,Artifact Creature — Elk,"{3}, Sacrifice this creature: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",,,uncommon,C15,Commander 2015,248,2,2,,
+Burnished Hart,{3},3.0,Artifact Creature — Elk,"{3}, Sacrifice this creature: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",,,uncommon,CMR,Commander Legends,302,2,2,,
+Burnished Hart,{3},3.0,Artifact Creature — Elk,"{3}, Sacrifice this creature: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",,,uncommon,PRM,Magic Online Promos,86100,2,2,,
+Burnished Hart,{3},3.0,Artifact Creature — Elk,"{3}, Sacrifice this creature: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",,,uncommon,KHC,Kaldheim Commander,98,2,2,,
+Burnished Hart,{3},3.0,Artifact Creature — Elk,"{3}, Sacrifice this creature: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",,,uncommon,BRR,The Brothers' War Retro Artifacts,8,2,2,,
+Burnished Hart,{3},3.0,Artifact Creature — Elk,"{3}, Sacrifice this creature: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",,,uncommon,FDN,Foundations,250,2,2,,
+Burnished Hart,{3},3.0,Artifact Creature — Elk,"{3}, Sacrifice this creature: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",,,uncommon,THS,Theros,213,2,2,,
+Burnished Hart,{3},3.0,Artifact Creature — Elk,"{3}, Sacrifice this creature: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",,,uncommon,MOC,March of the Machine Commander,351,2,2,,
+Burnished Hart,{3},3.0,Artifact Creature — Elk,"{3}, Sacrifice this creature: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",,,uncommon,CLB,Commander Legends: Battle for Baldur's Gate,303,2,2,,
+Burnished Hart,{3},3.0,Artifact Creature — Elk,"{3}, Sacrifice this creature: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",,,uncommon,CMM,Commander Masters,373,2,2,,
+Burnished Hart,{3},3.0,Artifact Creature — Elk,"{3}, Sacrifice this creature: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",,,uncommon,SCD,Starter Commander Decks,260,2,2,,
+Burnished Hart,{3},3.0,Artifact Creature — Elk,"{3}, Sacrifice this creature: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",,,uncommon,CMR,Commander Legends,691,2,2,,
+Burnished Hart,{3},3.0,Artifact Creature — Elk,"{3}, Sacrifice this creature: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",,,uncommon,C21,Commander 2021,238,2,2,,
+Burnished Hart,{3},3.0,Artifact Creature — Elk,"{3}, Sacrifice this creature: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",,,uncommon,C19,Commander 2019,211,2,2,,
+Burnished Hart,{3},3.0,Artifact Creature — Elk,"{3}, Sacrifice this creature: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",,,uncommon,PLST,The List,C15-248,2,2,,
+Burnished Hart,{3},3.0,Artifact Creature — Elk,"{3}, Sacrifice this creature: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",,,uncommon,C14,Commander 2014,232,2,2,,
+Burnished Hart,{3},3.0,Artifact Creature — Elk,"{3}, Sacrifice this creature: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",,,uncommon,BRR,The Brothers' War Retro Artifacts,71,2,2,,
+Burnished Hart,{3},3.0,Artifact Creature — Elk,"{3}, Sacrifice this creature: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",,,uncommon,BRR,The Brothers' War Retro Artifacts,71z,2,2,,
+Burnout Bashtronaut,{R},1.0,Creature — Goblin Warrior,"Menace
+Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+{2}: This creature gets +1/+0 until end of turn.
+Max speed — This creature has double strike.",R,R,rare,PDFT,Aetherdrift Promos,115s,1,1,,Max speed;Menace;Start your engines!
+Burnout Bashtronaut,{R},1.0,Creature — Goblin Warrior,"Menace
+Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+{2}: This creature gets +1/+0 until end of turn.
+Max speed — This creature has double strike.",R,R,rare,DFT,Aetherdrift,115,1,1,,Max speed;Menace;Start your engines!
+Burnout Bashtronaut,{R},1.0,Creature — Goblin Warrior,"Menace
+Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+{2}: This creature gets +1/+0 until end of turn.
+Max speed — This creature has double strike.",R,R,rare,DFT,Aetherdrift,455,1,1,,Max speed;Menace;Start your engines!
+Burnout Bashtronaut,{R},1.0,Creature — Goblin Warrior,"Menace
+Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+{2}: This creature gets +1/+0 until end of turn.
+Max speed — This creature has double strike.",R,R,rare,PDFT,Aetherdrift Promos,115p,1,1,,Max speed;Menace;Start your engines!
+Burnout Bashtronaut,{R},1.0,Creature — Goblin Warrior,"Menace
+Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+{2}: This creature gets +1/+0 until end of turn.
+Max speed — This creature has double strike.",R,R,rare,DFT,Aetherdrift,539,1,1,,Max speed;Menace;Start your engines!
+Burnout Bashtronaut,{R},1.0,Creature — Goblin Warrior,"Menace
+Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+{2}: This creature gets +1/+0 until end of turn.
+Max speed — This creature has double strike.",R,R,rare,DFT,Aetherdrift,340,1,1,,Max speed;Menace;Start your engines!
+Burrog Befuddler,{1}{U},2.0,Creature — Frog Wizard,"Flash (You may cast this spell any time you could cast an instant.)
+When this creature enters, target creature an opponent controls gets -1/-0 until end of turn.",U,U,common,STX,Strixhaven: School of Mages,38,2,1,,Flash
+Burrog Befuddler,{1}{U},2.0,Creature — Frog Wizard,"Flash (You may cast this spell any time you could cast an instant.)
+When this creature enters, target creature an opponent controls gets -1/-0 until end of turn.",U,U,common,FDN,Foundations,504,2,1,,Flash
+Burrowguard Mentor,{G}{W},2.0,Creature — Rabbit Soldier,"Trample
+Burrowguard Mentor's power and toughness are each equal to the number of creatures you control.","G,W","G,W",uncommon,BLB,Bloomburrow,206,*,*,,Trample
+Bushy Bodyguard,{1}{G},2.0,Creature — Squirrel Warrior,"Offspring {2} (You may pay an additional {2} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+When this creature enters, you may forage. If you do, put two +1/+1 counters on it. (To forage, exile three cards from your graveyard or sacrifice a Food.)",G,G,uncommon,BLB,Bloomburrow,166,2,1,,Forage;Offspring
+Buzz Bots,{1}{U},2.0,Artifact Creature — Robot Insect,"Flying, vigilance
+When this creature dies, draw a card.",U,U,common,TMT,Teenage Mutant Ninja Turtles,32,1,1,,Flying;Vigilance
+Buzzard-Wasp Colony,{3}{B},4.0,Creature — Bird Insect,"Flying
+When this creature enters, you may sacrifice an artifact or creature. If you do, draw a card.
+Whenever another creature you control dies, if it had counters on it, put its counters on this creature.",B,B,uncommon,TLA,Avatar: The Last Airbender,88,2,2,,Flying
+Bygone Colossus,{9},9.0,Artifact Creature — Robot Giant,"Warp {3} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",,,uncommon,EOE,Edge of Eternities,235,9,9,,Warp
+"Byrke, Long Ear of the Law",{4}{G}{W},6.0,Legendary Creature — Rabbit Soldier,"Vigilance
+When Byrke enters, put a +1/+1 counter on each of up to two target creatures.
+Whenever a creature you control with a +1/+1 counter on it attacks, double the number of +1/+1 counters on it.","G,W","G,W",mythic,BLB,Bloomburrow,380,4,4,,Vigilance
+Byway Barterer,{2}{R},3.0,Creature — Raccoon Rogue,"Menace
+Whenever you expend 4, you may discard your hand. If you do, draw two cards. (You expend 4 as you spend your fourth total mana to cast spells during a turn.)",R,R,rare,PBLB,Bloomburrow Promos,129p,3,3,,Menace
+Byway Barterer,{2}{R},3.0,Creature — Raccoon Rogue,"Menace
+Whenever you expend 4, you may discard your hand. If you do, draw two cards. (You expend 4 as you spend your fourth total mana to cast spells during a turn.)",R,R,rare,BLB,Bloomburrow,360,3,3,,Menace
+Byway Barterer,{2}{R},3.0,Creature — Raccoon Rogue,"Menace
+Whenever you expend 4, you may discard your hand. If you do, draw two cards. (You expend 4 as you spend your fourth total mana to cast spells during a turn.)",R,R,rare,PBLB,Bloomburrow Promos,129s,3,3,,Menace
+Byway Barterer,{2}{R},3.0,Creature — Raccoon Rogue,"Menace
+Whenever you expend 4, you may discard your hand. If you do, draw two cards. (You expend 4 as you spend your fourth total mana to cast spells during a turn.)",R,R,rare,BLB,Bloomburrow,129,3,3,,Menace

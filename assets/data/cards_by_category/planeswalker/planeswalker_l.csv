@@ -1,0 +1,5 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,produced_mana,keywords,tags,legal_formats
+"Liliana, Dreadhorde General",{4}{B}{B},6.0,Legendary Planeswalker — Liliana,"Whenever a creature you control dies, draw a card.
++1: Create a 2/2 black Zombie creature token.
+−4: Each player sacrifices two creatures of their choice.
+−9: Each opponent chooses a permanent they control of each permanent type and sacrifices the rest.",B,B,mythic,SLD,Secret Lair Drop,510,,,6,,,draw;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"

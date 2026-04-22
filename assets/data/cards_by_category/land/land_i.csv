@@ -1,0 +1,11 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,produced_mana,keywords,tags,legal_formats
+Illegitimate Business,,0.0,Land,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {B} or {G}.",,"B,G",common,TMT,Teenage Mutant Ninja Turtles,186,,,,"B,G",,lifegain;ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+"Insomnia, Crown City",,0.0,Land — Town,"This land enters tapped.
+{T}: Add {W} or {B}.",,"B,W",common,FIN,Final Fantasy,282,,,,"B,W",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Inspiring Vantage,,0.0,Land,"This land enters tapped unless you control two or fewer other lands.
+{T}: Add {R} or {W}.",,"R,W",rare,SLD,Secret Lair Drop,1375,,,,"R,W",,ramp;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"
+Island,,0.0,Basic Land — Island,({T}: Add {U}.),,U,common,ELD,Throne of Eldraine,255,,,,U,,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel,premodern,predh"
+Izzet Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {U} or {R}.",,"R,U",common,DGM,Dragon's Maze,151,,,,"R,U",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"

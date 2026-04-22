@@ -1,0 +1,4 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,produced_mana,keywords,tags,legal_formats
+Magmatic Hellkite // Magmatic Hellkite,,0,,,,R,rare,TDM,Tarkir: Dragonstorm,380,,,,,Flying,flying,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Marang River Regent // Coil and Catch // Marang River Regent,,0,,,,U,rare,TDM,Tarkir: Dragonstorm,378,,,,,Flying,flying,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Mountain // Mountain,,0,,,,R,common,REX,Jurassic World Collection,24,,,,R,,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel,premodern,predh"

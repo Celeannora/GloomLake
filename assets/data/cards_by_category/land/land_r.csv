@@ -1,0 +1,75 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,produced_mana,keywords,tags,legal_formats
+"Rabanastre, Royal City",,0.0,Land — Town,"This land enters tapped.
+{T}: Add {R} or {W}.",,"R,W",common,FIN,Final Fantasy,287,,,,"R,W",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Rakdos Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {B} or {R}.",,"B,R",common,DGM,Dragon's Maze,154,,,,"B,R",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Raucous Carnival,,0.0,Land,"This land enters tapped unless a player has 13 or less life.
+{T}: Add {R} or {W}.",,"R,W",common,DSK,Duskmourn: House of Horror,266,,,,"R,W",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Raucous Theater,,0.0,Land — Swamp Mountain,"({T}: Add {B} or {R}.)
+This land enters tapped.
+When this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,"B,R",rare,MKM,Murders at Karlov Manor,329,,,,"B,R",Surveil,ramp;surveil,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"
+Razortrap Gorge,,0.0,Land,"This land enters tapped unless a player has 13 or less life.
+{T}: Add {B} or {R}.",,"B,R",common,DSK,Duskmourn: House of Horror,267,,,,"B,R",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Realm of Koh,,0.0,Land,"This land enters tapped unless you control a basic land.
+{T}: Add {B}.
+{3}{B}, {T}: Create a 1/1 colorless Spirit creature token with ""This token can't block or be blocked by non-Spirit creatures.""",,B,rare,TLA,Avatar: The Last Airbender,276,,,,B,,ramp;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Reef Roads,,0.0,Land,"This land enters tapped unless you control a Mount or Vehicle.
+{T}: Add {U}.
+{1}{U}, {T}, Sacrifice this land: Create a 1/1 colorless Pilot creature token with ""This token saddles Mounts and crews Vehicles as though its power were 2 greater."" Activate only as a sorcery.",,U,uncommon,DFT,Aetherdrift,259,,,,U,,ramp;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Restless Anchorage,,0.0,Land,"This land enters tapped.
+{T}: Add {W} or {U}.
+{1}{W}{U}: Until end of turn, this land becomes a 2/3 white and blue Bird creature with flying. It's still a land.
+Whenever this land attacks, create a Map token.",,"U,W",rare,LCI,The Lost Caverns of Ixalan,347,,,,"U,W",,ramp;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"
+Restless Bivouac,,0.0,Land,"This land enters tapped.
+{T}: Add {R} or {W}.
+{1}{R}{W}: This land becomes a 2/2 red and white Ox creature until end of turn. It's still a land.
+Whenever this land attacks, put a +1/+1 counter on target creature you control.",,"R,W",rare,PWOE,Wilds of Eldraine Promos,257p,,,,"R,W",,pump;ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+Restless Cottage,,0.0,Land,"This land enters tapped.
+{T}: Add {B} or {G}.
+{2}{B}{G}: This land becomes a 4/4 black and green Horror creature until end of turn. It's still a land.
+Whenever this land attacks, create a Food token and exile up to one target card from a graveyard.",,"B,G",rare,WOE,Wilds of Eldraine,304,,,,"B,G",Food,ramp;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+Restless Fortress,,0.0,Land,"This land enters tapped.
+{T}: Add {W} or {B}.
+{2}{W}{B}: This land becomes a 1/4 white and black Nightmare creature until end of turn. It's still a land.
+Whenever this land attacks, defending player loses 2 life and you gain 2 life.",,"B,W",rare,PWOE,Wilds of Eldraine Promos,259s,,,,"B,W",,lifegain;ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+Restless Prairie,,0.0,Land,"This land enters tapped.
+{T}: Add {G} or {W}.
+{2}{G}{W}: This land becomes a 3/3 green and white Llama creature until end of turn. It's still a land.
+Whenever this land attacks, other creatures you control get +1/+1 until end of turn.",,"G,W",rare,LCI,The Lost Caverns of Ixalan,348,,,,"G,W",,ramp;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+Restless Reef,,0.0,Land,"This land enters tapped.
+{T}: Add {U} or {B}.
+{2}{U}{B}: Until end of turn, this land becomes a 4/4 blue and black Shark creature with deathtouch. It's still a land.
+Whenever this land attacks, target player mills four cards.",,"B,U",rare,PLCI,The Lost Caverns of Ixalan Promos,282s,,,,"B,U",Mill,mill;ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+Restless Ridgeline,,0.0,Land,"This land enters tapped.
+{T}: Add {R} or {G}.
+{2}{R}{G}: This land becomes a 3/4 red and green Dinosaur creature until end of turn. It's still a land.
+Whenever this land attacks, another target attacking creature gets +2/+0 until end of turn. Untap that creature.",,"G,R",rare,PLCI,The Lost Caverns of Ixalan Promos,283s,,,,"G,R",,pump;ramp;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+Restless Spire,,0.0,Land,"This land enters tapped.
+{T}: Add {U} or {R}.
+{U}{R}: Until end of turn, this land becomes a 2/1 blue and red Elemental creature with ""During your turn, this creature has first strike."" It's still a land.
+Whenever this land attacks, scry 1.",,"R,U",rare,PWOE,Wilds of Eldraine Promos,260s,,,,"R,U",Scry,ramp;scry,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+Restless Vents,,0.0,Land,"This land enters tapped.
+{T}: Add {B} or {R}.
+{1}{B}{R}: Until end of turn, this land becomes a 2/3 black and red Insect creature with menace. It's still a land.
+Whenever this land attacks, you may discard a card. If you do, draw a card.",,"B,R",rare,PLCI,The Lost Caverns of Ixalan Promos,284s,,,,"B,R",,draw;ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+Restless Vinestalk,,0.0,Land,"This land enters tapped.
+{T}: Add {G} or {U}.
+{3}{G}{U}: Until end of turn, this land becomes a 5/5 green and blue Plant creature with trample. It's still a land.
+Whenever this land attacks, up to one other target creature has base power and toughness 3/3 until end of turn.",,"G,U",rare,PWOE,Wilds of Eldraine Promos,261s,,,,"G,U",,ramp;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+Riverpyre Verge,,0.0,Land,"{T}: Add {R}.
+{T}: Add {U}. Activate only if you control an Island or a Mountain.",,"R,U",rare,PDFT,Aetherdrift Promos,260p,,,,"R,U",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Rockface Village,,0.0,Land,"{T}: Add {C}.
+{T}: Add {R}. Spend this mana only to cast a creature spell.
+{R}, {T}: Target Lizard, Mouse, Otter, or Raccoon you control gets +1/+0 and gains haste until end of turn. Activate only as a sorcery.",,R,uncommon,BLB,Bloomburrow,259,,,,"C,R",,pump;ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Rocky Roads,,0.0,Land,"This land enters tapped unless you control a Mount or Vehicle.
+{T}: Add {R}.
+{1}{R}, {T}, Sacrifice this land: Create a 1/1 colorless Pilot creature token with ""This token saddles Mounts and crews Vehicles as though its power were 2 greater."" Activate only as a sorcery.",,R,uncommon,DFT,Aetherdrift,261,,,,R,,ramp;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Rogue's Passage,,0.0,Land,"{T}: Add {C}.
+{4}, {T}: Target creature can't be blocked this turn.",,,uncommon,PIO,Pioneer Masters,273,,,,C,,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Rugged Highlands,,0.0,Land,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {R} or {G}.",,"G,R",common,40K,"Warhammer 40,000 Commander",292★,,,,"G,R",,lifegain;ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Rumble Arena,,0.0,Land,"Vigilance
+When this land enters, scry 1. (Look at the top card of your library. You may put it on the bottom.)
+{T}: Add {C}.
+{1}, {T}: Add one mana of any color.",,,common,TLA,Avatar: The Last Airbender,277,,,,"B,C,G,R,U,W",Vigilance;Scry,ramp;scry;vigilance,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"

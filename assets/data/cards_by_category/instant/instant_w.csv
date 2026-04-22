@@ -1,0 +1,21 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,produced_mana,keywords,tags,legal_formats
+Wail of War,{2}{B},3.0,Instant,"Choose one —
+• Creatures target opponent controls get -1/-1 until end of turn.
+• Return up to two target creature cards from your graveyard to your hand.",B,B,uncommon,TDM,Tarkir: Dragonstorm,98,,,,,,bounce,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Wander Off,{3}{B},4.0,Instant,Exile target creature.,B,B,common,SOS,Secrets of Strixhaven,104,,,,,,removal,"standard,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Water Wings,{1}{U},2.0,Instant,"Until end of turn, target creature you control has base power and toughness 4/4 and gains flying and hexproof. (It can't be the target of spells or abilities your opponents control.)",U,U,common,WOE,Wilds of Eldraine,77,,,,,,protection,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,paupercommander,duel"
+Whoosh!,{1}{U},2.0,Instant,"Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)
+Return target nonland permanent to its owner's hand. If this spell was kicked, draw a card.",U,U,common,OM1,Through the Omenpaths,43,,,,,Kicker,bounce;draw,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Wild Unraveling,{U}{U},2.0,Instant,"As an additional cost to cast this spell, blight 2 or pay {1}. (To blight 2, put two -1/-1 counters on a creature you control.)
+Counter target spell.",U,U,common,ECL,Lorwyn Eclipsed,84,,,,,Blight,counter,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Wilt in the Heat,{2}{R}{W},4.0,Instant,"This spell costs {2} less to cast if one or more cards left your graveyard this turn.
+Wilt in the Heat deals 5 damage to target creature. If that creature would die this turn, exile it instead.","R,W","R,W",common,SOS,Secrets of Strixhaven,243,,,,,,,"standard,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Winter's Intervention,{1}{B},2.0,Instant,Winter's Intervention deals 2 damage to target creature. You gain 2 life.,B,B,common,DSK,Duskmourn: House of Horror,123,,,,,,lifegain,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Wisecrack,{2}{R},3.0,Instant,"Target creature deals damage equal to its power to itself. If that creature is attacking, Wisecrack deals 2 damage to that creature's controller.",R,R,uncommon,OM1,Through the Omenpaths,98,,,,,,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Witchstalker Frenzy,{3}{R},4.0,Instant,"This spell costs {1} less to cast for each creature that attacked this turn.
+Witchstalker Frenzy deals 5 damage to target creature.",R,R,uncommon,WOE,Wilds of Eldraine,159,,,,,,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"
+Witherbloom Charm,{B}{G},2.0,Instant,"Choose one —
+• You may sacrifice a permanent. If you do, draw two cards.
+• You gain 5 life.
+• Destroy target nonland permanent with mana value 2 or less.","B,G","B,G",uncommon,SOS,Secrets of Strixhaven,244,,,,,,draw;lifegain;removal,"standard,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Withering Torment,{2}{B},3.0,Instant,Destroy target creature or enchantment. You lose 2 life.,B,B,uncommon,DSK,Duskmourn: House of Horror,124,,,,,,removal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"

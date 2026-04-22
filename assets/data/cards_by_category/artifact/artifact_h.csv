@@ -1,0 +1,34 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,produced_mana,keywords,tags,legal_formats
+Hard-Won Jitte,{1}{R},2.0,Artifact — Equipment,"Equipped creature has double strike.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",R,R,uncommon,TMT,Teenage Mutant Ninja Turtles,91,,,,,Equip,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Haunted Hellride,{1}{U}{B},3.0,Artifact — Vehicle,"Whenever you attack, target creature you control gets +1/+0 and gains deathtouch until end of turn. Untap it.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)","B,U","B,U",uncommon,DFT,Aetherdrift,325,3,3,,,Crew,pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Haunted Screen,{3},3.0,Artifact,"{T}: Add {W} or {B}.
+{T}, Pay 1 life: Add {G}, {U}, or {R}.
+{7}: Put seven +1/+1 counters on this artifact. It becomes a 0/0 Spirit creature in addition to its other types. Activate only once.",,"B,G,R,U,W",uncommon,DSK,Duskmourn: House of Horror,250,,,,"B,G,R,U,W",,pump;ramp;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Heaped Harvest,{2}{G},3.0,Artifact — Food,"When this artifact enters and when you sacrifice it, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+{2}, {T}, Sacrifice this artifact: You gain 3 life.",G,G,common,BLB,Bloomburrow,175,,,,,,lifegain;ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Hedge Shredder,{2}{G}{G},4.0,Artifact — Vehicle,"Whenever this Vehicle attacks, you may mill two cards.
+Whenever one or more land cards are put into your graveyard from your library, put them onto the battlefield tapped.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)",G,G,rare,DSK,Duskmourn: House of Horror,320,5,5,,,Crew;Mill,mill,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Hedron Archive,{4},4.0,Artifact,"{T}: Add {C}{C}.
+{2}, {T}, Sacrifice this artifact: Draw two cards.",,,uncommon,BLC,Bloomburrow Commander,275,,,,C,,draw;ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Heirloom Epic,{1},1.0,Artifact — Book,"{4}, {T}: Draw a card. For each mana in this ability's activation cost, you may tap an untapped creature you control rather than pay that mana. Activate only as a sorcery.",,,uncommon,BLB,Bloomburrow,246,,,,,,draw,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Heraldic Banner,{3},3.0,Artifact,"As this artifact enters, choose a color.
+Creatures you control of the chosen color get +1/+0.
+{T}: Add one mana of the chosen color.",,,uncommon,SCD,Starter Commander Decks,267,,,,"B,G,R,U,W",,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Herd Heirloom,{1}{G},2.0,Artifact,"{T}: Add one mana of any color. Spend this mana only to cast a creature spell.
+{T}: Until end of turn, target creature you control with power 4 or greater gains trample and ""Whenever this creature deals combat damage to a player, draw a card.""",G,G,rare,PTDM,Tarkir: Dragonstorm Promos,144p,,,,"B,G,R,U,W",,draw,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Hot Dog Cart,{3},3.0,Artifact,"When this artifact enters, create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this token: You gain 3 life."")
+{T}: Add one mana of any color.",,,common,OM1,Through the Omenpaths,177,,,,"B,G,R,U,W",Food,lifegain;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Hulldrifter,{3}{U}{U},5.0,Artifact — Vehicle,"Flying
+When this Vehicle enters, draw two cards.
+Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)",U,U,common,DFT,Aetherdrift,300,3,2,,,Flying;Crew,draw;flying,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Hunter's Blowgun,{1},1.0,Artifact — Equipment,"Equipped creature gets +1/+1.
+Equipped creature has deathtouch during your turn. Otherwise, it has reach.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",,,common,LCI,The Lost Caverns of Ixalan,255,,,,,Equip,pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,paupercommander,duel"
+Hylda's Crown of Winter,{3},3.0,Legendary Artifact,"{1}, {T}: Tap target creature. This ability costs {1} less to activate during your turn.
+{3}, Sacrifice Hylda's Crown of Winter: Draw a card for each tapped creature your opponents control.",,,rare,WOE,Wilds of Eldraine,367,,,,,,draw,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+Hylderblade,{B},1.0,Artifact — Equipment,"Equipped creature gets +3/+1.
+Void — At the beginning of your end step, if a nonland permanent left the battlefield this turn or a spell was warped this turn, attach this Equipment to target creature you control.
+Equip {4} ({4}: Attach to target creature you control. Equip only as a sorcery.)",B,B,uncommon,EOE,Edge of Eternities,106,,,,,Equip;Void,pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"

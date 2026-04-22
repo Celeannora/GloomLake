@@ -1,0 +1,60 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,produced_mana,keywords,tags,legal_formats
+Machinist's Arsenal,{4}{W},5.0,Artifact — Equipment,"Job select (When this Equipment enters, create a 1/1 colorless Hero creature token, then attach this to it.)
+Equipped creature gets +2/+2 for each artifact you control and is an Artificer in addition to its other types.
+Machina — Equip {4} ({4}: Attach to target creature you control. Equip only as a sorcery.)",W,W,rare,PFIN,Final Fantasy Promos,23s,,,,,Machina;Job select;Equip,pump;token;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Magitek Armor,{3}{W},4.0,Artifact — Vehicle,"When this Vehicle enters, create a 1/1 colorless Hero creature token.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)",W,W,uncommon,FIN,Final Fantasy,24,4,4,,,Crew,token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Magitek Scythe,{4},4.0,Artifact — Equipment,"A Test of Your Reflexes! — When this Equipment enters, you may attach it to target creature you control. If you do, that creature gains first strike until end of turn and must be blocked this turn if able.
+Equipped creature gets +2/+1.
+Equip {2}",,,rare,FIN,Final Fantasy,562,,,,,Equip;A Test of Your Reflexes!,pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Magmatic Galleon,{3}{R}{R},5.0,Artifact — Vehicle,"When this Vehicle enters, it deals 5 damage to target creature an opponent controls.
+Whenever one or more creatures your opponents control are dealt excess noncombat damage, create a Treasure token.
+Crew 2",R,R,rare,PLCI,The Lost Caverns of Ixalan Promos,157s,5,5,,,Treasure;Crew,token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+Magnifying Glass,{3},3.0,Artifact,"{T}: Add {C}.
+{4}, {T}: Investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")",,,uncommon,C18,Commander 2018,208,,,,C,Investigate,draw;ramp;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,paupercommander,duel"
+Malamet Scythe,{2}{G},3.0,Artifact — Equipment,"Flash
+When this Equipment enters, attach it to target creature you control.
+Equipped creature gets +2/+2.
+Equip {4} ({4}: Attach to target creature you control. Equip only as a sorcery.)",G,G,common,LCI,The Lost Caverns of Ixalan,200,,,,,Equip;Flash,flash;pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,paupercommander,duel"
+Mardu Monument,{2},2.0,Artifact,"When this artifact enters, search your library for a basic Mountain, Plains, or Swamp card, reveal it, put it into your hand, then shuffle.
+{2}{R}{W}{B}, {T}, Sacrifice this artifact: Create three 1/1 red Warrior creature tokens. They gain menace and haste until end of turn. Activate only as a sorcery. (A creature with menace can't be blocked except by two or more creatures.)",,"B,R,W",uncommon,TDM,Tarkir: Dragonstorm,245,,,,,,token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Marina Vendrell's Grimoire,{5}{U},6.0,Legendary Artifact — Book,"When Marina Vendrell's Grimoire enters, if you cast it, draw five cards.
+You have no maximum hand size and don't lose the game for having 0 or less life.
+Whenever you gain life, draw that many cards.
+Whenever you lose life, discard that many cards. Then if you have no cards in hand, you lose the game.",U,U,rare,PDSK,Duskmourn: House of Horror Promos,64p,,,,,,lifegain,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Marshals' Pathcruiser,{3},3.0,Artifact — Vehicle,"When this Vehicle enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+Exhaust — {W}{U}{B}{R}{G}: This Vehicle becomes an artifact creature. Put two +1/+1 counters on it. (Activate each exhaust ability only once.)
+Crew 5",,"B,G,R,U,W",uncommon,DFT,Aetherdrift,330,6,5,,,Crew;Exhaust,pump;ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Master's Guide-Mural // Master's Manufactory,,5.0,Artifact // Artifact,,,"U,W",uncommon,LCI,The Lost Caverns of Ixalan,233,,,,,Craft;Transform,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"
+"Matzalantli, the Great Door // The Core",,3.0,Legendary Artifact // Legendary Land,,,,rare,LCI,The Lost Caverns of Ixalan,387,,,,"B,G,R,U,W",Transform;Fathomless descent,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+Mazemind Tome,{2},2.0,Artifact — Book,"{T}, Put a page counter on this artifact: Scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{2}, {T}, Put a page counter on this artifact: Draw a card.
+When there are four or more page counters on this artifact, exile it. If you do, you gain 4 life.",,,rare,CMM,Commander Masters,959,,,,,Scry,draw;lifegain;scry,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Melded Moxite,{1}{R},2.0,Artifact,"When this artifact enters, you may discard a card. If you do, draw two cards.
+{3}, Sacrifice this artifact: Create a tapped 2/2 colorless Robot artifact creature token.",R,R,common,EOE,Edge of Eternities,143,,,,,,draw;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Meltstrider's Gear,{G},1.0,Artifact — Equipment,"When this Equipment enters, attach it to target creature you control.
+Equipped creature gets +2/+1 and has reach.
+Equip {5} ({5}: Attach to target creature you control. Equip only as a sorcery.)",G,G,common,EOE,Edge of Eternities,198,,,,,Equip,pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Memorial Vault,{3}{R},4.0,Artifact,"{T}, Sacrifice another artifact: Exile the top X cards of your library, where X is one plus the mana value of the sacrificed artifact. You may play those cards this turn.",R,R,rare,PEOE,Edge of Eternities Promos,145s,,,,,,tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Memory Vessel,{3}{R}{R},5.0,Artifact,"{T}, Exile this artifact: Each player exiles the top seven cards of their library. Until your next turn, players may play cards they exiled this way, and they can't play cards from their hand. Activate only as a sorcery.",R,R,mythic,BIG,The Big Score,13,,,,,,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+Mephitic Draught,{1}{B},2.0,Artifact,"When this artifact enters or is put into a graveyard from the battlefield, you draw a card and you lose 1 life.",B,B,common,LCI,The Lost Caverns of Ixalan,112,,,,,,draw,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,paupercommander,duel"
+Meteor Sword,{7},7.0,Artifact — Equipment,"When this Equipment enters, destroy target permanent.
+Equipped creature gets +3/+3.
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",,,uncommon,TLA,Avatar: The Last Airbender,258,,,,,Equip,pump;removal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Midnight Mangler,{1}{U},2.0,Artifact — Vehicle,"During turns other than yours, this Vehicle is an artifact creature.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)",U,U,common,DFT,Aetherdrift,50,3,3,,,Crew,tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Mirrormind Crown,{4},4.0,Artifact — Equipment,"As long as this Equipment is attached to a creature, the first time you would create one or more tokens each turn, you may instead create that many tokens that are copies of equipped creature.
+Equip {2}",,,rare,ECL,Lorwyn Eclipsed,381,,,,,Equip,token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Mobile Homestead,{2},2.0,Artifact — Vehicle,"This Vehicle has haste as long as you control a Mount.
+Whenever this Vehicle attacks, look at the top card of your library. If it's a land card, you may put it onto the battlefield tapped.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)",,,uncommon,OTJ,Outlaws of Thunder Junction,245,3,3,,,Crew,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"
+Monk's Fist,{2},2.0,Artifact — Equipment,"Job select (When this Equipment enters, create a 1/1 colorless Hero creature token, then attach this to it.)
+Equipped creature gets +1/+0 and is a Monk in addition to its other types.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",,,common,FIN,Final Fantasy,265,,,,,Job select;Equip,pump;token;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Monument to Endurance,{3},3.0,Artifact,"Whenever you discard a card, choose one that hasn't been chosen this turn —
+• Draw a card.
+• Create a Treasure token.
+• Each opponent loses 3 life.",,,rare,PDFT,Aetherdrift Promos,237p,,,,,Treasure,draw;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Mouser Foundry,{1}{R},2.0,Artifact,"When this artifact enters or leaves the battlefield, create a 1/1 colorless Robot artifact creature token.
+{4}{R}, Sacrifice this artifact: It deals 3 damage to target creature.",R,R,common,TMT,Teenage Mutant Ninja Turtles,96,,,,,,token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Mox Jasper,{0},0.0,Legendary Artifact,{T}: Add one mana of any color. Activate only if you control a Dragon.,,,mythic,TDM,Tarkir: Dragonstorm,325,,,,"B,G,R,U,W",,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"

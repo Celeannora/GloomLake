@@ -1,0 +1,39 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,produced_mana,keywords,tags,legal_formats
+Gallant Strike,{1}{W},2.0,Instant,"Destroy target creature with toughness 4 or greater.
+Cycling {2} ({2}, Discard this card: Draw a card.)",W,W,uncommon,DFT,Aetherdrift,13,,,,,Cycling,draw;removal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Galuf's Final Act,{1}{G},2.0,Instant,"Until end of turn, target creature gets +1/+0 and gains ""When this creature dies, put a number of +1/+1 counters equal to its power on up to one target creature.""",G,G,uncommon,FIN,Final Fantasy,186,,,,,,pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Galvanize,{1}{R},2.0,Instant,"Galvanize deals 3 damage to target creature. If you've drawn two or more cards this turn, Galvanize deals 5 damage to that creature instead.",R,R,common,MKM,Murders at Karlov Manor,128,,,,,,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,paupercommander,duel"
+Get a Leg Up,{G},1.0,Instant,"Until end of turn, target creature gets +1/+1 for each creature you control and gains reach.",G,G,uncommon,MKM,Murders at Karlov Manor,161,,,,,,pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"
+Get Lost,{1}{W},2.0,Instant,"Destroy target creature, enchantment, or planeswalker. Its controller creates two Map tokens. (They're artifacts with ""{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery."")",W,W,rare,PLCI,The Lost Caverns of Ixalan Promos,14p,,,,,Explore,removal;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"
+Get Out,{U}{U},2.0,Instant,"Choose one —
+• Counter target creature or enchantment spell.
+• Return one or two target creatures and/or enchantments you own to your hand.",U,U,uncommon,DSK,Duskmourn: House of Horror,60,,,,,,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Getaway Glamer,{W},1.0,Instant,"Spree (Choose one or more additional costs.)
++ {1} — Exile target nontoken creature. Return it to the battlefield under its owner's control at the beginning of the next end step.
++ {2} — Destroy target creature if no other creature has greater power.",W,W,uncommon,OTJ,Outlaws of Thunder Junction,14,,,,,Spree,removal;token;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,G,G,common,WAR,War of the Spark,162,,,,,,pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel,premodern,predh"
+Giantfall,{1}{R},2.0,Instant,"Choose one —
+• Target creature you control deals damage equal to its power to target creature an opponent controls.
+• Destroy target artifact.",R,R,uncommon,ECL,Lorwyn Eclipsed,141,,,,,,removal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Give In to Violence,{1}{B},2.0,Instant,Target creature gets +2/+2 and gains lifelink until end of turn.,B,B,common,DSK,Duskmourn: House of Horror,101,,,,,,lifegain;pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Glen Elendra's Answer,{2}{U}{U},4.0,Instant,"This spell can't be countered.
+Counter all spells your opponents control and all abilities your opponents control. Create a 1/1 blue and black Faerie creature token with flying for each spell and ability countered this way.",U,U,mythic,ECL,Lorwyn Eclipsed,306,,,,,,token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Glimmerburst,{3}{U},4.0,Instant,Draw two cards. Create a 1/1 white Glimmer enchantment creature token.,U,U,common,DSK,Duskmourn: House of Horror,62,,,,,,draw;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Glorious Decay,{1}{G},2.0,Instant,"Choose one —
+• Destroy target artifact.
+• Glorious Decay deals 4 damage to target creature with flying.
+• Exile target card from a graveyard. Draw a card.",G,G,common,SOS,Secrets of Strixhaven,150,,,,,,draw;removal,"standard,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Gnawing Crescendo,{2}{R},3.0,Instant,"Creatures you control get +2/+0 until end of turn. Whenever a nontoken creature you control dies this turn, create a 1/1 black Rat creature token with ""This token can't block.""",R,R,common,WOE,Wilds of Eldraine,131,,,,,,token;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,paupercommander,duel"
+Goblin Surprise,{2}{R},3.0,Instant,"Choose one —
+• Creatures you control get +2/+0 until end of turn.
+• Create two 1/1 red Goblin creature tokens.",R,R,common,FDN,Foundations,200,,,,,,token;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Gold Rush,{1}{G},2.0,Instant,"Create a Treasure token. Until end of turn, up to one target creature gets +2/+2 for each Treasure you control.",G,G,uncommon,OTJ,Outlaws of Thunder Junction,166,,,,,Treasure,pump;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"
+Gravkill,{3}{B},4.0,Instant,Exile target creature or Spacecraft.,B,B,common,EOE,Edge of Eternities,103,,,,,,removal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Great Train Heist,{R},1.0,Instant,"Spree (Choose one or more additional costs.)
++ {2}{R} — Untap all creatures you control. If it's your combat phase, there is an additional combat phase after this phase.
++ {2} — Creatures you control get +1/+0 and gain first strike until end of turn.
++ {R} — Choose target opponent. Whenever a creature you control deals combat damage to that player this turn, create a tapped Treasure token.",R,R,rare,OTJ,Outlaws of Thunder Junction,125,,,,,Treasure;Spree,token;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+Grounded for Life,{4}{W},5.0,Instant,"This spell costs {3} less to cast if it targets a tapped creature.
+Destroy target creature.",W,W,common,TMT,Teenage Mutant Ninja Turtles,7,,,,,,removal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Grow Extra Arms,{1}{G},2.0,Instant,"This spell costs {1} less to cast if it targets a Spider.
+Target creature gets +4/+4 until end of turn.",G,G,common,OM1,Through the Omenpaths,107,,,,,,pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"

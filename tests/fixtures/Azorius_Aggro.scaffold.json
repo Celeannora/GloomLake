@@ -1,0 +1,36 @@
+{
+  "deck_name": "Azorius Aggro",
+  "colors": [
+    "U",
+    "W"
+  ],
+  "archetypes": [
+    "aggro",
+    "combo",
+    "control",
+    "lifegain",
+    "opp_mill"
+  ],
+  "tribal_enabled": true,
+  "tribes": [
+    "Angel"
+  ],
+  "tags": [],
+  "focus_cards": [
+    "Hope Estheim",
+    "Space-Time Anomaly",
+    "Lyra Dawnbringer",
+    "Riverchurn Monument",
+    "Leader's Talent",
+    "Authority Of The Consuls"
+  ],
+  "output_dir": "",
+  "options": {
+    "skip_queries": false,
+    "run_synergy": true,
+    "auto_build": true,
+    "wildcard": false
+  },
+  "auto_name": true,
+  "focus_character": ""
+}

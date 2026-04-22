@@ -1,0 +1,42 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,produced_mana,keywords,tags,legal_formats
+War Balloon,{2}{R},3.0,Artifact — Vehicle,"Flying
+{1}: Put a fire counter on this Vehicle.
+As long as this Vehicle has three or more fire counters on it, it's an artifact creature.
+Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)",R,R,uncommon,TLA,Avatar: The Last Airbender,159,4,3,,,Flying;Crew,flying,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Warmaker Gunship,{2}{R},3.0,Artifact — Spacecraft,"When this Spacecraft enters, it deals damage equal to the number of artifacts you control to target creature an opponent controls.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 6+.)
+6+ | Flying",R,R,rare,PEOE,Edge of Eternities Promos,167p,4,3,,,Station,tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Warrior's Sword,{3}{R},4.0,Artifact — Equipment,"Job select (When this Equipment enters, create a 1/1 colorless Hero creature token, then attach this to it.)
+Equipped creature gets +3/+2 and is a Warrior in addition to its other types.
+Equip {5} ({5}: Attach to target creature you control. Equip only as a sorcery.)",R,R,common,FIN,Final Fantasy,169,,,,,Job select;Equip,pump;token;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Waterbending Scroll,{1}{U},2.0,Artifact,"{6}, {T}: Draw a card. This ability costs {1} less to activate for each Island you control.",U,U,uncommon,TLA,Avatar: The Last Airbender,81,,,,,,draw,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Waterlogged Hulk // Watertight Gondola,,1.0,Artifact // Artifact — Vehicle,,,U,uncommon,LCI,The Lost Caverns of Ixalan,83,,,,,Craft;Vigilance;Transform;Descend;Crew;Mill,vigilance,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"
+Weather Maker,{3},3.0,Artifact,"Landfall — Whenever a land you control enters, put a charge counter on this artifact.
+{T}: Add one mana of any color.
+{T}, Remove two charge counters from this artifact: Add {C}{C}.
+{T}, Remove three charge counters from this artifact: It deals 3 damage to any target.",,,rare,TMT,Teenage Mutant Ninja Turtles,279,,,,"B,C,G,R,U,W",Landfall,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Web-Shooters,{1}{W},2.0,Artifact — Equipment,"Equipped creature gets +1/+1 and has reach and ""Whenever this creature attacks, tap target creature an opponent controls.""
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",W,W,uncommon,OM1,Through the Omenpaths,2,,,,,Equip,pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Wedgelight Rammer,{3}{W},4.0,Artifact — Spacecraft,"When this Spacecraft enters, create a 2/2 colorless Robot artifact creature token.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 9+.)
+9+ | Flying, first strike",W,W,uncommon,EOE,Edge of Eternities,43,3,4,,,Station,token;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+White Auracite,{2}{W}{W},4.0,Artifact,"When this artifact enters, exile target nonland permanent an opponent controls until this artifact leaves the battlefield.
+{T}: Add {W}.",W,W,common,FIN,Final Fantasy,41,,,,W,,ramp;removal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+White Lotus Tile,{4},4.0,Artifact,"This artifact enters tapped.
+{T}: Add X mana of any one color, where X is the greatest number of creatures you control that have a creature type in common.",,,mythic,TLA,Avatar: The Last Airbender,330,,,,"B,G,R,U,W",,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+White Mage's Staff,{1}{W},2.0,Artifact — Equipment,"Job select (When this Equipment enters, create a 1/1 colorless Hero creature token, then attach this to it.)
+Equipped creature gets +1/+1, has ""Whenever this creature attacks, you gain 1 life,"" and is a Cleric in addition to its other types.
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",W,W,common,FIN,Final Fantasy,42,,,,,Job select;Equip,lifegain;pump;token;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Wishclaw Talisman,{1}{B},2.0,Artifact,"This artifact enters with three wish counters on it.
+{1}, {T}, Remove a wish counter from this artifact: Search your library for a card, put it into your hand, then shuffle. An opponent gains control of this artifact. Activate only during your turn.",B,B,rare,ELD,Throne of Eldraine,110,,,,,,tutor,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Wishing Well,{3}{U},4.0,Artifact,"{T}: Put a coin counter on this artifact. When you do, you may cast target instant or sorcery card with mana value equal to the number of coin counters on this artifact from your graveyard without paying its mana cost. If that spell would be put into your graveyard, exile it instead. Activate only as a sorcery.",U,U,rare,PBLB,Bloomburrow Promos,81p,,,,,,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+World Map,{1},1.0,Artifact,"{1}, {T}, Sacrifice this artifact: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+{3}, {T}, Sacrifice this artifact: Search your library for a land card, reveal it, put it into your hand, then shuffle.",,,common,FIN,Final Fantasy,270,,,,,,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Worldwalker Helm,{2}{U},3.0,Artifact,"If you would create one or more artifact tokens, instead create those tokens plus an additional Map token. (It's an artifact with ""{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery."")
+{1}{U}, {T}: Create a token that's a copy of target artifact token you control.",U,U,mythic,BIG,The Big Score,72,,,,,Explore,token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+Wrench,{W},1.0,Artifact — Clue Equipment,"Equipped creature gets +1/+1 and has vigilance and ""{3}, {T}: Tap target creature.""
+{2}, Sacrifice this Equipment: Draw a card.
+Equip {2}",W,W,uncommon,CLU,Ravnica: Clue Edition,7,,,,,Equip,draw;pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+Wurmwall Sweeper,{2},2.0,Artifact — Spacecraft,"When this Spacecraft enters, surveil 2.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 4+.)
+4+ | Flying",,,common,EOE,Edge of Eternities,249,2,2,,,Surveil;Station,surveil;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"

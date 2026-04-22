@@ -1,0 +1,20 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,produced_mana,keywords,tags,legal_formats
+Oakhollow Village,,0.0,Land,"{T}: Add {C}.
+{T}: Add {G}. Spend this mana only to cast a creature spell.
+{G}, {T}: Put a +1/+1 counter on each Frog, Rabbit, Raccoon, or Squirrel you control that entered the battlefield this turn.",,G,uncommon,BLB,Bloomburrow,258,,,,"C,G",,pump;ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Omashu City,,0.0,Land,"This land enters tapped.
+{T}: Add {R} or {G}.
+{4}, {T}, Sacrifice this land: Draw a card.",,"G,R",common,TLA,Avatar: The Last Airbender,275,,,,"G,R",,draw;ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Ominous Asylum,,0.0,Land,"This land enters tapped.
+{T}: Add {B} or {R}.
+{4}, {T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,"B,R",common,OM1,Through the Omenpaths,182,,,,"B,R",Surveil,ramp;surveil,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Opulent Palace,,0.0,Land,"This land enters tapped.
+{T}: Add {B}, {G}, or {U}.",,"B,G,U",uncommon,CM2,Commander Anthology Volume II,260,,,,"B,G,U",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Orzhov Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {W} or {B}.",,"B,W",common,GTC,Gatecrash,244,,,,"B,W",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Oscorp Industries,,0.0,Land,"This land enters tapped.
+When this land enters from a graveyard, you lose 2 life.
+{T}: Add {U}, {B}, or {R}.
+Mayhem (You may play this card from your graveyard if you discarded it this turn. Timing rules still apply.)",,"B,R,U",rare,SPM,Marvel's Spider-Man,182,,,,"B,R,U",Mayhem,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Overgrown Tomb,,0.0,Land — Swamp Forest,"({T}: Add {B} or {G}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"B,G",rare,RVR,Ravnica Remastered,407z,,,,"B,G",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel,predh"

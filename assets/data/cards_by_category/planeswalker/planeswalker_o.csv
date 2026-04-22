@@ -1,0 +1,6 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,produced_mana,keywords,tags,legal_formats
+"Oko, Lorwyn Liege // Oko, Shadowmoor Scion",,3.0,Legendary Planeswalker — Oko // Legendary Planeswalker — Oko,,,"G,U",mythic,ECL,Lorwyn Eclipsed,61,,,,,Transform;Mill,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+"Oko, the Ringleader",{2}{G}{U},4.0,Legendary Planeswalker — Oko,"At the beginning of combat on your turn, Oko becomes a copy of up to one target creature you control until end of turn, except he has hexproof.
++1: Draw two cards. If you've committed a crime this turn, discard a card. Otherwise, discard two cards.
+−1: Create a 3/3 green Elk creature token.
+−5: For each other nonland permanent you control, create a token that's a copy of that permanent.","G,U","G,U",mythic,OTJ,Outlaws of Thunder Junction,305,,,3,,,draw;protection;token;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"

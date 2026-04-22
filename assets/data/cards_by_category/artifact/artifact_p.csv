@@ -1,0 +1,49 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,produced_mana,keywords,tags,legal_formats
+Paladin's Arms,{2}{W},3.0,Artifact — Equipment,"Job select (When this Equipment enters, create a 1/1 colorless Hero creature token, then attach this to it.)
+Equipped creature gets +2/+1, has ward {1}, and is a Knight in addition to its other types.
+Lightbringer and Hero's Shield — Equip {4} ({4}: Attach to target creature you control. Equip only as a sorcery.)",W,W,common,FIN,Final Fantasy,28,,,,,Job select;Equip,protection;pump;token;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Passenger Ferry,{3},3.0,Artifact — Vehicle,"Whenever this Vehicle attacks, you may pay {U}. When you do, another target attacking creature can't be blocked this turn.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)",,U,common,SPM,Marvel's Spider-Man,170,4,3,,,Crew,tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Patchwork Banner,{3},3.0,Artifact,"As this artifact enters, choose a creature type.
+Creatures you control of the chosen type get +1/+1.
+{T}: Add one mana of any color.",,,rare,PMEI,Media and Collaboration Promos,2024-7,,,,"B,G,R,U,W",,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Perilous Snare,{2}{W},3.0,Artifact,"Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+When this artifact enters, exile target nonland permanent an opponent controls until this artifact leaves the battlefield.
+Max speed — {T}: Put a +1/+1 counter on target creature or Vehicle you control. Activate only as a sorcery.",W,W,rare,DFT,Aetherdrift,23,,,,,Max speed;Start your engines!,pump;removal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Peter Parker's Camera,{1},1.0,Artifact,"This artifact enters with three film counters on it.
+{2}, {T}, Remove a film counter from this artifact: Copy target activated or triggered ability you control. You may choose new targets for the copy.",,,rare,SPM,Marvel's Spider-Man,171,,,,,,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Phantom Train,{3}{B},4.0,Artifact — Vehicle,"Trample
+Sacrifice another artifact or creature: Put a +1/+1 counter on this Vehicle. It becomes a Spirit artifact creature in addition to its other types until end of turn.",B,B,uncommon,FIN,Final Fantasy,110,4,4,,,Trample,pump;trample;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Phoenix Down,{W},1.0,Artifact,"{1}{W}, {T}, Exile this artifact: Choose one —
+• Return target creature card with mana value 4 or less from your graveyard to the battlefield tapped.
+• Exile target Skeleton, Spirit, or Zombie.",W,W,uncommon,FIN,Final Fantasy,29,,,,,,bounce;removal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Phoenix Fleet Airship,{2}{B}{B},4.0,Artifact — Vehicle,"Flying
+At the beginning of your end step, if you sacrificed a permanent this turn, create a token that's a copy of this Vehicle.
+As long as you control eight or more permanents named Phoenix Fleet Airship, this Vehicle is an artifact creature.
+Crew 1",B,B,mythic,PTLA,Avatar: The Last Airbender Promos,114s,4,4,,,Flying;Crew,flying;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Pictures of Spider-Man,{2}{G},3.0,Artifact,"When this artifact enters, look at the top five cards of your library. You may reveal up to two creature cards from among them and put them into your hand. Put the rest on the bottom of your library in a random order.
+{1}, {T}, Sacrifice this artifact: Create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")",G,G,uncommon,OM1,Through the Omenpaths,99,,,,"B,G,R,U,W",Treasure,token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Pinnacle Kill-Ship,{7},7.0,Artifact — Spacecraft,"When this Spacecraft enters, it deals 10 damage to up to one target creature.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 7+.)
+7+ | Flying",,,common,EOE,Edge of Eternities,244,7,7,,,Station,tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Pinnacle Starcage,{1}{W}{W},3.0,Artifact,"When this artifact enters, exile all artifacts and creatures with mana value 2 or less until this artifact leaves the battlefield.
+{6}{W}{W}: Put each card exiled with this artifact into its owner's graveyard, then create a 2/2 colorless Robot artifact creature token for each card put into a graveyard this way. Sacrifice this artifact.",W,W,rare,EOE,Edge of Eternities,322,,,,,,token;wipe,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Pirate Hat,{1}{U},2.0,Artifact — Equipment,"Equipped creature gets +1/+1 and has ""Whenever this creature attacks, draw a card, then discard a card.""
+Equip Pirate {1}
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",U,U,common,LCI,The Lost Caverns of Ixalan,70,,,,,Equip,draw;pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,paupercommander,duel"
+Pirate's Cutlass,{3},3.0,Artifact — Equipment,"When this Equipment enters, attach it to target Pirate you control.
+Equipped creature gets +2/+1.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",,,common,JMP,Jumpstart,477,,,,,Equip,pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Planetarium of Wan Shi Tong,{6},6.0,Legendary Artifact,"{1}, {T}: Scry 2.
+Whenever you scry or surveil, look at the top card of your library. You may cast that card without paying its mana cost. Do this only once each turn. (Look at the card after you scry or surveil.)",,,mythic,PTLA,Avatar: The Last Airbender Promos,259s,,,,,Scry,scry,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Polygraph Orb,{4}{B},5.0,Artifact,"When this artifact enters, look at the top four cards of your library. Put two of them into your hand and the rest into your graveyard. You lose 2 life.
+{2}, {T}, Collect evidence 3: Each opponent loses 3 life unless they discard a card or sacrifice a creature. (To collect evidence 3, exile cards with total mana value 3 or greater from your graveyard.)",B,B,uncommon,MKM,Murders at Karlov Manor,99,,,,,Collect evidence,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+Possession Engine,{3}{U}{U},5.0,Artifact — Vehicle,"When this Vehicle enters, gain control of target creature an opponent controls for as long as you control this Vehicle. That creature can't attack or block for as long as you control this Vehicle.
+Crew 3",U,U,rare,PDFT,Aetherdrift Promos,54s,5,5,,,Crew,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Potioner's Trove,{3},3.0,Artifact,"{T}: Add one mana of any color.
+{T}: You gain 2 life. Activate only if you've cast an instant or sorcery spell this turn.",,,common,SOS,Secrets of Strixhaven,251,,,,"B,G,R,U,W",,lifegain,"standard,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Prophetic Prism,{2},2.0,Artifact,"When this artifact enters, draw a card.
+{1}, {T}: Add one mana of any color.",,,common,KLD,Kaladesh,229,,,,"B,G,R,U,W",,draw,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,paupercommander,duel,predh"
+Puca's Eye,{2},2.0,Artifact,"When this artifact enters, draw a card, then choose a color. This artifact becomes the chosen color.
+{3}, {T}: Draw a card. Activate only if there are five colors among permanents you control.",,,uncommon,ECL,Lorwyn Eclipsed,259,,,,,,draw,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Pyromancer's Goggles,{5},5.0,Legendary Artifact,"{T}: Add {R}. When that mana is spent to cast a red instant or sorcery spell, copy that spell and you may choose new targets for the copy.",,R,mythic,C21,Commander 2021,259,,,,R,,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"

@@ -1,0 +1,53 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,produced_mana,keywords,tags,legal_formats
+A Killer Among Us,{4}{G},5.0,Enchantment,"When this enchantment enters, create a 1/1 white Human creature token, a 1/1 blue Merfolk creature token, and a 1/1 red Goblin creature token. Then secretly choose Human, Merfolk, or Goblin.
+Sacrifice this enchantment, Reveal the creature type you chose: If target attacking creature token is the chosen type, put three +1/+1 counters on it and it gains deathtouch until end of turn.",G,G,uncommon,MKM,Murders at Karlov Manor,167,,,,,,pump;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"
+A Realm Reborn,{4}{G}{G},6.0,Enchantment,"Other permanents you control have ""{T}: Add one mana of any color.""",G,G,rare,FIN,Final Fantasy,566,,,,"B,G,R,U,W",,tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+A Tale for the Ages,{1}{W},2.0,Enchantment,Enchanted creatures you control get +2/+2.,W,W,rare,PWOE,Wilds of Eldraine Promos,34s,,,,,,tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+Aang's Iceberg,{2}{W},3.0,Enchantment,"Flash
+When this enchantment enters, exile up to one other target nonland permanent until this enchantment leaves the battlefield.
+Waterbend {3}: Sacrifice this enchantment. If you do, scry 2. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)",W,W,rare,TLA,Avatar: The Last Airbender,336,,,,,Flash;Waterbend;Scry,flash;scry;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Additive Evolution,{3}{G}{G},5.0,Enchantment,"When this enchantment enters, create a 0/0 green and blue Fractal creature token. Put three +1/+1 counters on it.
+At the beginning of combat on your turn, put a +1/+1 counter on target creature you control. It gains vigilance until end of turn.",G,G,uncommon,SOS,Secrets of Strixhaven,139,,,,,,pump;token,"standard,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Air Nomad Legacy,{W}{U},2.0,Enchantment,"When this enchantment enters, create a Clue token. (It's an artifact with ""{2}, Sacrifice this token: Draw a card."")
+Creatures you control with flying get +1/+1.","U,W","U,W",uncommon,TLA,Avatar: The Last Airbender,206,,,,,,draw;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Airbender Ascension,{1}{W},2.0,Enchantment,"When this enchantment enters, airbend up to one target creature.
+Whenever a creature you control enters, put a quest counter on this enchantment.
+At the beginning of your end step, if this enchantment has four or more quest counters on it, exile up to one target creature you control, then return it to the battlefield under its owner's control.",W,W,rare,PTLA,Avatar: The Last Airbender Promos,6s,,,,,Airbend,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Airtight Alibi,{2}{G},3.0,Enchantment — Aura,"Flash
+Enchant creature
+When this Aura enters, untap enchanted creature. It gains hexproof until end of turn. If it's suspected, it's no longer suspected.
+Enchanted creature gets +2/+2 and can't become suspected.",G,G,common,MKM,Murders at Karlov Manor,149,,,,,Enchant;Flash,flash;protection;pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,paupercommander,duel"
+Alien Symbiosis,{1}{B},2.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets +1/+1, has menace, and is a Symbiote in addition to its other types.
+You may cast this card from your graveyard by discarding a card in addition to paying its other costs.",B,B,uncommon,SPM,Marvel's Spider-Man,50,,,,,Enchant,pump;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+All-Out Assault,{2}{R}{W}{B},5.0,Enchantment,"Creatures you control get +1/+1 and have deathtouch.
+When this enchantment enters, if it's your main phase, there is an additional combat phase after this phase followed by an additional main phase. When you next attack this turn, untap each creature you control.","B,R,W","B,R,W",mythic,PTDM,Tarkir: Dragonstorm Promos,167s,,,,,,tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Angelic Destiny,{2}{W}{W},4.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets +4/+4, has flying and first strike, and is an Angel in addition to its other types.
+When enchanted creature dies, return this card to its owner's hand.",W,W,mythic,FDN,Foundations,565,,,,,Enchant,pump;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Annie Joins Up,{1}{R}{G}{W},4.0,Legendary Enchantment,"When Annie Joins Up enters, it deals 5 damage to target creature or planeswalker an opponent controls.
+If a triggered ability of a legendary creature you control triggers, that ability triggers an additional time.","G,R,W","G,R,W",rare,OTJ,Outlaws of Thunder Junction,191,,,,,,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+Anthem of Champions,{G}{W},2.0,Enchantment,Creatures you control get +1/+1.,"G,W","G,W",rare,PFDN,Foundations Promos,116s,,,,,,tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Aquitect's Defenses,{1}{U},2.0,Enchantment — Aura,"Flash
+Enchant creature you control
+When this Aura enters, enchanted creature gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)
+Enchanted creature gets +1/+2.",U,U,common,ECL,Lorwyn Eclipsed,44,,,,,Enchant;Flash,flash;protection;pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Artist's Talent,{1}{R},2.0,Enchantment — Class,"(Gain the next level as a sorcery to add its ability.)
+Whenever you cast a noncreature spell, you may discard a card. If you do, draw a card.
+{2}{R}: Level 2
+Noncreature spells you cast cost {1} less to cast.
+{2}{R}: Level 3
+If a source you control would deal noncombat damage to an opponent or a permanent an opponent controls, it deals that much damage plus 2 instead.",R,R,rare,PBLB,Bloomburrow Promos,124p,,,,,,draw;removal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Assemble the Players,{1}{W},2.0,Enchantment,"You may look at the top card of your library any time.
+Once each turn, you may cast a creature spell with power 2 or less from the top of your library.",W,W,rare,PMKM,Murders at Karlov Manor Promos,3p,,,,,,mill,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+At Knifepoint,{1}{B}{R},3.0,Enchantment,"During your turn, outlaws you control have first strike. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)
+Whenever you commit a crime, create a 1/1 red Mercenary creature token with ""{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery."" This ability triggers only once each turn.","B,R","B,R",uncommon,OTJ,Outlaws of Thunder Junction,193,,,,,,pump;token;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"
+Authority of the Consuls,{W},1.0,Enchantment,"Creatures your opponents control enter tapped.
+Whenever a creature an opponent controls enters, you gain 1 life.",W,W,rare,PKLD,Kaladesh Promos,5s,,,,,,lifegain,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Avatar Destiny,{2}{G}{G},4.0,Enchantment — Aura,"Enchant creature you control
+Enchanted creature gets +1/+1 for each creature card in your graveyard and is an Avatar in addition to its other types.
+When enchanted creature dies, mill cards equal to its power. Return this card to its owner's hand and up to one creature card milled this way to the battlefield under your control.",G,G,rare,TLA,Avatar: The Last Airbender,333,,,,,Enchant;Mill,mill;pump;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Awaken the Honored Dead,{B}{G}{U},3.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Destroy target nonland permanent.
+II — Mill three cards.
+III — You may discard a card. When you do, return target creature or land card from your graveyard to your hand.","B,G,U","B,G,U",rare,TDM,Tarkir: Dragonstorm,170,,,,,Mill,bounce;mill;removal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"

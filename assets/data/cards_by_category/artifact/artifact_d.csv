@@ -1,0 +1,59 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,produced_mana,keywords,tags,legal_formats
+Dark Knight's Greatsword,{2}{B},3.0,Artifact — Equipment,"Job select (When this Equipment enters, create a 1/1 colorless Hero creature token, then attach this to it.)
+Equipped creature gets +3/+0 and is a Knight in addition to its other types.
+Chaosbringer — Equip—Pay 3 life. Activate only once each turn.",B,B,uncommon,FIN,Final Fantasy,95,,,,,Chaosbringer;Job select;Equip,pump;token;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Dawn-Blessed Pennant,{1},1.0,Artifact,"As this artifact enters, choose Elemental, Elf, Faerie, Giant, Goblin, Kithkin, Merfolk, or Treefolk.
+Whenever a permanent you control of the chosen type enters, you gain 1 life.
+{2}, {T}, Sacrifice this artifact: Return target card of the chosen type from your graveyard to your hand.",,,uncommon,ECL,Lorwyn Eclipsed,254,,,,,,bounce;lifegain,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+"Dawnsire, Sunstar Dreadnought",{5},5.0,Legendary Artifact — Spacecraft,"Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 20+.)
+10+ | Whenever you attack, Dawnsire deals 100 damage to up to one target creature or planeswalker.
+20+ | Flying",,,mythic,EOE,Edge of Eternities,238,20,20,,,Station,tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Debris Beetle,{2}{B}{G},4.0,Artifact — Vehicle,"Trample
+When this Vehicle enters, each opponent loses 3 life and you gain 3 life.
+Crew 2","B,G","B,G",rare,PDFT,Aetherdrift Promos,199s,6,6,,,Crew;Trample,lifegain;trample,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Debris Field Crusher,{4}{R},5.0,Artifact — Spacecraft,"When this Spacecraft enters, it deals 3 damage to any target.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 8+.)
+8+ | Flying
+{1}{R}: This Spacecraft gets +2/+0 until end of turn.",R,R,uncommon,EOE,Edge of Eternities,131,1,5,,,Station,pump;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Deconstruction Hammer,{W},1.0,Artifact — Equipment,"Equipped creature gets +1/+1 and has ""{3}, {T}, Sacrifice Deconstruction Hammer: Destroy target artifact or enchantment.""
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",W,W,common,LCI,The Lost Caverns of Ixalan,9,,,,,Equip,pump;removal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,paupercommander,duel"
+Demonic Junker,{6}{B},7.0,Artifact — Vehicle,"Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+When this Vehicle enters, for each player, destroy up to one target creature that player controls. If a creature you controlled was destroyed this way, put two +1/+1 counters on this Vehicle.
+Crew 2",B,B,rare,DFT,Aetherdrift,83,4,3,,,Affinity;Crew,pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Detective's Satchel,{2}{U}{R},4.0,Artifact,"When this artifact enters, investigate twice. (To investigate, create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")
+{T}: Create a 1/1 colorless Thopter artifact creature token with flying. Activate only if you've sacrificed an artifact this turn.","R,U","R,U",uncommon,MKM,Murders at Karlov Manor,196,,,,,Investigate,draw;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"
+Detention Chariot,{4}{W}{W},6.0,Artifact — Vehicle,"When this Vehicle enters, exile target artifact or creature an opponent controls until this Vehicle leaves the battlefield.
+Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)
+Cycling {W} ({W}, Discard this card: Draw a card.)",W,W,uncommon,DFT,Aetherdrift,294,6,6,,,Crew;Cycling,draw;removal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Diamond Pick-Axe,{R},1.0,Artifact — Equipment,"Indestructible (Effects that say ""destroy"" don't destroy this Equipment.)
+Equipped creature gets +1/+1 and has ""Whenever this creature attacks, create a Treasure token."" (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")
+Equip {2}",R,R,uncommon,LCI,The Lost Caverns of Ixalan,143,,,,"B,G,R,U,W",Indestructible;Treasure;Equip,protection;pump;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"
+Diary of Dreams,{2},2.0,Artifact — Book,"Whenever you cast an instant or sorcery spell, put a page counter on this artifact.
+{5}, {T}: Draw a card. This ability costs {1} less to activate for each page counter on this artifact.",,,uncommon,SOS,Secrets of Strixhaven,248,,,,,,draw,"standard,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Dire Flail // Dire Blunderbuss,,1.0,Artifact — Equipment // Artifact — Equipment,,,R,rare,LCI,The Lost Caverns of Ixalan,145,,,,,Craft;Transform;Equip,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+Dissection Tools,{5},5.0,Artifact — Equipment,"When this Equipment enters, manifest dread, then attach this Equipment to that creature.
+Equipped creature gets +2/+2 and has deathtouch and lifelink.
+Equip—Sacrifice a creature.",,,rare,PDSK,Duskmourn: House of Horror Promos,245s,,,,,Manifest;Manifest dread;Equip,lifegain;pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Doc Ock's Tentacles,{1},1.0,Artifact — Equipment,"Whenever a creature you control with mana value 5 or greater enters, you may attach this Equipment to it.
+Equipped creature gets +4/+4.
+Equip {5}",,,rare,OM1,Through the Omenpaths,167,,,,,Equip,pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Dowsing Device // Geode Grotto,,2.0,Artifact // Land — Cave,,,R,uncommon,LCI,The Lost Caverns of Ixalan,146,,,,R,Transform,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"
+Dragonbroods' Relic,{1}{G},2.0,Artifact,"{T}, Tap an untapped creature you control: Add one mana of any color.
+{3}{W}{U}{B}{R}{G}, Sacrifice this artifact: Create a 4/4 Dragon creature token named Reliquary Dragon that's all colors. It has flying, lifelink, and ""When this token enters, it deals 3 damage to any target."" Activate only as a sorcery.",G,"B,G,R,U,W",uncommon,TDM,Tarkir: Dragonstorm,140,,,,"B,G,R,U,W",,lifegain;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Dragonfire Blade,{1},1.0,Artifact — Equipment,"Equipped creature gets +2/+2 and has hexproof from monocolored.
+Equip {4}. This ability costs {1} less to activate for each color of the creature it targets.",,,rare,TDM,Tarkir: Dragonstorm,240,,,,,Equip,protection;pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Dragonstorm Globe,{3},3.0,Artifact,"Each Dragon you control enters with an additional +1/+1 counter on it.
+{T}: Add one mana of any color.",,,common,TDM,Tarkir: Dragonstorm,241,,,,"B,G,R,U,W",,pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Dragoon's Lance,{1}{W},2.0,Artifact — Equipment,"Job select (When this Equipment enters, create a 1/1 colorless Hero creature token, then attach this to it.)
+Equipped creature gets +1/+0 and is a Knight in addition to its other types.
+During your turn, equipped creature has flying.
+Gae Bolg — Equip {4}",W,W,uncommon,FIN,Final Fantasy,17,,,,,Gae Bolg;Job select;Equip,pump;token;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Dubious Delicacy,{2}{B},3.0,Artifact — Food,"Flash
+When this artifact enters, up to one target creature gets -3/-3 until end of turn.
+{2}, {T}, Sacrifice this artifact: You gain 3 life.
+{2}, {T}, Sacrifice this artifact: Target opponent loses 3 life.",B,B,uncommon,EOE,Edge of Eternities,96,,,,,Flash,flash;lifegain,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Dune Drifter,{X}{W}{B},2.0,Artifact — Vehicle,"When this Vehicle enters, return target artifact or creature card with mana value X or less from your graveyard to the battlefield.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)","B,W","B,W",uncommon,DFT,Aetherdrift,200,3,3,,,Crew,bounce,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Dusk Rose Reliquary,{W},1.0,Artifact,"As an additional cost to cast this spell, sacrifice an artifact or creature.
+Ward {2}
+When this artifact enters, exile target artifact or creature an opponent controls until this artifact leaves the battlefield.",W,W,uncommon,LCI,The Lost Caverns of Ixalan,10,,,,,Ward,protection;removal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"

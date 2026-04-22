@@ -1,0 +1,474 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+"Taigam, Master Opportunist",{1}{U},2.0,Legendary Creature — Human Monk,"Flurry — Whenever you cast your second spell each turn, copy it, then exile the spell you cast with four time counters on it. If it doesn't have suspend, it gains suspend. (At the beginning of its owner's upkeep, they remove a time counter. When the last is removed, they may play it without paying its mana cost. If it's a creature, it has haste.)",U,U,mythic,TDM,Tarkir: Dragonstorm,335,2,2,,Flurry
+"Taigam, Master Opportunist",{1}{U},2.0,Legendary Creature — Human Monk,"Flurry — Whenever you cast your second spell each turn, copy it, then exile the spell you cast with four time counters on it. If it doesn't have suspend, it gains suspend. (At the beginning of its owner's upkeep, they remove a time counter. When the last is removed, they may play it without paying its mana cost. If it's a creature, it has haste.)",U,U,mythic,PTDM,Tarkir: Dragonstorm Promos,60p,2,2,,Flurry
+"Taigam, Master Opportunist",{1}{U},2.0,Legendary Creature — Human Monk,"Flurry — Whenever you cast your second spell each turn, copy it, then exile the spell you cast with four time counters on it. If it doesn't have suspend, it gains suspend. (At the beginning of its owner's upkeep, they remove a time counter. When the last is removed, they may play it without paying its mana cost. If it's a creature, it has haste.)",U,U,mythic,TDM,Tarkir: Dragonstorm,60,2,2,,Flurry
+"Taigam, Master Opportunist",{1}{U},2.0,Legendary Creature — Human Monk,"Flurry — Whenever you cast your second spell each turn, copy it, then exile the spell you cast with four time counters on it. If it doesn't have suspend, it gains suspend. (At the beginning of its owner's upkeep, they remove a time counter. When the last is removed, they may play it without paying its mana cost. If it's a creature, it has haste.)",U,U,mythic,PTDM,Tarkir: Dragonstorm Promos,60s,2,2,,Flurry
+"Taii Wakeen, Perfect Shot",{R}{W},2.0,Legendary Creature — Human Mercenary,"Whenever a source you control deals noncombat damage to a creature equal to that creature's toughness, draw a card.
+{X}, {T}: If a source you control would deal noncombat damage to a permanent or player this turn, it deals that much damage plus X instead.","R,W","R,W",rare,OTJ,Outlaws of Thunder Junction,234,2,3,,
+"Taii Wakeen, Perfect Shot",{R}{W},2.0,Legendary Creature — Human Mercenary,"Whenever a source you control deals noncombat damage to a creature equal to that creature's toughness, draw a card.
+{X}, {T}: If a source you control would deal noncombat damage to a permanent or player this turn, it deals that much damage plus X instead.","R,W","R,W",rare,OTJ,Outlaws of Thunder Junction,365,2,3,,
+"Taii Wakeen, Perfect Shot",{R}{W},2.0,Legendary Creature — Human Mercenary,"Whenever a source you control deals noncombat damage to a creature equal to that creature's toughness, draw a card.
+{X}, {T}: If a source you control would deal noncombat damage to a permanent or player this turn, it deals that much damage plus X instead.","R,W","R,W",rare,POTJ,Outlaws of Thunder Junction Promos,234s,2,3,,
+"Taii Wakeen, Perfect Shot",{R}{W},2.0,Legendary Creature — Human Mercenary,"Whenever a source you control deals noncombat damage to a creature equal to that creature's toughness, draw a card.
+{X}, {T}: If a source you control would deal noncombat damage to a permanent or player this turn, it deals that much damage plus X instead.","R,W","R,W",rare,POTJ,Outlaws of Thunder Junction Promos,234p,2,3,,
+Tajuru Pathwarden,{4}{G},5.0,Creature — Elf Warrior Ally,"Vigilance (Attacking doesn't cause this creature to tap.)
+Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)",G,G,common,J21,Jumpstart: Historic Horizons,650,5,4,,Vigilance;Trample
+Tajuru Pathwarden,{4}{G},5.0,Creature — Elf Warrior Ally,"Vigilance (Attacking doesn't cause this creature to tap.)
+Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)",G,G,common,PLST,The List,OGW-145,5,4,,Vigilance;Trample
+Tajuru Pathwarden,{4}{G},5.0,Creature — Elf Warrior Ally,"Vigilance (Attacking doesn't cause this creature to tap.)
+Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)",G,G,common,J25,Foundations Jumpstart,722,5,4,,Vigilance;Trample
+Tajuru Pathwarden,{4}{G},5.0,Creature — Elf Warrior Ally,"Vigilance (Attacking doesn't cause this creature to tap.)
+Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)",G,G,common,OGW,Oath of the Gatewatch,145,5,4,,Vigilance;Trample
+Tajuru Pathwarden,{4}{G},5.0,Creature — Elf Warrior Ally,"Vigilance (Attacking doesn't cause this creature to tap.)
+Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)",G,G,common,FDN,Foundations,558,5,4,,Vigilance;Trample
+Talion's Messenger,{2}{U},3.0,Creature — Faerie Noble,"Flying
+Whenever you attack with one or more Faeries, draw a card, then discard a card. When you discard a card this way, put a +1/+1 counter on target Faerie you control.",U,U,rare,WOE,Wilds of Eldraine,73,1,3,,Flying
+Talion's Messenger,{2}{U},3.0,Creature — Faerie Noble,"Flying
+Whenever you attack with one or more Faeries, draw a card, then discard a card. When you discard a card this way, put a +1/+1 counter on target Faerie you control.",U,U,rare,PWOE,Wilds of Eldraine Promos,73p,1,3,,Flying
+Talion's Messenger,{2}{U},3.0,Creature — Faerie Noble,"Flying
+Whenever you attack with one or more Faeries, draw a card, then discard a card. When you discard a card this way, put a +1/+1 counter on target Faerie you control.",U,U,rare,WOE,Wilds of Eldraine,335,1,3,,Flying
+Talion's Messenger,{2}{U},3.0,Creature — Faerie Noble,"Flying
+Whenever you attack with one or more Faeries, draw a card, then discard a card. When you discard a card this way, put a +1/+1 counter on target Faerie you control.",U,U,rare,PWOE,Wilds of Eldraine Promos,73s,1,3,,Flying
+"Talion, the Kindly Lord",{2}{U}{B},4.0,Legendary Creature — Faerie Noble,"Flying
+As Talion enters, choose a number between 1 and 10.
+Whenever an opponent casts a spell with mana value, power, or toughness equal to the chosen number, that player loses 2 life and you draw a card.","B,U","B,U",mythic,PWOE,Wilds of Eldraine Promos,215s,3,4,,Flying
+"Talion, the Kindly Lord",{2}{U}{B},4.0,Legendary Creature — Faerie Noble,"Flying
+As Talion enters, choose a number between 1 and 10.
+Whenever an opponent casts a spell with mana value, power, or toughness equal to the chosen number, that player loses 2 life and you draw a card.","B,U","B,U",mythic,WOE,Wilds of Eldraine,215,3,4,,Flying
+"Talion, the Kindly Lord",{2}{U}{B},4.0,Legendary Creature — Faerie Noble,"Flying
+As Talion enters, choose a number between 1 and 10.
+Whenever an opponent casts a spell with mana value, power, or toughness equal to the chosen number, that player loses 2 life and you draw a card.","B,U","B,U",mythic,PWOE,Wilds of Eldraine Promos,215p,3,4,,Flying
+"Talion, the Kindly Lord",{2}{U}{B},4.0,Legendary Creature — Faerie Noble,"Flying
+As Talion enters, choose a number between 1 and 10.
+Whenever an opponent casts a spell with mana value, power, or toughness equal to the chosen number, that player loses 2 life and you draw a card.","B,U","B,U",mythic,WOE,Wilds of Eldraine,301,3,4,,Flying
+"Tam, Mindful First-Year",{1}{G/U},2.0,Legendary Creature — Gorgon Wizard,"Each other creature you control has hexproof from each of its colors.
+{T}: Target creature you control becomes all colors until end of turn.","G,U","G,U",rare,PECL,Lorwyn Eclipsed Promos,245p,2,2,,
+"Tam, Mindful First-Year",{1}{G/U},2.0,Legendary Creature — Gorgon Wizard,"Each other creature you control has hexproof from each of its colors.
+{T}: Target creature you control becomes all colors until end of turn.","G,U","G,U",rare,ECL,Lorwyn Eclipsed,245,2,2,,
+"Tam, Mindful First-Year",{1}{G/U},2.0,Legendary Creature — Gorgon Wizard,"Each other creature you control has hexproof from each of its colors.
+{T}: Target creature you control becomes all colors until end of turn.","G,U","G,U",rare,ECL,Lorwyn Eclipsed,380,2,2,,
+Tangled Colony,{1}{B},2.0,Creature — Rat,"This creature can't block.
+When this creature dies, create X 1/1 black Rat creature tokens with ""This token can't block,"" where X is the amount of damage dealt to it this turn.",B,B,rare,PWOE,Wilds of Eldraine Promos,113s,3,2,,
+Tangled Colony,{1}{B},2.0,Creature — Rat,"This creature can't block.
+When this creature dies, create X 1/1 black Rat creature tokens with ""This token can't block,"" where X is the amount of damage dealt to it this turn.",B,B,rare,WOE,Wilds of Eldraine,344,3,2,,
+Tangled Colony,{1}{B},2.0,Creature — Rat,"This creature can't block.
+When this creature dies, create X 1/1 black Rat creature tokens with ""This token can't block,"" where X is the amount of damage dealt to it this turn.",B,B,rare,WOE,Wilds of Eldraine,113,3,2,,
+Tangled Colony,{1}{B},2.0,Creature — Rat,"This creature can't block.
+When this creature dies, create X 1/1 black Rat creature tokens with ""This token can't block,"" where X is the amount of damage dealt to it this turn.",B,B,rare,PWOE,Wilds of Eldraine Promos,113p,3,2,,
+Tanglespan Lookout,{2}{G},3.0,Creature — Satyr,"Whenever an Aura you control enters, draw a card.",G,G,uncommon,WOE,Wilds of Eldraine,188,2,3,,
+Tanglespan Lookout,{2}{G},3.0,Creature — Satyr,"Whenever an Aura you control enters, draw a card.",G,G,uncommon,WOE,Wilds of Eldraine,379,2,3,,
+"Tannuk, Memorial Ensign",{1}{R}{G},3.0,Legendary Creature — Kavu Pilot,"Landfall — Whenever a land you control enters, Tannuk deals 1 damage to each opponent. If this is the second time this ability has resolved this turn, draw a card.","G,R","G,R",uncommon,EOE,Edge of Eternities,233,2,4,,Landfall
+"Tannuk, Steadfast Second",{2}{R}{R},4.0,Legendary Creature — Kavu Pilot,"Other creatures you control have haste.
+Artifact cards and red creature cards in your hand have warp {2}{R}. (You may cast a card from your hand for its warp cost. Exile that permanent at the beginning of the next end step, then you may cast it from exile on a later turn.)",R,R,mythic,EOE,Edge of Eternities,162,3,5,,
+"Tannuk, Steadfast Second",{2}{R}{R},4.0,Legendary Creature — Kavu Pilot,"Other creatures you control have haste.
+Artifact cards and red creature cards in your hand have warp {2}{R}. (You may cast a card from your hand for its warp cost. Exile that permanent at the beginning of the next end step, then you may cast it from exile on a later turn.)",R,R,mythic,EOE,Edge of Eternities,296,3,5,,
+"Tannuk, Steadfast Second",{2}{R}{R},4.0,Legendary Creature — Kavu Pilot,"Other creatures you control have haste.
+Artifact cards and red creature cards in your hand have warp {2}{R}. (You may cast a card from your hand for its warp cost. Exile that permanent at the beginning of the next end step, then you may cast it from exile on a later turn.)",R,R,mythic,PEOE,Edge of Eternities Promos,162s,3,5,,
+"Tannuk, Steadfast Second",{2}{R}{R},4.0,Legendary Creature — Kavu Pilot,"Other creatures you control have haste.
+Artifact cards and red creature cards in your hand have warp {2}{R}. (You may cast a card from your hand for its warp cost. Exile that permanent at the beginning of the next end step, then you may cast it from exile on a later turn.)",R,R,mythic,PEOE,Edge of Eternities Promos,162p,3,5,,
+Tanufel Rimespeaker,{3}{U},4.0,Creature — Elemental Wizard,"Whenever you cast a spell with mana value 4 or greater, draw a card.",U,U,uncommon,ECL,Lorwyn Eclipsed,77,2,4,,
+Tapestry Warden,{3}{G},4.0,Artifact Creature — Robot Soldier,"Vigilance
+Each creature you control with toughness greater than its power assigns combat damage equal to its toughness rather than its power.
+Each creature you control with toughness greater than its power stations permanents using its toughness rather than its power.",G,G,uncommon,EOE,Edge of Eternities,209,3,4,,Vigilance
+Taster of Wares,{2}{B},3.0,Creature — Goblin Warlock,"When this creature enters, target opponent reveals X cards from their hand, where X is the number of Goblins you control. You choose one of those cards. That player exiles it. If an instant or sorcery card is exiled this way, you may cast it for as long as you control this creature, and mana of any type can be spent to cast that spell.",B,B,rare,ECL,Lorwyn Eclipsed,314,3,2,,
+Taster of Wares,{2}{B},3.0,Creature — Goblin Warlock,"When this creature enters, target opponent reveals X cards from their hand, where X is the number of Goblins you control. You choose one of those cards. That player exiles it. If an instant or sorcery card is exiled this way, you may cast it for as long as you control this creature, and mana of any type can be spent to cast that spell.",B,B,rare,PECL,Lorwyn Eclipsed Promos,121p,3,2,,
+Taster of Wares,{2}{B},3.0,Creature — Goblin Warlock,"When this creature enters, target opponent reveals X cards from their hand, where X is the number of Goblins you control. You choose one of those cards. That player exiles it. If an instant or sorcery card is exiled this way, you may cast it for as long as you control this creature, and mana of any type can be spent to cast that spell.",B,B,rare,ECL,Lorwyn Eclipsed,121,3,2,,
+Tattered Ratter,{1}{R},2.0,Creature — Human Peasant,"Whenever a Rat you control becomes blocked, it gets +2/+0 until end of turn.",R,R,uncommon,WOE,Wilds of Eldraine,152,2,2,,
+"Tatyova, Benthic Druid",{3}{G}{U},5.0,Legendary Creature — Merfolk Druid,"Landfall — Whenever a land you control enters, you gain 1 life and draw a card.","G,U","G,U",uncommon,DSC,Duskmourn: House of Horror Commander,235,3,3,,Landfall
+"Tatyova, Benthic Druid",{3}{G}{U},5.0,Legendary Creature — Merfolk Druid,"Landfall — Whenever a land you control enters, you gain 1 life and draw a card.","G,U","G,U",uncommon,M3C,Modern Horizons 3 Commander,273,3,3,,Landfall
+"Tatyova, Benthic Druid",{3}{G}{U},5.0,Legendary Creature — Merfolk Druid,"Landfall — Whenever a land you control enters, you gain 1 life and draw a card.","G,U","G,U",uncommon,CMM,Commander Masters,687,3,3,,Landfall
+"Tatyova, Benthic Druid",{3}{G}{U},5.0,Legendary Creature — Merfolk Druid,"Landfall — Whenever a land you control enters, you gain 1 life and draw a card.","G,U","G,U",uncommon,PDOM,Dominaria Promos,206s,3,3,,Landfall
+"Tatyova, Benthic Druid",{3}{G}{U},5.0,Legendary Creature — Merfolk Druid,"Landfall — Whenever a land you control enters, you gain 1 life and draw a card.","G,U","G,U",uncommon,PLST,The List,DOM-206,3,3,,Landfall
+"Tatyova, Benthic Druid",{3}{G}{U},5.0,Legendary Creature — Merfolk Druid,"Landfall — Whenever a land you control enters, you gain 1 life and draw a card.","G,U","G,U",uncommon,DOM,Dominaria,206,3,3,,Landfall
+"Tatyova, Benthic Druid",{3}{G}{U},5.0,Legendary Creature — Merfolk Druid,"Landfall — Whenever a land you control enters, you gain 1 life and draw a card.","G,U","G,U",uncommon,DMR,Dominaria Remastered,203,3,3,,Landfall
+"Tatyova, Benthic Druid",{3}{G}{U},5.0,Legendary Creature — Merfolk Druid,"Landfall — Whenever a land you control enters, you gain 1 life and draw a card.","G,U","G,U",uncommon,CMM,Commander Masters,358,3,3,,Landfall
+"Tatyova, Benthic Druid",{3}{G}{U},5.0,Legendary Creature — Merfolk Druid,"Landfall — Whenever a land you control enters, you gain 1 life and draw a card.","G,U","G,U",uncommon,FDN,Foundations,247,3,3,,Landfall
+"Tatyova, Benthic Druid",{3}{G}{U},5.0,Legendary Creature — Merfolk Druid,"Landfall — Whenever a land you control enters, you gain 1 life and draw a card.","G,U","G,U",uncommon,DMR,Dominaria Remastered,371,3,3,,Landfall
+"Tatyova, Benthic Druid",{3}{G}{U},5.0,Legendary Creature — Merfolk Druid,"Landfall — Whenever a land you control enters, you gain 1 life and draw a card.","G,U","G,U",uncommon,LCC,The Lost Caverns of Ixalan Commander,290,3,3,,Landfall
+Taurean Mauler,{2}{R},3.0,Creature — Shapeshifter,"Changeling (This card is every creature type.)
+Whenever an opponent casts a spell, you may put a +1/+1 counter on this creature.",R,R,rare,ARC,Archenemy,49,2,2,,Changeling
+Taurean Mauler,{2}{R},3.0,Creature — Shapeshifter,"Changeling (This card is every creature type.)
+Whenever an opponent casts a spell, you may put a +1/+1 counter on this creature.",R,R,rare,TDC,Tarkir: Dragonstorm Commander,238,2,2,,Changeling
+Taurean Mauler,{2}{R},3.0,Creature — Shapeshifter,"Changeling (This card is every creature type.)
+Whenever an opponent casts a spell, you may put a +1/+1 counter on this creature.",R,R,rare,SLD,Secret Lair Drop,1899,2,2,,Changeling
+Taurean Mauler,{2}{R},3.0,Creature — Shapeshifter,"Changeling (This card is every creature type.)
+Whenever an opponent casts a spell, you may put a +1/+1 counter on this creature.",R,R,rare,PLST,The List,NEC-111,2,2,,Changeling
+Taurean Mauler,{2}{R},3.0,Creature — Shapeshifter,"Changeling (This card is every creature type.)
+Whenever an opponent casts a spell, you may put a +1/+1 counter on this creature.",R,R,rare,CM2,Commander Anthology Volume II,122,2,2,,Changeling
+Taurean Mauler,{2}{R},3.0,Creature — Shapeshifter,"Changeling (This card is every creature type.)
+Whenever an opponent casts a spell, you may put a +1/+1 counter on this creature.",R,R,rare,PLST,The List,MOR-109,2,2,,Changeling
+Taurean Mauler,{2}{R},3.0,Creature — Shapeshifter,"Changeling (This card is every creature type.)
+Whenever an opponent casts a spell, you may put a +1/+1 counter on this creature.",R,R,rare,NEC,Neon Dynasty Commander,111,2,2,,Changeling
+Taurean Mauler,{2}{R},3.0,Creature — Shapeshifter,"Changeling (This card is every creature type.)
+Whenever an opponent casts a spell, you may put a +1/+1 counter on this creature.",R,R,rare,C16,Commander 2016,135,2,2,,Changeling
+Taurean Mauler,{2}{R},3.0,Creature — Shapeshifter,"Changeling (This card is every creature type.)
+Whenever an opponent casts a spell, you may put a +1/+1 counter on this creature.",R,R,rare,C15,Commander 2015,167,2,2,,Changeling
+Taurean Mauler,{2}{R},3.0,Creature — Shapeshifter,"Changeling (This card is every creature type.)
+Whenever an opponent casts a spell, you may put a +1/+1 counter on this creature.",R,R,rare,MOR,Morningtide,109,2,2,,Changeling
+Taurean Mauler,{2}{R},3.0,Creature — Shapeshifter,"Changeling (This card is every creature type.)
+Whenever an opponent casts a spell, you may put a +1/+1 counter on this creature.",R,R,rare,HOP,Planechase,67,2,2,,Changeling
+Taurean Mauler,{2}{R},3.0,Creature — Shapeshifter,"Changeling (This card is every creature type.)
+Whenever an opponent casts a spell, you may put a +1/+1 counter on this creature.",R,R,rare,AFC,Forgotten Realms Commander,143,2,2,,Changeling
+Taurean Mauler,{2}{R},3.0,Creature — Shapeshifter,"Changeling (This card is every creature type.)
+Whenever an opponent casts a spell, you may put a +1/+1 counter on this creature.",R,R,rare,PLST,The List,CM2-122,2,2,,Changeling
+Taurean Mauler,{2}{R},3.0,Creature — Shapeshifter,"Changeling (This card is every creature type.)
+Whenever an opponent casts a spell, you may put a +1/+1 counter on this creature.",R,R,rare,FDN,Foundations,633,2,2,,Changeling
+Taxi Driver,{1}{R},2.0,Creature — Human Pilot,"{1}, {T}: Target creature gains haste until end of turn.",R,R,common,SPM,Marvel's Spider-Man,97,3,1,,
+Taxi Driver,{1}{R},2.0,Creature — Human Pilot,"{1}, {T}: Target creature gains haste until end of turn.",R,R,common,OM1,Through the Omenpaths,80,3,1,,
+Teapot Slinger,{3}{R},4.0,Creature — Raccoon Warrior,"Menace
+Whenever you expend 4, this creature deals 2 damage to each opponent. (You expend 4 as you spend your fourth total mana to cast spells during a turn.)",R,R,uncommon,BLB,Bloomburrow,157,3,4,,Menace
+Technodrome,{2},2.0,Artifact Creature — Construct,"Reach, trample
+This creature can't attack or block unless its power is 6 or greater.
+{T}, Sacrifice another artifact: Draw a card. Put a +1/+1 counter on this creature.",,,mythic,TMT,Teenage Mutant Ninja Turtles,179,3,3,,Reach;Trample
+Technodrome,{2},2.0,Artifact Creature — Construct,"Reach, trample
+This creature can't attack or block unless its power is 6 or greater.
+{T}, Sacrifice another artifact: Draw a card. Put a +1/+1 counter on this creature.",,,mythic,TMT,Teenage Mutant Ninja Turtles,222,3,3,,Reach;Trample
+"Tellah, Great Sage",{3}{U}{R},5.0,Legendary Creature — Human Wizard,"Whenever you cast a noncreature spell, create a 1/1 colorless Hero creature token. If four or more mana was spent to cast that spell, draw two cards. If eight or more mana was spent to cast that spell, sacrifice Tellah and it deals that much damage to each opponent.","R,U","R,U",rare,FIN,Final Fantasy,349,3,3,,
+"Tellah, Great Sage",{3}{U}{R},5.0,Legendary Creature — Human Wizard,"Whenever you cast a noncreature spell, create a 1/1 colorless Hero creature token. If four or more mana was spent to cast that spell, draw two cards. If eight or more mana was spent to cast that spell, sacrifice Tellah and it deals that much damage to each opponent.","R,U","R,U",rare,PFIN,Final Fantasy Promos,244s,3,3,,
+"Tellah, Great Sage",{3}{U}{R},5.0,Legendary Creature — Human Wizard,"Whenever you cast a noncreature spell, create a 1/1 colorless Hero creature token. If four or more mana was spent to cast that spell, draw two cards. If eight or more mana was spent to cast that spell, sacrifice Tellah and it deals that much damage to each opponent.","R,U","R,U",rare,FIN,Final Fantasy,244,3,3,,
+"Tellah, Great Sage",{3}{U}{R},5.0,Legendary Creature — Human Wizard,"Whenever you cast a noncreature spell, create a 1/1 colorless Hero creature token. If four or more mana was spent to cast that spell, draw two cards. If eight or more mana was spent to cast that spell, sacrifice Tellah and it deals that much damage to each opponent.","R,U","R,U",rare,FIN,Final Fantasy,510,3,3,,
+Tempest Angler,{1}{U/R}{U/R},3.0,Creature — Otter Wizard,"Whenever you cast a noncreature spell, put a +1/+1 counter on this creature.","R,U","R,U",common,BLB,Bloomburrow,235,2,2,,
+Tempest Djinn,{U}{U}{U},3.0,Creature — Djinn,"Flying
+This creature gets +1/+0 for each basic Island you control.",U,U,rare,DOM,Dominaria,68,0,4,,Flying
+Tempest Djinn,{U}{U}{U},3.0,Creature — Djinn,"Flying
+This creature gets +1/+0 for each basic Island you control.",U,U,rare,PDOM,Dominaria Promos,68p,0,4,,Flying
+Tempest Djinn,{U}{U}{U},3.0,Creature — Djinn,"Flying
+This creature gets +1/+0 for each basic Island you control.",U,U,rare,FDN,Foundations,598,0,4,,Flying
+Tempest Djinn,{U}{U}{U},3.0,Creature — Djinn,"Flying
+This creature gets +1/+0 for each basic Island you control.",U,U,rare,PDOM,Dominaria Promos,68s,0,4,,Flying
+Tempest Djinn,{U}{U}{U},3.0,Creature — Djinn,"Flying
+This creature gets +1/+0 for each basic Island you control.",U,U,rare,PLST,The List,DOM-68,0,4,,Flying
+Tempest Hart // Scan the Clouds,{3}{G} // {1}{U},4.0,Creature — Elemental Elk // Instant — Adventure,,G,"G,U",uncommon,WOE,Wilds of Eldraine,238,3,4,,Trample
+Tempest Hawk,{2}{W},3.0,Creature — Bird,"Flying
+Whenever this creature deals combat damage to a player, you may search your library for a card named Tempest Hawk, reveal it, put it into your hand, then shuffle.
+A deck can have any number of cards named Tempest Hawk.",W,W,common,TDM,Tarkir: Dragonstorm,31,2,2,,Flying
+Temur Battlecrier,{G}{U}{R},3.0,Creature — Orc Ranger,"During your turn, spells you cast cost {1} less to cast for each creature you control with power 4 or greater.","G,R,U","G,R,U",rare,PTDM,Tarkir: Dragonstorm Promos,228s,4,3,,
+Temur Battlecrier,{G}{U}{R},3.0,Creature — Orc Ranger,"During your turn, spells you cast cost {1} less to cast for each creature you control with power 4 or greater.","G,R,U","G,R,U",rare,PTDM,Tarkir: Dragonstorm Promos,228p,4,3,,
+Temur Battlecrier,{G}{U}{R},3.0,Creature — Orc Ranger,"During your turn, spells you cast cost {1} less to cast for each creature you control with power 4 or greater.","G,R,U","G,R,U",rare,TDM,Tarkir: Dragonstorm,228,4,3,,
+Temur Battlecrier,{G}{U}{R},3.0,Creature — Orc Ranger,"During your turn, spells you cast cost {1} less to cast for each creature you control with power 4 or greater.","G,R,U","G,R,U",rare,TDM,Tarkir: Dragonstorm,372,4,3,,
+Temur Battlecrier,{G}{U}{R},3.0,Creature — Orc Ranger,"During your turn, spells you cast cost {1} less to cast for each creature you control with power 4 or greater.","G,R,U","G,R,U",rare,TDM,Tarkir: Dragonstorm,425,4,3,,
+Temur Devotee,{1}{U},2.0,Creature — Human Druid,"Defender
+{1}: Add {G}, {U}, or {R}. Activate only once each turn.",U,"G,R,U",common,TDM,Tarkir: Dragonstorm,61,3,3,,Defender
+Temur Tawnyback,{2/G}{2/U}{2/R},6.0,Creature — Beast,"When this creature enters, draw a card, then discard a card.","G,R,U","G,R,U",common,TDM,Tarkir: Dragonstorm,229,4,3,,
+Tenacious Tomeseeker,{2}{U},3.0,Creature — Human Knight,"Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
+When this creature enters, if it was bargained, return target instant or sorcery card from your graveyard to your hand.",U,U,uncommon,WOE,Wilds of Eldraine,74,3,2,,Bargain
+Tender Wildguide,{1}{G},2.0,Creature — Possum Druid,"Offspring {2} (You may pay an additional {2} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+{T}: Add one mana of any color.
+{T}: Put a +1/+1 counter on this creature.",G,G,rare,BLB,Bloomburrow,325,2,2,,Offspring
+Tender Wildguide,{1}{G},2.0,Creature — Possum Druid,"Offspring {2} (You may pay an additional {2} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+{T}: Add one mana of any color.
+{T}: Put a +1/+1 counter on this creature.",G,G,rare,PBLB,Bloomburrow Promos,196s,2,2,,Offspring
+Tender Wildguide,{1}{G},2.0,Creature — Possum Druid,"Offspring {2} (You may pay an additional {2} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+{T}: Add one mana of any color.
+{T}: Put a +1/+1 counter on this creature.",G,G,rare,BLB,Bloomburrow,196,2,2,,Offspring
+Tender Wildguide,{1}{G},2.0,Creature — Possum Druid,"Offspring {2} (You may pay an additional {2} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+{T}: Add one mana of any color.
+{T}: Put a +1/+1 counter on this creature.",G,G,rare,PBLB,Bloomburrow Promos,196p,2,2,,Offspring
+Tendril of the Mycotyrant,{1}{G},2.0,Creature — Fungus Wizard,{5}{G}{G}: Put seven +1/+1 counters on target noncreature land you control. It becomes a 0/0 Fungus creature with haste. It's still a land.,G,G,uncommon,LCI,The Lost Caverns of Ixalan,215,2,2,,
+Tenth District Hero,{1}{W},2.0,Creature — Human,"{1}{W}, Collect evidence 2: This creature becomes a Human Detective with base power and toughness 4/4 and gains vigilance.
+{2}{W}, Collect evidence 4: If this creature is a Detective, it becomes a legendary creature named Mileva, the Stalwart, it has base power and toughness 5/5, and it gains ""Other creatures you control have indestructible.""",W,W,rare,PMKM,Murders at Karlov Manor Promos,34p,2,3,,Collect evidence
+Tenth District Hero,{1}{W},2.0,Creature — Human,"{1}{W}, Collect evidence 2: This creature becomes a Human Detective with base power and toughness 4/4 and gains vigilance.
+{2}{W}, Collect evidence 4: If this creature is a Detective, it becomes a legendary creature named Mileva, the Stalwart, it has base power and toughness 5/5, and it gains ""Other creatures you control have indestructible.""",W,W,rare,MKM,Murders at Karlov Manor,34,2,3,,Collect evidence
+Tenth District Hero,{1}{W},2.0,Creature — Human,"{1}{W}, Collect evidence 2: This creature becomes a Human Detective with base power and toughness 4/4 and gains vigilance.
+{2}{W}, Collect evidence 4: If this creature is a Detective, it becomes a legendary creature named Mileva, the Stalwart, it has base power and toughness 5/5, and it gains ""Other creatures you control have indestructible.""",W,W,rare,MKM,Murders at Karlov Manor,391,2,3,,Collect evidence
+Tenth District Hero,{1}{W},2.0,Creature — Human,"{1}{W}, Collect evidence 2: This creature becomes a Human Detective with base power and toughness 4/4 and gains vigilance.
+{2}{W}, Collect evidence 4: If this creature is a Detective, it becomes a legendary creature named Mileva, the Stalwart, it has base power and toughness 5/5, and it gains ""Other creatures you control have indestructible.""",W,W,rare,PMKM,Murders at Karlov Manor Promos,34s,2,3,,Collect evidence
+"Teo, Spirited Glider",{3}{U},4.0,Legendary Creature — Human Pilot Ally,"Flying
+Whenever one or more creatures you control with flying attack, draw a card, then discard a card. When you discard a nonland card this way, put a +1/+1 counter on target creature you control.",U,U,uncommon,TLA,Avatar: The Last Airbender,74,1,4,,Flying
+"Terra, Magical Adept // Esper Terra",,3.0,Legendary Creature — Human Wizard Warrior // Legendary Enchantment Creature — Saga Wizard,,,"B,G,R,U,W",mythic,FIN,Final Fantasy,323,,,,Flying;Transform;Mill;Trance
+"Terra, Magical Adept // Esper Terra",,3.0,Legendary Creature — Human Wizard Warrior // Legendary Enchantment Creature — Saga Wizard,,,"B,G,R,U,W",mythic,PFIN,Final Fantasy Promos,245s,,,,Flying;Transform;Mill;Trance
+"Terra, Magical Adept // Esper Terra",,3.0,Legendary Creature — Human Wizard Warrior // Legendary Enchantment Creature — Saga Wizard,,,"B,G,R,U,W",mythic,FIN,Final Fantasy,245,,,,Flying;Transform;Mill;Trance
+"Terra, Magical Adept // Esper Terra",,3.0,Legendary Creature — Human Wizard Warrior // Legendary Enchantment Creature — Saga Wizard,,,"B,G,R,U,W",mythic,FIN,Final Fantasy,511,,,,Flying;Transform;Mill;Trance
+Terrapact Intimidator,{1}{R},2.0,Creature — Kavu Scout,"When this creature enters, target opponent may have you create two Lander tokens. If they don't, put two +1/+1 counters on this creature. (A Lander token is an artifact with ""{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."")",R,R,uncommon,EOE,Edge of Eternities,164,2,1,,
+"Terrian, World Tyrant",{2}{G}{G}{G},5.0,Legendary Creature — Dinosaur Ooze,,G,G,uncommon,DFT,Aetherdrift,182,9,7,,
+Territorial Bruntar,{4}{R}{R},6.0,Creature — Beast,"Reach
+Landfall — Whenever a land you control enters, exile cards from the top of your library until you exile a nonland card. You may cast that card this turn.",R,R,uncommon,EOE,Edge of Eternities,165,6,6,,Reach;Landfall
+Territorial Witchstalker,{1}{G},2.0,Creature — Wolf,"Defender
+At the beginning of combat on your turn, if you control a creature with power 4 or greater, this creature gets +1/+0 until end of turn and can attack this turn as though it didn't have defender.",G,G,common,WOE,Wilds of Eldraine,189,2,3,,Defender
+Terror of Mount Velus,{5}{R}{R},7.0,Creature — Dragon,"Flying
+Double strike (This creature deals both first-strike and regular combat damage.)
+When this creature enters, creatures you control gain double strike until end of turn.",R,R,rare,THB,Theros Beyond Death,295,5,5,,Flying;Double strike
+Terror of Mount Velus,{5}{R}{R},7.0,Creature — Dragon,"Flying
+Double strike (This creature deals both first-strike and regular combat damage.)
+When this creature enters, creatures you control gain double strike until end of turn.",R,R,rare,FDN,Foundations,549,5,5,,Flying;Double strike
+Terror of Mount Velus,{5}{R}{R},7.0,Creature — Dragon,"Flying
+Double strike (This creature deals both first-strike and regular combat damage.)
+When this creature enters, creatures you control gain double strike until end of turn.",R,R,rare,AFC,Forgotten Realms Commander,145,5,5,,Flying;Double strike
+Terror of the Peaks,{3}{R}{R},5.0,Creature — Dragon,"Flying
+Spells your opponents cast that target this creature cost an additional 3 life to cast.
+Whenever another creature you control enters, this creature deals damage equal to that creature's power to any target.",R,R,mythic,PM21,Core Set 2021 Promos,164p,5,4,,Flying
+Terror of the Peaks,{3}{R}{R},5.0,Creature — Dragon,"Flying
+Spells your opponents cast that target this creature cost an additional 3 life to cast.
+Whenever another creature you control enters, this creature deals damage equal to that creature's power to any target.",R,R,mythic,PRM,Magic Online Promos,81976,5,4,,Flying
+Terror of the Peaks,{3}{R}{R},5.0,Creature — Dragon,"Flying
+Spells your opponents cast that target this creature cost an additional 3 life to cast.
+Whenever another creature you control enters, this creature deals damage equal to that creature's power to any target.",R,R,rare,PSPL,Spotlight Series,1,5,4,,Flying
+Terror of the Peaks,{3}{R}{R},5.0,Creature — Dragon,"Flying
+Spells your opponents cast that target this creature cost an additional 3 life to cast.
+Whenever another creature you control enters, this creature deals damage equal to that creature's power to any target.",R,R,mythic,M21,Core Set 2021,164,5,4,,Flying
+Terror of the Peaks,{3}{R}{R},5.0,Creature — Dragon,"Flying
+Spells your opponents cast that target this creature cost an additional 3 life to cast.
+Whenever another creature you control enters, this creature deals damage equal to that creature's power to any target.",R,R,mythic,POTJ,Outlaws of Thunder Junction Promos,149s,5,4,,Flying
+Terror of the Peaks,{3}{R}{R},5.0,Creature — Dragon,"Flying
+Spells your opponents cast that target this creature cost an additional 3 life to cast.
+Whenever another creature you control enters, this creature deals damage equal to that creature's power to any target.",R,R,mythic,OTJ,Outlaws of Thunder Junction,149,5,4,,Flying
+Terror of the Peaks,{3}{R}{R},5.0,Creature — Dragon,"Flying
+Spells your opponents cast that target this creature cost an additional 3 life to cast.
+Whenever another creature you control enters, this creature deals damage equal to that creature's power to any target.",R,R,mythic,POTJ,Outlaws of Thunder Junction Promos,149p,5,4,,Flying
+Terror of the Peaks,{3}{R}{R},5.0,Creature — Dragon,"Flying
+Spells your opponents cast that target this creature cost an additional 3 life to cast.
+Whenever another creature you control enters, this creature deals damage equal to that creature's power to any target.",R,R,mythic,M21,Core Set 2021,369,5,4,,Flying
+Terror of the Peaks,{3}{R}{R},5.0,Creature — Dragon,"Flying
+Spells your opponents cast that target this creature cost an additional 3 life to cast.
+Whenever another creature you control enters, this creature deals damage equal to that creature's power to any target.",R,R,mythic,OTJ,Outlaws of Thunder Junction,337,5,4,,Flying
+Terror of the Peaks,{3}{R}{R},5.0,Creature — Dragon,"Flying
+Spells your opponents cast that target this creature cost an additional 3 life to cast.
+Whenever another creature you control enters, this creature deals damage equal to that creature's power to any target.",R,R,mythic,PM21,Core Set 2021 Promos,164s,5,4,,Flying
+Tersa Lightshatter,{2}{R},3.0,Legendary Creature — Orc Wizard,"Haste
+When Tersa Lightshatter enters, discard up to two cards, then draw that many cards.
+Whenever Tersa Lightshatter attacks, if there are seven or more cards in your graveyard, exile a card at random from your graveyard. You may play that card this turn.",R,R,rare,PTDM,Tarkir: Dragonstorm Promos,127s,3,3,,Haste
+Tersa Lightshatter,{2}{R},3.0,Legendary Creature — Orc Wizard,"Haste
+When Tersa Lightshatter enters, discard up to two cards, then draw that many cards.
+Whenever Tersa Lightshatter attacks, if there are seven or more cards in your graveyard, exile a card at random from your graveyard. You may play that card this turn.",R,R,rare,PTDM,Tarkir: Dragonstorm Promos,127p,3,3,,Haste
+Tersa Lightshatter,{2}{R},3.0,Legendary Creature — Orc Wizard,"Haste
+When Tersa Lightshatter enters, discard up to two cards, then draw that many cards.
+Whenever Tersa Lightshatter attacks, if there are seven or more cards in your graveyard, exile a card at random from your graveyard. You may play that card this turn.",R,R,rare,TDM,Tarkir: Dragonstorm,345,3,3,,Haste
+Tersa Lightshatter,{2}{R},3.0,Legendary Creature — Orc Wizard,"Haste
+When Tersa Lightshatter enters, discard up to two cards, then draw that many cards.
+Whenever Tersa Lightshatter attacks, if there are seven or more cards in your graveyard, exile a card at random from your graveyard. You may play that card this turn.",R,R,rare,TDM,Tarkir: Dragonstorm,127,3,3,,Haste
+"Teval, Arbiter of Virtue",{2}{B}{G}{U},5.0,Legendary Creature — Spirit Dragon,"Flying, lifelink
+Spells you cast have delve. (Each card you exile from your graveyard while casting those spells pays for {1}.)
+Whenever you cast a spell, you lose life equal to its mana value.","B,G,U","B,G,U",mythic,TDM,Tarkir: Dragonstorm,230,6,6,,Flying;Lifelink
+"Teval, Arbiter of Virtue",{2}{B}{G}{U},5.0,Legendary Creature — Spirit Dragon,"Flying, lifelink
+Spells you cast have delve. (Each card you exile from your graveyard while casting those spells pays for {1}.)
+Whenever you cast a spell, you lose life equal to its mana value.","B,G,U","B,G,U",mythic,PTDM,Tarkir: Dragonstorm Promos,230p,6,6,,Flying;Lifelink
+"Teval, Arbiter of Virtue",{2}{B}{G}{U},5.0,Legendary Creature — Spirit Dragon,"Flying, lifelink
+Spells you cast have delve. (Each card you exile from your graveyard while casting those spells pays for {1}.)
+Whenever you cast a spell, you lose life equal to its mana value.","B,G,U","B,G,U",mythic,TDM,Tarkir: Dragonstorm,319,6,6,,Flying;Lifelink
+"Teval, Arbiter of Virtue",{2}{B}{G}{U},5.0,Legendary Creature — Spirit Dragon,"Flying, lifelink
+Spells you cast have delve. (Each card you exile from your graveyard while casting those spells pays for {1}.)
+Whenever you cast a spell, you lose life equal to its mana value.","B,G,U","B,G,U",mythic,TDM,Tarkir: Dragonstorm,373,6,6,,Flying;Lifelink
+"Teval, Arbiter of Virtue",{2}{B}{G}{U},5.0,Legendary Creature — Spirit Dragon,"Flying, lifelink
+Spells you cast have delve. (Each card you exile from your graveyard while casting those spells pays for {1}.)
+Whenever you cast a spell, you lose life equal to its mana value.","B,G,U","B,G,U",mythic,PTDM,Tarkir: Dragonstorm Promos,230s,6,6,,Flying;Lifelink
+"Teysa, Opulent Oligarch",{1}{W}{B},3.0,Legendary Creature — Human Advisor,"Deathtouch
+At the beginning of your end step, investigate for each opponent who lost life this turn.
+Whenever a Clue you control is put into a graveyard from the battlefield, create a 1/1 white and black Spirit creature token with flying. This ability triggers only once each turn.","B,W","B,W",rare,MKM,Murders at Karlov Manor,321z,2,3,,Investigate;Deathtouch
+"Teysa, Opulent Oligarch",{1}{W}{B},3.0,Legendary Creature — Human Advisor,"Deathtouch
+At the beginning of your end step, investigate for each opponent who lost life this turn.
+Whenever a Clue you control is put into a graveyard from the battlefield, create a 1/1 white and black Spirit creature token with flying. This ability triggers only once each turn.","B,W","B,W",rare,MKM,Murders at Karlov Manor,321,2,3,,Investigate;Deathtouch
+"Teysa, Opulent Oligarch",{1}{W}{B},3.0,Legendary Creature — Human Advisor,"Deathtouch
+At the beginning of your end step, investigate for each opponent who lost life this turn.
+Whenever a Clue you control is put into a graveyard from the battlefield, create a 1/1 white and black Spirit creature token with flying. This ability triggers only once each turn.","B,W","B,W",rare,PMKM,Murders at Karlov Manor Promos,234p,2,3,,Investigate;Deathtouch
+"Teysa, Opulent Oligarch",{1}{W}{B},3.0,Legendary Creature — Human Advisor,"Deathtouch
+At the beginning of your end step, investigate for each opponent who lost life this turn.
+Whenever a Clue you control is put into a graveyard from the battlefield, create a 1/1 white and black Spirit creature token with flying. This ability triggers only once each turn.","B,W","B,W",rare,MKM,Murders at Karlov Manor,234,2,3,,Investigate;Deathtouch
+"Teysa, Opulent Oligarch",{1}{W}{B},3.0,Legendary Creature — Human Advisor,"Deathtouch
+At the beginning of your end step, investigate for each opponent who lost life this turn.
+Whenever a Clue you control is put into a graveyard from the battlefield, create a 1/1 white and black Spirit creature token with flying. This ability triggers only once each turn.","B,W","B,W",rare,MKM,Murders at Karlov Manor,370,2,3,,Investigate;Deathtouch
+"Teysa, Opulent Oligarch",{1}{W}{B},3.0,Legendary Creature — Human Advisor,"Deathtouch
+At the beginning of your end step, investigate for each opponent who lost life this turn.
+Whenever a Clue you control is put into a graveyard from the battlefield, create a 1/1 white and black Spirit creature token with flying. This ability triggers only once each turn.","B,W","B,W",rare,PMKM,Murders at Karlov Manor Promos,234s,2,3,,Investigate;Deathtouch
+Thawbringer,{2}{G},3.0,Creature — Insect Scout,"When this creature enters or dies, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",G,G,common,EOE,Edge of Eternities,211,4,2,,Surveil
+The Ancient One,{U}{B},2.0,Legendary Creature — Spirit God,"Descend 8 — The Ancient One can't attack or block unless there are eight or more permanent cards in your graveyard.
+{2}{U}{B}: Draw a card, then discard a card. When you discard a card this way, target player mills cards equal to its mana value.","B,U","B,U",mythic,PLCI,The Lost Caverns of Ixalan Promos,222p,8,8,,Descend;Mill
+The Ancient One,{U}{B},2.0,Legendary Creature — Spirit God,"Descend 8 — The Ancient One can't attack or block unless there are eight or more permanent cards in your graveyard.
+{2}{U}{B}: Draw a card, then discard a card. When you discard a card this way, target player mills cards equal to its mana value.","B,U","B,U",mythic,LCI,The Lost Caverns of Ixalan,222,8,8,,Descend;Mill
+The Ancient One,{U}{B},2.0,Legendary Creature — Spirit God,"Descend 8 — The Ancient One can't attack or block unless there are eight or more permanent cards in your graveyard.
+{2}{U}{B}: Draw a card, then discard a card. When you discard a card this way, target player mills cards equal to its mana value.","B,U","B,U",mythic,LCI,The Lost Caverns of Ixalan,319,8,8,,Descend;Mill
+The Ancient One,{U}{B},2.0,Legendary Creature — Spirit God,"Descend 8 — The Ancient One can't attack or block unless there are eight or more permanent cards in your graveyard.
+{2}{U}{B}: Draw a card, then discard a card. When you discard a card this way, target player mills cards equal to its mana value.","B,U","B,U",mythic,PLCI,The Lost Caverns of Ixalan Promos,222s,8,8,,Descend;Mill
+"The Boulder, Ready to Rumble",{3}{G},4.0,Legendary Creature — Human Warrior Performer,"Whenever The Boulder attacks, earthbend X, where X is the number of creatures you control with power 4 or greater. (Target land you control becomes a 0/0 creature with haste that's still a land. Put X +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)",G,G,uncommon,TLA,Avatar: The Last Airbender,168,4,4,,Earthbend
+The Earth King,{3}{G},4.0,Legendary Creature — Human Noble Ally,"When The Earth King enters, create a 4/4 green Bear creature token.
+Whenever one or more creatures you control with power 4 or greater attack, search your library for up to that many basic land cards, put them onto the battlefield tapped, then shuffle.",G,G,rare,TLA,Avatar: The Last Airbender,344,2,2,,
+The Earth King,{3}{G},4.0,Legendary Creature — Human Noble Ally,"When The Earth King enters, create a 4/4 green Bear creature token.
+Whenever one or more creatures you control with power 4 or greater attack, search your library for up to that many basic land cards, put them onto the battlefield tapped, then shuffle.",G,G,rare,PTLA,Avatar: The Last Airbender Promos,172s,2,2,,
+The Earth King,{3}{G},4.0,Legendary Creature — Human Noble Ally,"When The Earth King enters, create a 4/4 green Bear creature token.
+Whenever one or more creatures you control with power 4 or greater attack, search your library for up to that many basic land cards, put them onto the battlefield tapped, then shuffle.",G,G,rare,TLA,Avatar: The Last Airbender,172,2,2,,
+The Emperor of Palamecia // The Lord Master of Hell,,2.0,Legendary Creature — Human Noble Wizard // Legendary Creature — Demon Noble Wizard,,,"R,U",uncommon,FIN,Final Fantasy,484,,,,Starfall;Transform
+The Emperor of Palamecia // The Lord Master of Hell,,2.0,Legendary Creature — Human Noble Wizard // Legendary Creature — Demon Noble Wizard,,,"R,U",uncommon,FIN,Final Fantasy,219,,,,Starfall;Transform
+"The Gitrog, Ravenous Ride",{3}{B}{G},5.0,Legendary Creature — Frog Horror Mount,"Trample, haste
+Whenever The Gitrog deals combat damage to a player, you may sacrifice a creature that saddled it this turn. If you do, draw X cards, then put up to X land cards from your hand onto the battlefield tapped, where X is the sacrificed creature's power.
+Saddle 1","B,G","B,G",mythic,POTJ,Outlaws of Thunder Junction Promos,206s,6,5,,Saddle;Haste;Trample
+"The Gitrog, Ravenous Ride",{3}{B}{G},5.0,Legendary Creature — Frog Horror Mount,"Trample, haste
+Whenever The Gitrog deals combat damage to a player, you may sacrifice a creature that saddled it this turn. If you do, draw X cards, then put up to X land cards from your hand onto the battlefield tapped, where X is the sacrificed creature's power.
+Saddle 1","B,G","B,G",mythic,OTJ,Outlaws of Thunder Junction,206,6,5,,Saddle;Haste;Trample
+"The Gitrog, Ravenous Ride",{3}{B}{G},5.0,Legendary Creature — Frog Horror Mount,"Trample, haste
+Whenever The Gitrog deals combat damage to a player, you may sacrifice a creature that saddled it this turn. If you do, draw X cards, then put up to X land cards from your hand onto the battlefield tapped, where X is the sacrificed creature's power.
+Saddle 1","B,G","B,G",mythic,POTJ,Outlaws of Thunder Junction Promos,206p,6,5,,Saddle;Haste;Trample
+"The Gitrog, Ravenous Ride",{3}{B}{G},5.0,Legendary Creature — Frog Horror Mount,"Trample, haste
+Whenever The Gitrog deals combat damage to a player, you may sacrifice a creature that saddled it this turn. If you do, draw X cards, then put up to X land cards from your hand onto the battlefield tapped, where X is the sacrificed creature's power.
+Saddle 1","B,G","B,G",mythic,OTJ,Outlaws of Thunder Junction,352,6,5,,Saddle;Haste;Trample
+The Goose Mother,{X}{G}{U},2.0,Legendary Creature — Bird Hydra,"Flying
+The Goose Mother enters with X +1/+1 counters on it.
+When The Goose Mother enters, create half X Food tokens, rounded up.
+Whenever The Goose Mother attacks, you may sacrifice a Food. If you do, draw a card.","G,U","G,U",rare,WOE,Wilds of Eldraine,362,2,2,,Flying;Food
+The Goose Mother,{X}{G}{U},2.0,Legendary Creature — Bird Hydra,"Flying
+The Goose Mother enters with X +1/+1 counters on it.
+When The Goose Mother enters, create half X Food tokens, rounded up.
+Whenever The Goose Mother attacks, you may sacrifice a Food. If you do, draw a card.","G,U","G,U",rare,WOE,Wilds of Eldraine,204,2,2,,Flying;Food
+The Goose Mother,{X}{G}{U},2.0,Legendary Creature — Bird Hydra,"Flying
+The Goose Mother enters with X +1/+1 counters on it.
+When The Goose Mother enters, create half X Food tokens, rounded up.
+Whenever The Goose Mother attacks, you may sacrifice a Food. If you do, draw a card.","G,U","G,U",rare,PWOE,Wilds of Eldraine Promos,204p,2,2,,Flying;Food
+The Goose Mother,{X}{G}{U},2.0,Legendary Creature — Bird Hydra,"Flying
+The Goose Mother enters with X +1/+1 counters on it.
+When The Goose Mother enters, create half X Food tokens, rounded up.
+Whenever The Goose Mother attacks, you may sacrifice a Food. If you do, draw a card.","G,U","G,U",rare,PWOE,Wilds of Eldraine Promos,204s,2,2,,Flying;Food
+The Infamous Cruelclaw,{1}{B}{R},3.0,Legendary Creature — Weasel Mercenary,"Menace
+Whenever The Infamous Cruelclaw deals combat damage to a player, exile cards from the top of your library until you exile a nonland card. You may cast that card by discarding a card rather than paying its mana cost.","B,R","B,R",mythic,PBLB,Bloomburrow Promos,219p,3,3,,Menace
+The Infamous Cruelclaw,{1}{B}{R},3.0,Legendary Creature — Weasel Mercenary,"Menace
+Whenever The Infamous Cruelclaw deals combat damage to a player, exile cards from the top of your library until you exile a nonland card. You may cast that card by discarding a card rather than paying its mana cost.","B,R","B,R",mythic,PBLB,Bloomburrow Promos,219s,3,3,,Menace
+The Infamous Cruelclaw,{1}{B}{R},3.0,Legendary Creature — Weasel Mercenary,"Menace
+Whenever The Infamous Cruelclaw deals combat damage to a player, exile cards from the top of your library until you exile a nonland card. You may cast that card by discarding a card rather than paying its mana cost.","B,R","B,R",mythic,BLB,Bloomburrow,334,3,3,,Menace
+The Infamous Cruelclaw,{1}{B}{R},3.0,Legendary Creature — Weasel Mercenary,"Menace
+Whenever The Infamous Cruelclaw deals combat damage to a player, exile cards from the top of your library until you exile a nonland card. You may cast that card by discarding a card rather than paying its mana cost.","B,R","B,R",mythic,BLB,Bloomburrow,219,3,3,,Menace
+The Jolly Balloon Man,{1}{R}{W},3.0,Legendary Creature — Human Clown,"Haste
+{1}, {T}: Create a token that's a copy of another target creature you control, except it's a 1/1 red Balloon creature in addition to its other colors and types and it has flying and haste. Sacrifice it at the beginning of the next end step. Activate only as a sorcery.","R,W","R,W",rare,DSK,Duskmourn: House of Horror,359,1,4,,Haste
+The Jolly Balloon Man,{1}{R}{W},3.0,Legendary Creature — Human Clown,"Haste
+{1}, {T}: Create a token that's a copy of another target creature you control, except it's a 1/1 red Balloon creature in addition to its other colors and types and it has flying and haste. Sacrifice it at the beginning of the next end step. Activate only as a sorcery.","R,W","R,W",rare,PDSK,Duskmourn: House of Horror Promos,219s,1,4,,Haste
+The Jolly Balloon Man,{1}{R}{W},3.0,Legendary Creature — Human Clown,"Haste
+{1}, {T}: Create a token that's a copy of another target creature you control, except it's a 1/1 red Balloon creature in addition to its other colors and types and it has flying and haste. Sacrifice it at the beginning of the next end step. Activate only as a sorcery.","R,W","R,W",rare,DSK,Duskmourn: House of Horror,219,1,4,,Haste
+The Jolly Balloon Man,{1}{R}{W},3.0,Legendary Creature — Human Clown,"Haste
+{1}, {T}: Create a token that's a copy of another target creature you control, except it's a 1/1 red Balloon creature in addition to its other colors and types and it has flying and haste. Sacrifice it at the beginning of the next end step. Activate only as a sorcery.","R,W","R,W",rare,PDSK,Duskmourn: House of Horror Promos,219p,1,4,,Haste
+The Legend of Kuruk // Avatar Kuruk,,4.0,Enchantment — Saga // Legendary Creature — Avatar,,,U,mythic,TLA,Avatar: The Last Airbender,61,,,,Transform;Exhaust;Waterbend;Scry
+The Legend of Kuruk // Avatar Kuruk,,4.0,Enchantment — Saga // Legendary Creature — Avatar,,,U,mythic,PTLA,Avatar: The Last Airbender Promos,61s,,,,Transform;Exhaust;Waterbend;Scry
+The Legend of Kuruk // Avatar Kuruk,,4.0,Enchantment — Saga // Legendary Creature — Avatar,,,U,mythic,TLA,Avatar: The Last Airbender,355,,,,Transform;Exhaust;Waterbend;Scry
+The Legend of Kyoshi // Avatar Kyoshi,,6.0,Enchantment — Saga // Legendary Creature — Avatar,,,G,mythic,TLA,Avatar: The Last Airbender,186,,,,Transform;Earthbend
+The Legend of Kyoshi // Avatar Kyoshi,,6.0,Enchantment — Saga // Legendary Creature — Avatar,,,G,mythic,TLA,Avatar: The Last Airbender,358,,,,Transform;Earthbend
+The Legend of Kyoshi // Avatar Kyoshi,,6.0,Enchantment — Saga // Legendary Creature — Avatar,,,G,mythic,PTLA,Avatar: The Last Airbender Promos,186s,,,,Transform;Earthbend
+The Legend of Roku // Avatar Roku,,4.0,Enchantment — Saga // Legendary Creature — Avatar,,,R,mythic,TLA,Avatar: The Last Airbender,357,,,,Transform;Firebending
+The Legend of Roku // Avatar Roku,,4.0,Enchantment — Saga // Legendary Creature — Avatar,,,R,mythic,TLA,Avatar: The Last Airbender,145,,,,Transform;Firebending
+The Legend of Roku // Avatar Roku,,4.0,Enchantment — Saga // Legendary Creature — Avatar,,,R,mythic,PTLA,Avatar: The Last Airbender Promos,145s,,,,Transform;Firebending
+The Legend of Yangchen // Avatar Yangchen,,5.0,Enchantment — Saga // Legendary Creature — Avatar,,,W,mythic,TLA,Avatar: The Last Airbender,354,,,,Flying;Airbend;Transform
+The Legend of Yangchen // Avatar Yangchen,,5.0,Enchantment — Saga // Legendary Creature — Avatar,,,W,mythic,TLA,Avatar: The Last Airbender,27,,,,Flying;Airbend;Transform
+The Legend of Yangchen // Avatar Yangchen,,5.0,Enchantment — Saga // Legendary Creature — Avatar,,,W,mythic,PTLA,Avatar: The Last Airbender Promos,27s,,,,Flying;Airbend;Transform
+The Lion-Turtle,{1}{G}{U},3.0,Legendary Creature — Elder Cat Turtle,"Vigilance, reach
+When The Lion-Turtle enters, you gain 3 life.
+The Lion-Turtle can't attack or block unless there are three or more Lesson cards in your graveyard.
+{T}: Add one mana of any color.","G,U","G,U",rare,PTLA,Avatar: The Last Airbender Promos,232s,3,6,,Reach;Vigilance
+The Lion-Turtle,{1}{G}{U},3.0,Legendary Creature — Elder Cat Turtle,"Vigilance, reach
+When The Lion-Turtle enters, you gain 3 life.
+The Lion-Turtle can't attack or block unless there are three or more Lesson cards in your graveyard.
+{T}: Add one mana of any color.","G,U","G,U",rare,TLA,Avatar: The Last Airbender,232,3,6,,Reach;Vigilance
+The Lion-Turtle,{1}{G}{U},3.0,Legendary Creature — Elder Cat Turtle,"Vigilance, reach
+When The Lion-Turtle enters, you gain 3 life.
+The Lion-Turtle can't attack or block unless there are three or more Lesson cards in your graveyard.
+{T}: Add one mana of any color.","G,U","G,U",rare,TLA,Avatar: The Last Airbender,328,3,6,,Reach;Vigilance
+"The Mechanist, Aerial Artisan",{2}{U},3.0,Legendary Creature — Human Artificer Ally,"Whenever you cast a noncreature spell, create a Clue token. (It's an artifact with ""{2}, Sacrifice this token: Draw a card."")
+{T}: Until end of turn, target artifact token you control becomes a 3/1 Construct artifact creature with flying.",U,U,rare,PTLA,Avatar: The Last Airbender Promos,64s,1,3,,
+"The Mechanist, Aerial Artisan",{2}{U},3.0,Legendary Creature — Human Artificer Ally,"Whenever you cast a noncreature spell, create a Clue token. (It's an artifact with ""{2}, Sacrifice this token: Draw a card."")
+{T}: Until end of turn, target artifact token you control becomes a 3/1 Construct artifact creature with flying.",U,U,rare,TLA,Avatar: The Last Airbender,64,1,3,,
+"The Mechanist, Aerial Artisan",{2}{U},3.0,Legendary Creature — Human Artificer Ally,"Whenever you cast a noncreature spell, create a Clue token. (It's an artifact with ""{2}, Sacrifice this token: Draw a card."")
+{T}: Until end of turn, target artifact token you control becomes a 3/1 Construct artifact creature with flying.",U,U,rare,TLA,Avatar: The Last Airbender,369,1,3,,
+The Mindskinner,{U}{U}{U},3.0,Legendary Enchantment Creature — Nightmare,"The Mindskinner can't be blocked.
+If a source you control would deal damage to an opponent, prevent that damage and each opponent mills that many cards.",U,U,rare,DSK,Duskmourn: House of Horror,357,10,1,,Mill
+The Mindskinner,{U}{U}{U},3.0,Legendary Enchantment Creature — Nightmare,"The Mindskinner can't be blocked.
+If a source you control would deal damage to an opponent, prevent that damage and each opponent mills that many cards.",U,U,rare,PDSK,Duskmourn: House of Horror Promos,66s,10,1,,Mill
+The Mindskinner,{U}{U}{U},3.0,Legendary Enchantment Creature — Nightmare,"The Mindskinner can't be blocked.
+If a source you control would deal damage to an opponent, prevent that damage and each opponent mills that many cards.",U,U,rare,PDSK,Duskmourn: House of Horror Promos,66p,10,1,,Mill
+The Mindskinner,{U}{U}{U},3.0,Legendary Enchantment Creature — Nightmare,"The Mindskinner can't be blocked.
+If a source you control would deal damage to an opponent, prevent that damage and each opponent mills that many cards.",U,U,rare,DSK,Duskmourn: House of Horror,66,10,1,,Mill
+The Mycotyrant,{1}{B}{G},3.0,Legendary Creature — Elder Fungus,"Trample
+The Mycotyrant's power and toughness are each equal to the number of creatures you control that are Fungi and/or Saprolings.
+At the beginning of your end step, create X 1/1 black Fungus creature tokens with ""This token can't block,"" where X is the number of times you descended this turn. (You descend each time a permanent card is put into your graveyard from anywhere.)","B,G","B,G",mythic,LCI,The Lost Caverns of Ixalan,305,*,*,,Trample
+The Mycotyrant,{1}{B}{G},3.0,Legendary Creature — Elder Fungus,"Trample
+The Mycotyrant's power and toughness are each equal to the number of creatures you control that are Fungi and/or Saprolings.
+At the beginning of your end step, create X 1/1 black Fungus creature tokens with ""This token can't block,"" where X is the number of times you descended this turn. (You descend each time a permanent card is put into your graveyard from anywhere.)","B,G","B,G",mythic,PLCI,The Lost Caverns of Ixalan Promos,235s,*,*,,Trample
+The Mycotyrant,{1}{B}{G},3.0,Legendary Creature — Elder Fungus,"Trample
+The Mycotyrant's power and toughness are each equal to the number of creatures you control that are Fungi and/or Saprolings.
+At the beginning of your end step, create X 1/1 black Fungus creature tokens with ""This token can't block,"" where X is the number of times you descended this turn. (You descend each time a permanent card is put into your graveyard from anywhere.)","B,G","B,G",mythic,LCI,The Lost Caverns of Ixalan,235,*,*,,Trample
+The Mycotyrant,{1}{B}{G},3.0,Legendary Creature — Elder Fungus,"Trample
+The Mycotyrant's power and toughness are each equal to the number of creatures you control that are Fungi and/or Saprolings.
+At the beginning of your end step, create X 1/1 black Fungus creature tokens with ""This token can't block,"" where X is the number of times you descended this turn. (You descend each time a permanent card is put into your graveyard from anywhere.)","B,G","B,G",mythic,PLCI,The Lost Caverns of Ixalan Promos,235p,*,*,,Trample
+The Neutrinos,{2}{R}{W},4.0,Legendary Creature — Elf Rebel,"Flying
+Alliance — Whenever another creature you control enters, The Neutrinos get +1/+0 until end of turn.
+Whenever The Neutrinos attack, exile up to one target creature you own, then return it to the battlefield under your control tapped and attacking.","R,W","R,W",uncommon,TMT,Teenage Mutant Ninja Turtles,160,2,4,,Flying;Alliance
+The Pride of Hull Clade,{10}{G},11.0,Legendary Creature — Crocodile Elk Turtle,"This spell costs {X} less to cast, where X is the total toughness of creatures you control.
+Defender
+{2}{U}{U}: Until end of turn, target creature you control gets +1/+0, gains ""Whenever this creature deals combat damage to a player, draw cards equal to its toughness,"" and can attack as though it didn't have defender.",G,"G,U",mythic,PMKM,Murders at Karlov Manor Promos,172s,2,15,,Defender
+The Pride of Hull Clade,{10}{G},11.0,Legendary Creature — Crocodile Elk Turtle,"This spell costs {X} less to cast, where X is the total toughness of creatures you control.
+Defender
+{2}{U}{U}: Until end of turn, target creature you control gets +1/+0, gains ""Whenever this creature deals combat damage to a player, draw cards equal to its toughness,"" and can attack as though it didn't have defender.",G,"G,U",mythic,MKM,Murders at Karlov Manor,352,2,15,,Defender
+The Pride of Hull Clade,{10}{G},11.0,Legendary Creature — Crocodile Elk Turtle,"This spell costs {X} less to cast, where X is the total toughness of creatures you control.
+Defender
+{2}{U}{U}: Until end of turn, target creature you control gets +1/+0, gains ""Whenever this creature deals combat damage to a player, draw cards equal to its toughness,"" and can attack as though it didn't have defender.",G,"G,U",mythic,PMKM,Murders at Karlov Manor Promos,172p,2,15,,Defender
+The Pride of Hull Clade,{10}{G},11.0,Legendary Creature — Crocodile Elk Turtle,"This spell costs {X} less to cast, where X is the total toughness of creatures you control.
+Defender
+{2}{U}{U}: Until end of turn, target creature you control gets +1/+0, gains ""Whenever this creature deals combat damage to a player, draw cards equal to its toughness,"" and can attack as though it didn't have defender.",G,"G,U",mythic,MKM,Murders at Karlov Manor,382,2,15,,Defender
+The Pride of Hull Clade,{10}{G},11.0,Legendary Creature — Crocodile Elk Turtle,"This spell costs {X} less to cast, where X is the total toughness of creatures you control.
+Defender
+{2}{U}{U}: Until end of turn, target creature you control gets +1/+0, gains ""Whenever this creature deals combat damage to a player, draw cards equal to its toughness,"" and can attack as though it didn't have defender.",G,"G,U",mythic,MKM,Murders at Karlov Manor,172,2,15,,Defender
+The Rise of Sozin // Fire Lord Sozin,,6.0,Enchantment — Saga // Legendary Creature — Human Noble,,,B,mythic,TLA,Avatar: The Last Airbender,117,,,,Transform;Firebending;Menace
+The Rise of Sozin // Fire Lord Sozin,,6.0,Enchantment — Saga // Legendary Creature — Human Noble,,,B,mythic,TLA,Avatar: The Last Airbender,356,,,,Transform;Firebending;Menace
+The Rise of Sozin // Fire Lord Sozin,,6.0,Enchantment — Saga // Legendary Creature — Human Noble,,,B,mythic,PTLA,Avatar: The Last Airbender Promos,117s,,,,Transform;Firebending;Menace
+The Speed Demon,{3}{B}{B},5.0,Legendary Creature — Demon,"Flying, trample
+Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+At the beginning of your end step, you draw X cards and lose X life, where X is your speed.",B,B,mythic,PDFT,Aetherdrift Promos,105s,5,5,,Flying;Trample;Start your engines!
+The Speed Demon,{3}{B}{B},5.0,Legendary Creature — Demon,"Flying, trample
+Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+At the beginning of your end step, you draw X cards and lose X life, where X is your speed.",B,B,mythic,DFT,Aetherdrift,538,5,5,,Flying;Trample;Start your engines!
+The Speed Demon,{3}{B}{B},5.0,Legendary Creature — Demon,"Flying, trample
+Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+At the beginning of your end step, you draw X cards and lose X life, where X is your speed.",B,B,mythic,DFT,Aetherdrift,105,5,5,,Flying;Trample;Start your engines!
+The Speed Demon,{3}{B}{B},5.0,Legendary Creature — Demon,"Flying, trample
+Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+At the beginning of your end step, you draw X cards and lose X life, where X is your speed.",B,B,mythic,DFT,Aetherdrift,339,5,5,,Flying;Trample;Start your engines!
+The Speed Demon,{3}{B}{B},5.0,Legendary Creature — Demon,"Flying, trample
+Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+At the beginning of your end step, you draw X cards and lose X life, where X is your speed.",B,B,mythic,PDFT,Aetherdrift Promos,105p,5,5,,Flying;Trample;Start your engines!
+The Speed Demon,{3}{B}{B},5.0,Legendary Creature — Demon,"Flying, trample
+Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+At the beginning of your end step, you draw X cards and lose X life, where X is your speed.",B,B,mythic,DFT,Aetherdrift,453,5,5,,Flying;Trample;Start your engines!
+"The Spot, Living Portal",{3}{W}{B},5.0,Legendary Creature — Human Scientist Villain,"When The Spot enters, exile up to one target nonland permanent and up to one target nonland permanent card from a graveyard.
+When The Spot dies, put him on the bottom of his owner's library. If you do, return the exiled cards to their owners' hands.","B,W","B,W",rare,SPM,Marvel's Spider-Man,153,4,4,,
+"The Spot, Living Portal",{3}{W}{B},5.0,Legendary Creature — Human Scientist Villain,"When The Spot enters, exile up to one target nonland permanent and up to one target nonland permanent card from a graveyard.
+When The Spot dies, put him on the bottom of his owner's library. If you do, return the exiled cards to their owners' hands.","B,W","B,W",rare,SPM,Marvel's Spider-Man,231,4,4,,
+"The Spot, Living Portal",{3}{W}{B},5.0,Legendary Creature — Human Scientist Villain,"When The Spot enters, exile up to one target nonland permanent and up to one target nonland permanent card from a graveyard.
+When The Spot dies, put him on the bottom of his owner's library. If you do, return the exiled cards to their owners' hands.","B,W","B,W",rare,PSPM,Marvel's Spider-Man Promos,153s,4,4,,
+"The Spot, Living Portal",{3}{W}{B},5.0,Legendary Creature — Human Scientist Villain,"When The Spot enters, exile up to one target nonland permanent and up to one target nonland permanent card from a graveyard.
+When The Spot dies, put him on the bottom of his owner's library. If you do, return the exiled cards to their owners' hands.","B,W","B,W",rare,OM1,Through the Omenpaths,150,4,4,,
+The Swarmweaver,{2}{B}{G},4.0,Legendary Artifact Creature — Scarecrow,"When The Swarmweaver enters, create two 1/1 black and green Insect creature tokens with flying.
+Delirium — As long as there are four or more card types among cards in your graveyard, Insects and Spiders you control get +1/+1 and have deathtouch.","B,G","B,G",rare,PDSK,Duskmourn: House of Horror Promos,236p,2,3,,Delirium
+The Swarmweaver,{2}{B}{G},4.0,Legendary Artifact Creature — Scarecrow,"When The Swarmweaver enters, create two 1/1 black and green Insect creature tokens with flying.
+Delirium — As long as there are four or more card types among cards in your graveyard, Insects and Spiders you control get +1/+1 and have deathtouch.","B,G","B,G",rare,DSK,Duskmourn: House of Horror,301,2,3,,Delirium
+The Swarmweaver,{2}{B}{G},4.0,Legendary Artifact Creature — Scarecrow,"When The Swarmweaver enters, create two 1/1 black and green Insect creature tokens with flying.
+Delirium — As long as there are four or more card types among cards in your graveyard, Insects and Spiders you control get +1/+1 and have deathtouch.","B,G","B,G",rare,DSK,Duskmourn: House of Horror,236,2,3,,Delirium
+The Swarmweaver,{2}{B}{G},4.0,Legendary Artifact Creature — Scarecrow,"When The Swarmweaver enters, create two 1/1 black and green Insect creature tokens with flying.
+Delirium — As long as there are four or more card types among cards in your graveyard, Insects and Spiders you control get +1/+1 and have deathtouch.","B,G","B,G",rare,PDSK,Duskmourn: House of Horror Promos,236s,2,3,,Delirium
+The Swarmweaver,{2}{B}{G},4.0,Legendary Artifact Creature — Scarecrow,"When The Swarmweaver enters, create two 1/1 black and green Insect creature tokens with flying.
+Delirium — As long as there are four or more card types among cards in your graveyard, Insects and Spiders you control get +1/+1 and have deathtouch.","B,G","B,G",rare,DSK,Duskmourn: House of Horror,363,2,3,,Delirium
+The Unagi of Kyoshi Island,{3}{U}{U},5.0,Legendary Creature — Serpent,"Flash
+Ward—Waterbend {4}. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {4}. They can tap their artifacts and creatures to help. Each one pays for {1}.)
+Whenever an opponent draws their second card each turn, you draw two cards.",U,U,rare,TLA,Avatar: The Last Airbender,77,5,5,,Ward;Flash;Waterbend
+The Unagi of Kyoshi Island,{3}{U}{U},5.0,Legendary Creature — Serpent,"Flash
+Ward—Waterbend {4}. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {4}. They can tap their artifacts and creatures to help. Each one pays for {1}.)
+Whenever an opponent draws their second card each turn, you draw two cards.",U,U,rare,TLA,Avatar: The Last Airbender,319,5,5,,Ward;Flash;Waterbend
+The Unagi of Kyoshi Island,{3}{U}{U},5.0,Legendary Creature — Serpent,"Flash
+Ward—Waterbend {4}. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {4}. They can tap their artifacts and creatures to help. Each one pays for {1}.)
+Whenever an opponent draws their second card each turn, you draw two cards.",U,U,rare,PTLA,Avatar: The Last Airbender Promos,77s,5,5,,Ward;Flash;Waterbend
+The Walls of Ba Sing Se,{8},8.0,Legendary Artifact Creature — Wall,"Defender
+Other permanents you control have indestructible.",,,mythic,TLA,Avatar: The Last Airbender,329,0,30,,Defender
+The Walls of Ba Sing Se,{8},8.0,Legendary Artifact Creature — Wall,"Defender
+Other permanents you control have indestructible.",,,mythic,TLA,Avatar: The Last Airbender,261,0,30,,Defender
+The Walls of Ba Sing Se,{8},8.0,Legendary Artifact Creature — Wall,"Defender
+Other permanents you control have indestructible.",,,mythic,PTLA,Avatar: The Last Airbender Promos,261s,0,30,,Defender
+The Wandering Minstrel,{G}{U},2.0,Legendary Creature — Human Bard,"Lands you control enter untapped.
+The Minstrel's Ballad — At the beginning of combat on your turn, if you control five or more Towns, create a 2/2 Elemental creature token that's all colors.
+{3}{W}{U}{B}{R}{G}: Other creatures you control get +X/+X until end of turn, where X is the number of Towns you control.","G,U","B,G,R,U,W",rare,FIN,Final Fantasy,249,1,3,,
+The Wandering Minstrel,{G}{U},2.0,Legendary Creature — Human Bard,"Lands you control enter untapped.
+The Minstrel's Ballad — At the beginning of combat on your turn, if you control five or more Towns, create a 2/2 Elemental creature token that's all colors.
+{3}{W}{U}{B}{R}{G}: Other creatures you control get +X/+X until end of turn, where X is the number of Towns you control.","G,U","B,G,R,U,W",rare,FIN,Final Fantasy,403,1,3,,
+The Wandering Minstrel,{G}{U},2.0,Legendary Creature — Human Bard,"Lands you control enter untapped.
+The Minstrel's Ballad — At the beginning of combat on your turn, if you control five or more Towns, create a 2/2 Elemental creature token that's all colors.
+{3}{W}{U}{B}{R}{G}: Other creatures you control get +X/+X until end of turn, where X is the number of Towns you control.","G,U","B,G,R,U,W",rare,FIN,Final Fantasy,515,1,3,,
+The Wandering Minstrel,{G}{U},2.0,Legendary Creature — Human Bard,"Lands you control enter untapped.
+The Minstrel's Ballad — At the beginning of combat on your turn, if you control five or more Towns, create a 2/2 Elemental creature token that's all colors.
+{3}{W}{U}{B}{R}{G}: Other creatures you control get +X/+X until end of turn, where X is the number of Towns you control.","G,U","B,G,R,U,W",rare,PFIN,Final Fantasy Promos,249s,1,3,,
+The Wandering Minstrel,{G}{U},2.0,Legendary Creature — Human Bard,"Lands you control enter untapped.
+The Minstrel's Ballad — At the beginning of combat on your turn, if you control five or more Towns, create a 2/2 Elemental creature token that's all colors.
+{3}{W}{U}{B}{R}{G}: Other creatures you control get +X/+X until end of turn, where X is the number of Towns you control.","G,U","B,G,R,U,W",rare,FIN,Final Fantasy,548,1,3,,
+The Wandering Rescuer,{3}{W}{W},5.0,Legendary Creature — Human Samurai Noble,"Flash
+Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+Double strike
+Other tapped creatures you control have hexproof.",W,W,mythic,PDSK,Duskmourn: House of Horror Promos,41s,3,4,,Double strike;Flash;Convoke

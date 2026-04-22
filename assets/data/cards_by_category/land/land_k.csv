@@ -1,0 +1,11 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,produced_mana,keywords,tags,legal_formats
+"Kavaron, Memorial World",,0.0,Land — Planet,"This land enters tapped.
+{T}: Add {R}.
+Station (Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)
+12+ | {1}{R}, {T}, Sacrifice a land: Create a 2/2 colorless Robot artifact creature token, then creatures you control get +1/+0 and gain haste until end of turn.",,R,mythic,EOE,Edge of Eternities,281,,,,R,Station,ramp;token;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Kishla Village,,0.0,Land,"This land enters tapped unless you control an Island or a Swamp.
+{T}: Add {G}.
+{3}{G}, {T}: Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)",,G,rare,PTDM,Tarkir: Dragonstorm Promos,259s,,,,G,Surveil,ramp;surveil,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Kyoshi Village,,0.0,Land,"This land enters tapped.
+{T}: Add {G} or {W}.
+{4}, {T}, Sacrifice this land: Draw a card.",,"G,W",common,TLA,Avatar: The Last Airbender,271,,,,"G,W",,draw;ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"

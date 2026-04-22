@@ -1,0 +1,27 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,produced_mana,keywords,tags,legal_formats
+Echoing Deeps,,0.0,Land — Cave,"You may have this land enter tapped as a copy of any land card in a graveyard, except it's a Cave in addition to its other types.
+{T}: Add {C}.",,,rare,LCI,The Lost Caverns of Ixalan,271,,,,C,,ramp;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+Eclipsed Realms,,0.0,Land,"As this land enters, choose Elemental, Elf, Faerie, Giant, Goblin, Kithkin, Merfolk, or Treefolk.
+{T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast a spell of the chosen type or activate an ability of a source of the chosen type.",,,uncommon,ECL,Lorwyn Eclipsed,263,,,,"B,C,G,R,U,W",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+"Eden, Seat of the Sanctum",,0.0,Land — Town,"{T}: Add {C}.
+{5}, {T}: Mill two cards. Then you may sacrifice this land. When you do, return another target permanent card from your graveyard to your hand.",,,uncommon,FIN,Final Fantasy,355,,,,C,Mill,mill;ramp;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Edgewall Inn,,0.0,Land,"This land enters tapped.
+As this land enters, choose a color.
+{T}: Add one mana of the chosen color.
+{3}, {T}, Sacrifice this land: Return target card that has an Adventure from your graveyard to your hand.",,,uncommon,WOE,Wilds of Eldraine,255,,,,"B,G,R,U,W",,bounce,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"
+Elegant Parlor,,0.0,Land — Mountain Plains,"({T}: Add {R} or {W}.)
+This land enters tapped.
+When this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,"R,W",rare,MKM,Murders at Karlov Manor,325,,,,"R,W",Surveil,ramp;surveil,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"
+Eroded Canyon,,0.0,Land — Desert,"This land enters tapped.
+When this land enters, it deals 1 damage to target opponent.
+{T}: Add {U} or {R}.",,"R,U",common,OTJ,Outlaws of Thunder Junction,256,,,,"R,U",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,paupercommander,duel"
+Escape Tunnel,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+{T}, Sacrifice this land: Target creature with power 2 or less can't be blocked this turn.",,,common,TMT,Teenage Mutant Ninja Turtles,184,,,,,,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Etched Cornfield,,0.0,Land,"This land enters tapped unless a player has 13 or less life.
+{T}: Add {G} or {W}.",,"G,W",common,DSK,Duskmourn: House of Horror,258,,,,"G,W",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+"Evendo, Waking Haven",,0.0,Land — Planet,"This land enters tapped.
+{T}: Add {G}.
+Station (Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)
+12+ | {G}, {T}: Add {G} for each creature you control.",,G,mythic,EOE,Edge of Eternities,374,,,,G,Station,ramp;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,,common,DDO,Duel Decks: Elspeth vs. Kiora,58,,,,,,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel,predh"

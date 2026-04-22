@@ -1,0 +1,56 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,produced_mana,keywords,tags,legal_formats
+Bandit's Talent,{1}{B},2.0,Enchantment — Class,"(Gain the next level as a sorcery to add its ability.)
+When this Class enters, each opponent discards two cards unless they discard a nonland card.
+{B}: Level 2
+At the beginning of each opponent's upkeep, if that player has one or fewer cards in hand, they lose 2 life.
+{3}{B}: Level 3
+At the beginning of your draw step, draw an additional card for each opponent who has one or fewer cards in hand.",B,B,uncommon,BLB,Bloomburrow,83,,,,,,discard,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Banishing Light,{2}{W},3.0,Enchantment,"When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.",W,W,uncommon,SCD,Starter Commander Decks,9,,,,,,removal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Barrensteppe Siege,{2}{W}{B},4.0,Enchantment,"As this enchantment enters, choose Abzan or Mardu.
+• Abzan — At the beginning of your end step, put a +1/+1 counter on each creature you control.
+• Mardu — At the beginning of your end step, if a creature died under your control this turn, each opponent sacrifices a creature of their choice.","B,W","B,W",rare,TDM,Tarkir: Dragonstorm,171,,,,,,pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Bat Colony,{2}{W},3.0,Enchantment,"When this enchantment enters, create a 1/1 black Bat creature token with flying for each mana from a Cave spent to cast it.
+Whenever a Cave you control enters, put a +1/+1 counter on target creature you control.",W,W,uncommon,LCI,The Lost Caverns of Ixalan,5,,,,,,pump;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"
+Bestial Bloodline,{1}{G},2.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets +2/+2.
+{4}{G}: Return this card from your graveyard to your hand.",G,G,common,WOE,Wilds of Eldraine,162,,,,,Enchant,pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,paupercommander,duel"
+Bioengineered Future,{1}{G}{G},3.0,Enchantment,"When this enchantment enters, create a Lander token. (It's an artifact with ""{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."")
+Each creature you control enters with an additional +1/+1 counter on it for each land that entered the battlefield under your control this turn.",G,G,rare,EOE,Edge of Eternities,172,,,,,,pump;ramp;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Bitter Chill,{1}{U},2.0,Enchantment — Aura,"Enchant creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.
+When this Aura is put into a graveyard from the battlefield, you may pay {1}. If you do, scry 1, then draw a card.",U,U,uncommon,WOE,Wilds of Eldraine,44,,,,,Enchant;Scry,draw;scry,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"
+Bitter Work,{1}{R}{G},3.0,Enchantment,"Whenever you attack a player with one or more creatures with power 4 or greater, draw a card.
+Exhaust — {4}: Earthbend 4. Activate only during your turn. (Target land you control becomes a 0/0 creature with haste that's still a land. Put four +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped. Activate each exhaust ability only once.)","G,R","G,R",uncommon,TLA,Avatar: The Last Airbender,210,,,,,Exhaust;Earthbend,draw;pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Blacksmith's Talent,{R},1.0,Enchantment — Class,"(Gain the next level as a sorcery to add its ability.)
+When this Class enters, create a colorless Equipment artifact token named Sword with ""Equipped creature gets +1/+1"" and equip {2}.
+{2}{R}: Level 2
+At the beginning of combat on your turn, attach target Equipment you control to up to one target creature you control.
+{3}{R}: Level 3
+During your turn, equipped creatures you control have double strike and haste.",R,R,uncommon,BLB,Bloomburrow,125,,,,,,pump;token;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Blanchwood Armor,{2}{G},3.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets +1/+1 for each Forest you control.",G,G,uncommon,7ED,Seventh Edition,232★,,,,,Enchant,pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel,premodern,predh"
+Blood Spatter Analysis,{B}{R},2.0,Enchantment,"When this enchantment enters, it deals 3 damage to target creature an opponent controls.
+Whenever one or more creatures die, mill a card and put a bloodstain counter on this enchantment. Then sacrifice it if it has five or more bloodstain counters on it. When you do, return target creature card from your graveyard to your hand.","B,R","B,R",rare,MKM,Murders at Karlov Manor,189,,,,,Mill,bounce;mill;reanimation,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+Blossombind,{1}{U},2.0,Enchantment — Aura,"Enchant creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature can't become untapped and can't have counters put on it.",U,U,common,ECL,Lorwyn Eclipsed,45,,,,,Enchant,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Boggart Mischief,{2}{B},3.0,Kindred Enchantment — Goblin,"When this enchantment enters, you may blight 1. If you do, create two 1/1 black and red Goblin creature tokens. (To blight 1, put a -1/-1 counter on a creature you control.)
+Whenever a Goblin creature you control dies, each opponent loses 1 life and you gain 1 life.",B,B,uncommon,ECL,Lorwyn Eclipsed,92,,,,,Blight,lifegain;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Bottomless Pool // Locker Room,{U} // {4}{U},6.0,Enchantment — Room // Enchantment — Room,,U,U,uncommon,DSK,Duskmourn: House of Horror,43,,,,,,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Breaching Dragonstorm,{4}{R},5.0,Enchantment,"When this enchantment enters, exile cards from the top of your library until you exile a nonland card. You may cast it without paying its mana cost if that spell's mana value is 8 or less. If you don't, put that card into your hand.
+When a Dragon you control enters, return this enchantment to its owner's hand.",R,R,uncommon,TDM,Tarkir: Dragonstorm,299,,,,,,mill,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Brimstone Roundup,{1}{R},2.0,Enchantment,"Whenever you cast your second spell each turn, create a 1/1 red Mercenary creature token with ""{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.""
+Plot {2}{R} (You may pay {2}{R} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",R,R,uncommon,OTJ,Outlaws of Thunder Junction,115,,,,,Plot,pump;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"
+Builder's Talent,{1}{W},2.0,Enchantment — Class,"(Gain the next level as a sorcery to add its ability.)
+When this Class enters, create a 0/4 white Wall creature token with defender.
+{W}: Level 2
+Whenever one or more noncreature, nonland permanents you control enter, put a +1/+1 counter on target creature you control.
+{4}{W}: Level 3
+When this Class becomes level 3, return target noncreature, nonland permanent card from your graveyard to the battlefield.",W,W,uncommon,BLB,Bloomburrow,5,,,,,,bounce;pump;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Burden of Proof,{1}{U},2.0,Enchantment — Aura,"Flash
+Enchant creature
+Enchanted creature gets +2/+2 as long as it's a Detective you control. Otherwise, it has base power and toughness 1/1 and can't block Detectives.",U,U,uncommon,MKM,Murders at Karlov Manor,42,,,,,Enchant;Flash,flash;pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"
+Buried in the Garden,{2}{G}{W},4.0,Enchantment — Aura,"Enchant land
+When this Aura enters, exile target nonland permanent you don't control until this Aura leaves the battlefield.
+Whenever enchanted land is tapped for mana, its controller adds an additional one mana of any color.","G,W","G,W",uncommon,OTP,Breaking News,38,,,,"B,G,R,U,W",Enchant,removal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"

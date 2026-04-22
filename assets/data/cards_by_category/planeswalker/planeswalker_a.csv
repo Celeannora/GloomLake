@@ -1,0 +1,11 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,produced_mana,keywords,tags,legal_formats
+"Ajani, Caller of the Pride",{1}{W}{W},3.0,Legendary Planeswalker — Ajani,"+1: Put a +1/+1 counter on up to one target creature.
+−3: Target creature gains flying and double strike until end of turn.
+−8: Create X 2/2 white Cat creature tokens, where X is your life total.",W,W,mythic,M14,Magic 2014,1,,,4,,,pump;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+"Ajani, Outland Chaperone",{1}{W}{W},3.0,Legendary Planeswalker — Ajani,"+1: Create a 1/1 green and white Kithkin creature token.
+−2: Ajani deals 4 damage to target tapped creature.
+−8: Look at the top X cards of your library, where X is your life total. You may put any number of nonland permanent cards with mana value 3 or less from among them onto the battlefield. Then shuffle.",W,W,mythic,ECL,Lorwyn Eclipsed,4,,,3,,,token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+"Ashiok, Wicked Manipulator",{3}{B}{B},5.0,Legendary Planeswalker — Ashiok,"If you would pay life while your library has at least that many cards in it, exile that many cards from the top of your library instead.
++1: Look at the top two cards of your library. Exile one of them and put the other into your hand.
+−2: Create two 1/1 black Nightmare creature tokens with ""At the beginning of combat on your turn, if a card was put into exile this turn, put a +1/+1 counter on this token.""
+−7: Target player exiles the top X cards of their library, where X is the total mana value of cards you own in exile.",B,B,mythic,PWOE,Wilds of Eldraine Promos,78p,,,5,,,mill;pump;token;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"

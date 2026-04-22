@@ -1,0 +1,135 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,produced_mana,keywords,tags,legal_formats
+Tablet of Discovery,{2}{R},3.0,Artifact,"When this artifact enters, mill a card. You may play that card this turn. (To mill a card, put the top card of your library into your graveyard.)
+{T}: Add {R}.
+{T}: Add {R}{R}. Spend this mana only to cast instant and sorcery spells.",R,R,uncommon,SOS,Secrets of Strixhaven,132,,,,R,Mill,mill;ramp,"standard,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Tangle Tumbler,{3},3.0,Artifact — Vehicle,"Vigilance
+{3}, {T}: Put a +1/+1 counter on target creature.
+Tap two untapped tokens you control: This Vehicle becomes an artifact creature until end of turn.",,,uncommon,BLB,Bloomburrow,250,6,6,,,Vigilance,pump;token;vigilance,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Tarrian's Journal // The Tomb of Aclazotz,,2.0,Legendary Artifact — Book // Legendary Land — Cave,,,B,rare,LCI,The Lost Caverns of Ixalan,371,,,,B,Transform,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+Tarrian's Soulcleaver,{1},1.0,Legendary Artifact — Equipment,"Equipped creature has vigilance.
+Whenever another artifact or creature is put into a graveyard from the battlefield, put a +1/+1 counter on equipped creature.
+Equip {2}",,,rare,SLD,Secret Lair Drop,2224,,,,,Equip,pump;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+Temur Monument,{2},2.0,Artifact,"When this artifact enters, search your library for a basic Forest, Island, or Mountain card, reveal it, put it into your hand, then shuffle.
+{3}{G}{U}{R}, {T}, Sacrifice this artifact: Create a 5/5 green Elephant creature token. Activate only as a sorcery.",,"G,R,U",uncommon,TDM,Tarkir: Dragonstorm,248,,,,,,token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Territory Forge,{4}{R},5.0,Artifact,"When this artifact enters, if you cast it, exile target artifact or land.
+This artifact has all activated abilities of the exiled card.",R,R,mythic,BIG,The Big Score,45,,,,,,removal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+Thaumaton Torpedo,{1},1.0,Artifact,"{6}, {T}, Sacrifice this artifact: Destroy target nonland permanent. This ability costs {3} less to activate if you attacked with a Spacecraft this turn.",,,common,EOE,Edge of Eternities,246,,,,,,removal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+The Aetherspark,{4},4.0,Legendary Artifact Planeswalker — Equipment,"As long as The Aetherspark is attached to a creature, The Aetherspark can't be attacked and has ""Whenever equipped creature deals combat damage during your turn, put that many loyalty counters on The Aetherspark.""
++1: Attach The Aetherspark to up to one target creature you control. Put a +1/+1 counter on that creature.
+−5: Draw two cards.
+−10: Add ten mana of any one color.",,,mythic,DFT,Aetherdrift,231,,,4,"B,G,R,U,W",,draw;pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+The Belligerent,{2}{U}{R},4.0,Legendary Artifact — Vehicle,"Whenever The Belligerent attacks, create a Treasure token. Until end of turn, you may look at the top card of your library any time, and you may play lands and cast spells from the top of your library.
+Crew 3","R,U","R,U",rare,LCI,The Lost Caverns of Ixalan,225,5,5,,,Treasure;Crew,mill;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+The Darkness Crystal,{2}{B}{B},4.0,Legendary Artifact,"Black spells you cast cost {1} less to cast.
+If a nontoken creature an opponent controls would die, instead exile it and you gain 2 life.
+{4}{B}{B}, {T}: Put target creature card exiled with The Darkness Crystal onto the battlefield tapped under your control with two additional +1/+1 counters on it.",B,B,rare,FIN,Final Fantasy,96,,,,,,lifegain;pump;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+The Dominion Bracelet,{2},2.0,Legendary Artifact — Equipment,"Equipped creature gets +1/+1 and has ""{15}, Exile The Dominion Bracelet: You control target opponent during their next turn. This ability costs {X} less to activate, where X is this creature's power. Activate only as a sorcery."" (You see all cards that player could see and make all decisions for them.)
+Equip {1}",,,mythic,PEOE,Edge of Eternities Promos,239p,,,,,Equip,pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+The Earth Crystal,{2}{G}{G},4.0,Legendary Artifact,"Green spells you cast cost {1} less to cast.
+If one or more +1/+1 counters would be put on a creature you control, twice that many +1/+1 counters are put on that creature instead.
+{4}{G}{G}, {T}: Distribute two +1/+1 counters among one or two target creatures you control.",G,G,rare,PFIN,Final Fantasy Promos,184s,,,,,,pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+The Endstone,{7},7.0,Legendary Artifact,"Whenever you play a land or cast a spell, draw a card.
+At the beginning of your end step, your life total becomes half your starting life total, rounded up.",,,mythic,EOE,Edge of Eternities,391,,,,,,draw,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+The Enigma Jewel // Locus of Enlightenment,,1.0,Legendary Artifact // Legendary Artifact,,,U,mythic,LCI,The Lost Caverns of Ixalan,55,,,,C,Craft;Transform,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"
+The Eternity Elevator,{5},5.0,Legendary Artifact — Spacecraft,"{T}: Add {C}{C}{C}.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)
+20+ | {T}: Add X mana of any one color, where X is the number of charge counters on The Eternity Elevator.",,,rare,EOE,Edge of Eternities,241,,,,"B,C,G,R,U,W",Station,ramp;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+The Everflowing Well // The Myriad Pools,,3.0,Legendary Artifact // Legendary Artifact Land,,,U,rare,LCI,The Lost Caverns of Ixalan,363,,,,U,Transform;Descend;Mill,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+The Fire Crystal,{2}{R}{R},4.0,Legendary Artifact,"Red spells you cast cost {1} less to cast.
+Creatures you control have haste.
+{4}{R}{R}, {T}: Create a token that's a copy of target creature you control. Sacrifice it at the beginning of the next end step.",R,R,rare,FIN,Final Fantasy,337,,,,,,token;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+The Fire Nation Drill,{2}{B}{B},4.0,Legendary Artifact — Vehicle,"Trample
+When The Fire Nation Drill enters, you may tap it. When you do, destroy target creature with power 4 or less.
+{1}: Permanents your opponents control lose hexproof and indestructible until end of turn.
+Crew 2",B,B,rare,TLA,Avatar: The Last Airbender,98,6,3,,,Crew;Trample,protection;removal;trample,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+The Irencrag,{2},2.0,Legendary Artifact,"{T}: Add {C}.
+Whenever a legendary creature you control enters, you may have The Irencrag become a legendary Equipment artifact named Everflame, Heroes' Legacy. If you do, it gains equip {3} and ""Equipped creature gets +3/+3"" and loses all other abilities.",,,rare,PWOE,Wilds of Eldraine Promos,248p,,,,C,,pump;ramp;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+The Key to the Vault,{1}{U},2.0,Legendary Artifact — Equipment,"Whenever equipped creature deals combat damage to a player, look at that many cards from the top of your library. You may exile a nonland card from among them. Put the rest on the bottom of your library in a random order. You may cast the exiled card without paying its mana cost.
+Equip {2}{U}",U,U,rare,OTJ,Outlaws of Thunder Junction,54,,,,,Equip,mill,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+The Last Ride,{B},1.0,Legendary Artifact — Vehicle,"The Last Ride gets -X/-X, where X is your life total.
+{2}{B}, Pay 2 life: Draw a card.
+Crew 2",B,B,mythic,PDFT,Aetherdrift Promos,94s,13,13,,,Crew,draw,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+The Lunar Whale,{3}{U},4.0,Legendary Artifact — Vehicle,"Flying
+You may look at the top card of your library any time.
+As long as The Lunar Whale attacked this turn, you may play the top card of your library.
+Crew 1",U,U,rare,PFIN,Final Fantasy Promos,60s,3,5,,,Flying;Crew,flying,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+The Masamune,{3},3.0,Legendary Artifact — Equipment,"As long as equipped creature is attacking, it has first strike and must be blocked if able.
+Equipped creature has ""If a creature dying causes a triggered ability of this creature or an emblem you own to trigger, that ability triggers an additional time.""
+Equip {2}",,,rare,PFIN,Final Fantasy Promos,264s,,,,,Equip,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+The Millennium Calendar,{1},1.0,Legendary Artifact,"Whenever you untap one or more permanents during your untap step, put that many time counters on The Millennium Calendar.
+{2}, {T}: Double the number of time counters on The Millennium Calendar.
+When there are 1,000 or more time counters on The Millennium Calendar, sacrifice it and each opponent loses 1,000 life.",,,mythic,PLCI,The Lost Caverns of Ixalan Promos,257p,,,,,,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+The Ooze,{2},2.0,Legendary Artifact,"Whenever a creature you control with a +1/+1 counter on it leaves the battlefield, create a Mutagen token for each +1/+1 counter on it. (A Mutagen token is an artifact with ""{1}, {T}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery."")
+{T}: Exile target card from a graveyard. Create a Mutagen token.",,,rare,TMT,Teenage Mutant Ninja Turtles,177,,,,,,pump;removal;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+The Prima Vista,{4}{U},5.0,Legendary Artifact — Vehicle,"Flying
+Whenever you cast a noncreature spell, if at least four mana was spent to cast it, The Prima Vista becomes an artifact creature until end of turn.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)",U,U,uncommon,FIN,Final Fantasy,64,5,3,,,Flying;Crew,flying,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+The Regalia,{4},4.0,Legendary Artifact — Vehicle,"Haste
+Whenever The Regalia attacks, reveal cards from the top of your library until you reveal a land card. Put that card onto the battlefield tapped and the rest on the bottom of your library in a random order.
+Crew 1",,,rare,PFIN,Final Fantasy Promos,267s,4,4,,,Haste;Crew,haste;mill,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+The Seriema,{1}{W}{W},3.0,Legendary Artifact — Spacecraft,"When The Seriema enters, search your library for a legendary creature card, reveal it, put it into your hand, then shuffle.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 7+.)
+7+ | Flying
+Other tapped legendary creatures you control have indestructible.",W,W,rare,PEOE,Edge of Eternities Promos,35p,5,5,,,Station,protection;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+The Skullspore Nexus,{6}{G}{G},8.0,Legendary Artifact,"This spell costs {X} less to cast, where X is the greatest power among creatures you control.
+Whenever one or more nontoken creatures you control die, create a green Fungus Dinosaur creature token with base power and toughness each equal to the total power of those creatures.
+{2}, {T}: Double target creature's power until end of turn.",G,G,mythic,LCI,The Lost Caverns of Ixalan,340,,,,,,token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+The Soul Stone,{1}{B},2.0,Legendary Artifact — Infinity Stone,"Indestructible
+{T}: Add {B}.
+{6}{B}, {T}, Exile a creature you control: Harness The Soul Stone. (Once harnessed, its ∞ ability is active.)
+∞ — At the beginning of your upkeep, return target creature card from your graveyard to the battlefield.",B,B,mythic,SPM,Marvel's Spider-Man,66,,,,B,Indestructible,bounce;protection;ramp;reanimation,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+The Water Crystal,{2}{U}{U},4.0,Legendary Artifact,"Blue spells you cast cost {1} less to cast.
+If an opponent would mill one or more cards, they mill that many cards plus four instead.
+{4}{U}{U}, {T}: Each opponent mills cards equal to the number of cards in your hand.",U,U,rare,PFIN,Final Fantasy Promos,85s,,,,,Mill,mill,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+The Wind Crystal,{2}{W}{W},4.0,Legendary Artifact,"White spells you cast cost {1} less to cast.
+If you would gain life, you gain twice that much life instead.
+{4}{W}{W}, {T}: Creatures you control gain flying and lifelink until end of turn.",W,W,rare,FIN,Final Fantasy,43,,,,,,lifegain,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Thief's Knife,{2}{U},3.0,Artifact — Equipment,"Job select (When this Equipment enters, create a 1/1 colorless Hero creature token, then attach this to it.)
+Equipped creature gets +1/+1, has ""Whenever this creature deals combat damage to a player, draw a card,"" and is a Rogue in addition to its other types.
+Equip {4}",U,U,uncommon,FIN,Final Fantasy,81,,,,,Job select;Equip,draw;pump;token;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Thinking Cap,{1},1.0,Artifact — Equipment,"Equipped creature gets +1/+2.
+Equip Detective {1}
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",,,common,MKM,Murders at Karlov Manor,257,,,,,Equip,pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,paupercommander,duel"
+Thopter Fabricator,{2}{U},3.0,Artifact — Vehicle,"Flying
+Whenever you draw your second card each turn, create a 1/1 colorless Thopter artifact creature token with flying.
+Crew 2",U,U,rare,DFT,Aetherdrift,304,4,4,,,Flying;Crew,flying;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Thousand Moons Smithy // Barracks of the Thousand,,4.0,Legendary Artifact // Legendary Artifact Land,,,W,rare,LCI,The Lost Caverns of Ixalan,39,,,,W,Transform,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+Three Bowls of Porridge,{2},2.0,Artifact — Food,"{2}, {T}: Choose one that hasn't been chosen —
+• This artifact deals 2 damage to target creature.
+• Tap target creature.
+• Sacrifice this artifact. You gain 3 life.",,,uncommon,WOE,Wilds of Eldraine,253,,,,,,lifegain,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"
+Thrumming Hivepool,{6},6.0,Artifact,"Affinity for Slivers (This spell costs {1} less to cast for each Sliver you control.)
+Slivers you control have double strike and haste.
+At the beginning of your upkeep, create two 1/1 colorless Sliver creature tokens.",,,rare,PEOE,Edge of Eternities Promos,247s,,,,,Affinity,token;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Thunder Lasso,{2}{W},3.0,Artifact — Equipment,"When this Equipment enters, attach it to target creature you control.
+Equipped creature gets +1/+1.
+Whenever equipped creature attacks, tap target creature defending player controls.
+Equip {2}",W,W,uncommon,OTJ,Outlaws of Thunder Junction,35,,,,,Equip,pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"
+Thundering Broodwagon,{2}{B}{B}{G}{G},6.0,Artifact — Vehicle,"Menace, reach
+When this Vehicle enters, destroy target nonland permanent an opponent controls with mana value 4 or less.
+Crew 3
+Cycling {2} ({2}, Discard this card: Draw a card.)","B,G","B,G",uncommon,DFT,Aetherdrift,225,6,5,,,Reach;Crew;Menace;Cycling,draw;menace;reach;removal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Thunderous Velocipede,{1}{G}{G},3.0,Artifact — Vehicle,"Trample
+Each other Vehicle and creature you control enters with an additional +1/+1 counter on it if its mana value is 4 or less. Otherwise, it enters with three additional +1/+1 counters on it.
+Crew 3",G,G,mythic,PDFT,Aetherdrift Promos,183p,5,5,,,Crew;Trample,pump;trample;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Tinker's Tote,{2}{W},3.0,Artifact,"When this artifact enters, create two 1/1 colorless Gnome artifact creature tokens.
+{W}, Sacrifice this artifact: You gain 3 life.",W,W,common,LCI,The Lost Caverns of Ixalan,40,,,,,,lifegain;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,paupercommander,duel"
+Tithing Blade // Consuming Sepulcher,,2.0,Artifact // Artifact,,,B,common,LCI,The Lost Caverns of Ixalan,128,,,,,Craft;Transform,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,paupercommander,duel"
+Torpor Orb,{2},2.0,Artifact,Creatures entering don't cause abilities to trigger.,,,mythic,BIG,The Big Score,57,,,,,,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel,predh"
+Transmutation Font,{5},5.0,Artifact,"{T}: Create your choice of a Blood token, a Clue token, or a Food token.
+{3}, {T}, Sacrifice three artifact tokens with different names: Search your library for an artifact card, put it onto the battlefield, then shuffle. Activate only as a sorcery.",,,mythic,BIG,The Big Score,93,,,,,Food,token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+Treasure Map // Treasure Cove,,2.0,Artifact // Land,,,,rare,PXLN,Ixalan Promos,250s,,,,"B,C,G,R,U,W",Transform;Treasure;Scry,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+Trusty Boomerang,{1},1.0,Artifact — Equipment,"Equipped creature has ""{1}, {T}: Tap target creature. Return Trusty Boomerang to its owner's hand.""
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",,,uncommon,TLA,Avatar: The Last Airbender,260,,,,,Equip,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Tundra Tank,{2}{B},3.0,Artifact — Vehicle,"Firebending 1 (Whenever this creature attacks, add {R}. This mana lasts until end of combat.)
+When this Vehicle enters, target creature you control gains indestructible until end of turn.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)",B,B,uncommon,TLA,Avatar: The Last Airbender,121,4,4,,R,Crew;Firebending,protection;ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Turtle Blimp,{5},5.0,Artifact — Vehicle,"Flying
+When this Vehicle enters, create a 2/2 red Mutant creature token.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)",,,uncommon,TMT,Teenage Mutant Ninja Turtles,180,3,4,,,Flying;Crew,flying;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Turtle Van,{3},3.0,Artifact — Vehicle,"Whenever this Vehicle attacks, put a +1/+1 counter on target creature that crewed it this turn. Then if that creature is a Mutant, Ninja, or Turtle, double the number of +1/+1 counters on it.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)",,,rare,TMT,Teenage Mutant Ninja Turtles,278,4,4,,,Crew,pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Twin Blades,{2}{R},3.0,Artifact — Equipment,"Flash
+When this Equipment enters, attach it to target creature you control. That creature gains double strike until end of turn.
+Equipped creature gets +1/+1.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",R,R,uncommon,TLA,Avatar: The Last Airbender,157,,,,,Equip;Flash,flash;pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"

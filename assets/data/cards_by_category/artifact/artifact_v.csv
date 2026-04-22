@@ -1,0 +1,11 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,produced_mana,keywords,tags,legal_formats
+Valor's Flagship,{4}{W}{W}{W},7.0,Legendary Artifact — Vehicle,"Flying, first strike, lifelink
+Crew 3
+Cycling {X}{2}{W} ({X}{2}{W}, Discard this card: Draw a card.)
+When you cycle this card, create X 1/1 colorless Pilot creature tokens with ""This token saddles Mounts and crews Vehicles as though its power were 2 greater.""",W,W,mythic,PDFT,Aetherdrift Promos,35p,7,7,,,Flying;Lifelink;First strike;Crew;Cycling,draw;flying;lifegain;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Veloheart Bike,{2}{G},3.0,Artifact — Vehicle,"When this Vehicle enters, you gain 2 life.
+{T}: Add one mana of any color.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)",G,G,common,DFT,Aetherdrift,184,4,2,,"B,G,R,U,W",Crew,lifegain,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Voyager Glidecar,{W},1.0,Artifact — Vehicle,"When this Vehicle enters, scry 1.
+Tap three other untapped creatures you control: Until end of turn, this Vehicle becomes an artifact creature and gains flying. Put a +1/+1 counter on it.
+Crew 1",W,W,rare,PDFT,Aetherdrift Promos,36p,2,3,,,Crew;Scry,pump;scry;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"

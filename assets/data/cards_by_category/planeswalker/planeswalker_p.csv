@@ -1,0 +1,5 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,produced_mana,keywords,tags,legal_formats
+Professor Dellian Fel,{2}{B}{G},4.0,Legendary Planeswalker — Dellian,"+2: You gain 3 life.
+0: You draw a card and lose 1 life.
+−3: Destroy target creature.
+−6: You get an emblem with ""Whenever you gain life, target opponent loses that much life.""","B,G","B,G",mythic,SOS,Secrets of Strixhaven,214,,,5,,,draw;lifegain;removal,"standard,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"

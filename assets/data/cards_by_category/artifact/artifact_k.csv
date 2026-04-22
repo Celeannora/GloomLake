@@ -1,0 +1,19 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,produced_mana,keywords,tags,legal_formats
+Keys to the House,{1},1.0,Artifact,"{1}, {T}, Sacrifice this artifact: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+{3}, {T}, Sacrifice this artifact: Lock or unlock a door of target Room you control. Activate only as a sorcery.",,,uncommon,DSK,Duskmourn: House of Horror,251,,,,,,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Killer's Mask,{2}{B},3.0,Artifact — Equipment,"When this Equipment enters, manifest dread, then attach this Equipment to that creature. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)
+Equipped creature has menace.
+Equip {2}",B,B,uncommon,DSK,Duskmourn: House of Horror,104,,,,,Manifest;Manifest dread;Equip,tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Knife,{R},1.0,Artifact — Clue Equipment,"During your turn, equipped creature gets +1/+0 and has first strike.
+{2}, Sacrifice this Equipment: Draw a card.
+Equip {2}",R,R,uncommon,CLU,Ravnica: Clue Edition,10,,,,,Equip,draw;pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+Krovod Haunch,{W},1.0,Artifact — Food Equipment,"Equipped creature gets +2/+0.
+{2}, {T}, Sacrifice this Equipment: You gain 3 life.
+When this Equipment is put into a graveyard from the battlefield, you may pay {1}{W}. If you do, create two 1/1 white Dog creature tokens.
+Equip {2}",W,W,uncommon,MKM,Murders at Karlov Manor,21,,,,,Equip,lifegain;pump;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"
+Kylox's Voltstrider,{1}{U}{R},3.0,Artifact — Vehicle,"Collect evidence 6: This Vehicle becomes an artifact creature until end of turn.
+Whenever this Vehicle attacks, you may cast an instant or sorcery spell from among cards exiled with it. If that spell would be put into a graveyard, put it on the bottom of its owner's library instead.
+Crew 2","R,U","R,U",mythic,MKM,Murders at Karlov Manor,417,4,4,,,Collect evidence;Crew,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+Kyoshi Battle Fan,{2},2.0,Artifact — Equipment,"When this Equipment enters, create a 1/1 white Ally creature token, then attach this Equipment to it.
+Equipped creature gets +1/+0.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",,,common,TLA,Avatar: The Last Airbender,257,,,,,Equip,pump;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"

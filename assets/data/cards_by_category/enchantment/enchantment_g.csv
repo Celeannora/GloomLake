@@ -1,0 +1,38 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,produced_mana,keywords,tags,legal_formats
+Gadwick's First Duel,{1}{U},2.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Create a Cursed Role token attached to up to one target creature. (If you control another Role on it, put that one into the graveyard. Enchanted creature is 1/1.)
+II — Scry 2.
+III — When you next cast an instant or sorcery spell with mana value 3 or less this turn, copy that spell. You may choose new targets for the copy.",U,U,uncommon,WOE,Wilds of Eldraine,51,,,,,Role token;Scry,scry;token;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"
+Garruk's Uprising,{2}{G},3.0,Enchantment,"When this enchantment enters, if you control a creature with power 4 or greater, draw a card.
+Creatures you control have trample. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.)
+Whenever a creature you control with power 4 or greater enters, draw a card.",G,G,uncommon,BLC,Bloomburrow Commander,219,,,,,,draw;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Gilt-Leaf's Embrace,{2}{G},3.0,Enchantment — Aura,"Flash
+Enchant creature
+When this Aura enters, enchanted creature gains trample and indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it. If its toughness is 0 or less, it still dies.)
+Enchanted creature gets +2/+0.",G,G,common,ECL,Lorwyn Eclipsed,177,,,,,Enchant;Flash,flash;protection;pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Glacierwood Siege,{1}{G}{U},3.0,Enchantment,"As this enchantment enters, choose Temur or Sultai.
+• Temur — Whenever you cast an instant or sorcery spell, target player mills four cards.
+• Sultai — You may play lands from your graveyard.","G,U","G,U",rare,TDM,Tarkir: Dragonstorm,189,,,,,Mill,mill,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Glassworks // Shattered Yard,{2}{R} // {4}{R},8.0,Enchantment — Room // Enchantment — Room,,R,R,common,DSK,Duskmourn: House of Horror,137,,,,,,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Goblin Oriflamme,{1}{R},2.0,Enchantment,Attacking creatures you control get +1/+0.,R,R,uncommon,FDN,Foundations,539,,,,,,tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Gossip's Talent,{1}{U},2.0,Enchantment — Class,"(Gain the next level as a sorcery to add its ability.)
+Whenever a creature you control enters, surveil 1.
+{1}{U}: Level 2
+Whenever you attack, target attacking creature with power 3 or less can't be blocked this turn.
+{3}{U}: Level 3
+Whenever a creature you control deals combat damage to a player, you may exile it, then return it to the battlefield under its owner's control.",U,U,uncommon,BLB,Bloomburrow,51,,,,,Surveil,surveil,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Graduation Day,{W},1.0,Enchantment,"Repartee — Whenever you cast an instant or sorcery spell that targets a creature, put a +1/+1 counter on target creature you control.",W,W,uncommon,SOS,Secrets of Strixhaven,16,,,,,Repartee,pump,"standard,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Grand Entryway // Elegant Rotunda,{1}{W} // {2}{W},5.0,Enchantment — Room // Enchantment — Room,,W,W,common,DSK,Duskmourn: House of Horror,287,,,,,,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Grasping Shadows // Shadows' Lair,,4.0,Enchantment // Land — Cave,,,B,uncommon,LCI,The Lost Caverns of Ixalan,108,,,,B,Transform,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"
+Gratuitous Violence,{2}{R}{R}{R},5.0,Enchantment,"If a creature you control would deal damage to a permanent or player, it deals double that damage instead.",R,R,rare,CN2,Conspiracy: Take the Crown,161,,,,,,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel,premodern,predh"
+Greed's Gambit,{3}{B},4.0,Enchantment,"When this enchantment enters, you draw three cards, gain 6 life, and create three 2/1 black Bat creature tokens with flying.
+At the beginning of your end step, you discard a card, lose 2 life, and sacrifice a creature.
+When this enchantment leaves the battlefield, you discard three cards, lose 6 life, and sacrifice three creatures.",B,B,mythic,BIG,The Big Score,38,,,,,,draw;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+Greenhouse // Rickety Gazebo,{2}{G} // {3}{G},7.0,Enchantment — Room // Enchantment — Room,,G,G,uncommon,DSK,Duskmourn: House of Horror,181,,,,"B,G,R,U,W",Mill,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Grievous Wound,{3}{B}{B},5.0,Enchantment — Aura,"Enchant player
+Enchanted player can't gain life.
+Whenever enchanted player is dealt damage, they lose half their life, rounded up.",B,B,rare,PDSK,Duskmourn: House of Horror Promos,102p,,,,,Enchant,lifegain,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Growing Dread,{G}{U},2.0,Enchantment,"Flash
+When this enchantment enters, manifest dread. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)
+Whenever you turn a permanent face up, put a +1/+1 counter on it.","G,U","G,U",uncommon,DSK,Duskmourn: House of Horror,216,,,,,Manifest;Manifest dread;Flash,flash;pump;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+"Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun",,3.0,Legendary Enchantment // Legendary Land,,,G,rare,LCI,The Lost Caverns of Ixalan,188,,,,G,Transform,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"

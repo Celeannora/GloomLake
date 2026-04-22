@@ -1,0 +1,287 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Firebending Student,{1}{R},2.0,Creature — Human Monk,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Firebending X, where X is this creature's power. (Whenever this creature attacks, add X {R}. This mana lasts until end of combat.)",R,R,rare,PTLA,Avatar: The Last Airbender Promos,139s,1,2,,Prowess;Firebending
+Firebending Student,{1}{R},2.0,Creature — Human Monk,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Firebending X, where X is this creature's power. (Whenever this creature attacks, add X {R}. This mana lasts until end of combat.)",R,R,rare,TLA,Avatar: The Last Airbender,342,1,2,,Prowess;Firebending
+Firebrand Archer,{1}{R},2.0,Creature — Human Archer,"Whenever you cast a noncreature spell, this creature deals 1 damage to each opponent.",R,R,common,J25,Foundations Jumpstart,548,2,1,,
+Firebrand Archer,{1}{R},2.0,Creature — Human Archer,"Whenever you cast a noncreature spell, this creature deals 1 damage to each opponent.",R,R,common,HOU,Hour of Devastation,92,2,1,,
+Firebrand Archer,{1}{R},2.0,Creature — Human Archer,"Whenever you cast a noncreature spell, this creature deals 1 damage to each opponent.",R,R,common,AKR,Amonkhet Remastered,154,2,1,,
+Firebrand Archer,{1}{R},2.0,Creature — Human Archer,"Whenever you cast a noncreature spell, this creature deals 1 damage to each opponent.",R,R,common,PLST,The List,HOU-92,2,1,,
+Firebrand Archer,{1}{R},2.0,Creature — Human Archer,"Whenever you cast a noncreature spell, this creature deals 1 damage to each opponent.",R,R,common,FDN,Foundations,196,2,1,,
+Fireglass Mentor,{B}{R},2.0,Creature — Lizard Warlock,"At the beginning of your second main phase, if an opponent lost life this turn, exile the top two cards of your library. Choose one of them. Until end of turn, you may play that card.","B,R","B,R",uncommon,BLB,Bloomburrow,213,2,1,,
+Firespitter Whelp,{2}{R},3.0,Creature — Dragon,"Flying
+Whenever you cast a noncreature or Dragon spell, this creature deals 1 damage to each opponent.",R,R,uncommon,J25,Foundations Jumpstart,14,2,2,,Flying
+Firespitter Whelp,{2}{R},3.0,Creature — Dragon,"Flying
+Whenever you cast a noncreature or Dragon spell, this creature deals 1 damage to each opponent.",R,R,uncommon,FDN,Foundations,197,2,2,,Flying
+"Firion, Wild Rose Warrior",{2}{R},3.0,Legendary Creature — Human Rebel Warrior,"Equipped creatures you control have haste.
+Whenever a nontoken Equipment you control enters, create a token that's a copy of it, except it has ""This Equipment's equip abilities cost {2} less to activate."" Sacrifice that token at the beginning of the next upkeep.",R,R,rare,PFIN,Final Fantasy Promos,137s,3,3,,
+"Firion, Wild Rose Warrior",{2}{R},3.0,Legendary Creature — Human Rebel Warrior,"Equipped creatures you control have haste.
+Whenever a nontoken Equipment you control enters, create a token that's a copy of it, except it has ""This Equipment's equip abilities cost {2} less to activate."" Sacrifice that token at the beginning of the next upkeep.",R,R,rare,FIN,Final Fantasy,531,3,3,,
+"Firion, Wild Rose Warrior",{2}{R},3.0,Legendary Creature — Human Rebel Warrior,"Equipped creatures you control have haste.
+Whenever a nontoken Equipment you control enters, create a token that's a copy of it, except it has ""This Equipment's equip abilities cost {2} less to activate."" Sacrifice that token at the beginning of the next upkeep.",R,R,rare,FIN,Final Fantasy,459,3,3,,
+"Firion, Wild Rose Warrior",{2}{R},3.0,Legendary Creature — Human Rebel Warrior,"Equipped creatures you control have haste.
+Whenever a nontoken Equipment you control enters, create a token that's a copy of it, except it has ""This Equipment's equip abilities cost {2} less to activate."" Sacrifice that token at the beginning of the next upkeep.",R,R,rare,FIN,Final Fantasy,386,3,3,,
+"Firion, Wild Rose Warrior",{2}{R},3.0,Legendary Creature — Human Rebel Warrior,"Equipped creatures you control have haste.
+Whenever a nontoken Equipment you control enters, create a token that's a copy of it, except it has ""This Equipment's equip abilities cost {2} less to activate."" Sacrifice that token at the beginning of the next upkeep.",R,R,rare,FIN,Final Fantasy,137,3,3,,
+First-Time Flyer,{1}{U},2.0,Creature — Human Pilot Ally,"Flying
+This creature gets +1/+1 as long as there's a Lesson card in your graveyard.",U,U,common,TLA,Avatar: The Last Airbender,49,1,2,,Flying
+Flame-Chain Mauler,{1}{R},2.0,Creature — Elemental Warrior,{1}{R}: This creature gets +1/+0 and gains menace until end of turn. (It can't be blocked except by two or more creatures.),R,R,common,ECL,Lorwyn Eclipsed,138,2,2,,
+Flamebraider,{1}{R},2.0,Creature — Elemental Bard,{T}: Add two mana in any combination of colors. Spend this mana only to cast Elemental spells or activate abilities of Elemental sources.,R,R,uncommon,ECL,Lorwyn Eclipsed,139,2,2,,
+Flamecache Gecko,{1}{R},2.0,Creature — Lizard Warlock,"When this creature enters, if an opponent lost life this turn, add {B}{R}.
+{1}{R}, Discard a card: Draw a card.",R,"B,R",uncommon,BLB,Bloomburrow,135,2,2,,
+Flamehold Grappler,{U}{R}{W},3.0,Creature — Human Monk,"First strike
+When this creature enters, copy the next spell you cast this turn when you cast it. You may choose new targets for the copy. (A copy of a permanent spell becomes a token.)","R,U,W","R,U,W",rare,TDM,Tarkir: Dragonstorm,359,3,3,,First strike
+Flamehold Grappler,{U}{R}{W},3.0,Creature — Human Monk,"First strike
+When this creature enters, copy the next spell you cast this turn when you cast it. You may choose new targets for the copy. (A copy of a permanent spell becomes a token.)","R,U,W","R,U,W",rare,PTDM,Tarkir: Dragonstorm Promos,185p,3,3,,First strike
+Flamehold Grappler,{U}{R}{W},3.0,Creature — Human Monk,"First strike
+When this creature enters, copy the next spell you cast this turn when you cast it. You may choose new targets for the copy. (A copy of a permanent spell becomes a token.)","R,U,W","R,U,W",rare,PTDM,Tarkir: Dragonstorm Promos,185s,3,3,,First strike
+Flamehold Grappler,{U}{R}{W},3.0,Creature — Human Monk,"First strike
+When this creature enters, copy the next spell you cast this turn when you cast it. You may choose new targets for the copy. (A copy of a permanent spell becomes a token.)","R,U,W","R,U,W",rare,TDM,Tarkir: Dragonstorm,185,3,3,,First strike
+Flamekin Gildweaver,{3}{R},4.0,Creature — Elemental Sorcerer,"Trample
+When this creature enters, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")",R,R,common,ECL,Lorwyn Eclipsed,140,4,3,,Treasure;Trample
+Flamewake Phoenix,{1}{R}{R},3.0,Creature — Phoenix,"Flying, haste
+This creature attacks each combat if able.
+Ferocious — At the beginning of combat on your turn, if you control a creature with power 4 or greater, you may pay {R}. If you do, return this card from your graveyard to the battlefield.",R,R,rare,PFDN,Foundations Promos,198s,2,2,,Flying;Ferocious;Haste
+Flamewake Phoenix,{1}{R}{R},3.0,Creature — Phoenix,"Flying, haste
+This creature attacks each combat if able.
+Ferocious — At the beginning of combat on your turn, if you control a creature with power 4 or greater, you may pay {R}. If you do, return this card from your graveyard to the battlefield.",R,R,rare,PFRF,Fate Reforged Promos,100s,2,2,,Flying;Ferocious;Haste
+Flamewake Phoenix,{1}{R}{R},3.0,Creature — Phoenix,"Flying, haste
+This creature attacks each combat if able.
+Ferocious — At the beginning of combat on your turn, if you control a creature with power 4 or greater, you may pay {R}. If you do, return this card from your graveyard to the battlefield.",R,R,rare,FDN,Foundations,198,2,2,,Flying;Ferocious;Haste
+Flamewake Phoenix,{1}{R}{R},3.0,Creature — Phoenix,"Flying, haste
+This creature attacks each combat if able.
+Ferocious — At the beginning of combat on your turn, if you control a creature with power 4 or greater, you may pay {R}. If you do, return this card from your graveyard to the battlefield.",R,R,rare,FRF,Fate Reforged,100,2,2,,Flying;Ferocious;Haste
+Flaring Cinder,{1}{U/R}{U/R},3.0,Creature — Elemental Sorcerer,"When this creature enters and whenever you cast a spell with mana value 4 or greater, you may discard a card. If you do, draw a card.","R,U","R,U",common,ECL,Lorwyn Eclipsed,225,3,2,,
+"Flash Thompson, Spider-Fan",{1}{W},2.0,Legendary Creature — Human Citizen,"Flash
+When Flash Thompson enters, choose one or both —
+• Heckle — Tap target creature.
+• Hero Worship — Untap target creature.",W,W,uncommon,OM1,Through the Omenpaths,3,2,2,,Flash
+"Flash Thompson, Spider-Fan",{1}{W},2.0,Legendary Creature — Human Citizen,"Flash
+When Flash Thompson enters, choose one or both —
+• Heckle — Tap target creature.
+• Hero Worship — Untap target creature.",W,W,uncommon,SPM,Marvel's Spider-Man,7,2,2,,Flash
+Fleeting Effigy,{R},1.0,Creature — Elemental,"Haste
+At the beginning of your end step, return this creature to its owner's hand. (Return it only if it's on the battlefield.)
+{2}{R}: This creature gets +2/+0 until end of turn.",R,R,uncommon,TDM,Tarkir: Dragonstorm,108,2,2,,Haste
+Flesh Burrower,{1}{G},2.0,Creature — Insect,"Deathtouch
+Whenever this creature attacks, another target creature you control gains deathtouch until end of turn.",G,G,common,DSK,Duskmourn: House of Horror,178,2,2,,Deathtouch
+Flexible Waterbender,{3}{U},4.0,Creature — Human Warrior Ally,"Vigilance
+Waterbend {3}: This creature has base power and toughness 5/2 until end of turn. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)",U,U,common,TLA,Avatar: The Last Airbender,50,2,5,,Vigilance;Waterbend
+Flight-Deck Coordinator,{2}{W},3.0,Creature — Human Soldier,"At the beginning of your end step, if you control two or more tapped creatures, you gain 2 life.",W,W,common,EOE,Edge of Eternities,17,3,3,,
+Flitterwing Nuisance,{U},1.0,Creature — Faerie Rogue,"Flying
+This creature enters with a -1/-1 counter on it.
+{2}{U}, Remove a counter from this creature: Whenever a creature you control deals combat damage to a player or planeswalker this turn, draw a card.",U,U,rare,ECL,Lorwyn Eclipsed,304,2,2,,Flying
+Flitterwing Nuisance,{U},1.0,Creature — Faerie Rogue,"Flying
+This creature enters with a -1/-1 counter on it.
+{2}{U}, Remove a counter from this creature: Whenever a creature you control deals combat damage to a player or planeswalker this turn, draw a card.",U,U,rare,PECL,Lorwyn Eclipsed Promos,48p,2,2,,Flying
+Flitterwing Nuisance,{U},1.0,Creature — Faerie Rogue,"Flying
+This creature enters with a -1/-1 counter on it.
+{2}{U}, Remove a counter from this creature: Whenever a creature you control deals combat damage to a player or planeswalker this turn, draw a card.",U,U,rare,ECL,Lorwyn Eclipsed,48,2,2,,Flying
+Flock Impostor,{2}{W},3.0,Creature — Shapeshifter,"Changeling (This card is every creature type.)
+Flash
+Flying
+When this creature enters, return up to one other target creature you control to its owner's hand.",W,W,uncommon,ECL,Lorwyn Eclipsed,16,2,2,,Changeling;Flying;Flash
+Floodpits Drowner,{1}{U},2.0,Creature — Merfolk,"Flash
+Vigilance
+When this creature enters, tap target creature an opponent controls and put a stun counter on it.
+{1}{U}, {T}: Shuffle this creature and target creature with a stun counter on it into their owners' libraries.",U,U,uncommon,DSK,Duskmourn: House of Horror,59,2,1,,Vigilance;Flash
+"Flopsie, Bumi's Buddy",{4}{G}{G},6.0,Legendary Creature — Ape Goat,"When Flopsie enters, put a +1/+1 counter on each creature you control.
+Each creature you control with power 4 or greater can't be blocked by more than one creature.",G,G,uncommon,TLA,Avatar: The Last Airbender,179,4,4,,
+Flourishing Bloom-Kin,{1}{G},2.0,Creature — Plant Elemental,"This creature gets +1/+1 for each Forest you control.
+Disguise {4}{G}
+When this creature is turned face up, search your library for up to two Forest cards and reveal them. Put one of them onto the battlefield tapped and the other into your hand, then shuffle.",G,G,uncommon,MKM,Murders at Karlov Manor,160,0,0,,Disguise
+Flowerfoot Swordmaster,{W},1.0,Creature — Mouse Soldier,"Offspring {2} (You may pay an additional {2} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+Valiant — Whenever this creature becomes the target of a spell or ability you control for the first time each turn, Mice you control get +1/+0 until end of turn.",W,W,uncommon,BLB,Bloomburrow,14,1,2,,Offspring;Valiant
+Flowerfoot Swordmaster,{W},1.0,Creature — Mouse Soldier,"Offspring {2} (You may pay an additional {2} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+Valiant — Whenever this creature becomes the target of a spell or ability you control for the first time each turn, Mice you control get +1/+0 until end of turn.",W,W,rare,SLP,Secret Lair Promo,46,1,2,,Offspring;Valiant
+Flying Octobot,{1}{U},2.0,Artifact Creature — Robot Villain,"Flying
+Whenever another Villain you control enters, put a +1/+1 counter on this creature. This ability triggers only once each turn.",U,U,uncommon,OM1,Through the Omenpaths,47,1,1,,Flying
+Flying Octobot,{1}{U},2.0,Artifact Creature — Robot Villain,"Flying
+Whenever another Villain you control enters, put a +1/+1 counter on this creature. This ability triggers only once each turn.",U,U,uncommon,SPM,Marvel's Spider-Man,31,1,1,,Flying
+Fog Bank,{1}{U},2.0,Creature — Wall,"Defender (This creature can't attack.)
+Flying
+Prevent all combat damage that would be dealt to and dealt by this creature.",U,U,uncommon,FDN,Foundations,591,0,2,,Flying;Defender
+Fog Bank,{1}{U},2.0,Creature — Wall,"Defender (This creature can't attack.)
+Flying
+Prevent all combat damage that would be dealt to and dealt by this creature.",U,U,uncommon,CMD,Commander 2011,47,0,2,,Flying;Defender
+Fog Bank,{1}{U},2.0,Creature — Wall,"Defender (This creature can't attack.)
+Flying
+Prevent all combat damage that would be dealt to and dealt by this creature.",U,U,uncommon,C13,Commander 2013,44,0,2,,Flying;Defender
+Fog Bank,{1}{U},2.0,Creature — Wall,"Defender (This creature can't attack.)
+Flying
+Prevent all combat damage that would be dealt to and dealt by this creature.",U,U,uncommon,IMA,Iconic Masters,56,0,2,,Flying;Defender
+Fog Bank,{1}{U},2.0,Creature — Wall,"Defender (This creature can't attack.)
+Flying
+Prevent all combat damage that would be dealt to and dealt by this creature.",U,U,uncommon,USG,Urza's Saga,75,0,2,,Flying;Defender
+Fog Bank,{1}{U},2.0,Creature — Wall,"Defender (This creature can't attack.)
+Flying
+Prevent all combat damage that would be dealt to and dealt by this creature.",U,U,uncommon,C14,Commander 2014,110,0,2,,Flying;Defender
+Fog Bank,{1}{U},2.0,Creature — Wall,"Defender (This creature can't attack.)
+Flying
+Prevent all combat damage that would be dealt to and dealt by this creature.",U,U,uncommon,M13,Magic 2013,52,0,2,,Flying;Defender
+Fog Bank,{1}{U},2.0,Creature — Wall,"Defender (This creature can't attack.)
+Flying
+Prevent all combat damage that would be dealt to and dealt by this creature.",U,U,uncommon,BBD,Battlebond,117,0,2,,Flying;Defender
+Fog Bank,{1}{U},2.0,Creature — Wall,"Defender (This creature can't attack.)
+Flying
+Prevent all combat damage that would be dealt to and dealt by this creature.",U,U,uncommon,CMM,Commander Masters,848,0,2,,Flying;Defender
+Fog Bank,{1}{U},2.0,Creature — Wall,"Defender (This creature can't attack.)
+Flying
+Prevent all combat damage that would be dealt to and dealt by this creature.",U,U,uncommon,M3C,Modern Horizons 3 Commander,186,0,2,,Flying;Defender
+Fog Bank,{1}{U},2.0,Creature — Wall,"Defender (This creature can't attack.)
+Flying
+Prevent all combat damage that would be dealt to and dealt by this creature.",U,U,uncommon,PLST,The List,BBD-117,0,2,,Flying;Defender
+Fog Bank,{1}{U},2.0,Creature — Wall,"Defender (This creature can't attack.)
+Flying
+Prevent all combat damage that would be dealt to and dealt by this creature.",U,U,uncommon,GN3,Game Night: Free-for-All,28,0,2,,Flying;Defender
+Foggy Swamp Hunters,{3}{B},4.0,Creature — Human Ranger Ally,"As long as you've drawn two or more cards this turn, this creature has lifelink and menace. (It can't be blocked except by two or more creatures.)",B,B,common,TLA,Avatar: The Last Airbender,101,3,4,,
+Foggy Swamp Spirit Keeper,{1}{U}{B},3.0,Creature — Human Druid Ally,"Lifelink
+Whenever you draw your second card each turn, create a 1/1 colorless Spirit creature token with ""This token can't block or be blocked by non-Spirit creatures.""","B,U","B,U",uncommon,TLA,Avatar: The Last Airbender,222,2,4,,Lifelink
+Foggy Swamp Vinebender,{3}{G},4.0,Creature — Human Plant Ally,"This creature can't be blocked by creatures with power 2 or less.
+Waterbend {5}: Put a +1/+1 counter on this creature. Activate only during your turn. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)",G,G,common,TLA,Avatar: The Last Airbender,180,4,3,,Waterbend
+Foot Elite,{2}{W/B},3.0,Creature — Human Ninja,"Whenever this creature attacks, another target creature you control gets +1/+0 and gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)","B,W","B,W",common,TMT,Teenage Mutant Ninja Turtles,146,2,4,,
+Foot Mystic,{3}{B},4.0,Creature — Human Ninja Warlock,"Lifelink
+Disappear — When this creature enters, if a permanent left the battlefield under your control this turn, create a 1/1 black Ninja creature token.",B,B,common,TMT,Teenage Mutant Ninja Turtles,63,2,4,,Disappear;Lifelink
+Foot Ninjas,{4}{W/B}{W/B},6.0,Creature — Human Ninja,"Sneak {3}{W/B} (You may cast this spell for {3}{W/B} if you also return an unblocked attacker you control to hand during the declare blockers step. It enters tapped and attacking.)
+When this creature enters, you gain 3 life.","B,W","B,W",common,TMT,Teenage Mutant Ninja Turtles,147,5,5,,Sneak
+Foot Ninjas,{4}{W/B}{W/B},6.0,Creature — Human Ninja,"Sneak {3}{W/B} (You may cast this spell for {3}{W/B} if you also return an unblocked attacker you control to hand during the declare blockers step. It enters tapped and attacking.)
+When this creature enters, you gain 3 life.","B,W","B,W",common,TMT,Teenage Mutant Ninja Turtles,209,5,5,,Sneak
+Foraging Wickermaw,{2},2.0,Artifact Creature — Scarecrow,"When this creature enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+{1}: Add one mana of any color. This creature becomes that color until end of turn. Activate only once each turn.",,,common,ECL,Lorwyn Eclipsed,256,1,3,,Surveil
+Forecasting Fortune Teller,{1}{U},2.0,Creature — Human Advisor Ally,"When this creature enters, create a Clue token. (It's an artifact with ""{2}, Sacrifice this token: Draw a card."")",U,U,common,TLA,Avatar: The Last Airbender,51,1,3,,
+Forensic Gadgeteer,{2}{U},3.0,Creature — Vedalken Artificer Detective,"Whenever you cast an artifact spell, investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")
+Activated abilities of artifacts you control cost {1} less to activate. This effect can't reduce the mana in that cost to less than one mana.",U,U,rare,PMKM,Murders at Karlov Manor Promos,57p,2,3,,Investigate
+Forensic Gadgeteer,{2}{U},3.0,Creature — Vedalken Artificer Detective,"Whenever you cast an artifact spell, investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")
+Activated abilities of artifacts you control cost {1} less to activate. This effect can't reduce the mana in that cost to less than one mana.",U,U,rare,PMKM,Murders at Karlov Manor Promos,57s,2,3,,Investigate
+Forensic Gadgeteer,{2}{U},3.0,Creature — Vedalken Artificer Detective,"Whenever you cast an artifact spell, investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")
+Activated abilities of artifacts you control cost {1} less to activate. This effect can't reduce the mana in that cost to less than one mana.",U,U,rare,MKM,Murders at Karlov Manor,57,2,3,,Investigate
+Forensic Gadgeteer,{2}{U},3.0,Creature — Vedalken Artificer Detective,"Whenever you cast an artifact spell, investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")
+Activated abilities of artifacts you control cost {1} less to activate. This effect can't reduce the mana in that cost to less than one mana.",U,U,rare,MKM,Murders at Karlov Manor,342,2,3,,Investigate
+Forensic Researcher,{2}{U},3.0,Creature — Merfolk Detective,"{T}: Untap another target permanent you control.
+{T}, Collect evidence 3: Tap target creature you don't control. (To collect evidence 3, exile cards with total mana value 3 or greater from your graveyard.)",U,U,uncommon,MKM,Murders at Karlov Manor,58,1,3,,Collect evidence
+Formation Breaker,{1}{G},2.0,Creature — Beast,"Creatures with power less than this creature's power can't block it.
+As long as you control a creature with a counter on it, this creature gets +1/+2.",G,G,uncommon,TDM,Tarkir: Dragonstorm,143,2,1,,
+Formidable Speaker,{2}{G},3.0,Creature — Elf Druid,"When this creature enters, you may discard a card. If you do, search your library for a creature card, reveal it, put it into your hand, then shuffle.
+{1}, {T}: Untap another target permanent.",G,G,rare,ECL,Lorwyn Eclipsed,366,2,4,,
+Formidable Speaker,{2}{G},3.0,Creature — Elf Druid,"When this creature enters, you may discard a card. If you do, search your library for a creature card, reveal it, put it into your hand, then shuffle.
+{1}, {T}: Untap another target permanent.",G,G,rare,PECL,Lorwyn Eclipsed Promos,176p,2,4,,
+Formidable Speaker,{2}{G},3.0,Creature — Elf Druid,"When this creature enters, you may discard a card. If you do, search your library for a creature card, reveal it, put it into your hand, then shuffle.
+{1}, {T}: Untap another target permanent.",G,G,rare,ECL,Lorwyn Eclipsed,176,2,4,,
+Forsaken Miner,{B},1.0,Creature — Skeleton Rogue,"This creature can't block.
+Whenever you commit a crime, you may pay {B}. If you do, return this card from your graveyard to the battlefield. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)",B,B,uncommon,OTJ,Outlaws of Thunder Junction,88,2,2,,
+Fortress Kin-Guard,{1}{W},2.0,Creature — Dog Soldier,"When this creature enters, it endures 1. (Put a +1/+1 counter on it or create a 1/1 white Spirit creature token.)",W,W,common,TDM,Tarkir: Dragonstorm,12,1,2,,Endure
+"Fortune, Loyal Steed",{2}{W},3.0,Legendary Creature — Beast Mount,"When Fortune enters, scry 2.
+Whenever Fortune attacks while saddled, at end of combat, exile it and up to one creature that saddled it this turn, then return those cards to the battlefield under their owner's control.
+Saddle 1",W,W,rare,OTJ,Outlaws of Thunder Junction,313,2,4,,Saddle;Scry
+"Fortune, Loyal Steed",{2}{W},3.0,Legendary Creature — Beast Mount,"When Fortune enters, scry 2.
+Whenever Fortune attacks while saddled, at end of combat, exile it and up to one creature that saddled it this turn, then return those cards to the battlefield under their owner's control.
+Saddle 1",W,W,rare,OTJ,Outlaws of Thunder Junction,12,2,4,,Saddle;Scry
+"Fortune, Loyal Steed",{2}{W},3.0,Legendary Creature — Beast Mount,"When Fortune enters, scry 2.
+Whenever Fortune attacks while saddled, at end of combat, exile it and up to one creature that saddled it this turn, then return those cards to the battlefield under their owner's control.
+Saddle 1",W,W,rare,POTJ,Outlaws of Thunder Junction Promos,12s,2,4,,Saddle;Scry
+"Fortune, Loyal Steed",{2}{W},3.0,Legendary Creature — Beast Mount,"When Fortune enters, scry 2.
+Whenever Fortune attacks while saddled, at end of combat, exile it and up to one creature that saddled it this turn, then return those cards to the battlefield under their owner's control.
+Saddle 1",W,W,rare,POTJ,Outlaws of Thunder Junction Promos,12p,2,4,,Saddle;Scry
+Forum Familiar,{W},1.0,Creature — Cat,"Disguise {1}{W} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)
+When this creature is turned face up, return another target permanent you control to its owner's hand and put a +1/+1 counter on this creature.",W,W,uncommon,MKM,Murders at Karlov Manor,16,1,1,,Disguise
+Frantic Scapegoat,{R},1.0,Creature — Goat,"Haste
+When this creature enters, suspect it. (It has menace and can't block.)
+Whenever one or more other creatures you control enter, if this creature is suspected, you may suspect one of the other creatures. If you do, this creature is no longer suspected.",R,R,uncommon,MKM,Murders at Karlov Manor,347,1,1,,Suspect;Haste
+Frantic Scapegoat,{R},1.0,Creature — Goat,"Haste
+When this creature enters, suspect it. (It has menace and can't block.)
+Whenever one or more other creatures you control enter, if this creature is suspected, you may suspect one of the other creatures. If you do, this creature is no longer suspected.",R,R,uncommon,MKM,Murders at Karlov Manor,126,1,1,,Suspect;Haste
+Freestrider Commando,{2}{G},3.0,Creature — Centaur Mercenary,"This creature enters with two +1/+1 counters on it if it wasn't cast or no mana was spent to cast it.
+Plot {3}{G} (You may pay {3}{G} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",G,G,common,OTJ,Outlaws of Thunder Junction,162,3,3,,Plot
+Freestrider Lookout,{2}{G},3.0,Creature — Human Rogue,"Reach
+Whenever you commit a crime, look at the top five cards of your library. You may put a land card from among them onto the battlefield tapped. Put the rest on the bottom of your library in a random order. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)",G,G,rare,POTJ,Outlaws of Thunder Junction Promos,163p,3,3,,Reach
+Freestrider Lookout,{2}{G},3.0,Creature — Human Rogue,"Reach
+Whenever you commit a crime, look at the top five cards of your library. You may put a land card from among them onto the battlefield tapped. Put the rest on the bottom of your library in a random order. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)",G,G,rare,OTJ,Outlaws of Thunder Junction,163,3,3,,Reach
+Freestrider Lookout,{2}{G},3.0,Creature — Human Rogue,"Reach
+Whenever you commit a crime, look at the top five cards of your library. You may put a land card from among them onto the battlefield tapped. Put the rest on the bottom of your library in a random order. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)",G,G,rare,OTJ,Outlaws of Thunder Junction,340,3,3,,Reach
+Freestrider Lookout,{2}{G},3.0,Creature — Human Rogue,"Reach
+Whenever you commit a crime, look at the top five cards of your library. You may put a land card from among them onto the battlefield tapped. Put the rest on the bottom of your library in a random order. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)",G,G,rare,POTJ,Outlaws of Thunder Junction Promos,163s,3,3,,Reach
+Frenzied Baloth,{G}{G},2.0,Creature — Beast,"This spell can't be countered.
+Trample, haste
+Creature spells you control can't be countered.
+Combat damage can't be prevented.",G,G,rare,PEOE,Edge of Eternities Promos,183p,3,2,,Haste;Trample
+Frenzied Baloth,{G}{G},2.0,Creature — Beast,"This spell can't be countered.
+Trample, haste
+Creature spells you control can't be countered.
+Combat damage can't be prevented.",G,G,rare,EOE,Edge of Eternities,183,3,2,,Haste;Trample
+Frenzied Baloth,{G}{G},2.0,Creature — Beast,"This spell can't be countered.
+Trample, haste
+Creature spells you control can't be countered.
+Combat damage can't be prevented.",G,G,rare,PEOE,Edge of Eternities Promos,183s,3,2,,Haste;Trample
+Frenzied Baloth,{G}{G},2.0,Creature — Beast,"This spell can't be countered.
+Trample, haste
+Creature spells you control can't be countered.
+Combat damage can't be prevented.",G,G,rare,EOE,Edge of Eternities,342,3,2,,Haste;Trample
+Frenzied Goblin,{R},1.0,Creature — Goblin Berserker,"Whenever this creature attacks, you may pay {R}. If you do, target creature can't block this turn.",R,R,common,J22,Jumpstart 2022,536,1,1,,
+Frenzied Goblin,{R},1.0,Creature — Goblin Berserker,"Whenever this creature attacks, you may pay {R}. If you do, target creature can't block this turn.",R,R,uncommon,GK1,GRN Guild Kit,81,1,1,,
+Frenzied Goblin,{R},1.0,Creature — Goblin Berserker,"Whenever this creature attacks, you may pay {R}. If you do, target creature can't block this turn.",R,R,uncommon,DDN,Duel Decks: Speed vs. Cunning,2,1,1,,
+Frenzied Goblin,{R},1.0,Creature — Goblin Berserker,"Whenever this creature attacks, you may pay {R}. If you do, target creature can't block this turn.",R,R,common,A25,Masters 25,131,1,1,,
+Frenzied Goblin,{R},1.0,Creature — Goblin Berserker,"Whenever this creature attacks, you may pay {R}. If you do, target creature can't block this turn.",R,R,uncommon,M15,Magic 2015,142,1,1,,
+Frenzied Goblin,{R},1.0,Creature — Goblin Berserker,"Whenever this creature attacks, you may pay {R}. If you do, target creature can't block this turn.",R,R,uncommon,CLU,Ravnica: Clue Edition,135,1,1,,
+Frenzied Goblin,{R},1.0,Creature — Goblin Berserker,"Whenever this creature attacks, you may pay {R}. If you do, target creature can't block this turn.",R,R,rare,F15,Friday Night Magic 2015,1,1,1,,
+Frenzied Goblin,{R},1.0,Creature — Goblin Berserker,"Whenever this creature attacks, you may pay {R}. If you do, target creature can't block this turn.",R,R,uncommon,RAV,Ravnica: City of Guilds,125,1,1,,
+Frenzied Goblin,{R},1.0,Creature — Goblin Berserker,"Whenever this creature attacks, you may pay {R}. If you do, target creature can't block this turn.",R,R,uncommon,FDN,Foundations,199,1,1,,
+Frenzied Goblin,{R},1.0,Creature — Goblin Berserker,"Whenever this creature attacks, you may pay {R}. If you do, target creature can't block this turn.",R,R,uncommon,PRM,Magic Online Promos,55703,1,1,,
+Frenzied Goblin,{R},1.0,Creature — Goblin Berserker,"Whenever this creature attacks, you may pay {R}. If you do, target creature can't block this turn.",R,R,uncommon,PSAL,Salvat 2005,I16,1,1,,
+Freya Crescent,{R},1.0,Legendary Creature — Rat Knight,"Jump — During your turn, Freya Crescent has flying.
+{T}: Add {R}. Spend this mana only to cast an Equipment spell or activate an equip ability.",R,R,uncommon,FIN,Final Fantasy,138,1,1,,Jump
+Freya Crescent,{R},1.0,Legendary Creature — Rat Knight,"Jump — During your turn, Freya Crescent has flying.
+{T}: Add {R}. Spend this mana only to cast an Equipment spell or activate an equip ability.",R,R,uncommon,FIN,Final Fantasy,460,1,1,,Jump
+Friendly Ghost,{3}{W},4.0,Creature — Spirit,"Flying
+When this creature enters, target creature gets +2/+4 until end of turn.",W,W,common,DSK,Duskmourn: House of Horror,12,2,4,,Flying
+Friendly Teddy,{2},2.0,Artifact Creature — Bear Toy,"When this creature dies, each player draws a card.",,,common,DSK,Duskmourn: House of Horror,247,2,2,,
+Frilled Cave-Wurm,{3}{U},4.0,Creature — Salamander Wurm,Descend 4 — This creature gets +2/+0 as long as there are four or more permanent cards in your graveyard.,U,U,common,LCI,The Lost Caverns of Ixalan,57,2,5,,Descend
+Frilled Sparkshooter,{3}{R},4.0,Creature — Lizard Archer,"Menace, reach
+This creature enters with a +1/+1 counter on it if an opponent lost life this turn.",R,R,common,BLB,Bloomburrow,136,3,3,,Reach;Menace
+Frog Butler,{1}{G},2.0,Creature — Frog Spirit,"Deathtouch
+{T}: Add one mana of any color.
+{2}: This creature gains reach until end of turn.",G,G,common,TMT,Teenage Mutant Ninja Turtles,114,1,1,,Deathtouch
+Frolicking Familiar // Blow Off Steam,{2}{U} // {R},3.0,Creature — Otter Wizard // Instant — Adventure,,U,"R,U",uncommon,WOE,Wilds of Eldraine,226,2,2,,Flying
+Frontier Seeker,{1}{W},2.0,Creature — Human Scout,"When this creature enters, look at the top five cards of your library. You may reveal a Mount creature card or a Plains card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",W,W,uncommon,OTJ,Outlaws of Thunder Junction,368,2,1,,
+Frontier Seeker,{1}{W},2.0,Creature — Human Scout,"When this creature enters, look at the top five cards of your library. You may reveal a Mount creature card or a Plains card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",W,W,uncommon,OTJ,Outlaws of Thunder Junction,13,2,1,,
+Frontline War-Rager,{2}{R},3.0,Creature — Kavu Soldier,"At the beginning of your end step, if you control two or more tapped creatures, put a +1/+1 counter on this creature.",R,R,common,EOE,Edge of Eternities,134,2,3,,
+Frostbridge Guard,{1}{W},2.0,Creature — Elemental Soldier,"{2}{W}, {T}: Tap target creature.",W,W,common,WOE,Wilds of Eldraine,14,2,2,,
+Fugitive Codebreaker,{1}{R},2.0,Creature — Goblin Rogue,"Prowess, haste
+Disguise {5}{R}. This cost is reduced by {1} for each instant and sorcery card in your graveyard. (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)
+When this creature is turned face up, discard your hand, then draw three cards.",R,R,rare,MKM,Murders at Karlov Manor,348,2,1,,Prowess;Haste;Disguise
+Fugitive Codebreaker,{1}{R},2.0,Creature — Goblin Rogue,"Prowess, haste
+Disguise {5}{R}. This cost is reduced by {1} for each instant and sorcery card in your graveyard. (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)
+When this creature is turned face up, discard your hand, then draw three cards.",R,R,rare,PMKM,Murders at Karlov Manor Promos,127s,2,1,,Prowess;Haste;Disguise
+Fugitive Codebreaker,{1}{R},2.0,Creature — Goblin Rogue,"Prowess, haste
+Disguise {5}{R}. This cost is reduced by {1} for each instant and sorcery card in your graveyard. (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)
+When this creature is turned face up, discard your hand, then draw three cards.",R,R,rare,PMKM,Murders at Karlov Manor Promos,127p,2,1,,Prowess;Haste;Disguise
+Fugitive Codebreaker,{1}{R},2.0,Creature — Goblin Rogue,"Prowess, haste
+Disguise {5}{R}. This cost is reduced by {1} for each instant and sorcery card in your graveyard. (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)
+When this creature is turned face up, discard your hand, then draw three cards.",R,R,rare,MKM,Murders at Karlov Manor,127,2,1,,Prowess;Haste;Disguise
+Fugitive Droid,{U},1.0,Artifact Creature — Robot Scientist,"This creature can't be blocked if an artifact entered the battlefield under your control this turn.
+{U}, Sacrifice this creature: Counter target spell that targets an artifact or creature you control.",U,U,uncommon,TMT,Teenage Mutant Ninja Turtles,40,1,1,,
+Fungal Colossus,{6}{G},7.0,Creature — Fungus Beast,"This spell costs {X} less to cast, where X is the number of differently named lands you control.",G,G,common,EOE,Edge of Eternities,184,5,5,,
+Furious Forebear,{1}{W},2.0,Creature — Spirit Warrior,"Whenever a creature you control dies while this card is in your graveyard, you may pay {1}{W}. If you do, return this card from your graveyard to your hand.",W,W,uncommon,TDM,Tarkir: Dragonstorm,13,3,1,,
+Furtive Courier,{2}{U},3.0,Creature — Merfolk Advisor,"This creature can't be blocked as long as you've sacrificed an artifact this turn.
+Whenever this creature attacks, draw a card, then discard a card.",U,U,uncommon,MKM,Murders at Karlov Manor,59,3,2,,
+"Fynn, the Fangbearer",{1}{G},2.0,Legendary Creature — Human Warrior,"Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+Whenever a creature you control with deathtouch deals combat damage to a player, that player gets two poison counters. (A player with ten or more poison counters loses the game.)",G,G,rare,SLD,Secret Lair Drop,1449,1,3,,Deathtouch
+"Fynn, the Fangbearer",{1}{G},2.0,Legendary Creature — Human Warrior,"Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+Whenever a creature you control with deathtouch deals combat damage to a player, that player gets two poison counters. (A player with ten or more poison counters loses the game.)",G,G,uncommon,PLST,The List,KHM-170,1,3,,Deathtouch
+"Fynn, the Fangbearer",{1}{G},2.0,Legendary Creature — Human Warrior,"Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+Whenever a creature you control with deathtouch deals combat damage to a player, that player gets two poison counters. (A player with ten or more poison counters loses the game.)",G,G,uncommon,KHM,Kaldheim,316,1,3,,Deathtouch
+"Fynn, the Fangbearer",{1}{G},2.0,Legendary Creature — Human Warrior,"Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+Whenever a creature you control with deathtouch deals combat damage to a player, that player gets two poison counters. (A player with ten or more poison counters loses the game.)",G,G,uncommon,MUL,Multiverse Legends,156z,1,3,,Deathtouch
+"Fynn, the Fangbearer",{1}{G},2.0,Legendary Creature — Human Warrior,"Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+Whenever a creature you control with deathtouch deals combat damage to a player, that player gets two poison counters. (A player with ten or more poison counters loses the game.)",G,G,uncommon,MUL,Multiverse Legends,91,1,3,,Deathtouch
+"Fynn, the Fangbearer",{1}{G},2.0,Legendary Creature — Human Warrior,"Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+Whenever a creature you control with deathtouch deals combat damage to a player, that player gets two poison counters. (A player with ten or more poison counters loses the game.)",G,G,uncommon,FDN,Foundations,637,1,3,,Deathtouch
+"Fynn, the Fangbearer",{1}{G},2.0,Legendary Creature — Human Warrior,"Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+Whenever a creature you control with deathtouch deals combat damage to a player, that player gets two poison counters. (A player with ten or more poison counters loses the game.)",G,G,uncommon,KHM,Kaldheim,170,1,3,,Deathtouch
+"Fynn, the Fangbearer",{1}{G},2.0,Legendary Creature — Human Warrior,"Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+Whenever a creature you control with deathtouch deals combat damage to a player, that player gets two poison counters. (A player with ten or more poison counters loses the game.)",G,G,uncommon,MUL,Multiverse Legends,26,1,3,,Deathtouch
+"Fynn, the Fangbearer",{1}{G},2.0,Legendary Creature — Human Warrior,"Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+Whenever a creature you control with deathtouch deals combat damage to a player, that player gets two poison counters. (A player with ten or more poison counters loses the game.)",G,G,uncommon,MUL,Multiverse Legends,156,1,3,,Deathtouch
+"Fynn, the Fangbearer",{1}{G},2.0,Legendary Creature — Human Warrior,"Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+Whenever a creature you control with deathtouch deals combat damage to a player, that player gets two poison counters. (A player with ten or more poison counters loses the game.)",G,G,uncommon,FCA,Final Fantasy: Through the Ages,46,1,3,,Deathtouch
+"Fynn, the Fangbearer",{1}{G},2.0,Legendary Creature — Human Warrior,"Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+Whenever a creature you control with deathtouch deals combat damage to a player, that player gets two poison counters. (A player with ten or more poison counters loses the game.)",G,G,uncommon,PRM,Magic Online Promos,88354,1,3,,Deathtouch

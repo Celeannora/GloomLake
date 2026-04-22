@@ -1,0 +1,34 @@
+Deck
+4 Dream Beavers
+4 Ruin-Lurker Bat
+4 Starscape Cleric
+3 Essence Channeler
+2 Marauding Blight-Priest
+3 Aerith Gainsborough
+2 Hope Estheim
+2 Midnight Snack
+2 Leader's Talent
+2 Authority of the Consuls
+2 Zoraline, Cosmos Caller
+2 Kambal, Profiteering Mayor
+2 Bloodthirsty Conqueror
+2 Deduce
+
+4 Concealed Courtyard
+4 Restless Fortress
+4 Restless Anchorage
+4 Scoured Barrens
+4 Tranquil Cove
+2 Dismal Backwater
+1 Undercity Sewers
+1 Plains
+
+Sideboard
+2 No More Lies
+2 Get Lost
+2 Negate
+2 Split Up
+2 Shoot the Sheriff
+2 Duress
+2 Kaito, Bane of Nightmares
+1 Kambal, Profiteering Mayor

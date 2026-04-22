@@ -1,0 +1,9 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,produced_mana,keywords,tags,legal_formats
+Quandrix Charm,{G}{U},2.0,Instant,"Choose one —
+• Counter target spell unless its controller pays {2}.
+• Destroy target enchantment.
+• Target creature has base power and toughness 5/5 until end of turn.","G,U","G,U",uncommon,SOS,Secrets of Strixhaven,217,,,,,,counter;removal,"standard,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Quick Draw,{R},1.0,Instant,Target creature you control gets +1/+1 and gains first strike until end of turn. Creatures target opponent controls lose first strike and double strike until end of turn.,R,R,common,OTJ,Outlaws of Thunder Junction,138,,,,,,pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,paupercommander,duel"
+Quick Study,{2}{U},3.0,Instant,Draw two cards.,U,U,common,FDN,Foundations,513,,,,,,draw,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Quicksand Whirlpool,{5}{W},6.0,Instant,"This spell costs {3} less to cast if it targets a tapped creature.
+Exile target creature.",W,W,common,LCI,The Lost Caverns of Ixalan,31,,,,,,removal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,paupercommander,duel"

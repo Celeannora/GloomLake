@@ -1,0 +1,14 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,produced_mana,keywords,tags,legal_formats
+Neglected Manor,,0.0,Land,"This land enters tapped unless a player has 13 or less life.
+{T}: Add {W} or {B}.",,"B,W",common,DSK,Duskmourn: House of Horror,264,,,,"B,W",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Night Market,,0.0,Land,"This land enters tapped. As it enters, choose a color.
+{T}: Add one mana of the chosen color.
+Cycling {3} ({3}, Discard this card: Draw a card.)",,,common,DFT,Aetherdrift,258,,,,"B,G,R,U,W",Cycling,draw,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Nomad Outpost,,0.0,Land,"This land enters tapped.
+{T}: Add {R}, {W}, or {B}.",,"B,R,W",rare,SLD,Secret Lair Drop,465,,,,"B,R,W",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+North Pole Gates,,0.0,Land,"This land enters tapped.
+{T}: Add {W} or {U}.
+{4}, {T}, Sacrifice this land: Draw a card.",,"U,W",common,TLA,Avatar: The Last Airbender,274,,,,"U,W",,draw;ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Northampton Farm,,0.0,Land,"{T}: Add {C}.
+{1}, {T}: Exile target creature you own.
+{2}, {T}, Sacrifice this land: Return a creature card exiled with this land to the battlefield under your control. Return each other card exiled with this land to its owner's hand.",,,rare,TMT,Teenage Mutant Ninja Turtles,188,,,,C,,bounce;ramp;removal;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"

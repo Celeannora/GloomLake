@@ -1,0 +1,380 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,keywords
+Badgermole,{4}{G},5.0,Creature — Badger Mole,"When this creature enters, earthbend 2. (Target land you control becomes a 0/0 creature with haste that's still a land. Put two +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)
+Creatures you control with +1/+1 counters on them have trample.",G,G,common,TLA,Avatar: The Last Airbender,166,4,4,,Earthbend
+Badgermole Cub,{1}{G},2.0,Creature — Badger Mole,"When this creature enters, earthbend 1. (Target land you control becomes a 0/0 creature with haste that's still a land. Put a +1/+1 counter on it. When it dies or is exiled, return it to the battlefield tapped.)
+Whenever you tap a creature for mana, add an additional {G}.",G,G,mythic,TLA,Avatar: The Last Airbender,167,2,2,,Earthbend
+Badgermole Cub,{1}{G},2.0,Creature — Badger Mole,"When this creature enters, earthbend 1. (Target land you control becomes a 0/0 creature with haste that's still a land. Put a +1/+1 counter on it. When it dies or is exiled, return it to the battlefield tapped.)
+Whenever you tap a creature for mana, add an additional {G}.",G,G,mythic,PTLA,Avatar: The Last Airbender Promos,167s,2,2,,Earthbend
+Badgermole Cub,{1}{G},2.0,Creature — Badger Mole,"When this creature enters, earthbend 1. (Target land you control becomes a 0/0 creature with haste that's still a land. Put a +1/+1 counter on it. When it dies or is exiled, return it to the battlefield tapped.)
+Whenever you tap a creature for mana, add an additional {G}.",G,G,mythic,TLA,Avatar: The Last Airbender,326,2,2,,Earthbend
+Bakersbane Duo,{1}{G},2.0,Creature — Squirrel Raccoon,"When this creature enters, create a Food token.
+Whenever you expend 4, this creature gets +1/+1 until end of turn. (You expend 4 as you spend your fourth total mana to cast spells during a turn.)",G,G,common,BLB,Bloomburrow,163,2,2,,Food
+Balamb T-Rexaur,{4}{G}{G},6.0,Creature — Dinosaur,"Trample
+When this creature enters, you gain 3 life.
+Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)",G,G,common,FIN,Final Fantasy,173,6,6,,Landcycling;Trample;Forestcycling;Typecycling;Cycling
+Balemurk Leech,{1}{B},2.0,Creature — Leech,"Eerie — Whenever an enchantment you control enters and whenever you fully unlock a Room, each opponent loses 1 life.",B,B,common,DSK,Duskmourn: House of Horror,84,2,2,,Eerie
+Ball Lightning,{R}{R}{R},3.0,Creature — Elemental,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+At the beginning of the end step, sacrifice this creature.",R,R,rare,WC98,World Championship Decks 1998,br210,6,1,,Haste;Trample
+Ball Lightning,{R}{R}{R},3.0,Creature — Elemental,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+At the beginning of the end step, sacrifice this creature.",R,R,rare,MB2,Mystery Booster 2,130,6,1,,Haste;Trample
+Ball Lightning,{R}{R}{R},3.0,Creature — Elemental,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+At the beginning of the end step, sacrifice this creature.",R,R,rare,PD2,Premium Deck Series: Fire and Lightning,12,6,1,,Haste;Trample
+Ball Lightning,{R}{R}{R},3.0,Creature — Elemental,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+At the beginning of the end step, sacrifice this creature.",R,R,rare,G01,Judge Gift Cards 2001,1,6,1,,Haste;Trample
+Ball Lightning,{R}{R}{R},3.0,Creature — Elemental,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+At the beginning of the end step, sacrifice this creature.",R,R,rare,M10,Magic 2010,125,6,1,,Haste;Trample
+Ball Lightning,{R}{R}{R},3.0,Creature — Elemental,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+At the beginning of the end step, sacrifice this creature.",R,R,rare,5ED,Fifth Edition,210,6,1,,Haste;Trample
+Ball Lightning,{R}{R}{R},3.0,Creature — Elemental,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+At the beginning of the end step, sacrifice this creature.",R,R,rare,ME1,Masters Edition,87,6,1,,Haste;Trample
+Ball Lightning,{R}{R}{R},3.0,Creature — Elemental,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+At the beginning of the end step, sacrifice this creature.",R,R,rare,FDN,Foundations,618,6,1,,Haste;Trample
+Ball Lightning,{R}{R}{R},3.0,Creature — Elemental,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+At the beginning of the end step, sacrifice this creature.",R,R,rare,BTD,Beatdown Box Set,35,6,1,,Haste;Trample
+Ball Lightning,{R}{R}{R},3.0,Creature — Elemental,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+At the beginning of the end step, sacrifice this creature.",R,R,rare,A25,Masters 25,121,6,1,,Haste;Trample
+Ball Lightning,{R}{R}{R},3.0,Creature — Elemental,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+At the beginning of the end step, sacrifice this creature.",R,R,rare,4ED,Fourth Edition,176,6,1,,Haste;Trample
+Ball Lightning,{R}{R}{R},3.0,Creature — Elemental,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+At the beginning of the end step, sacrifice this creature.",R,R,rare,P30A,30th Anniversary Play Promos,2,6,1,,Haste;Trample
+Ball Lightning,{R}{R}{R},3.0,Creature — Elemental,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+At the beginning of the end step, sacrifice this creature.",R,R,rare,4BB,Fourth Edition Foreign Black Border,176,6,1,,Haste;Trample
+Ball Lightning,{R}{R}{R},3.0,Creature — Elemental,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+At the beginning of the end step, sacrifice this creature.",R,R,rare,DRK,The Dark,57,6,1,,Haste;Trample
+Ball Lightning,{R}{R}{R},3.0,Creature — Elemental,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+At the beginning of the end step, sacrifice this creature.",R,R,rare,PRM,Magic Online Promos,35972,6,1,,Haste;Trample
+Ball Lightning,{R}{R}{R},3.0,Creature — Elemental,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+At the beginning of the end step, sacrifice this creature.",R,R,rare,JMP,Jumpstart,291,6,1,,Haste;Trample
+Ball Lightning,{R}{R}{R},3.0,Creature — Elemental,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+At the beginning of the end step, sacrifice this creature.",R,R,uncommon,REN,Renaissance,73,6,1,,Haste;Trample
+Ballyrush Banneret,{1}{W},2.0,Creature — Kithkin Soldier,Kithkin spells and Soldier spells you cast cost {1} less to cast.,W,W,common,MOR,Morningtide,1,2,1,,
+Ballyrush Banneret,{1}{W},2.0,Creature — Kithkin Soldier,Kithkin spells and Soldier spells you cast cost {1} less to cast.,W,W,common,FDN,Foundations,567,2,1,,
+"Balmor, Battlemage Captain",{U}{R},2.0,Legendary Creature — Bird Wizard,"Flying
+Whenever you cast an instant or sorcery spell, creatures you control get +1/+0 and gain trample until end of turn.","R,U","R,U",uncommon,DMU,Dominaria United,336,1,3,,Flying
+"Balmor, Battlemage Captain",{U}{R},2.0,Legendary Creature — Bird Wizard,"Flying
+Whenever you cast an instant or sorcery spell, creatures you control get +1/+0 and gain trample until end of turn.","R,U","R,U",uncommon,FDN,Foundations,237,1,3,,Flying
+"Balmor, Battlemage Captain",{U}{R},2.0,Legendary Creature — Bird Wizard,"Flying
+Whenever you cast an instant or sorcery spell, creatures you control get +1/+0 and gain trample until end of turn.","R,U","R,U",uncommon,DMU,Dominaria United,295,1,3,,Flying
+"Balmor, Battlemage Captain",{U}{R},2.0,Legendary Creature — Bird Wizard,"Flying
+Whenever you cast an instant or sorcery spell, creatures you control get +1/+0 and gain trample until end of turn.","R,U","R,U",uncommon,DMU,Dominaria United,196,1,3,,Flying
+Balthier and Fran,{1}{R}{G},3.0,Legendary Creature — Human Rabbit,"Reach
+Vehicles you control get +1/+1 and have vigilance and reach.
+Whenever a Vehicle crewed by Balthier and Fran this turn attacks, if it's the first combat phase of the turn, you may pay {1}{R}{G}. If you do, after this phase, there is an additional combat phase.","G,R","G,R",rare,FIN,Final Fantasy,319,4,3,,Reach
+Balthier and Fran,{1}{R}{G},3.0,Legendary Creature — Human Rabbit,"Reach
+Vehicles you control get +1/+1 and have vigilance and reach.
+Whenever a Vehicle crewed by Balthier and Fran this turn attacks, if it's the first combat phase of the turn, you may pay {1}{R}{G}. If you do, after this phase, there is an additional combat phase.","G,R","G,R",rare,FIN,Final Fantasy,477,4,3,,Reach
+Balthier and Fran,{1}{R}{G},3.0,Legendary Creature — Human Rabbit,"Reach
+Vehicles you control get +1/+1 and have vigilance and reach.
+Whenever a Vehicle crewed by Balthier and Fran this turn attacks, if it's the first combat phase of the turn, you may pay {1}{R}{G}. If you do, after this phase, there is an additional combat phase.","G,R","G,R",rare,FIN,Final Fantasy,538,4,3,,Reach
+Balthier and Fran,{1}{R}{G},3.0,Legendary Creature — Human Rabbit,"Reach
+Vehicles you control get +1/+1 and have vigilance and reach.
+Whenever a Vehicle crewed by Balthier and Fran this turn attacks, if it's the first combat phase of the turn, you may pay {1}{R}{G}. If you do, after this phase, there is an additional combat phase.","G,R","G,R",rare,FIN,Final Fantasy,213,4,3,,Reach
+Balthier and Fran,{1}{R}{G},3.0,Legendary Creature — Human Rabbit,"Reach
+Vehicles you control get +1/+1 and have vigilance and reach.
+Whenever a Vehicle crewed by Balthier and Fran this turn attacks, if it's the first combat phase of the turn, you may pay {1}{R}{G}. If you do, after this phase, there is an additional combat phase.","G,R","G,R",rare,FIN,Final Fantasy,393,4,3,,Reach
+Balthier and Fran,{1}{R}{G},3.0,Legendary Creature — Human Rabbit,"Reach
+Vehicles you control get +1/+1 and have vigilance and reach.
+Whenever a Vehicle crewed by Balthier and Fran this turn attacks, if it's the first combat phase of the turn, you may pay {1}{R}{G}. If you do, after this phase, there is an additional combat phase.","G,R","G,R",rare,PFIN,Final Fantasy Promos,213s,4,3,,Reach
+Balustrade Wurm,{3}{G}{G},5.0,Creature — Wurm,"This spell can't be countered.
+Trample, haste
+Delirium — {2}{G}{G}: Return this card from your graveyard to the battlefield with a finality counter on it. Activate only if there are four or more card types among cards in your graveyard and only as a sorcery.",G,G,rare,PDSK,Duskmourn: House of Horror Promos,168s,5,5,,Delirium;Haste;Trample
+Balustrade Wurm,{3}{G}{G},5.0,Creature — Wurm,"This spell can't be countered.
+Trample, haste
+Delirium — {2}{G}{G}: Return this card from your graveyard to the battlefield with a finality counter on it. Activate only if there are four or more card types among cards in your graveyard and only as a sorcery.",G,G,rare,PDSK,Duskmourn: House of Horror Promos,168p,5,5,,Delirium;Haste;Trample
+Balustrade Wurm,{3}{G}{G},5.0,Creature — Wurm,"This spell can't be countered.
+Trample, haste
+Delirium — {2}{G}{G}: Return this card from your graveyard to the battlefield with a finality counter on it. Activate only if there are four or more card types among cards in your graveyard and only as a sorcery.",G,G,rare,DSK,Duskmourn: House of Horror,168,5,5,,Delirium;Haste;Trample
+Balustrade Wurm,{3}{G}{G},5.0,Creature — Wurm,"This spell can't be countered.
+Trample, haste
+Delirium — {2}{G}{G}: Return this card from your graveyard to the battlefield with a finality counter on it. Activate only if there are four or more card types among cards in your graveyard and only as a sorcery.",G,G,rare,DSK,Duskmourn: House of Horror,319,5,5,,Delirium;Haste;Trample
+Barbed Servitor,{3}{B},4.0,Artifact Creature — Construct,"Indestructible
+When this creature enters, suspect it. (It has menace and can't block.)
+Whenever this creature deals combat damage to a player, you draw a card and you lose 1 life.
+Whenever this creature is dealt damage, target opponent loses that much life.",B,B,rare,MKM,Murders at Karlov Manor,77,1,1,,Indestructible;Suspect
+Barbed Servitor,{3}{B},4.0,Artifact Creature — Construct,"Indestructible
+When this creature enters, suspect it. (It has menace and can't block.)
+Whenever this creature deals combat damage to a player, you draw a card and you lose 1 life.
+Whenever this creature is dealt damage, target opponent loses that much life.",B,B,rare,MKM,Murders at Karlov Manor,398,1,1,,Indestructible;Suspect
+Barbed Servitor,{3}{B},4.0,Artifact Creature — Construct,"Indestructible
+When this creature enters, suspect it. (It has menace and can't block.)
+Whenever this creature deals combat damage to a player, you draw a card and you lose 1 life.
+Whenever this creature is dealt damage, target opponent loses that much life.",B,B,rare,PMKM,Murders at Karlov Manor Promos,77p,1,1,,Indestructible;Suspect
+Barbed Servitor,{3}{B},4.0,Artifact Creature — Construct,"Indestructible
+When this creature enters, suspect it. (It has menace and can't block.)
+Whenever this creature deals combat damage to a player, you draw a card and you lose 1 life.
+Whenever this creature is dealt damage, target opponent loses that much life.",B,B,rare,PMKM,Murders at Karlov Manor Promos,77s,1,1,,Indestructible;Suspect
+Bark-Knuckle Boxer,{1}{G},2.0,Creature — Raccoon Berserker,"Whenever you expend 4, this creature gains indestructible until end of turn. (You expend 4 as you spend your fourth total mana to cast spells during a turn.)",G,G,uncommon,BLB,Bloomburrow,164,3,2,,
+Barkform Harvester,{3},3.0,Artifact Creature — Shapeshifter,"Changeling (This card is every creature type.)
+Reach
+{2}: Put target card from your graveyard on the bottom of your library.",,,common,BLB,Bloomburrow,243,2,3,,Reach;Changeling
+Baron Bertram Graywater,{2}{W}{B},4.0,Legendary Creature — Vampire Noble,"Whenever one or more tokens you control enter, create a 1/1 black Vampire Rogue creature token with lifelink. This ability triggers only once each turn.
+{1}{B}, Sacrifice another creature or artifact: Draw a card.","B,W","B,W",uncommon,OTJ,Outlaws of Thunder Junction,195,3,4,,
+Barret Wallace,{3}{R},4.0,Legendary Creature — Human Rebel,"Reach
+Whenever Barret Wallace attacks, it deals damage equal to the number of equipped creatures you control to defending player.",R,R,uncommon,FIN,Final Fantasy,129,4,4,,Reach
+Barret Wallace,{3}{R},4.0,Legendary Creature — Human Rebel,"Reach
+Whenever Barret Wallace attacks, it deals damage equal to the number of equipped creatures you control to defending player.",R,R,uncommon,FIN,Final Fantasy,457,4,4,,Reach
+Barret Wallace,{3}{R},4.0,Legendary Creature — Human Rebel,"Reach
+Whenever Barret Wallace attacks, it deals damage equal to the number of equipped creatures you control to defending player.",R,R,uncommon,FIN,Final Fantasy,584,4,4,,Reach
+Barrow Naughty,{1}{B},2.0,Creature — Faerie,"Flying
+This creature has lifelink as long as you control another Faerie.
+{2}{B}: This creature gets +1/+0 until end of turn.",B,B,common,WOE,Wilds of Eldraine,81,1,3,,Flying
+Bartolomé del Presidio,{W}{B},2.0,Legendary Creature — Vampire Knight,Sacrifice another creature or artifact: Put a +1/+1 counter on Bartolomé del Presidio.,"B,W","B,W",uncommon,LCI,The Lost Caverns of Ixalan,224,2,1,,
+Bartolomé del Presidio,{W}{B},2.0,Legendary Creature — Vampire Knight,Sacrifice another creature or artifact: Put a +1/+1 counter on Bartolomé del Presidio.,"B,W","B,W",uncommon,LCI,The Lost Caverns of Ixalan,409,2,1,,
+Bartolomé del Presidio,{W}{B},2.0,Legendary Creature — Vampire Knight,Sacrifice another creature or artifact: Put a +1/+1 counter on Bartolomé del Presidio.,"B,W","B,W",uncommon,LCI,The Lost Caverns of Ixalan,301,2,1,,
+Bartz and Boko,{3}{G}{G},5.0,Legendary Creature — Human Bird,"Affinity for Birds (This spell costs {1} less to cast for each Bird you control.)
+When Bartz and Boko enters, each other Bird you control deals damage equal to its power to target creature an opponent controls.",G,G,rare,FIN,Final Fantasy,469,4,3,,Affinity
+Bartz and Boko,{3}{G}{G},5.0,Legendary Creature — Human Bird,"Affinity for Birds (This spell costs {1} less to cast for each Bird you control.)
+When Bartz and Boko enters, each other Bird you control deals damage equal to its power to target creature an opponent controls.",G,G,rare,PFIN,Final Fantasy Promos,175s,4,3,,Affinity
+Bartz and Boko,{3}{G}{G},5.0,Legendary Creature — Human Bird,"Affinity for Birds (This spell costs {1} less to cast for each Bird you control.)
+When Bartz and Boko enters, each other Bird you control deals damage equal to its power to target creature an opponent controls.",G,G,rare,FIN,Final Fantasy,175,4,3,,Affinity
+Bashful Beastie,{4}{G},5.0,Creature — Beast,"When this creature dies, manifest dread. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)",G,G,common,DSK,Duskmourn: House of Horror,169,5,4,,Manifest;Manifest dread
+Basilica Stalker,{5}{B},6.0,Creature — Vampire Detective,"Flying
+Whenever this creature deals combat damage to a player, you gain 1 life and surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+Disguise {4}{B} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)",B,B,common,MKM,Murders at Karlov Manor,78,3,4,,Flying;Surveil;Disguise
+Basking Capybara,{1}{G},2.0,Creature — Capybara,Descend 4 — This creature gets +3/+0 as long as there are four or more permanent cards in your graveyard.,G,G,common,LCI,The Lost Caverns of Ixalan,175,1,3,,Descend
+"Basri, Tomorrow's Champion",{W},1.0,Legendary Creature — Human Knight,"{W}, {T}, Exert Basri: Create a 1/1 white Cat creature token with lifelink. (An exerted creature won't untap during your next untap step.)
+Cycling {2}{W} ({2}{W}, Discard this card: Draw a card.)
+When you cycle this card, Cats you control gain hexproof and indestructible until end of turn.",W,W,rare,DFT,Aetherdrift,355,2,1,,Cycling
+"Basri, Tomorrow's Champion",{W},1.0,Legendary Creature — Human Knight,"{W}, {T}, Exert Basri: Create a 1/1 white Cat creature token with lifelink. (An exerted creature won't untap during your next untap step.)
+Cycling {2}{W} ({2}{W}, Discard this card: Draw a card.)
+When you cycle this card, Cats you control gain hexproof and indestructible until end of turn.",W,W,rare,DFT,Aetherdrift,427,2,1,,Cycling
+"Basri, Tomorrow's Champion",{W},1.0,Legendary Creature — Human Knight,"{W}, {T}, Exert Basri: Create a 1/1 white Cat creature token with lifelink. (An exerted creature won't untap during your next untap step.)
+Cycling {2}{W} ({2}{W}, Discard this card: Draw a card.)
+When you cycle this card, Cats you control gain hexproof and indestructible until end of turn.",W,W,rare,DFT,Aetherdrift,3,2,1,,Cycling
+"Basri, Tomorrow's Champion",{W},1.0,Legendary Creature — Human Knight,"{W}, {T}, Exert Basri: Create a 1/1 white Cat creature token with lifelink. (An exerted creature won't untap during your next untap step.)
+Cycling {2}{W} ({2}{W}, Discard this card: Draw a card.)
+When you cycle this card, Cats you control gain hexproof and indestructible until end of turn.",W,W,rare,PDFT,Aetherdrift Promos,3s,2,1,,Cycling
+"Basri, Tomorrow's Champion",{W},1.0,Legendary Creature — Human Knight,"{W}, {T}, Exert Basri: Create a 1/1 white Cat creature token with lifelink. (An exerted creature won't untap during your next untap step.)
+Cycling {2}{W} ({2}{W}, Discard this card: Draw a card.)
+When you cycle this card, Cats you control gain hexproof and indestructible until end of turn.",W,W,rare,PDFT,Aetherdrift Promos,3p,2,1,,Cycling
+Battle-Rattle Shaman,{3}{R},4.0,Creature — Goblin Shaman,"At the beginning of combat on your turn, you may have target creature get +2/+0 until end of turn.",R,R,common,MM3,Modern Masters 2017,89,2,2,,
+Battle-Rattle Shaman,{3}{R},4.0,Creature — Goblin Shaman,"At the beginning of combat on your turn, you may have target creature get +2/+0 until end of turn.",R,R,common,2XM,Double Masters,116,2,2,,
+Battle-Rattle Shaman,{3}{R},4.0,Creature — Goblin Shaman,"At the beginning of combat on your turn, you may have target creature get +2/+0 until end of turn.",R,R,uncommon,BBD,Battlebond,166,2,2,,
+Battle-Rattle Shaman,{3}{R},4.0,Creature — Goblin Shaman,"At the beginning of combat on your turn, you may have target creature get +2/+0 until end of turn.",R,R,common,J25,Foundations Jumpstart,128,2,2,,
+Battle-Rattle Shaman,{3}{R},4.0,Creature — Goblin Shaman,"At the beginning of combat on your turn, you may have target creature get +2/+0 until end of turn.",R,R,common,IMA,Iconic Masters,117,2,2,,
+Battle-Rattle Shaman,{3}{R},4.0,Creature — Goblin Shaman,"At the beginning of combat on your turn, you may have target creature get +2/+0 until end of turn.",R,R,common,E01,Archenemy: Nicol Bolas,40,2,2,,
+Battle-Rattle Shaman,{3}{R},4.0,Creature — Goblin Shaman,"At the beginning of combat on your turn, you may have target creature get +2/+0 until end of turn.",R,R,common,ROE,Rise of the Eldrazi,136,2,2,,
+Battle-Rattle Shaman,{3}{R},4.0,Creature — Goblin Shaman,"At the beginning of combat on your turn, you may have target creature get +2/+0 until end of turn.",R,R,common,PLST,The List,E01-40,2,2,,
+Battle-Rattle Shaman,{3}{R},4.0,Creature — Goblin Shaman,"At the beginning of combat on your turn, you may have target creature get +2/+0 until end of turn.",R,R,uncommon,M21,Core Set 2021,130,2,2,,
+Battle-Rattle Shaman,{3}{R},4.0,Creature — Goblin Shaman,"At the beginning of combat on your turn, you may have target creature get +2/+0 until end of turn.",R,R,uncommon,FDN,Foundations,533,2,2,,
+Battlesong Berserker,{3}{R},4.0,Creature — Human Berserker,"Whenever you attack, target creature you control gets +1/+0 and gains menace until end of turn. (It can't be blocked except by two or more creatures.)",R,R,uncommon,FDN,Foundations,78,3,4,,
+Baxter Stockman,{3}{U}{R},5.0,Legendary Creature — Human Scientist,"When Baxter Stockman enters, create a 1/1 colorless Robot artifact creature token.
+At the beginning of combat on your turn, target artifact creature you control gets +3/+0 and gains first strike and vigilance until end of turn.","R,U","R,U",uncommon,TMT,Teenage Mutant Ninja Turtles,139,3,3,,
+"Baylen, the Haymaker",{R}{G}{W},3.0,Legendary Creature — Rabbit Warrior,"Tap two untapped tokens you control: Add one mana of any color.
+Tap three untapped tokens you control: Draw a card.
+Tap four untapped tokens you control: Put three +1/+1 counters on Baylen. It gains trample until end of turn.","G,R,W","G,R,W",rare,BLB,Bloomburrow,205,4,3,,
+"Baylen, the Haymaker",{R}{G}{W},3.0,Legendary Creature — Rabbit Warrior,"Tap two untapped tokens you control: Add one mana of any color.
+Tap three untapped tokens you control: Draw a card.
+Tap four untapped tokens you control: Put three +1/+1 counters on Baylen. It gains trample until end of turn.","G,R,W","G,R,W",rare,SLD,Secret Lair Drop,2377,4,3,,
+"Baylen, the Haymaker",{R}{G}{W},3.0,Legendary Creature — Rabbit Warrior,"Tap two untapped tokens you control: Add one mana of any color.
+Tap three untapped tokens you control: Draw a card.
+Tap four untapped tokens you control: Put three +1/+1 counters on Baylen. It gains trample until end of turn.","G,R,W","G,R,W",rare,BLB,Bloomburrow,345,4,3,,
+"Baylen, the Haymaker",{R}{G}{W},3.0,Legendary Creature — Rabbit Warrior,"Tap two untapped tokens you control: Add one mana of any color.
+Tap three untapped tokens you control: Draw a card.
+Tap four untapped tokens you control: Put three +1/+1 counters on Baylen. It gains trample until end of turn.","G,R,W","G,R,W",rare,PBLB,Bloomburrow Promos,205p,4,3,,
+"Baylen, the Haymaker",{R}{G}{W},3.0,Legendary Creature — Rabbit Warrior,"Tap two untapped tokens you control: Add one mana of any color.
+Tap three untapped tokens you control: Draw a card.
+Tap four untapped tokens you control: Put three +1/+1 counters on Baylen. It gains trample until end of turn.","G,R,W","G,R,W",rare,PBLB,Bloomburrow Promos,205s,4,3,,
+Beamsaw Prospector,{1}{B},2.0,Creature — Human Artificer,"When this creature dies, create a Lander token. (It's an artifact with ""{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."")",B,B,common,EOE,Edge of Eternities,89,2,1,,
+Beanstalk Wurm // Plant Beans,{4}{G} // {1}{G},5.0,Creature — Plant Wurm // Sorcery — Adventure,,G,G,common,WOE,Wilds of Eldraine,161,5,4,,Reach
+Bear Cub,{1}{G},2.0,Creature — Bear,,G,G,common,J21,Jumpstart: Historic Horizons,546,2,2,,
+Bear Cub,{1}{G},2.0,Creature — Bear,,G,G,common,PLST,The List,P02-123,2,2,,
+Bear Cub,{1}{G},2.0,Creature — Bear,,G,G,common,P02,Portal Second Age,123,2,2,,
+Bear Cub,{1}{G},2.0,Creature — Bear,,G,G,common,FDN,Foundations,552,2,2,,
+Bearer of Glory,{1}{W},2.0,Creature — Human Soldier,"During your turn, this creature has first strike.
+{4}{W}: Creatures you control get +1/+1 until end of turn.",W,W,common,TDM,Tarkir: Dragonstorm,4,2,1,,
+Beast-Kin Ranger,{2}{G},3.0,Creature — Elf Ranger,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Whenever another creature you control enters, this creature gets +1/+0 until end of turn.",G,G,common,FDN,Foundations,100,3,3,,Trample
+Beastbond Outcaster,{2}{G},3.0,Creature — Human Druid,"When this creature enters, if you control a creature with power 4 or greater, draw a card.
+Plot {1}{G} (You may pay {1}{G} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",G,G,uncommon,OTJ,Outlaws of Thunder Junction,154,3,3,,Plot
+Beastrider Vanguard,{1}{G},2.0,Creature — Human Knight,{4}{G}: Look at the top three cards of your library. You may reveal a permanent card from among them and put it into your hand. Put the rest on the bottom of your library in any order.,G,G,common,DFT,Aetherdrift,154,2,2,,
+"Beatrix, Loyal General",{4}{W}{W},6.0,Legendary Creature — Human Soldier,"Vigilance (Attacking doesn't cause this creature to tap.)
+At the beginning of combat on your turn, you may attach any number of Equipment you control to target creature you control.",W,W,rare,FIN,Final Fantasy,554,4,4,,Vigilance
+"Beatrix, Loyal General",{4}{W}{W},6.0,Legendary Creature — Human Soldier,"Vigilance (Attacking doesn't cause this creature to tap.)
+At the beginning of combat on your turn, you may attach any number of Equipment you control to target creature you control.",W,W,rare,FIN,Final Fantasy,426,4,4,,Vigilance
+Bebop & Rocksteady,{1}{B/G}{B/G},3.0,Legendary Creature — Boar Rhino Mutant,"Whenever Bebop & Rocksteady attack or block, sacrifice a permanent unless you discard a card.","B,G","B,G",rare,TMT,Teenage Mutant Ninja Turtles,140,7,5,,
+Bebop & Rocksteady,{1}{B/G}{B/G},3.0,Legendary Creature — Boar Rhino Mutant,"Whenever Bebop & Rocksteady attack or block, sacrifice a permanent unless you discard a card.","B,G","B,G",rare,TMT,Teenage Mutant Ninja Turtles,241,7,5,,
+Bebop & Rocksteady,{1}{B/G}{B/G},3.0,Legendary Creature — Boar Rhino Mutant,"Whenever Bebop & Rocksteady attack or block, sacrifice a permanent unless you discard a card.","B,G","B,G",rare,TMT,Teenage Mutant Ninja Turtles,204,7,5,,
+"Bebop, Warthog Warrior",{4}{B},5.0,Legendary Creature — Boar Mutant Warrior,"Menace (This creature can't be blocked except by two or more creatures.)
+Rhinos you control have menace.
+Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)",B,B,common,TMT,Teenage Mutant Ninja Turtles,59,5,4,,Landcycling;Menace;Typecycling;Cycling;Swampcycling
+Bedhead Beastie,{4}{R}{R},6.0,Creature — Beast,"Menace (This creature can't be blocked except by two or more creatures.)
+Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)",R,R,common,DSK,Duskmourn: House of Horror,125,5,6,,Mountaincycling;Landcycling;Menace;Typecycling;Cycling
+Bedrock Tortoise,{3}{G},4.0,Creature — Turtle,"During your turn, creatures you control have hexproof.
+Each creature you control with toughness greater than its power assigns combat damage equal to its toughness rather than its power.",G,G,rare,PLCI,The Lost Caverns of Ixalan Promos,176p,0,6,,
+Bedrock Tortoise,{3}{G},4.0,Creature — Turtle,"During your turn, creatures you control have hexproof.
+Each creature you control with toughness greater than its power assigns combat damage equal to its toughness rather than its power.",G,G,rare,LCI,The Lost Caverns of Ixalan,378,0,6,,
+Bedrock Tortoise,{3}{G},4.0,Creature — Turtle,"During your turn, creatures you control have hexproof.
+Each creature you control with toughness greater than its power assigns combat damage equal to its toughness rather than its power.",G,G,rare,LCI,The Lost Caverns of Ixalan,176,0,6,,
+Bedrock Tortoise,{3}{G},4.0,Creature — Turtle,"During your turn, creatures you control have hexproof.
+Each creature you control with toughness greater than its power assigns combat damage equal to its toughness rather than its power.",G,G,rare,PLCI,The Lost Caverns of Ixalan Promos,176s,0,6,,
+"Beetle, Legacy Criminal",{3}{U},4.0,Legendary Creature — Human Rogue Villain,"Flying
+{1}{U}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains flying until end of turn. Activate only as a sorcery.",U,U,common,OM1,Through the Omenpaths,25,3,3,,Flying
+"Beetle, Legacy Criminal",{3}{U},4.0,Legendary Creature — Human Rogue Villain,"Flying
+{1}{U}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains flying until end of turn. Activate only as a sorcery.",U,U,common,SPM,Marvel's Spider-Man,26,3,3,,Flying
+Beetle-Headed Merchants,{4}{B},5.0,Creature — Human Citizen,"Whenever this creature attacks, you may sacrifice another creature or artifact. If you do, draw a card and put a +1/+1 counter on this creature.",B,B,common,TLA,Avatar: The Last Airbender,86,5,4,,
+Beifong's Bounty Hunters,{2}{B}{G},4.0,Creature — Human Mercenary,"Whenever a nonland creature you control dies, earthbend X, where X is that creature's power. (Target land you control becomes a 0/0 creature with haste that's still a land. Put X +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)","B,G","B,G",rare,TLA,Avatar: The Last Airbender,209,4,4,,Earthbend
+Beifong's Bounty Hunters,{2}{B}{G},4.0,Creature — Human Mercenary,"Whenever a nonland creature you control dies, earthbend X, where X is that creature's power. (Target land you control becomes a 0/0 creature with haste that's still a land. Put X +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)","B,G","B,G",rare,PTLA,Avatar: The Last Airbender Promos,209s,4,4,,Earthbend
+Beifong's Bounty Hunters,{2}{B}{G},4.0,Creature — Human Mercenary,"Whenever a nonland creature you control dies, earthbend X, where X is that creature's power. (Target land you control becomes a 0/0 creature with haste that's still a land. Put X +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)","B,G","B,G",rare,TLA,Avatar: The Last Airbender,379,4,4,,Earthbend
+Belligerent of the Ball,{2}{R},3.0,Creature — Ogre Warrior,"Celebration — At the beginning of combat on your turn, if two or more nonland permanents entered the battlefield under your control this turn, target creature you control gets +1/+0 and gains menace until end of turn. (It can't be blocked except by two or more creatures.)",R,R,uncommon,WOE,Wilds of Eldraine,120,3,3,,Celebration
+Belligerent Yearling,{1}{R},2.0,Creature — Dinosaur,"Trample
+Whenever another Dinosaur you control enters, you may have this creature's base power become equal to that creature's power until end of turn.",R,R,uncommon,LCI,The Lost Caverns of Ixalan,133,3,2,,Trample
+Belligerent Yearling,{1}{R},2.0,Creature — Dinosaur,"Trample
+Whenever another Dinosaur you control enters, you may have this creature's base power become equal to that creature's power until end of turn.",R,R,uncommon,LCI,The Lost Caverns of Ixalan,320,3,2,,Trample
+Bellowing Bruiser // Beat a Path,{4}{R} // {2}{R},5.0,Creature — Ogre // Sorcery — Adventure,,R,R,common,WOE,Wilds of Eldraine,121,4,4,,Haste
+Bellowing Crier,{1}{U},2.0,Creature — Frog Advisor,"When this creature enters, draw a card, then discard a card.",U,U,common,BLB,Bloomburrow,42,2,1,,
+Beluna Grandsquall // Seek Thrills,{G}{U}{R} // {2}{G}{U}{R},3.0,Legendary Creature — Giant Noble // Instant — Adventure,,"G,R,U","G,R,U",mythic,WOE,Wilds of Eldraine,220,4,4,,Trample;Mill
+Beluna Grandsquall // Seek Thrills,{G}{U}{R} // {2}{G}{U}{R},3.0,Legendary Creature — Giant Noble // Instant — Adventure,,"G,R,U","G,R,U",mythic,WOE,Wilds of Eldraine,285,4,4,,Trample;Mill
+Beluna Grandsquall // Seek Thrills,{G}{U}{R} // {2}{G}{U}{R},3.0,Legendary Creature — Giant Noble // Instant — Adventure,,"G,R,U","G,R,U",mythic,PWOE,Wilds of Eldraine Promos,220p,4,4,,Trample;Mill
+Beluna Grandsquall // Seek Thrills,{G}{U}{R} // {2}{G}{U}{R},3.0,Legendary Creature — Giant Noble // Instant — Adventure,,"G,R,U","G,R,U",mythic,PWOE,Wilds of Eldraine Promos,220s,4,4,,Trample;Mill
+Beluna's Gatekeeper // Entry Denied,{5}{U} // {1}{U},6.0,Creature — Giant Soldier // Sorcery — Adventure,,U,U,common,WOE,Wilds of Eldraine,43,6,5,,
+Benevolent River Spirit,{U}{U},2.0,Creature — Spirit,"As an additional cost to cast this spell, waterbend {5}. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)
+Flying, ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+When this creature enters, scry 2.",U,U,uncommon,TLA,Avatar: The Last Airbender,45,4,5,,Scry;Flying;Ward;Waterbend
+Benthic Criminologists,{4}{U},5.0,Creature — Merfolk Wizard,"Whenever this creature enters or attacks, you may sacrifice an artifact. If you do, draw a card.",U,U,common,MKM,Murders at Karlov Manor,40,4,5,,
+Besotted Knight // Betroth the Beast,{3}{W} // {W},4.0,Creature — Human Knight // Sorcery — Adventure,,W,W,common,WOE,Wilds of Eldraine,4,3,3,,Role token
+"Betor, Kin to All",{2}{W}{B}{G},5.0,Legendary Creature — Spirit Dragon,"Flying
+At the beginning of your end step, if creatures you control have total toughness 10 or greater, draw a card. Then if creatures you control have total toughness 20 or greater, untap each creature you control. Then if creatures you control have total toughness 40 or greater, each opponent loses half their life, rounded up.","B,G,W","B,G,W",mythic,PTDM,Tarkir: Dragonstorm Promos,172p,5,7,,Flying
+"Betor, Kin to All",{2}{W}{B}{G},5.0,Legendary Creature — Spirit Dragon,"Flying
+At the beginning of your end step, if creatures you control have total toughness 10 or greater, draw a card. Then if creatures you control have total toughness 20 or greater, untap each creature you control. Then if creatures you control have total toughness 40 or greater, each opponent loses half their life, rounded up.","B,G,W","B,G,W",mythic,TDM,Tarkir: Dragonstorm,353,5,7,,Flying
+"Betor, Kin to All",{2}{W}{B}{G},5.0,Legendary Creature — Spirit Dragon,"Flying
+At the beginning of your end step, if creatures you control have total toughness 10 or greater, draw a card. Then if creatures you control have total toughness 20 or greater, untap each creature you control. Then if creatures you control have total toughness 40 or greater, each opponent loses half their life, rounded up.","B,G,W","B,G,W",mythic,PTDM,Tarkir: Dragonstorm Promos,172s,5,7,,Flying
+"Betor, Kin to All",{2}{W}{B}{G},5.0,Legendary Creature — Spirit Dragon,"Flying
+At the beginning of your end step, if creatures you control have total toughness 10 or greater, draw a card. Then if creatures you control have total toughness 20 or greater, untap each creature you control. Then if creatures you control have total toughness 40 or greater, each opponent loses half their life, rounded up.","B,G,W","B,G,W",mythic,TDM,Tarkir: Dragonstorm,172,5,7,,Flying
+"Betor, Kin to All",{2}{W}{B}{G},5.0,Legendary Creature — Spirit Dragon,"Flying
+At the beginning of your end step, if creatures you control have total toughness 10 or greater, draw a card. Then if creatures you control have total toughness 20 or greater, untap each creature you control. Then if creatures you control have total toughness 40 or greater, each opponent loses half their life, rounded up.","B,G,W","B,G,W",mythic,TDM,Tarkir: Dragonstorm,308,5,7,,Flying
+"Beza, the Bounding Spring",{2}{W}{W},4.0,Legendary Creature — Elemental Elk,"When Beza enters, create a Treasure token if an opponent controls more lands than you. You gain 4 life if an opponent has more life than you. Create two 1/1 blue Fish creature tokens if an opponent controls more creatures than you. Draw a card if an opponent has more cards in hand than you.",W,W,mythic,BLB,Bloomburrow,287,4,5,,Treasure
+"Beza, the Bounding Spring",{2}{W}{W},4.0,Legendary Creature — Elemental Elk,"When Beza enters, create a Treasure token if an opponent controls more lands than you. You gain 4 life if an opponent has more life than you. Create two 1/1 blue Fish creature tokens if an opponent controls more creatures than you. Draw a card if an opponent has more cards in hand than you.",W,W,mythic,PWCS,Planeswalker Championship Promos,2026-1,4,5,,Treasure
+"Beza, the Bounding Spring",{2}{W}{W},4.0,Legendary Creature — Elemental Elk,"When Beza enters, create a Treasure token if an opponent controls more lands than you. You gain 4 life if an opponent has more life than you. Create two 1/1 blue Fish creature tokens if an opponent controls more creatures than you. Draw a card if an opponent has more cards in hand than you.",W,W,mythic,PBLB,Bloomburrow Promos,2s,4,5,,Treasure
+"Beza, the Bounding Spring",{2}{W}{W},4.0,Legendary Creature — Elemental Elk,"When Beza enters, create a Treasure token if an opponent controls more lands than you. You gain 4 life if an opponent has more life than you. Create two 1/1 blue Fish creature tokens if an opponent controls more creatures than you. Draw a card if an opponent has more cards in hand than you.",W,W,mythic,BLB,Bloomburrow,2,4,5,,Treasure
+"Beza, the Bounding Spring",{2}{W}{W},4.0,Legendary Creature — Elemental Elk,"When Beza enters, create a Treasure token if an opponent controls more lands than you. You gain 4 life if an opponent has more life than you. Create two 1/1 blue Fish creature tokens if an opponent controls more creatures than you. Draw a card if an opponent has more cards in hand than you.",W,W,mythic,PBLB,Bloomburrow Promos,2p,4,5,,Treasure
+Bigfin Bouncer,{3}{U},4.0,Creature — Shark Pirate,"When this creature enters, return target creature an opponent controls to its owner's hand.",U,U,common,FDN,Foundations,31,3,2,,
+Bile-Vial Boggart,{B},1.0,Creature — Goblin Assassin,"When this creature dies, put a -1/-1 counter on up to one target creature.",B,B,common,ECL,Lorwyn Eclipsed,87,1,1,,
+Billowing Shriekmass,{3}{B},4.0,Creature — Spirit,"Flying
+When this creature enters, mill three cards. (Put the top three cards of your library into your graveyard.)
+Threshold — This creature gets +2/+1 as long as there are seven or more cards in your graveyard.",B,B,uncommon,FDN,Foundations,56,2,3,,Flying;Threshold;Mill
+Biomechan Engineer,{G}{U},2.0,Creature — Insect Artificer,"When this creature enters, create a Lander token. (It's an artifact with ""{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."")
+{8}: Draw two cards and create a 2/2 colorless Robot artifact creature token.","G,U","G,U",uncommon,EOE,Edge of Eternities,213,2,2,,
+Biotech Specialist,{R}{G},2.0,Creature — Insect Scientist,"When this creature enters, create a Lander token. (It's an artifact with ""{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."")
+Whenever you sacrifice an artifact, this creature deals 2 damage to target opponent.","G,R","G,R",rare,EOE,Edge of Eternities,214,1,3,,
+Biotech Specialist,{R}{G},2.0,Creature — Insect Scientist,"When this creature enters, create a Lander token. (It's an artifact with ""{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."")
+Whenever you sacrifice an artifact, this creature deals 2 damage to target opponent.","G,R","G,R",rare,PEOE,Edge of Eternities Promos,214p,1,3,,
+Biotech Specialist,{R}{G},2.0,Creature — Insect Scientist,"When this creature enters, create a Lander token. (It's an artifact with ""{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."")
+Whenever you sacrifice an artifact, this creature deals 2 damage to target opponent.","G,R","G,R",rare,EOE,Edge of Eternities,347,1,3,,
+Biotech Specialist,{R}{G},2.0,Creature — Insect Scientist,"When this creature enters, create a Lander token. (It's an artifact with ""{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."")
+Whenever you sacrifice an artifact, this creature deals 2 damage to target opponent.","G,R","G,R",rare,PEOE,Edge of Eternities Promos,214s,1,3,,
+Bishop's Soldier,{1}{W},2.0,Creature — Vampire Soldier,Lifelink (Damage dealt by this creature also causes you to gain that much life.),W,W,common,J25,Foundations Jumpstart,174,2,2,,Lifelink
+Bishop's Soldier,{1}{W},2.0,Creature — Vampire Soldier,Lifelink (Damage dealt by this creature also causes you to gain that much life.),W,W,common,FDN,Foundations,491,2,2,,Lifelink
+Bishop's Soldier,{1}{W},2.0,Creature — Vampire Soldier,Lifelink (Damage dealt by this creature also causes you to gain that much life.),W,W,common,XLN,Ixalan,6,2,2,,Lifelink
+Bitterbloom Bearer,{B}{B},2.0,Creature — Faerie Rogue,"Flash
+Flying
+At the beginning of your upkeep, you lose 1 life and create a 1/1 blue and black Faerie creature token with flying.",B,B,mythic,ECL,Lorwyn Eclipsed,310,1,1,,Flying;Flash
+Bitterbloom Bearer,{B}{B},2.0,Creature — Faerie Rogue,"Flash
+Flying
+At the beginning of your upkeep, you lose 1 life and create a 1/1 blue and black Faerie creature token with flying.",B,B,mythic,ECL,Lorwyn Eclipsed,88,1,1,,Flying;Flash
+Bitterbloom Bearer,{B}{B},2.0,Creature — Faerie Rogue,"Flash
+Flying
+At the beginning of your upkeep, you lose 1 life and create a 1/1 blue and black Faerie creature token with flying.",B,B,mythic,ECL,Lorwyn Eclipsed,352,1,1,,Flying;Flash
+Bitterbloom Bearer,{B}{B},2.0,Creature — Faerie Rogue,"Flash
+Flying
+At the beginning of your upkeep, you lose 1 life and create a 1/1 blue and black Faerie creature token with flying.",B,B,mythic,PECL,Lorwyn Eclipsed Promos,88p,1,1,,Flying;Flash
+"Black Cat, Cunning Thief",{3}{B}{B},5.0,Legendary Creature — Human Rogue Villain,"When Black Cat enters, look at the top nine cards of target opponent's library, exile two of them face down, then put the rest on the bottom of their library in a random order. You may play the exiled cards for as long as they remain exiled. Mana of any type can be spent to cast spells this way.",B,B,rare,SPM,Marvel's Spider-Man,52,2,3,,
+"Black Cat, Cunning Thief",{3}{B}{B},5.0,Legendary Creature — Human Rogue Villain,"When Black Cat enters, look at the top nine cards of target opponent's library, exile two of them face down, then put the rest on the bottom of their library in a random order. You may play the exiled cards for as long as they remain exiled. Mana of any type can be spent to cast spells this way.",B,B,rare,PSPM,Marvel's Spider-Man Promos,52s,2,3,,
+"Black Cat, Cunning Thief",{3}{B}{B},5.0,Legendary Creature — Human Rogue Villain,"When Black Cat enters, look at the top nine cards of target opponent's library, exile two of them face down, then put the rest on the bottom of their library in a random order. You may play the exiled cards for as long as they remain exiled. Mana of any type can be spent to cast spells this way.",B,B,rare,SPM,Marvel's Spider-Man,222,2,3,,
+"Black Cat, Cunning Thief",{3}{B}{B},5.0,Legendary Creature — Human Rogue Villain,"When Black Cat enters, look at the top nine cards of target opponent's library, exile two of them face down, then put the rest on the bottom of their library in a random order. You may play the exiled cards for as long as they remain exiled. Mana of any type can be spent to cast spells this way.",B,B,rare,OM1,Through the Omenpaths,74,2,3,,
+Black Waltz No. 3,{2}{B}{R},4.0,Legendary Creature — Wizard,"Flying, deathtouch
+Whenever you cast a noncreature spell, Black Waltz No. 3 deals 2 damage to each opponent.","B,R","B,R",uncommon,FIN,Final Fantasy,478,2,2,,Deathtouch;Flying
+Black Waltz No. 3,{2}{B}{R},4.0,Legendary Creature — Wizard,"Flying, deathtouch
+Whenever you cast a noncreature spell, Black Waltz No. 3 deals 2 damage to each opponent.","B,R","B,R",uncommon,FIN,Final Fantasy,214,2,2,,Deathtouch;Flying
+Blacksnag Buzzard,{2}{B},3.0,Creature — Bird,"Flying
+This creature enters with a +1/+1 counter on it if a creature died this turn.
+Plot {1}{B} (You may pay {1}{B} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",B,B,common,OTJ,Outlaws of Thunder Junction,79,2,1,,Flying;Plot
+Blade of the Swarm,{3}{B},4.0,Creature — Insect Assassin,"When this creature enters, choose one —
+• Put two +1/+1 counters on this creature.
+• Put target exiled card with warp on the bottom of its owner's library.",B,B,uncommon,EOE,Edge of Eternities,90,3,1,,
+Blazing Bomb,{R},1.0,Creature — Elemental,"Whenever you cast a noncreature spell, if at least four mana was spent to cast it, put a +1/+1 counter on this creature.
+Blow Up — {T}, Sacrifice this creature: It deals damage equal to its power to target creature. Activate only as a sorcery.",R,R,common,FIN,Final Fantasy,130,1,1,,Blow Up
+Blighted Blackthorn,{4}{B},5.0,Creature — Treefolk Warlock,"Whenever this creature enters or attacks, you may blight 2. If you do, you draw a card and lose 1 life. (To blight 2, put two -1/-1 counters on a creature you control.)",B,B,common,ECL,Lorwyn Eclipsed,90,3,7,,Blight
+Blood Hustler,{1}{B},2.0,Creature — Vampire Rogue,"Whenever you commit a crime, put a +1/+1 counter on this creature. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)
+{3}{B}: Target opponent loses 1 life and you gain 1 life.",B,B,uncommon,OTJ,Outlaws of Thunder Junction,80,1,1,,
+Bloodghast,{B}{B},2.0,Creature — Vampire Spirit,"This creature can't block.
+This creature has haste as long as an opponent has 10 or less life.
+Landfall — Whenever a land you control enters, you may return this card from your graveyard to the battlefield.",B,B,rare,LCC,The Lost Caverns of Ixalan Commander,184,2,1,,Landfall
+Bloodghast,{B}{B},2.0,Creature — Vampire Spirit,"This creature can't block.
+This creature has haste as long as an opponent has 10 or less life.
+Landfall — Whenever a land you control enters, you may return this card from your graveyard to the battlefield.",B,B,rare,PLST,The List,ZEN-83,2,1,,Landfall
+Bloodghast,{B}{B},2.0,Creature — Vampire Spirit,"This creature can't block.
+This creature has haste as long as an opponent has 10 or less life.
+Landfall — Whenever a land you control enters, you may return this card from your graveyard to the battlefield.",B,B,rare,DFT,Aetherdrift,536,2,1,,Landfall
+Bloodghast,{B}{B},2.0,Creature — Vampire Spirit,"This creature can't block.
+This creature has haste as long as an opponent has 10 or less life.
+Landfall — Whenever a land you control enters, you may return this card from your graveyard to the battlefield.",B,B,rare,DFT,Aetherdrift,337,2,1,,Landfall
+Bloodghast,{B}{B},2.0,Creature — Vampire Spirit,"This creature can't block.
+This creature has haste as long as an opponent has 10 or less life.
+Landfall — Whenever a land you control enters, you may return this card from your graveyard to the battlefield.",B,B,rare,ZEN,Zendikar,83,2,1,,Landfall
+Bloodghast,{B}{B},2.0,Creature — Vampire Spirit,"This creature can't block.
+This creature has haste as long as an opponent has 10 or less life.
+Landfall — Whenever a land you control enters, you may return this card from your graveyard to the battlefield.",B,B,rare,IMA,Iconic Masters,82,2,1,,Landfall
+Bloodghast,{B}{B},2.0,Creature — Vampire Spirit,"This creature can't block.
+This creature has haste as long as an opponent has 10 or less life.
+Landfall — Whenever a land you control enters, you may return this card from your graveyard to the battlefield.",B,B,rare,DFT,Aetherdrift,445,2,1,,Landfall
+Bloodghast,{B}{B},2.0,Creature — Vampire Spirit,"This creature can't block.
+This creature has haste as long as an opponent has 10 or less life.
+Landfall — Whenever a land you control enters, you may return this card from your graveyard to the battlefield.",B,B,rare,SLD,Secret Lair Drop,6,2,1,,Landfall
+Bloodghast,{B}{B},2.0,Creature — Vampire Spirit,"This creature can't block.
+This creature has haste as long as an opponent has 10 or less life.
+Landfall — Whenever a land you control enters, you may return this card from your graveyard to the battlefield.",B,B,rare,PDFT,Aetherdrift Promos,77s,2,1,,Landfall
+Bloodghast,{B}{B},2.0,Creature — Vampire Spirit,"This creature can't block.
+This creature has haste as long as an opponent has 10 or less life.
+Landfall — Whenever a land you control enters, you may return this card from your graveyard to the battlefield.",B,B,rare,HA7,Historic Anthology 7,9,2,1,,Landfall
+Bloodghast,{B}{B},2.0,Creature — Vampire Spirit,"This creature can't block.
+This creature has haste as long as an opponent has 10 or less life.
+Landfall — Whenever a land you control enters, you may return this card from your graveyard to the battlefield.",B,B,rare,PDFT,Aetherdrift Promos,77p,2,1,,Landfall
+Bloodghast,{B}{B},2.0,Creature — Vampire Spirit,"This creature can't block.
+This creature has haste as long as an opponent has 10 or less life.
+Landfall — Whenever a land you control enters, you may return this card from your graveyard to the battlefield.",B,B,rare,DFT,Aetherdrift,77,2,1,,Landfall
+Bloodletter of Aclazotz,{1}{B}{B}{B},4.0,Creature — Vampire Demon,"Flying
+If an opponent would lose life during your turn, they lose twice that much life instead. (Damage causes loss of life.)",B,B,mythic,LCI,The Lost Caverns of Ixalan,336,2,4,,Flying
+Bloodletter of Aclazotz,{1}{B}{B}{B},4.0,Creature — Vampire Demon,"Flying
+If an opponent would lose life during your turn, they lose twice that much life instead. (Damage causes loss of life.)",B,B,mythic,PLCI,The Lost Caverns of Ixalan Promos,92s,2,4,,Flying
+Bloodletter of Aclazotz,{1}{B}{B}{B},4.0,Creature — Vampire Demon,"Flying
+If an opponent would lose life during your turn, they lose twice that much life instead. (Damage causes loss of life.)",B,B,mythic,PLCI,The Lost Caverns of Ixalan Promos,92p,2,4,,Flying
+Bloodletter of Aclazotz,{1}{B}{B}{B},4.0,Creature — Vampire Demon,"Flying
+If an opponent would lose life during your turn, they lose twice that much life instead. (Damage causes loss of life.)",B,B,mythic,SLD,Secret Lair Drop,2502,2,4,,Flying
+Bloodletter of Aclazotz,{1}{B}{B}{B},4.0,Creature — Vampire Demon,"Flying
+If an opponent would lose life during your turn, they lose twice that much life instead. (Damage causes loss of life.)",B,B,mythic,LCI,The Lost Caverns of Ixalan,92,2,4,,Flying
+Bloodthirsty Conqueror,{3}{B}{B},5.0,Creature — Vampire Knight,"Flying, deathtouch
+Whenever an opponent loses life, you gain that much life. (Damage causes loss of life.)",B,B,mythic,FDN,Foundations,318,5,5,,Deathtouch;Flying
+Bloodthirsty Conqueror,{3}{B}{B},5.0,Creature — Vampire Knight,"Flying, deathtouch
+Whenever an opponent loses life, you gain that much life. (Damage causes loss of life.)",B,B,mythic,FDN,Foundations,436,5,5,,Deathtouch;Flying
+Bloodthirsty Conqueror,{3}{B}{B},5.0,Creature — Vampire Knight,"Flying, deathtouch
+Whenever an opponent loses life, you gain that much life. (Damage causes loss of life.)",B,B,mythic,PFDN,Foundations Promos,58p,5,5,,Deathtouch;Flying
+Bloodthirsty Conqueror,{3}{B}{B},5.0,Creature — Vampire Knight,"Flying, deathtouch
+Whenever an opponent loses life, you gain that much life. (Damage causes loss of life.)",B,B,mythic,FDN,Foundations,383,5,5,,Deathtouch;Flying
+Bloodthirsty Conqueror,{3}{B}{B},5.0,Creature — Vampire Knight,"Flying, deathtouch
+Whenever an opponent loses life, you gain that much life. (Damage causes loss of life.)",B,B,mythic,PFDN,Foundations Promos,58s,5,5,,Deathtouch;Flying
+Bloodthirsty Conqueror,{3}{B}{B},5.0,Creature — Vampire Knight,"Flying, deathtouch
+Whenever an opponent loses life, you gain that much life. (Damage causes loss of life.)",B,B,mythic,FDN,Foundations,460,5,5,,Deathtouch;Flying
+Bloodthirsty Conqueror,{3}{B}{B},5.0,Creature — Vampire Knight,"Flying, deathtouch
+Whenever an opponent loses life, you gain that much life. (Damage causes loss of life.)",B,B,mythic,FDN,Foundations,58,5,5,,Deathtouch;Flying
+Bloodthirsty Conqueror,{3}{B}{B},5.0,Creature — Vampire Knight,"Flying, deathtouch
+Whenever an opponent loses life, you gain that much life. (Damage causes loss of life.)",B,B,mythic,FDN,Foundations,426,5,5,,Deathtouch;Flying
+Bloodtithe Collector,{4}{B},5.0,Creature — Vampire Noble,"Flying
+When this creature enters, if an opponent lost life this turn, each opponent discards a card.",B,B,uncommon,MID,Innistrad: Midnight Hunt,90,3,4,,Flying

@@ -1,0 +1,37 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,produced_mana,keywords,tags,legal_formats
+Pacifism,{1}{W},2.0,Enchantment — Aura,"Enchant creature
+Enchanted creature can't attack or block.",W,W,common,WC04,World Championship Decks 2004,gn33sb,,,,,Enchant,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel,premodern,predh"
+Pain for All,{2}{R},3.0,Enchantment — Aura,"Enchant creature you control
+When this Aura enters, enchanted creature deals damage equal to its power to any other target.
+Whenever enchanted creature is dealt damage, it deals that much damage to each opponent.",R,R,rare,EOE,Edge of Eternities,337,,,,,Enchant,removal;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Painful Quandary,{3}{B}{B},5.0,Enchantment,"Whenever an opponent casts a spell, that player loses 5 life unless they discard a card.",B,B,rare,FDN,Foundations,179,,,,,,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel,predh"
+Painter's Studio // Defaced Gallery,{2}{R} // {1}{R},5.0,Enchantment — Room // Enchantment — Room,,R,R,uncommon,DSK,Duskmourn: House of Horror,147,,,,,,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Parker Luck,{2}{B},3.0,Enchantment,"At the beginning of your end step, two target players each reveal the top card of their library. They each lose life equal to the mana value of the card revealed by the other player. Then they each put the card they revealed into their hand.",B,B,rare,OM1,Through the Omenpaths,55,,,,,,tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Party Dude,{G},1.0,Enchantment — Class,"(Gain the next level as a sorcery to add its ability.)
+When this Class enters, each player creates a Food token.
+{1}{G}: Level 2
+Whenever an artifact an opponent controls is put into a graveyard from the battlefield, draw a card.
+{4}{G}: Level 3
+Whenever one or more of your opponents are attacked, up to one target attacking creature gets +X/+X until end of turn, where X is the number of cards in your hand.",G,G,rare,TMT,Teenage Mutant Ninja Turtles,128,,,,,Food,draw;pump;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Path to Redemption,{1}{W},2.0,Enchantment — Aura,"Enchant creature
+Enchanted creature can't attack or block.
+{5}, Sacrifice this Aura: Exile enchanted creature. Create a 1/1 white Ally creature token. Activate only during your turn.",W,W,common,TLE,Avatar: The Last Airbender Eternal,271,,,,,Enchant,token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Petrify,{1}{W},2.0,Enchantment — Aura,"Enchant artifact or creature
+Enchanted permanent can't attack or block, and its activated abilities can't be activated.",W,W,common,LCI,The Lost Caverns of Ixalan,30,,,,,Enchant,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,paupercommander,duel"
+Phyrexian Arena,{1}{B}{B},3.0,Enchantment,"At the beginning of your upkeep, you draw a card and you lose 1 life.",B,B,rare,FDN,Foundations,180,,,,,,draw,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel,premodern,predh"
+Pitiless Fists,{3}{G},4.0,Enchantment — Aura,"Enchant creature you control
+When this Aura enters, enchanted creature fights up to one target creature an opponent controls. (Each deals damage equal to its power to the other.)
+Enchanted creature gets +2/+2.",G,G,uncommon,ECL,Lorwyn Eclipsed,187,,,,,Fight;Enchant,pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Poetic Ingenuity,{2}{R},3.0,Enchantment,"Whenever one or more Dinosaurs you control attack, create that many Treasure tokens.
+Whenever you cast an artifact spell, create a 3/1 red Dinosaur creature token. This ability triggers only once each turn.",R,R,rare,LCI,The Lost Caverns of Ixalan,377,,,,,Treasure,token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+Point the Way,{G},1.0,Enchantment,"Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+{3}{G}, Sacrifice this enchantment: Search your library for up to X basic land cards, where X is your speed. Put those cards onto the battlefield tapped, then shuffle.",G,G,uncommon,DFT,Aetherdrift,175,,,,,Start your engines!,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Prayer of Binding,{3}{W},4.0,Enchantment,"Flash
+When this enchantment enters, exile up to one target nonland permanent an opponent controls until this enchantment leaves the battlefield. You gain 2 life.",W,W,uncommon,DMU,Dominaria United,28,,,,,Flash,flash;lifegain,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Primary Research,{4}{W},5.0,Enchantment,"When this enchantment enters, return target nonland permanent card with mana value 3 or less from your graveyard to the battlefield.
+At the beginning of your end step, if a card left your graveyard this turn, draw a card.",W,W,uncommon,SOS,Secrets of Strixhaven,26,,,,,,bounce;draw,"standard,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Primeval Bounty,{5}{G},6.0,Enchantment,"Whenever you cast a creature spell, create a 3/3 green Beast creature token.
+Whenever you cast a noncreature spell, put three +1/+1 counters on target creature you control.
+Landfall — Whenever a land you control enters, you gain 3 life.",G,G,mythic,CLB,Commander Legends: Battle for Baldur's Gate,830,,,,,Landfall,lifegain;pump;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Prismatic Undercurrents,{3}{G},4.0,Enchantment,"Vivid — When this enchantment enters, search your library for up to X basic land cards, where X is the number of colors among permanents you control. Reveal those cards, put them into your hand, then shuffle.
+You may play an additional land on each of your turns.",G,G,uncommon,ECL,Lorwyn Eclipsed,189,,,,,Vivid,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"

@@ -1,0 +1,49 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,produced_mana,keywords,tags,legal_formats
+Fae Flight,{1}{U},2.0,Enchantment — Aura,"Flash
+Enchant creature
+When this Aura enters, enchanted creature gains hexproof until end of turn.
+Enchanted creature gets +1/+0 and has flying.",U,U,uncommon,MKM,Murders at Karlov Manor,295,,,,,Enchant;Flash,flash;protection;pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"
+Fated Firepower,{X}{R}{R}{R},3.0,Enchantment,"Flash
+This enchantment enters with X fire counters on it.
+If a source you control would deal damage to an opponent or a permanent an opponent controls, it deals that much damage plus an amount of damage equal to the number of fire counters on this enchantment instead.",R,R,mythic,TLA,Avatar: The Last Airbender,341,,,,,Flash,flash;removal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Feather of Flight,{1}{W},2.0,Enchantment — Aura,"Flash
+Enchant creature
+When this Aura enters, draw a card.
+Enchanted creature gets +1/+0 and has flying.",W,W,uncommon,BLB,Bloomburrow,13,,,,,Enchant;Flash,draw;flash;pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Felidar Retreat,{3}{W},4.0,Enchantment,"Landfall — Whenever a land you control enters, choose one —
+• Create a 2/2 white Cat Beast creature token.
+• Put a +1/+1 counter on each creature you control. Those creatures gain vigilance until end of turn.",W,W,rare,J22,Jumpstart 2022,184,,,,,Landfall,pump;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Ferocification,{2}{R},3.0,Enchantment,"At the beginning of combat on your turn, choose one —
+• Target creature you control gets +2/+0 until end of turn.
+• Target creature you control gains menace and haste until end of turn.",R,R,uncommon,OTJ,Outlaws of Thunder Junction,123,,,,,,pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"
+Festival of Embers,{4}{R},5.0,Enchantment,"During your turn, you may cast instant and sorcery spells from your graveyard by paying 1 life in addition to their other costs.
+If a card or token would be put into your graveyard from anywhere, exile it instead.
+{1}{R}: Sacrifice this enchantment.",R,R,rare,BLB,Bloomburrow,316,,,,,,token;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Fire-Rim Form,{1}{R},2.0,Enchantment — Aura,"Flash
+Enchant creature
+When this Aura enters, enchanted creature gains first strike until end of turn.
+Enchanted creature gets +2/+0.",R,R,common,TDM,Tarkir: Dragonstorm,107,,,,,Enchant;Flash,flash;pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Firebender Ascension,{1}{R},2.0,Enchantment,"When this enchantment enters, create a 2/2 red Soldier creature token with firebending 1.
+Whenever a creature you control attacking causes a triggered ability of that creature to trigger, put a quest counter on this enchantment. Then if it has four or more quest counters on it, you may copy that ability. You may choose new targets for the copy.",R,R,rare,TLA,Avatar: The Last Airbender,312,,,,,,token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Flood the Engine,{2}{U},3.0,Enchantment — Aura,"Enchant creature or Vehicle
+When this Aura enters, tap enchanted permanent.
+Enchanted permanent loses all abilities and doesn't untap during its controller's untap step.",U,U,common,DFT,Aetherdrift,42,,,,,Enchant,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Food Coma,{3}{W},4.0,Enchantment,"When this enchantment enters, exile target creature an opponent controls until this enchantment leaves the battlefield. Create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this token: You gain 3 life."")",W,W,uncommon,WOE,Wilds of Eldraine,308,,,,,Food,lifegain;removal;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"
+Food Fight,{1}{R},2.0,Enchantment,"Artifacts you control have ""{2}, Sacrifice this artifact: It deals damage to any target equal to 1 plus the number of permanents named Food Fight you control.""",R,R,rare,PWOE,Wilds of Eldraine Promos,129s,,,,,,tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+Frantic Strength,{2}{G},3.0,Enchantment — Aura,"Flash
+Enchant creature
+Enchanted creature gets +2/+2 and has trample.",G,G,common,DSK,Duskmourn: House of Horror,179,,,,,Enchant;Flash,flash;pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Fresh Start,{1}{U},2.0,Enchantment — Aura,"Flash
+Enchant creature
+Enchanted creature gets -5/-0 and loses all abilities.",U,U,uncommon,TDM,Tarkir: Dragonstorm,46,,,,,Enchant;Flash,flash,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Friendly Neighborhood,{3}{W},4.0,Enchantment — Aura,"Enchant land
+When this Aura enters, create three 1/1 green and white Human Citizen creature tokens.
+Enchanted land has ""{1}, {T}: Target creature gets +1/+1 until end of turn for each creature you control. Activate only as a sorcery.""",W,W,rare,OM1,Through the Omenpaths,17,,,,,Enchant,pump;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Frostcliff Siege,{1}{U}{R},3.0,Enchantment,"As this enchantment enters, choose Jeskai or Temur.
+• Jeskai — Whenever one or more creatures you control deal combat damage to a player, draw a card.
+• Temur — Creatures you control get +1/+0 and have trample and haste.","R,U","R,U",rare,PTDM,Tarkir: Dragonstorm Promos,187s,,,,,,draw;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Funeral Room // Awakening Hall,{2}{B} // {6}{B}{B},11.0,Enchantment — Room // Enchantment — Room,,B,B,mythic,DSK,Duskmourn: House of Horror,100,,,,,,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Fungal Fortitude,{1}{B},2.0,Enchantment — Aura,"Flash
+Enchant creature
+Enchanted creature gets +2/+0.
+When enchanted creature dies, return it to the battlefield tapped under its owner's control.",B,B,common,LCI,The Lost Caverns of Ixalan,106,,,,,Enchant;Flash,flash;pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,paupercommander,duel"

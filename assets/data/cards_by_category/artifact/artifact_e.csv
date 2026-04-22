@@ -1,0 +1,32 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,produced_mana,keywords,tags,legal_formats
+Earthrumbler,{4}{G},5.0,Artifact — Vehicle,"Vigilance, trample
+Exile an artifact or creature card from your graveyard: This Vehicle becomes an artifact creature until end of turn.
+Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)",G,G,uncommon,DFT,Aetherdrift,315,7,6,,,Vigilance;Crew;Trample,trample;vigilance,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Eerie Gravestone,{2},2.0,Artifact,"When this artifact enters, draw a card.
+{1}{B}, Sacrifice this artifact: Mill four cards. You may put a creature card from among them into your hand. (To mill four cards, put the top four cards of your library into your graveyard.)",,B,common,OM1,Through the Omenpaths,164,,,,,Mill,draw;mill,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Elixir,{1},1.0,Artifact,"This artifact enters tapped.
+{5}, {T}, Exile this artifact: Shuffle all nonland cards from your graveyard into your library. You gain life equal to the number of cards shuffled into your library this way.",,,uncommon,FIN,Final Fantasy,256,,,,,,lifegain,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Entropic Battlecruiser,{3}{B},4.0,Artifact — Spacecraft,"Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 8+.)
+1+ | Whenever an opponent discards a card, they lose 3 life.
+8+ | Flying, deathtouch
+Whenever this Spacecraft attacks, each opponent discards a card. Each opponent who can't loses 3 life.",B,B,rare,PEOE,Edge of Eternities Promos,99p,3,10,,,Station,discard;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Eriette's Tempting Apple,{4},4.0,Legendary Artifact — Food,"When Eriette's Tempting Apple enters, gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.
+{2}, {T}, Sacrifice Eriette's Tempting Apple: You gain 3 life.
+{2}, {T}, Sacrifice Eriette's Tempting Apple: Target opponent loses 3 life.",,,uncommon,WOE,Wilds of Eldraine,245,,,,,,lifegain,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"
+Esoteric Duplicator,{2}{U},3.0,Artifact — Clue,"Whenever you sacrifice this artifact or another artifact, you may pay {2}. If you do, at the beginning of the next end step, create a token that's a copy of that artifact.
+{2}, Sacrifice this artifact: Draw a card.",U,U,mythic,BIG,The Big Score,5,,,,,,draw;token;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+Essence Anchor,{2}{U},3.0,Artifact,"At the beginning of your upkeep, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+{T}: Create a 2/2 black Zombie Druid creature token. Activate only during your turn and only if a card left your graveyard this turn.",U,U,uncommon,TDM,Tarkir: Dragonstorm,44,,,,,Surveil,surveil;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Ether,{3}{U},4.0,Artifact,"{T}, Exile this artifact: Add {U}. When you next cast an instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.",U,U,uncommon,FIN,Final Fantasy,53,,,,U,,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Everything Pizza,{2},2.0,Artifact — Food,"When this artifact enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+{2}{W}{U}{B}{R}{G}, {T}, Sacrifice this artifact: Target player gains 3 life and draws a card. Each of your opponents discards a card. This artifact deals 3 damage to any target. Put three +1/+1 counters on up to one target creature.",,"B,G,R,U,W",uncommon,TMT,Teenage Mutant Ninja Turtles,173,,,,,,discard;pump;ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Excalibur II,{1},1.0,Legendary Artifact — Equipment,"Whenever you gain life, put a charge counter on Excalibur II.
+Equipped creature gets +1/+1 for each charge counter on Excalibur II.
+Equip {3}",,,rare,PFIN,Final Fantasy Promos,257s,,,,,Equip,lifegain;pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Expedition Map,{1},1.0,Artifact,"{2}, {T}, Sacrifice this artifact: Search your library for a land card, reveal it, put it into your hand, then shuffle.",,,common,FDN,Foundations,724,,,,,,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel,predh"
+Explorer's Cache,{1}{G},2.0,Artifact,"This artifact enters with two +1/+1 counters on it.
+Whenever a creature you control with a +1/+1 counter on it dies, put a +1/+1 counter on this artifact.
+{T}: Move a +1/+1 counter from this artifact onto target creature. Activate only as a sorcery.",G,G,uncommon,LCI,The Lost Caverns of Ixalan,184,,,,,,pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"
+Extinguisher Battleship,{8},8.0,Artifact — Spacecraft,"When this Spacecraft enters, destroy target noncreature permanent. Then this Spacecraft deals 4 damage to each creature.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 5+.)
+5+ | Flying, trample",,,rare,EOE,Edge of Eternities,355,10,10,,,Station,removal;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"

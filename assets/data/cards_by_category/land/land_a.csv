@@ -1,0 +1,32 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,produced_mana,keywords,tags,legal_formats
+Abandoned Air Temple,,0.0,Land,"This land enters tapped unless you control a basic land.
+{T}: Add {W}.
+{3}{W}, {T}: Put a +1/+1 counter on each creature you control.",,W,rare,PTLA,Avatar: The Last Airbender Promos,263s,,,,W,,pump;ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Abandoned Campground,,0.0,Land,"This land enters tapped unless a player has 13 or less life.
+{T}: Add {W} or {U}.",,"U,W",common,DSK,Duskmourn: House of Horror,255,,,,"U,W",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Abraded Bluffs,,0.0,Land — Desert,"This land enters tapped.
+When this land enters, it deals 1 damage to target opponent.
+{T}: Add {R} or {W}.",,"R,W",common,OTJ,Outlaws of Thunder Junction,251,,,,"R,W",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,paupercommander,duel"
+"Adagia, Windswept Bastion",,0.0,Land — Planet,"This land enters tapped.
+{T}: Add {W}.
+Station (Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)
+12+ | {3}{W}, {T}: Create a token that's a copy of target artifact or enchantment you control, except it's legendary. Activate only as a sorcery.",,W,mythic,EOE,Edge of Eternities,277,,,,W,Station,ramp;token;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Adventurer's Inn,,0.0,Land — Town,"When this land enters, you gain 2 life.
+{T}: Add {C}.",,,common,FIN,Final Fantasy,271,,,,C,,lifegain;ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Agna Qel'a,,0.0,Land,"This land enters tapped unless you control a basic land.
+{T}: Add {U}.
+{2}{U}, {T}: Draw a card, then discard a card.",,U,rare,TLA,Avatar: The Last Airbender,387,,,,U,,draw;ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Airship Engine Room,,0.0,Land,"This land enters tapped.
+{T}: Add {U} or {R}.
+{4}, {T}, Sacrifice this land: Draw a card.",,"R,U",common,TLA,Avatar: The Last Airbender,265,,,,"R,U",,draw;ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Amonkhet Raceway,,0.0,Land,"Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+{T}: Add {C}.
+Max speed — {T}: Target creature gains haste until end of turn.",,,uncommon,DFT,Aetherdrift,248,,,,C,Max speed;Start your engines!,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Arid Archway,,0.0,Land — Desert,"This land enters tapped.
+When this land enters, return a land you control to its owner's hand. If another Desert was returned this way, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+{T}: Add {C}{C}.",,,uncommon,OTJ,Outlaws of Thunder Junction,252,,,,C,Surveil,ramp;surveil;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"
+Avishkar Raceway,,0.0,Land,"Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+{T}: Add {C}.
+Max speed — {3}, {T}, Discard a card: Draw a card.",,,common,DFT,Aetherdrift,249,,,,C,Max speed;Start your engines!,draw;ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Azorius Guildgate,,0.0,Land — Gate,"This land enters tapped.
+{T}: Add {W} or {U}.",,"U,W",common,C13,Commander 2013,275,,,,"U,W",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"

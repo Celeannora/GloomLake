@@ -1,0 +1,19 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,produced_mana,keywords,tags,legal_formats
+Wastes,,0.0,Basic Land,{T}: Add {C}.,,,common,PLST,The List,OGW-183,,,,C,,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Wastewood Verge,,0.0,Land,"{T}: Add {G}.
+{T}: Add {B}. Activate only if you control a Swamp or a Forest.",,"B,G",rare,PDFT,Aetherdrift Promos,268p,,,,"B,G",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Watery Grave,,0.0,Land — Island Swamp,"({T}: Add {U} or {B}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",,"B,U",rare,CLU,Ravnica: Clue Edition,283,,,,"B,U",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel,predh"
+White Lotus Hideout,,0.0,Land,"{T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast a Lesson or Shrine spell.
+{1}, {T}: Add one mana of any color.",,,uncommon,TLA,Avatar: The Last Airbender,281,,,,"B,C,G,R,U,W",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Wild Roads,,0.0,Land,"This land enters tapped unless you control a Mount or Vehicle.
+{T}: Add {G}.
+{1}{G}, {T}, Sacrifice this land: Create a 1/1 colorless Pilot creature token with ""This token saddles Mounts and crews Vehicles as though its power were 2 greater."" Activate only as a sorcery.",,G,uncommon,DFT,Aetherdrift,269,,,,G,,ramp;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Willowrush Verge,,0.0,Land,"{T}: Add {U}.
+{T}: Add {G}. Activate only if you control a Forest or an Island.",,"G,U",rare,DFT,Aetherdrift,375,,,,"G,U",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Wind-Scarred Crag,,0.0,Land,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {R} or {W}.",,"R,W",common,C19,Commander 2019,285,,,,"R,W",,lifegain;ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+"Windurst, Federation Center",,0.0,Land — Town,"This land enters tapped.
+{T}: Add {G} or {W}.",,"G,W",common,FIN,Final Fantasy,292,,,,"G,W",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"

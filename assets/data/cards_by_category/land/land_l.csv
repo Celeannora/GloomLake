@@ -1,0 +1,18 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,produced_mana,keywords,tags,legal_formats
+Lakeside Shack,,0.0,Land,"This land enters tapped unless a player has 13 or less life.
+{T}: Add {G} or {U}.",,"G,U",common,DSK,Duskmourn: House of Horror,262,,,,"G,U",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,paupercommander,duel"
+Lilypad Village,,0.0,Land,"{T}: Add {C}.
+{T}: Add {U}. Spend this mana only to cast a creature spell.
+{U}, {T}: Surveil 2. Activate only if a Bird, Frog, Otter, or Rat entered the battlefield under your control this turn.",,U,uncommon,BLB,Bloomburrow,255,,,,"C,U",Surveil,ramp;surveil,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Lonely Arroyo,,0.0,Land — Desert,"This land enters tapped.
+When this land enters, it deals 1 damage to target opponent.
+{T}: Add {W} or {U}.",,"U,W",common,OTJ,Outlaws of Thunder Junction,260,,,,"U,W",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,paupercommander,duel"
+Lupinflower Village,,0.0,Land,"{T}: Add {C}.
+{T}: Add {W}. Spend this mana only to cast a creature spell.
+{1}{W}, {T}, Sacrifice this land: Look at the top six cards of your library. You may reveal a Bat, Bird, Mouse, or Rabbit card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",,W,uncommon,BLB,Bloomburrow,256,,,,"C,W",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Lush Oasis,,0.0,Land — Desert,"This land enters tapped.
+When this land enters, it deals 1 damage to target opponent.
+{T}: Add {G} or {U}.",,"G,U",common,OTJ,Outlaws of Thunder Junction,261,,,,"G,U",,ramp,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,pauper,vintage,commander,oathbreaker,standardbrawl,brawl,paupercommander,duel"
+Lush Portico,,0.0,Land — Forest Plains,"({T}: Add {G} or {W}.)
+This land enters tapped.
+When this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,"G,W",rare,PMKM,Murders at Karlov Manor Promos,263p,,,,"G,W",Surveil,ramp;surveil,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,duel"

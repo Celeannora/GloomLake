@@ -1,0 +1,16 @@
+name,mana_cost,cmc,type_line,oracle_text,colors,color_identity,rarity,set,set_name,collector_number,power,toughness,loyalty,produced_mana,keywords,tags,legal_formats
+Obsessive Pursuit,{1}{B},2.0,Enchantment,"When this enchantment enters and at the beginning of your upkeep, you lose 1 life and create a Clue token. (It's an artifact with ""{2}, Sacrifice this token: Draw a card."")
+Whenever you attack, put X +1/+1 counters on target attacking creature, where X is the number of permanents you've sacrificed this turn. If X is three or more, that creature gains lifelink until end of turn.",B,B,rare,TLA,Avatar: The Last Airbender,340,,,,,,draw;lifegain;pump;token,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Omenpath Journey,{3}{G},4.0,Enchantment,"When this enchantment enters, search your library for up to five land cards that have different names, exile them, then shuffle.
+At the beginning of your end step, choose a card at random exiled with this enchantment and put it onto the battlefield tapped.",G,G,mythic,BIG,The Big Score,48,,,,,,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,duel"
+Omniscience,{7}{U}{U}{U},10.0,Enchantment,You may cast spells from your hand without paying their mana costs.,U,U,mythic,M13,Magic 2013,63,,,,,,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Ordeal of Nylea,{1}{G},2.0,Enchantment — Aura,"Enchant creature
+Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice this Aura.
+When you sacrifice this Aura, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",G,G,uncommon,FDN,Foundations,641,,,,,Enchant,pump,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,penny,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Origin of Spider-Man,{1}{W},2.0,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Create a 2/1 green Spider creature token with reach.
+II — Put a +1/+1 counter on target creature you control. It becomes a legendary Spider Hero in addition to its other types.
+III — Target creature you control gains double strike until end of turn.",W,W,rare,OM1,Through the Omenpaths,14,,,,,,pump;token;tribal,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
+Outpace Oblivion,{2}{R},3.0,Enchantment,"Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+When this enchantment enters, it deals 5 damage to up to one target creature or planeswalker.
+{2}, Sacrifice this enchantment: It deals 2 damage to each player who doesn't have max speed.",R,R,uncommon,DFT,Aetherdrift,139,,,,,Start your engines!,,"standard,future,historic,timeless,gladiator,pioneer,modern,legacy,vintage,commander,oathbreaker,standardbrawl,brawl,alchemy,duel"
