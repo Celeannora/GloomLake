@@ -77,6 +77,15 @@ import sys
 from pathlib import Path
 from typing import Dict, List, Optional, Set, Tuple
 
+# Path setup — scripts/cli/ needs scripts/utils/ on the path
+import sys as _sys
+from pathlib import Path as _Path
+_here = _Path(__file__).resolve().parent
+_sys.path.insert(0, str(_here.parent / "utils"))
+_sys.path.insert(0, str(_here.parent / "analysis"))
+_sys.path.insert(0, str(_here.parent))
+del _here, _Path, _sys
+
 # ---------------------------------------------------------------------------
 # Strategic tag rules — (tag_name, list_of_oracle_text_substrings_OR_keywords)
 # All matches are case-insensitive. A card gets a tag if ANY substring matches.

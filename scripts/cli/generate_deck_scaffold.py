@@ -54,6 +54,15 @@ from datetime import date
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 
+# Path setup — scripts/cli/ needs scripts/utils/ on the path
+import sys as _sys
+from pathlib import Path as _Path
+_here = _Path(__file__).resolve().parent
+_sys.path.insert(0, str(_here.parent / "utils"))
+_sys.path.insert(0, str(_here.parent / "analysis"))
+_sys.path.insert(0, str(_here.parent))
+del _here, _Path, _sys
+
 # ─── Complete MTG creature type list (Scryfall catalog, 325 types) ─────────────
 ALL_CREATURE_TYPES: List[str] = [
     "Advisor", "Aetherborn", "Alien", "Ally", "Angel", "Antelope", "Ape",
