@@ -689,6 +689,10 @@ def _cli() -> None:
     )
     p.add_argument("input_file", help="session.md, decklist.txt, or pool CSV")
     p.add_argument("--tribe", default="", help="Tribe name for tribal evaluation")
+    p.add_argument("--archetypes", nargs="+", default=[],
+                   metavar="ARCH",
+                   help="Declared archetypes for dynamic constraint thresholds "
+                        "(e.g. --archetypes lifegain aristocrats control)")
     p.add_argument("--json", action="store_true", dest="output_json",
                    help="Output JSON instead of markdown")
     p.add_argument("--output", default="", help="Write to file instead of stdout")
@@ -735,7 +739,7 @@ def _cli() -> None:
     scores = score_pairwise(annotated)
 
     tribe = args.tribe.strip() or None
-    result = run_panel(scores, tribe=tribe)
+    result = run_panel(scores, tribe=tribe, archetypes=args.archetypes or [])
     deck_name = input_path.stem
 
     if args.output_json:
