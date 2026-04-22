@@ -410,6 +410,65 @@ def optimize(
         print(f"[optimizer] Initial EV={best_ev:.1f} consensus={best_consensus:.1f}",
               file=sys.stderr)
 
+    # ── Constraint seed phase ──────────────────────────────────────────────
+    # If constraints are set and the starting deck violates them, pre-fill
+    # non-locked slots greedily from the pool by card type priority before
+    # the hill-climbing loop starts. This prevents the optimizer from being
+    # stuck in a permanently-violated constraint state.
+    if constraints is not None:
+        viols = constraints.violations(best_entries)
+        if viols and verbose:
+            print(f"[optimizer] Seed phase: violations={viols}", file=sys.stderr)
+
+        # Sort pool by type priority: instants > sorceries > creatures > other
+        def _type_priority(entry: Dict) -> int:
+            tl = (entry.get("data") or {}).get("type_line", "").lower()
+            if "instant" in tl:   return 0
+            if "sorcery" in tl:   return 1
+            if "creature" in tl:  return 2
+            return 3
+
+        _locked = {c.lower() for c in (locked_cards or [])}
+        pool_sorted = sorted(
+            [e for e in pool_entries
+             if e.get("found_in_db") and e.get("data")
+             and e["name"].lower() not in {x["name"].lower() for x in best_entries}],
+            key=lambda e: (
+                _type_priority(e),
+                -pool_scores.get(e["name"].lower(),
+                                 type("", (), {"composite_score": 0})()).composite_score
+                 if hasattr(pool_scores.get(e["name"].lower(),
+                            type("", (), {"composite_score": 0})()), "composite_score")
+                 else 0
+            )
+        )
+
+        seed_added = 0
+        for pool_entry in pool_sorted:
+            if constraints.is_valid(best_entries):
+                break
+            # Add one copy of this pool card to the deck
+            new_entries = list(best_entries) + [{
+                **pool_entry,
+                "qty": 1,
+                "section": "main",
+            }]
+            best_entries = new_entries
+            seed_added += 1
+
+        if seed_added > 0:
+            if verbose:
+                print(f"[optimizer] Seed phase: added {seed_added} cards to satisfy constraints",
+                      file=sys.stderr)
+            # Re-score with seeded deck
+            best_scores = _score_entries(best_entries, card_data, primary_axis)
+            seed_panel = run_panel(best_scores, tribe=tribe)
+            best_ev = seed_panel["ev"]
+            best_consensus = seed_panel["consensus"]
+            if verbose:
+                print(f"[optimizer] Post-seed EV={best_ev:.1f} consensus={best_consensus:.1f}",
+                      file=sys.stderr)
+
     # ── Optimization state ─────────────────────────────────────────────────
     steps: List[OptimizationStep] = []
     tried_swaps: set = set()
