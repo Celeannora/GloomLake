@@ -785,13 +785,31 @@ def score_pairwise(
             )
 
     # -- Pass 4: Dependency scoring (per-card, not per-pair) ---------------
+    # Context-aware: Aura penalty is reduced when the pool has enough creature
+    # targets. An Aura in a creature-heavy deck always has a valid target, so
+    # the dependency is lower than in a spell-based deck.
+    _creature_count = sum(
+        1 for s in scores.values()
+        if "creature" in s.profile.type_line.lower()
+    )
+    _creature_fraction = _creature_count / max(len(scores), 1)
+    # Aura penalty scale: 1.0 (no creatures) → 0.0 (≥50% creatures)
+    # Linear: penalty = 1.0 - min(_creature_fraction / 0.5, 1.0)
+    _aura_penalty_scale = max(0.0, 1.0 - (_creature_fraction / 0.5))
+
+    _ENCHANT_RE = re.compile(r"\benchant\b", re.IGNORECASE)
+
     for name, sc in scores.items():
         oracle_text: str = sc.profile.oracle_text
-        dep: int = 0
+        dep: float = 0.0
         for compiled_pat, weight, _desc in _COMPILED_DEP_PATTERNS:
             if compiled_pat.search(oracle_text):
-                dep += weight
-        sc.dependency = min(dep, 4)
+                # Auras get a scaled penalty based on creature density
+                if compiled_pat == _ENCHANT_RE or _ENCHANT_RE.search(oracle_text):
+                    dep += weight * _aura_penalty_scale
+                else:
+                    dep += weight
+        sc.dependency = min(int(round(dep)), 4)
 
     # -- Finalize: set pool-size context on each CardScore -----------------
     all_scored: int = len(scores)

@@ -349,6 +349,11 @@ PAYOFF_BRIDGE_PATTERNS: List[Tuple[str, str, str]] = [
     (r"whenever .{0,30} attacks.*you gain \d+ life",             "lifegain", "attack-lifegain"),
     (r"whenever a (creature|bat|vampire|cleric) .{0,20}you control (enters|attacks|dies).*gain",
                                                                  "lifegain", "tribe-lifegain"),
+    # Auras/Effects that GRANT lifelink are lifegain enablers — they add lifegain
+    # to any creature, which then fires all lifegain payoffs in the deck.
+    (r"(has|gains|gain|have) lifelink",                         "lifegain", "grant-lifelink"),
+    (r"enchanted creature.*lifelink",                            "lifegain", "aura-lifelink"),
+    (r"equipped creature.*lifelink",                             "lifegain", "equip-lifelink"),
 ]
 
 
