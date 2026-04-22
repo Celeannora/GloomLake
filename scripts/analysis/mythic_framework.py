@@ -325,9 +325,14 @@ def compute_ev(scores: Dict[str, CardScore]) -> float:
 def detect_bottlenecks(
     scores: Dict[str, CardScore],
     tribe: Optional[str] = None,
+    archetypes: Optional[List[str]] = None,
 ) -> Dict[str, bool]:
     """
     Detect structural resource bottlenecks in the deck.
+
+    Thresholds are DYNAMIC — derived from the declared archetypes so a
+    control deck is held to higher interaction standards than aggro, and an
+    aristocrats deck is not penalised for running few sorceries.
 
     Returns a dict of {bottleneck_name: True/False}.
     True means the bottleneck IS present (problem detected).
@@ -338,19 +343,74 @@ def detect_bottlenecks(
     if n == 0:
         return {}
 
+    archetypes = [a.lower() for a in (archetypes or [])]
+
+    # ── Dynamic threshold derivation ──────────────────────────────────────
+    # Card type minimums scale with what the archetype needs.
+    #
+    # Instant speed interaction matters most for: control, tempo, combo
+    # Sorceries matter most for: midrange, ramp, reanimation
+    # Creatures are the engine for: aggro, tribal, aristocrats, lifegain
+    # Enchantments/Artifacts are primary for: enchantress, artifacts, equipment
+
+    _control_archs   = {"control", "stax", "tempo", "combo"}
+    _creature_archs  = {"aggro", "tribal", "aristocrats", "lifegain",
+                        "tokens", "voltron", "equipment"}
+    _spell_archs     = {"midrange", "ramp", "reanimation", "graveyard",
+                        "self_mill", "opp_mill", "storm", "extra_turns"}
+    _enchant_archs   = {"enchantress", "artifacts", "energy", "proliferate"}
+
+    arch_set = set(archetypes)
+    is_control  = bool(arch_set & _control_archs)
+    is_creature = bool(arch_set & _creature_archs)
+    is_spell    = bool(arch_set & _spell_archs)
+    is_enchant  = bool(arch_set & _enchant_archs)
+
+    # If no archetype declared, use conservative midrange defaults
+    if not arch_set:
+        is_control = is_spell = True
+
+    # Minimum instant count (instant-speed interaction)
+    if is_control:
+        min_instants = max(8, int(n * 0.14))   # control: ~14% of non-lands
+    elif is_creature:
+        min_instants = max(4, int(n * 0.07))   # aggro/tribal: ~7%
+    else:
+        min_instants = max(6, int(n * 0.10))   # midrange default: ~10%
+
+    # Minimum instant+sorcery combined (total interaction)
+    if is_control:
+        min_interaction = max(14, int(n * 0.25))
+    elif is_creature:
+        min_interaction = max(6, int(n * 0.10))
+    else:
+        min_interaction = max(10, int(n * 0.18))
+
+    # ── Count card types ──────────────────────────────────────────────────
+    instant_count   = sum(1 for s in non_lands.values()
+                          if "instant" in s.profile.type_line.lower())
+    sorcery_count   = sum(1 for s in non_lands.values()
+                          if "sorcery" in s.profile.type_line.lower())
+    interaction_count = instant_count + sorcery_count
+    creature_count  = sum(1 for s in non_lands.values()
+                          if "creature" in s.profile.type_line.lower())
+
     cmcs = [s.profile.cmc for s in non_lands.values() if s.profile.cmc > 0]
     avg_cmc = sum(cmcs) / len(cmcs) if cmcs else 3.0
     land_count = sum(s.qty for s in lands.values())
 
-    draw_tags = {"draw"}
+    draw_tags    = {"draw"}
     removal_tags = {"removal", "wipe", "counter", "bounce"}
     engine_roles = {CardRole.ENGINE, CardRole.ENABLER, CardRole.PAYOFF}
-    graveyard_tags = {"graveyard", "reanimation", "flashback", "madness"}
 
-    draw_count = sum(1 for s in non_lands.values() if s.profile.broad_tags & draw_tags)
-    removal_count = sum(1 for s in non_lands.values() if s.profile.broad_tags & removal_tags)
-    engine_count = sum(1 for s in non_lands.values() if s.role in engine_roles)
-    payoff_count = sum(1 for s in non_lands.values() if s.role == CardRole.PAYOFF)
+    draw_count    = sum(1 for s in non_lands.values()
+                        if s.profile.broad_tags & draw_tags)
+    removal_count = sum(1 for s in non_lands.values()
+                        if s.profile.broad_tags & removal_tags)
+    engine_count  = sum(1 for s in non_lands.values()
+                        if s.role in engine_roles)
+    payoff_count  = sum(1 for s in non_lands.values()
+                        if s.role == CardRole.PAYOFF)
 
     tribe_count = 0
     if tribe:
@@ -359,15 +419,31 @@ def detect_bottlenecks(
             if any(tribe_lower in sub.lower() for sub in s.profile.subtypes):
                 tribe_count += 1
 
+    # Minimum creature count (creature-centric archetypes need bodies)
+    min_creatures = max(16, int(n * 0.28)) if is_creature else max(8, int(n * 0.14))
+
     return {
-        "mana_bottleneck":    land_count < math.ceil(avg_cmc * 7),
-        "draw_bottleneck":    draw_count < 4,
-        "removal_bottleneck": removal_count < 8,
-        "payoff_bottleneck":  payoff_count < 6,
-        "engine_bottleneck":  engine_count < 4,
-        "tribe_bottleneck":   bool(tribe) and tribe_count < 20,
-        "curve_too_high":     avg_cmc > 3.5,
-        "isolated_cards":     sum(1 for s in non_lands.values() if s.synergy_count == 0) > n * 0.2,
+        # Existing checks
+        "mana_bottleneck":     land_count < math.ceil(avg_cmc * 7),
+        "draw_bottleneck":     draw_count < 4,
+        "removal_bottleneck":  removal_count < 8,
+        "payoff_bottleneck":   payoff_count < 6,
+        "engine_bottleneck":   engine_count < 4,
+        "tribe_bottleneck":    bool(tribe) and tribe_count < 20,
+        "curve_too_high":      avg_cmc > 3.5,
+        "isolated_cards":      sum(1 for s in non_lands.values()
+                                   if s.synergy_count == 0) > n * 0.2,
+        # NEW: card type diversity checks (dynamic thresholds)
+        "no_instant_interaction": instant_count < min_instants,
+        "no_interaction_spells":  interaction_count < min_interaction,
+        "creature_starved":       is_creature and creature_count < min_creatures,
+        # Diagnostic values (not booleans — used for reporting)
+        "_instant_count":     instant_count,
+        "_sorcery_count":     sorcery_count,
+        "_interaction_count": interaction_count,
+        "_creature_count":    creature_count,
+        "_min_instants":      min_instants,
+        "_min_interaction":   min_interaction,
     }
 
 
@@ -440,6 +516,7 @@ def run_panel(
     tribe: Optional[str] = None,
     pool_scores: Optional[Dict[str, CardScore]] = None,
     k_recommendations: int = 5,
+    archetypes: Optional[List[str]] = None,
 ) -> Dict[str, object]:
     """
     Run the full 10-archetype Mythic Panel evaluation.
@@ -459,7 +536,7 @@ def run_panel(
     All scores normalized to [0..100] for readability.
     """
     ev_comps = compute_ev_components(scores, tribe=tribe)
-    bottlenecks = detect_bottlenecks(scores, tribe=tribe)
+    bottlenecks = detect_bottlenecks(scores, tribe=tribe, archetypes=archetypes)
     recs = recommend_cuts_adds(scores, pool_scores, k=k_recommendations)
 
     # Per-archetype fitness (raw 0..1)
@@ -500,7 +577,8 @@ def run_panel(
     ]
 
     # Active bottlenecks (only True ones)
-    active_bottlenecks = [k for k, v in bottlenecks.items() if v]
+    active_bottlenecks = [k for k, v in bottlenecks.items()
+                          if not k.startswith("_") and v]
 
     return {
         "ev": round(compute_ev(scores) * 100, 1),

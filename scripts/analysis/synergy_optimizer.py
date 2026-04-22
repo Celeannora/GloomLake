@@ -116,6 +116,117 @@ class OptimizationResult:
 
 
 # ═══════════════════════════════════════════════════════════════════════════
+# Deck constraints — archetype-derived structural minimums
+# ═══════════════════════════════════════════════════════════════════════════
+
+@dataclass
+class DeckConstraints:
+    """
+    Structural minimums for a legal, competitive deck.
+    Derived dynamically from declared archetypes so a control deck
+    is held to higher interaction standards than an aggro deck.
+    """
+    min_instants: int
+    min_interaction: int    # instants + sorceries combined
+    min_creatures: int
+    min_lands: int
+    max_avg_cmc: float
+    archetypes: List[str]
+
+    @classmethod
+    def from_archetypes(
+        cls,
+        archetypes: List[str],
+        deck_size: int = 60,
+    ) -> "DeckConstraints":
+        """
+        Derive intelligent constraints from archetype list.
+
+        Rules:
+        - control / tempo / combo   → needs most instants (14%+)
+        - aggro / tribal / lifegain → needs bodies, fewer spells ok (7%+)
+        - midrange / ramp           → balanced (10%+)
+        - if empty                  → conservative midrange defaults
+        """
+        arch_set = {a.lower() for a in archetypes}
+        non_land = int(deck_size * 0.60)   # rough non-land count estimate
+
+        _control_archs  = {"control", "stax", "tempo", "combo", "storm"}
+        _creature_archs = {"aggro", "tribal", "aristocrats", "lifegain",
+                           "tokens", "voltron", "equipment", "burn", "infect"}
+        _spell_archs    = {"midrange", "ramp", "reanimation", "graveyard",
+                           "self_mill", "opp_mill", "extra_turns", "blink"}
+
+        is_control  = bool(arch_set & _control_archs)
+        is_creature = bool(arch_set & _creature_archs)
+
+        if not arch_set:
+            is_control = is_creature = False  # midrange defaults
+
+        if is_control:
+            min_instants    = max(8,  int(non_land * 0.14))
+            min_interaction = max(14, int(non_land * 0.25))
+            min_creatures   = max(4,  int(non_land * 0.08))
+            max_avg_cmc     = 3.8
+        elif is_creature:
+            min_instants    = max(4,  int(non_land * 0.07))
+            min_interaction = max(6,  int(non_land * 0.10))
+            min_creatures   = max(18, int(non_land * 0.30))
+            max_avg_cmc     = 3.2
+        else:
+            # Midrange / balanced default
+            min_instants    = max(6,  int(non_land * 0.10))
+            min_interaction = max(10, int(non_land * 0.18))
+            min_creatures   = max(10, int(non_land * 0.18))
+            max_avg_cmc     = 3.5
+
+        min_lands = max(20, int(deck_size * 0.36))
+
+        return cls(
+            min_instants=min_instants,
+            min_interaction=min_interaction,
+            min_creatures=min_creatures,
+            min_lands=min_lands,
+            max_avg_cmc=max_avg_cmc,
+            archetypes=list(archetypes),
+        )
+
+    def check(self, entries: List[Dict]) -> Dict[str, bool]:
+        """
+        Check a deck entry list against all constraints.
+        Returns {constraint_name: True_if_violated}.
+        """
+        instant_count    = sum(1 for e in entries
+                               if "instant" in (e.get("data") or {}).get("type_line", "").lower())
+        sorcery_count    = sum(1 for e in entries
+                               if "sorcery" in (e.get("data") or {}).get("type_line", "").lower())
+        creature_count   = sum(1 for e in entries
+                               if "creature" in (e.get("data") or {}).get("type_line", "").lower())
+        land_count       = sum(e.get("qty", 1) for e in entries
+                               if "land" in (e.get("data") or {}).get("type_line", "").lower())
+        non_land_entries = [e for e in entries
+                            if "land" not in (e.get("data") or {}).get("type_line", "").lower()]
+        cmcs = [(e.get("data") or {}).get("cmc", 0) for e in non_land_entries]
+        avg_cmc = sum(float(c) for c in cmcs if c) / max(len(cmcs), 1)
+
+        return {
+            "too_few_instants":    instant_count < self.min_instants,
+            "too_few_interaction": (instant_count + sorcery_count) < self.min_interaction,
+            "too_few_creatures":   creature_count < self.min_creatures,
+            "too_few_lands":       land_count < self.min_lands,
+            "curve_too_high":      avg_cmc > self.max_avg_cmc,
+        }
+
+    def violations(self, entries: List[Dict]) -> List[str]:
+        """Return list of violated constraint names."""
+        return [k for k, v in self.check(entries).items() if v]
+
+    def is_valid(self, entries: List[Dict]) -> bool:
+        """True if deck satisfies all structural constraints."""
+        return len(self.violations(entries)) == 0
+
+
+# ═══════════════════════════════════════════════════════════════════════════
 # Deck manipulation helpers
 # ═══════════════════════════════════════════════════════════════════════════
 
@@ -254,6 +365,7 @@ def optimize(
     dry_run: bool = False,
     verbose: bool = False,
     locked_cards: Optional[List[str]] = None,
+    constraints: Optional["DeckConstraints"] = None,
 ) -> OptimizationResult:
     """
     Run the Karpathy-style optimization loop.
@@ -370,6 +482,14 @@ def optimize(
         # Evaluate candidate
         candidate_panel = run_panel(candidate_scores, tribe=tribe)
         candidate_ev = candidate_panel["ev"]
+
+        # Enforce structural constraints — reject if swap breaks minimums
+        if constraints is not None and not constraints.is_valid(candidate_entries):
+            if verbose:
+                viols = constraints.violations(candidate_entries)
+                print(f"[optimizer] ✗ constraint violation: {viols}", file=sys.stderr)
+            rejected_count += 1
+            continue
 
         if candidate_ev > best_ev:
             # Accept the swap
@@ -592,6 +712,10 @@ def _cli() -> None:
                    help="Score but do not apply swaps")
     p.add_argument("--verbose", action="store_true",
                    help="Print iteration-by-iteration progress to stderr")
+    p.add_argument("--archetypes", nargs="+", default=[],
+                   metavar="ARCH",
+                   help="Declared archetypes (e.g. --archetypes lifegain aristocrats control). "
+                        "Drives dynamic constraint thresholds.")
     p.add_argument("--lock-cards", nargs="+", default=[],
                    metavar="CARD",
                    help="Card names that cannot be cut (e.g. --lock-cards \"Hope Estheim\")")
@@ -644,6 +768,17 @@ def _cli() -> None:
     )
 
     # ── Run optimizer ──────────────────────────────────────────────────────
+    # Build archetype-derived constraints
+    _constraints = None
+    if args.archetypes:
+        _constraints = DeckConstraints.from_archetypes(args.archetypes, deck_size=60)
+        if args.verbose:
+            print(f"[optimizer] Constraints from {args.archetypes}: "
+                  f"min_instants={_constraints.min_instants} "
+                  f"min_interaction={_constraints.min_interaction} "
+                  f"min_creatures={_constraints.min_creatures}",
+                  file=sys.stderr)
+
     result = optimize(
         deck_entries=deck_annotated,
         pool_entries=pool_annotated,
@@ -656,6 +791,7 @@ def _cli() -> None:
         dry_run=args.dry_run,
         verbose=args.verbose,
         locked_cards=args.lock_cards or [],
+        constraints=_constraints,
     )
     result.deck_name = session_path.parent.name
 

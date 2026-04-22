@@ -173,7 +173,12 @@ def main() -> None:
     if args.mythic_panel:
         try:
             from mythic_framework import run_panel, format_panel_report_markdown
-            panel_result = run_panel(scores, tribe=args.tribe.strip() or None)
+            # Run panel on pool scores (full candidate pool context)
+            panel_result = run_panel(
+                scores,
+                tribe=args.tribe.strip() or None,
+                archetypes=args.archetypes or [],
+            )
             panel_md = format_panel_report_markdown(
                 panel_result, deck_name=input_path.stem
             )
@@ -261,6 +266,10 @@ def _parse_args() -> argparse.Namespace:
                    help="Weight for oracle confirmed interactions (default: 2.0)")
     p.add_argument("--weights-config", type=str, default="",
                    help="JSON config file overriding weight defaults")
+    p.add_argument("--archetypes", nargs="+", default=[],
+                   metavar="ARCH",
+                   help="Declared archetypes (e.g. --archetypes lifegain aristocrats). "
+                        "Passed to mythic panel for dynamic constraint thresholds.")
     p.add_argument("--mythic-panel", action="store_true",
                    help="Run 10-archetype Mythic Panel evaluation and append to report")
     p.add_argument("--tribe", default="",
