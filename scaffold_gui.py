@@ -32,24 +32,103 @@ from PySide6.QtWidgets import (
 )
 
 # ─────────────────────────────────────────────────────────────────────────────
-# Scripts path setup
+# Scripts path setup  
 # ─────────────────────────────────────────────────────────────────────────────
 _scripts_dir = Path(__file__).resolve().parent / "scripts"
+_cli_dir = _scripts_dir / "cli"
 sys.path.insert(0, str(_scripts_dir))
-from generate_deck_scaffold import (
-    ALL_CREATURE_TYPES,
-    ARCHETYPE_QUERIES,
-    sanitize_folder_name,
-)
-from mtg_utils import RepoPaths
-from auto_build import (
-    auto_build_decklist,
-    merge_scores_into_candidate_pool,
-    normalize_colors,
-    sort_and_rewrite_csv,
-    COLOR_ORDER,
-    MANA_NAMES,
-)
+sys.path.insert(0, str(_cli_dir))
+
+import importlib.util
+import sys
+
+# Helper to import from scripts/cli
+def _import_from_cli(module_name, *names):
+    spec = importlib.util.spec_from_file_location(
+        module_name, 
+        _cli_dir / f"{module_name}.py"
+    )
+    if not spec:
+        raise ImportError(f"Module {module_name} not found in {_cli_dir}")
+    module = importlib.util.module_from_spec(spec)
+    sys.modules[module_name] = module
+    spec.loader.exec_module(module)
+    
+    # Import specific names
+    imported = []
+    for name in names:
+        if hasattr(module, name):
+            globals()[name] = getattr(module, name)
+            imported.append(name)
+        else:
+            print(f"Warning: {name} not found in {module_name}")
+    
+    # Also add module to globals for whole-module imports
+    globals()[module_name] = module
+    return imported
+
+# Import from scripts/cli
+try:
+    # First try direct import with absolute path
+    import sys
+    cli_path = str(Path(__file__).parent / "scripts" / "cli")
+    if cli_path not in sys.path:
+        sys.path.insert(0, cli_path)
+    
+    from generate_deck_scaffold import (
+        ALL_CREATURE_TYPES,
+        ARCHETYPE_QUERIES,
+        sanitize_folder_name,
+    )
+    print(f"Successfully imported generate_deck_scaffold from {cli_path}")
+except ImportError as e:
+    print(f"Warning: Could not import generate_deck_scaffold: {e}")
+    print("Using placeholders...")
+    ALL_CREATURE_TYPES = []
+    ARCHETYPE_QUERIES = {}
+    def sanitize_folder_name(name):
+        return "".join(c for c in name if c.isalnum() or c in " -_").strip()
+
+# Import RepoPaths from mtg_utils
+try:
+    from scripts.utils.mtg_utils import RepoPaths
+except ImportError:
+    try:
+        from mtg_utils import RepoPaths
+    except ImportError:
+        print("Warning: mtg_utils module not found, using minimal RepoPaths stub")
+        class RepoPaths:
+            def __init__(self):
+                self.root = Path(__file__).parent
+                self.cards_by_category = self.root / "cards_by_category"
+
+try:
+    # Try importing autobuild from cli directory
+    from autobuild import (
+        auto_build_decklist,
+        merge_scores_into_candidate_pool,
+        normalize_colors,
+        sort_and_rewrite_csv,
+        COLOR_ORDER,
+        MANA_NAMES,
+    )
+    print(f"Successfully imported autobuild")
+except ImportError as e:
+    try:
+        # Try importing from utils directory
+        from scripts.utils.auto_build import *
+        print(f"Successfully imported auto_build from utils")
+    except ImportError:
+        print(f"Warning: auto_build module not available: {e}")
+        print("Using stubs...")
+        def auto_build_decklist(*args, **kwargs):
+            return (False, "auto_build module not available", [])
+        merge_scores_into_candidate_pool = lambda x: None
+        normalize_colors = lambda x: x
+        def sort_and_rewrite_csv(*args, **kwargs):
+            return None
+        COLOR_ORDER = ["W", "U", "B", "R", "G"]
+        MANA_NAMES = {"W": "White", "U": "Blue", "B": "Black", "R": "Red", "G": "Green"}
 
 from synergy_archetype_mapping import archetype_to_axes
 
@@ -948,24 +1027,43 @@ class ScaffoldApp(QMainWindow):
         self.tabs.addTab(scroll, "New Scaffold")
         lay = QVBoxLayout(page)
         lay.setContentsMargins(12, 12, 12, 12); lay.setSpacing(8)
-        # Card 1: Mana
-        c1 = CardWidget(); c1.add_header("01", "Mana Colours", "Select colour identity")
-        b1 = QWidget(); bl1 = QVBoxLayout(b1); bl1.setContentsMargins(24, 0, 24, 16)
+        # Card 1: Focus Cards (NOW THE VERY TOP)
+        c1 = CardWidget(); c1.add_header("01", "Focus Cards", "Enter key cards, then click Analyze to auto-fill other sections")
+        b1 = QWidget(); tb1 = QVBoxLayout(b1); tb1.setContentsMargins(24, 0, 24, 16)
+        self.focus_box = QPlainTextEdit(); self.focus_box.setFixedHeight(80)
+        self.focus_box.setPlaceholderText("Enter card names, one per line...\nExamples: Resplendent Angel, Glimpse the Unthinkable, Lightning Bolt"); tb1.addWidget(self.focus_box)
+        
+        # Add powerful auto-analysis button for focus cards
+        analysis_row = QHBoxLayout()
+        self.analyze_focus_btn = QPushButton("\U0001F50D Analyze Focus Cards & Auto-Fill All Sections")
+        self.analyze_focus_btn.setToolTip("Analyze entered cards to auto-suggest: Colors, Archetypes, Tribal, Tags, Name, and Options")
+        self.analyze_focus_btn.clicked.connect(self._analyze_focus_cards)
+        self.analyze_focus_btn.setObjectName("primary")
+        self.analyze_focus_btn.setFixedHeight(36)
+        analysis_row.addWidget(self.analyze_focus_btn)
+        analysis_row.addStretch()
+        tb1.addLayout(analysis_row)
+        
+        c1._lay.addWidget(b1); lay.addWidget(c1)
+        
+        # Card 2: Mana (was Card 1)
+        c2 = CardWidget(); c2.add_header("02", "Mana Colours", "Select colour identity")
+        b2 = QWidget(); bl2 = QVBoxLayout(b2); bl2.setContentsMargins(24, 0, 24, 16)
         self.mana_orbital = ManaOrbitalWidget()
         self.mana_orbital.color_changed.connect(self._on_colors)
-        bl1.addWidget(self.mana_orbital, alignment=Qt.AlignCenter)
+        bl2.addWidget(self.mana_orbital, alignment=Qt.AlignCenter)
         self._guild_lbl = QLabel(""); self._guild_lbl.setObjectName("accent")
-        self._guild_lbl.setAlignment(Qt.AlignCenter); bl1.addWidget(self._guild_lbl)
+        self._guild_lbl.setAlignment(Qt.AlignCenter); bl2.addWidget(self._guild_lbl)
         nr = QHBoxLayout(); nr.addStretch()
         for c in COLOR_ORDER:
             nl = QLabel(MANA_NAMES[c]); nl.setObjectName("muted")
             nl.setAlignment(Qt.AlignCenter); nl.setFixedWidth(56); nr.addWidget(nl)
-        nr.addStretch(); bl1.addLayout(nr)
+        nr.addStretch(); bl2.addLayout(nr)
         dv = QFrame(); dv.setFixedHeight(1); dv.setStyleSheet(f"background:{DIVIDER};")
-        bl1.addWidget(dv)
+        bl2.addWidget(dv)
         pl = QLabel("PRESETS"); pl.setObjectName("muted")
         pl.setStyleSheet(f"font-size:10px;font-weight:bold;color:{TEXT_MUTED};")
-        bl1.addWidget(pl)
+        bl2.addWidget(pl)
         # Guild presets: 4-col grid, full names, no truncation
         gl = list(GUILD_PRESETS.items())
         pgrid = QGridLayout()
@@ -978,11 +1076,11 @@ class ScaffoldApp(QMainWindow):
             b.clicked.connect(
                 lambda ck=False, n=name: self.mana_orbital.apply_preset(n))
             pgrid.addWidget(b, idx // 4, idx % 4)
-        bl1.addLayout(pgrid)
-        c1._lay.addWidget(b1); lay.addWidget(c1)
-        # Card 2: Archetype
-        c2 = CardWidget(); c2.add_header("02", "Archetype", "Select one or more")
-        b2 = QWidget(); bl2 = QVBoxLayout(b2); bl2.setContentsMargins(24, 0, 24, 16)
+        bl2.addLayout(pgrid)
+        c2._lay.addWidget(b2); lay.addWidget(c2)
+        # Card 3: Archetype (was Card 2)
+        c3 = CardWidget(); c3.add_header("03", "Archetype", "Select one or more")
+        b3 = QWidget(); bl3 = QVBoxLayout(b3); bl3.setContentsMargins(24, 0, 24, 16)
         for gn, archs in ARCHETYPE_GROUPS.items():
             gh = QHBoxLayout()
             ik = ARCHETYPE_GROUP_ICONS.get(gn)
@@ -991,7 +1089,7 @@ class ScaffoldApp(QMainWindow):
                 gi.setStyleSheet(f"color:{TEXT_MUTED};background:transparent;"); gh.addWidget(gi)
             gl2 = QLabel(gn.upper()); gl2.setObjectName("muted")
             gl2.setStyleSheet(f"font-size:10px;font-weight:bold;color:{TEXT_MUTED};")
-            gh.addWidget(gl2); gh.addStretch(); bl2.addLayout(gh)
+            gh.addWidget(gl2); gh.addStretch(); bl3.addLayout(gh)
             grid = QGridLayout(); grid.setSpacing(4)
             for i, (a, desc) in enumerate(archs.items()):
                 lbl = ARCH_LABEL.get(a, a.replace("_"," ").title())
@@ -999,27 +1097,27 @@ class ScaffoldApp(QMainWindow):
                 btn.setToolTip(desc); btn.setFixedHeight(30)
                 btn.clicked.connect(lambda ck=False, x=a: self._toggle_arch(x))
                 grid.addWidget(btn, i//5, i%5); self._arch_btns[a] = btn
-            bl2.addLayout(grid)
-        c2._lay.addWidget(b2); lay.addWidget(c2)
-        # Card 3: Tribal
-        c3 = CardWidget(); c3.add_header("03", "Tribal", "Optional \u2014 creature type synergies")
-        b3 = QWidget(); tb3 = QVBoxLayout(b3); tb3.setContentsMargins(24, 0, 24, 16)
+            bl3.addLayout(grid)
+        c3._lay.addWidget(b3); lay.addWidget(c3)
+# Card 4: Tribal (was Card 3)
+        c4 = CardWidget(); c4.add_header("04", "Tribal", "Optional \u2014 creature type synergies")
+        b4 = QWidget(); tb4 = QVBoxLayout(b4); tb4.setContentsMargins(24, 0, 24, 16)
         self._tribal_cb = QCheckBox("Enable Tribal")
-        self._tribal_cb.toggled.connect(self._on_tribal); tb3.addWidget(self._tribal_cb)
-        self._wildcard_cb = QCheckBox("Wildcard Mode"); self._wildcard_cb.hide(); tb3.addWidget(self._wildcard_cb)
+        self._tribal_cb.toggled.connect(self._on_tribal); tb4.addWidget(self._tribal_cb)
+        self._wildcard_cb = QCheckBox("Wildcard Mode"); self._wildcard_cb.hide(); tb4.addWidget(self._wildcard_cb)
         self._tribe_search = QLineEdit(); self._tribe_search.setPlaceholderText("Search creature types...")
         self._tribe_search.setEnabled(False); self._tribe_search.textChanged.connect(self._tribe_changed)
-        tb3.addWidget(self._tribe_search)
+        tb4.addWidget(self._tribe_search)
         self._tribe_res = QWidget(); self._tribe_res_l = QVBoxLayout(self._tribe_res)
-        self._tribe_res_l.setContentsMargins(0,0,0,0); self._tribe_res.hide(); tb3.addWidget(self._tribe_res)
+        self._tribe_res_l.setContentsMargins(0,0,0,0); self._tribe_res.hide(); tb4.addWidget(self._tribe_res)
         self._tribe_chips = QWidget(); self._tribe_chips_l = QHBoxLayout(self._tribe_chips)
-        self._tribe_chips_l.setContentsMargins(0,0,0,0); self._tribe_chips.hide(); tb3.addWidget(self._tribe_chips)
-        c3._lay.addWidget(b3); lay.addWidget(c3)
-        # Card 4: Tags
-        c4 = CardWidget(); c4.add_header("04", "Extra Tags", "Optional search keywords")
-        b4 = QWidget(); tb4 = QVBoxLayout(b4); tb4.setContentsMargins(24, 0, 24, 16)
+        self._tribe_chips_l.setContentsMargins(0,0,0,0); self._tribe_chips.hide(); tb4.addWidget(self._tribe_chips)
+        c4._lay.addWidget(b4); lay.addWidget(c4)
+# Card 5: Tags (was Card 4)
+        c5 = CardWidget(); c5.add_header("05", "Extra Tags", "Optional search keywords")
+        b5 = QWidget(); tb5 = QVBoxLayout(b5); tb5.setContentsMargins(24, 0, 24, 16)
         ab = QPushButton("\u2728 Auto from archetype"); ab.setFixedHeight(28)
-        ab.clicked.connect(self._auto_tags); tb4.addWidget(ab, alignment=Qt.AlignLeft)
+        ab.clicked.connect(self._auto_tags); tb5.addWidget(ab, alignment=Qt.AlignLeft)
         for cn, ct in TAG_CATEGORIES.items():
             ch = QHBoxLayout()
             ik = TAG_CAT_ICONS.get(cn)
@@ -1028,22 +1126,16 @@ class ScaffoldApp(QMainWindow):
                 ci.setStyleSheet(f"color:{TEXT_MUTED};background:transparent;"); ch.addWidget(ci)
             cl = QLabel(cn.upper()); cl.setObjectName("muted")
             cl.setStyleSheet(f"font-size:10px;font-weight:bold;"); ch.addWidget(cl)
-            ch.addStretch(); tb4.addLayout(ch)
+            ch.addStretch(); tb5.addLayout(ch)
             tg = QGridLayout(); tg.setSpacing(4)
             for i, (tag, desc) in enumerate(ct.items()):
                 btn = QPushButton(tag); btn.setObjectName("pill")
                 btn.setToolTip(desc); btn.setFixedHeight(26)
                 btn.clicked.connect(lambda ck=False, t=tag: self._toggle_tag(t))
                 tg.addWidget(btn, i//6, i%6); self._tag_btns[tag] = btn
-            tb4.addLayout(tg)
-        c4._lay.addWidget(b4); lay.addWidget(c4)
-        # Card 5: Focus
-        c5 = CardWidget(); c5.add_header("05", "Focus Cards", "Guaranteed inclusion. One per line.")
-        b5 = QWidget(); tb5 = QVBoxLayout(b5); tb5.setContentsMargins(24, 0, 24, 16)
-        self.focus_box = QPlainTextEdit(); self.focus_box.setFixedHeight(80)
-        self.focus_box.setPlaceholderText("Card names, one per line..."); tb5.addWidget(self.focus_box)
+            tb5.addLayout(tg)
         c5._lay.addWidget(b5); lay.addWidget(c5)
-        # Card 6: Name
+        # Card 6: Name (was 6, now 6 because we removed old Card 5)
         c6 = CardWidget(); c6.add_header("06", "Deck Name")
         b6 = QWidget(); bl6 = QVBoxLayout(b6); bl6.setContentsMargins(24, 0, 24, 16)
         self._auto_name = QCheckBox("Auto-generate from Colors + Archetype")
@@ -1063,7 +1155,7 @@ class ScaffoldApp(QMainWindow):
         self._focus_char = QLineEdit(); self._focus_char.setPlaceholderText("Optional (e.g., Aerith)")
         self._focus_char.textChanged.connect(self._update_name); fr.addWidget(self._focus_char)
         bl6.addLayout(fr); c6._lay.addWidget(b6); lay.addWidget(c6)
-        # Card 7: Options
+        # Card 7: Options (was 7)
         c7 = CardWidget(); c7.add_header("07", "Options")
         b7 = QWidget(); bl7 = QVBoxLayout(b7); bl7.setContentsMargins(24, 0, 24, 16)
         self._skip_q = QCheckBox("Skip queries (offline template)")
@@ -1071,7 +1163,7 @@ class ScaffoldApp(QMainWindow):
         self._auto_bld = QCheckBox("Auto-build decklist (Karsten)"); self._auto_bld.setChecked(True)
         bl7.addWidget(self._skip_q); bl7.addWidget(self._run_syn); bl7.addWidget(self._auto_bld)
         c7._lay.addWidget(b7); lay.addWidget(c7)
-        # Card 8: Output
+        # Card 8: Output (was 8)
         c8 = CardWidget(); c8.add_header("08", "Output Directory", "Default: Decks/")
         b8 = QWidget(); bl8 = QHBoxLayout(b8); bl8.setContentsMargins(24, 0, 24, 16)
         self.output_entry = QLineEdit(); self.output_entry.setPlaceholderText("Decks/")
@@ -1193,6 +1285,214 @@ class ScaffoldApp(QMainWindow):
         for a in self.selected_archetypes:
             for t in ARCHETYPE_TAG_MAP.get(a, []):
                 if t in self._tag_btns and t not in self._selected_tags: self._toggle_tag(t)
+    
+    def _analyze_focus_cards(self):
+        """Analyze entered focus cards to auto-fill ALL sections: Colors, Archetypes, Tribal, Tags, Name, Options."""
+        focus_text = self.focus_box.toPlainText().strip()
+        if not focus_text:
+            self._sm("No focus cards entered to analyze.", WARNING)
+            return
+        
+        cards = [line.strip() for line in focus_text.splitlines() if line.strip()]
+        self._sm(f"Analyzing {len(cards)} focus cards to auto-fill all sections...", INFO_BLUE)
+        
+        # Clear existing selections first
+        self._reset()
+        
+        # Track what we're analyzing
+        suggested_colors = set()
+        suggested_archetypes = set()
+        suggested_tribes = []  # Changed from set() to list for slicing
+        suggested_tags = set()
+        deck_name_hints = []
+        
+        # Show examples of good card names for analysis
+        example_cards = [
+            "Resplendent Angel",  # W, lifegain, Angel
+            "Glimpse the Unthinkable",  # U/B, opp_mill
+            "Lightning Bolt",  # R, burn
+            "Birds of Paradise",  # G, ramp
+            "Counterspell",  # U, control
+            "Tarmogoyf",  # G, graveyard
+            "Thoughtseize",  # B, control
+            "Serra Angel",  # W, Angel
+            "Mulldrifter",  # U, draw
+            "Blood Crypt"  # B/R, land
+        ]
+        
+        # Log helpful examples
+        self._log_box.appendPlainText("Example cards that work well for auto-analysis:")
+        for ex in example_cards:
+            self._log_box.appendPlainText(f"  - {ex}")
+        self._log_box.appendPlainText("")
+        
+        # Analyze each card
+        self._log_box.appendPlainText(f"Analyzing {len(cards)} cards:")
+        for card in cards:
+            card_lower = card.lower()
+            self._log_box.appendPlainText(f"  - {card}")
+            
+            # 1. COLOR ANALYSIS - Better pattern matching
+            # Check for color words or specific card types
+            color_keywords = {
+                "W": ["angel", "serra", "lyra", "plains", "white", "knight", "cleric", "soldier"],
+                "U": ["island", "blue", "counter", "mill", "glimpse", "tome", "thought", "mind"],
+                "B": ["swamp", "black", "zombie", "graveyard", "death", "murder", "kill", "vampire"],
+                "R": ["mountain", "red", "burn", "lightning", "dragon", "goblin", "shock", "bolt"],
+                "G": ["forest", "green", "elf", "ramp", "paradise", "growth", "beast", "tree"]
+            }
+            
+            for color, keywords in color_keywords.items():
+                if any(keyword in card_lower for keyword in keywords):
+                    suggested_colors.add(color)
+            
+            # Also check for dual/multi-color iconic cards
+            if "esper" in card_lower:
+                suggested_colors.update(["W", "U", "B"])
+            if "azorius" in card_lower:
+                suggested_colors.update(["W", "U"])
+            if "dimir" in card_lower:
+                suggested_colors.update(["U", "B"])
+            if "rakdos" in card_lower:
+                suggested_colors.update(["B", "R"])
+            if "gruul" in card_lower:
+                suggested_colors.update(["R", "G"])
+            if "selesnya" in card_lower:
+                suggested_colors.update(["W", "G"])
+            
+            # 2. ARCHETYPE ANALYSIS - More comprehensive
+            archetype_patterns = {
+                "lifegain": ["angel", "serra", "lyra", "vitality", "healer", "life", "ascendant"],
+                "opp_mill": ["mill", "glimpse", "tome", "thought", "mind", "archive", "memory"],
+                "burn": ["burn", "lightning", "shock", "bolt", "fire", "pyro", "inferno"],
+                "control": ["counter", "control", "cancel", "negate", "denial", "dissolve"],
+                "ramp": ["ramp", "paradise", "growth", "cultivate", "explore", "harvest"],
+                "tokens": ["token", "spawn", "create", "generate", "produce", "army"],
+                "artifacts": ["artifact", "equipment", "forge", "anvil", "hammer", "gear"],
+                "enchantress": ["enchantment", "aura", "curse", "binding", "seal"],
+                "graveyard": ["graveyard", "zombie", "reanimate", "unearth", "dredge", "scavenge"],
+                "infect": ["infect", "poison", "toxic", "phyrexian", "blight"],
+                "landfall": ["landfall", "terramorphic", "evolving", "fetch"],
+                "blink": ["blink", "flicker", "restoration", "ephemerate"],
+                "aristocrats": ["sacrifice", "blood", "altar", "crypt", "aristocrat"]
+            }
+            
+            for archetype, patterns in archetype_patterns.items():
+                if any(pattern in card_lower for pattern in patterns):
+                    suggested_archetypes.add(archetype)
+                    # Add meaningful hint for deck name
+                    if archetype == "lifegain":
+                        deck_name_hints.append("Lifegain")
+                    elif archetype == "opp_mill":
+                        deck_name_hints.append("Mill")
+                    elif archetype == "burn":
+                        deck_name_hints.append("Burn")
+                    elif archetype == "control":
+                        deck_name_hints.append("Control")
+                    elif archetype == "ramp":
+                        deck_name_hints.append("Ramp")
+                    elif archetype in ["tokens", "artifacts", "enchantress"]:
+                        deck_name_hints.append(archetype.title())
+            
+            # 3. TRIBAL ANALYSIS - Expanded
+            tribal_patterns = {
+                "Angel": ["angel", "seraph", "cherub"],
+                "Zombie": ["zombie", "ghoul", "undead", "revenant"],
+                "Elf": ["elf", "elves", "elvish"],
+                "Goblin": ["goblin", "goblinoid"],
+                "Merfolk": ["merfolk", "siren", "triton"],
+                "Dragon": ["dragon", "wyrm", "drake"],
+                "Vampire": ["vampire", "nosferatu", "bloodsucker"],
+                "Human": ["human", "warrior", "soldier", "knight", "cleric", "wizard"],
+                "Spirit": ["spirit", "ghost", "phantom", "specter"],
+                "Elemental": ["elemental", "golem", "construct"],
+                "Beast": ["beast", "wolf", "bear", "lion", "tiger"],
+                "Bird": ["bird", "hawk", "eagle", "falcon"],
+                "Demon": ["demon", "fiend", "devil"],
+                "Sliver": ["sliver"],
+                "Myr": ["myr"],
+                "Eldrazi": ["eldrazi", "kozilek", "ulamog", "emrakul"]
+            }
+            
+            for tribe, patterns in tribal_patterns.items():
+                if any(pattern in card_lower for pattern in patterns) and tribe not in suggested_tribes:
+                    suggested_tribes.append(tribe)
+        
+        # 4. TAG ANALYSIS based on archetypes
+        for arch in suggested_archetypes:
+            if arch in ARCHETYPE_TAG_MAP:
+                suggested_tags.update(ARCHETYPE_TAG_MAP[arch])
+        
+        # 5. APPLY ANALYSIS TO ALL SECTIONS
+        
+        # Apply colors (Mana section)
+        for color in suggested_colors:
+            if color in COLOR_ORDER and color not in self.mana_orbital.selected:
+                self.mana_orbital._toggle(color)
+        
+        # Apply archetypes
+        for arch in suggested_archetypes:
+            if arch in self._arch_btns and arch not in self.selected_archetypes:
+                self._toggle_arch(arch)
+        
+        # Apply tribal if we found tribes
+        if suggested_tribes:
+            self._tribal_cb.setChecked(True)
+            for tribe in suggested_tribes[:3]:  # Limit to 3 tribes
+                if tribe not in self._tribes:
+                    self._tribes.append(tribe)
+            self._refresh_chips()
+        
+        # Apply tags
+        for tag in suggested_tags:
+            if tag in self._tag_btns and tag not in self._selected_tags:
+                self._toggle_tag(tag)
+        
+        # 6. AUTO-GENERATE DECK NAME
+        if deck_name_hints and suggested_colors:
+            # Get color name
+            color_key = frozenset(suggested_colors)
+            color_name = GUILD_NAMES.get(color_key, "".join(sorted(suggested_colors)))
+            
+            # Get unique archetype hints
+            unique_hints = []
+            for hint in deck_name_hints:
+                if hint not in unique_hints:
+                    unique_hints.append(hint)
+            
+            # Build name
+            if unique_hints:
+                archetype_hint = " ".join(unique_hints[:2])  # Max 2 hints
+                suggested_name = f"{color_name} {archetype_hint}"
+            else:
+                suggested_name = color_name
+            
+            # Set the name
+            if self._auto_name.isChecked():
+                self._name_prev.setText(suggested_name)
+            else:
+                self.name_entry.setText(suggested_name)
+        
+        # 7. AUTO-SET OPTIONS based on analysis
+        if suggested_archetypes:
+            # If we have complex archetypes, enable synergy analysis
+            self._run_syn.setChecked(True)
+            # Enable auto-build for most decks
+            self._auto_bld.setChecked(True)
+        
+        # 8. LOG THE ANALYSIS
+        self._log_box.appendPlainText("\n" + "="*60)
+        self._log_box.appendPlainText("FOCUS CARD ANALYSIS - AUTO-FILLED ALL SECTIONS")
+        self._log_box.appendPlainText("="*60)
+        self._log_box.appendPlainText(f"Cards analyzed: {len(cards)}")
+        self._log_box.appendPlainText(f"Suggested colors: {', '.join(sorted(suggested_colors)) or 'None detected'}")
+        self._log_box.appendPlainText(f"Suggested archetypes: {', '.join(sorted(suggested_archetypes)) or 'None detected'}")
+        self._log_box.appendPlainText(f"Suggested tribes: {', '.join(suggested_tribes[:5]) or 'None'}")
+        self._log_box.appendPlainText(f"Suggested tags: {', '.join(sorted(suggested_tags)) or 'None'}")
+        self._log_box.appendPlainText("")
+        
+        self._sm(f"Auto-filled {len(suggested_colors)} colors, {len(suggested_archetypes)} archetypes, {len(suggested_tribes)} tribes, {len(suggested_tags)} tags", SUCCESS)
+            
     def _on_tribal(self, on):
         self._tribe_search.setEnabled(on); self._wildcard_cb.setVisible(on)
         if not on: self._tribes.clear(); self._refresh_chips(); self._tribe_res.hide(); self._tribe_search.clear()

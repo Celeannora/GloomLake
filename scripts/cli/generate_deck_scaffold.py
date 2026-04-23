@@ -61,6 +61,14 @@ _here = _Path(__file__).resolve().parent
 _sys.path.insert(0, str(_here.parent / "utils"))
 _sys.path.insert(0, str(_here.parent / "analysis"))
 _sys.path.insert(0, str(_here.parent))
+
+# Import validation
+try:
+    from deck_validator import DeckValidator
+    VALIDATOR_AVAILABLE = True
+except ImportError:
+    VALIDATOR_AVAILABLE = False
+
 del _here, _Path, _sys
 
 # ─── Complete MTG creature type list (Scryfall catalog, 325 types) ─────────────
@@ -119,13 +127,22 @@ _CREATURE_TYPES_LOWER: Dict[str, str] = {t.lower(): t for t in ALL_CREATURE_TYPE
 
 # ─── Archetype → query plan mapping ──────────────────────────────────────────
 
+# Strategy priority system - focus queries based on primary archetype
+STRATEGY_PRIORITIES = {
+    "aggro": {"creatures": 0.6, "removal": 0.3, "lands": 0.1},
+    "control": {"removal": 0.4, "card_draw": 0.3, "win_cons": 0.2, "lands": 0.1},
+    "lifegain": {"lifegain": 0.5, "card_draw": 0.2, "win_cons": 0.2, "lands": 0.1},
+    "mill": {"mill": 0.5, "removal": 0.2, "card_draw": 0.2, "lands": 0.1},
+    "tribal": {"creatures": 0.5, "removal": 0.2, "card_draw": 0.2, "lands": 0.1},
+}
+
 ARCHETYPE_QUERIES: Dict[str, List[Dict[str, str]]] = {
     "aggro": [
-        {"label": "Aggressive creatures", "args": "--type creature --tags haste,pump,trample --cmc-max 3"},
-        {"label": "Cheap creatures", "args": "--type creature --cmc-max 2"},
-        {"label": "Removal instants", "args": "--type instant --tags removal --cmc-max 3"},
-        {"label": "Combat tricks / pump", "args": "--type instant --tags pump --cmc-max 2"},
-        {"label": "Lands", "args": "--type land"},
+        {"label": "Aggressive creatures", "args": "--type creature --tags haste,pump,trample --cmc-max 3", "priority": "creatures"},
+        {"label": "Cheap creatures", "args": "--type creature --cmc-max 2", "priority": "creatures"},
+        {"label": "Removal instants", "args": "--type instant --tags removal --cmc-max 3", "priority": "removal"},
+        {"label": "Combat tricks / pump", "args": "--type instant --tags pump --cmc-max 2", "priority": "removal"},
+        {"label": "Lands", "args": "--type land", "priority": "lands"},
     ],
     "midrange": [
         {"label": "Value creatures (2-4 CMC)", "args": "--type creature --cmc-min 2 --cmc-max 4"},
@@ -1199,17 +1216,49 @@ def main() -> None:
     print(f"  Output:    {deck_dir}/")
     print(f"{'='*70}\n")
 
-    # Build merged query plan from all chosen archetypes (deduplicate by label)
+    # Build prioritized query plan based on primary archetype
     archetype_list = args.archetype if isinstance(args.archetype, list) else [args.archetype]
-    seen_labels: dict = {}
+    primary_archetype = archetype_list[0]  # Use first archetype as primary
+
+    # Get priority weights for primary archetype
+    priorities = STRATEGY_PRIORITIES.get(primary_archetype, {})
+
+    # Collect queries by priority category
+    priority_queries = {}
     for arch in archetype_list:
         for q in ARCHETYPE_QUERIES.get(arch, []):
-            lbl = _query_label(q)
-            if lbl not in seen_labels:
-                seen_labels[lbl] = q
+            priority = q.get("priority", "misc")
+            if priority not in priority_queries:
+                priority_queries[priority] = []
+            priority_queries[priority].append(q)
+
+    # Build query plan with priority limits
+    query_plan = []
+    for priority, weight in priorities.items():
+        if priority in priority_queries:
+            # Limit queries per priority category to prevent bloat
+            max_queries = max(2, int(weight * 10))  # Scale with priority weight
+            selected_queries = priority_queries[priority][:max_queries]
+            query_plan.extend(selected_queries)
+
+    # Add remaining queries from other archetypes (lower priority)
+    added_labels = {q.get("label", "") for q in query_plan}
+    for arch in archetype_list:
+        for q in ARCHETYPE_QUERIES.get(arch, []):
+            if q.get("label", "") not in added_labels:
+                query_plan.append(q)
+                added_labels.add(q.get("label", ""))
+
     # Always put Lands last
-    lands = seen_labels.pop("Lands", None)
-    query_plan = list(seen_labels.values())
+    lands_query = None
+    query_plan = [q for q in query_plan if q.get("label") != "Lands"]
+    for arch in archetype_list:
+        for q in ARCHETYPE_QUERIES.get(arch, []):
+            if q.get("label") == "Lands":
+                lands_query = q
+                break
+        if lands_query:
+            break
 
     # For tribal builds, add one supplemental creature query per tribe by name.
     # These are ADDITIVE — they run alongside the archetype's existing creature
@@ -1230,8 +1279,8 @@ def main() -> None:
                 "is_tribe_query": True,
             })
 
-    if lands:
-        query_plan.append(lands)
+    if lands_query:
+        query_plan.append(lands_query)
     query_results: List[Dict] = []
 
     # Inject extra-tags as ONE supplemental query (not merged into every query)
@@ -1368,6 +1417,37 @@ def main() -> None:
         consolidated_csv=consolidated_csv,
         unique_card_count=len(consolidated_rows),
     )
+
+    # Add validation guidelines to session
+    if VALIDATOR_AVAILABLE:
+        print("Adding validation guidelines to session.md")
+        validation_note = """
+
+## Deck Construction Requirements
+
+Before finalizing your deck, ensure it meets these minimum standards:
+
+### Lands (23+ total)
+- At least 23 lands for 60-card deck
+- Balanced color sources (no color with <3 sources)
+
+### Mana Curve (reasonable distribution)
+- 12+ cards with CMC 1-2 (early plays)
+- Average CMC ≤3.2
+- Not top-heavy with 4+ mana cards
+
+### Role Distribution
+- 6+ removal/interaction spells
+- 4+ card advantage effects
+- 4+ win conditions (rare/mythic, CMC 4+)
+
+### Color Balance
+- Sufficient mana sources for all colors used
+- No color flooded (>8 sources) or starved (<3 sources)
+
+Use `python scripts/utils/deck_validator.py --deck decklist.txt` to check compliance.
+"""
+        session_content += validation_note
 
     # Write files
     session_path = deck_dir / "session.md"
