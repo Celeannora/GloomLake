@@ -127,10 +127,17 @@ except ImportError as e:
         normalize_colors = lambda x: x
         def sort_and_rewrite_csv(*args, **kwargs):
             return None
-        COLOR_ORDER = ["W", "U", "B", "R", "G"]
-        MANA_NAMES = {"W": "White", "U": "Blue", "B": "Black", "R": "Red", "G": "Green"}
 
-from synergy_archetype_mapping import archetype_to_axes
+# Import card lookup modules (if available)
+try:
+    from scripts.utils.card_lookup import CardLookupService
+    from scripts.analysis.card_analysis import analyze_card_data
+    CARD_LOOKUP_AVAILABLE = True
+except ImportError as e:
+    print(f"Warning: Card lookup modules not available: {e}")
+    CARD_LOOKUP_AVAILABLE = False
+    CardLookupService = None
+    analyze_card_data = None
 
 # ─────────────────────────────────────────────────────────────────────────────
 # Mana icon font discovery
@@ -993,6 +1000,14 @@ class ScaffoldApp(QMainWindow):
         self._tribes = []
         self._arch_btns = {}
         self._tag_btns = {}
+        
+        # Card lookup service
+        self._card_lookup = None
+        if CARD_LOOKUP_AVAILABLE:
+            self._card_lookup = CardLookupService()
+            if not self._card_lookup.initialize():
+                self._log_box.appendPlainText("⚠️ Could not initialize card database. Using pattern matching.")
+                self._card_lookup = None
         cw = QWidget(); cw.setObjectName("central")
         self.setCentralWidget(cw)
         root = QVBoxLayout(cw)
@@ -1005,6 +1020,9 @@ class ScaffoldApp(QMainWindow):
         self._build_synergy_tab()
         self._build_log(root)
         self._build_footer(root)
+        
+        # Update database status
+        self._update_database_status()
 
     def _build_header(self, root):
         hdr = QFrame()
@@ -1036,8 +1054,13 @@ class ScaffoldApp(QMainWindow):
         # Add powerful auto-analysis button for focus cards
         analysis_row = QHBoxLayout()
         self.analyze_focus_btn = QPushButton("\U0001F50D Analyze Focus Cards & Auto-Fill All Sections")
-        self.analyze_focus_btn.setToolTip("Analyze entered cards to auto-suggest: Colors, Archetypes, Tribal, Tags, Name, and Options")
-        self.analyze_focus_btn.clicked.connect(self._analyze_focus_cards)
+        self.analyze_focus_btn.setToolTip("Analyze entered cards using card database to auto-suggest: Colors, Archetypes, Tribal, Tags, Name, and Options"
+                                         f"\nDatabase status: {self.database_status_label.text() if hasattr(self, 'database_status_label') else 'Not loaded'}")
+        # Connect enhanced analysis if available, otherwise fallback
+        if CARD_LOOKUP_AVAILABLE:
+            self.analyze_focus_btn.clicked.connect(self._analyze_focus_cards_enhanced)
+        else:
+            self.analyze_focus_btn.clicked.connect(self._analyze_focus_cards)
         self.analyze_focus_btn.setObjectName("primary")
         self.analyze_focus_btn.setFixedHeight(36)
         analysis_row.addWidget(self.analyze_focus_btn)
@@ -1251,9 +1274,18 @@ class ScaffoldApp(QMainWindow):
         self._arch_cnt = QLabel("0 selected"); self._arch_cnt.setObjectName("muted"); lv.addWidget(self._arch_cnt)
         self._status = QLabel("\u2460 Select colours."); self._status.setObjectName("dim")
         self._status.setStyleSheet(f"font-size:12px;"); lv.addWidget(self._status)
+        
+        # Database status label
+        self.database_status_label = QLabel("Database: Checking...")
+        self.database_status_label.setObjectName("dim")
+        self.database_status_label.setStyleSheet(f"font-size:12px;")
+        lv.addWidget(self.database_status_label)
         fl.addLayout(lv); fl.addStretch()
         rb = QPushButton("Reset"); rb.setStyleSheet(f"border:none;color:{TEXT_MUTED};")
         rb.clicked.connect(self._reset); fl.addWidget(rb)
+        if CARD_LOOKUP_AVAILABLE:
+            db_btn = QPushButton("Update DB"); db_btn.setStyleSheet(f"border:none;color:{TEXT_MUTED};")
+            db_btn.clicked.connect(self._update_database); fl.addWidget(db_btn)
         self._open_btn = QPushButton("\U0001f4c2 Open"); self._open_btn.setEnabled(False)
         self._open_btn.clicked.connect(self._open_dir); fl.addWidget(self._open_btn)
         self.run_btn = QPushButton("Generate Scaffold  \u203a"); self.run_btn.setObjectName("primary")
@@ -1286,52 +1318,280 @@ class ScaffoldApp(QMainWindow):
             for t in ARCHETYPE_TAG_MAP.get(a, []):
                 if t in self._tag_btns and t not in self._selected_tags: self._toggle_tag(t)
     
-    def _analyze_focus_cards(self):
-        """Analyze entered focus cards to auto-fill ALL sections: Colors, Archetypes, Tribal, Tags, Name, Options."""
+    def _update_database_status(self):
+        """Update database status display."""
+        if not self._card_lookup or not self._card_lookup.db_metadata:
+            status = "Database: Not loaded"
+            color = WARNING
+        else:
+            age = self._card_lookup.get_database_age()
+            if age is None:
+                status = "Database: Loaded"
+                color = INFO_BLUE
+            elif age.days < 7:
+                status = f"Database: {age.days} day{'s' if age.days != 1 else ''} old"
+                color = SUCCESS
+            elif age.days < 30:
+                status = f"Database: {age.days} days old"
+                color = WARNING
+            else:
+                status = f"Database: {age.days} days old (needs update)"
+                color = ERROR
+        
+        self.database_status_label.setText(status)
+        self.database_status_label.setStyleSheet(f"color: {color};")
+
+    def _update_database(self):
+        """Update card database."""
+        from PySide6.QtWidgets import QMessageBox, QProgressDialog
+
+        reply = QMessageBox.question(
+            self, "Update Card Database",
+            "Update the local card database from Scryfall? This may take a few minutes.",
+            QMessageBox.StandardButton.Yes | QMessageBox.StandardButton.No
+        )
+
+        if reply == QMessageBox.StandardButton.No:
+            return
+
+        # Show progress dialog
+        progress = QProgressDialog("Updating card database...", "Cancel", 0, 0, self)
+        progress.setWindowTitle("Updating Database")
+        progress.setWindowModality(Qt.WindowModal)
+        progress.show()
+
+        # Run update in background
+        from threading import Thread
+
+        def run_update():
+            try:
+                success, message = self._card_lookup.update_database()
+                return success, message
+            except Exception as e:
+                return False, str(e)
+
+        def on_update_complete(success, message):
+            progress.close()
+            if success:
+                QMessageBox.information(self, "Update Complete", message)
+                self._update_database_status()
+                # Clear cache to force reload
+                self._card_lookup.cache.clear()
+                self._log_box.appendPlainText(f"✓ Database updated: {message}")
+            else:
+                QMessageBox.warning(self, "Update Failed", message)
+                self._log_box.appendPlainText(f"✗ Database update failed: {message}")
+
+        # Simple thread implementation
+        import threading
+        def update_thread():
+            result = run_update()
+            # Use QTimer to call back on main thread
+            from PySide6.QtCore import QTimer
+            QTimer.singleShot(0, lambda: on_update_complete(*result))
+
+        thread = threading.Thread(target=update_thread, daemon=True)
+        thread.start()
+
+        # Update progress every 500ms
+        timer = QTimer(self)
+        timer.timeout.connect(lambda: progress.setValue(progress.value() + 1))
+        timer.start(500)
+    
+    def _analyze_focus_cards_enhanced(self):
+        """Enhanced focus card analysis using local card database."""
         focus_text = self.focus_box.toPlainText().strip()
         if not focus_text:
             self._sm("No focus cards entered to analyze.", WARNING)
             return
-        
+
         cards = [line.strip() for line in focus_text.splitlines() if line.strip()]
-        self._sm(f"Analyzing {len(cards)} focus cards to auto-fill all sections...", INFO_BLUE)
-        
+        self._sm(f"Analyzing {len(cards)} focus cards using card database...", INFO_BLUE)
+
         # Clear existing selections first
         self._reset()
-        
+
+        # Check if card lookup is available
+        if not self._card_lookup:
+            self._sm("Card database not available. Using pattern matching.", WARNING)
+            self._analyze_focus_cards()  # Fall back to original
+            return
+
+        # Track analysis results
+        analysis_summary = {
+            "cards_found": 0,
+            "cards_not_found": [],
+            "suggested_colors": set(),
+            "suggested_archetypes": set(),
+            "suggested_tribes": [],
+            "suggested_tags": set(),
+            "deck_name_hints": []
+        }
+
+        # Analyze each card
+        self._log_box.appendPlainText(f"Analyzing {len(cards)} cards:")
+        for card_name in cards:
+            card_data = self._card_lookup.lookup(card_name)
+
+            if card_data:
+                self._log_box.appendPlainText(f"  ✓ {card_name} (found in database)")
+                analysis_summary["cards_found"] += 1
+                self._analyze_card_data(card_data, analysis_summary)
+            else:
+                self._log_box.appendPlainText(f"  ✗ {card_name} (not in database, using pattern matching)")
+                analysis_summary["cards_not_found"].append(card_name)
+                self._analyze_with_patterns(card_name, analysis_summary)
+
+        # Apply analysis to GUI
+        self._apply_analysis_to_gui(analysis_summary)
+
+        # Log summary
+        self._log_analysis_summary(analysis_summary)
+
+    def _analyze_card_data(self, card_data, summary):
+        """Analyze actual card data from database."""
+        # Use the analysis module
+        if analyze_card_data:
+            result = analyze_card_data(card_data)
+
+            # Add to summary
+            summary["suggested_colors"].update(result["colors"])
+            summary["suggested_archetypes"].update(result["archetypes"])
+            summary["suggested_tags"].update(result["tags"])
+
+            for tribe in result["tribes"]:
+                if tribe not in summary["suggested_tribes"]:
+                    summary["suggested_tribes"].append(tribe)
+
+            # Add deck name hints from archetypes
+            for arch in result["archetypes"]:
+                if arch not in summary["deck_name_hints"]:
+                    summary["deck_name_hints"].append(arch)
+
+    def _analyze_with_patterns(self, card_name, summary):
+        """Fallback to pattern matching analysis."""
+        # Reuse logic from original _analyze_focus_cards
+        card_lower = card_name.lower()
+
+        # Color detection (simplified version)
+        color_keywords = {
+            "W": ["angel", "serra", "lyra", "white"],
+            "U": ["counter", "mill", "blue"],
+            "B": ["zombie", "black", "death"],
+            "R": ["burn", "lightning", "red", "dragon"],
+            "G": ["elf", "ramp", "green", "paradise"]
+        }
+
+        for color, keywords in color_keywords.items():
+            if any(keyword in card_lower for keyword in keywords):
+                summary["suggested_colors"].add(color)
+
+        # Archetype detection (simplified)
+        if "angel" in card_lower:
+            summary["suggested_archetypes"].add("lifegain")
+            summary["suggested_tribes"].append("Angel")
+            summary["deck_name_hints"].append("Lifegain")
+
+    def _apply_analysis_to_gui(self, summary):
+        """Apply analysis results to GUI sections."""
+        # Apply colors
+        for color in summary["suggested_colors"]:
+            if color in COLOR_ORDER and color not in self.mana_orbital.selected:
+                self.mana_orbital._toggle(color)
+
+        # Apply archetypes
+        for arch in summary["suggested_archetypes"]:
+            if arch in self._arch_btns and arch not in self.selected_archetypes:
+                self._toggle_arch(arch)
+
+        # Apply tribal if we found tribes
+        if summary["suggested_tribes"]:
+            self._tribal_cb.setChecked(True)
+            for tribe in summary["suggested_tribes"][:3]:  # Limit to 3 tribes
+                if tribe not in self._tribes:
+                    self._tribes.append(tribe)
+            self._refresh_chips()
+
+        # Apply tags
+        for tag in summary["suggested_tags"]:
+            if tag in self._tag_btns and tag not in self._selected_tags:
+                self._toggle_tag(tag)
+
+        # Auto-generate deck name
+        if summary["deck_name_hints"] and summary["suggested_colors"]:
+            color_key = frozenset(summary["suggested_colors"])
+            color_name = GUILD_NAMES.get(color_key, "".join(sorted(summary["suggested_colors"])))
+
+            unique_hints = []
+            for hint in summary["deck_name_hints"]:
+                if hint not in unique_hints:
+                    unique_hints.append(hint)
+
+            if unique_hints:
+                archetype_hint = " ".join(unique_hints[:2])
+                suggested_name = f"{color_name} {archetype_hint}"
+            else:
+                suggested_name = color_name
+
+            if self._auto_name.isChecked():
+                self._name_prev.setText(suggested_name)
+            else:
+                self.name_entry.setText(suggested_name)
+
+        # Auto-set options
+        if summary["suggested_archetypes"]:
+            self._run_syn.setChecked(True)
+            self._auto_bld.setChecked(True)
+
+    def _log_analysis_summary(self, summary):
+        """Log analysis summary to log box."""
+        self._log_box.appendPlainText("\n" + "="*60)
+        self._log_box.appendPlainText("ENHANCED FOCUS CARD ANALYSIS - USING CARD DATABASE")
+        self._log_box.appendPlainText("="*60)
+        self._log_box.appendPlainText(f"Cards analyzed: {summary['cards_found'] + len(summary['cards_not_found'])}")
+        self._log_box.appendPlainText(f"Cards found in database: {summary['cards_found']}")
+
+        if summary["cards_not_found"]:
+            self._log_box.appendPlainText(f"Cards not found (used pattern matching): {', '.join(summary['cards_not_found'])}")
+
+        self._log_box.appendPlainText(f"Suggested colors: {', '.join(sorted(summary['suggested_colors'])) or 'None detected'}")
+        self._log_box.appendPlainText(f"Suggested archetypes: {', '.join(sorted(summary['suggested_archetypes'])) or 'None detected'}")
+        self._log_box.appendPlainText(f"Suggested tribes: {', '.join(summary['suggested_tribes'][:5]) or 'None'}")
+        self._log_box.appendPlainText(f"Suggested tags: {', '.join(sorted(summary['suggested_tags'])) or 'None'}")
+        self._log_box.appendPlainText("")
+
+        self._sm(f"Auto-filled {len(summary['suggested_colors'])} colors, {len(summary['suggested_archetypes'])} archetypes, {len(summary['suggested_tribes'])} tribes, {len(summary['suggested_tags'])} tags", SUCCESS)
+
+        # Update database status
+        self._update_database_status()
+
+    # Keep the original method as fallback
+    def _analyze_focus_cards(self):
+        """Original pattern matching analysis (fallback)."""
+        focus_text = self.focus_box.toPlainText().strip()
+        if not focus_text:
+            self._sm("No focus cards entered to analyze.", WARNING)
+            return
+
+        cards = [line.strip() for line in focus_text.splitlines() if line.strip()]
+        self._sm(f"Analyzing {len(cards)} focus cards to auto-fill all sections...", INFO_BLUE)
+
+        # Clear existing selections first
+        self._reset()
+
         # Track what we're analyzing
         suggested_colors = set()
         suggested_archetypes = set()
         suggested_tribes = []  # Changed from set() to list for slicing
         suggested_tags = set()
         deck_name_hints = []
-        
-        # Show examples of good card names for analysis
-        example_cards = [
-            "Resplendent Angel",  # W, lifegain, Angel
-            "Glimpse the Unthinkable",  # U/B, opp_mill
-            "Lightning Bolt",  # R, burn
-            "Birds of Paradise",  # G, ramp
-            "Counterspell",  # U, control
-            "Tarmogoyf",  # G, graveyard
-            "Thoughtseize",  # B, control
-            "Serra Angel",  # W, Angel
-            "Mulldrifter",  # U, draw
-            "Blood Crypt"  # B/R, land
-        ]
-        
-        # Log helpful examples
-        self._log_box.appendPlainText("Example cards that work well for auto-analysis:")
-        for ex in example_cards:
-            self._log_box.appendPlainText(f"  - {ex}")
-        self._log_box.appendPlainText("")
-        
+
         # Analyze each card
         self._log_box.appendPlainText(f"Analyzing {len(cards)} cards:")
         for card in cards:
             card_lower = card.lower()
             self._log_box.appendPlainText(f"  - {card}")
-            
+
             # 1. COLOR ANALYSIS - Better pattern matching
             # Check for color words or specific card types
             color_keywords = {
@@ -1341,11 +1601,11 @@ class ScaffoldApp(QMainWindow):
                 "R": ["mountain", "red", "burn", "lightning", "dragon", "goblin", "shock", "bolt"],
                 "G": ["forest", "green", "elf", "ramp", "paradise", "growth", "beast", "tree"]
             }
-            
+
             for color, keywords in color_keywords.items():
                 if any(keyword in card_lower for keyword in keywords):
                     suggested_colors.add(color)
-            
+
             # Also check for dual/multi-color iconic cards
             if "esper" in card_lower:
                 suggested_colors.update(["W", "U", "B"])
@@ -1359,7 +1619,7 @@ class ScaffoldApp(QMainWindow):
                 suggested_colors.update(["R", "G"])
             if "selesnya" in card_lower:
                 suggested_colors.update(["W", "G"])
-            
+
             # 2. ARCHETYPE ANALYSIS - More comprehensive
             archetype_patterns = {
                 "lifegain": ["angel", "serra", "lyra", "vitality", "healer", "life", "ascendant"],
@@ -1376,7 +1636,7 @@ class ScaffoldApp(QMainWindow):
                 "blink": ["blink", "flicker", "restoration", "ephemerate"],
                 "aristocrats": ["sacrifice", "blood", "altar", "crypt", "aristocrat"]
             }
-            
+
             for archetype, patterns in archetype_patterns.items():
                 if any(pattern in card_lower for pattern in patterns):
                     suggested_archetypes.add(archetype)
@@ -1393,7 +1653,7 @@ class ScaffoldApp(QMainWindow):
                         deck_name_hints.append("Ramp")
                     elif archetype in ["tokens", "artifacts", "enchantress"]:
                         deck_name_hints.append(archetype.title())
-            
+
             # 3. TRIBAL ANALYSIS - Expanded
             tribal_patterns = {
                 "Angel": ["angel", "seraph", "cherub"],
@@ -1413,28 +1673,28 @@ class ScaffoldApp(QMainWindow):
                 "Myr": ["myr"],
                 "Eldrazi": ["eldrazi", "kozilek", "ulamog", "emrakul"]
             }
-            
+
             for tribe, patterns in tribal_patterns.items():
                 if any(pattern in card_lower for pattern in patterns) and tribe not in suggested_tribes:
                     suggested_tribes.append(tribe)
-        
+
         # 4. TAG ANALYSIS based on archetypes
         for arch in suggested_archetypes:
             if arch in ARCHETYPE_TAG_MAP:
                 suggested_tags.update(ARCHETYPE_TAG_MAP[arch])
-        
+
         # 5. APPLY ANALYSIS TO ALL SECTIONS
-        
+
         # Apply colors (Mana section)
         for color in suggested_colors:
             if color in COLOR_ORDER and color not in self.mana_orbital.selected:
                 self.mana_orbital._toggle(color)
-        
+
         # Apply archetypes
         for arch in suggested_archetypes:
             if arch in self._arch_btns and arch not in self.selected_archetypes:
                 self._toggle_arch(arch)
-        
+
         # Apply tribal if we found tribes
         if suggested_tribes:
             self._tribal_cb.setChecked(True)
@@ -1442,44 +1702,44 @@ class ScaffoldApp(QMainWindow):
                 if tribe not in self._tribes:
                     self._tribes.append(tribe)
             self._refresh_chips()
-        
+
         # Apply tags
         for tag in suggested_tags:
             if tag in self._tag_btns and tag not in self._selected_tags:
                 self._toggle_tag(tag)
-        
+
         # 6. AUTO-GENERATE DECK NAME
         if deck_name_hints and suggested_colors:
             # Get color name
             color_key = frozenset(suggested_colors)
             color_name = GUILD_NAMES.get(color_key, "".join(sorted(suggested_colors)))
-            
+
             # Get unique archetype hints
             unique_hints = []
             for hint in deck_name_hints:
                 if hint not in unique_hints:
                     unique_hints.append(hint)
-            
+
             # Build name
             if unique_hints:
                 archetype_hint = " ".join(unique_hints[:2])  # Max 2 hints
                 suggested_name = f"{color_name} {archetype_hint}"
             else:
                 suggested_name = color_name
-            
+
             # Set the name
             if self._auto_name.isChecked():
                 self._name_prev.setText(suggested_name)
             else:
                 self.name_entry.setText(suggested_name)
-        
+
         # 7. AUTO-SET OPTIONS based on analysis
         if suggested_archetypes:
             # If we have complex archetypes, enable synergy analysis
             self._run_syn.setChecked(True)
             # Enable auto-build for most decks
             self._auto_bld.setChecked(True)
-        
+
         # 8. LOG THE ANALYSIS
         self._log_box.appendPlainText("\n" + "="*60)
         self._log_box.appendPlainText("FOCUS CARD ANALYSIS - AUTO-FILLED ALL SECTIONS")
@@ -1490,7 +1750,7 @@ class ScaffoldApp(QMainWindow):
         self._log_box.appendPlainText(f"Suggested tribes: {', '.join(suggested_tribes[:5]) or 'None'}")
         self._log_box.appendPlainText(f"Suggested tags: {', '.join(sorted(suggested_tags)) or 'None'}")
         self._log_box.appendPlainText("")
-        
+
         self._sm(f"Auto-filled {len(suggested_colors)} colors, {len(suggested_archetypes)} archetypes, {len(suggested_tribes)} tribes, {len(suggested_tags)} tags", SUCCESS)
             
     def _on_tribal(self, on):

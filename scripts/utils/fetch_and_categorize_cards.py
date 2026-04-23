@@ -339,6 +339,30 @@ class UniversalCardFetcher:
 
         print(f"\nIndex written: {index_file}")
 
+    def _write_metadata(self, total_cards: int) -> None:
+        """Write metadata.json file for database tracking."""
+        import json
+        from pathlib import Path
+        
+        metadata = {
+            "version": "1.0",
+            "last_updated": datetime.now(timezone.utc).isoformat(),
+            "total_cards": total_cards,
+            "source": "scryfall",
+            "format": "standard"
+        }
+        
+        # Create local_db directory inside output_dir
+        metadata_dir = Path(self.output_dir) / "local_db"
+        metadata_dir.mkdir(parents=True, exist_ok=True)
+        
+        metadata_path = metadata_dir / "metadata.json"
+        
+        with open(metadata_path, 'w', encoding='utf-8') as f:
+            json.dump(metadata, f, indent=2)
+        
+        print(f"Metadata written to {metadata_path}")
+
     def run(self) -> None:
         print("=" * 70)
         print("MTG Standard Card Data Fetcher - Letter-Split Mode")
@@ -371,6 +395,9 @@ class UniversalCardFetcher:
         print(f"  Largest file  : {max_size:.1f} KB")
         print(f"  Output dir    : {self.output_dir}/")
         print("=" * 70)
+        
+        # Write metadata for database tracking
+        self._write_metadata(total_cards)
 
 
 if __name__ == "__main__":
