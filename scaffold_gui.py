@@ -1355,7 +1355,7 @@ class ScaffoldApp(QMainWindow):
 
         reply = QMessageBox.question(
             self, "Update Card Database",
-            "Update the local card database from Scryfall? This may take a few minutes.",
+            "Update the local card database from Scryfall? This may take a few minutes.\n\nProgress will be shown in the log.",
             QMessageBox.StandardButton.Yes | QMessageBox.StandardButton.No
         )
 
@@ -1363,32 +1363,46 @@ class ScaffoldApp(QMainWindow):
             return
 
         # Show progress dialog
-        progress = QProgressDialog("Updating card database...", "Cancel", 0, 0, self)
+        progress = QProgressDialog("Updating card database...\nCheck log for details.", "Cancel", 0, 0, self)
         progress.setWindowTitle("Updating Database")
         progress.setWindowModality(Qt.WindowModal)
+        progress.setMinimumDuration(0)  # Show immediately
         progress.show()
+
+        # Add to log
+        self._log_box.appendPlainText("🔄 Starting database update...")
 
         # Run update in background
         from threading import Thread
 
         def run_update():
             try:
+                # Log that we're starting
+                self._log_box.appendPlainText("📡 Downloading latest card data from Scryfall...")
+
                 success, message = self._card_lookup.update_database()
+
+                # Log completion
+                if success:
+                    self._log_box.appendPlainText("✅ Database update completed successfully")
+                else:
+                    self._log_box.appendPlainText(f"❌ Database update failed: {message}")
+
                 return success, message
             except Exception as e:
-                return False, str(e)
+                error_msg = f"Exception during update: {e}"
+                self._log_box.appendPlainText(f"💥 {error_msg}")
+                return False, error_msg
 
         def on_update_complete(success, message):
             progress.close()
             if success:
-                QMessageBox.information(self, "Update Complete", message)
+                QMessageBox.information(self, "Update Complete", "Database updated successfully!")
                 self._update_database_status()
                 # Clear cache to force reload
                 self._card_lookup.cache.clear()
-                self._log_box.appendPlainText(f"✓ Database updated: {message}")
             else:
-                QMessageBox.warning(self, "Update Failed", message)
-                self._log_box.appendPlainText(f"✗ Database update failed: {message}")
+                QMessageBox.warning(self, "Update Failed", f"Database update failed:\n\n{message}")
 
         # Simple thread implementation
         import threading
@@ -1401,9 +1415,23 @@ class ScaffoldApp(QMainWindow):
         thread = threading.Thread(target=update_thread, daemon=True)
         thread.start()
 
-        # Update progress every 500ms
+        # Update progress indicator periodically
         timer = QTimer(self)
-        timer.timeout.connect(lambda: progress.setValue(progress.value() + 1))
+        progress_text = [
+            "Updating card database...",
+            "Updating card database..",
+            "Updating card database.",
+            "Updating card database..."
+        ]
+        progress_idx = 0
+
+        def update_progress():
+            nonlocal progress_idx
+            progress.setLabelText(progress_text[progress_idx % len(progress_text)])
+            progress_idx += 1
+            progress.setValue(progress.value() + 1)
+
+        timer.timeout.connect(update_progress)
         timer.start(500)
     
     def _analyze_focus_cards_enhanced(self):

@@ -222,11 +222,9 @@ class CardLookupService:
 
             logger.info(f"Running database update: {script_path}")
 
-            # Run the update script
+            # Run the update script - don't capture output so progress shows in real-time
             result = subprocess.run(
                 [sys.executable, str(script_path)],
-                capture_output=True,
-                text=True,
                 cwd=self.repo_root  # Run from repo root
             )
 
@@ -237,8 +235,7 @@ class CardLookupService:
                 else:
                     return False, "Update succeeded but failed to reload index"
             else:
-                error_msg = result.stderr or "Unknown error"
-                return False, f"Update failed (exit code {result.returncode}): {error_msg[:200]}"
+                return False, f"Update failed (exit code {result.returncode})"
 
         except Exception as e:
             return False, f"Error updating database: {e}"
