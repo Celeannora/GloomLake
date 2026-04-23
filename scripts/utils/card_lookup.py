@@ -33,24 +33,57 @@ class CardData:
 
 class CardLookupService:
     """Service for looking up card data from local database."""
-    
+
     def __init__(self, base_path: str = "assets/data/local_db"):
-        self.base_path = Path(base_path)
-        # Find repo root by looking for .git directory
+        # Resolve repo root from THIS FILE's location, not from CWD.
+        # Previous CWD-based discovery silently failed whenever the GUI was
+        # launched from a directory that lacked a .git ancestor, which caused
+        # the focus-card analyzer to fall back to a buggy name-substring
+        # matcher (see scaffold_gui._analyze_focus_cards). Anchoring to the
+        # source file makes the service CWD-independent.
         self.repo_root = self._find_repo_root()
+
+        _raw = Path(base_path)
+        self.base_path = _raw if _raw.is_absolute() else (self.repo_root / _raw)
+
         self.index = None
         self.cache: Dict[str, CardData] = {}
         self.db_metadata = {}
         self.last_loaded = None
 
     def _find_repo_root(self) -> Path:
-        """Find the repository root directory."""
+        """Find the repository root directory.
+
+        Walks up from this file first (stable across CWDs), then falls back
+        to walking up from CWD. Final fallback is the structural parent
+        (scripts/utils/card_lookup.py -> repo root), validated by probing
+        for expected repo contents before accepting it.
+        """
+        here = Path(__file__).resolve()
+        for parent in here.parents:
+            if (parent / '.git').exists():
+                return parent
         current = Path.cwd()
         for parent in [current] + list(current.parents):
             if (parent / '.git').exists():
                 return parent
-        # Fallback to current directory
-        return Path.cwd()
+
+        # Structural fallback: <root>/scripts/utils/card_lookup.py -> <root>.
+        # Validate by probing for either the DB or the scripts/ directory
+        # that must exist in a correct checkout. If the probe fails, log a
+        # warning but return the candidate anyway — a misconfigured install
+        # is still better than ImportError-at-use-time.
+        candidate = here.parent.parent.parent
+        if (candidate / "assets" / "data" / "local_db").exists():
+            return candidate
+        if (candidate / "scripts" / "utils" / "card_lookup.py").exists():
+            return candidate
+        logger.warning(
+            "CardLookupService: could not locate repo root; "
+            "falling back to %s (no .git, no assets/data/local_db, "
+            "no scripts/utils found)", candidate
+        )
+        return candidate
         
     def initialize(self) -> bool:
         """Load the card index and metadata. Returns success status."""

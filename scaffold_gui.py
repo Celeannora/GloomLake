@@ -1438,20 +1438,38 @@ class ScaffoldApp(QMainWindow):
         cards = [line.strip() for line in focus_text.splitlines() if line.strip()]
         self._sm(f"Analyzing {len(cards)} focus cards using card database...", INFO_BLUE)
 
-        # DEBUG: Check service status
-        if self._card_lookup:
-            self._log_box.appendPlainText(f"DEBUG: Card lookup service available")
-        else:
-            self._log_box.appendPlainText(f"DEBUG: Card lookup service NOT available")
+        # Attempt lazy re-init in case CWD or the DB file changed since
+        # startup. Silent fallback used to happen whenever the GUI was
+        # launched from a directory that lacked the DB — see card_lookup.py
+        # for the CWD-independent resolution fix.
+        if not self._card_lookup and CARD_LOOKUP_AVAILABLE:
+            _svc = CardLookupService()
+            if _svc.initialize():
+                self._card_lookup = _svc
 
         # Clear existing selections first
         self._reset()
 
         # Check if card lookup is available
         if not self._card_lookup:
-            self._sm("Card database not available. Using pattern matching.", WARNING)
+            banner = (
+                "\n" + "!" * 70 + "\n"
+                "!! CARD DATABASE UNAVAILABLE — falling back to pattern matching.\n"
+                "!! Colors will NOT be auto-detected. Archetypes are best-effort\n"
+                "!! from card-name tokens only. Expect wrong results.\n"
+                "!! Run the database update from the toolbar, or relaunch the\n"
+                "!! GUI from the repo root, to enable accurate DB-backed analysis.\n"
+                + "!" * 70 + "\n"
+            )
+            self._log_box.appendPlainText(banner)
+            self._sm("Card DB unavailable — fallback mode (see log).", WARNING)
             self._analyze_focus_cards()  # Fall back to original
             return
+        else:
+            self._log_box.appendPlainText(
+                f"Card database loaded: "
+                f"{self._card_lookup.db_metadata.get('total_cards', '?')} cards."
+            )
 
         # Track analysis results
         analysis_summary = {
@@ -1505,27 +1523,18 @@ class ScaffoldApp(QMainWindow):
                     summary["deck_name_hints"].append(arch)
 
     def _analyze_with_patterns(self, card_name, summary):
-        """Fallback to pattern matching analysis."""
-        # Reuse logic from original _analyze_focus_cards
-        card_lower = card_name.lower()
+        """Per-card pattern fallback when a single card is missing from the DB.
 
-        # Color detection (simplified version)
-        color_keywords = {
-            "W": ["angel", "serra", "lyra", "white"],
-            "U": ["counter", "mill", "blue"],
-            "B": ["zombie", "black", "death"],
-            "R": ["burn", "lightning", "red", "dragon"],
-            "G": ["elf", "ramp", "green", "paradise"]
-        }
-
-        for color, keywords in color_keywords.items():
-            if any(keyword in card_lower for keyword in keywords):
-                summary["suggested_colors"].add(color)
-
-        # Archetype detection (simplified)
-        if "angel" in card_lower:
+        Color guessing from card names is intentionally omitted — it has no
+        reliable signal and historically produced bad colors (e.g. mono-Red
+        on "Sheltered by Ghosts"). Only extract obvious tribal hints using
+        whole-word matching.
+        """
+        tokens = set(re.findall(r"[a-z][a-z']+", card_name.lower()))
+        if "angel" in tokens:
             summary["suggested_archetypes"].add("lifegain")
-            summary["suggested_tribes"].append("Angel")
+            if "Angel" not in summary["suggested_tribes"]:
+                summary["suggested_tribes"].append("Angel")
             summary["deck_name_hints"].append("Lifegain")
 
     def _apply_analysis_to_gui(self, summary):
@@ -1573,6 +1582,20 @@ class ScaffoldApp(QMainWindow):
                 self._name_prev.setText(suggested_name)
             else:
                 self.name_entry.setText(suggested_name)
+        else:
+            # Previously the deep pattern-matcher produced a (wrong) name
+            # from substring false positives; the tightened matcher can now
+            # legitimately return nothing. Tell the user instead of silently
+            # leaving stale text in the field.
+            missing = []
+            if not summary["deck_name_hints"]:
+                missing.append("archetype hints")
+            if not summary["suggested_colors"]:
+                missing.append("colors")
+            self._log_box.appendPlainText(
+                f"No deck-name suggested (missing: {', '.join(missing)}). "
+                "Set --name manually."
+            )
 
         # Auto-set options
         if summary["suggested_archetypes"]:
@@ -1628,54 +1651,58 @@ class ScaffoldApp(QMainWindow):
             card_lower = card.lower()
             self._log_box.appendPlainText(f"  - {card}")
 
-            # 1. COLOR ANALYSIS - Better pattern matching
-            # Check for color words or specific card types
-            color_keywords = {
-                "W": ["angel", "serra", "lyra", "plains", "white", "knight", "cleric", "soldier"],
-                "U": ["island", "blue", "counter", "mill", "glimpse", "tome", "thought", "mind"],
-                "B": ["swamp", "black", "zombie", "graveyard", "death", "murder", "kill", "vampire"],
-                "R": ["mountain", "red", "burn", "lightning", "dragon", "goblin", "shock", "bolt"],
-                "G": ["forest", "green", "elf", "ramp", "paradise", "growth", "beast", "tree"]
-            }
+            # 1. COLOR ANALYSIS — DELIBERATELY DISABLED IN FALLBACK MODE.
+            #
+            # Guessing color identity from card-name substrings is unreliable
+            # in principle ("red" ⊂ "sheltered", "blood" ⊂ "Bloodthirsty",
+            # etc.) and previously produced wildly wrong results (mono-Red
+            # for an Orzhov list). Colors must come from the card database
+            # (DB path) or from the user's explicit mana selection.
+            #
+            # Guilds/shards/wedges are the one narrow exception: matching
+            # an explicit whole-word guild name on a card is deliberate.
+            _tokens = set(re.findall(r"[a-z][a-z']+", card_lower))
+            for _guild, _ci in {
+                "esper": ["W", "U", "B"], "bant": ["G", "W", "U"],
+                "jund": ["B", "R", "G"],  "naya": ["R", "G", "W"],
+                "grixis": ["U", "B", "R"],
+                "azorius": ["W", "U"], "dimir": ["U", "B"],
+                "rakdos": ["B", "R"], "gruul": ["R", "G"],
+                "selesnya": ["W", "G"], "orzhov": ["W", "B"],
+                "izzet": ["U", "R"], "golgari": ["B", "G"],
+                "boros": ["R", "W"], "simic": ["G", "U"],
+            }.items():
+                if _guild in _tokens:
+                    suggested_colors.update(_ci)
 
-            for color, keywords in color_keywords.items():
-                if any(keyword in card_lower for keyword in keywords):
-                    suggested_colors.add(color)
-
-            # Also check for dual/multi-color iconic cards
-            if "esper" in card_lower:
-                suggested_colors.update(["W", "U", "B"])
-            if "azorius" in card_lower:
-                suggested_colors.update(["W", "U"])
-            if "dimir" in card_lower:
-                suggested_colors.update(["U", "B"])
-            if "rakdos" in card_lower:
-                suggested_colors.update(["B", "R"])
-            if "gruul" in card_lower:
-                suggested_colors.update(["R", "G"])
-            if "selesnya" in card_lower:
-                suggested_colors.update(["W", "G"])
-
-            # 2. ARCHETYPE ANALYSIS - More comprehensive
+            # 2. ARCHETYPE ANALYSIS — word-boundary matching only.
+            #
+            # Old code used `pattern in card_lower`, which false-matched
+            # "blood" inside "Bloodletter" → aristocrats, "scavenge" inside
+            # "Scavenger's" → graveyard, etc. We now require whole-word
+            # matches using the pre-tokenized set above.
             archetype_patterns = {
-                "lifegain": ["angel", "serra", "lyra", "vitality", "healer", "life", "ascendant"],
-                "opp_mill": ["mill", "glimpse", "tome", "thought", "mind", "archive", "memory"],
+                "lifegain": ["vitality", "healer", "life", "ascendant", "angel", "serra", "lyra"],
+                "opp_mill": ["mill", "glimpse", "tome", "archive", "memory"],
                 "burn": ["burn", "lightning", "shock", "bolt", "fire", "pyro", "inferno"],
                 "control": ["counter", "control", "cancel", "negate", "denial", "dissolve"],
                 "ramp": ["ramp", "paradise", "growth", "cultivate", "explore", "harvest"],
-                "tokens": ["token", "spawn", "create", "generate", "produce", "army"],
+                "tokens": ["token", "spawn", "army"],
                 "artifacts": ["artifact", "equipment", "forge", "anvil", "hammer", "gear"],
                 "enchantress": ["enchantment", "aura", "curse", "binding", "seal"],
                 "graveyard": ["graveyard", "zombie", "reanimate", "unearth", "dredge", "scavenge"],
                 "infect": ["infect", "poison", "toxic", "phyrexian", "blight"],
                 "landfall": ["landfall", "terramorphic", "evolving", "fetch"],
                 "blink": ["blink", "flicker", "restoration", "ephemerate"],
-                "aristocrats": ["sacrifice", "blood", "altar", "crypt", "aristocrat"]
+                "aristocrats": ["sacrifice", "altar", "crypt", "aristocrat"],
             }
 
+            _card_arch_hits: list[str] = []
             for archetype, patterns in archetype_patterns.items():
-                if any(pattern in card_lower for pattern in patterns):
+                _matched = [p for p in patterns if p in _tokens]
+                if _matched:
                     suggested_archetypes.add(archetype)
+                    _card_arch_hits.append(f"{archetype}[{','.join(_matched)}]")
                     # Add meaningful hint for deck name
                     if archetype == "lifegain":
                         deck_name_hints.append("Lifegain")
@@ -1710,9 +1737,25 @@ class ScaffoldApp(QMainWindow):
                 "Eldrazi": ["eldrazi", "kozilek", "ulamog", "emrakul"]
             }
 
+            _card_tribe_hits: list[str] = []
             for tribe, patterns in tribal_patterns.items():
-                if any(pattern in card_lower for pattern in patterns) and tribe not in suggested_tribes:
-                    suggested_tribes.append(tribe)
+                _matched = [p for p in patterns if p.lower() in _tokens]
+                if _matched:
+                    _card_tribe_hits.append(f"{tribe}[{','.join(_matched)}]")
+                    if tribe not in suggested_tribes:
+                        suggested_tribes.append(tribe)
+
+            # Per-card debug line: exactly which patterns fired on this card.
+            # Makes silent under-matching (and any future substring regression)
+            # visible without digging through source.
+            _summary = []
+            if _card_arch_hits:
+                _summary.append("arch=" + " ".join(_card_arch_hits))
+            if _card_tribe_hits:
+                _summary.append("tribes=" + " ".join(_card_tribe_hits))
+            self._log_box.appendPlainText(
+                f"      hits: {'; '.join(_summary) if _summary else '(none)'}"
+            )
 
         # 4. TAG ANALYSIS based on archetypes
         for arch in suggested_archetypes:

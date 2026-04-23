@@ -1287,7 +1287,7 @@ def main() -> None:
     extra_tags = getattr(args, "extra_tags", None)
     if extra_tags:
         # Insert before Lands so it appears near the end
-        insert_pos = len(query_plan) - 1 if lands else len(query_plan)
+        insert_pos = len(query_plan) - 1 if lands_query else len(query_plan)
         query_plan.insert(insert_pos, {
             "label": f"Extra tags: {extra_tags}",
             "args": f"--tags {extra_tags}",
