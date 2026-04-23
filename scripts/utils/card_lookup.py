@@ -36,10 +36,21 @@ class CardLookupService:
     
     def __init__(self, base_path: str = "assets/data/local_db"):
         self.base_path = Path(base_path)
+        # Find repo root by looking for .git directory
+        self.repo_root = self._find_repo_root()
         self.index = None
         self.cache: Dict[str, CardData] = {}
         self.db_metadata = {}
         self.last_loaded = None
+
+    def _find_repo_root(self) -> Path:
+        """Find the repository root directory."""
+        current = Path.cwd()
+        for parent in [current] + list(current.parents):
+            if (parent / '.git').exists():
+                return parent
+        # Fallback to current directory
+        return Path.cwd()
         
     def initialize(self) -> bool:
         """Load the card index and metadata. Returns success status."""
@@ -89,9 +100,9 @@ class CardLookupService:
 
         # Load from CSV file
         card_info = self.index["cards"][key]
-        # card_info["file"] is already a full path from repo root
-        csv_path = Path(card_info["file"])
-        logger.debug(f"CardLookupService: Looking for {card_name} in {csv_path}")
+        # card_info["file"] is a path relative to repo root
+        csv_path = self.repo_root / card_info["file"]
+        logger.debug(f"CardLookupService: Looking for {card_name} in {csv_path} (repo root: {self.repo_root})")
 
         card_data = self._load_from_csv(csv_path, card_info["name"])
 
