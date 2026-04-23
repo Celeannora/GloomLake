@@ -1408,6 +1408,12 @@ class ScaffoldApp(QMainWindow):
         cards = [line.strip() for line in focus_text.splitlines() if line.strip()]
         self._sm(f"Analyzing {len(cards)} focus cards using card database...", INFO_BLUE)
 
+        # DEBUG: Check service status
+        if self._card_lookup:
+            self._log_box.appendPlainText(f"DEBUG: Card lookup service available")
+        else:
+            self._log_box.appendPlainText(f"DEBUG: Card lookup service NOT available")
+
         # Clear existing selections first
         self._reset()
 
