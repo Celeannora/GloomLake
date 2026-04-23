@@ -80,7 +80,7 @@ try:
         ARCHETYPE_QUERIES,
         sanitize_folder_name,
     )
-    print(f"Successfully imported generate_deck_scaffold from {cli_path}")
+
 except ImportError as e:
     print(f"Warning: Could not import generate_deck_scaffold: {e}")
     print("Using placeholders...")
@@ -112,12 +112,12 @@ try:
         COLOR_ORDER,
         MANA_NAMES,
     )
-    print(f"Successfully imported autobuild")
+
 except ImportError as e:
     try:
         # Try importing from utils directory
         from scripts.utils.auto_build import *
-        print(f"Successfully imported auto_build from utils")
+
     except ImportError:
         print(f"Warning: auto_build module not available: {e}")
         print("Using stubs...")
