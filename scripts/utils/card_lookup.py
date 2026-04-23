@@ -72,35 +72,47 @@ class CardLookupService:
     def lookup(self, card_name: str) -> Optional[CardData]:
         """Look up a card by name (case-insensitive)."""
         if not self.index:
+            logger.warning("CardLookupService: Index not loaded")
             return None
-            
+
         key = card_name.lower().strip()
-        
+
         # Check cache first
         if key in self.cache:
+            logger.debug(f"CardLookupService: Found {card_name} in cache")
             return self.cache[key]
-        
+
         # Lookup in index
         if key not in self.index.get("cards", {}):
+            logger.debug(f"CardLookupService: {card_name} not found in index")
             return None
-        
+
         # Load from CSV file
         card_info = self.index["cards"][key]
-        csv_path = self.base_path.parent / card_info["file"]  # Path is relative to assets/data
+        # card_info["file"] is already a full path from repo root
+        csv_path = Path(card_info["file"])
+        logger.debug(f"CardLookupService: Looking for {card_name} in {csv_path}")
+
         card_data = self._load_from_csv(csv_path, card_info["name"])
-        
+
         if card_data:
             self.cache[key] = card_data
-        
+            logger.debug(f"CardLookupService: Successfully loaded {card_name}")
+        else:
+            logger.warning(f"CardLookupService: Failed to load {card_name} from {csv_path}")
+
         return card_data
     
     def _load_from_csv(self, csv_path: Path, card_name: str) -> Optional[CardData]:
         """Load card data from CSV file."""
+        logger.debug(f"_load_from_csv: Looking for {card_name} in {csv_path}")
         try:
             # Try the path as-is first
             if csv_path.exists():
                 actual_path = csv_path
+                logger.debug(f"_load_from_csv: File exists at {actual_path}")
             else:
+                logger.warning(f"_load_from_csv: File does not exist at {csv_path}")
                 # The path might be relative to repo root, try to find it
                 # First, try from current directory
                 actual_path = Path(csv_path)

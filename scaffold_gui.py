@@ -133,6 +133,7 @@ try:
     from scripts.utils.card_lookup import CardLookupService
     from scripts.analysis.card_analysis import analyze_card_data
     CARD_LOOKUP_AVAILABLE = True
+    print("Card lookup modules imported successfully")
 except ImportError as e:
     print(f"Warning: Card lookup modules not available: {e}")
     CARD_LOOKUP_AVAILABLE = False
@@ -1004,10 +1005,17 @@ class ScaffoldApp(QMainWindow):
         # Card lookup service
         self._card_lookup = None
         if CARD_LOOKUP_AVAILABLE:
+            print("Initializing CardLookupService...")
             self._card_lookup = CardLookupService()
             if not self._card_lookup.initialize():
+                print("CardLookupService initialization failed")
                 self._log_box.appendPlainText("⚠️ Could not initialize card database. Using pattern matching.")
                 self._card_lookup = None
+            else:
+                print("CardLookupService initialized successfully")
+                total_cards = self._card_lookup.db_metadata.get('total_cards', 'unknown')
+                print(f"Database has {total_cards} cards")
+                self._log_box.appendPlainText(f"✓ Card database loaded with {total_cards} cards")
         cw = QWidget(); cw.setObjectName("central")
         self.setCentralWidget(cw)
         root = QVBoxLayout(cw)
