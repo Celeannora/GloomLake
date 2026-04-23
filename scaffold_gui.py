@@ -1853,7 +1853,7 @@ class ScaffoldApp(QMainWindow):
         for a in list(self.selected_archetypes): self._toggle_arch(a)
         for t in list(self._selected_tags): self._toggle_tag(t)
         self._tribes.clear(); self._refresh_chips(); self._tribal_cb.setChecked(False)
-        self.focus_box.clear(); self._auto_name.setChecked(True); self.name_entry.clear()
+        self._auto_name.setChecked(True); self.name_entry.clear()
         self._focus_char.clear(); self.output_entry.clear()
         self._skip_q.setChecked(False); self._run_syn.setChecked(True); self._auto_bld.setChecked(True)
         self._last_deck_dir = None; self._open_btn.setEnabled(False); self._validate()
