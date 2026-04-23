@@ -18,6 +18,10 @@ env/
 
 # Script-generated output files (not tracked in repo)
 standard_cards.json
+
+# Git worktrees
+.worktrees/
+worktrees/
 standard_cards.txt
 standard_cards.csv
 card_data/
