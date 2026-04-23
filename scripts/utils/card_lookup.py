@@ -215,24 +215,21 @@ class CardLookupService:
     def update_database(self) -> Tuple[bool, str]:
         """Update the card database using fetch_and_categorize_cards.py."""
         try:
-            # Find the fetch script
-            script_path = Path(__file__).parent.parent / "fetch_and_categorize_cards.py"
+            # Find the fetch script from repo root
+            script_path = self.repo_root / "scripts" / "utils" / "fetch_and_categorize_cards.py"
             if not script_path.exists():
-                # Try alternative location
-                script_path = self.base_path.parent.parent / "scripts" / "utils" / "fetch_and_categorize_cards.py"
-                if not script_path.exists():
-                    return False, f"Update script not found: {script_path}"
-            
+                return False, f"Update script not found: {script_path}"
+
             logger.info(f"Running database update: {script_path}")
-            
+
             # Run the update script
             result = subprocess.run(
                 [sys.executable, str(script_path)],
                 capture_output=True,
                 text=True,
-                cwd=script_path.parent.parent  # Run from repo root
+                cwd=self.repo_root  # Run from repo root
             )
-            
+
             if result.returncode == 0:
                 # Reload the index
                 if self.initialize():
@@ -242,6 +239,6 @@ class CardLookupService:
             else:
                 error_msg = result.stderr or "Unknown error"
                 return False, f"Update failed (exit code {result.returncode}): {error_msg[:200]}"
-                
+
         except Exception as e:
             return False, f"Error updating database: {e}"
