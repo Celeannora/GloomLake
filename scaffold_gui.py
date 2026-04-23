@@ -133,9 +133,7 @@ try:
     from scripts.utils.card_lookup import CardLookupService
     from scripts.analysis.card_analysis import analyze_card_data
     CARD_LOOKUP_AVAILABLE = True
-    print("Card lookup modules imported successfully")
 except ImportError as e:
-    print(f"Warning: Card lookup modules not available: {e}")
     CARD_LOOKUP_AVAILABLE = False
     CardLookupService = None
     analyze_card_data = None
@@ -1005,17 +1003,9 @@ class ScaffoldApp(QMainWindow):
         # Card lookup service
         self._card_lookup = None
         if CARD_LOOKUP_AVAILABLE:
-            print("Initializing CardLookupService...")
             self._card_lookup = CardLookupService()
             if not self._card_lookup.initialize():
-                print("CardLookupService initialization failed")
-                self._log_box.appendPlainText("⚠️ Could not initialize card database. Using pattern matching.")
                 self._card_lookup = None
-            else:
-                print("CardLookupService initialized successfully")
-                total_cards = self._card_lookup.db_metadata.get('total_cards', 'unknown')
-                print(f"Database has {total_cards} cards")
-                self._log_box.appendPlainText(f"✓ Card database loaded with {total_cards} cards")
         cw = QWidget(); cw.setObjectName("central")
         self.setCentralWidget(cw)
         root = QVBoxLayout(cw)
@@ -1333,19 +1323,23 @@ class ScaffoldApp(QMainWindow):
             color = WARNING
         else:
             age = self._card_lookup.get_database_age()
+            total_cards = self._card_lookup.db_metadata.get('total_cards', 0)
             if age is None:
-                status = "Database: Loaded"
+                status = f"Database: Loaded ({total_cards} cards)"
                 color = INFO_BLUE
+                # Log successful loading
+                if hasattr(self, '_log_box'):
+                    self._log_box.appendPlainText(f"✓ Card database loaded with {total_cards} cards")
             elif age.days < 7:
-                status = f"Database: {age.days} day{'s' if age.days != 1 else ''} old"
+                status = f"Database: {age.days} day{'s' if age.days != 1 else ''} old ({total_cards} cards)"
                 color = SUCCESS
             elif age.days < 30:
-                status = f"Database: {age.days} days old"
+                status = f"Database: {age.days} days old ({total_cards} cards)"
                 color = WARNING
             else:
                 status = f"Database: {age.days} days old (needs update)"
                 color = ERROR
-        
+
         self.database_status_label.setText(status)
         self.database_status_label.setStyleSheet(f"color: {color};")
 
