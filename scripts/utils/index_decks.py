@@ -243,8 +243,11 @@ def main() -> None:
     decks_dir = paths.decks_dir
 
     if not decks_dir.exists():
-        print(f"ERROR: {RepoPaths.DECKS_DIR_NAME}/ directory not found.", file=sys.stderr)
-        sys.exit(1)
+        print(
+            f"No {RepoPaths.DECKS_DIR_NAME}/ directory found — skipping index generation.",
+            file=sys.stderr,
+        )
+        return
 
     entries = scan_decks(decks_dir)
     output_path = decks_dir / "_INDEX.md"
