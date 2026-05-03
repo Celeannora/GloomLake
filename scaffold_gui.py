@@ -38,7 +38,6 @@ _scripts_dir = Path(__file__).resolve().parent / "scripts"
 _cli_dir = _scripts_dir / "cli"
 sys.path.insert(0, str(_scripts_dir))
 sys.path.insert(0, str(_cli_dir))
-# Also insert utils so direct module imports resolve
 sys.path.insert(0, str(_scripts_dir / "utils"))
 sys.path.insert(0, str(_scripts_dir / "analysis"))
 
@@ -55,15 +54,12 @@ def _import_from_cli(module_name, *names):
     module = importlib.util.module_from_spec(spec)
     sys.modules[module_name] = module
     spec.loader.exec_module(module)
-    imported = []
     for name in names:
         if hasattr(module, name):
             globals()[name] = getattr(module, name)
-            imported.append(name)
         else:
             print(f"Warning: {name} not found in {module_name}")
     globals()[module_name] = module
-    return imported
 
 
 # --- generate_deck_scaffold imports ---
@@ -130,7 +126,6 @@ except ImportError as e:
         )
     except ImportError:
         print(f"Warning: auto_build module not available: {e}")
-        print("Using stubs...")
 
         def auto_build_decklist(*args, **kwargs):
             return (False, "auto_build module not available", [])
@@ -256,7 +251,7 @@ MANA_COLORS = {
 
 
 # ---------------------------------------------------------------------------
-# Game data constants  (kept verbatim from original)
+# Game data constants
 # ---------------------------------------------------------------------------
 ARCHETYPE_GROUPS: dict[str, dict[str, str]] = {
     "Aggro": {
@@ -399,60 +394,18 @@ GUILD_NAMES = {
     frozenset("WUBRG"): "Five-Color",
 }
 
+GUILD_PRESETS: dict[str, str] = {
+    "Azorius": "WU", "Dimir": "UB", "Rakdos": "BR",
+    "Gruul": "RG", "Selesnya": "GW", "Orzhov": "WB",
+    "Izzet": "UR", "Golgari": "BG", "Boros": "RW", "Simic": "UG",
+    "Esper": "WUB", "Jeskai": "WUR", "Bant": "WUG",
+    "Mardu": "WBR", "Abzan": "WBG", "Naya": "WRG",
+    "Grixis": "UBR", "Sultai": "UBG", "Temur": "URG", "Jund": "BRG",
+    "Non-Green": "WUBR", "Non-Red": "WUBG", "Non-Black": "WURG",
+    "Non-Blue": "WBRG", "Non-White": "UBRG",
+    "Five-Color": "WUBRG",
+}
 
-# ---------------------------------------------------------------------------
-# FIX 8: archetype_to_axes — called in _on_synergy but never previously defined
-# ---------------------------------------------------------------------------
-def archetype_to_axes(archetypes: list[str]) -> list[str]:
-    """Map selected archetypes to synergy analysis primary axes."""
-    _MAP: dict[str, list[str]] = {
-        "aggro":        ["haste", "pump", "trample"],
-        "burn":         ["removal", "haste"],
-        "prowess":      ["draw", "pump"],
-        "infect":       ["pump", "trample"],
-        "midrange":     ["removal", "draw"],
-        "tempo":        ["bounce", "counter", "flash"],
-        "blink":        ["etb", "bounce"],
-        "lifegain":     ["lifegain", "draw"],
-        "control":      ["counter", "removal", "wipe", "draw"],
-        "stax":         ["protection"],
-        "superfriends": ["protection", "wipe"],
-        "combo":        ["tutor", "draw"],
-        "storm":        ["draw", "ramp"],
-        "extra_turns":  ["draw", "counter"],
-        "graveyard":    ["mill"],
-        "reanimation":  ["mill", "tutor"],
-        "flashback":    ["mill", "draw"],
-        "madness":      ["draw"],
-        "self_mill":    ["mill"],
-        "opp_mill":     ["mill"],
-        "tokens":       ["pump"],
-        "aristocrats":  ["draw"],
-        "enchantress":  ["draw", "protection"],
-        "equipment":    ["pump"],
-        "artifacts":    ["draw", "ramp"],
-        "vehicles":     ["haste"],
-        "voltron":      ["pump", "protection"],
-        "ramp":         ["ramp", "draw"],
-        "landfall":     ["ramp"],
-        "lands":        ["ramp"],
-        "domain":       ["ramp"],
-        "eldrazi":      ["ramp"],
-        "energy":       ["draw", "pump"],
-        "proliferate":  ["pump"],
-    }
-    axes: set[str] = set()
-    for arch in archetypes:
-        axes.update(_MAP.get(arch, []))
-    return sorted(axes)
-
-
-# ===========================================================================
-# NOTE: The remainder of this file (widgets, MainWindow, etc.) is preserved
-# verbatim from the original scaffold_gui.py. Only the import/path/fix
-# sections above have been changed.
-#
-# To get the full widget code, the original file content from commit
-# df63a7a5c3088a83e5a4984cb8abd20f8ba0d196 should be appended here,
-# starting from the CustomWidgets section onward.
-# ===========================================================================
+# Pure helpers
+# ─────────────────────────────────────────────────────────────────────────────
+@dataclass
