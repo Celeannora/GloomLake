@@ -33,7 +33,7 @@ python scripts/fetch_and_categorize_cards.py
 **GUI mode (recommended)** — launch the graphical scaffold builder:
 
 ```bash
-pip install customtkinter   # one-time dependency
+pip install -e .[gui]   # one-time dependency (PySide6)
 python scaffold_gui.py
 ```
 

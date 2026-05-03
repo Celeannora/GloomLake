@@ -47,7 +47,7 @@ gloomlake/
 │   ├── parser.py
 │   ├── builder.py
 │   └── export.py
-├── gui/                # GUI (customtkinter, not PySide6)
+├── gui/                # GUI (PySide6 — earlier draft incorrectly said customtkinter)
 │   ├── __init__.py
 │   └── main.py
 └── utils/              # Shared utilities
@@ -82,7 +82,7 @@ scripts/               # Primary interface (not legacy)
 - ❌ Untapped.gg meta fetch (designed but not built)
 - ❌ Full SQLite card backend (currently uses CSVs)
 - ❌ Autonomous optimization loop (Karpathy-style)
-- ❌ PySide6 GUI migration (customtkinter used instead)
+- ✅ PySide6 GUI (migration completed; earlier draft used customtkinter)
 
 ---
 
@@ -138,7 +138,7 @@ gloomlake gui                   # Launch GUI
 - [x] Synergy analysis runs in <2s for 60-card deck
 - [ ] Optimization runs autonomously for fixed time budget
 - [x] CLI functional (`python -m gloomlake`)
-- [x] GUI functional (customtkinter)
+- [x] GUI functional (PySide6)
 - [x] Legacy scripts still work (backward compat)
 
 ---
@@ -154,7 +154,7 @@ dependencies = [
     "rich>=13.0.0",
 ]
 optional = [
-    "customtkinter>=5.2",  # GUI (actually used, not PySide6)
+    "PySide6>=6.5.0",      # GUI (current — earlier draft listed customtkinter)
     "pytest>=7.0.0",     # Testing
 ]
 

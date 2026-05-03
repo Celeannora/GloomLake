@@ -223,7 +223,7 @@ A graphical desktop interface for `generate_deck_scaffold.py`. Same wizard flow,
 
 **Install the GUI dependency first (one-time):**
 ```bash
-pip install customtkinter
+pip install -e .[gui]   # installs PySide6
 ```
 
 **Launch:**

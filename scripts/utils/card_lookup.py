@@ -131,11 +131,24 @@ class CardLookupService:
             logger.debug(f"CardLookupService: {card_name} not found in index")
             return None
 
-        # Load from CSV file
+        # Load from CSV file.
+        # The index stores ``file`` as a path relative to ``base_path`` (the
+        # directory holding ``card_index.json``). Anchoring to ``base_path``
+        # rather than ``repo_root`` makes the lookup work both for the real
+        # database (base_path = repo/assets/data/local_db, CSVs are siblings)
+        # and for tests that pass a ``tmp_path`` with the index + CSVs in it.
         card_info = self.index["cards"][key]
-        # card_info["file"] is a path relative to repo root
-        csv_path = self.repo_root / card_info["file"]
-        logger.debug(f"CardLookupService: Looking for {card_name} in {csv_path} (repo root: {self.repo_root})")
+        rel_file = card_info["file"]
+        candidates = [
+            self.base_path / rel_file,
+            self.repo_root / rel_file,            # legacy layout
+            self.base_path.parent / rel_file,     # legacy layout
+        ]
+        csv_path = next((p for p in candidates if p.exists()), candidates[0])
+        logger.debug(
+            f"CardLookupService: Looking for {card_name} in {csv_path} "
+            f"(base_path: {self.base_path}, repo root: {self.repo_root})"
+        )
 
         card_data = self._load_from_csv(csv_path, card_info["name"])
 

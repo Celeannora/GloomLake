@@ -3,23 +3,31 @@ name: Validate Decklists
 on:
   push:
     paths:
-      - 'cards_by_category/**'   # re-validate if card database changes
-      - 'scripts/validate_decklist.py'
-      - 'scripts/mtg_utils.py'
+      - 'cards_by_category/**'                  # re-validate if card database changes
+      - 'scripts/utils/validate_decklist.py'
+      - 'scripts/utils/mtg_utils.py'
       - 'Decks/**/decklist.txt'
       - 'Decks/**/analysis.md'
-      - 'scripts/synergy_analysis.py'
-      - 'scripts/search_cards.py'
+      - 'scripts/analysis/synergy_analysis.py'
+      - 'scripts/cli/search_cards.py'
+      - 'scaffold_gui.py'
+      - 'tests/**'
+      - 'pyproject.toml'
+      - 'requirements.txt'
   pull_request:
     paths:
       - 'cards_by_category/**'
-      - 'scripts/validate_decklist.py'
-      - 'scripts/mtg_utils.py'
+      - 'scripts/utils/validate_decklist.py'
+      - 'scripts/utils/mtg_utils.py'
       - 'Decks/**/decklist.txt'
       - 'Decks/**/analysis.md'
-      - 'scripts/synergy_analysis.py'
-      - 'scripts/search_cards.py'
-  workflow_dispatch:              # allow manual trigger
+      - 'scripts/analysis/synergy_analysis.py'
+      - 'scripts/cli/search_cards.py'
+      - 'scaffold_gui.py'
+      - 'tests/**'
+      - 'pyproject.toml'
+      - 'requirements.txt'
+  workflow_dispatch:                            # allow manual trigger
 
 permissions:
   contents: write
@@ -39,7 +47,9 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: |
+          pip install -r requirements.txt
+          pip install pytest
 
       - name: Find and validate all decklists
         run: |
@@ -52,7 +62,7 @@ jobs:
           FAIL=0
           for f in $FOUND; do
             echo "--- Validating $f ---"
-            python scripts/validate_decklist.py --quiet "$f" || FAIL=1
+            python scripts/utils/validate_decklist.py --quiet "$f" || FAIL=1
           done
           if [ $FAIL -ne 0 ]; then
             echo "One or more decklists failed validation."
@@ -61,7 +71,7 @@ jobs:
           echo "All decklists passed validation."
 
       - name: Regenerate deck index
-        run: python scripts/index_decks.py
+        run: python scripts/utils/index_decks.py
 
       - name: Commit updated deck index (if changed)
         if: github.event_name == 'push'
@@ -105,11 +115,63 @@ jobs:
               continue
             fi
             echo "--- Synergy gate: $f ---"
-            python scripts/synergy_analysis.py "$f" --mode deck --format decklist || FAIL=1
+            python scripts/analysis/synergy_analysis.py "$f" --mode deck --format decklist || FAIL=1
           done
           if [ $FAIL -ne 0 ]; then
             echo "One or more decks failed Gate 2.5 synergy thresholds."
-            echo "Run: python scripts/synergy_analysis.py <decklist.txt> --mode deck"
+            echo "Run: python scripts/analysis/synergy_analysis.py <decklist.txt> --mode deck"
             exit 1
           fi
           echo "All completed decks passed Gate 2.5 synergy check."
+
+  smoke-and-tests:
+    runs-on: ubuntu-latest
+    name: GUI smoke + pytest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Qt runtime system libraries
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends \
+            libegl1 \
+            libgl1 \
+            libxkbcommon0 \
+            libxkbcommon-x11-0 \
+            libdbus-1-3 \
+            libfontconfig1 \
+            libxcb-cursor0 \
+            libxcb-icccm4 \
+            libxcb-image0 \
+            libxcb-keysyms1 \
+            libxcb-randr0 \
+            libxcb-render-util0 \
+            libxcb-shape0 \
+            libxcb-sync1 \
+            libxcb-xfixes0 \
+            libxcb-xkb1 \
+            libxcb-render0 \
+            libxcb-shm0
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          pip install -e .[gui] || pip install PySide6
+          pip install pytest
+
+      - name: Smoke test — scaffold_gui.main exists and is callable
+        env:
+          QT_QPA_PLATFORM: offscreen
+        run: |
+          python -c "import scaffold_gui; assert callable(scaffold_gui.main), 'scaffold_gui.main missing or not callable'; print('scaffold_gui.main OK')"
+
+      - name: Run pytest
+        env:
+          QT_QPA_PLATFORM: offscreen
+        run: pytest -q
