@@ -1,4 +1,4 @@
-﻿[project]
+[project]
 name = "gloomlake"
 version = "0.2.0"
 description = "MTG Deck Building Analysis Platform with competitive meta integration"
@@ -15,8 +15,9 @@ dependencies = [
 ]
 
 [project.optional-dependencies]
+# Fix 10: corrected from customtkinter (wrong framework) to PySide6
 gui = [
-  "customtkinter>=5.2",
+  "PySide6>=6.5.0",
 ]
 dev = [
   "pytest>=7.0.0",
