@@ -13,7 +13,7 @@ GloomLake is an AI-assisted Magic: The Gathering deck builder with exhaustive va
 ### GUI (recommended)
 
 ```bash
-pip install customtkinter
+pip install -e .[gui]
 python scaffold_gui.py
 ```
 
